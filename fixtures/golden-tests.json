@@ -7,25 +7,25 @@
     {
       "id": "dk-001",
       "category": "article_retrieval",
-      "description": "Retrieve provision from Grundloven (Constitution, LOV nr 169 af 05/06/1953)",
+      "description": "Retrieve provision from Adresseloven (2017:136)",
       "tool": "get_provision",
-      "input": { "document_id": "169/1953", "section": "1" },
-      "assertions": { "result_not_empty": true, "fields_present": ["results"] }
+      "input": { "document_id": "2017:136", "chapter": "1", "section": "1" },
+      "assertions": { "result_not_empty": true, "fields_present": ["results"], "text_contains": ["landsdækkende"] }
     },
     {
       "id": "dk-002",
       "category": "article_retrieval",
-      "description": "Retrieve provision from Databeskyttelsesloven (Data Protection Act)",
+      "description": "Retrieve provision from Lov om retshåndhævende myndigheders behandling af personoplysninger (2017:410)",
       "tool": "get_provision",
-      "input": { "document_id": "502/2018", "section": "1" },
-      "assertions": { "result_not_empty": true, "fields_present": ["results"] }
+      "input": { "document_id": "2017:410", "chapter": "1", "section": "1" },
+      "assertions": { "result_not_empty": true, "fields_present": ["results"], "text_contains": ["personoplysning"] }
     },
     {
       "id": "dk-003",
       "category": "article_retrieval",
-      "description": "Retrieve all provisions of Grundloven",
+      "description": "Retrieve all provisions of Adresseloven (2017:136)",
       "tool": "get_provision",
-      "input": { "document_id": "169/1953" },
+      "input": { "document_id": "2017:136" },
       "assertions": { "result_not_empty": true, "min_results": 5 }
     },
     {
@@ -49,7 +49,7 @@
       "category": "citation_roundtrip",
       "description": "Validate a Danish legal citation",
       "tool": "validate_citation",
-      "input": { "citation": "169/1953 § 1" },
+      "input": { "citation": "2017:136 § 1" },
       "assertions": { "result_not_empty": true }
     },
     {
@@ -57,15 +57,15 @@
       "category": "citation_roundtrip",
       "description": "Format citation returns standard Danish format",
       "tool": "format_citation",
-      "input": { "citation": "169/1953 § 3" },
+      "input": { "citation": "2017:136 § 3" },
       "assertions": { "result_not_empty": true }
     },
     {
       "id": "dk-008",
       "category": "currency",
-      "description": "Check currency of Grundloven",
+      "description": "Check currency of Adresseloven",
       "tool": "check_currency",
-      "input": { "document_id": "169/1953" },
+      "input": { "document_id": "2017:136" },
       "assertions": { "result_not_empty": true }
     },
     {
@@ -73,7 +73,7 @@
       "category": "eu_cross_reference",
       "description": "EU basis lookup for Databeskyttelsesloven returns GDPR references",
       "tool": "get_eu_basis",
-      "input": { "document_id": "502/2018" },
+      "input": { "document_id": "2018:502" },
       "assertions": { "result_not_empty": true }
     },
     {

@@ -1,32 +1,13 @@
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import { createHash } from 'node:crypto';
-import { readFileSync } from 'node:fs';
+import { readFileSync, rmdirSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { Client } from '@modelcontextprotocol/sdk/client/index.js';
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { InMemoryTransport } from '@modelcontextprotocol/sdk/inMemory.js';
-import {
-  CallToolRequestSchema,
-  ListToolsRequestSchema,
-} from '@modelcontextprotocol/sdk/types.js';
 import Database from '@ansvar/mcp-sqlite';
-
-// Import tool functions
-import { searchLegislation } from '../../src/tools/search-legislation.js';
-import { getProvision } from '../../src/tools/get-provision.js';
-import { searchCaseLaw } from '../../src/tools/search-case-law.js';
-import { getPreparatoryWorks } from '../../src/tools/get-preparatory-works.js';
-import { validateCitationTool } from '../../src/tools/validate-citation.js';
-import { buildLegalStance } from '../../src/tools/build-legal-stance.js';
-import { formatCitationTool } from '../../src/tools/format-citation.js';
-import { checkCurrency } from '../../src/tools/check-currency.js';
-import { getEUBasis } from '../../src/tools/get-eu-basis.js';
-import { getDanishImplementations } from '../../src/tools/get-danish-implementations.js';
-import { searchEUImplementations } from '../../src/tools/search-eu-implementations.js';
-import { getProvisionEUBasis } from '../../src/tools/get-provision-eu-basis.js';
-import { validateEUCompliance } from '../../src/tools/validate-eu-compliance.js';
-import { getAbout } from '../../src/tools/about.js';
+import { registerTools } from '../../src/tools/registry.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -155,99 +136,32 @@ const isNightly = process.env['CONTRACT_MODE'] === 'nightly';
 let mcpClient: Client;
 let db: InstanceType<typeof Database>;
 
-beforeAll(async () => {
-  const dbPath =
-    process.env['DANISH_LAW_DB_PATH'] ?? join(__dirname, '..', '..', 'data', 'database.db');
-  db = new Database(dbPath, { readonly: true });
-  db.pragma('foreign_keys = ON');
+describe(`Contract tests: ${fixture.mcp_name}`, () => {
+  beforeAll(async () => {
+    const dbPath =
+      process.env['DANISH_LAW_DB_PATH'] ?? join(__dirname, '..', '..', 'data', 'database.db');
+    // Clean up stale lock dir and WAL files (WASM SQLite can't handle WAL mode)
+    try { rmdirSync(dbPath + '.lock'); } catch { /* ignore */ }
+    try { rmSync(dbPath + '-wal', { force: true }); } catch { /* ignore */ }
+    try { rmSync(dbPath + '-shm', { force: true }); } catch { /* ignore */ }
+    db = new Database(dbPath, { readonly: true });
 
-  const server = new Server(
-    { name: 'danish-law-test', version: '0.0.0' },
-    { capabilities: { tools: {} } },
-  );
+    const server = new Server(
+      { name: 'danish-law-test', version: '0.0.0' },
+      { capabilities: { tools: {} } },
+    );
+    registerTools(server, db);
 
-  // Register tools matching src/index.ts switch-case
-  server.setRequestHandler(ListToolsRequestSchema, async () => ({ tools: [] }));
-  server.setRequestHandler(CallToolRequestSchema, async (request) => {
-    const { name, arguments: args } = request.params;
-    try {
-      let result: unknown;
-      switch (name) {
-        case 'search_legislation':
-          result = await searchLegislation(db, args as never);
-          break;
-        case 'get_provision':
-          result = await getProvision(db, args as never);
-          break;
-        case 'search_case_law':
-          result = await searchCaseLaw(db, args as never);
-          break;
-        case 'get_preparatory_works':
-          result = await getPreparatoryWorks(db, args as never);
-          break;
-        case 'validate_citation':
-          result = await validateCitationTool(db, args as never);
-          break;
-        case 'build_legal_stance':
-          result = await buildLegalStance(db, args as never);
-          break;
-        case 'format_citation':
-          result = await formatCitationTool(args as never);
-          break;
-        case 'check_currency':
-          result = await checkCurrency(db, args as never);
-          break;
-        case 'get_eu_basis':
-          result = await getEUBasis(db, args as never);
-          break;
-        case 'get_danish_implementations':
-          result = await getDanishImplementations(db, args as never);
-          break;
-        case 'search_eu_implementations':
-          result = await searchEUImplementations(db, args as never);
-          break;
-        case 'get_provision_eu_basis':
-          result = await getProvisionEUBasis(db, args as never);
-          break;
-        case 'validate_eu_compliance':
-          result = await validateEUCompliance(db, args as never);
-          break;
-        case 'about':
-          result = getAbout(db, { version: '0.0.0', fingerprint: 'test', dbBuilt: new Date().toISOString() });
-          break;
-        default:
-          return {
-            content: [{ type: 'text' as const, text: `Error: Unknown tool "${name}".` }],
-            isError: true,
-          };
-      }
-      return {
-        content: [{ type: 'text' as const, text: JSON.stringify(result, null, 2) }],
-      };
-    } catch (error) {
-      const message = error instanceof Error ? error.message : String(error);
-      return {
-        content: [{ type: 'text' as const, text: `Error: ${name}: ${message}` }],
-        isError: true,
-      };
-    }
+    mcpClient = new Client({ name: 'test-client', version: '0.0.0' }, { capabilities: {} });
+    const [clientTransport, serverTransport] = InMemoryTransport.createLinkedPair();
+    await server.connect(serverTransport);
+    await mcpClient.connect(clientTransport);
+  }, 30_000);
+
+  afterAll(() => {
+    db?.close();
   });
 
-  mcpClient = new Client({ name: 'test-client', version: '0.0.0' }, { capabilities: {} });
-  const [clientTransport, serverTransport] = InMemoryTransport.createLinkedPair();
-  await mcpClient.connect(clientTransport);
-  await server.connect(serverTransport);
-});
-
-afterAll(() => {
-  db?.close();
-});
-
-// ---------------------------------------------------------------------------
-// Contract test runner
-// ---------------------------------------------------------------------------
-
-describe(`Contract tests: ${fixture.mcp_name}`, () => {
   for (const test of fixture.tests) {
     describe(`[${test.id}] ${test.description}`, () => {
       let result: ToolResult;
