@@ -1,0 +1,119 @@
+{
+  "id": "2024:205",
+  "type": "statute",
+  "title": "Bekendtgørelse om krav til virksomheders digitale bogføringssystemer der ikke er registreret efter bogføringsloven",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2024-02-29",
+  "url": "https://www.retsinformation.dk/eli/lta/2024/205/xml",
+  "description": "Retsinformation source. DocumentId=CQ002791; AccessionNumber=B20240020505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse gælder for virksomheder, som er omfattet af bogføringslovens § 16, stk. 1, og som anvender et digitalt bogføringssystem efter bogføringslovens § 16, stk. 2, nr. 2, jf. dog stk. 2 og 3. Stk. 2. Denne bekendtgørelse finder alene anvendelse på funktioner, der vedrører virksomhedens bogføring og automatisering heraf, som et digitalt bogføringssystem efter bogføringsloven og denne bekendtgørelse skal understøtte, og ikke på øvrige funktioner, som indgår i den pågældende digitale service eller software, herunder i form af moduler, udvidelser og applikationer. Stk. 3. Denne bekendtgørelse finder ikke anvendelse på andre digitale systemer, som virksomheden anvender, også selvom systemet leverer data til virksomhedens digitale bogføringssystem, jf. § 2, stk. 1."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Ved et digitalt bogføringssystem forstås i denne bekendtgørelse programmer, digitale services eller software, herunder i form af moduler, udvidelser og applikationer, som virksomheden anvender til bogføring af transaktioner og opbevaring af bogførte transaktioner og bilag samt automatiseringer af de processer, som et digitalt bogføringssystem efter denne bekendtgørelse skal understøtte. Stk. 2. Ved bogført transaktion forstås i denne bekendtgørelse registreringer omfattet af bogføringslovens § 7, stk. 1. Stk. 3. Ved bilag forstås i denne bekendtgørelse dokumentation for en bogført transaktion, jf. bekendtgørelse nr. 1383 af 29. november 2023 om pligt til opbevaring af bilag i et digitalt bogføringssystem. Stk. 4. En nærtstående part defineres i overensstemmelse med definitionen i den internationale regnskabsstandard IAS 24, således som denne er vedtaget af Kommissionen i overensstemmelse med Europa-Parlamentets og Rådets forordning nr. 1606/2002 af 19. juli 2002 om anvendelse af internationale regnskabsstandarder, samt efterfølgende ændringer i definitionen, som vedtages af Kommissionen i overensstemmelse med den nævnte forordning."
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Virksomheden skal sikre, at dets digitale bogføringssystem indeholder felter til brug for følgende forhold ved bogføring af hver enkelt transaktion: 1) Transaktionsdato (f.eks. betalingsdato, købsdato osv.). 2) Beløb. 3) Bilagsnummer. 4) Transaktionstekst. 5) Transaktionsdagens kurs eller anden omregningsfaktor, hvis registreringen foretages i andet end DKK. Stk. 2. Virksomheden skal sikre, at dets digitale bogføringssystem tildeler hver bogført transaktion følgende oplysninger: 1) Registreringsdato. 2) Fortløbende transaktionsnummer eller -id. 3) Initialer eller lignende på den person eller det program m.fl., der har bogført en transaktion. Stk. 3. Virksomheden skal sikre, at dets digitale bogføringssystem gemmer ændringer til bogføringen, f.eks. ved at fejlposteringer rettes ved nye posteringer, og sikre, at brugerne ikke kan ændre, tilbagedatere eller slette bogførte transaktioner i systemet. Stk. 4. Virksomheden skal sikre, at dets digitale bogføringssystem kan opbevare dokumentation for en bogført transaktion vedrørende køb eller salg, som indeholder følgende oplysninger: 1) Udstedelsesdato. 2) Leverancens art. 3) Beløb. 4) Afsender og modtager, herunder navn, adresse, samt CVR-nummer eller SE-nummer. 5) Oplysning om momsbeløbets størrelse. 6) Betalingsoplysninger. Stk. 5. Stk. 4 finder ikke anvendelse på kassestrimler fra et salgsregistreringssystem. Stk. 6. Stk. 4 finder endvidere ikke anvendelse på dokumentation for bogførte transaktioner, som alene foreligger i fysisk form, og som modtages vedrørende køb eller salg af varer og tjenesteydelser uden for landets grænser."
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Virksomheden skal mindst ugentligt tage sikkerhedskopi af alle bogførte transaktioner og bilag omfattet af § 2, stk. 2 (fuld sikkerhedskopi), medmindre der ikke er bogført noget siden seneste sikkerhedskopi. Stk. 2. Virksomheden skal opbevare sikkerhedskopien efter stk. 1 hos en ikke nærtstående part, jf. § 2, stk. 4, som må formodes at opfylde anerkendte standarder for it-sikkerhed, på en server i et EU- eller EØS-land, jf. dog stk. 3. Stk. 3. Stk. 2 finder ikke anvendelse for virksomheder, som er underlagt krav til opbevaring af sikkerhedskopier i anden lovgivning."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Virksomheden skal sikre, at dets digitale bogføringssystem 1) via Nemhandel i OIOUBL-format automatisk kan fremsende og modtage elektronisk faktura og kreditnota samt kan afsende et application response ved modtagelsen af en elektronisk faktura efter den gældende standard, som er offentliggjort på Erhvervsstyrelsens hjemmeside www.erst.dk, 2) i Peppol BIS-format automatisk kan fremsende og modtage elektronisk faktura og kreditnota samt kan afsende message level response og invoice response ved modtagelse af en elektronisk faktura efter den gældende standard, som er offentliggjort på Erhvervsstyrelsens hjemmeside www.erst.dk, 3) understøtter deling af data ved at gøre det muligt at generere en SAF-T-fil, som er defineret af Erhvervsstyrelsen, efter den gældende standard, som er offentliggjort på Erhvervsstyrelsens hjemmeside www.erst.dk, 4) understøtter afstemning af virksomhedens bogføring med virksomhedens bankkonto, jf. dog stk. 2, og 5) tydeligt fremhæver differencer, hvis en postering ikke er afstemt med virksomhedens bankkonto, jf. dog stk. 2. Stk. 2. Stk. 1, nr. 4 og 5, finder ikke anvendelse for kreditinstitutter."
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Overtrædelse af §§ 3-5 straffes med bøde."
+    },
+    {
+      "provision_ref": "4:7",
+      "chapter": "4",
+      "section": "7",
+      "content": "§ 7. Bekendtgørelsen træder i kraft den 1. januar 2025."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse gælder for virksomheder, som er omfattet af bogføringslovens § 16, stk. 1, og som anvender et digitalt bogføringssystem efter bogføringslovens § 16, stk. 2, nr. 2, jf. dog stk. 2 og 3. Stk. 2. Denne bekendtgørelse finder alene anvendelse på funktioner, der vedrører virksomhedens bogføring og automatisering heraf, som et digitalt bogføringssystem efter bogføringsloven og denne bekendtgørelse skal understøtte, og ikke på øvrige funktioner, som indgår i den pågældende digitale service eller software, herunder i form af moduler, udvidelser og applikationer. Stk. 3. Denne bekendtgørelse finder ikke anvendelse på andre digitale systemer, som virksomheden anvender, også selvom systemet leverer data til virksomhedens digitale bogføringssystem, jf. § 2, stk. 1.",
+      "valid_from": "2024-02-29",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Ved et digitalt bogføringssystem forstås i denne bekendtgørelse programmer, digitale services eller software, herunder i form af moduler, udvidelser og applikationer, som virksomheden anvender til bogføring af transaktioner og opbevaring af bogførte transaktioner og bilag samt automatiseringer af de processer, som et digitalt bogføringssystem efter denne bekendtgørelse skal understøtte. Stk. 2. Ved bogført transaktion forstås i denne bekendtgørelse registreringer omfattet af bogføringslovens § 7, stk. 1. Stk. 3. Ved bilag forstås i denne bekendtgørelse dokumentation for en bogført transaktion, jf. bekendtgørelse nr. 1383 af 29. november 2023 om pligt til opbevaring af bilag i et digitalt bogføringssystem. Stk. 4. En nærtstående part defineres i overensstemmelse med definitionen i den internationale regnskabsstandard IAS 24, således som denne er vedtaget af Kommissionen i overensstemmelse med Europa-Parlamentets og Rådets forordning nr. 1606/2002 af 19. juli 2002 om anvendelse af internationale regnskabsstandarder, samt efterfølgende ændringer i definitionen, som vedtages af Kommissionen i overensstemmelse med den nævnte forordning.",
+      "valid_from": "2024-02-29",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Virksomheden skal sikre, at dets digitale bogføringssystem indeholder felter til brug for følgende forhold ved bogføring af hver enkelt transaktion: 1) Transaktionsdato (f.eks. betalingsdato, købsdato osv.). 2) Beløb. 3) Bilagsnummer. 4) Transaktionstekst. 5) Transaktionsdagens kurs eller anden omregningsfaktor, hvis registreringen foretages i andet end DKK. Stk. 2. Virksomheden skal sikre, at dets digitale bogføringssystem tildeler hver bogført transaktion følgende oplysninger: 1) Registreringsdato. 2) Fortløbende transaktionsnummer eller -id. 3) Initialer eller lignende på den person eller det program m.fl., der har bogført en transaktion. Stk. 3. Virksomheden skal sikre, at dets digitale bogføringssystem gemmer ændringer til bogføringen, f.eks. ved at fejlposteringer rettes ved nye posteringer, og sikre, at brugerne ikke kan ændre, tilbagedatere eller slette bogførte transaktioner i systemet. Stk. 4. Virksomheden skal sikre, at dets digitale bogføringssystem kan opbevare dokumentation for en bogført transaktion vedrørende køb eller salg, som indeholder følgende oplysninger: 1) Udstedelsesdato. 2) Leverancens art. 3) Beløb. 4) Afsender og modtager, herunder navn, adresse, samt CVR-nummer eller SE-nummer. 5) Oplysning om momsbeløbets størrelse. 6) Betalingsoplysninger. Stk. 5. Stk. 4 finder ikke anvendelse på kassestrimler fra et salgsregistreringssystem. Stk. 6. Stk. 4 finder endvidere ikke anvendelse på dokumentation for bogførte transaktioner, som alene foreligger i fysisk form, og som modtages vedrørende køb eller salg af varer og tjenesteydelser uden for landets grænser.",
+      "valid_from": "2024-02-29",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Virksomheden skal mindst ugentligt tage sikkerhedskopi af alle bogførte transaktioner og bilag omfattet af § 2, stk. 2 (fuld sikkerhedskopi), medmindre der ikke er bogført noget siden seneste sikkerhedskopi. Stk. 2. Virksomheden skal opbevare sikkerhedskopien efter stk. 1 hos en ikke nærtstående part, jf. § 2, stk. 4, som må formodes at opfylde anerkendte standarder for it-sikkerhed, på en server i et EU- eller EØS-land, jf. dog stk. 3. Stk. 3. Stk. 2 finder ikke anvendelse for virksomheder, som er underlagt krav til opbevaring af sikkerhedskopier i anden lovgivning.",
+      "valid_from": "2024-02-29",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Virksomheden skal sikre, at dets digitale bogføringssystem 1) via Nemhandel i OIOUBL-format automatisk kan fremsende og modtage elektronisk faktura og kreditnota samt kan afsende et application response ved modtagelsen af en elektronisk faktura efter den gældende standard, som er offentliggjort på Erhvervsstyrelsens hjemmeside www.erst.dk, 2) i Peppol BIS-format automatisk kan fremsende og modtage elektronisk faktura og kreditnota samt kan afsende message level response og invoice response ved modtagelse af en elektronisk faktura efter den gældende standard, som er offentliggjort på Erhvervsstyrelsens hjemmeside www.erst.dk, 3) understøtter deling af data ved at gøre det muligt at generere en SAF-T-fil, som er defineret af Erhvervsstyrelsen, efter den gældende standard, som er offentliggjort på Erhvervsstyrelsens hjemmeside www.erst.dk, 4) understøtter afstemning af virksomhedens bogføring med virksomhedens bankkonto, jf. dog stk. 2, og 5) tydeligt fremhæver differencer, hvis en postering ikke er afstemt med virksomhedens bankkonto, jf. dog stk. 2. Stk. 2. Stk. 1, nr. 4 og 5, finder ikke anvendelse for kreditinstitutter.",
+      "valid_from": "2024-02-29",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Overtrædelse af §§ 3-5 straffes med bøde.",
+      "valid_from": "2024-02-29",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:7",
+      "chapter": "4",
+      "section": "7",
+      "content": "§ 7. Bekendtgørelsen træder i kraft den 1. januar 2025.",
+      "valid_from": "2024-02-29",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "et digitalt bogføringssystem",
+      "definition": "i denne bekendtgørelse programmer, digitale services eller software, herunder i form af moduler, udvidelser og applikationer, som virksomheden anvender til bogføring af transaktioner og opbevaring af bogførte transaktioner og bilag samt automatiseringer af de processer, som et digitalt bogføringssystem efter denne bekendtgørelse skal understøtte",
+      "source_provision": "1:2"
+    }
+  ]
+}

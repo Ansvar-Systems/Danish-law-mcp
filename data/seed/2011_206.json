@@ -1,0 +1,217 @@
+{
+  "id": "2011:206",
+  "type": "statute",
+  "title": "Bekendtgørelse om elektronisk afregning med offentlige myndigheder",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2011-03-11",
+  "url": "https://www.retsinformation.dk/eli/lta/2011/206/xml",
+  "description": "Retsinformation source. DocumentId=AE001651; AccessionNumber=B20110020605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Offentlige myndigheder skal udarbejde og sende regninger elektronisk. Stk. 2. Bestemmelsen i stk. 1 gælder ikke 1) for afregning af kontante indbetalinger for udstedelse af erklæringer, godkendelser, legitimationspapirer, udlevering af effekter, behandling af klager m.v., 2) såfremt det er enklere eller billigere at udarbejde og sende regninger på papir, eller 3) såfremt modtageren af regningen ikke kan modtage denne elektronisk, eller modtageren ønsker at modtage regningen på papir."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Offentlige myndigheder skal stille krav om, at betaling af elektroniske regninger sker således, at betalingen modtages elektronisk. Myndigheden skal med henblik herpå anvise en fremgangsmåde for betaling af regningen, f.eks. ved anvendelse af konto til konto-overførsel, et medfølgende elektronisk eller papirbaseret indbetalingskort eller tilmelding til et system til betaling med automatisk træk. Stk. 2. Myndigheden kan stille krav om, at fysiske eller juridiske personer skal være tilmeldt et system til betaling med automatisk træk for at modtage en given vare eller tjenesteydelse."
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Ved afgivelse af en ordre eller rekvisition skal offentlige myndigheder som minimum oplyse følgende: 1) Myndighedens EAN-lokationsnummer. 2) Referenceperson eller anden reference samt et evt. ordre- og rekvisitionsnummer. 3) Myndighedens politik vedr. kredittid, dvs. hvilke kredittider myndigheden normalt accepterer. Stk. 2. Myndigheden kan endvidere oplyse sin kontostreng."
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. En regning til en offentlig myndighed skal referere myndighedens oplysninger efter § 3, stk. 1, nr. 1 og 2. Stk. 2. Kreditor ifølge en regning kan kun omfatte ét CVR-nummer. Stk. 3. Det skal fremgå af regningen, hvis den alene vedrører en del af en ordre, rekvisition, faktura, kreditnota mv. Stk. 4. En regning fra en offentlig myndighed til en anden skal så vidt muligt udformes i overensstemmelse med reglerne om fakturakrav i momsbekendtgørelsen, selv om regningen ikke er omfattet af momsbekendtgørelsen."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Regninger til offentlige myndigheder skal sendes, så de modtages elektronisk i et format, der er læseligt for den offentlige myndighed og umiddelbart kan indlæses i myndighedens fakturahåndterings- eller økonomisystem. Fysiske og juridiske personer, der ikke har mulighed for at fremsende regninger elektronisk fra eget faktureringssystem, kan fremsende regninger via udfyldelse af en fakturaskabelon. Stk. 2. Offentlige myndigheder skal kunne modtage regninger udarbejdet i overensstemmelse med bekendtgørelse om information i og transport af OIOUBL elektronisk regning til brug for elektronisk afregning med offentlige myndigheder. Stk. 3. Hvis den offentlige myndighed har afgivet ordren, rekvisitionen eller bekræftelsen herpå i et elektronisk system, som giver adgang til returnering som regning, kan myndigheden stille krav om, at afsenderen anvender det pågældende elektroniske system til fremsendelse af regningen. Kravet skal fremsættes skriftligt senest på ordre- eller rekvisitionstidspunktet."
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. En regning fra en leverandør anses for modtaget af den offentlige myndighed, når regningen er tilgængelig for indlæsning i myndighedens fakturahåndterings- eller økonomisystem. Stk. 2. En offentlig myndighed kan udskyde betalingen af en regning, der ikke opfylder kravene i §§ 4 og 5. Myndigheden skal så hurtigt som muligt underrette leverandøren om, at regningen ikke kan betales, før der er modtaget en regning, der opfylder de nævnte krav i §§ 4 og 5. Stk. 3. Betalingen skal søges gennemført inden for den oprindeligt fastsatte kredittid udtrykt i dage, når myndigheden modtager en regning, der opfylder kravene i §§ 4 og 5."
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Offentlige myndigheder skal benytte den fælles offentlige serviceorienterede infrastruktur (OIORASP) eller have en aftale med en VANS-netværksudbyder, jf. § 8, så myndigheden kan sende og modtage regninger elektronisk."
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. En VANS-netværksudbyder er en netværksudbyder, der har aftale om udveksling af data baseret på EAN-lokationsnumre med andre netværksudbydere. VANS-netværksudbyderens kvalitetsstyringssystem vedrørende hele håndteringsprocessen skal være certificeret af en virksomhed, der er akkrediteret dertil af Den Danske Akkrediterings- og Metro­logifond (DANAK) eller af et tilsvarende akkrediteringsorgan, som er medunderskriver af den multilaterale aftale om gensidig anerkendelse under Sammenslutningen af Europæiske Nationale Akkrediteringsorganer, European co-operation for Accreditation (EA)."
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Indgås aftale med en VANS-leverandør, skal aftalen sikre overholdelse af de for myndigheden til enhver tid gældende regler for regnskabsførelse og udbetalingskontrol, herunder bogførings- og momsreglerne m.v. Stk. 2. Aftalen med VANS-netværksudbyderen skal sikre opfyldelsen af de forpligtelser, der følger af lov om behandling af personoplysninger (persondataloven), herunder at VANS-netværksudbyderen skal overholde persondatalovens § 41, stk. 3-5, og regler udstedt i medfør af persondatalovens § 41, stk. 5, når VANS-netværksudbyderen modtager oplysninger fra myndigheden. Stk. 3. Aftalen skal sikre, at følgende er opfyldt: 1) Der skal være mindst én sikker kommunikationsforbindelse mellem netværksudbyderen og myndigheden. 2) Der skal være ét elektronisk knudepunkt (»en postkasse«) pr. EAN-lokationsnummer, som myndigheden har valgt at tage i brug. Stk. 4. Aftalen skal sikre håndtering af regninger, der ikke kan indlæses i myndighedens fakturahåndterings- eller økonomisystem. Aftalen med VANS-netværksudbyderen skal desuden omfatte: 1) Angivelse af en eller flere relevante mailbokse som afleveringssted tilknyttet EAN-lokationsnumre. 2) Service fra VANS-netværksudbyderen vedrørende konvertering af regningen (uden Tiff-fil) til relevant format, der er læseligt for myndigheden."
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "§ 10. EAN-lokationsnumrene må kun anvendes til formål omfattet af lov om offentlige betalinger og de i medfør heraf udstedte bekendtgørelser. En offentlig myndighed skal løbende ajourføre en oversigt over EAN-lokationsnumre og skal udlevere oversigten til Økonomistyrelsen på forlangende."
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. EAN-lokationsnumrene skal senest på den dato, som er angivet i § 3 i bekendtgørelse om information i og transport af OIOUBL elektronisk regning til brug for elektronisk afregning med offentlige myndigheder, registreres i det fællesoffentlige webservicekatalog for e-handel, NemHandelsregistret."
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Ved offentlige myndigheder forstås institutioner mv., der er omfattet af lov om offentlige betalinger. Stk. 2. Vedkommende minister kan efter forhandling med finansministeren undtage institutioner mv., der er omfattet af lovens § 12, stk. 3, fra bekendtgørelsen. Stk. 3. Vedkommende kommune eller region kan undtage selvejende institutioner, som kommunen eller regionen har indgået driftsoverenskomst med, fra bekendtgørelsen."
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "content": "§ 13. Finansministeren kan dispensere fra bestemmelserne i denne bekendtgørelse."
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "content": "§ 14. Bekendtgørelsen træder i kraft den 17. marts 2011. Stk. 2. Bekendtgørelse nr. 991 af 7. oktober 2004 om elektronisk afregning med offentlige myndigheder ophæves. Stk. 3. Cirkulære nr. 104 af 23. november 2004 om tildeling og håndtering af EAN-lokationsnumre og tilmelding til VANS-netværksudbyder ophæves."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Offentlige myndigheder skal udarbejde og sende regninger elektronisk. Stk. 2. Bestemmelsen i stk. 1 gælder ikke 1) for afregning af kontante indbetalinger for udstedelse af erklæringer, godkendelser, legitimationspapirer, udlevering af effekter, behandling af klager m.v., 2) såfremt det er enklere eller billigere at udarbejde og sende regninger på papir, eller 3) såfremt modtageren af regningen ikke kan modtage denne elektronisk, eller modtageren ønsker at modtage regningen på papir.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Offentlige myndigheder skal stille krav om, at betaling af elektroniske regninger sker således, at betalingen modtages elektronisk. Myndigheden skal med henblik herpå anvise en fremgangsmåde for betaling af regningen, f.eks. ved anvendelse af konto til konto-overførsel, et medfølgende elektronisk eller papirbaseret indbetalingskort eller tilmelding til et system til betaling med automatisk træk. Stk. 2. Myndigheden kan stille krav om, at fysiske eller juridiske personer skal være tilmeldt et system til betaling med automatisk træk for at modtage en given vare eller tjenesteydelse.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Ved afgivelse af en ordre eller rekvisition skal offentlige myndigheder som minimum oplyse følgende: 1) Myndighedens EAN-lokationsnummer. 2) Referenceperson eller anden reference samt et evt. ordre- og rekvisitionsnummer. 3) Myndighedens politik vedr. kredittid, dvs. hvilke kredittider myndigheden normalt accepterer. Stk. 2. Myndigheden kan endvidere oplyse sin kontostreng.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. En regning til en offentlig myndighed skal referere myndighedens oplysninger efter § 3, stk. 1, nr. 1 og 2. Stk. 2. Kreditor ifølge en regning kan kun omfatte ét CVR-nummer. Stk. 3. Det skal fremgå af regningen, hvis den alene vedrører en del af en ordre, rekvisition, faktura, kreditnota mv. Stk. 4. En regning fra en offentlig myndighed til en anden skal så vidt muligt udformes i overensstemmelse med reglerne om fakturakrav i momsbekendtgørelsen, selv om regningen ikke er omfattet af momsbekendtgørelsen.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Regninger til offentlige myndigheder skal sendes, så de modtages elektronisk i et format, der er læseligt for den offentlige myndighed og umiddelbart kan indlæses i myndighedens fakturahåndterings- eller økonomisystem. Fysiske og juridiske personer, der ikke har mulighed for at fremsende regninger elektronisk fra eget faktureringssystem, kan fremsende regninger via udfyldelse af en fakturaskabelon. Stk. 2. Offentlige myndigheder skal kunne modtage regninger udarbejdet i overensstemmelse med bekendtgørelse om information i og transport af OIOUBL elektronisk regning til brug for elektronisk afregning med offentlige myndigheder. Stk. 3. Hvis den offentlige myndighed har afgivet ordren, rekvisitionen eller bekræftelsen herpå i et elektronisk system, som giver adgang til returnering som regning, kan myndigheden stille krav om, at afsenderen anvender det pågældende elektroniske system til fremsendelse af regningen. Kravet skal fremsættes skriftligt senest på ordre- eller rekvisitionstidspunktet.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. En regning fra en leverandør anses for modtaget af den offentlige myndighed, når regningen er tilgængelig for indlæsning i myndighedens fakturahåndterings- eller økonomisystem. Stk. 2. En offentlig myndighed kan udskyde betalingen af en regning, der ikke opfylder kravene i §§ 4 og 5. Myndigheden skal så hurtigt som muligt underrette leverandøren om, at regningen ikke kan betales, før der er modtaget en regning, der opfylder de nævnte krav i §§ 4 og 5. Stk. 3. Betalingen skal søges gennemført inden for den oprindeligt fastsatte kredittid udtrykt i dage, når myndigheden modtager en regning, der opfylder kravene i §§ 4 og 5.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Offentlige myndigheder skal benytte den fælles offentlige serviceorienterede infrastruktur (OIORASP) eller have en aftale med en VANS-netværksudbyder, jf. § 8, så myndigheden kan sende og modtage regninger elektronisk.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. En VANS-netværksudbyder er en netværksudbyder, der har aftale om udveksling af data baseret på EAN-lokationsnumre med andre netværksudbydere. VANS-netværksudbyderens kvalitetsstyringssystem vedrørende hele håndteringsprocessen skal være certificeret af en virksomhed, der er akkrediteret dertil af Den Danske Akkrediterings- og Metro­logifond (DANAK) eller af et tilsvarende akkrediteringsorgan, som er medunderskriver af den multilaterale aftale om gensidig anerkendelse under Sammenslutningen af Europæiske Nationale Akkrediteringsorganer, European co-operation for Accreditation (EA).",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Indgås aftale med en VANS-leverandør, skal aftalen sikre overholdelse af de for myndigheden til enhver tid gældende regler for regnskabsførelse og udbetalingskontrol, herunder bogførings- og momsreglerne m.v. Stk. 2. Aftalen med VANS-netværksudbyderen skal sikre opfyldelsen af de forpligtelser, der følger af lov om behandling af personoplysninger (persondataloven), herunder at VANS-netværksudbyderen skal overholde persondatalovens § 41, stk. 3-5, og regler udstedt i medfør af persondatalovens § 41, stk. 5, når VANS-netværksudbyderen modtager oplysninger fra myndigheden. Stk. 3. Aftalen skal sikre, at følgende er opfyldt: 1) Der skal være mindst én sikker kommunikationsforbindelse mellem netværksudbyderen og myndigheden. 2) Der skal være ét elektronisk knudepunkt (»en postkasse«) pr. EAN-lokationsnummer, som myndigheden har valgt at tage i brug. Stk. 4. Aftalen skal sikre håndtering af regninger, der ikke kan indlæses i myndighedens fakturahåndterings- eller økonomisystem. Aftalen med VANS-netværksudbyderen skal desuden omfatte: 1) Angivelse af en eller flere relevante mailbokse som afleveringssted tilknyttet EAN-lokationsnumre. 2) Service fra VANS-netværksudbyderen vedrørende konvertering af regningen (uden Tiff-fil) til relevant format, der er læseligt for myndigheden.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "§ 10. EAN-lokationsnumrene må kun anvendes til formål omfattet af lov om offentlige betalinger og de i medfør heraf udstedte bekendtgørelser. En offentlig myndighed skal løbende ajourføre en oversigt over EAN-lokationsnumre og skal udlevere oversigten til Økonomistyrelsen på forlangende.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. EAN-lokationsnumrene skal senest på den dato, som er angivet i § 3 i bekendtgørelse om information i og transport af OIOUBL elektronisk regning til brug for elektronisk afregning med offentlige myndigheder, registreres i det fællesoffentlige webservicekatalog for e-handel, NemHandelsregistret.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Ved offentlige myndigheder forstås institutioner mv., der er omfattet af lov om offentlige betalinger. Stk. 2. Vedkommende minister kan efter forhandling med finansministeren undtage institutioner mv., der er omfattet af lovens § 12, stk. 3, fra bekendtgørelsen. Stk. 3. Vedkommende kommune eller region kan undtage selvejende institutioner, som kommunen eller regionen har indgået driftsoverenskomst med, fra bekendtgørelsen.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "content": "§ 13. Finansministeren kan dispensere fra bestemmelserne i denne bekendtgørelse.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "content": "§ 14. Bekendtgørelsen træder i kraft den 17. marts 2011. Stk. 2. Bekendtgørelse nr. 991 af 7. oktober 2004 om elektronisk afregning med offentlige myndigheder ophæves. Stk. 3. Cirkulære nr. 104 af 23. november 2004 om tildeling og håndtering af EAN-lokationsnumre og tilmelding til VANS-netværksudbyder ophæves.",
+      "valid_from": "2011-03-11",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "offentlige myndigheder",
+      "definition": "institutioner mv",
+      "source_provision": "4:12"
+    }
+  ]
+}

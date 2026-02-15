@@ -1,0 +1,374 @@
+{
+  "id": "2011:436",
+  "type": "statute",
+  "title": "Bekendtgørelse om Lægemiddelstyrelsens elektroniske registrering af de enkelte borgeres medicinoplysninger",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2011-05-11",
+  "url": "https://www.retsinformation.dk/eli/lta/2011/436/xml",
+  "description": "Retsinformation source. DocumentId=AI003806; AccessionNumber=B20110043605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "§ 1. Lægemiddelstyrelsen er ansvarlig for at drive en elektronisk registrering af de enkelte borgeres medicinoplysninger, herunder ordination, køb, udlevering, indtagelse, dosisændring, ophør, sundhedspersoners instruktioner om brug af medicin samt oplysninger, der er relateret til borgernes medicinoplysninger, jf. sundhedslovens § 157, stk. 1. Stk. 2. Oplysninger om de enkelte borgeres medicinoplysninger, jf. stk. 1, registreres i Lægemiddelstyrelsens receptserver, i Lægemiddelstyrelsens register over Personlige Elektroniske Medicinprofiler (Medicinprofilen) og i Det Fælles Medicinkort (FMK). Stk. 3. Lægemiddelstyrelsens elektroniske registrering af de enkelte borgeres medicinoplysninger indeholder oplysninger om følgende typer lægemidler: 1) lægemidler ordineret på recept 2) lægemidler udleveret efter recept på apotek, 3) lægemidler udleveret på sygehus eller sygehusambulatorium, og 4) lægemidler udleveret af alment praktiserende læge, praktiserende speciallæge og tandlæge, i Kriminalforsorgens institutioner, på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne og i ambulancer, samt 5) lægemidler mv., der ikke er ordineret på recept, som borgeren eller en adgangsberettiget sundhedsperson med borgerens samtykke har indberettet i den pågældendes medicinskab, jf. § 25."
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "§ 2. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger indeholder oplysninger om personer, der 1) inden for de seneste 24 måneder har fået ordineret lægemidler på recept, 2) inden for de seneste 24 måneder har købt eller fået udleveret lægemidler efter recept på et apotek, 3) inden for de seneste 24 måneder har fået udleveret lægemidler på et sygehus eller sygehusambulatorium, 4) inden for de seneste 24 måneder har fået udleveret lægemidler hos en alment praktiserende læge, praktiserende speciallæge eller tandlæge, 5) inden for de seneste 24 måneder har fået udleveret lægemidler i Kriminalforsorgens institutioner, botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne og i ambulancer, 6) er omfattet af en læges eller tandlæges indberetning af cave, jf. stk. 5, eller 7) har indberettet oplysninger i sit medicinskab, jf. § 25. Stk. 2. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger indeholder oplysninger om lægers og tandlægers ordination på recept af lægemidler til personer omfattet af stk. 1, nr. 1, herunder sortering, gruppering og komprimering af visningen af receptordinationer med henblik på at vise et ajourført billede af patientens igangværende lægemiddelordinationer. Stk. 3. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af apotekere om ekspedition af lægemidler til personer omfattet af stk. 1, nr. 2: 1) Ekspeditionsstedets P-nummer. 2) Ekspeditionsnummer (gældende for den enkelte recept) og ordinationsnummer (gældende for den enkelte ordination). 3) Ekspeditionstidspunkt, jf. § 17, stk. 1. 4) Personens personnummer eller et entydigt identifikationsnummer og fødselsdato, jf. § 3. 5) Ekspedientens brugeridentifikation. 6) Lægens eller tandlægens ydernummer eller sygehusafdelingskoden. 7) Lægens ellers tandlægens autorisationsID. 8) Varenummer og antal af det pågældende varenummer. 9) Lægemidlets navn. 10) Fritekst, der er relevant i forbindelse med ekspedition af recepten og udlevering af lægemidlet. 11) Ordinationens doseringskode. 12) Ordinationens doseringstekst. 13) Ordinationens indikationskode. 14) Ordinationens indikationstekst. 15) Ekspeditionstype. 16) Tilbagetræk af ekspedition. Stk. 4. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af sygehuse og sygehusambulatorier om udlevering af lægemidler til personer omfattet af stk. 1, nr. 3: 1) Udførende enheds-ID. 2) Indberetningstidspunkt. 3) Personens personnummer eller et entydigt identifikationsnummer. 4) Drug-ID. 5) Dosismængde og -enhed. 6) Tidspunktet for påbegyndelse og afslutning af behandling med det pågældende drug-ID. Stk. 5. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af læger og tandlæger om cave for personer omfattet af stk. 1, nr. 6: 1) Lægens eller tandlægens ID (autorisationsID eller personnummer). 2) Personens personnummer 3) Drug-ID. 4) ATC-kodeniveau. 5) Fritekst om cave. 6) Indberetningstidspunkt. 7) Status for cave (aktiv/inaktiv). Stk. 6. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af sygehusansatte farmaceuter og farmakonomer om medicingennemgang eller -afstemning: 1) Farmaceutens eller farmakonomens ID (personnummer). 2) Farmaceutens eller farmakonomens ansættelsessted. 3) Borgerens personnummer. 4) Fritekst der er relevant i forhold til medicingennemgang eller -afstemning. 5) Indberetningstidspunkt. 6) Dokumentation for, at sygehusledelsen har bemyndiget farmaceuten eller farmakonomen til af patient- og lægemiddelssikkerhedsmæssige grunde at foretage medicingennemgang eller -afstemning. Stk. 7. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af ansatte i Kriminalforsorgens institutioner om udlevering af medicin til indsatte: 1) Den ansattes ID (personnummer). 2) Den ansattes ansættelsessted. 3) Borgerens personnummer. 4) Fritekst der er relevant i forhold til udlevering af medicin. 5) Indberetningstidspunkt. Stk. 8. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger om ambulancebehandlere med særlige kompetencers håndtering af medicinoplysninger eller udlevering af medicin: 1) Ambulancebehandlerens ID (personnummer) 2) Ambulancebehandlerens ansættelsessted. 3) Borgerens personnummer. 4) Identifikation af lægemidlet - Drug-ID. 5) Dosismængde og -enhed. 6) Fritekst der er relevant i forhold til håndtering af medicinoplysninger eller udlevering af medicin. 7) Indberetningstidspunkt. Stk. 9. Lægemiddelstyrelsen registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger om personale på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der efter delegation fra en læge, udleverer medicin til borgere med nedsat fysisk eller psykisk funktionsevne: 1) Den ansattes ID (personnummer). 2) Den ansattes ansættelsessted. 3) Borgerens personnummer. 4) Fritekst der er relevant i forhold til udlevering af medicin. 5) Indberetningstidspunkt. Stk. 10. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af den kommunale hjemmesygepleje, herunder plejehjem, om hjemmesygeplejens bemærkninger om borgerens lægemiddelanvendelse: 1) Den ansattes ID (personnummer). 2) Den ansattes ansættelsessted. 3) Borgerens personnummer. 4) Fritekst der er relevant i forhold til borgerens lægemiddelanvendelse. 5) Indberetningstidspunkt. Stk. 11. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger om indberetning i den enkelte borgers medicinskab, jf. stk. 1, nr. 7, og § 25: 1) Borgerens personnummer. 2) Identifikation af lægemidlet - Drug-ID/fritekst. 3) Fritekst. 4) Indberetningstidspunkt. 5) Indberetter."
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "§ 3. Hvis en person, der er omfattet af sundhedsloven, ikke har et personnummer, erstattes personnummeret med et entydigt identifikationsnummer, der tildeles automatisk."
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "§ 4. Lægemiddelstyrelsen foretager en logning af alle anvendelser og overførsler af medicinoplysningerne omfattet af denne bekendtgørelse."
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "§ 5. Følgende personer har adgang til at indlægge oplysninger i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger: 1) læger, tandlæger, jordemødre, sygeplejersker, sundhedsplejersker, social- og sundhedsassistenter og plejehjemsassistenter, der har en borger i behandling, 2) sygehusansatte farmaceuter eller farmakonomer, der efter udpegning af sygehusledelsen af patient- og lægemiddelsikkerhedsmæssige grunde foretager medicingennemgang eller -afstemning, 3) ansatte i Kriminalforsorgens institutioner, der som led i deres erhverv, udleverer medicin til indsatte, 4) ambulancebehandlere med særlige kompetencer, der som led i deres erhverv i akutsituationer, håndterer medicinoplysninger eller udleverer medicin til patienter, 5) ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der som led i deres erhverv efter delegation fra borgerens læge, udleverer medicin til en borger, 6) apotekere og apotekspersonale, der som led i ekspedition af en ordination har adgang til de registrerede oplysninger, 7) den registrerede selv og 8) Lægemiddelstyrelsen."
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "§ 6. En læge har adgang til de i § 2, stk. 2-7, nævnte oplysninger, for patienter, som lægen aktuelt har i behandling, når det er nødvendigt for behandlingen af den enkelte patient. Alment praktiserende læger kan tillige benytte registeret til at finde egne patienter, der behandles uhensigtsmæssigt med lægemidler. Praktiserende speciallæger kan tillige benytte registeret til at finde patienter, som speciallægen har ordineret et eller flere lægemidler til, og som behandles uhensigtsmæssigt med lægemidler. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Lægen kan delegere adgangsretten til sin medhjælp. Stk. 2. En læge har elektronisk adgang til en oversigt over, hvilke personer der har adgang som medhjælp for vedkommende læge, samt hvilke handlinger medhjælpen har foretaget. Stk. 3. En læge kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som lægen aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Lægen tilrettelægger overførslen således, at det sikres, at lægen har adgang til opdaterede oplysninger i patientjournalen, når oplysningerne skal anvendes til behandling af patienten. Stk. 4. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 6, stk. 3, hvis styrelsen vurderer, at de modtagende systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav."
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "§ 7. En tandlæge, en jordemoder, en sygeplejerske, en sundhedsplejerske, en social- og sundhedsassistent og en plejehjemsassistent, har adgang til de i § 2, stk. 2-11, nævnte oplysninger, for patienter, som tandlægen, jordemoderen, sygeplejersken, sundhedsplejersken, social- og sundhedsassistenten og plejehjemsassistenten aktuelt har i behandling, når det er nødvendigt for behandlingen af den enkelte patient. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Tandlægen, jordemoderen, sygeplejersken, sundhedsplejersken og social- og sundhedsassistenten kan delegere vedkommendes adgangsret til sin medhjælp. Stk. 2. En tandlæge, en jordemoder, en sygeplejerske, en sundhedsplejerske og en social- og sundhedsassistent har elektronisk adgang til en oversigt over, hvilke personer, der har adgang som medhjælp for vedkommende sundhedsperson, samt hvilke handlinger medhjælpen har foretaget. Stk. 3. En tandlæge, en jordemoder, en sygeplejerske, en sundhedsplejerske, en social- og sundhedsassistent og en plejehjemsassistent kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som tandlægen, jordemoderen, sygeplejersken, sundhedsplejersken, social- og sundhedsassistenten og plejehjemsassistenten aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Overførslen skal tilrettelægges således, at det sikres, at tandlægen, jordemoderen, sygeplejersken, sundhedsplejersken, social- og sundhedsassistenten og plejehjemsassistenten har adgang til opdaterede oplysninger i patientjournalen, når oplysningerne skal anvendes til behandling af patienten. Stk. 4. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 7, stk. 3, hvis styrelsen vurderer, at de modtagende systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav."
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "§ 8. Apotekere og apotekspersonale har adgang til de i § 2, stk. 2, nævnte oplysninger, der er registeret om ordinationer, når adgangen er nødvendig for ekspedition af en ordination. Stk. 2. Apotekere og apotekspersonale har adgang til de i § 2, stk. 3-11, nævnte oplysninger, når medicinbrugeren har givet udtrykkeligt samtykke hertil, og adgangen er relevant i forhold til vejledningen af den pågældende medicinbruger. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Stk. 3. Ved udtrykkeligt samtykke forstås enhver frivillig, specifik og informeret viljestilkendegivelse, hvorved medicinbrugeren indvilger i, at oplysninger, der vedrører den pågældende selv, gøres til genstand for behandling. Samtykket kan til enhver tid trækkes tilbage. Stk. 4. Apotekere og apotekspersonale kan overføre de i § 2, stk. 2, nævnte oplysninger til apotekersystemet i forbindelse med ekspedition af en ordination på recept af et lægemiddel. Stk. 5. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 8, stk. 4, hvis styrelsen vurdere, at de modtagne systemer ikke lever op til de enhver tid gældende datasikkerhedskrav."
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "§ 9. Sygehusansatte farmaceuter og farmakonomer, der efter udpegning af sygehusledelsen af patient- og lægemiddelsikkerhedsmæssige grunde foretager medicingennemgang eller -afstemning, har adgang til de i § 2, stk. 2-11, nævnte oplysninger, når adgangen er nødvendig for den pågældendes behandling af patienten. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Stk. 2. En sygehusansat farmaceut eller farmakonom, jf. stk. 1, kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som den pågældende aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Overførslen skal tilrettelægges således, at det sikres, at den pågældende har adgang til opdaterede oplysninger i patientjournalen, når oplysningerne skal anvendes til medicingennemgang eller -afstemning i forhold til den enkelte patient. Stk. 3. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 9, stk. 2, hvis styrelsen vurderer, at de modtagne systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav."
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "§ 10. Ansatte i Kriminalforsorgens institutioner, der som led i deres erhverv udleverer medicin til indsatte har adgang til de i § 2, stk. 2-11, nævnte oplysninger, når adgangen er nødvendig for den pågældendes behandling eller pleje af patienten. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Stk. 2. En ansat i Kriminalforsorgen, jf. stk. 1, kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som den pågældende aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Overførslen skal tilrettelægges således, at det sikres, at den pågældende har adgang til opdaterede oplysninger i patientjournalen, når oplysningerne skal anvendes til behandling eller pleje af patienten. Stk. 3. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 10, stk. 2, hvis styrelsen vurderer, at de modtagne systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav."
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "§ 11. Ambulancebehandlere med særlige kompetencer, der som led i deres erhverv i akutsituationer håndterer medicinoplysninger eller udleverer medicin til patienter, har adgang til de i § 2, stk. 2-11, nævnte oplysninger, når adgangen er nødvendig for den pågældendes behandling eller pleje af patienten. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse i en akutsituation. Stk. 2. En ambulancebehandler med særlige kompetencer, jf. stk. 1, kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som den pågældende aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Stk. 3. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 11, stk. 2, hvis styrelsen vurderer, at de modtagne systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav."
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "§ 12. Ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der som led i deres erhverv efter delegation fra borgerens læge, udleverer medicin til en borger, har adgang til de i § 2, stk. 2-11, nævnte oplysninger, når adgangen er nødvendig for den pågældendes behandling eller pleje af borgeren. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Stk. 2. En ansat på et botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, jf. stk. 1, kan overføre de i § 2, stk. 2-11, nævnte oplysninger om borgere, som den pågældende aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Stk. 3. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 12, stk. 2, hvis styrelsen vurderer, at de modtagne systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav."
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "§ 13. Den registrerede har direkte elektronisk adgang til de i § 2, stk. 2-11, nævnte oplysninger, der er registreret om vedkommende og til en log over andres adgange til de registrerede oplysninger jf. § 4."
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "§ 14. Lægemiddelstyrelsen og en eventuel operatør, der på Lægemiddelstyrelsens vegne fører Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger, har adgang til de registrerede oplysninger, når dette er påkrævet af driftstekniske grunde eller følger af Lægemiddelstyrelsens forpligtelser m.v. som dataansvarlig. Oplysningerne må kun anvendes med henblik på at sikre registerets drift og datakvalitet, jf. dog stk. 2-4. Stk. 2. Lægemiddelstyrelsen har adgang til de registrerede oplysninger, når det er nødvendigt til brug for styrelsens behandling af bivirkningsindberetninger, jf. sundhedslovens § 157, stk. 8, 1. pkt. Stk. 3. Lægemiddelstyrelsen har adgang til at fremfinde statistiske oplysninger om lægemiddelforbrug i de registrerede oplysninger i det omfang sådanne oplysninger ikke er tilgængelige via Lægemiddelstyrelsens Lægemiddelstatistikregister, jf. sundhedslovens § 157, stk. 8, 2. pkt. Stk. 4. Lægemiddelstyrelsen kan videregive oplysninger om de enkelte borgeres elektroniske medicinoplysninger om ordinerede og udleverede vacciner til Det Danske Vaccinationsregister med henblik på registrering af de enkelte borgeres vaccinationsstatus. Stk. 5. Lægemiddelstyrelsen overvåger løbende, at de registrerede oplysninger opdateres korrekt med de oplysninger, der, jf. § 5, indberettes af fra læger, tandlæger, jordemødre, sygeplejersker, sundhedsplejersker, social- og sundhedsassistenter, plejehjemsassistenter, sygehusansatte farmaceuter og farmakonomer, ansatte i kriminalforsorgen, ambulancebehandlere med særlige kompetencer, apoteker, ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, medicinbrugere samt sygehuse og ambulatorier. Stk. 6. Lægemiddelstyrelsen sikrer løbende, at oplysningerne slettes i overensstemmelse med § 27. Stk. 7. Lægemiddelstyrelsen kontrollerer, at apoteker, læger og tandlæger herunder på sygehuse og sygehusambulatorier, den kommunale hjemmesygepleje, herunder plejehjem, sygehusansatte farmaceuter og farmakonomer, ansatte i Kriminalforsorgen, ambulancebehandlere med særlige kompetencer samt ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, indberetter i overensstemmelse med reglerne i §§ 17-24."
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "§ 15. Sundhedsstyrelsen har adgang til at rekvirere de i § 2, stk. 2-4, nævnte oplysninger fra Lægemiddelstyrelsen, når det er nødvendigt for tilsynet med lægers og tandlægers ordination af afhængighedsskabende lægemidler og antipsykotika, eller hvis der er behov for at se det fulde ordinationsbillede som led i den faglige vurdering af hensigtsmæssigheden af en ordination af afhængighedsskabende lægemidler og antipsykotika, og omstændighederne ikke afdækkes tilstrækkeligt med de oplysninger, som Sundhedsstyrelsen i forvejen er i besiddelse af, jf. lov om apotekervirksomhed § 11, stk. 4."
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "§ 16. Ingen ud over de i §§ 6-15 nævnte personer og myndigheder har adgang til oplysningerne i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger."
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "§ 17. Apoteket har pligt til at indberette de i § 2, stk. 3, nævnte oplysninger på det tidspunkt, hvor apoteket udleverer eller sender lægemidlet til medicinbrugeren. Stk. 2. Apoteket har pligt til at indberette de i § 2, stk. 2, nævnte oplysninger på det tidspunkt, hvor apoteket ekspederer recepten, hvis oplysningerne fremgår af en papir-, telefon- eller telefaxrecept. Stk. 3. Apoteket skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger, foretage de nødvendige rettelser eller henvise personen til indberetteren eller Lægemiddelstyrelsen i de tilfælde, hvor apoteket ikke selv har den fornødne adgang til at foretage rettelserne. Apoteket har alene mulighed for at rette i oplysninger, som det pågældende apotek selv har indberettet. Stk. 4. Apotekets indberetning til Lægemiddelstyrelsens registrering af borgeres elektroniske medicinoplysninger skal ske i overensstemmelse med de i bilag 1 fastsatte tekniske forskrifter."
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "§ 18. En læge eller tandlæge på et sygehus eller -ambulatorium har pligt til at indberette de i § 2, stk. 4, nævnte oplysninger senest på det tidspunkt, hvor medicinbrugeren udskrives fra sygehuset eller efter afslutning af hvert enkelt sygehusambulatoriebesøg. Stk. 2. En læge eller tandlæge på et sygehus eller -ambulatorium skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger, foretage de nødvendige rettelser eller henvise personen til indberetteren eller Lægemiddelstyrelsen i de tilfælde, hvor lægen eller tandlægen på sygehuset eller sygehusambulatoriet ikke selv har den fornødne adgang til at foretage rettelserne. Lægen eller tandlægen på sygehuset eller sygehusambulatoriet har alene mulighed for at rette i oplysninger, som lægen eller tandlægen på sygehuset eller sygehusambulatoriet selv har indberettet. Stk. 3. Lægens eller tandlægens indberetning til Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger skal ske i overensstemmelse med de i bilag 2 fastsatte tekniske forskrifter."
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "§ 19. En læge eller en tandlæge skal indberette de i § 2, stk. 2, nævnte oplysninger, når lægen eller tandlægen udfærdiger en elektronisk recept. Stk. 2. En læge eller tandlæge kan indberette de i § 2, stk. 6, nævnte oplysninger (cave) samt ændringer heri. Stk. 3. En læge eller tandlæge skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger, foretage de nødvendige rettelser eller henvise personen til indberetteren eller Lægemiddelstyrelsen i de tilfælde, hvor lægen eller tandlægen ikke selv har den fornødne adgang til at foretage rettelserne. En læge eller tandlæge har alene mulighed for at rette i oplysninger, som lægen eller tandlægen selv har indberettet. Stk. 4. Lægens eller tandlægens indberetning til Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger skal ske i overensstemmelse med de i receptbekendtgørelsen, jf. bekendtgørelse nr. 155 af 20. februar 2007 med senere ændringer, fastsatte krav for affattelse af elektroniske recepter."
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "§ 20. Den kommunale hjemmesygepleje, herunder plejehjem, kan indberette de i § 2, stk. 10, nævnte oplysninger samt ændringer heri. Stk. 2. Den kommunale hjemmesygepleje, herunder plejehjem, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor den kommunale hjemmesygepleje, herunder plejehjem, ikke selv har den fornødne adgang til at foretage rettelserne. Den kommunale hjemmesygepleje, herunder plejehjem, har alene mulighed for at rette i oplysninger, som hjemmesygeplejen, herunder plejehjemmet, selv har indberettet."
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "§ 21. Sygehusansatte farmaceuter og farmakonomer, der efter udpegning af sygehusledelsen af patient- og lægemiddelsikkerhedsmæssige grunde foretager medicingennemgang eller -afstemning, kan indberette de i § 2, stk. 6, nævnte oplysninger, samt ændringer heri. Stk. 2. Sygehusansatte farmaceuter og farmakonomer, jf. stk. 1, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor den sygehusansatte farmaceut og farmakonom, ikke selv har den fornødne adgang til at foretage rettelserne. Sygehusansatte farmaceuter og farmakonomer har alene mulighed for at rette i oplysninger, som den pågældende selv har indberettet."
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "§ 22. Ansatte i Kriminalforsorgen, der som led i deres erhverv håndterer medicinoplysninger eller udleverer medicin til indsatte, kan indberette de i § 2, stk. 7, nævnte oplysninger samt ændringer heri. Stk. 2. Ansatte i Kriminalforsorgen, jf. stk. 1, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor den ansatte i Kriminalforsorgen ikke selv har den fornødne adgang til at foretage rettelserne. Ansatte i Kriminalforsorgen har alene mulighed for at rette i oplysninger, som den pågældende selv har indberettet."
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "§ 23. Ambulancebehandlere med særlige kompetencer, der som led i deres erhverv håndterer medicinoplysninger eller udleverer medicin i akutsituationer, kan indberette de i § 2, stk. 8, nævnte oplysninger samt ændringer heri. Stk. 2. Ambulancebehandlere med særlige kompetencer, jf. stk. 1, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor ambulancebehandleren ikke selv har den fornødne adgang til at foretage rettelserne. Ambulancebehandlere med særlige kompetencer har alene mulighed for at rette i oplysninger, som den pågældende selv har indberettet."
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "§ 24. Ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der som led i deres erhverv efter delegation fra borgerens læge, udleverer medicin til en borger, kan indberette de i § 2, stk. 9, nævnte oplysninger samt ændringer heri. Stk. 2. Ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, jf. stk. 1, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor den ansatte på botilbuddet og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, ikke selv har den fornødne adgang til at foretage rettelserne. Ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, har alene mulighed for at rette i oplysninger, som den pågældende selv har indberettet."
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "§ 25. Medicinbrugeren, eller den person vedkommende udpeger hertil kan indberette de i § 2, stk. 11, nævnte oplysninger (medicinskab). Ved medicinskab forstås den del af registeret, hvori den enkelte borger kan foretage indberetning af medicinkøb, der ikke er ordineret på recept. Stk. 2. Medicinbrugeren kan til enhver tid slette foretagne indberetninger."
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "§ 26. Oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger må ikke samkøres med oplysninger i andre offentlige eller private registre end de i §§ 6-15 nævnte patientjournalsystemer."
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "§ 27. Oplysninger om medicinbrugerens personnummer slettes 2 år efter medicinbrugeren er afgået ved døden. Stk. 2. Oplysninger registreret i overensstemmelse med § 2, stk. 5 (cave), og § 2, stk. 11 (medicinskab), skal senest slettes 2 år efter, at medicinbrugeren er afgået ved døden. Stk. 3. Oplysninger registreret i overensstemmelse med § 4 (logning), skal slettes 2 år efter, de er registreret i Lægemiddelstyrelsen elektroniske registrering af borgeres elektroniske medicinoplysninger. Stk. 4. Øvrige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger end de i stk. 1-3, nævnte, skal slettes 2 år efter registreringen."
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "§ 28. Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde: 1) den, der uberettiget indhenter, videregiver eller udnytter oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter §§ 6-12 og 14-15, 2) apotekere, der undlader at indberette oplysninger til Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 17, stk. 1, 3) apotekere, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 17, stk. 3, 4) en læge eller tandlæge på et sygehus eller -ambulatorium, der undlader at indberette oplysninger til Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 18, stk. 1, 5) en læge eller tandlæge på et sygehus eller -ambulatorium, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 18, stk. 2, 6) en læge eller tandlæge, der undlader at korrigere urigtige oplysninger Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 19, stk. 3, og 7) den kommunale hjemmesygepleje, herunder plejehjem, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 20, stk. 2. 8) sygehusansatte farmaceuter og farmakonomer, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 21, stk. 2. 9) ansatte i Kriminalforsorgen, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 22, stk. 2. 10) ambulancebehandlere med særlige kompetencer, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 23, stk. 2. 11) ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 24, stk. 2. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "§ 29. Bekendtgørelsen træder i kraft den 16. maj 2011. Stk. 2. Bekendtgørelse nr. 990 af 2. oktober 2006 om Lægemiddelstyrelsens register over Personlige Elektroniske Medicinprofiler (PEM) ophæves."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "§ 1. Lægemiddelstyrelsen er ansvarlig for at drive en elektronisk registrering af de enkelte borgeres medicinoplysninger, herunder ordination, køb, udlevering, indtagelse, dosisændring, ophør, sundhedspersoners instruktioner om brug af medicin samt oplysninger, der er relateret til borgernes medicinoplysninger, jf. sundhedslovens § 157, stk. 1. Stk. 2. Oplysninger om de enkelte borgeres medicinoplysninger, jf. stk. 1, registreres i Lægemiddelstyrelsens receptserver, i Lægemiddelstyrelsens register over Personlige Elektroniske Medicinprofiler (Medicinprofilen) og i Det Fælles Medicinkort (FMK). Stk. 3. Lægemiddelstyrelsens elektroniske registrering af de enkelte borgeres medicinoplysninger indeholder oplysninger om følgende typer lægemidler: 1) lægemidler ordineret på recept 2) lægemidler udleveret efter recept på apotek, 3) lægemidler udleveret på sygehus eller sygehusambulatorium, og 4) lægemidler udleveret af alment praktiserende læge, praktiserende speciallæge og tandlæge, i Kriminalforsorgens institutioner, på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne og i ambulancer, samt 5) lægemidler mv., der ikke er ordineret på recept, som borgeren eller en adgangsberettiget sundhedsperson med borgerens samtykke har indberettet i den pågældendes medicinskab, jf. § 25.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "§ 2. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger indeholder oplysninger om personer, der 1) inden for de seneste 24 måneder har fået ordineret lægemidler på recept, 2) inden for de seneste 24 måneder har købt eller fået udleveret lægemidler efter recept på et apotek, 3) inden for de seneste 24 måneder har fået udleveret lægemidler på et sygehus eller sygehusambulatorium, 4) inden for de seneste 24 måneder har fået udleveret lægemidler hos en alment praktiserende læge, praktiserende speciallæge eller tandlæge, 5) inden for de seneste 24 måneder har fået udleveret lægemidler i Kriminalforsorgens institutioner, botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne og i ambulancer, 6) er omfattet af en læges eller tandlæges indberetning af cave, jf. stk. 5, eller 7) har indberettet oplysninger i sit medicinskab, jf. § 25. Stk. 2. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger indeholder oplysninger om lægers og tandlægers ordination på recept af lægemidler til personer omfattet af stk. 1, nr. 1, herunder sortering, gruppering og komprimering af visningen af receptordinationer med henblik på at vise et ajourført billede af patientens igangværende lægemiddelordinationer. Stk. 3. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af apotekere om ekspedition af lægemidler til personer omfattet af stk. 1, nr. 2: 1) Ekspeditionsstedets P-nummer. 2) Ekspeditionsnummer (gældende for den enkelte recept) og ordinationsnummer (gældende for den enkelte ordination). 3) Ekspeditionstidspunkt, jf. § 17, stk. 1. 4) Personens personnummer eller et entydigt identifikationsnummer og fødselsdato, jf. § 3. 5) Ekspedientens brugeridentifikation. 6) Lægens eller tandlægens ydernummer eller sygehusafdelingskoden. 7) Lægens ellers tandlægens autorisationsID. 8) Varenummer og antal af det pågældende varenummer. 9) Lægemidlets navn. 10) Fritekst, der er relevant i forbindelse med ekspedition af recepten og udlevering af lægemidlet. 11) Ordinationens doseringskode. 12) Ordinationens doseringstekst. 13) Ordinationens indikationskode. 14) Ordinationens indikationstekst. 15) Ekspeditionstype. 16) Tilbagetræk af ekspedition. Stk. 4. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af sygehuse og sygehusambulatorier om udlevering af lægemidler til personer omfattet af stk. 1, nr. 3: 1) Udførende enheds-ID. 2) Indberetningstidspunkt. 3) Personens personnummer eller et entydigt identifikationsnummer. 4) Drug-ID. 5) Dosismængde og -enhed. 6) Tidspunktet for påbegyndelse og afslutning af behandling med det pågældende drug-ID. Stk. 5. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af læger og tandlæger om cave for personer omfattet af stk. 1, nr. 6: 1) Lægens eller tandlægens ID (autorisationsID eller personnummer). 2) Personens personnummer 3) Drug-ID. 4) ATC-kodeniveau. 5) Fritekst om cave. 6) Indberetningstidspunkt. 7) Status for cave (aktiv/inaktiv). Stk. 6. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af sygehusansatte farmaceuter og farmakonomer om medicingennemgang eller -afstemning: 1) Farmaceutens eller farmakonomens ID (personnummer). 2) Farmaceutens eller farmakonomens ansættelsessted. 3) Borgerens personnummer. 4) Fritekst der er relevant i forhold til medicingennemgang eller -afstemning. 5) Indberetningstidspunkt. 6) Dokumentation for, at sygehusledelsen har bemyndiget farmaceuten eller farmakonomen til af patient- og lægemiddelssikkerhedsmæssige grunde at foretage medicingennemgang eller -afstemning. Stk. 7. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af ansatte i Kriminalforsorgens institutioner om udlevering af medicin til indsatte: 1) Den ansattes ID (personnummer). 2) Den ansattes ansættelsessted. 3) Borgerens personnummer. 4) Fritekst der er relevant i forhold til udlevering af medicin. 5) Indberetningstidspunkt. Stk. 8. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger om ambulancebehandlere med særlige kompetencers håndtering af medicinoplysninger eller udlevering af medicin: 1) Ambulancebehandlerens ID (personnummer) 2) Ambulancebehandlerens ansættelsessted. 3) Borgerens personnummer. 4) Identifikation af lægemidlet - Drug-ID. 5) Dosismængde og -enhed. 6) Fritekst der er relevant i forhold til håndtering af medicinoplysninger eller udlevering af medicin. 7) Indberetningstidspunkt. Stk. 9. Lægemiddelstyrelsen registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger om personale på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der efter delegation fra en læge, udleverer medicin til borgere med nedsat fysisk eller psykisk funktionsevne: 1) Den ansattes ID (personnummer). 2) Den ansattes ansættelsessted. 3) Borgerens personnummer. 4) Fritekst der er relevant i forhold til udlevering af medicin. 5) Indberetningstidspunkt. Stk. 10. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger indberettet af den kommunale hjemmesygepleje, herunder plejehjem, om hjemmesygeplejens bemærkninger om borgerens lægemiddelanvendelse: 1) Den ansattes ID (personnummer). 2) Den ansattes ansættelsessted. 3) Borgerens personnummer. 4) Fritekst der er relevant i forhold til borgerens lægemiddelanvendelse. 5) Indberetningstidspunkt. Stk. 11. Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger må indeholde følgende oplysninger om indberetning i den enkelte borgers medicinskab, jf. stk. 1, nr. 7, og § 25: 1) Borgerens personnummer. 2) Identifikation af lægemidlet - Drug-ID/fritekst. 3) Fritekst. 4) Indberetningstidspunkt. 5) Indberetter.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "§ 3. Hvis en person, der er omfattet af sundhedsloven, ikke har et personnummer, erstattes personnummeret med et entydigt identifikationsnummer, der tildeles automatisk.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "§ 4. Lægemiddelstyrelsen foretager en logning af alle anvendelser og overførsler af medicinoplysningerne omfattet af denne bekendtgørelse.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "§ 5. Følgende personer har adgang til at indlægge oplysninger i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger: 1) læger, tandlæger, jordemødre, sygeplejersker, sundhedsplejersker, social- og sundhedsassistenter og plejehjemsassistenter, der har en borger i behandling, 2) sygehusansatte farmaceuter eller farmakonomer, der efter udpegning af sygehusledelsen af patient- og lægemiddelsikkerhedsmæssige grunde foretager medicingennemgang eller -afstemning, 3) ansatte i Kriminalforsorgens institutioner, der som led i deres erhverv, udleverer medicin til indsatte, 4) ambulancebehandlere med særlige kompetencer, der som led i deres erhverv i akutsituationer, håndterer medicinoplysninger eller udleverer medicin til patienter, 5) ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der som led i deres erhverv efter delegation fra borgerens læge, udleverer medicin til en borger, 6) apotekere og apotekspersonale, der som led i ekspedition af en ordination har adgang til de registrerede oplysninger, 7) den registrerede selv og 8) Lægemiddelstyrelsen.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "§ 6. En læge har adgang til de i § 2, stk. 2-7, nævnte oplysninger, for patienter, som lægen aktuelt har i behandling, når det er nødvendigt for behandlingen af den enkelte patient. Alment praktiserende læger kan tillige benytte registeret til at finde egne patienter, der behandles uhensigtsmæssigt med lægemidler. Praktiserende speciallæger kan tillige benytte registeret til at finde patienter, som speciallægen har ordineret et eller flere lægemidler til, og som behandles uhensigtsmæssigt med lægemidler. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Lægen kan delegere adgangsretten til sin medhjælp. Stk. 2. En læge har elektronisk adgang til en oversigt over, hvilke personer der har adgang som medhjælp for vedkommende læge, samt hvilke handlinger medhjælpen har foretaget. Stk. 3. En læge kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som lægen aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Lægen tilrettelægger overførslen således, at det sikres, at lægen har adgang til opdaterede oplysninger i patientjournalen, når oplysningerne skal anvendes til behandling af patienten. Stk. 4. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 6, stk. 3, hvis styrelsen vurderer, at de modtagende systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "§ 7. En tandlæge, en jordemoder, en sygeplejerske, en sundhedsplejerske, en social- og sundhedsassistent og en plejehjemsassistent, har adgang til de i § 2, stk. 2-11, nævnte oplysninger, for patienter, som tandlægen, jordemoderen, sygeplejersken, sundhedsplejersken, social- og sundhedsassistenten og plejehjemsassistenten aktuelt har i behandling, når det er nødvendigt for behandlingen af den enkelte patient. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Tandlægen, jordemoderen, sygeplejersken, sundhedsplejersken og social- og sundhedsassistenten kan delegere vedkommendes adgangsret til sin medhjælp. Stk. 2. En tandlæge, en jordemoder, en sygeplejerske, en sundhedsplejerske og en social- og sundhedsassistent har elektronisk adgang til en oversigt over, hvilke personer, der har adgang som medhjælp for vedkommende sundhedsperson, samt hvilke handlinger medhjælpen har foretaget. Stk. 3. En tandlæge, en jordemoder, en sygeplejerske, en sundhedsplejerske, en social- og sundhedsassistent og en plejehjemsassistent kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som tandlægen, jordemoderen, sygeplejersken, sundhedsplejersken, social- og sundhedsassistenten og plejehjemsassistenten aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Overførslen skal tilrettelægges således, at det sikres, at tandlægen, jordemoderen, sygeplejersken, sundhedsplejersken, social- og sundhedsassistenten og plejehjemsassistenten har adgang til opdaterede oplysninger i patientjournalen, når oplysningerne skal anvendes til behandling af patienten. Stk. 4. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 7, stk. 3, hvis styrelsen vurderer, at de modtagende systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "§ 8. Apotekere og apotekspersonale har adgang til de i § 2, stk. 2, nævnte oplysninger, der er registeret om ordinationer, når adgangen er nødvendig for ekspedition af en ordination. Stk. 2. Apotekere og apotekspersonale har adgang til de i § 2, stk. 3-11, nævnte oplysninger, når medicinbrugeren har givet udtrykkeligt samtykke hertil, og adgangen er relevant i forhold til vejledningen af den pågældende medicinbruger. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Stk. 3. Ved udtrykkeligt samtykke forstås enhver frivillig, specifik og informeret viljestilkendegivelse, hvorved medicinbrugeren indvilger i, at oplysninger, der vedrører den pågældende selv, gøres til genstand for behandling. Samtykket kan til enhver tid trækkes tilbage. Stk. 4. Apotekere og apotekspersonale kan overføre de i § 2, stk. 2, nævnte oplysninger til apotekersystemet i forbindelse med ekspedition af en ordination på recept af et lægemiddel. Stk. 5. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 8, stk. 4, hvis styrelsen vurdere, at de modtagne systemer ikke lever op til de enhver tid gældende datasikkerhedskrav.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "§ 9. Sygehusansatte farmaceuter og farmakonomer, der efter udpegning af sygehusledelsen af patient- og lægemiddelsikkerhedsmæssige grunde foretager medicingennemgang eller -afstemning, har adgang til de i § 2, stk. 2-11, nævnte oplysninger, når adgangen er nødvendig for den pågældendes behandling af patienten. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Stk. 2. En sygehusansat farmaceut eller farmakonom, jf. stk. 1, kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som den pågældende aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Overførslen skal tilrettelægges således, at det sikres, at den pågældende har adgang til opdaterede oplysninger i patientjournalen, når oplysningerne skal anvendes til medicingennemgang eller -afstemning i forhold til den enkelte patient. Stk. 3. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 9, stk. 2, hvis styrelsen vurderer, at de modtagne systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "§ 10. Ansatte i Kriminalforsorgens institutioner, der som led i deres erhverv udleverer medicin til indsatte har adgang til de i § 2, stk. 2-11, nævnte oplysninger, når adgangen er nødvendig for den pågældendes behandling eller pleje af patienten. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Stk. 2. En ansat i Kriminalforsorgen, jf. stk. 1, kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som den pågældende aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Overførslen skal tilrettelægges således, at det sikres, at den pågældende har adgang til opdaterede oplysninger i patientjournalen, når oplysningerne skal anvendes til behandling eller pleje af patienten. Stk. 3. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 10, stk. 2, hvis styrelsen vurderer, at de modtagne systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "§ 11. Ambulancebehandlere med særlige kompetencer, der som led i deres erhverv i akutsituationer håndterer medicinoplysninger eller udleverer medicin til patienter, har adgang til de i § 2, stk. 2-11, nævnte oplysninger, når adgangen er nødvendig for den pågældendes behandling eller pleje af patienten. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse i en akutsituation. Stk. 2. En ambulancebehandler med særlige kompetencer, jf. stk. 1, kan overføre de i § 2, stk. 2-11, nævnte oplysninger om patienter, som den pågældende aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Stk. 3. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 11, stk. 2, hvis styrelsen vurderer, at de modtagne systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "§ 12. Ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der som led i deres erhverv efter delegation fra borgerens læge, udleverer medicin til en borger, har adgang til de i § 2, stk. 2-11, nævnte oplysninger, når adgangen er nødvendig for den pågældendes behandling eller pleje af borgeren. Oplysningerne må alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens lægemiddelanvendelse. Stk. 2. En ansat på et botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, jf. stk. 1, kan overføre de i § 2, stk. 2-11, nævnte oplysninger om borgere, som den pågældende aktuelt har i behandling til sit lokale patientjournalsystem med henblik på opdatering af patientjournalen. Stk. 3. Lægemiddelstyrelsen kan stoppe overførsel af oplysninger efter § 12, stk. 2, hvis styrelsen vurderer, at de modtagne systemer ikke lever op til de til enhver tid gældende datasikkerhedskrav.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "§ 13. Den registrerede har direkte elektronisk adgang til de i § 2, stk. 2-11, nævnte oplysninger, der er registreret om vedkommende og til en log over andres adgange til de registrerede oplysninger jf. § 4.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "§ 14. Lægemiddelstyrelsen og en eventuel operatør, der på Lægemiddelstyrelsens vegne fører Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger, har adgang til de registrerede oplysninger, når dette er påkrævet af driftstekniske grunde eller følger af Lægemiddelstyrelsens forpligtelser m.v. som dataansvarlig. Oplysningerne må kun anvendes med henblik på at sikre registerets drift og datakvalitet, jf. dog stk. 2-4. Stk. 2. Lægemiddelstyrelsen har adgang til de registrerede oplysninger, når det er nødvendigt til brug for styrelsens behandling af bivirkningsindberetninger, jf. sundhedslovens § 157, stk. 8, 1. pkt. Stk. 3. Lægemiddelstyrelsen har adgang til at fremfinde statistiske oplysninger om lægemiddelforbrug i de registrerede oplysninger i det omfang sådanne oplysninger ikke er tilgængelige via Lægemiddelstyrelsens Lægemiddelstatistikregister, jf. sundhedslovens § 157, stk. 8, 2. pkt. Stk. 4. Lægemiddelstyrelsen kan videregive oplysninger om de enkelte borgeres elektroniske medicinoplysninger om ordinerede og udleverede vacciner til Det Danske Vaccinationsregister med henblik på registrering af de enkelte borgeres vaccinationsstatus. Stk. 5. Lægemiddelstyrelsen overvåger løbende, at de registrerede oplysninger opdateres korrekt med de oplysninger, der, jf. § 5, indberettes af fra læger, tandlæger, jordemødre, sygeplejersker, sundhedsplejersker, social- og sundhedsassistenter, plejehjemsassistenter, sygehusansatte farmaceuter og farmakonomer, ansatte i kriminalforsorgen, ambulancebehandlere med særlige kompetencer, apoteker, ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, medicinbrugere samt sygehuse og ambulatorier. Stk. 6. Lægemiddelstyrelsen sikrer løbende, at oplysningerne slettes i overensstemmelse med § 27. Stk. 7. Lægemiddelstyrelsen kontrollerer, at apoteker, læger og tandlæger herunder på sygehuse og sygehusambulatorier, den kommunale hjemmesygepleje, herunder plejehjem, sygehusansatte farmaceuter og farmakonomer, ansatte i Kriminalforsorgen, ambulancebehandlere med særlige kompetencer samt ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, indberetter i overensstemmelse med reglerne i §§ 17-24.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "§ 15. Sundhedsstyrelsen har adgang til at rekvirere de i § 2, stk. 2-4, nævnte oplysninger fra Lægemiddelstyrelsen, når det er nødvendigt for tilsynet med lægers og tandlægers ordination af afhængighedsskabende lægemidler og antipsykotika, eller hvis der er behov for at se det fulde ordinationsbillede som led i den faglige vurdering af hensigtsmæssigheden af en ordination af afhængighedsskabende lægemidler og antipsykotika, og omstændighederne ikke afdækkes tilstrækkeligt med de oplysninger, som Sundhedsstyrelsen i forvejen er i besiddelse af, jf. lov om apotekervirksomhed § 11, stk. 4.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "§ 16. Ingen ud over de i §§ 6-15 nævnte personer og myndigheder har adgang til oplysningerne i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "§ 17. Apoteket har pligt til at indberette de i § 2, stk. 3, nævnte oplysninger på det tidspunkt, hvor apoteket udleverer eller sender lægemidlet til medicinbrugeren. Stk. 2. Apoteket har pligt til at indberette de i § 2, stk. 2, nævnte oplysninger på det tidspunkt, hvor apoteket ekspederer recepten, hvis oplysningerne fremgår af en papir-, telefon- eller telefaxrecept. Stk. 3. Apoteket skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger, foretage de nødvendige rettelser eller henvise personen til indberetteren eller Lægemiddelstyrelsen i de tilfælde, hvor apoteket ikke selv har den fornødne adgang til at foretage rettelserne. Apoteket har alene mulighed for at rette i oplysninger, som det pågældende apotek selv har indberettet. Stk. 4. Apotekets indberetning til Lægemiddelstyrelsens registrering af borgeres elektroniske medicinoplysninger skal ske i overensstemmelse med de i bilag 1 fastsatte tekniske forskrifter.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "§ 18. En læge eller tandlæge på et sygehus eller -ambulatorium har pligt til at indberette de i § 2, stk. 4, nævnte oplysninger senest på det tidspunkt, hvor medicinbrugeren udskrives fra sygehuset eller efter afslutning af hvert enkelt sygehusambulatoriebesøg. Stk. 2. En læge eller tandlæge på et sygehus eller -ambulatorium skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger, foretage de nødvendige rettelser eller henvise personen til indberetteren eller Lægemiddelstyrelsen i de tilfælde, hvor lægen eller tandlægen på sygehuset eller sygehusambulatoriet ikke selv har den fornødne adgang til at foretage rettelserne. Lægen eller tandlægen på sygehuset eller sygehusambulatoriet har alene mulighed for at rette i oplysninger, som lægen eller tandlægen på sygehuset eller sygehusambulatoriet selv har indberettet. Stk. 3. Lægens eller tandlægens indberetning til Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger skal ske i overensstemmelse med de i bilag 2 fastsatte tekniske forskrifter.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "§ 19. En læge eller en tandlæge skal indberette de i § 2, stk. 2, nævnte oplysninger, når lægen eller tandlægen udfærdiger en elektronisk recept. Stk. 2. En læge eller tandlæge kan indberette de i § 2, stk. 6, nævnte oplysninger (cave) samt ændringer heri. Stk. 3. En læge eller tandlæge skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger, foretage de nødvendige rettelser eller henvise personen til indberetteren eller Lægemiddelstyrelsen i de tilfælde, hvor lægen eller tandlægen ikke selv har den fornødne adgang til at foretage rettelserne. En læge eller tandlæge har alene mulighed for at rette i oplysninger, som lægen eller tandlægen selv har indberettet. Stk. 4. Lægens eller tandlægens indberetning til Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger skal ske i overensstemmelse med de i receptbekendtgørelsen, jf. bekendtgørelse nr. 155 af 20. februar 2007 med senere ændringer, fastsatte krav for affattelse af elektroniske recepter.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "§ 20. Den kommunale hjemmesygepleje, herunder plejehjem, kan indberette de i § 2, stk. 10, nævnte oplysninger samt ændringer heri. Stk. 2. Den kommunale hjemmesygepleje, herunder plejehjem, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor den kommunale hjemmesygepleje, herunder plejehjem, ikke selv har den fornødne adgang til at foretage rettelserne. Den kommunale hjemmesygepleje, herunder plejehjem, har alene mulighed for at rette i oplysninger, som hjemmesygeplejen, herunder plejehjemmet, selv har indberettet.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "§ 21. Sygehusansatte farmaceuter og farmakonomer, der efter udpegning af sygehusledelsen af patient- og lægemiddelsikkerhedsmæssige grunde foretager medicingennemgang eller -afstemning, kan indberette de i § 2, stk. 6, nævnte oplysninger, samt ændringer heri. Stk. 2. Sygehusansatte farmaceuter og farmakonomer, jf. stk. 1, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor den sygehusansatte farmaceut og farmakonom, ikke selv har den fornødne adgang til at foretage rettelserne. Sygehusansatte farmaceuter og farmakonomer har alene mulighed for at rette i oplysninger, som den pågældende selv har indberettet.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "§ 22. Ansatte i Kriminalforsorgen, der som led i deres erhverv håndterer medicinoplysninger eller udleverer medicin til indsatte, kan indberette de i § 2, stk. 7, nævnte oplysninger samt ændringer heri. Stk. 2. Ansatte i Kriminalforsorgen, jf. stk. 1, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor den ansatte i Kriminalforsorgen ikke selv har den fornødne adgang til at foretage rettelserne. Ansatte i Kriminalforsorgen har alene mulighed for at rette i oplysninger, som den pågældende selv har indberettet.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "§ 23. Ambulancebehandlere med særlige kompetencer, der som led i deres erhverv håndterer medicinoplysninger eller udleverer medicin i akutsituationer, kan indberette de i § 2, stk. 8, nævnte oplysninger samt ændringer heri. Stk. 2. Ambulancebehandlere med særlige kompetencer, jf. stk. 1, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor ambulancebehandleren ikke selv har den fornødne adgang til at foretage rettelserne. Ambulancebehandlere med særlige kompetencer har alene mulighed for at rette i oplysninger, som den pågældende selv har indberettet.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "§ 24. Ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der som led i deres erhverv efter delegation fra borgerens læge, udleverer medicin til en borger, kan indberette de i § 2, stk. 9, nævnte oplysninger samt ændringer heri. Stk. 2. Ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, jf. stk. 1, skal på opfordring fra personer, som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens registrering af de enkelte borgeres elektroniske medicinoplysninger foretage de nødvendige rettelser eller henvise personen til Lægemiddelstyrelsen i de tilfælde, hvor den ansatte på botilbuddet og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, ikke selv har den fornødne adgang til at foretage rettelserne. Ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, har alene mulighed for at rette i oplysninger, som den pågældende selv har indberettet.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "§ 25. Medicinbrugeren, eller den person vedkommende udpeger hertil kan indberette de i § 2, stk. 11, nævnte oplysninger (medicinskab). Ved medicinskab forstås den del af registeret, hvori den enkelte borger kan foretage indberetning af medicinkøb, der ikke er ordineret på recept. Stk. 2. Medicinbrugeren kan til enhver tid slette foretagne indberetninger.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "§ 26. Oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger må ikke samkøres med oplysninger i andre offentlige eller private registre end de i §§ 6-15 nævnte patientjournalsystemer.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "§ 27. Oplysninger om medicinbrugerens personnummer slettes 2 år efter medicinbrugeren er afgået ved døden. Stk. 2. Oplysninger registreret i overensstemmelse med § 2, stk. 5 (cave), og § 2, stk. 11 (medicinskab), skal senest slettes 2 år efter, at medicinbrugeren er afgået ved døden. Stk. 3. Oplysninger registreret i overensstemmelse med § 4 (logning), skal slettes 2 år efter, de er registreret i Lægemiddelstyrelsen elektroniske registrering af borgeres elektroniske medicinoplysninger. Stk. 4. Øvrige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger end de i stk. 1-3, nævnte, skal slettes 2 år efter registreringen.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "§ 28. Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde: 1) den, der uberettiget indhenter, videregiver eller udnytter oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter §§ 6-12 og 14-15, 2) apotekere, der undlader at indberette oplysninger til Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 17, stk. 1, 3) apotekere, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 17, stk. 3, 4) en læge eller tandlæge på et sygehus eller -ambulatorium, der undlader at indberette oplysninger til Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 18, stk. 1, 5) en læge eller tandlæge på et sygehus eller -ambulatorium, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 18, stk. 2, 6) en læge eller tandlæge, der undlader at korrigere urigtige oplysninger Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 19, stk. 3, og 7) den kommunale hjemmesygepleje, herunder plejehjem, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 20, stk. 2. 8) sygehusansatte farmaceuter og farmakonomer, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 21, stk. 2. 9) ansatte i Kriminalforsorgen, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 22, stk. 2. 10) ambulancebehandlere med særlige kompetencer, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 23, stk. 2. 11) ansatte på botilbud og tilsvarende boligenheder i kommunen, herunder almene boliger for personer med nedsat fysisk eller psykisk funktionsevne, der undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens elektroniske registrering af borgeres medicinoplysninger efter § 24, stk. 2. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "§ 29. Bekendtgørelsen træder i kraft den 16. maj 2011. Stk. 2. Bekendtgørelse nr. 990 af 2. oktober 2006 om Lægemiddelstyrelsens register over Personlige Elektroniske Medicinprofiler (PEM) ophæves.",
+      "valid_from": "2011-05-11",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "udtrykkeligt samtykke",
+      "definition": "enhver frivillig, specifik og informeret viljestilkendegivelse, hvorved medicinbrugeren indvilger i, at oplysninger, der vedrører den pågældende selv, gøres til genstand for behandling",
+      "source_provision": "8"
+    },
+    {
+      "term": "medicinskab",
+      "definition": "den del af registeret, hvori den enkelte borger kan foretage indberetning af medicinkøb, der ikke er ordineret på recept",
+      "source_provision": "25"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "2012:1075",
+  "type": "statute",
+  "title": "Bekendtgørelse om overvågning af fiskerfartøjer via satellit",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2012-11-20",
+  "url": "https://www.retsinformation.dk/eli/lta/2012/1075/xml",
+  "description": "Retsinformation source. DocumentId=AH004739; AccessionNumber=B20120107505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "§ 1. I denne bekendtgørelse forstås ved: 1) Fartøjsovervågningssystem (FOS): NaturErhvervstyrelsens samlede system til modtagelse og behandling af et fartøjs positionsmeldinger. 2) Fartøjsovervågningsenhed (FOE): Det elektroniske udstyr om bord på et fiskerfartøj, dvs. strømforsyning, transceiver og antenne, som sender meldinger til FOS. 3) Fiskerimoniteringscenter (FMC): NaturErhvervstyrelsens Overvågningscenter. 4) Inmarsat nummer, DNID og Member No: Entydig identifikation af fartøjets FOE."
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "§ 2. Bekendtgørelsen gælder for dansk indregistrerede fiskerfartøjer, der har en længde overalt på 12 meter og derover. Stk. 2. Bekendtgørelsen gælder ligeledes for fartøjer under 12 meter, hvis tilladelse til at fiske i eller gennemsejle et område med særlige fiskeribegrænsninger kræver dette."
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "§ 3. Et fartøj må ikke forlade havn, medmindre NaturErhvervstyrelsen har fået underretning om Inmarsat nummer, DNID og Member No i fartøjets FOE, og transmissionen fra fartøjets FOE til FOS fungerer. Stk. 2. DNID og Member No må kun være installeret i en FOE. Stk. 3. Hvis en FOE udgår, fordi fartøjsejeren udskifter den eksisterende FOE, eller fordi fartøjet udgår som registreret fiskerfartøj, skal fartøjsejeren forinden underrette NaturErhvervstyrelsen om Inmarsat nummer, DNID og Member No for den pågældende FOE."
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "§ 4. En FOE skal mindst én gang i timen transmittere korrekte positionsmeddelelser, som indeholder: Fartøjets identitet, position, kurs og fart samt tidspunkt for måling heraf. Stk. 2. Fartøjets FOE skal sende de statuskoder, som FOE-systemet automatisk genererer ved afbrydelser af normal transmission. Stk. 3. Fartøjer, der fisker i eller gennemsejler et fiskeriområde, i hvilket der gælder særlige regler for den fiskerimæssige aktivitet, kan pålægges at transmittere positionsmeddelelser med et kortere interval mellem transmissionerne end det i stk. 1 nævnte. Stk. 4. Koordinaterne på fiskeriområder omfattet af stk. 3 vil blive oplyst af NaturErhvervstyrelsen på anmodning. Fartøjsejeren er ansvarlig for opdatering og programmering af FOE. Stk. 5. Udover fartøjets eget DNID og Member No skal NaturErhvervstyrelsens DNID og Member No være installeret på fartøjets FOE med henblik på, at NaturErhvervstyrelsen til enhver tid kan indhente aktuelle positionsmeddelelser fra fartøjet (\"polling\")."
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "§ 5. Fartøjsføren skal sikre, at fartøjets FOE altid er funktinsdygtig, og at de i § 4 nævnte data overføres til FOS. Stk. 2. Fartøjsføren skal ligeledes sikre at, 1) data ikke ændres på nogen måde, 2) FOE´s antenne ikke på nogen måde obstrueres, frakobles eller blokeres, 3) strømforsyningen til FOE ikke afbrydes på nogen måde, og 4) FOE ikke demonteres uden tilladelse fra NaturErhvervstyrelsen."
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "§ 6. Det er forbudt at påbegynde en fangstrejse eller deltage i enhver form for fiskeri, herunder parfiskeri, fælles fiskeri samt omladning, hvis fartøjets FOE ikke virker. Fra det tidspunkt, hvor fartøjsføreren eller dennes repræsentant konstaterer eller underrettes om, at FOE ikke virker, skal den pågældende påse følgende: 1) Fiskeriet straks indstilles. 2) Alle redskaber straks tages om bord. 3) Fartøjet sejles i havn med henblik på reparation af FOE. 4) FMC underrettes straks om, at FOE ikke virker, jf. bilag 1. Stk. 2. Uanset stk. 1 kan FMC tillade, at den fangstrejse, som er i gang, kan afsluttes, inden fartøjet sejles i havn, hvis dette ikke vurderes at indebære en kontrolmæssig risiko. Stk. 3. Fra det i stk. 1 nævnte tidspunkt og til ankomst i havn skal fartøjsføreren afgive positionsmeddelelse med samme tidsinterval som angivet i § 4, stk. 1. Meddelelserne skal afgives som angivet i bilag 1. Stk. 4. Afgivelse af positionsmeddelelser, jf. stk. 3, skal fortsætte, indtil FMC har givet klarmelding til fartøjsføreren om, at FOE fungerer igen."
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "§ 7. Fartøjsføreren skal sikre, at der om bord på fartøjet lyttes til de internationale nød- og kaldefrekvenser, (VHF, mellembølge, digitalt selektivt kald) samt på fartøjets mobiltelefon og satellitbaserede kommunikationsmidler fra kyst til fartøj, hvis fartøjet er udrustet hermed, således af FMC kan underrette fartøjsføreren om fejl i FOE, som FMC har konstateret på baggrund af udeblevne eller mangelfulde positionsmeldinger."
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "§ 8. Fartøjsejeren eller fartøjsføreren skal forudgående underrette FMC om oplægning af fartøjet eller værftsophold, hvis denne aktivitet indebærer afbrydelse af positionstransmissionerne fra fartøjets FOE. Underretning skal ske ved afsendelse af en meddelelse til FMC i overensstemmelse med bilag 1 forud for afbrydelsen af positionstransmissionen. Stk. 2. Ved genoptagelse af normal aktivitet skal fartøjsejeren, før den sidst afsendte position forlades, sende en positionsmeddelelse, jf. bilag 1, med angivelse af, at fartøjet er tilbage i normal aktivitet. En fartøjsfører har pligt til at sikre sig, at førtøjet ikke er meldt passiv, når en fangstrejse påbegyndes."
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "§ 9. En fartøjsejer kan efter underretning af FMC få godkendelse til i nærmere angivne havne at sende med en mindre hyppig frekvens end angivet i § 4, stk. 1. Stk. 2. Det er en betingelse for den i stk. 1 nævnte godkendelse, at fartøjetsejeren forinden dokumenterer over for FMC: 1) at det benyttede FOE udstyr er installeret, programmeret og fungerer som anvist af NaturErhvervstyrelsen, 2) at der er en funktion i FOE, der afgrænser havneområdet geografisk, og 3) at nedsat frekvenshyppighed sker i en automatisk proces i FOE uden mulighed for manuel påvirkning af processen, som indgår i det automatiske system. Stk. 3. Hvis vilkårene i godkendelsen ikke overholdes, kan NaturErhvervstyrelsen tilbagekalde denne."
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "§ 10. Alle udgifter til indkøb, installation, transmission, reparation og drift afholdes af fartøjsejeren. Stk. 2. Transmissionsomkostningerne til indhentning af de i § 4, stk. 5, nævnte aktuelle positionsmeddelelser fra fartøjerne afholdes af NaturErhvervstyrelsen."
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "§ 11. Med bøde straffes den, der overtræder eller forsøger at overtræde § 3, § 4, stk. 1, 2 og 5, § 5, § 6, stk. 1, 3 og 4, og §§ 7 og 8. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "§ 12. Bekendtgørelsen træder i kraft den 1. december 2012. Stk. 2. Bekendtgørelse nr. 902 af 28. september 2009 om overvågning af fiskerfartøjer via satellit ophæves."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "§ 1. I denne bekendtgørelse forstås ved: 1) Fartøjsovervågningssystem (FOS): NaturErhvervstyrelsens samlede system til modtagelse og behandling af et fartøjs positionsmeldinger. 2) Fartøjsovervågningsenhed (FOE): Det elektroniske udstyr om bord på et fiskerfartøj, dvs. strømforsyning, transceiver og antenne, som sender meldinger til FOS. 3) Fiskerimoniteringscenter (FMC): NaturErhvervstyrelsens Overvågningscenter. 4) Inmarsat nummer, DNID og Member No: Entydig identifikation af fartøjets FOE.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "§ 2. Bekendtgørelsen gælder for dansk indregistrerede fiskerfartøjer, der har en længde overalt på 12 meter og derover. Stk. 2. Bekendtgørelsen gælder ligeledes for fartøjer under 12 meter, hvis tilladelse til at fiske i eller gennemsejle et område med særlige fiskeribegrænsninger kræver dette.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "§ 3. Et fartøj må ikke forlade havn, medmindre NaturErhvervstyrelsen har fået underretning om Inmarsat nummer, DNID og Member No i fartøjets FOE, og transmissionen fra fartøjets FOE til FOS fungerer. Stk. 2. DNID og Member No må kun være installeret i en FOE. Stk. 3. Hvis en FOE udgår, fordi fartøjsejeren udskifter den eksisterende FOE, eller fordi fartøjet udgår som registreret fiskerfartøj, skal fartøjsejeren forinden underrette NaturErhvervstyrelsen om Inmarsat nummer, DNID og Member No for den pågældende FOE.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "§ 4. En FOE skal mindst én gang i timen transmittere korrekte positionsmeddelelser, som indeholder: Fartøjets identitet, position, kurs og fart samt tidspunkt for måling heraf. Stk. 2. Fartøjets FOE skal sende de statuskoder, som FOE-systemet automatisk genererer ved afbrydelser af normal transmission. Stk. 3. Fartøjer, der fisker i eller gennemsejler et fiskeriområde, i hvilket der gælder særlige regler for den fiskerimæssige aktivitet, kan pålægges at transmittere positionsmeddelelser med et kortere interval mellem transmissionerne end det i stk. 1 nævnte. Stk. 4. Koordinaterne på fiskeriområder omfattet af stk. 3 vil blive oplyst af NaturErhvervstyrelsen på anmodning. Fartøjsejeren er ansvarlig for opdatering og programmering af FOE. Stk. 5. Udover fartøjets eget DNID og Member No skal NaturErhvervstyrelsens DNID og Member No være installeret på fartøjets FOE med henblik på, at NaturErhvervstyrelsen til enhver tid kan indhente aktuelle positionsmeddelelser fra fartøjet (\"polling\").",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "§ 5. Fartøjsføren skal sikre, at fartøjets FOE altid er funktinsdygtig, og at de i § 4 nævnte data overføres til FOS. Stk. 2. Fartøjsføren skal ligeledes sikre at, 1) data ikke ændres på nogen måde, 2) FOE´s antenne ikke på nogen måde obstrueres, frakobles eller blokeres, 3) strømforsyningen til FOE ikke afbrydes på nogen måde, og 4) FOE ikke demonteres uden tilladelse fra NaturErhvervstyrelsen.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "§ 6. Det er forbudt at påbegynde en fangstrejse eller deltage i enhver form for fiskeri, herunder parfiskeri, fælles fiskeri samt omladning, hvis fartøjets FOE ikke virker. Fra det tidspunkt, hvor fartøjsføreren eller dennes repræsentant konstaterer eller underrettes om, at FOE ikke virker, skal den pågældende påse følgende: 1) Fiskeriet straks indstilles. 2) Alle redskaber straks tages om bord. 3) Fartøjet sejles i havn med henblik på reparation af FOE. 4) FMC underrettes straks om, at FOE ikke virker, jf. bilag 1. Stk. 2. Uanset stk. 1 kan FMC tillade, at den fangstrejse, som er i gang, kan afsluttes, inden fartøjet sejles i havn, hvis dette ikke vurderes at indebære en kontrolmæssig risiko. Stk. 3. Fra det i stk. 1 nævnte tidspunkt og til ankomst i havn skal fartøjsføreren afgive positionsmeddelelse med samme tidsinterval som angivet i § 4, stk. 1. Meddelelserne skal afgives som angivet i bilag 1. Stk. 4. Afgivelse af positionsmeddelelser, jf. stk. 3, skal fortsætte, indtil FMC har givet klarmelding til fartøjsføreren om, at FOE fungerer igen.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "§ 7. Fartøjsføreren skal sikre, at der om bord på fartøjet lyttes til de internationale nød- og kaldefrekvenser, (VHF, mellembølge, digitalt selektivt kald) samt på fartøjets mobiltelefon og satellitbaserede kommunikationsmidler fra kyst til fartøj, hvis fartøjet er udrustet hermed, således af FMC kan underrette fartøjsføreren om fejl i FOE, som FMC har konstateret på baggrund af udeblevne eller mangelfulde positionsmeldinger.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "§ 8. Fartøjsejeren eller fartøjsføreren skal forudgående underrette FMC om oplægning af fartøjet eller værftsophold, hvis denne aktivitet indebærer afbrydelse af positionstransmissionerne fra fartøjets FOE. Underretning skal ske ved afsendelse af en meddelelse til FMC i overensstemmelse med bilag 1 forud for afbrydelsen af positionstransmissionen. Stk. 2. Ved genoptagelse af normal aktivitet skal fartøjsejeren, før den sidst afsendte position forlades, sende en positionsmeddelelse, jf. bilag 1, med angivelse af, at fartøjet er tilbage i normal aktivitet. En fartøjsfører har pligt til at sikre sig, at førtøjet ikke er meldt passiv, når en fangstrejse påbegyndes.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "§ 9. En fartøjsejer kan efter underretning af FMC få godkendelse til i nærmere angivne havne at sende med en mindre hyppig frekvens end angivet i § 4, stk. 1. Stk. 2. Det er en betingelse for den i stk. 1 nævnte godkendelse, at fartøjetsejeren forinden dokumenterer over for FMC: 1) at det benyttede FOE udstyr er installeret, programmeret og fungerer som anvist af NaturErhvervstyrelsen, 2) at der er en funktion i FOE, der afgrænser havneområdet geografisk, og 3) at nedsat frekvenshyppighed sker i en automatisk proces i FOE uden mulighed for manuel påvirkning af processen, som indgår i det automatiske system. Stk. 3. Hvis vilkårene i godkendelsen ikke overholdes, kan NaturErhvervstyrelsen tilbagekalde denne.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "§ 10. Alle udgifter til indkøb, installation, transmission, reparation og drift afholdes af fartøjsejeren. Stk. 2. Transmissionsomkostningerne til indhentning af de i § 4, stk. 5, nævnte aktuelle positionsmeddelelser fra fartøjerne afholdes af NaturErhvervstyrelsen.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "§ 11. Med bøde straffes den, der overtræder eller forsøger at overtræde § 3, § 4, stk. 1, 2 og 5, § 5, § 6, stk. 1, 3 og 4, og §§ 7 og 8. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "§ 12. Bekendtgørelsen træder i kraft den 1. december 2012. Stk. 2. Bekendtgørelse nr. 902 af 28. september 2009 om overvågning af fiskerfartøjer via satellit ophæves.",
+      "valid_from": "2012-11-20",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

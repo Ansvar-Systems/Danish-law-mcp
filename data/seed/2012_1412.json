@@ -1,0 +1,111 @@
+{
+  "id": "2012:1412",
+  "type": "statute",
+  "title": "Bekendtgørelse om måling af røggasmængde og opgørelse af indfyret energi i affaldsforbrændingsanlæg med henblik på betaling af energiafgift og CO2-afgift",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2012-12-21",
+  "url": "https://www.retsinformation.dk/eli/lta/2012/1412/xml",
+  "description": "Retsinformation source. DocumentId=AN011358; AccessionNumber=B20120141205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse på virksomheder med affaldsforbrændingsanlæg, der benytter røggasmetoden efter lov om afgift af stenkul, brunkul og koks m.v., jf. lovens § 5 a, og som dermed skal foretage måling og opgørelse vedrørende røggasmængden fra affaldsforbrændingsanlæggets forbrænding. Align"
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "§ 2. Til brug for opgørelse af røggasmængden, Q ref , skal der være installeret følgende typer målere, som placeres samlet, således at målingerne repræsenterer røggassen samme sted på røggasvejen, efter at røggassen har forladt kedlen. Der må ikke kunne foretages helt eller delvis bypass af målerne. Målestederne skal overholde betingelserne om målesteder i bilag 1: Align 1) Flowmåler til måling af røggasmængden, Q målt (m 3 /h). Til flowmåleren henregnes densitetsmålere til måling af røggassammensætning, temperatur og tryk, når det er nødvendigt for at opfylde kvalitetskravene til flowmåling i henhold til denne bekendtgørelse. Align 2) Temperaturmåler til korrektion af flowmåling til normal tilstand (0° C). Align 3) Trykmåler til måling af statisk tryk til korrektion af flowmåling til normal tilstand (101,3 kPa). Align 4) Vandmåler til korrektion af flowmåling til tør tilstand (volumen pct. H 2 O). Align 5) Iltmåler til korrektion af flowmåling til støkiometrisk forbrænding (volumen pct. O 2 ). Stk. 2. Til brug for opgørelse af røggasmængden, Q ref , fra affaldsforbrændingsanlæggets forbrænding anvendes AMS (Automatisk Målende System) for de typer målere, som er nævnt i stk. 1. Den faktisk udledte røggasmængde skal opgøres på løbende basis. Align Stk. 3. AMS skal kunne kvalitetssikres efter DS/EN 14181, jf. bilag 1. Align"
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "§ 3. I tilfælde af defekte målere, reparation af målere eller lignende skal der automatisk indsættes erstatningsværdier eller målinger fra redundante målere. Redundante målere skal overholde betingelserne til kvalitetssikring, som er nævnt i § 2. Ved erstatningsværdier indsættes følgende værdier vedrørende målerne, som er nævnt i § 2, stk. 1: Align 1) Flowmåler: For eventuelle timeintervaller med defekte flowmålere til måling af røggasmængden indsættes for Q ref (m 3 ) anlæggets maksimale timeværdi for Q ref for den forudgående kalendermåned. Hvis anlægget i pågældende måned ikke har været i drift i mindst 168 timer ved mindst 90 pct. af anlæggets nominelle termiske ydeevne, anvendes anlæggets maksimale korrekt målte og opgjorte timeværdi for Q ref i den seneste måned, hvor dette krav er opfyldt. Metode for opgørelse af driftskravet skal fremgå af dokumentationen for anvendelse af røggasmetoden. Align 2) Temperaturmåler: Som erstatningsværdi for temperatur anvendes den lavest mulige røggastemperatur for anlægget i o C. Align 3) Trykmåler til måling af statisk tryk: Som erstatningsværdi for tryk anvendes 106,3 kPa. Align 4) Vandmåler: Som erstatningsværdi for vand (H 2 O) anvendes 0 volumen pct. eller den lavest mulige volumen pct. for anlægget. Align 5) Iltmåler: Som erstatningsværdi for ilt (O 2 ) anvendes 3 volumen pct. eller den lavest mulige volumen pct. for anlægget. Stk. 2. Hvis en eller flere af målerne har været ude af drift i mere end 14 sammenhængende dage, skal virksomheden underrette SKAT herom. Align"
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "§ 4. Til brug for opgørelse af røggasmængden, Q ref , skal den målte røggasmængde, Q målt (m 3 /h), korrigeres for temperatur og tryk (røggasflowet i målte m 3 pr. time omregnet til normaltilstanden, 0 o C og 101,3 kPa), vandindhold og iltindhold ved tør tilstand, hvorved røggasmængden Q ref (m 3 /h) fremkommer som følger: Align top 652 Q ref [m 3 /h] = Align top 302 Q målt [m 3 /h] x 273,15/(273,15 + t[ o C]) x P[kPa]/101,3 x (100 – H 2 O[volumen pct.])/100 x (20,94 – O 2 [volumen pct.])/20,94 Align top 302 top 302 0cm 0cm 0cm 0cm 302 padding-left: 3.5pt;padding-right: 3.5pt;column-width: 227pt; 0 Stk. 2. Q ref (m 3 /h) skal beregnes på basis af minutværdier eller for en kortere tidsenhed for alle målte parametre. For vandmålinger kan værdier for fem minutters intervaller accepteres. Align Stk. 3. Q (ref) (m 3 ) timeværdierne lægges sammen for afgiftsperioden. Summen af værdierne indgår i beregningen af forbrændingsanlæggets virkningsgrad for afgiftsperioden efter lov om afgift af stenkul, brunkul og koks m.v., jf. lovens § 5 a, idet Q ref (m 3 ) lig med 260(m 3 ) svarer til 1 GJ nedre brændværdi i det brændsel, som er forbrændt i et affaldsforbrændingsanlæg. Align"
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "§ 5. Målere og måleudstyr, der indgår i beregningen af røggasmængden, skal kvalitetssikres efter Standard DS/EN 14181, jf. bilag 1. Kvalitetssikring af måler og målerudstyr skal udføres af et eksternt laboratorium m.v., som er akkrediteret hertil. Align Stk. 2. Beregningsenheden, som foretager beregning af røggasmængden for anlægget efter § 4, skal kvalitetssikres for dens faktiske funktionsduelighed og nøjagtighed, og for om beregningen sker på basis af de foreskrevne værdier, jf. § 4 stk. 2. Kvalitetssikring af beregningsenheden skal udføres af en kvalificeret ekstern og uvildig part. Kvalitetssikring af beregningsenheden følger målere og målerudstyrets interval, således at den foretages, når kvalitetssikringen af målere og måleudstyr er gennemført. Align Stk. 3. Kvalitetssikring, jf. stk. 1 og 2, afsluttes med en erklæring til virksomheden om, at verifikation har fundet sted, og at henholdsvis målernes/målerudstyrets og beregningsenhedens funktionsduelighed mv. lever op til de kvalitetskrav, som er anført i denne bekendtgørelse. Kvalitetssikringen skal som minimum foretages en gang inden for intervaller af to års varighed. Align"
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "§ 6. For de omfattede affaldsforbrændingsanlæg skal der føres journal over samtlige målinger, herunder henvisning til målerudskrifter eller anden tilsvarende dokumentation. Journalen skal også indeholde oplysninger om kalibrering, eftersyn, reparation, udfald og andre forhold, der er af betydning for målingen og beregningen af røggasmængden. Virksomheden skal kunne dokumentere målemetoder for den udledte mængde røggas og foretaget kvalitetssikring og verifikation. Der skal endvidere føres regnskab over andre forhold, der direkte eller indirekte har indflydelse på beregningen af den samlede røggasmængde. Align Stk. 2. Virksomheden skal for hver afgiftsperiode kunne dokumentere, hvorledes røggasmængden er beregnet samt afgiften heraf. Regnskabet skal tilrettelægges på en sådan måde, at der kan føres kontrol med afgiftens betaling. Align"
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "§ 7. Med bøde straffes den, der forsætligt eller groft uagtsomt Align 1) afgiver urigtige eller vildledende oplysninger eller fortier oplysninger til brug for afgiftskontrollen, medmindre højere straf er forskyldt efter lov om afgift af stenkul, brunkul og koks m.v. § 20, stk. 3, eller lov om kuldioxidafgift af visse energiprodukter § 15, stk. 4, eller Align 2) overtræder §§ 2-6. Stk. 2. Bestemmelserne i lov om afgift af stenkul, brunkul og koks m.v. § 20, stk. 4, og § 21 og i lov om kuldioxidafgift af visse energiprodukter § 15, stk. 5, og § 16 finder tilsvarende anvendelse. Align"
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "§ 8. Bekendtgørelsen træder i kraft den 1. januar 2013. Align"
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse på virksomheder med affaldsforbrændingsanlæg, der benytter røggasmetoden efter lov om afgift af stenkul, brunkul og koks m.v., jf. lovens § 5 a, og som dermed skal foretage måling og opgørelse vedrørende røggasmængden fra affaldsforbrændingsanlæggets forbrænding. Align",
+      "valid_from": "2012-12-21",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "§ 2. Til brug for opgørelse af røggasmængden, Q ref , skal der være installeret følgende typer målere, som placeres samlet, således at målingerne repræsenterer røggassen samme sted på røggasvejen, efter at røggassen har forladt kedlen. Der må ikke kunne foretages helt eller delvis bypass af målerne. Målestederne skal overholde betingelserne om målesteder i bilag 1: Align 1) Flowmåler til måling af røggasmængden, Q målt (m 3 /h). Til flowmåleren henregnes densitetsmålere til måling af røggassammensætning, temperatur og tryk, når det er nødvendigt for at opfylde kvalitetskravene til flowmåling i henhold til denne bekendtgørelse. Align 2) Temperaturmåler til korrektion af flowmåling til normal tilstand (0° C). Align 3) Trykmåler til måling af statisk tryk til korrektion af flowmåling til normal tilstand (101,3 kPa). Align 4) Vandmåler til korrektion af flowmåling til tør tilstand (volumen pct. H 2 O). Align 5) Iltmåler til korrektion af flowmåling til støkiometrisk forbrænding (volumen pct. O 2 ). Stk. 2. Til brug for opgørelse af røggasmængden, Q ref , fra affaldsforbrændingsanlæggets forbrænding anvendes AMS (Automatisk Målende System) for de typer målere, som er nævnt i stk. 1. Den faktisk udledte røggasmængde skal opgøres på løbende basis. Align Stk. 3. AMS skal kunne kvalitetssikres efter DS/EN 14181, jf. bilag 1. Align",
+      "valid_from": "2012-12-21",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "§ 3. I tilfælde af defekte målere, reparation af målere eller lignende skal der automatisk indsættes erstatningsværdier eller målinger fra redundante målere. Redundante målere skal overholde betingelserne til kvalitetssikring, som er nævnt i § 2. Ved erstatningsværdier indsættes følgende værdier vedrørende målerne, som er nævnt i § 2, stk. 1: Align 1) Flowmåler: For eventuelle timeintervaller med defekte flowmålere til måling af røggasmængden indsættes for Q ref (m 3 ) anlæggets maksimale timeværdi for Q ref for den forudgående kalendermåned. Hvis anlægget i pågældende måned ikke har været i drift i mindst 168 timer ved mindst 90 pct. af anlæggets nominelle termiske ydeevne, anvendes anlæggets maksimale korrekt målte og opgjorte timeværdi for Q ref i den seneste måned, hvor dette krav er opfyldt. Metode for opgørelse af driftskravet skal fremgå af dokumentationen for anvendelse af røggasmetoden. Align 2) Temperaturmåler: Som erstatningsværdi for temperatur anvendes den lavest mulige røggastemperatur for anlægget i o C. Align 3) Trykmåler til måling af statisk tryk: Som erstatningsværdi for tryk anvendes 106,3 kPa. Align 4) Vandmåler: Som erstatningsværdi for vand (H 2 O) anvendes 0 volumen pct. eller den lavest mulige volumen pct. for anlægget. Align 5) Iltmåler: Som erstatningsværdi for ilt (O 2 ) anvendes 3 volumen pct. eller den lavest mulige volumen pct. for anlægget. Stk. 2. Hvis en eller flere af målerne har været ude af drift i mere end 14 sammenhængende dage, skal virksomheden underrette SKAT herom. Align",
+      "valid_from": "2012-12-21",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "§ 4. Til brug for opgørelse af røggasmængden, Q ref , skal den målte røggasmængde, Q målt (m 3 /h), korrigeres for temperatur og tryk (røggasflowet i målte m 3 pr. time omregnet til normaltilstanden, 0 o C og 101,3 kPa), vandindhold og iltindhold ved tør tilstand, hvorved røggasmængden Q ref (m 3 /h) fremkommer som følger: Align top 652 Q ref [m 3 /h] = Align top 302 Q målt [m 3 /h] x 273,15/(273,15 + t[ o C]) x P[kPa]/101,3 x (100 – H 2 O[volumen pct.])/100 x (20,94 – O 2 [volumen pct.])/20,94 Align top 302 top 302 0cm 0cm 0cm 0cm 302 padding-left: 3.5pt;padding-right: 3.5pt;column-width: 227pt; 0 Stk. 2. Q ref (m 3 /h) skal beregnes på basis af minutværdier eller for en kortere tidsenhed for alle målte parametre. For vandmålinger kan værdier for fem minutters intervaller accepteres. Align Stk. 3. Q (ref) (m 3 ) timeværdierne lægges sammen for afgiftsperioden. Summen af værdierne indgår i beregningen af forbrændingsanlæggets virkningsgrad for afgiftsperioden efter lov om afgift af stenkul, brunkul og koks m.v., jf. lovens § 5 a, idet Q ref (m 3 ) lig med 260(m 3 ) svarer til 1 GJ nedre brændværdi i det brændsel, som er forbrændt i et affaldsforbrændingsanlæg. Align",
+      "valid_from": "2012-12-21",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "§ 5. Målere og måleudstyr, der indgår i beregningen af røggasmængden, skal kvalitetssikres efter Standard DS/EN 14181, jf. bilag 1. Kvalitetssikring af måler og målerudstyr skal udføres af et eksternt laboratorium m.v., som er akkrediteret hertil. Align Stk. 2. Beregningsenheden, som foretager beregning af røggasmængden for anlægget efter § 4, skal kvalitetssikres for dens faktiske funktionsduelighed og nøjagtighed, og for om beregningen sker på basis af de foreskrevne værdier, jf. § 4 stk. 2. Kvalitetssikring af beregningsenheden skal udføres af en kvalificeret ekstern og uvildig part. Kvalitetssikring af beregningsenheden følger målere og målerudstyrets interval, således at den foretages, når kvalitetssikringen af målere og måleudstyr er gennemført. Align Stk. 3. Kvalitetssikring, jf. stk. 1 og 2, afsluttes med en erklæring til virksomheden om, at verifikation har fundet sted, og at henholdsvis målernes/målerudstyrets og beregningsenhedens funktionsduelighed mv. lever op til de kvalitetskrav, som er anført i denne bekendtgørelse. Kvalitetssikringen skal som minimum foretages en gang inden for intervaller af to års varighed. Align",
+      "valid_from": "2012-12-21",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "§ 6. For de omfattede affaldsforbrændingsanlæg skal der føres journal over samtlige målinger, herunder henvisning til målerudskrifter eller anden tilsvarende dokumentation. Journalen skal også indeholde oplysninger om kalibrering, eftersyn, reparation, udfald og andre forhold, der er af betydning for målingen og beregningen af røggasmængden. Virksomheden skal kunne dokumentere målemetoder for den udledte mængde røggas og foretaget kvalitetssikring og verifikation. Der skal endvidere føres regnskab over andre forhold, der direkte eller indirekte har indflydelse på beregningen af den samlede røggasmængde. Align Stk. 2. Virksomheden skal for hver afgiftsperiode kunne dokumentere, hvorledes røggasmængden er beregnet samt afgiften heraf. Regnskabet skal tilrettelægges på en sådan måde, at der kan føres kontrol med afgiftens betaling. Align",
+      "valid_from": "2012-12-21",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "§ 7. Med bøde straffes den, der forsætligt eller groft uagtsomt Align 1) afgiver urigtige eller vildledende oplysninger eller fortier oplysninger til brug for afgiftskontrollen, medmindre højere straf er forskyldt efter lov om afgift af stenkul, brunkul og koks m.v. § 20, stk. 3, eller lov om kuldioxidafgift af visse energiprodukter § 15, stk. 4, eller Align 2) overtræder §§ 2-6. Stk. 2. Bestemmelserne i lov om afgift af stenkul, brunkul og koks m.v. § 20, stk. 4, og § 21 og i lov om kuldioxidafgift af visse energiprodukter § 15, stk. 5, og § 16 finder tilsvarende anvendelse. Align",
+      "valid_from": "2012-12-21",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "§ 8. Bekendtgørelsen træder i kraft den 1. januar 2013. Align",
+      "valid_from": "2012-12-21",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

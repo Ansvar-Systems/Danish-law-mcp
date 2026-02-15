@@ -1,0 +1,73 @@
+{
+  "eu_documents": [
+    {
+      "id": "regulation:2016/679",
+      "type": "regulation",
+      "year": 2016,
+      "number": 679,
+      "community": "EU",
+      "celex_number": "32016R0679",
+      "title": "Regulation (EU) 2016/679",
+      "short_name": "GDPR",
+      "adoption_date": "2016-04-27",
+      "entry_into_force_date": "2018-05-25",
+      "in_force": true,
+      "url_eur_lex": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "description": "General Data Protection Regulation"
+    },
+    {
+      "id": "directive:2016/680",
+      "type": "directive",
+      "year": 2016,
+      "number": 680,
+      "community": "EU",
+      "celex_number": "32016L0680",
+      "title": "Directive (EU) 2016/680",
+      "short_name": "Law Enforcement Directive",
+      "adoption_date": "2016-04-27",
+      "entry_into_force_date": "2018-05-06",
+      "in_force": true,
+      "url_eur_lex": "https://eur-lex.europa.eu/eli/dir/2016/680/oj",
+      "description": "Personal data protection in law enforcement"
+    }
+  ],
+  "eu_references": [
+    {
+      "source_type": "document",
+      "source_id": "2018:502",
+      "document_id": "2018:502",
+      "eu_document_id": "regulation:2016/679",
+      "reference_type": "implements",
+      "reference_context": "National supplementary law to GDPR",
+      "full_citation": "Databeskyttelsesloven supplerer forordning (EU) 2016/679",
+      "is_primary_implementation": true,
+      "implementation_status": "complete"
+    },
+    {
+      "source_type": "provision",
+      "source_id": "2018:502:1:1",
+      "document_id": "2018:502",
+      "provision_ref": "1:1",
+      "eu_document_id": "regulation:2016/679",
+      "eu_article": "Article 6",
+      "reference_type": "references",
+      "reference_context": "General processing basis",
+      "full_citation": "Henvisning til behandlingsgrundlag i GDPR",
+      "is_primary_implementation": false,
+      "implementation_status": "complete"
+    },
+    {
+      "source_type": "provision",
+      "source_id": "2024:1004:1:1",
+      "document_id": "2024:1004",
+      "provision_ref": "1:1",
+      "eu_document_id": "directive:2016/680",
+      "eu_article": "Article 13",
+      "reference_type": "references",
+      "reference_context": "Profession authorisation and data handling",
+      "full_citation": "Henvisning til EU-regler om behandling af oplysninger",
+      "is_primary_implementation": false,
+      "implementation_status": "partial"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+# Smithery Registry Configuration
+# https://smithery.ai
+
+name: danish-law-mcp
+title: Danish Law MCP
+description: |
+  MCP server for Danish laws and regulations.
+  Query Danish law directly from Claude, Cursor, or any MCP-compatible client.
+
+author: Ansvar Systems
+authorUrl: https://ansvar.ai
+repository: https://github.com/Ansvar-Systems/Denmark-law-mcp
+license: Apache-2.0
+
+categories:
+  - legal-and-compliance
+  - reference-data
+
+tags:
+  - danish-law
+  - denmark
+  - retsinformation
+  - lovtidende
+  - legal
+  - compliance
+  - nordic
+
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties: {}
+  commandFunction: |-
+    (config) => ({
+      command: 'npx',
+      args: ['-y', '@ansvar/danish-law-mcp']
+    })
+
+tools:
+  - name: search_laws
+    description: Full-text search across Danish statutes
+
+  - name: get_section
+    description: Retrieve a specific section from a statute
+
+  - name: list_statutes
+    description: List available statutes and their structure
+
+  - name: get_definitions
+    description: Look up official definitions from Danish law

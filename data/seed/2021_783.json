@@ -1,0 +1,379 @@
+{
+  "id": "2021:783",
+  "type": "statute",
+  "title": "Lov om MitID og NemLog-in",
+  "short_name": "LOV H#LOKDOK 01",
+  "status": "in_force",
+  "issued_date": "2021-05-04",
+  "url": "https://www.retsinformation.dk/eli/lta/2021/783/xml",
+  "description": "Retsinformation source. DocumentId=AE002888; AccessionNumber=A20210078330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Loven finder anvendelse på følgende infrastrukturløsninger samt nationale digitale identiteter og elektroniske identifikationsmidler udstedt i medfør heraf: 1) Den danske nationale elektroniske identifikationsordning (MitID-løsningen). 2) Den fællesoffentlige digitale infrastrukturløsning (NemLog-in)."
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "§ 2. I denne lov forstås ved: 1) MitID-løsningen: Den danske nationale elektroniske identifikationsordning. 2) MitID: Den nationale digitale identitet af en privatperson og tilhørende elektroniske identifikationsmidler, som kan tilknyttes privatpersoners og erhvervsbrugeres digitale identiteter. MitID er den nationale identitetsgarant for privatpersoner. 3) Autentifikation: En proces, som genkender og verificerer en digital identitet gennem anvendelse af et elektronisk identifikationsmiddel. 4) Sikringsniveau: Graden af tillid til en autentificeret digital identitet. Der sondres mellem tre forskellige sikringsniveauer for autentifikation, henholdsvis niveau lav, betydelig og høj. 5) Sikker autentifikation: Autentifikation på sikringsniveau betydelig eller høj. 6) NemLog-in: Den fællesoffentlige digitale infrastrukturløsning, som sætter privatpersoner og erhvervsbrugere med digitale identiteter i stand til at interagere med digitale selvbetjeningsløsninger. NemLog-in er endvidere den nationale identitetsgarant for erhvervsidentiteter. NemLog-in indeholder de serviceområder, som angives i § 8, stk. 2 og 3. 7) Privatperson: Fysisk person, der udelukkende agerer på vegne af sig selv uden forbindelse til en juridisk enhed, og som ikke er en erhvervsbruger. 8) Erhvervsbruger: Fysisk person, der er associeret med en offentlig myndighed, et offentligretligt organ eller en juridisk enhed, som er oprettet med en eller flere erhvervsidentiteter i serviceområdet Erhvervsadministration i NemLog-in. 9) Juridisk enhed: Juridisk enhed med et cvr-nummer, jf. lov om Det Centrale Virksomhedsregister, der hverken er en offentlig myndighed eller et offentligretligt organ. 10) Offentlig myndighed: Statslige, regionale og kommunale myndigheder. 11) Offentligretligt organ: Organer, a) der er oprettet specielt med henblik på at imødekomme almenhedens behov, dog ikke behov af industriel eller kommerciel karakter, b) der er juridiske personer, og c) som for mere end halvdelens vedkommende finansieres af staten, af regionale eller kommunale myndigheder eller af andre offentligretlige organer eller er underlagt ledelsesmæssig kontrol af disse myndigheder eller organer eller har en bestyrelse eller direktion eller et tilsynsråd, hvor mere end halvdelen af medlemmerne udpeges af staten, regionale eller kommunale myndigheder eller andre offentligretlige organer. 12) Digital selvbetjeningsløsning: Et it-system, hvor privatpersoner eller erhvervsbrugere med digitale identiteter kan tilgå digital selvbetjening efter at være blevet autentificeret. 13) Digital identitet: En samling af data, der unikt identificerer en privatperson eller en erhvervsbruger. 14) Elektronisk identifikationsmiddel: En materiel enhed, en immateriel enhed eller en kombination af disse, der indeholder personidentifikationsdata, og som bruges til autentifikation i digitale selvbetjeningsløsninger. Et elektronisk identifikationsmiddel består af et eller flere elementer, der hver især er et elektronisk identifikationsmiddel. 15) Tjenesteudbyder: En offentlig myndighed, et offentligretligt organ eller en juridisk enhed, der er ansvarlig for en eller flere digitale selvbetjeningsløsninger. 16) Brugerorganisation: En offentlig myndighed, et offentligretligt organ eller en juridisk enhed, der er tilsluttet og anvender serviceområdet Erhvervsadministration i NemLog-in til deres erhvervsbrugere. 17) Broker: En offentlig myndighed, et offentligretligt organ eller en juridisk enhed, der videreformidler autentifikation af digitale identiteter."
+    },
+    {
+      "provision_ref": "3:3",
+      "chapter": "3",
+      "section": "3",
+      "content": "§ 3. Digitaliseringsstyrelsen stiller MitID-løsningen til rådighed for offentlige myndigheder, offentligretlige organer og juridiske enheder. Digitaliseringsstyrelsen sikrer udvikling, drift og vedligeholdelse af løsningen. Stk. 2. Digitaliseringsstyrelsen stiller MitID til rådighed for privatpersoner og erhvervsbrugere, hvis disse opfylder betingelserne for udstedelse af MitID fastsat i medfør af § 4, stk. 2."
+    },
+    {
+      "provision_ref": "4:4",
+      "chapter": "4",
+      "section": "4",
+      "content": "§ 4. Digitaliseringsstyrelsen sikrer følgende forvaltningsopgaver: 1) Identitetssikring af privatpersoner, registrering af identiteter og udstedelse, suspension, spærring og genåbning af MitID til privatpersoner efter reglerne fastsat i medfør af stk. 2. 2) Udstedelse, spærring, suspension og genåbning af identifikationsmidler til erhvervsbrugere efter reglerne fastsat i medfør af stk. 2. Stk. 2. Finansministeren fastsætter regler om forvaltning af MitID-løsningen og MitID, herunder regler om identitetssikring af privatpersoner, registrering af identiteter og udstedelse, spærring, suspension og genåbning af MitID til privatpersoner og erhvervsbrugere og om adgang til at klage til Digitaliseringsstyrelsen over afgørelser truffet i medfør af disse regler."
+    },
+    {
+      "provision_ref": "4:5",
+      "chapter": "4",
+      "section": "5",
+      "content": "§ 5. Digitaliseringsstyrelsen kan udpege offentlige myndigheder, offentligretlige organer eller juridiske enheder til på vegne af Digitaliseringsstyrelsen at varetage opgaver i medfør af § 3, stk. 1, 2. pkt., og opgaver i medfør af § 4, stk. 1. Stk. 2. Kommunalbestyrelsen skal på vegne af Digitaliseringsstyrelsen varetage opgaver i medfør af § 4, stk. 1."
+    },
+    {
+      "provision_ref": "5:6",
+      "chapter": "5",
+      "section": "6",
+      "content": "§ 6. Når offentlige myndigheder og offentligretlige organer anvender digitale selvbetjeningsløsninger til at udføre en myndighedsopgave, skal de sikre, at privatpersoner og erhvervsbrugere med MitID gives adgang til selvbetjeningsløsningen, hvis adgangen kræver sikker autentifikati‍o‌n. Mi‌‍tID-løsningen skal i dette tilfælde anskaffes fra Digitaliseringsstyrelsen. Stk. 2. Når offentlige myndigheders og offentligretlige organers digitale selvbetjeningsløsninger ikke anvendes til at udføre en myndighedsopgave, eller hvis adgangen til løsningerne ikke kræver sikker autentifikation, kan de offentlige myndigheder og offentligretlige organer give privatpersoner og erhvervsbrugere adgang til løsningerne med MitID. Mi‌‍tID-løsningen kan i dette tilfælde anskaffes fra Digitaliseringsstyrelsen."
+    },
+    {
+      "provision_ref": "5:7",
+      "chapter": "5",
+      "section": "7",
+      "content": "§ 7. Juridiske enheder kan i rollen som tjenesteudbydere anvende MitID-løsningen."
+    },
+    {
+      "provision_ref": "6:8",
+      "chapter": "6",
+      "section": "8",
+      "content": "§ 8. Digitaliseringsstyrelsen stiller NemLog-in til rådighed for offentlige myndigheder, offentligretlige organer og juridiske enheder. Digitaliseringsstyrelsen sikrer udvikling, drift og vedligeholdelse af NemLog-in. Stk. 2. NemLog-in indeholder følgende serviceområder til tjenesteudbydere: 1) Login og autentifikation, som sikrer den service, at privatpersoner og erhvervsbrugere kan tilgå digitale selvbetjeningsløsninger. 2) Digital repræsentation, som sikrer følgende servicer: a) Digital repræsentation af en privatperson, således at privatpersonen ved anvendelse af en digital selvbetjeningsløsning kan lade sig repræsentere digitalt af en anden privatperson, af en erhvervsbruger eller af en juridisk enhed over for en offentlig myndighed eller et offentligretligt organ, som udbyder en digital selvbetjeningsløsning. b) Digital repræsentation af en juridisk enhed, således at en erhvervsbruger, der selvstændigt kan repræsentere en juridisk enhed, kan repræsentere enheden ved anvendelse af en digital selvbetjeningsløsning over for en offentlig myndighed eller et offentligretligt organ, som udbyder en digital selvbetjeningsløsning. 3) Digital signering, som sikrer følgende servicer: a) At offentlige myndigheder, offentligretlige organer og juridiske enheder kan udstille digital signering af dokumenter i digitale selvbetjeningsløsninger. b) At privatpersoner og erhvervsbrugere kan signere digitale dokumenter og validere signerede dokumenters digitale signatur og integritet. Stk. 3. NemLog-in indeholder serviceområdet Erhvervsadministration til brugerorganisationer, som sikrer følgende servicer: 1) At offentlige myndigheder, offentligretlige organer og juridiske enheder kan oprette, administrere og anvende digitale erhvervsidentiteter samt tildele og administrere elektroniske identifikationsmidler, hvis de opfylder betingelserne for identitetssikring ved oprettelse som brugerorganisation som nærmere fastsat i medfør af § 9, stk. 4. 2) At offentlige myndigheder, offentligretlige organer og juridiske enheder kan tildele og administrere rettigheder og certifikater til erhvervsidentiteter."
+    },
+    {
+      "provision_ref": "7:9",
+      "chapter": "7",
+      "section": "9",
+      "content": "§ 9. Digitaliseringsstyrelsen sikrer, at der sker forvaltning af NemLog-in, herunder identitetssikring af offentlige myndigheder, offentligretlige organer og juridiske enheder, når de oprettes som brugerorganisationer i serviceområdet Erhvervsadministration i NemLog-in. Digitaliseringsstyrelsen sikrer, at brugerorganisationers adgang til serviceområdet Erhvervsadministration i NemLog-in og erhvervsbrugeres digitale identiteter kan spærres og genåbnes efter reglerne fastsat i medfør af stk. 4. Stk. 2. En privatperson, der skal registreres som erhvervsbruger i serviceområdet Erhvervsadministration, kan anvende sit MitID udstedt til privatbrug til identitetssikring ved registreringen. Stk. 3. En erhvervsbruger kan få tilknyttet sit elektroniske identifikationsmiddel, som er tilknyttet privatpersonens MitID-identitet, til sin erhvervsidentitet, således at erhvervsbrugeren kan anvende førnævnte identifikationsmiddel til at autentificere en eller flere erhvervsidentiteter. Tilknytningen er frivillig for erhvervsbrugeren og frivillig for brugerorganisationen, som erhvervsbrugeren er tilknyttet. Stk. 4. Finansministeren fastsætter regler om forvaltning af NemLog-in, herunder regler om identitetssikring af brugerorganisationer og spærring og genåbning af erhvervsbrugeres digitale identiteter og om adgang til at klage til Digitaliseringsstyrelsen over afgørelser truffet i medfør af disse regler."
+    },
+    {
+      "provision_ref": "7:10",
+      "chapter": "7",
+      "section": "10",
+      "content": "§ 10. Digitaliseringsstyrelsen kan udpege offentlige myndigheder, offentligretlige organer eller juridiske enheder til på vegne af Digitaliseringsstyrelsen at varetage opgaver i medfør af § 8, stk. 1, 2. pkt., og opgaver i medfør af § 9, stk. 1."
+    },
+    {
+      "provision_ref": "8:11",
+      "chapter": "8",
+      "section": "11",
+      "content": "§ 11. Offentlige myndigheder og offentligretlige organer, som anvender en digital selvbetjeningsløsning til at udføre en myndighedsopgave, skal i rollen som tjenesteudbydere anvende følgende serviceområder: 1) Login og autentifikation, jf. § 8, stk. 2, nr. 1, hvis adgangen til den digitale selvbetjeningsløsning kræver sikker autentifikation. 2) Digital repræsentation, jf. § 8, stk. 2, nr. 2. Stk. 2. Offentlige myndigheder og offentligretlige organer kan i rollen som tjenesteudbydere anvende følgende serviceområder: 1) Login og autentifikation, jf. § 8, stk. 2, nr. 1, hvis adgangen til den digitale selvbetjeningsløsning ikke kræver sikker autentifikation, eller hvis der ikke udføres en myndighedsopgave. 2) Digital signering, jf. § 8, stk. 2, nr. 3. Stk. 3. Offentlige myndigheder og offentligretlige organer kan i rollen som brugerorganisationer anvende serviceområdet Erhvervsadministration, jf. § 8, stk. 3. Stk. 4. Offentlige myndigheder og offentligretlige organer skal i de i stk. 1 anførte tilfælde anskaffe serviceområderne fra Digitaliseringsstyrelsen. Offentlige myndigheder og offentligretlige organer kan i de i stk. 2 og 3 anførte tilfælde anskaffe serviceområderne fra Digitaliseringsstyrelsen."
+    },
+    {
+      "provision_ref": "8:12",
+      "chapter": "8",
+      "section": "12",
+      "content": "§ 12. Juridiske enheder kan indgå aftale med Digitaliseringsstyrelsen om anvendelse af serviceområderne nævnt i § 8, stk. 2, nr. 1 og 3, og stk. 3."
+    },
+    {
+      "provision_ref": "9:13",
+      "chapter": "9",
+      "section": "13",
+      "content": "§ 13. Ved en privatpersons anvendelse af MitID eller en erhvervsbrugers anvendelse af det elektroniske identifikati‌‍onsmiddel i MitID til login og autentifikation kan Digitaliseringsstyrelsen videregive autentifikationssvar, herunder risikodata vedrørende den konkrete og enkelte transaktion, til en broker, der er tilsluttet MitID-løsningen eller NemLog-in. Stk. 2. En broker kan foretage automatiske afgørelser om log-in på baggrund af risikodata videregivet efter stk. 1. Stk. 3. En broker, der i medfør af stk. 1 har modtaget autentifikationssvar, kan videregive det modtagne og behandlede autentifikationssvar til en tjenesteudbyder, der modtager autentifikationer fra MitID-løsningen. Stk. 4. Ved en erhvervsbrugers anvendelse af et elektronisk identifikationsmiddel fra en lokal identitetsgarant tilsluttet NemLog-in kan Digitaliseringsstyrelsen videregive autentifikationssvar vedrørende den konkrete og enkelte transaktion til en broker, der er tilsluttet NemLog-in. Stk. 5. En broker, der i medfør af stk. 4 har modtaget autentifikationssvar, kan videregive det modtagne og behandlede autentifikationssvar til en tjenesteudbyder, der gennem en broker modtager autentifikationer fra NemLog-in."
+    },
+    {
+      "provision_ref": "9:14",
+      "chapter": "9",
+      "section": "14",
+      "content": "§ 14. Digitaliseringsstyrelsen kan kortvarigt og i et sikret teknisk miljø behandle følsomme personoplysninger i forbindelse med validering af digitale signaturer i valideringstjenesten i serviceområdet Digital signering."
+    },
+    {
+      "provision_ref": "10:15",
+      "chapter": "10",
+      "section": "15",
+      "content": "§ 15. Digitaliseringsstyrelsen indgår aftale med juridiske enheder om vederlag for tilslutning til og anvendelse af MitID-løsningen og NemLog-in. Stk. 2. Offentlige myndigheder og offentligretlige organer betaler for MitID-løsningen og NemLog-in gennem fællesoffentlig finansiering eller ved betaling af vederlag fastsat af finansministeren. Stk. 3. Finansministeren kan fastsætte regler om opkrævning af gebyr hos privatpersoner for registrering og udstedelse af MitID."
+    },
+    {
+      "provision_ref": "11:16",
+      "chapter": "11",
+      "section": "16",
+      "content": "§ 16. Finansministeren fastsætter regler om tilrådighedsstillelse for offentlige myndigheder og offentligretlige organer, jf. §§ 3 og 8, og om offentlige myndigheder og offentligretlige organers tilslutning til og anvendelse af MitID-løsningen og NemLog-in."
+    },
+    {
+      "provision_ref": "12:17",
+      "chapter": "12",
+      "section": "17",
+      "content": "§ 17. Digitaliseringsstyrelsen kan meddele offentlige myndigheder og offentligretlige organer påbud om at opfylde forpligtelser i henhold til § 6, stk. 1, og § 11, stk. 1."
+    },
+    {
+      "provision_ref": "13:18",
+      "chapter": "13",
+      "section": "18",
+      "content": "§ 18. Digitaliseringsstyrelsen fører tilsyn med drift, vedligeholdelse og forvaltning af MitID-løsningen og NemLog-in, herunder med, at løsningerne overholder nationale standarder for e-id-ordninger. Stk. 2. Finansministeren kan fastsætte nærmere regler om Digitaliseringsstyrelsens tilsyn efter stk. 1, herunder om Digitaliseringsstyrelsens samarbejde med andre tilsynsmyndigheder efter aftale med vedkommende minister."
+    },
+    {
+      "provision_ref": "14:19",
+      "chapter": "14",
+      "section": "19",
+      "content": "§ 19. Offentlige myndigheders medarbejdere og enhver, der i øvrigt udøver bistand til offentlige myndigheder, er under ansvar efter straffelovens §§ 152-152 f forpligtet til at iagttage tavshed over for uvedkommende med hensyn til oplysninger om den tekniske og sikkerhedsmæssige indretning og om processer for opretholdelse, vedligeholdelse og drift af sikkerhed i MitID-løsningen og NemLog-in."
+    },
+    {
+      "provision_ref": "15:20",
+      "chapter": "15",
+      "section": "20",
+      "content": "§ 20. Forvaltningsloven finder anvendelse på afgørelser om udstedelse, spærring og genåbning af MitID, jf. § 4, stk. 2, som træffes af juridiske enheder, der er udpeget i medfør af § 5, stk. 1. Stk. 2. Forvaltningsloven finder anvendelse på afgørelser om identitetssikring af juridiske enheder, spærring af brugerorganisationers adgang til Erhvervsadministration i NemLog-in og spærring af digitale identiteter, jf. § 9, stk. 4, som træffes af juridiske enheder, der er udpeget i medfør af § 10."
+    },
+    {
+      "provision_ref": "16:21",
+      "chapter": "16",
+      "section": "21",
+      "content": "§ 21. Digitaliseringsstyrelsen er erstatningsansvarlig over for privatpersoner, offentlige myndigheder, offentligretlige organer eller juridiske enheder som følge af fejl i forbindelse med registrering og udstedelse af MitID og autentifikation med MitID af en privatperson eller en erhvervsbruger, medmindre Digitaliseringsstyrelsen kan godtgøre, at Digitaliseringsstyrelsen ikke har handlet forsætligt eller uagtsomt."
+    },
+    {
+      "provision_ref": "17:22",
+      "chapter": "17",
+      "section": "22",
+      "content": "§ 22. Finansministeren kan efter aftale med vedkommende minister bemyndige en anden statslig myndighed til at udøve de beføjelser, der i denne lov er tillagt Digitaliseringsstyrelsen."
+    },
+    {
+      "provision_ref": "18:23",
+      "chapter": "18",
+      "section": "23",
+      "content": "§ 23. Digitaliseringsstyrelsen kan samarbejde med offentlige myndigheder, offentligretlige organer og juridiske enheder om at tilvejebringe fremtidige elektroniske identifikati‌‍onsordninger svarende til MitID-løsningen eller andre løsninger, der måtte træde i stedet herfor."
+    },
+    {
+      "provision_ref": "19:24",
+      "chapter": "19",
+      "section": "24",
+      "content": "§ 24. Finansministeren fastsætter tidspunktet for lovens ikrafttræden og kan bestemme, at forskellige dele af loven træder i kraft på forskellige tidspunkter."
+    },
+    {
+      "provision_ref": "19:25",
+      "chapter": "19",
+      "section": "25",
+      "content": "§ 25. Finansministeren fastsætter tidspunktet for ophævelse af lov nr. 439 af 8. maj 2018 om udstedelse af NemID med offentlig digital signatur til fysiske personer og til medarbejdere i juridiske enheder."
+    },
+    {
+      "provision_ref": "20:26",
+      "chapter": "20",
+      "section": "26",
+      "content": "§ 26. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger. Loven kan endvidere sættes i kraft på forskellige tidspunkter."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Loven finder anvendelse på følgende infrastrukturløsninger samt nationale digitale identiteter og elektroniske identifikationsmidler udstedt i medfør heraf: 1) Den danske nationale elektroniske identifikationsordning (MitID-løsningen). 2) Den fællesoffentlige digitale infrastrukturløsning (NemLog-in).",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "§ 2. I denne lov forstås ved: 1) MitID-løsningen: Den danske nationale elektroniske identifikationsordning. 2) MitID: Den nationale digitale identitet af en privatperson og tilhørende elektroniske identifikationsmidler, som kan tilknyttes privatpersoners og erhvervsbrugeres digitale identiteter. MitID er den nationale identitetsgarant for privatpersoner. 3) Autentifikation: En proces, som genkender og verificerer en digital identitet gennem anvendelse af et elektronisk identifikationsmiddel. 4) Sikringsniveau: Graden af tillid til en autentificeret digital identitet. Der sondres mellem tre forskellige sikringsniveauer for autentifikation, henholdsvis niveau lav, betydelig og høj. 5) Sikker autentifikation: Autentifikation på sikringsniveau betydelig eller høj. 6) NemLog-in: Den fællesoffentlige digitale infrastrukturløsning, som sætter privatpersoner og erhvervsbrugere med digitale identiteter i stand til at interagere med digitale selvbetjeningsløsninger. NemLog-in er endvidere den nationale identitetsgarant for erhvervsidentiteter. NemLog-in indeholder de serviceområder, som angives i § 8, stk. 2 og 3. 7) Privatperson: Fysisk person, der udelukkende agerer på vegne af sig selv uden forbindelse til en juridisk enhed, og som ikke er en erhvervsbruger. 8) Erhvervsbruger: Fysisk person, der er associeret med en offentlig myndighed, et offentligretligt organ eller en juridisk enhed, som er oprettet med en eller flere erhvervsidentiteter i serviceområdet Erhvervsadministration i NemLog-in. 9) Juridisk enhed: Juridisk enhed med et cvr-nummer, jf. lov om Det Centrale Virksomhedsregister, der hverken er en offentlig myndighed eller et offentligretligt organ. 10) Offentlig myndighed: Statslige, regionale og kommunale myndigheder. 11) Offentligretligt organ: Organer, a) der er oprettet specielt med henblik på at imødekomme almenhedens behov, dog ikke behov af industriel eller kommerciel karakter, b) der er juridiske personer, og c) som for mere end halvdelens vedkommende finansieres af staten, af regionale eller kommunale myndigheder eller af andre offentligretlige organer eller er underlagt ledelsesmæssig kontrol af disse myndigheder eller organer eller har en bestyrelse eller direktion eller et tilsynsråd, hvor mere end halvdelen af medlemmerne udpeges af staten, regionale eller kommunale myndigheder eller andre offentligretlige organer. 12) Digital selvbetjeningsløsning: Et it-system, hvor privatpersoner eller erhvervsbrugere med digitale identiteter kan tilgå digital selvbetjening efter at være blevet autentificeret. 13) Digital identitet: En samling af data, der unikt identificerer en privatperson eller en erhvervsbruger. 14) Elektronisk identifikationsmiddel: En materiel enhed, en immateriel enhed eller en kombination af disse, der indeholder personidentifikationsdata, og som bruges til autentifikation i digitale selvbetjeningsløsninger. Et elektronisk identifikationsmiddel består af et eller flere elementer, der hver især er et elektronisk identifikationsmiddel. 15) Tjenesteudbyder: En offentlig myndighed, et offentligretligt organ eller en juridisk enhed, der er ansvarlig for en eller flere digitale selvbetjeningsløsninger. 16) Brugerorganisation: En offentlig myndighed, et offentligretligt organ eller en juridisk enhed, der er tilsluttet og anvender serviceområdet Erhvervsadministration i NemLog-in til deres erhvervsbrugere. 17) Broker: En offentlig myndighed, et offentligretligt organ eller en juridisk enhed, der videreformidler autentifikation af digitale identiteter.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:3",
+      "chapter": "3",
+      "section": "3",
+      "content": "§ 3. Digitaliseringsstyrelsen stiller MitID-løsningen til rådighed for offentlige myndigheder, offentligretlige organer og juridiske enheder. Digitaliseringsstyrelsen sikrer udvikling, drift og vedligeholdelse af løsningen. Stk. 2. Digitaliseringsstyrelsen stiller MitID til rådighed for privatpersoner og erhvervsbrugere, hvis disse opfylder betingelserne for udstedelse af MitID fastsat i medfør af § 4, stk. 2.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:4",
+      "chapter": "4",
+      "section": "4",
+      "content": "§ 4. Digitaliseringsstyrelsen sikrer følgende forvaltningsopgaver: 1) Identitetssikring af privatpersoner, registrering af identiteter og udstedelse, suspension, spærring og genåbning af MitID til privatpersoner efter reglerne fastsat i medfør af stk. 2. 2) Udstedelse, spærring, suspension og genåbning af identifikationsmidler til erhvervsbrugere efter reglerne fastsat i medfør af stk. 2. Stk. 2. Finansministeren fastsætter regler om forvaltning af MitID-løsningen og MitID, herunder regler om identitetssikring af privatpersoner, registrering af identiteter og udstedelse, spærring, suspension og genåbning af MitID til privatpersoner og erhvervsbrugere og om adgang til at klage til Digitaliseringsstyrelsen over afgørelser truffet i medfør af disse regler.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:5",
+      "chapter": "4",
+      "section": "5",
+      "content": "§ 5. Digitaliseringsstyrelsen kan udpege offentlige myndigheder, offentligretlige organer eller juridiske enheder til på vegne af Digitaliseringsstyrelsen at varetage opgaver i medfør af § 3, stk. 1, 2. pkt., og opgaver i medfør af § 4, stk. 1. Stk. 2. Kommunalbestyrelsen skal på vegne af Digitaliseringsstyrelsen varetage opgaver i medfør af § 4, stk. 1.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:6",
+      "chapter": "5",
+      "section": "6",
+      "content": "§ 6. Når offentlige myndigheder og offentligretlige organer anvender digitale selvbetjeningsløsninger til at udføre en myndighedsopgave, skal de sikre, at privatpersoner og erhvervsbrugere med MitID gives adgang til selvbetjeningsløsningen, hvis adgangen kræver sikker autentifikati‍o‌n. Mi‌‍tID-løsningen skal i dette tilfælde anskaffes fra Digitaliseringsstyrelsen. Stk. 2. Når offentlige myndigheders og offentligretlige organers digitale selvbetjeningsløsninger ikke anvendes til at udføre en myndighedsopgave, eller hvis adgangen til løsningerne ikke kræver sikker autentifikation, kan de offentlige myndigheder og offentligretlige organer give privatpersoner og erhvervsbrugere adgang til løsningerne med MitID. Mi‌‍tID-løsningen kan i dette tilfælde anskaffes fra Digitaliseringsstyrelsen.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:7",
+      "chapter": "5",
+      "section": "7",
+      "content": "§ 7. Juridiske enheder kan i rollen som tjenesteudbydere anvende MitID-løsningen.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:8",
+      "chapter": "6",
+      "section": "8",
+      "content": "§ 8. Digitaliseringsstyrelsen stiller NemLog-in til rådighed for offentlige myndigheder, offentligretlige organer og juridiske enheder. Digitaliseringsstyrelsen sikrer udvikling, drift og vedligeholdelse af NemLog-in. Stk. 2. NemLog-in indeholder følgende serviceområder til tjenesteudbydere: 1) Login og autentifikation, som sikrer den service, at privatpersoner og erhvervsbrugere kan tilgå digitale selvbetjeningsløsninger. 2) Digital repræsentation, som sikrer følgende servicer: a) Digital repræsentation af en privatperson, således at privatpersonen ved anvendelse af en digital selvbetjeningsløsning kan lade sig repræsentere digitalt af en anden privatperson, af en erhvervsbruger eller af en juridisk enhed over for en offentlig myndighed eller et offentligretligt organ, som udbyder en digital selvbetjeningsløsning. b) Digital repræsentation af en juridisk enhed, således at en erhvervsbruger, der selvstændigt kan repræsentere en juridisk enhed, kan repræsentere enheden ved anvendelse af en digital selvbetjeningsløsning over for en offentlig myndighed eller et offentligretligt organ, som udbyder en digital selvbetjeningsløsning. 3) Digital signering, som sikrer følgende servicer: a) At offentlige myndigheder, offentligretlige organer og juridiske enheder kan udstille digital signering af dokumenter i digitale selvbetjeningsløsninger. b) At privatpersoner og erhvervsbrugere kan signere digitale dokumenter og validere signerede dokumenters digitale signatur og integritet. Stk. 3. NemLog-in indeholder serviceområdet Erhvervsadministration til brugerorganisationer, som sikrer følgende servicer: 1) At offentlige myndigheder, offentligretlige organer og juridiske enheder kan oprette, administrere og anvende digitale erhvervsidentiteter samt tildele og administrere elektroniske identifikationsmidler, hvis de opfylder betingelserne for identitetssikring ved oprettelse som brugerorganisation som nærmere fastsat i medfør af § 9, stk. 4. 2) At offentlige myndigheder, offentligretlige organer og juridiske enheder kan tildele og administrere rettigheder og certifikater til erhvervsidentiteter.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:9",
+      "chapter": "7",
+      "section": "9",
+      "content": "§ 9. Digitaliseringsstyrelsen sikrer, at der sker forvaltning af NemLog-in, herunder identitetssikring af offentlige myndigheder, offentligretlige organer og juridiske enheder, når de oprettes som brugerorganisationer i serviceområdet Erhvervsadministration i NemLog-in. Digitaliseringsstyrelsen sikrer, at brugerorganisationers adgang til serviceområdet Erhvervsadministration i NemLog-in og erhvervsbrugeres digitale identiteter kan spærres og genåbnes efter reglerne fastsat i medfør af stk. 4. Stk. 2. En privatperson, der skal registreres som erhvervsbruger i serviceområdet Erhvervsadministration, kan anvende sit MitID udstedt til privatbrug til identitetssikring ved registreringen. Stk. 3. En erhvervsbruger kan få tilknyttet sit elektroniske identifikationsmiddel, som er tilknyttet privatpersonens MitID-identitet, til sin erhvervsidentitet, således at erhvervsbrugeren kan anvende førnævnte identifikationsmiddel til at autentificere en eller flere erhvervsidentiteter. Tilknytningen er frivillig for erhvervsbrugeren og frivillig for brugerorganisationen, som erhvervsbrugeren er tilknyttet. Stk. 4. Finansministeren fastsætter regler om forvaltning af NemLog-in, herunder regler om identitetssikring af brugerorganisationer og spærring og genåbning af erhvervsbrugeres digitale identiteter og om adgang til at klage til Digitaliseringsstyrelsen over afgørelser truffet i medfør af disse regler.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:10",
+      "chapter": "7",
+      "section": "10",
+      "content": "§ 10. Digitaliseringsstyrelsen kan udpege offentlige myndigheder, offentligretlige organer eller juridiske enheder til på vegne af Digitaliseringsstyrelsen at varetage opgaver i medfør af § 8, stk. 1, 2. pkt., og opgaver i medfør af § 9, stk. 1.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:11",
+      "chapter": "8",
+      "section": "11",
+      "content": "§ 11. Offentlige myndigheder og offentligretlige organer, som anvender en digital selvbetjeningsløsning til at udføre en myndighedsopgave, skal i rollen som tjenesteudbydere anvende følgende serviceområder: 1) Login og autentifikation, jf. § 8, stk. 2, nr. 1, hvis adgangen til den digitale selvbetjeningsløsning kræver sikker autentifikation. 2) Digital repræsentation, jf. § 8, stk. 2, nr. 2. Stk. 2. Offentlige myndigheder og offentligretlige organer kan i rollen som tjenesteudbydere anvende følgende serviceområder: 1) Login og autentifikation, jf. § 8, stk. 2, nr. 1, hvis adgangen til den digitale selvbetjeningsløsning ikke kræver sikker autentifikation, eller hvis der ikke udføres en myndighedsopgave. 2) Digital signering, jf. § 8, stk. 2, nr. 3. Stk. 3. Offentlige myndigheder og offentligretlige organer kan i rollen som brugerorganisationer anvende serviceområdet Erhvervsadministration, jf. § 8, stk. 3. Stk. 4. Offentlige myndigheder og offentligretlige organer skal i de i stk. 1 anførte tilfælde anskaffe serviceområderne fra Digitaliseringsstyrelsen. Offentlige myndigheder og offentligretlige organer kan i de i stk. 2 og 3 anførte tilfælde anskaffe serviceområderne fra Digitaliseringsstyrelsen.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:12",
+      "chapter": "8",
+      "section": "12",
+      "content": "§ 12. Juridiske enheder kan indgå aftale med Digitaliseringsstyrelsen om anvendelse af serviceområderne nævnt i § 8, stk. 2, nr. 1 og 3, og stk. 3.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:13",
+      "chapter": "9",
+      "section": "13",
+      "content": "§ 13. Ved en privatpersons anvendelse af MitID eller en erhvervsbrugers anvendelse af det elektroniske identifikati‌‍onsmiddel i MitID til login og autentifikation kan Digitaliseringsstyrelsen videregive autentifikationssvar, herunder risikodata vedrørende den konkrete og enkelte transaktion, til en broker, der er tilsluttet MitID-løsningen eller NemLog-in. Stk. 2. En broker kan foretage automatiske afgørelser om log-in på baggrund af risikodata videregivet efter stk. 1. Stk. 3. En broker, der i medfør af stk. 1 har modtaget autentifikationssvar, kan videregive det modtagne og behandlede autentifikationssvar til en tjenesteudbyder, der modtager autentifikationer fra MitID-løsningen. Stk. 4. Ved en erhvervsbrugers anvendelse af et elektronisk identifikationsmiddel fra en lokal identitetsgarant tilsluttet NemLog-in kan Digitaliseringsstyrelsen videregive autentifikationssvar vedrørende den konkrete og enkelte transaktion til en broker, der er tilsluttet NemLog-in. Stk. 5. En broker, der i medfør af stk. 4 har modtaget autentifikationssvar, kan videregive det modtagne og behandlede autentifikationssvar til en tjenesteudbyder, der gennem en broker modtager autentifikationer fra NemLog-in.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:14",
+      "chapter": "9",
+      "section": "14",
+      "content": "§ 14. Digitaliseringsstyrelsen kan kortvarigt og i et sikret teknisk miljø behandle følsomme personoplysninger i forbindelse med validering af digitale signaturer i valideringstjenesten i serviceområdet Digital signering.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:15",
+      "chapter": "10",
+      "section": "15",
+      "content": "§ 15. Digitaliseringsstyrelsen indgår aftale med juridiske enheder om vederlag for tilslutning til og anvendelse af MitID-løsningen og NemLog-in. Stk. 2. Offentlige myndigheder og offentligretlige organer betaler for MitID-løsningen og NemLog-in gennem fællesoffentlig finansiering eller ved betaling af vederlag fastsat af finansministeren. Stk. 3. Finansministeren kan fastsætte regler om opkrævning af gebyr hos privatpersoner for registrering og udstedelse af MitID.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:16",
+      "chapter": "11",
+      "section": "16",
+      "content": "§ 16. Finansministeren fastsætter regler om tilrådighedsstillelse for offentlige myndigheder og offentligretlige organer, jf. §§ 3 og 8, og om offentlige myndigheder og offentligretlige organers tilslutning til og anvendelse af MitID-løsningen og NemLog-in.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "12:17",
+      "chapter": "12",
+      "section": "17",
+      "content": "§ 17. Digitaliseringsstyrelsen kan meddele offentlige myndigheder og offentligretlige organer påbud om at opfylde forpligtelser i henhold til § 6, stk. 1, og § 11, stk. 1.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "13:18",
+      "chapter": "13",
+      "section": "18",
+      "content": "§ 18. Digitaliseringsstyrelsen fører tilsyn med drift, vedligeholdelse og forvaltning af MitID-løsningen og NemLog-in, herunder med, at løsningerne overholder nationale standarder for e-id-ordninger. Stk. 2. Finansministeren kan fastsætte nærmere regler om Digitaliseringsstyrelsens tilsyn efter stk. 1, herunder om Digitaliseringsstyrelsens samarbejde med andre tilsynsmyndigheder efter aftale med vedkommende minister.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:19",
+      "chapter": "14",
+      "section": "19",
+      "content": "§ 19. Offentlige myndigheders medarbejdere og enhver, der i øvrigt udøver bistand til offentlige myndigheder, er under ansvar efter straffelovens §§ 152-152 f forpligtet til at iagttage tavshed over for uvedkommende med hensyn til oplysninger om den tekniske og sikkerhedsmæssige indretning og om processer for opretholdelse, vedligeholdelse og drift af sikkerhed i MitID-løsningen og NemLog-in.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "15:20",
+      "chapter": "15",
+      "section": "20",
+      "content": "§ 20. Forvaltningsloven finder anvendelse på afgørelser om udstedelse, spærring og genåbning af MitID, jf. § 4, stk. 2, som træffes af juridiske enheder, der er udpeget i medfør af § 5, stk. 1. Stk. 2. Forvaltningsloven finder anvendelse på afgørelser om identitetssikring af juridiske enheder, spærring af brugerorganisationers adgang til Erhvervsadministration i NemLog-in og spærring af digitale identiteter, jf. § 9, stk. 4, som træffes af juridiske enheder, der er udpeget i medfør af § 10.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "16:21",
+      "chapter": "16",
+      "section": "21",
+      "content": "§ 21. Digitaliseringsstyrelsen er erstatningsansvarlig over for privatpersoner, offentlige myndigheder, offentligretlige organer eller juridiske enheder som følge af fejl i forbindelse med registrering og udstedelse af MitID og autentifikation med MitID af en privatperson eller en erhvervsbruger, medmindre Digitaliseringsstyrelsen kan godtgøre, at Digitaliseringsstyrelsen ikke har handlet forsætligt eller uagtsomt.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "17:22",
+      "chapter": "17",
+      "section": "22",
+      "content": "§ 22. Finansministeren kan efter aftale med vedkommende minister bemyndige en anden statslig myndighed til at udøve de beføjelser, der i denne lov er tillagt Digitaliseringsstyrelsen.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "18:23",
+      "chapter": "18",
+      "section": "23",
+      "content": "§ 23. Digitaliseringsstyrelsen kan samarbejde med offentlige myndigheder, offentligretlige organer og juridiske enheder om at tilvejebringe fremtidige elektroniske identifikati‌‍onsordninger svarende til MitID-løsningen eller andre løsninger, der måtte træde i stedet herfor.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "19:24",
+      "chapter": "19",
+      "section": "24",
+      "content": "§ 24. Finansministeren fastsætter tidspunktet for lovens ikrafttræden og kan bestemme, at forskellige dele af loven træder i kraft på forskellige tidspunkter.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "19:25",
+      "chapter": "19",
+      "section": "25",
+      "content": "§ 25. Finansministeren fastsætter tidspunktet for ophævelse af lov nr. 439 af 8. maj 2018 om udstedelse af NemID med offentlig digital signatur til fysiske personer og til medarbejdere i juridiske enheder.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "20:26",
+      "chapter": "20",
+      "section": "26",
+      "content": "§ 26. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger. Loven kan endvidere sættes i kraft på forskellige tidspunkter.",
+      "valid_from": "2021-05-04",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

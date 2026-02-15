@@ -1,0 +1,141 @@
+{
+  "id": "2014:1457",
+  "type": "statute",
+  "title": "Bekendtgørelse om Nemrefusion",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2014-12-16",
+  "url": "https://www.retsinformation.dk/eli/lta/2014/1457/xml",
+  "description": "Retsinformation source. DocumentId=BE006054; AccessionNumber=B20140145705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Nemrefusion skal understøtte 1) arbejdsgiverens anmodning om tidlig opfølgning, anmeldelse af sygefravær og anmodning om sygedagpengerefusion, dagpenge efter barselloven, løntilskud efter kapitel 12 i lov om en aktiv beskæftigelsesindsats og løntilskud til personer i fleksjob efter § 71, stk. 2 og 3, i lov om en aktiv beskæftigelsesindsats, 2) en selvstændig erhvervsdrivendes anmeldelse af sygefravær og anmodning om sygedagpenge, dagpenge efter barselloven og anmodning om udbetaling af støtte i form af tilskud efter § 75 i lov om en aktiv beskæftigelsesindsats, og 3) arbejdsløshedskassens anmeldelse af sygefravær samt afgivelse af oplysninger til brug for kommunens behandling af den lediges sygedagpengesag og til brug for Udbetaling Danmarks behandling af den lediges barseldagpengesag. Stk. 2. Nemrefusion skal overføre oplysningerne fra arbejdsgiveren, den selvstændige erhvervsdrivende og arbejdsløshedskassen til kommunerne eller Udbetaling Danmark til brug for sagsbehandlingen. Stk. 3. Nemrefusion skal tilbageføre oplysninger til arbejdsgiveren og den selvstændige erhvervsdrivende, således at disse kan følge sagsgangen i kommunerne og Udbetaling Danmark, kan blive adviseret om frister samt afstemme modtaget refusion. Det gælder dog ikke ved anmodninger om tidlig opfølgning eller ved anmodninger om løntilskud eller fleksjobtilskud. Stk. 4. Der skal etableres en ventefunktion i Nemrefusion, hvor anmeldelse af sygefravær og refusions- og tilskudsanmodninger kan lægges klar på et tidligere tidspunkt end fristen for anmeldelsen eller anmodningen. Ventefunktionen skal kunne advisere anmelderen, når tidspunktet for indsendelse af anmeldelsen eller anmodningen er nært forestående. Stk. 5. Alle transaktioner i Nemrefusion skal logges med fuld sporbarhed. Stk. 6. Nemrefusion skal opbygges som et selvstændigt system med standardiserede snitflader bygget på en moderne IT-platform med anvendelse af web-teknologi. Systemet skal understøtte og anvende offentlige standarder og krav i videst muligt omfang. Stk. 7. Der skal etableres snitflader direkte til det Centrale Personregister (CPR), det Centrale Virksomhedsregister (CVR), Indkomstregistret (eIndkomst), Styrelsen for Arbejdsmarked og Rekrutterings system for Validering af Atypisk Sygefravær (VAS) og den offentlige dokumentboks/NemSMS. Stk. 8. For alle modtagne indberetninger fra en arbejdsgiver eller en arbejdsløshedskasse skal Nemrefusion udsende underretningsbrev til lønmodtageren eller den forsikrede ledige. Det gælder dog ikke ved anmodninger om løntilskud eller fleksjobtilskud. Stk. 9. Der skal anvendes OCES digital signatur ved indberetning til Nemrefusion. Stk. 10. Nemrefusion skal sikre alle data imod uautoriseret brug. Løsningen skal i videst muligt omfang anvende et fællesoffentligt system til bruger- og rettighedsstyring. Stk. 11. Nemrefusion skal være tilgængelig via virksomhedsportalen virk.dk alle ugens dage og i alle døgnets timer, dog undtaget nødvendige og varslede systemlukninger i forbindelse med vedligeholdelse og opdateringer. Stk. 12. Nemrefusions svartider skal være således, at brugerne kan benytte systemet uden unødvendige gener."
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "§ 2. I etableringsfasen og efterfølgende driftsfase skal Selskabet - KOMBIT A/S - særligt drage omsorg for følgende: 1) Udarbejde kravspecifikation for Nemrefusion samt for alle ændringer og nye systemkomponenter. Kravspecifikationer og ændringer, der har bredere samfundsmæssige og politiske konsekvenser og betydning, skal godkendes af Styrelsen for Arbejdsmarked og Rekruttering. 2) Etablere og varetage kontrakter og øvrige aftaler om etablering, drift, vedligeholdelse og videreudvikling af Nemrefusion. 3) Sikre fornødne testprocedurer, herunder prøveplaner, forud for idriftsættelse af alle systemkomponenter. 4) Etablere administrative, systemmæssige og it-sikkerhedsmæssige kontrolrutiner, der i videst muligt omfang sikrer mod fejl i forbindelse med drift og brug af Nemrefusion."
+    },
+    {
+      "provision_ref": "3:3",
+      "chapter": "3",
+      "section": "3",
+      "content": "§ 3. Etablering af Nemrefusion sker på KOMBIT A/S’ regning og ansvar. Etableringsudgifterne dækkes over 5 år via driften, jf. § 5."
+    },
+    {
+      "provision_ref": "3:4",
+      "chapter": "3",
+      "section": "4",
+      "content": "§ 4. KOMBIT A/S kan opkræve et gebyr for test forud for kommunernes, Udbetaling Danmarks eller virksomhedernes tilslutning til Nemrefusions systemgrænseflader. De første 10 testtimer kan der ikke opkræves gebyr for. Stk. 2. Gebyret må ikke overstige KOMBIT A/S’ udgifter til testen."
+    },
+    {
+      "provision_ref": "3:5",
+      "chapter": "3",
+      "section": "5",
+      "content": "§ 5. Udvikling, drift, vedligeholdelse, løbende videreudvikling og markedsføring af Nemrefusion finansieres fuldt ud af årlige bidrag fra kommunerne og Udbetaling Danmark. I det omfang, der er opkrævet gebyr for test forud for tilslutning til Nemrefusion, vil disse tillige indgå i denne finansiering. Stk. 2. Hvert år i juni måned fastsætter KOMBIT A/S en fordelingsnøgle til fastsættelse af kommunernes og Udbetaling Danmarks årlige bidrag. Stk. 3. Hver kommune indbetaler bidrag til KOMBIT A/S efter en fordelingsnøgle, hvor antal borgere i den enkelte kommune ved kalenderårets begyndelse er den enkelte kommunes fordelingstal i forhold til landets øvrige kommuner. Stk. 4. Hvis der er tale om større videreudviklingstiltag, som får betydning for den i stk. 2 fastsatte fordelingsnøgle, foretages der en efterregulering af det kommende års fordelingsnøgle. Stk. 5. Dataudveksling imellem kommunerne og Nemrefusion samt Udbetaling Danmark og Nemrefusion er inkluderet i de årlige bidrag. Kommunerne og Udbetaling Danmark betaler således ikke særskilt for indberetning, sagsbehandling, administration, datakontrol, udlevering af oplysninger m.v. Stk. 6. Nemrefusion kan anvendes vederlagsfrit, jf. dog § 4, af private og offentlige virksomheder, herunder offentlige arbejdsgivere, arbejdsløshedskasser samt selvstændige erhvervsdrivende ved anmeldelse af sygefravær, anmodning om sygedagpenge, dagpenge efter barselloven m.v., jf. § 1."
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Bidragene efter § 5 må ikke benyttes til andet end udvikling, drift, vedligehold, løbende videreudvikling og markedsføring af Nemrefusion. Stk. 2. De samlede bidrag efter § 5 til KOMBIT A/S må ikke overstige de nødvendige omkostninger, der er forbundet med udvikling, drift, vedligeholdelse, løbende videreudvikling og markedsføring af Nemrefusion. Stk. 3. KOMBIT A/S kan oparbejde en samlet arbejdskapital på op til 20 pct. af den samlede årlige finansiering. Overstiger arbejdskapitalen det tilladte niveau, skal bidragene sænkes tilsvarende det næste regnskabsår. Et eventuelt driftsunderskud må KOMBIT A/S dække ved optagelse af lån frem til næste regnskabsår, hvor finansieringen opreguleres tilsvarende."
+    },
+    {
+      "provision_ref": "4:7",
+      "chapter": "4",
+      "section": "7",
+      "content": "§ 7. KOMBIT A/S’ øvrige aktiviteter skal være klart adskilt såvel økonomisk som opgave- og driftsmæssigt fra Nemrefusion. Stk. 2. KOMBIT A/S skal sørge for, at der hvert år af en uafhængig revisor udarbejdes en revisionserklæring for den samlede SDPI-løsning og alle dens komponenter, herunder om løsningen er sikker og indeholder nødvendige og tilstrækkelige sikkerhedsprocedurer til at modtage, behandle og videresende elektroniske meddelelser. KOMBIT A/S har pligt til at indsende genpart af revisionserklæringen til Styrelsen for Arbejdsmarked og Rekruttering. Stk. 3. KOMBIT A/S har pligt til at indsende genpart af revisionspåtegningen til Styrelsen for Arbejdsmarked og Rekruttering sammen med det påtegnede årsregnskab. Stk. 4. KOMBIT A/S har pligt til at underrette Styrelsen for Arbejdsmarked og Rekruttering om revisorskift. Stk. 5. KOMBIT A/S er forpligtet til at opbevare dokumentation for, at KOMBIT A/S’ meddelelser til Styrelsen for Arbejdsmarked og Rekruttering om opfyldelse af de forpligtigelser, der følger af lov om digital indberetningsløsning til brug for anmeldelse af sygefravær samt refusion af sygedagpenge og dagpenge efter barselloven, er rigtige."
+    },
+    {
+      "provision_ref": "5:8",
+      "chapter": "5",
+      "section": "8",
+      "content": "§ 8. I Nemrefusion kan følgende dokumenter udsendes både som papir og i elektronisk form uden underskrift eller med maskinelt gengivet underskrift eller på tilsvarende måde: 1) Kvitteringsbreve. 2) Underretningsbreve. 3) Breve med rent orienterende indhold, for eksempel om frister. Stk. 2. Disse dokumenter sidestilles i retlig henseende med dokumenter med personlig underskrift."
+    },
+    {
+      "provision_ref": "6:9",
+      "chapter": "6",
+      "section": "9",
+      "content": "§ 9. Bekendtgørelsen træder i kraft den 5. januar 2015. Stk. 2. Samtidig ophæves bekendtgørelse nr. 1015 af 15. august 2013 om Nemrefusion."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Nemrefusion skal understøtte 1) arbejdsgiverens anmodning om tidlig opfølgning, anmeldelse af sygefravær og anmodning om sygedagpengerefusion, dagpenge efter barselloven, løntilskud efter kapitel 12 i lov om en aktiv beskæftigelsesindsats og løntilskud til personer i fleksjob efter § 71, stk. 2 og 3, i lov om en aktiv beskæftigelsesindsats, 2) en selvstændig erhvervsdrivendes anmeldelse af sygefravær og anmodning om sygedagpenge, dagpenge efter barselloven og anmodning om udbetaling af støtte i form af tilskud efter § 75 i lov om en aktiv beskæftigelsesindsats, og 3) arbejdsløshedskassens anmeldelse af sygefravær samt afgivelse af oplysninger til brug for kommunens behandling af den lediges sygedagpengesag og til brug for Udbetaling Danmarks behandling af den lediges barseldagpengesag. Stk. 2. Nemrefusion skal overføre oplysningerne fra arbejdsgiveren, den selvstændige erhvervsdrivende og arbejdsløshedskassen til kommunerne eller Udbetaling Danmark til brug for sagsbehandlingen. Stk. 3. Nemrefusion skal tilbageføre oplysninger til arbejdsgiveren og den selvstændige erhvervsdrivende, således at disse kan følge sagsgangen i kommunerne og Udbetaling Danmark, kan blive adviseret om frister samt afstemme modtaget refusion. Det gælder dog ikke ved anmodninger om tidlig opfølgning eller ved anmodninger om løntilskud eller fleksjobtilskud. Stk. 4. Der skal etableres en ventefunktion i Nemrefusion, hvor anmeldelse af sygefravær og refusions- og tilskudsanmodninger kan lægges klar på et tidligere tidspunkt end fristen for anmeldelsen eller anmodningen. Ventefunktionen skal kunne advisere anmelderen, når tidspunktet for indsendelse af anmeldelsen eller anmodningen er nært forestående. Stk. 5. Alle transaktioner i Nemrefusion skal logges med fuld sporbarhed. Stk. 6. Nemrefusion skal opbygges som et selvstændigt system med standardiserede snitflader bygget på en moderne IT-platform med anvendelse af web-teknologi. Systemet skal understøtte og anvende offentlige standarder og krav i videst muligt omfang. Stk. 7. Der skal etableres snitflader direkte til det Centrale Personregister (CPR), det Centrale Virksomhedsregister (CVR), Indkomstregistret (eIndkomst), Styrelsen for Arbejdsmarked og Rekrutterings system for Validering af Atypisk Sygefravær (VAS) og den offentlige dokumentboks/NemSMS. Stk. 8. For alle modtagne indberetninger fra en arbejdsgiver eller en arbejdsløshedskasse skal Nemrefusion udsende underretningsbrev til lønmodtageren eller den forsikrede ledige. Det gælder dog ikke ved anmodninger om løntilskud eller fleksjobtilskud. Stk. 9. Der skal anvendes OCES digital signatur ved indberetning til Nemrefusion. Stk. 10. Nemrefusion skal sikre alle data imod uautoriseret brug. Løsningen skal i videst muligt omfang anvende et fællesoffentligt system til bruger- og rettighedsstyring. Stk. 11. Nemrefusion skal være tilgængelig via virksomhedsportalen virk.dk alle ugens dage og i alle døgnets timer, dog undtaget nødvendige og varslede systemlukninger i forbindelse med vedligeholdelse og opdateringer. Stk. 12. Nemrefusions svartider skal være således, at brugerne kan benytte systemet uden unødvendige gener.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "§ 2. I etableringsfasen og efterfølgende driftsfase skal Selskabet - KOMBIT A/S - særligt drage omsorg for følgende: 1) Udarbejde kravspecifikation for Nemrefusion samt for alle ændringer og nye systemkomponenter. Kravspecifikationer og ændringer, der har bredere samfundsmæssige og politiske konsekvenser og betydning, skal godkendes af Styrelsen for Arbejdsmarked og Rekruttering. 2) Etablere og varetage kontrakter og øvrige aftaler om etablering, drift, vedligeholdelse og videreudvikling af Nemrefusion. 3) Sikre fornødne testprocedurer, herunder prøveplaner, forud for idriftsættelse af alle systemkomponenter. 4) Etablere administrative, systemmæssige og it-sikkerhedsmæssige kontrolrutiner, der i videst muligt omfang sikrer mod fejl i forbindelse med drift og brug af Nemrefusion.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:3",
+      "chapter": "3",
+      "section": "3",
+      "content": "§ 3. Etablering af Nemrefusion sker på KOMBIT A/S’ regning og ansvar. Etableringsudgifterne dækkes over 5 år via driften, jf. § 5.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:4",
+      "chapter": "3",
+      "section": "4",
+      "content": "§ 4. KOMBIT A/S kan opkræve et gebyr for test forud for kommunernes, Udbetaling Danmarks eller virksomhedernes tilslutning til Nemrefusions systemgrænseflader. De første 10 testtimer kan der ikke opkræves gebyr for. Stk. 2. Gebyret må ikke overstige KOMBIT A/S’ udgifter til testen.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:5",
+      "chapter": "3",
+      "section": "5",
+      "content": "§ 5. Udvikling, drift, vedligeholdelse, løbende videreudvikling og markedsføring af Nemrefusion finansieres fuldt ud af årlige bidrag fra kommunerne og Udbetaling Danmark. I det omfang, der er opkrævet gebyr for test forud for tilslutning til Nemrefusion, vil disse tillige indgå i denne finansiering. Stk. 2. Hvert år i juni måned fastsætter KOMBIT A/S en fordelingsnøgle til fastsættelse af kommunernes og Udbetaling Danmarks årlige bidrag. Stk. 3. Hver kommune indbetaler bidrag til KOMBIT A/S efter en fordelingsnøgle, hvor antal borgere i den enkelte kommune ved kalenderårets begyndelse er den enkelte kommunes fordelingstal i forhold til landets øvrige kommuner. Stk. 4. Hvis der er tale om større videreudviklingstiltag, som får betydning for den i stk. 2 fastsatte fordelingsnøgle, foretages der en efterregulering af det kommende års fordelingsnøgle. Stk. 5. Dataudveksling imellem kommunerne og Nemrefusion samt Udbetaling Danmark og Nemrefusion er inkluderet i de årlige bidrag. Kommunerne og Udbetaling Danmark betaler således ikke særskilt for indberetning, sagsbehandling, administration, datakontrol, udlevering af oplysninger m.v. Stk. 6. Nemrefusion kan anvendes vederlagsfrit, jf. dog § 4, af private og offentlige virksomheder, herunder offentlige arbejdsgivere, arbejdsløshedskasser samt selvstændige erhvervsdrivende ved anmeldelse af sygefravær, anmodning om sygedagpenge, dagpenge efter barselloven m.v., jf. § 1.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Bidragene efter § 5 må ikke benyttes til andet end udvikling, drift, vedligehold, løbende videreudvikling og markedsføring af Nemrefusion. Stk. 2. De samlede bidrag efter § 5 til KOMBIT A/S må ikke overstige de nødvendige omkostninger, der er forbundet med udvikling, drift, vedligeholdelse, løbende videreudvikling og markedsføring af Nemrefusion. Stk. 3. KOMBIT A/S kan oparbejde en samlet arbejdskapital på op til 20 pct. af den samlede årlige finansiering. Overstiger arbejdskapitalen det tilladte niveau, skal bidragene sænkes tilsvarende det næste regnskabsår. Et eventuelt driftsunderskud må KOMBIT A/S dække ved optagelse af lån frem til næste regnskabsår, hvor finansieringen opreguleres tilsvarende.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:7",
+      "chapter": "4",
+      "section": "7",
+      "content": "§ 7. KOMBIT A/S’ øvrige aktiviteter skal være klart adskilt såvel økonomisk som opgave- og driftsmæssigt fra Nemrefusion. Stk. 2. KOMBIT A/S skal sørge for, at der hvert år af en uafhængig revisor udarbejdes en revisionserklæring for den samlede SDPI-løsning og alle dens komponenter, herunder om løsningen er sikker og indeholder nødvendige og tilstrækkelige sikkerhedsprocedurer til at modtage, behandle og videresende elektroniske meddelelser. KOMBIT A/S har pligt til at indsende genpart af revisionserklæringen til Styrelsen for Arbejdsmarked og Rekruttering. Stk. 3. KOMBIT A/S har pligt til at indsende genpart af revisionspåtegningen til Styrelsen for Arbejdsmarked og Rekruttering sammen med det påtegnede årsregnskab. Stk. 4. KOMBIT A/S har pligt til at underrette Styrelsen for Arbejdsmarked og Rekruttering om revisorskift. Stk. 5. KOMBIT A/S er forpligtet til at opbevare dokumentation for, at KOMBIT A/S’ meddelelser til Styrelsen for Arbejdsmarked og Rekruttering om opfyldelse af de forpligtigelser, der følger af lov om digital indberetningsløsning til brug for anmeldelse af sygefravær samt refusion af sygedagpenge og dagpenge efter barselloven, er rigtige.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:8",
+      "chapter": "5",
+      "section": "8",
+      "content": "§ 8. I Nemrefusion kan følgende dokumenter udsendes både som papir og i elektronisk form uden underskrift eller med maskinelt gengivet underskrift eller på tilsvarende måde: 1) Kvitteringsbreve. 2) Underretningsbreve. 3) Breve med rent orienterende indhold, for eksempel om frister. Stk. 2. Disse dokumenter sidestilles i retlig henseende med dokumenter med personlig underskrift.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:9",
+      "chapter": "6",
+      "section": "9",
+      "content": "§ 9. Bekendtgørelsen træder i kraft den 5. januar 2015. Stk. 2. Samtidig ophæves bekendtgørelse nr. 1015 af 15. august 2013 om Nemrefusion.",
+      "valid_from": "2014-12-16",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,1261 @@
+{
+  "id": "2012:334",
+  "type": "statute",
+  "title": "Bekendtgørelse om det fælles datagrundlag og statistiske datavarehus for beskæftigelsesindsatsen",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2012-03-30",
+  "url": "https://www.retsinformation.dk/eli/lta/2012/334/xml",
+  "description": "Retsinformation source. DocumentId=BE005034; AccessionNumber=B20120033405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. For de områder, hvor indberetningen sker via webservice, skal der indgås en tilslutningsaftale mellem Arbejdsmarkedsstyrelsen og den dataansvarlige aftager. I tilslutningsaftalen fastlægger Arbejdsmarkedsstyrelsen de nærmere vilkår for webserviceløsningen, herunder aftagerens garanti for it-sikkerhed, grænsefladebeskrivelser, webstandarder, test før ibrugtagning, retningslinjer for anmeldelse til Datatilsynet mv. Stk. 2. Indberetninger skal entydigt identificere den person, der foretager indberetningen. Identifikationen skal fremgå i webservicekaldet. Ved indberetninger, der sker automatisk, er det alene den dataansvarlige aftager, der skal fremgå."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Den dataansvarlige aftager af de udviklede webservicer afholder selv alle udgifterne hertil, herunder udgifter til test, udarbejdelse af dokumentationen, support og lignende udgifter."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Arbejdsmarkedsstyrelsen kan lukke for den dataansvarlige aftagers adgang til at registrere via webservicer, jf. § 1, hvis den dataansvarlige ikke overholder betingelserne for tilslutning og de nærmere specifikationer vedrørende webservicer."
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Ved ændringer eller udskiftning af kommunens og arbejdsløshedskassens administrative systemer, som kan have systemmæssig betydning for datakvaliteten, skal der ske underretning til Arbejdsmarkedsstyrelsen senest 40 arbejdsdage, inden ændringen idriftsættes."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Jobcenteret har pligt til at registrere og indberette oplysninger om, hvilke personer der er omfattet af de i § 6 nævnte kontaktgrupper. Stk. 2. Jobcenteret har pligt til at registrere og indberette oplysninger vedrørende til- og afmelding som arbejdssøgende."
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 3) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Kontaktgruppe 4: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som modtager revalideringsydelse. 5) Kontaktgruppe 5: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som deltager i et forrevalideringsforløb. 6) Kontaktgruppe 6: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 5. 7) Kontaktgruppe 7: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 7. 8) Kontaktgruppe 8: Tilmeldte uden ydelse – det vil sige personer der ikke modtager offentlig forsørgelsesydelse og som ønsker at stå tilmeldt som arbejdssøgende. 9) Dimittender."
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. Oplysninger om hvilken kontaktgruppe en person er omfattet af, skal registreres og indberettes samme dag personen omfattes af kontaktgruppen. Stk. 2. Når en person ikke længere modtager ydelse eller ikke længere er omfattet af en af de i stk. 1, nævnte grupper registreres og indberettes dette senest på hændelsesdagen, det vil sige den sidste dag personen modtager ydelsen eller er omfattet af en af de nævnte grupper. Hvis hændelsen først kommer til kommunens kendskab efter hændelsesdatoen skal jobcenterets registrering og indberetning finde sted på den dato kommunen får dette kendskab. Stk. 3. Ved første henvendelse med anmodning om hjælp i forbindelse med kontanthjælp sker registreringen i det fælles datagrundlag med henblik på kommunikationen med ydelsescenteret. Stk. 4. Hvis der er forskel på en persons opholdskommune og bopælskommune, skal opholdskommunen ændre myndighedstilknytningen i det fælles datagrundlag. Stk. 5. Følgende oplysninger skal registreres og indberettes i forbindelse med kontaktgrupper: 1) Identifikationsoplysninger for personen. 2) Dato for registrering. 3) Kontaktgruppen. 4) Startdato for at personen er omfattet af kontaktgruppen. 5) Slutdato, hvis en person ophører med at være omfattet af en kontaktgruppe."
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. Tilmeldingen som dagpengemodtager registreres af personen selv digitalt via Jobnet, eller personen kan anmode jobcenteret eller a-kassen om at foretage denne registrering i det fælles datagrundlag. Stk. 2. Tilmeldingen som ansøger af kontanthjælp registreres af personen selv digitalt via Jobnet, eller personen kan anmode jobcenteret om at foretage denne registrering i det fælles datagrundlag. Stk. 3. Tilmeldingen som modtager af kontanthjælp registreres og indberettes af jobcenteret eller ydelsescenteret i det fælles datagrundlag. Stk. 4. For ansøgere og modtagere af kontanthjælp, der skifter matchgruppe, skal jobcenteret registrere til- og afmelding efter bekendtgørelse om en aktiv beskæftigelsesindsats. Stk. 5. Følgende oplysninger skal registreres og indberettes i forbindelse med tilmelding: 1) Identifikationsoplysninger for personen. 2) Dato for registrering. 3) Tilmeldekategorien. 4) Startdato for tilmeldingen. 5) Ledighedsgrad. 6) Stillingsbetegnelser på job som personen søger. Stk. 6. Følgende oplysninger skal registreres og indberettes i forbindelse med afmelding: 1) Identifikationsoplysninger for personen. 2) Dato for afmelding. Afmelding kan finde sted på registreringsdatoen og op til 30 dage frem i tid. 3) Årsag til afmelding."
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "§ 9. De i § 7, stk. 5, og § 8, stk. 5 og 6, omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "§ 10. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder herunder Danmarks Statistik."
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "§ 11. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "§ 12. Jobcenteret har pligt til at registrere og indberette oplysninger, der vedrører jobsamtaler afholdt af jobcenteret samt oplysning om hvilken matchgruppe en person er omfattet af, jf. bekendtgørelse om matchvurdering."
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "§ 13. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 3) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Kontaktgruppe 4: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som modtager revalideringsydelse. 5) Kontaktgruppe 5: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som deltager i et forrevalideringsforløb. 6) Kontaktgruppe 7: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 7."
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "§ 14. Ved alle jobsamtaler registreres og indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Dato for samtalens afholdelse. 3) Samtaleformen. 4) Aftalen mellem personen og jobcenteret om det fortsatte kontaktforløb m.v. efter bekendtgørelse om en aktiv beskæftigelsesindsats § 29, stk. 1, nr. 5 samt en eventuel særlig indsats efter Bekendtgørelse om en aktiv beskæftigelsesindsats § 29, stk. 2. 5) Resultatet af matchvurderingen i form af matchgruppen. Stk. 2. Jobsamtalen kan højest registreres og indberettes 7 dage tilbage i tid. Matchgruppen gælder fra registreringsdatoen."
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "§ 15. Ved første henvendelse med anmodning om hjælp og ved ændringer i en persons matchgruppe på andre tidspunkter end ved en jobsamtale registreres og indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Dato for samtalens afholdelse. 3) Samtaleformen. 4) Eventuelle aftaler mellem personen og jobcenteret. 5) Resultatet af matchvurderingen i form af matchgruppen."
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "§ 16. De i §§ 14 og 15 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "§ 17. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder herunder Danmarks Statistik."
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "§ 18. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "§ 19. Jobcenteret har pligt til at registrere og indberette oplysninger om fravær og fritagelser der følger af lov om en aktiv beskæftigelsesindsats, lov om aktiv socialpolitik, lov om sygedagpenge og lov om integration af udlændinge i Danmark. Stk. 2. Jobcenteret har endvidere pligt til at registrere og indberette oplysninger om personer ansat i seniorjob."
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "§ 20. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 3) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Kontaktgruppe 4: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som modtager revalideringsydelse. 5) Kontaktgruppe 5: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som deltager i et forrevalideringsforløb. 6) Kontaktgruppe 6: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 5. 7) Kontaktgruppe 7: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 7. 8) Kontaktgruppe 8: Tilmeldte uden ydelse – det vil sige personer der ikke modtager offentlig forsørgelsesydelse og som ønsker at stå tilmeldt som arbejdssøgende. 9) Personer ansat i seniorjob."
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "content": "§ 21. Årsager til fravær eller fritagelse skal registreres og indberettes for hver af kontaktgrupperne i henhold til bilag 1. Stk. 2. Registrering og indberetning skal finde sted samme dag, som årsagen til fraværet kommer til kommunens kendskab eller godkendelse af fritagelsen finder sted."
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "§ 22. De i § 21 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "§ 23. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder herunder Danmarks Statistik."
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "§ 24. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "§ 25. Jobcenteret har pligt til at registrere og indberette oplysninger, der vedrører indkaldelser til jobsamtaler og andre individuelle samtaler samt møder med mødepligt. Stk. 2. Jobcenterets it-system skal indrettes således, at det kan modtage borgerens angivelse af at have set indkaldelsen samt borgerens eventuelle opdatering af mødedato. Stk. 3. Jobcenterets it-system skal indrettes således, at det kan modtage oprettelser og opdateringer af indkaldelser via det fælles datagrundlag."
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "content": "§ 26. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 3) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Kontaktgruppe 4: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som modtager revalideringsydelse. 5) Kontaktgruppe 5: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som deltager i et forrevalideringsforløb. 6) Kontaktgruppe 6: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 5. 7) Kontaktgruppe 7: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 7."
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "content": "§ 27. Ved alle indkaldelser registreres og indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Dato og tidspunkt for samtalens eller opfølgningens afholdelse. 3) Samtale- eller opfølgningsformen (personligt, digitalt, telefonisk m.v.). 4) Samtale- eller opfølgningstypen (jobsamtale, opfølgningssamtale m.v.). 5) Samtale- eller opfølgningssted (lokation). 6) Personens kontaktmuligheder i forbindelse med samtalen. Stk. 2. Indkaldelsen registreres og indberettes samme dag som indkaldelsesbrevet udskrives eller den dag, hvor det gives eller sendes til personen. Stk. 3. Hvis en indkaldt samtale eller et indkaldt møde aflyses, flyttes eller på anden måde ændres, registreres og indberettes dette samme dag, som aflysnings- eller ændringsbrevet udskrives eller den dag, hvor det gives, meddeles eller sendes til personen."
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "§ 28. Ved jobcenterets brug af det fælles selvbooking-system indberettes ud over de i § 27 anførte oplysninger endvidere: 1) Eventuelle tidspunkter borgeren alternativt kan vælge for samtalens afholdelse (dato, klokkeslæt for start og afslutning på samtalen eller mødet). 2) Navn på den medarbejder, der skal stå for samtalen eller mødet. 3) Angivelse af, om selvbooking er mulig. 4) Eventuel frist for selvbooking. 5) Status og årsagsoplysninger vedr. samtalen/mødet/opfølgningen. Stk. 2. Jobcenteret overfører lister til det fælles datagrundlag med cpr. nr. for personer, der indkaldes via det fælles selvbooking-system."
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "content": "§ 29. Jobcenterets it-system skal modtage følgende oplysninger fra det fælles selvbooking-system: 1) De i §§ 27 og 28 anførte oplysninger. 2) Borgerens markering af at borgeren har set jobcenterets indkaldelse. 3) Borgerens angivelse af et nyt mødetidspunkt."
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "§ 30. De i §§ 27 og 28 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "content": "§ 31. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder herunder Danmarks Statistik."
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "content": "§ 32. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "content": "§ 33. Kommunen har pligt til at registrere og indberette oplysninger om kommunens sygedagpengeopfølgning, herunder opfølgningsform, samt visitationskategorier registreret af kommunen i henhold til lov om sygedagpenge kapitel 6."
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "content": "§ 34. For hver afholdt opfølgning indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Kommunekode for indberettende kommune. 3) Dato for afholdelse af opfølgningssamtale eller anden opfølgning. 4) Opfølgningsform, herunder opfølgning uden kontakt med den sygemeldte (standby). 5) Visitationskategori. Stk. 2. Kommunen har desuden mulighed for at indberette aftaler vedrørende sygedagpengeopfølgningen samt vurderingen af den sygemeldtes behov for indsats."
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "content": "§ 35. De i § 34 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "content": "§ 36. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "content": "§ 37. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "content": "§ 38. Kommunen har pligt til at indberette, at den arbejdssøgende har indlagt fyldestgørende oplysninger vedrørende den pågældendes arbejds- og uddannelsesmæssige baggrund m.v. (cv) i henhold til kapitel 6 i lov om en aktiv beskæftigelsesindsats. Indberetningen omfatter konklusionen på den samtale, som kommunen i henhold til § 14 i lov om en aktiv beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "content": "§ 39. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 2) Kontaktgruppe 3: Personer omfattet af integrationslovens § 16."
+    },
+    {
+      "provision_ref": "7:40",
+      "chapter": "7",
+      "section": "40",
+      "content": "§ 40. For hver person indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Kommunekode for indberettende kommune. 3) Dato for afholdelse af samtale. 4) Godkendelsesstatus for cv’et. Stk. 2. Kommunen har desuden mulighed for at indberette aftaler med personen vedrørende cv’et."
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "content": "§ 41. De i § 40 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "content": "§ 42. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "7:43",
+      "chapter": "7",
+      "section": "43",
+      "content": "§ 43. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "content": "§ 44. Kommunen har pligt til at indberette oplysninger, der vedrører beskæftigelsesforanstaltninger for modtagere af arbejdsløshedsdagpenge samt beskæftigede mv. i henhold til kap. 10-12 samt §§ 98 c-98 g, 99 og 116 i lov om en aktiv beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "content": "§ 45. Der skal registreres og indberettes oplysninger om foranstaltninger for følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Personer omfattet af §§ 98 c – 98 g i lov om en aktiv beskæftigelsesindsats (voksenelever). 3) Beskæftigede omfattet af § 99 i lov om en aktiv beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "content": "§ 46. For hver foranstaltning indberettes følgende oplysninger: 1) For alle foranstaltninger: Identifikationsoplysninger for personen, der deltager i foranstaltningen. 2) For alle foranstaltninger: Kommunekode for indberettende kommune. 3) For alle foranstaltninger: Ansvarligt jobcenter. 4) For alle foranstaltninger: Registrerende jobcenter. 5) For alle foranstaltninger: Unik nøgle for den enkelte foranstaltning (kursus, løntilskudsansættelse mv.). 6) For alle foranstaltninger: Startdato for den enkelte foranstaltning. 7) For alle foranstaltninger: Slutdato for den enkelte foranstaltning. 8) For alle foranstaltninger: Gennemsnitligt ugentligt timetal for den enkelte foranstaltning. 9) For alle foranstaltninger: Aktiveringstype (økonomisk ramme m.v.). 10) For jobplan: Unik nøgle. 11) For jobplan: Dato for oprettelse. 12) For jobplan: Dato for revision. 13) For jobplan: Beskæftigelsesmål. 14) For virksomhedsrettede foranstaltninger: Jobordreident fra Jobnet, hvis en sådan findes. 15) For virksomhedsrettede foranstaltninger: Type af virksomhedsrettede tilbud (jobordretype). 16) For virksomhedsrettede foranstaltninger: Aktivitetsudbyder ved CVR- og P-nummer. 17) For ansættelse med løntilskud i statslige institutioner: Ministerområde. 18) For virksomhedsrettede foranstaltninger: Stillingsbetegnelse på den foranstaltning personen deltager i. 19) For kursusforløb: Kursustype (afholdelseskategori). 20) For kursusforløb: CVR-nummer og P-nummer på den virksomhed, der udbyder aktiviteten. 21) For kursusforløb: Hold ID."
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "content": "§ 47. De i § 46 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "content": "§ 48. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder, jf. kapitel 11 og 12 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, herunder Danmarks Statistik. Stk. 3. Data for personer født mellem 1. januar 1946 og 31. december 1952, som er beskæftiget med løntilskud helt eller delvist i perioden 1. januar 2010 til 31. december 2016, videregives til ATP og SKAT med henblik på beregning af skattenedslag for seniorer, jf. § 16, stk. 1, nr. 6, i lov om skattenedslag for seniorer. Der videregives følgende informationer: Cpr.nr. og start- og slutdato for de enkelte foranstaltninger."
+    },
+    {
+      "provision_ref": "8:49",
+      "chapter": "8",
+      "section": "49",
+      "content": "§ 49. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "content": "§ 50. Kommunen har pligt til at indberette oplysninger, der vedrører beskæftigelsesforanstaltninger i henhold til kapitel 10-12, §§ 72 og 75, §§ 98 c – 98 g, samt § 116 i lov om en aktiv beskæftigelsesindsats, § 30 samt kapitel 6 i lov om aktiv socialpolitik, kapitel 4 i integrationsloven. Stk. 2. Kommunen har pligt til at indberette oplysninger vedrørende tilskud til personlig assistance til personer med handicap i henhold til §§ 4, 5 og 14 i lov om kompensation til handicappede i erhverv samt § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats. Stk. 3. Kommunen har pligt til at indberette oplysninger, der vedrører støtte til mentorfunktionen i henhold til §§ 78-81 i lov om en aktiv beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "content": "§ 51. Der skal registreres og indberettes oplysninger om foranstaltninger for følgende personkreds: 1) Personer omfattet af § 2, nr. 2-10, i lov om en aktiv beskæftigelsesindsats. 2) Personer omfattet af §§ 98 c – 98 g i lov om en aktiv beskæftigelsesindsats (voksenelever). 3) Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Personer, der er selvforsørgende, som modtager danskuddannelse eller anden form for tilbud, jf. § 16, stk. 3, og § 23, stk. 5, i integrationsloven. 5) Personer, der er omfattet af tilskud til personlig assistance til personer med handicap, jf. §§ 4, 5 og 14 i lov om kompensation til handicappede i erhverv mv. samt personer, der er omfattet af tilskud til personlig assistance, jf. § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats. 6) Personer, der er omfattet af mentorfunktionen til enkeltpersoner, jf. § 80, stk. 2, 1. punktum, i lov om en aktiv beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "9:52",
+      "chapter": "9",
+      "section": "52",
+      "content": "§ 52. For hver foranstaltning indberettes følgende oplysninger: 1) For alle foranstaltninger: Identifikationsoplysninger for personen, der deltager i foranstaltningen. 2) For alle foranstaltninger: Kommunekode for indberettende kommune. 3) For alle foranstaltninger: Foranstaltningstype med underliggende kategorier. 4) For alle foranstaltninger: Startdato for den enkelte foranstaltning. 5) For alle foranstaltninger: Slutdato for den enkelte foranstaltning. 6) For alle foranstaltninger: Gennemsnitligt ugentligt timetal for den enkelte foranstaltning. 7) For alle foranstaltninger: Hovedydelse for personen i foranstaltningen. Hvis der er tale om selvforsørgelse, påføres dette. 8) For alle foranstaltninger: Angivelse af, om der er tale om et åbent tilbud, dvs. et tilbud, hvor den aktiverede kun får udbetalt forsørgelse for de timer, personen har deltaget i tilbuddet, og som ikke lukkes, selv om personen ikke møder frem. 9) For virksomhedsrettede foranstaltninger: Stedkode for hvor foranstaltningen foregår. 10) For virksomhedsrettede foranstaltninger: Aktivitetsudbyder ved CVR- og P-nummer. 11) For virksomhedsrettede foranstaltninger: Adresse på arbejdssted ved manglende CVR- og/eller P-nummer. 12) For løntilskud i statslige institutioner: Ministerområde. 13) For virksomhedsrettede foranstaltninger: Stillingsbetegnelse på den foranstaltning personen deltager i. 14) For kursusforløb: CVR-nummer og P-nummer på den virksomhed der udbyder aktiviteten. 15) For kursusforløb: Hold ID."
+    },
+    {
+      "provision_ref": "9:53",
+      "chapter": "9",
+      "section": "53",
+      "content": "§ 53. De i § 52 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "9:54",
+      "chapter": "9",
+      "section": "54",
+      "content": "§ 54. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder, jf. kapitel 11 og 12 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, herunder Danmarks Statistik, jf. dog stk. 3. Stk. 3. Data for personkredsen i § 51, stk. 1, nr. 5 i denne bekendtgørelse videregives ikke. Stk. 4. Data for personer under 18 år videregives til Ministeriet for Børn og Undervisnings fælles datagrundlag med henblik på forvaltning af lov om vejledning om uddannelse og erhverv samt pligt til uddannelse, beskæftigelse m.v., herunder til kontrolforanstaltninger, jf. § 68 a, stk. 8, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Der videregives følgende informationer: Cpr.nr., foranstaltning samt start- og slutdato for de enkelte foranstaltninger. Stk. 5. Data for personer født mellem 1. januar 1946 og 31. december 1952, som er beskæftiget med løntilskud helt eller delvist i perioden 1. januar 2010 til 31. december 2016, videregives til ATP og SKAT med henblik på beregning af skattenedslag for seniorer, jf. § 16, stk. 1, nr. 6, i lov om skattenedslag for seniorer. Der videregives følgende informationer: Cpr.nr. og start- og slutdato for de enkelte foranstaltninger."
+    },
+    {
+      "provision_ref": "9:55",
+      "chapter": "9",
+      "section": "55",
+      "content": "§ 55. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "10:56",
+      "chapter": "10",
+      "section": "56",
+      "content": "§ 56. Kommunerne har pligt til at indberette oplysninger, der vedrører tilskud til hjælpemidler i henhold til § 74, §§ 76-77 og § 100 i lov om en aktiv beskæftigelsesindsats. Indberetningen vedrørende tilskud til hjælpemidler skal dog ikke omfatte hjælp til kortvarige kurser for personer, der er ansat eller som skal ansættes i fleksjob, jf. § 74 i lov om en aktiv beskæftigelsesindsats, og heller ikke omfatte personlig assistance, jf. § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "10:57",
+      "chapter": "10",
+      "section": "57",
+      "content": "§ 57. Der skal registreres og indberettes oplysninger om følgende hjælpemidler: 1) Undervisningsmateriale. 2) Arbejdsredskaber og mindre arbejdspladsindretninger. Stk. 2. Følgende oplysninger skal registreres og indberettes pr. tilskud fordelt på hjælpemidlerne i stk. 1: 1) Kommunekode for indberettende kommune. 2) CVR-nummer og P-nummer på virksomheden, hvis det er virksomheden modtager tilskuddet. 3) Dato for godkendelse af bevilling til tilskud. 4) Identifikationsoplysninger for personen, der anvender hjælpemidlerne."
+    },
+    {
+      "provision_ref": "10:58",
+      "chapter": "10",
+      "section": "58",
+      "content": "§ 58. De i § 57 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med kommunens udbetalingsoplysninger om hjælpemidler."
+    },
+    {
+      "provision_ref": "10:59",
+      "chapter": "10",
+      "section": "59",
+      "content": "§ 59. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "10:60",
+      "chapter": "10",
+      "section": "60",
+      "content": "§ 60. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen."
+    },
+    {
+      "provision_ref": "11:61",
+      "chapter": "11",
+      "section": "61",
+      "content": "§ 61. Jobcenteret har pligt til at registrere og indberette hændelser og oplysninger, som er nødvendige for arbejdsløshedskassens administration af reglerne i lov om arbejdsløshedsforsikring m.v., jf. § 104 i lov om en aktiv beskæftigelsesindsats og kapitel 15 i bekendtgørelse om en aktiv beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "11:62",
+      "chapter": "11",
+      "section": "62",
+      "content": "§ 62. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Medlemmer af en arbejdsløshedskasse, der ansættes i et fleksjob, jf. dog stk. 2. Stk. 2. For medlemmer af en arbejdsløshedskasse, der ansættes i et fleksjob, skal der alene ske registrering og indberetning efter § 64."
+    },
+    {
+      "provision_ref": "11:63",
+      "chapter": "11",
+      "section": "63",
+      "content": "§ 63. For hændelser, der fremgår af §§ 95 til 99 samt §§ 101 og 102 i bekendtgørelse om en aktiv beskæftigelsesindsats, skal registrering og indberetning ske samme dag eller senest dagen efter, at hændelsen har fundet sted."
+    },
+    {
+      "provision_ref": "11:64",
+      "chapter": "11",
+      "section": "64",
+      "content": "§ 64. For hændelser, der fremgår af § 100 i bekendtgørelse om en aktiv beskæftigelsesindsats gælder følgende: 1) Indberetning af et tilbuds påbegyndelse skal tidligst ske på datoen for tilbuddets afgivelse og senest på datoen for tilbuddets påbegyndelse. 2) Der skal ske indberetning af et tilbuds afslutning på slutdatoen for tilbuddet. 3) Hvis der i løbet af tilbuddet sker ændringer i tilbuddets start- og eller slutdato samt i det gennemsnitlige ugentlige timetal, skal registrering og indberetning ske samme dag eller senest dagen efter, at ændringen er kommet til jobcenterets kendskab. 4) Hvis jobcenteret efter slutdatoen får oplysninger om ændringer i tilbuddets start- og/eller slutdato, skal registrering og indberetning ske samme dag eller senest dagen efter, at ændringen er kommet til jobcenterets kendskab. 5) Hvis jobcenteret efter slutdatoen får oplysninger om ændringer i det gennemsnitlige ugentlige timetal (for det samlede forløb) eller hvis en ændring af start- og/eller slutdato betyder en ændring i det gennemsnitlige ugentlige timetal (for det samlede forløb), skal der ske registrering og indberetning heraf samme dag eller senest dagen efter, at ændringen er kommet til jobcenterets kendskab. Stk. 2. Ved registrering og indberetning efter stk. 1, skal tilbuddets aktuelle status fremgå."
+    },
+    {
+      "provision_ref": "11:65",
+      "chapter": "11",
+      "section": "65",
+      "content": "§ 65. For hændelser omfattet af §§ 63 og 64, skal der indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Kommunekode for indberettende kommune. 3) Hændelsesdatoen. 4) Hændelsestypen. 5) Eventuel årsag for hændelsen. 6) Eventuel uddybende kommentar til hændelsen i fritekst. Stk. 2. For hændelser vedrørende henvisninger af personer med henblik på ansættelse i ordinær beskæftigelse eller løntilskud/virksomhedspraktik, skal der udover oplysningerne efter stk. 1, indberettes følgende: 1) Identifikationsoplysninger for virksomheden. 2) Oplysninger om jobbet. Stk. 3. For hændelser omfattet af § 64, dvs. hændelser der fremgår af § 100 i bekendtgørelse om en aktiv beskæftigelsesindsats, skal der udover oplysningerne efter stk. 1, indberettes følgende: 1) Identifikationsoplysninger for virksomheden. 2) Aktuel status for aktiviteten. 3) Start- og slutdato for aktiviteten. 4) Gennemsnitligt ugentligt timetal for aktiviteten."
+    },
+    {
+      "provision_ref": "11:66",
+      "chapter": "11",
+      "section": "66",
+      "content": "§ 66. Jobcenterets it-system skal være indrettet således, at indberetning automatisk finder sted, når den faktiske hændelse eller oplysning registreres korrekt i det it-system, der anvendes til sagsbehandlingen."
+    },
+    {
+      "provision_ref": "11:67",
+      "chapter": "11",
+      "section": "67",
+      "content": "§ 67. De i § 65 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "11:68",
+      "chapter": "11",
+      "section": "68",
+      "content": "§ 68. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til den pågældende persons arbejdsløshedskasse, andre offentlige myndigheder herunder Danmarks Statistik."
+    },
+    {
+      "provision_ref": "11:69",
+      "chapter": "11",
+      "section": "69",
+      "content": "§ 69. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "12:70",
+      "chapter": "12",
+      "section": "70",
+      "content": "§ 70. Jobcentrets it-system skal kunne modtage følgende oplysninger fra det fælles datagrundlag på tværs af kommunegrænserne, således at data er tilgængelige for jobcentret: 1) Virksomheders brug af ansættelser på særlige vilkår (løntilskud, fleksjob, voksenelever, servicejob og jobrotationsvikarer) og tilbud om virksomhedspraktik de seneste to år, således at jobcentret har tilgængelige oplysninger om, på hvilke virksomheder der har været udplaceret borgere i kommunen og på tværs af kommunegrænser. 2) Data om virksomheders stillingsopslag på Jobnet de sidste to år."
+    },
+    {
+      "provision_ref": "12:71",
+      "chapter": "12",
+      "section": "71",
+      "content": "§ 71. Data skal kunne modtages ugentligt i det af Arbejdsmarkedsstyrelsen specificerede format."
+    },
+    {
+      "provision_ref": "13:72",
+      "chapter": "13",
+      "section": "72",
+      "content": "§ 72. Ministeriet for Børn og Undervisning indberetter uddannelsesoplysninger til Arbejdsmarkedsstyrelsen, jf. § 68 a, stk. 9 og 10, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "13:73",
+      "chapter": "13",
+      "section": "73",
+      "content": "§ 73. Der indberettes oplysninger om uddannelse for følgende personkreds: Personer i aldersgruppen 15-29 år."
+    },
+    {
+      "provision_ref": "13:74",
+      "chapter": "13",
+      "section": "74",
+      "content": "§ 74. For hver person under 30 år indberettes: 1) Identifikationsoplysninger for personen, der deltager i uddannelsen. 2) Uddannelseskode til identifikation af uddannelsen. 3) Start- og sluttidspunkt for uddannelsen. 4) Statuskode for uddannelsen, herunder om uddannelsen er igangværende eller afsluttet."
+    },
+    {
+      "provision_ref": "13:75",
+      "chapter": "13",
+      "section": "75",
+      "content": "§ 75. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau om uddannelse fra Arbejdsmarkedsstyrelsens fælles datagrundlag, jf. § 68 a, stk. 9, jf. § 58, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats videregives til kommunerne."
+    },
+    {
+      "provision_ref": "14:76",
+      "chapter": "14",
+      "section": "76",
+      "content": "§ 76. Kommunen har pligt til at registrere og indberette oplysninger vedrørende jobplaner og beskæftigelsesforanstaltninger efter kap. 9, 10-12, 13, 13a, 13b og §§ 98b – 99 i lov om en aktiv beskæftigelsesindsats samt §§ 21, 22 og 23a – 23c i integrationsloven. Stk. 2. Kommunen har pligt til at modtage oplysningerne i stk. 1, hvis en borger fra personkredsen efter § 77 flytter til kommunen."
+    },
+    {
+      "provision_ref": "14:77",
+      "chapter": "14",
+      "section": "77",
+      "content": "§ 77. Der skal registreres og indberettes oplysninger om foranstaltninger for følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2. 3) Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 3. 4) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 5) Kontaktgruppe 4: Revalidender. 6) Kontaktgruppe 5: Forrevalidender. 7) Kontaktgruppe 6: Sygedagpengemodtagere. 8) Kontaktgruppe 7: Fleksvisiterede. 9) Personer omfattet af § 98 b i lov om en aktiv beskæftigelsesindsats (rotationsvikarer). 10) Personer omfattet af §§ 98 c – 98 g i lov om en aktiv beskæftigelsesindsats (voksenelever). 11) Beskæftigede omfattet af § 99 i lov om en aktiv beskæftigelsesindsats. 12) Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 6, 8, 9 og 10. 13) Personer omfattet af lov om en aktiv beskæftigelsesindsats § 72 og 75. 14) Øvrige selvforsørgende, som kan få tilbud efter lov om en aktiv beskæftigelsesindsats. 15) Personer, der er omfattet af tilskud til personlig assistance til personer med handicap, jf. §§ 4, 5 og 14 i lov om kompensation til handicappede i erhverv mv. samt personer, der er omfattet af tilskud til personlig assistance, jf. § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats. 16) Personer, der er omfattet af mentorfunktionen til enkeltpersoner, jf. § 80, stk. 2, 1. punktum, i lov om en aktiv beskæftigelsesindsats."
+    },
+    {
+      "provision_ref": "14:78",
+      "chapter": "14",
+      "section": "78",
+      "content": "§ 78. For hver foranstaltning indberettes følgende oplysninger: 1) For Jobplan: Identifikationsoplysninger for personen, der deltager i foranstaltningen. 2) For Jobplan: Kommunekode for indberettende kommune. 3) For Jobplan: Ansvarligt jobcenter. 4) For Jobplan: Registrerende jobcenter. 5) For Jobplan: Unik nøgle. 6) For Jobplan: Dato for oprettelse eller revision. 7) For Jobplan: Dato for registreringen i sagsbehandlingssystemet (indberetningssystemet). 8) For Jobplan: Beskæftigelsesmål. 9) For Jobplan: Baggrund. 10) For Jobplan: Planbeskrivelse. 11) For Jobplan: Aftalt opfølgning. 12) For Jobplan: Status. 13) For alle foranstaltninger: Identifikationsoplysninger for personen, der deltager i foranstaltningen. 14) For alle foranstaltninger: Kommunekode for indberettende kommune. 15) For alle foranstaltninger: Ansvarligt jobcenter. 16) For alle foranstaltninger: Registrerende jobcenter. 17) For alle foranstaltninger: Dato for registreringen i sagsbehandlingssystemet (indberetningssystemet). 18) For alle foranstaltninger: Aktivitetsudbyder/virksomhed ved CVR- og P-nummer. 19) For alle foranstaltninger: Unik nøgle for den enkelte foranstaltning (kursus, løntilskudsansættelse mv.). 20) For alle foranstaltninger: Startdato for den enkelte foranstaltning. 21) For alle foranstaltninger: Slutdato for den enkelte foranstaltning. 22) For alle foranstaltninger: Angivelse af aktivitetens status, hvis denne er »annulleret« eller »afbrudt«. 23) Hvis der er angivet status for en foranstaltning, skal årsag til status og bemærkning til status/årsag angives. 24) For alle foranstaltninger: Gennemsnitligt ugentligt timetal/minuttal for den enkelte foranstaltning. 25) For alle foranstaltninger: Aktiveringstype (økonomisk ramme m.v.). 26) For alle foranstaltninger: Forsørgelsestype. 27) For alle foranstaltninger: Oplysninger om flaskehals. 28) For alle foranstaltninger: Afholdelsessted. 29) For alle foranstaltninger: Kontaktinformation til udbyder/virksomhed. 30) For virksomhedsrettede foranstaltninger: Jobordreident fra Jobnet, hvis en sådan findes. 31) For virksomhedsrettede foranstaltninger: Jobbeskrivelse. 32) For virksomhedsrettede foranstaltninger: Type af virksomhedsrettede tilbud (Jobordretype). 33) For virksomhedsrettede foranstaltninger: Stillingsbetegnelse på den foranstaltning personen deltager i. 34) For ansættelse med løntilskud i statslige institutioner: Ministerområde. 35) For kursusforløb: Titel på kursus. 36) For kursusforløb: Beskrivelse af kurset. 37) For kursusforløb: Kursustype (afholdelseskategori). 38) For kursusforløb: Uddannelsestype – DUN/AMU. 39) For kursusforløb: Hold ID. 40) For kursusforløb: Oplysninger om evt. praktik i forløbet. 41) Borgerens samtykke til digitalt at modtage og kvittere for jobplan og aktiveringer (tilbud efter lov om en aktiv beskæftigelsesindsats kap. 10 – 12). 42) Oplysning om, hvorvidt der er kvitteret eller ej."
+    },
+    {
+      "provision_ref": "14:79",
+      "chapter": "14",
+      "section": "79",
+      "content": "§ 79. Oplysninger vedrørende foranstaltninger efter kap. 9 (jobplaner) i lov om en aktiv beskæftigelsesindsats skal registreres og indberettes når jobplanen oprettes og efterfølgende når jobplanen revideres. Stk. 2. Oplysninger vedrørende foranstaltninger efter kap. 10 – 12 (tilbud om aktivering) i lov om en aktiv beskæftigelsesindsats samt efter §§ 21, 22 og 23a – 23c i integrationsloven skal registreres og indberettes når tilbuddet afgives til borgeren. Stk. 3. Oplysninger vedrørende foranstaltninger efter kapitel 13 (fleksjob) og §§ 98b – 98g (rotationsvikarer og voksenelever) i lov om en aktiv beskæftigelsesindsats skal registreres og indberettes når ansættelsen aftales. Stk. 4. Hvis der sker ændringer i oplysninger indberettet efter stk. 2 – 3, skal disse på ny indberettes. Dog kan ændring af status og årsag til status samt ændret slutdato på grund af statusændring for et tilbud efter lov om en aktiv beskæftigelsesindsats kap. 10 – 12 indberettes uden at de øvrige oplysninger genindberettes."
+    },
+    {
+      "provision_ref": "14:80",
+      "chapter": "14",
+      "section": "80",
+      "content": "§ 80. De i § 78 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer."
+    },
+    {
+      "provision_ref": "14:81",
+      "chapter": "14",
+      "section": "81",
+      "content": "§ 81. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder, jf. kapitel 11 og 12 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, herunder Danmarks Statistik. Stk. 3. Data for personer under 18 år og som er omfattet af § 77 nr. 2 – 6 videregives til Ministeriet for Børn og Undervisnings fælles datagrundlag med henblik på forvaltning af lov om vejledning om uddannelse og erhverv samt pligt til uddannelse, beskæftigelse m.v., herunder til kontrolforanstaltninger, jf. § 68 a, stk. 8, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Der videregives følgende informationer: Cpr.nr., foranstaltning samt start- og slutdato for de enkelte foranstaltninger. Stk. 4. Data for personer født mellem 1. januar 1946 og 31. december 1952, som er beskæftiget med løntilskud helt eller delvist i perioden 1. januar 2010 til 31. december 2016, videregives til ATP og SKAT med henblik på beregning af skattenedslag for seniorer, jf. § 16, stk. 1, nr. 6, i lov om skattenedslag for seniorer. Der videregives følgende informationer: Cpr.nr. og start- og slutdato for de enkelte foranstaltninger."
+    },
+    {
+      "provision_ref": "14:82",
+      "chapter": "14",
+      "section": "82",
+      "content": "§ 82. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag samt modtagelse af oplysninger, jf. § 76, stk. 2, sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "15:83",
+      "chapter": "15",
+      "section": "83",
+      "content": "§ 83. Arbejdsløshedskassen har pligt til registrere og indberette oplysninger efter § 106 i lov om en aktiv beskæftigelsesindsats om egne medlemmer til brug for opdatering af det fælles datagrundlag samt til brug for jobcenterets administration efter lov om en aktiv beskæftigelsesindsats og bestemmelser fastsat i medfør af denne lov. Stk. 2. Oplysningerne skal registreres og indberettes samme dag, som oplysningen kommer til arbejdsløshedskassens kendskab eller foreligger som en afgørelse truffet i arbejdsløshedskassen."
+    },
+    {
+      "provision_ref": "15:84",
+      "chapter": "15",
+      "section": "84",
+      "content": "§ 84. Arbejdsløshedskassen har pligt til at modtage og behandle 1) oplysninger om egne medlemmers status i det fælles datagrundlag, 2) jobcenterets underretninger efter kapitel 15 i bekendtgørelse om en aktiv beskæftigelsesindsats og 3) andre aktørers underretninger efter § 5 i bekendtgørelse om andre aktører."
+    },
+    {
+      "provision_ref": "15:85",
+      "chapter": "15",
+      "section": "85",
+      "content": "§ 85. Oplysninger efter §§ 83 og 84 udveksles elektronisk via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3, eller 2) filoverførsler via ftp-server. Stk. 3. Filoverførsel må kun anvendes for oplysninger, hvor Arbejdsmarkedsstyrelsen ikke stiller webservice til rådighed for udvekslingen."
+    },
+    {
+      "provision_ref": "16:86",
+      "chapter": "16",
+      "section": "86",
+      "content": "§ 86. Kommunen har pligt til at modtage og behandle følgende oplysninger om syge- og raskmeldinger vedrørende ledige medlemmer af en arbejdsløshedskasse fra det fælles datagrundlag: 1) Første sygedag. 2) Sidste sygedag. 3) Anmeldelsesdato for en syge- eller raskmelding. 4) Registreringsdato for en syge- eller raskmelding."
+    },
+    {
+      "provision_ref": "16:87",
+      "chapter": "16",
+      "section": "87",
+      "content": "§ 87. Ved anmeldelsen af sygefravær fra arbejdsløshedskassen via SDPI-løsningen har kommunen, via sit it-system til sagsbehandling af sygedagpengesager, pligt til at foretage opslag i det fælles datagrundlag for at modtage oplysninger efter § 86. Stk. 2. Ved opslag efter stk. 1, afleverer kommunens it-system unik nøgle (UUID) for sagen i det fælles datagrundlag. Stk. 3. Hvis der ikke ved opslaget efter stk. 2, allerede foreligger en raskmelding, modtager kommunens it-system efterfølgende automatisk besked når der registreres en raskmelding i det fælles datagrundlag."
+    },
+    {
+      "provision_ref": "16:88",
+      "chapter": "16",
+      "section": "88",
+      "content": "§ 88. Den digitale kommunikation med det fælles datagrundlag efter §§ 86 og 87 sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3."
+    },
+    {
+      "provision_ref": "17:89",
+      "chapter": "17",
+      "section": "89",
+      "content": "§ 89. Bekendtgørelsen træder i kraft den 16. april 2012, jf. dog stk. 2 - 5. Stk. 2. Oplysninger efter kapitel 10 registreres når den tekniske indberetningsløsning er releaset. Stk. 3. Indberetningerne efter § 77, nr. 2 påbegyndes 23. april 2012. Stk. 4. Indberetningerne efter § 77, nr. 3 – 16 påbegyndes 22. oktober 2012. Stk. 5. Den digitale kommunikation efter kap. 16 påbegyndes 2. juli 2012. Stk. 6. Bekendtgørelse nr. 1400 af 20. december 2011 om registrering og indberetning af data på beskæftigelsesområdet til det statistiske datavarehus og det fælles datagrundlag i Arbejdsmarkedsstyrelsen ophæves. Stk. 7. Bekendtgørelse nr. 547 af 23. juni 1994 om udveksling af informationer mellem Arbejdsformidlingen og Arbejdsløshedskasserne ophæves."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. For de områder, hvor indberetningen sker via webservice, skal der indgås en tilslutningsaftale mellem Arbejdsmarkedsstyrelsen og den dataansvarlige aftager. I tilslutningsaftalen fastlægger Arbejdsmarkedsstyrelsen de nærmere vilkår for webserviceløsningen, herunder aftagerens garanti for it-sikkerhed, grænsefladebeskrivelser, webstandarder, test før ibrugtagning, retningslinjer for anmeldelse til Datatilsynet mv. Stk. 2. Indberetninger skal entydigt identificere den person, der foretager indberetningen. Identifikationen skal fremgå i webservicekaldet. Ved indberetninger, der sker automatisk, er det alene den dataansvarlige aftager, der skal fremgå.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Den dataansvarlige aftager af de udviklede webservicer afholder selv alle udgifterne hertil, herunder udgifter til test, udarbejdelse af dokumentationen, support og lignende udgifter.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Arbejdsmarkedsstyrelsen kan lukke for den dataansvarlige aftagers adgang til at registrere via webservicer, jf. § 1, hvis den dataansvarlige ikke overholder betingelserne for tilslutning og de nærmere specifikationer vedrørende webservicer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Ved ændringer eller udskiftning af kommunens og arbejdsløshedskassens administrative systemer, som kan have systemmæssig betydning for datakvaliteten, skal der ske underretning til Arbejdsmarkedsstyrelsen senest 40 arbejdsdage, inden ændringen idriftsættes.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Jobcenteret har pligt til at registrere og indberette oplysninger om, hvilke personer der er omfattet af de i § 6 nævnte kontaktgrupper. Stk. 2. Jobcenteret har pligt til at registrere og indberette oplysninger vedrørende til- og afmelding som arbejdssøgende.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 3) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Kontaktgruppe 4: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som modtager revalideringsydelse. 5) Kontaktgruppe 5: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som deltager i et forrevalideringsforløb. 6) Kontaktgruppe 6: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 5. 7) Kontaktgruppe 7: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 7. 8) Kontaktgruppe 8: Tilmeldte uden ydelse – det vil sige personer der ikke modtager offentlig forsørgelsesydelse og som ønsker at stå tilmeldt som arbejdssøgende. 9) Dimittender.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. Oplysninger om hvilken kontaktgruppe en person er omfattet af, skal registreres og indberettes samme dag personen omfattes af kontaktgruppen. Stk. 2. Når en person ikke længere modtager ydelse eller ikke længere er omfattet af en af de i stk. 1, nævnte grupper registreres og indberettes dette senest på hændelsesdagen, det vil sige den sidste dag personen modtager ydelsen eller er omfattet af en af de nævnte grupper. Hvis hændelsen først kommer til kommunens kendskab efter hændelsesdatoen skal jobcenterets registrering og indberetning finde sted på den dato kommunen får dette kendskab. Stk. 3. Ved første henvendelse med anmodning om hjælp i forbindelse med kontanthjælp sker registreringen i det fælles datagrundlag med henblik på kommunikationen med ydelsescenteret. Stk. 4. Hvis der er forskel på en persons opholdskommune og bopælskommune, skal opholdskommunen ændre myndighedstilknytningen i det fælles datagrundlag. Stk. 5. Følgende oplysninger skal registreres og indberettes i forbindelse med kontaktgrupper: 1) Identifikationsoplysninger for personen. 2) Dato for registrering. 3) Kontaktgruppen. 4) Startdato for at personen er omfattet af kontaktgruppen. 5) Slutdato, hvis en person ophører med at være omfattet af en kontaktgruppe.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. Tilmeldingen som dagpengemodtager registreres af personen selv digitalt via Jobnet, eller personen kan anmode jobcenteret eller a-kassen om at foretage denne registrering i det fælles datagrundlag. Stk. 2. Tilmeldingen som ansøger af kontanthjælp registreres af personen selv digitalt via Jobnet, eller personen kan anmode jobcenteret om at foretage denne registrering i det fælles datagrundlag. Stk. 3. Tilmeldingen som modtager af kontanthjælp registreres og indberettes af jobcenteret eller ydelsescenteret i det fælles datagrundlag. Stk. 4. For ansøgere og modtagere af kontanthjælp, der skifter matchgruppe, skal jobcenteret registrere til- og afmelding efter bekendtgørelse om en aktiv beskæftigelsesindsats. Stk. 5. Følgende oplysninger skal registreres og indberettes i forbindelse med tilmelding: 1) Identifikationsoplysninger for personen. 2) Dato for registrering. 3) Tilmeldekategorien. 4) Startdato for tilmeldingen. 5) Ledighedsgrad. 6) Stillingsbetegnelser på job som personen søger. Stk. 6. Følgende oplysninger skal registreres og indberettes i forbindelse med afmelding: 1) Identifikationsoplysninger for personen. 2) Dato for afmelding. Afmelding kan finde sted på registreringsdatoen og op til 30 dage frem i tid. 3) Årsag til afmelding.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "§ 9. De i § 7, stk. 5, og § 8, stk. 5 og 6, omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "§ 10. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder herunder Danmarks Statistik.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "§ 11. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "§ 12. Jobcenteret har pligt til at registrere og indberette oplysninger, der vedrører jobsamtaler afholdt af jobcenteret samt oplysning om hvilken matchgruppe en person er omfattet af, jf. bekendtgørelse om matchvurdering.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "§ 13. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 3) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Kontaktgruppe 4: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som modtager revalideringsydelse. 5) Kontaktgruppe 5: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som deltager i et forrevalideringsforløb. 6) Kontaktgruppe 7: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 7.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "§ 14. Ved alle jobsamtaler registreres og indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Dato for samtalens afholdelse. 3) Samtaleformen. 4) Aftalen mellem personen og jobcenteret om det fortsatte kontaktforløb m.v. efter bekendtgørelse om en aktiv beskæftigelsesindsats § 29, stk. 1, nr. 5 samt en eventuel særlig indsats efter Bekendtgørelse om en aktiv beskæftigelsesindsats § 29, stk. 2. 5) Resultatet af matchvurderingen i form af matchgruppen. Stk. 2. Jobsamtalen kan højest registreres og indberettes 7 dage tilbage i tid. Matchgruppen gælder fra registreringsdatoen.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "§ 15. Ved første henvendelse med anmodning om hjælp og ved ændringer i en persons matchgruppe på andre tidspunkter end ved en jobsamtale registreres og indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Dato for samtalens afholdelse. 3) Samtaleformen. 4) Eventuelle aftaler mellem personen og jobcenteret. 5) Resultatet af matchvurderingen i form af matchgruppen.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "§ 16. De i §§ 14 og 15 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "§ 17. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder herunder Danmarks Statistik.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "§ 18. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "§ 19. Jobcenteret har pligt til at registrere og indberette oplysninger om fravær og fritagelser der følger af lov om en aktiv beskæftigelsesindsats, lov om aktiv socialpolitik, lov om sygedagpenge og lov om integration af udlændinge i Danmark. Stk. 2. Jobcenteret har endvidere pligt til at registrere og indberette oplysninger om personer ansat i seniorjob.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "§ 20. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 3) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Kontaktgruppe 4: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som modtager revalideringsydelse. 5) Kontaktgruppe 5: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som deltager i et forrevalideringsforløb. 6) Kontaktgruppe 6: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 5. 7) Kontaktgruppe 7: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 7. 8) Kontaktgruppe 8: Tilmeldte uden ydelse – det vil sige personer der ikke modtager offentlig forsørgelsesydelse og som ønsker at stå tilmeldt som arbejdssøgende. 9) Personer ansat i seniorjob.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "content": "§ 21. Årsager til fravær eller fritagelse skal registreres og indberettes for hver af kontaktgrupperne i henhold til bilag 1. Stk. 2. Registrering og indberetning skal finde sted samme dag, som årsagen til fraværet kommer til kommunens kendskab eller godkendelse af fritagelsen finder sted.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "§ 22. De i § 21 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "§ 23. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder herunder Danmarks Statistik.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "§ 24. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "§ 25. Jobcenteret har pligt til at registrere og indberette oplysninger, der vedrører indkaldelser til jobsamtaler og andre individuelle samtaler samt møder med mødepligt. Stk. 2. Jobcenterets it-system skal indrettes således, at det kan modtage borgerens angivelse af at have set indkaldelsen samt borgerens eventuelle opdatering af mødedato. Stk. 3. Jobcenterets it-system skal indrettes således, at det kan modtage oprettelser og opdateringer af indkaldelser via det fælles datagrundlag.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "content": "§ 26. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 3) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Kontaktgruppe 4: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som modtager revalideringsydelse. 5) Kontaktgruppe 5: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 4, og som deltager i et forrevalideringsforløb. 6) Kontaktgruppe 6: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 5. 7) Kontaktgruppe 7: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 7.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "content": "§ 27. Ved alle indkaldelser registreres og indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Dato og tidspunkt for samtalens eller opfølgningens afholdelse. 3) Samtale- eller opfølgningsformen (personligt, digitalt, telefonisk m.v.). 4) Samtale- eller opfølgningstypen (jobsamtale, opfølgningssamtale m.v.). 5) Samtale- eller opfølgningssted (lokation). 6) Personens kontaktmuligheder i forbindelse med samtalen. Stk. 2. Indkaldelsen registreres og indberettes samme dag som indkaldelsesbrevet udskrives eller den dag, hvor det gives eller sendes til personen. Stk. 3. Hvis en indkaldt samtale eller et indkaldt møde aflyses, flyttes eller på anden måde ændres, registreres og indberettes dette samme dag, som aflysnings- eller ændringsbrevet udskrives eller den dag, hvor det gives, meddeles eller sendes til personen.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "§ 28. Ved jobcenterets brug af det fælles selvbooking-system indberettes ud over de i § 27 anførte oplysninger endvidere: 1) Eventuelle tidspunkter borgeren alternativt kan vælge for samtalens afholdelse (dato, klokkeslæt for start og afslutning på samtalen eller mødet). 2) Navn på den medarbejder, der skal stå for samtalen eller mødet. 3) Angivelse af, om selvbooking er mulig. 4) Eventuel frist for selvbooking. 5) Status og årsagsoplysninger vedr. samtalen/mødet/opfølgningen. Stk. 2. Jobcenteret overfører lister til det fælles datagrundlag med cpr. nr. for personer, der indkaldes via det fælles selvbooking-system.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "content": "§ 29. Jobcenterets it-system skal modtage følgende oplysninger fra det fælles selvbooking-system: 1) De i §§ 27 og 28 anførte oplysninger. 2) Borgerens markering af at borgeren har set jobcenterets indkaldelse. 3) Borgerens angivelse af et nyt mødetidspunkt.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "§ 30. De i §§ 27 og 28 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "content": "§ 31. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder herunder Danmarks Statistik.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "content": "§ 32. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "content": "§ 33. Kommunen har pligt til at registrere og indberette oplysninger om kommunens sygedagpengeopfølgning, herunder opfølgningsform, samt visitationskategorier registreret af kommunen i henhold til lov om sygedagpenge kapitel 6.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "content": "§ 34. For hver afholdt opfølgning indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Kommunekode for indberettende kommune. 3) Dato for afholdelse af opfølgningssamtale eller anden opfølgning. 4) Opfølgningsform, herunder opfølgning uden kontakt med den sygemeldte (standby). 5) Visitationskategori. Stk. 2. Kommunen har desuden mulighed for at indberette aftaler vedrørende sygedagpengeopfølgningen samt vurderingen af den sygemeldtes behov for indsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "content": "§ 35. De i § 34 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "content": "§ 36. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "content": "§ 37. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "content": "§ 38. Kommunen har pligt til at indberette, at den arbejdssøgende har indlagt fyldestgørende oplysninger vedrørende den pågældendes arbejds- og uddannelsesmæssige baggrund m.v. (cv) i henhold til kapitel 6 i lov om en aktiv beskæftigelsesindsats. Indberetningen omfatter konklusionen på den samtale, som kommunen i henhold til § 14 i lov om en aktiv beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "content": "§ 39. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 og 3. 2) Kontaktgruppe 3: Personer omfattet af integrationslovens § 16.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:40",
+      "chapter": "7",
+      "section": "40",
+      "content": "§ 40. For hver person indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Kommunekode for indberettende kommune. 3) Dato for afholdelse af samtale. 4) Godkendelsesstatus for cv’et. Stk. 2. Kommunen har desuden mulighed for at indberette aftaler med personen vedrørende cv’et.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "content": "§ 41. De i § 40 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "content": "§ 42. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:43",
+      "chapter": "7",
+      "section": "43",
+      "content": "§ 43. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "content": "§ 44. Kommunen har pligt til at indberette oplysninger, der vedrører beskæftigelsesforanstaltninger for modtagere af arbejdsløshedsdagpenge samt beskæftigede mv. i henhold til kap. 10-12 samt §§ 98 c-98 g, 99 og 116 i lov om en aktiv beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "content": "§ 45. Der skal registreres og indberettes oplysninger om foranstaltninger for følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Personer omfattet af §§ 98 c – 98 g i lov om en aktiv beskæftigelsesindsats (voksenelever). 3) Beskæftigede omfattet af § 99 i lov om en aktiv beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "content": "§ 46. For hver foranstaltning indberettes følgende oplysninger: 1) For alle foranstaltninger: Identifikationsoplysninger for personen, der deltager i foranstaltningen. 2) For alle foranstaltninger: Kommunekode for indberettende kommune. 3) For alle foranstaltninger: Ansvarligt jobcenter. 4) For alle foranstaltninger: Registrerende jobcenter. 5) For alle foranstaltninger: Unik nøgle for den enkelte foranstaltning (kursus, løntilskudsansættelse mv.). 6) For alle foranstaltninger: Startdato for den enkelte foranstaltning. 7) For alle foranstaltninger: Slutdato for den enkelte foranstaltning. 8) For alle foranstaltninger: Gennemsnitligt ugentligt timetal for den enkelte foranstaltning. 9) For alle foranstaltninger: Aktiveringstype (økonomisk ramme m.v.). 10) For jobplan: Unik nøgle. 11) For jobplan: Dato for oprettelse. 12) For jobplan: Dato for revision. 13) For jobplan: Beskæftigelsesmål. 14) For virksomhedsrettede foranstaltninger: Jobordreident fra Jobnet, hvis en sådan findes. 15) For virksomhedsrettede foranstaltninger: Type af virksomhedsrettede tilbud (jobordretype). 16) For virksomhedsrettede foranstaltninger: Aktivitetsudbyder ved CVR- og P-nummer. 17) For ansættelse med løntilskud i statslige institutioner: Ministerområde. 18) For virksomhedsrettede foranstaltninger: Stillingsbetegnelse på den foranstaltning personen deltager i. 19) For kursusforløb: Kursustype (afholdelseskategori). 20) For kursusforløb: CVR-nummer og P-nummer på den virksomhed, der udbyder aktiviteten. 21) For kursusforløb: Hold ID.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "content": "§ 47. De i § 46 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "content": "§ 48. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder, jf. kapitel 11 og 12 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, herunder Danmarks Statistik. Stk. 3. Data for personer født mellem 1. januar 1946 og 31. december 1952, som er beskæftiget med løntilskud helt eller delvist i perioden 1. januar 2010 til 31. december 2016, videregives til ATP og SKAT med henblik på beregning af skattenedslag for seniorer, jf. § 16, stk. 1, nr. 6, i lov om skattenedslag for seniorer. Der videregives følgende informationer: Cpr.nr. og start- og slutdato for de enkelte foranstaltninger.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:49",
+      "chapter": "8",
+      "section": "49",
+      "content": "§ 49. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "content": "§ 50. Kommunen har pligt til at indberette oplysninger, der vedrører beskæftigelsesforanstaltninger i henhold til kapitel 10-12, §§ 72 og 75, §§ 98 c – 98 g, samt § 116 i lov om en aktiv beskæftigelsesindsats, § 30 samt kapitel 6 i lov om aktiv socialpolitik, kapitel 4 i integrationsloven. Stk. 2. Kommunen har pligt til at indberette oplysninger vedrørende tilskud til personlig assistance til personer med handicap i henhold til §§ 4, 5 og 14 i lov om kompensation til handicappede i erhverv samt § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats. Stk. 3. Kommunen har pligt til at indberette oplysninger, der vedrører støtte til mentorfunktionen i henhold til §§ 78-81 i lov om en aktiv beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "content": "§ 51. Der skal registreres og indberettes oplysninger om foranstaltninger for følgende personkreds: 1) Personer omfattet af § 2, nr. 2-10, i lov om en aktiv beskæftigelsesindsats. 2) Personer omfattet af §§ 98 c – 98 g i lov om en aktiv beskæftigelsesindsats (voksenelever). 3) Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 4) Personer, der er selvforsørgende, som modtager danskuddannelse eller anden form for tilbud, jf. § 16, stk. 3, og § 23, stk. 5, i integrationsloven. 5) Personer, der er omfattet af tilskud til personlig assistance til personer med handicap, jf. §§ 4, 5 og 14 i lov om kompensation til handicappede i erhverv mv. samt personer, der er omfattet af tilskud til personlig assistance, jf. § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats. 6) Personer, der er omfattet af mentorfunktionen til enkeltpersoner, jf. § 80, stk. 2, 1. punktum, i lov om en aktiv beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:52",
+      "chapter": "9",
+      "section": "52",
+      "content": "§ 52. For hver foranstaltning indberettes følgende oplysninger: 1) For alle foranstaltninger: Identifikationsoplysninger for personen, der deltager i foranstaltningen. 2) For alle foranstaltninger: Kommunekode for indberettende kommune. 3) For alle foranstaltninger: Foranstaltningstype med underliggende kategorier. 4) For alle foranstaltninger: Startdato for den enkelte foranstaltning. 5) For alle foranstaltninger: Slutdato for den enkelte foranstaltning. 6) For alle foranstaltninger: Gennemsnitligt ugentligt timetal for den enkelte foranstaltning. 7) For alle foranstaltninger: Hovedydelse for personen i foranstaltningen. Hvis der er tale om selvforsørgelse, påføres dette. 8) For alle foranstaltninger: Angivelse af, om der er tale om et åbent tilbud, dvs. et tilbud, hvor den aktiverede kun får udbetalt forsørgelse for de timer, personen har deltaget i tilbuddet, og som ikke lukkes, selv om personen ikke møder frem. 9) For virksomhedsrettede foranstaltninger: Stedkode for hvor foranstaltningen foregår. 10) For virksomhedsrettede foranstaltninger: Aktivitetsudbyder ved CVR- og P-nummer. 11) For virksomhedsrettede foranstaltninger: Adresse på arbejdssted ved manglende CVR- og/eller P-nummer. 12) For løntilskud i statslige institutioner: Ministerområde. 13) For virksomhedsrettede foranstaltninger: Stillingsbetegnelse på den foranstaltning personen deltager i. 14) For kursusforløb: CVR-nummer og P-nummer på den virksomhed der udbyder aktiviteten. 15) For kursusforløb: Hold ID.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:53",
+      "chapter": "9",
+      "section": "53",
+      "content": "§ 53. De i § 52 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:54",
+      "chapter": "9",
+      "section": "54",
+      "content": "§ 54. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder, jf. kapitel 11 og 12 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, herunder Danmarks Statistik, jf. dog stk. 3. Stk. 3. Data for personkredsen i § 51, stk. 1, nr. 5 i denne bekendtgørelse videregives ikke. Stk. 4. Data for personer under 18 år videregives til Ministeriet for Børn og Undervisnings fælles datagrundlag med henblik på forvaltning af lov om vejledning om uddannelse og erhverv samt pligt til uddannelse, beskæftigelse m.v., herunder til kontrolforanstaltninger, jf. § 68 a, stk. 8, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Der videregives følgende informationer: Cpr.nr., foranstaltning samt start- og slutdato for de enkelte foranstaltninger. Stk. 5. Data for personer født mellem 1. januar 1946 og 31. december 1952, som er beskæftiget med løntilskud helt eller delvist i perioden 1. januar 2010 til 31. december 2016, videregives til ATP og SKAT med henblik på beregning af skattenedslag for seniorer, jf. § 16, stk. 1, nr. 6, i lov om skattenedslag for seniorer. Der videregives følgende informationer: Cpr.nr. og start- og slutdato for de enkelte foranstaltninger.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:55",
+      "chapter": "9",
+      "section": "55",
+      "content": "§ 55. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:56",
+      "chapter": "10",
+      "section": "56",
+      "content": "§ 56. Kommunerne har pligt til at indberette oplysninger, der vedrører tilskud til hjælpemidler i henhold til § 74, §§ 76-77 og § 100 i lov om en aktiv beskæftigelsesindsats. Indberetningen vedrørende tilskud til hjælpemidler skal dog ikke omfatte hjælp til kortvarige kurser for personer, der er ansat eller som skal ansættes i fleksjob, jf. § 74 i lov om en aktiv beskæftigelsesindsats, og heller ikke omfatte personlig assistance, jf. § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:57",
+      "chapter": "10",
+      "section": "57",
+      "content": "§ 57. Der skal registreres og indberettes oplysninger om følgende hjælpemidler: 1) Undervisningsmateriale. 2) Arbejdsredskaber og mindre arbejdspladsindretninger. Stk. 2. Følgende oplysninger skal registreres og indberettes pr. tilskud fordelt på hjælpemidlerne i stk. 1: 1) Kommunekode for indberettende kommune. 2) CVR-nummer og P-nummer på virksomheden, hvis det er virksomheden modtager tilskuddet. 3) Dato for godkendelse af bevilling til tilskud. 4) Identifikationsoplysninger for personen, der anvender hjælpemidlerne.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:58",
+      "chapter": "10",
+      "section": "58",
+      "content": "§ 58. De i § 57 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med kommunens udbetalingsoplysninger om hjælpemidler.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:59",
+      "chapter": "10",
+      "section": "59",
+      "content": "§ 59. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:60",
+      "chapter": "10",
+      "section": "60",
+      "content": "§ 60. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:61",
+      "chapter": "11",
+      "section": "61",
+      "content": "§ 61. Jobcenteret har pligt til at registrere og indberette hændelser og oplysninger, som er nødvendige for arbejdsløshedskassens administration af reglerne i lov om arbejdsløshedsforsikring m.v., jf. § 104 i lov om en aktiv beskæftigelsesindsats og kapitel 15 i bekendtgørelse om en aktiv beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:62",
+      "chapter": "11",
+      "section": "62",
+      "content": "§ 62. Der skal foretages registrering og indberetning om følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Medlemmer af en arbejdsløshedskasse, der ansættes i et fleksjob, jf. dog stk. 2. Stk. 2. For medlemmer af en arbejdsløshedskasse, der ansættes i et fleksjob, skal der alene ske registrering og indberetning efter § 64.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:63",
+      "chapter": "11",
+      "section": "63",
+      "content": "§ 63. For hændelser, der fremgår af §§ 95 til 99 samt §§ 101 og 102 i bekendtgørelse om en aktiv beskæftigelsesindsats, skal registrering og indberetning ske samme dag eller senest dagen efter, at hændelsen har fundet sted.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:64",
+      "chapter": "11",
+      "section": "64",
+      "content": "§ 64. For hændelser, der fremgår af § 100 i bekendtgørelse om en aktiv beskæftigelsesindsats gælder følgende: 1) Indberetning af et tilbuds påbegyndelse skal tidligst ske på datoen for tilbuddets afgivelse og senest på datoen for tilbuddets påbegyndelse. 2) Der skal ske indberetning af et tilbuds afslutning på slutdatoen for tilbuddet. 3) Hvis der i løbet af tilbuddet sker ændringer i tilbuddets start- og eller slutdato samt i det gennemsnitlige ugentlige timetal, skal registrering og indberetning ske samme dag eller senest dagen efter, at ændringen er kommet til jobcenterets kendskab. 4) Hvis jobcenteret efter slutdatoen får oplysninger om ændringer i tilbuddets start- og/eller slutdato, skal registrering og indberetning ske samme dag eller senest dagen efter, at ændringen er kommet til jobcenterets kendskab. 5) Hvis jobcenteret efter slutdatoen får oplysninger om ændringer i det gennemsnitlige ugentlige timetal (for det samlede forløb) eller hvis en ændring af start- og/eller slutdato betyder en ændring i det gennemsnitlige ugentlige timetal (for det samlede forløb), skal der ske registrering og indberetning heraf samme dag eller senest dagen efter, at ændringen er kommet til jobcenterets kendskab. Stk. 2. Ved registrering og indberetning efter stk. 1, skal tilbuddets aktuelle status fremgå.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:65",
+      "chapter": "11",
+      "section": "65",
+      "content": "§ 65. For hændelser omfattet af §§ 63 og 64, skal der indberettes følgende oplysninger: 1) Identifikationsoplysninger for personen. 2) Kommunekode for indberettende kommune. 3) Hændelsesdatoen. 4) Hændelsestypen. 5) Eventuel årsag for hændelsen. 6) Eventuel uddybende kommentar til hændelsen i fritekst. Stk. 2. For hændelser vedrørende henvisninger af personer med henblik på ansættelse i ordinær beskæftigelse eller løntilskud/virksomhedspraktik, skal der udover oplysningerne efter stk. 1, indberettes følgende: 1) Identifikationsoplysninger for virksomheden. 2) Oplysninger om jobbet. Stk. 3. For hændelser omfattet af § 64, dvs. hændelser der fremgår af § 100 i bekendtgørelse om en aktiv beskæftigelsesindsats, skal der udover oplysningerne efter stk. 1, indberettes følgende: 1) Identifikationsoplysninger for virksomheden. 2) Aktuel status for aktiviteten. 3) Start- og slutdato for aktiviteten. 4) Gennemsnitligt ugentligt timetal for aktiviteten.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:66",
+      "chapter": "11",
+      "section": "66",
+      "content": "§ 66. Jobcenterets it-system skal være indrettet således, at indberetning automatisk finder sted, når den faktiske hændelse eller oplysning registreres korrekt i det it-system, der anvendes til sagsbehandlingen.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:67",
+      "chapter": "11",
+      "section": "67",
+      "content": "§ 67. De i § 65 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:68",
+      "chapter": "11",
+      "section": "68",
+      "content": "§ 68. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til den pågældende persons arbejdsløshedskasse, andre offentlige myndigheder herunder Danmarks Statistik.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:69",
+      "chapter": "11",
+      "section": "69",
+      "content": "§ 69. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, eller 2) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "12:70",
+      "chapter": "12",
+      "section": "70",
+      "content": "§ 70. Jobcentrets it-system skal kunne modtage følgende oplysninger fra det fælles datagrundlag på tværs af kommunegrænserne, således at data er tilgængelige for jobcentret: 1) Virksomheders brug af ansættelser på særlige vilkår (løntilskud, fleksjob, voksenelever, servicejob og jobrotationsvikarer) og tilbud om virksomhedspraktik de seneste to år, således at jobcentret har tilgængelige oplysninger om, på hvilke virksomheder der har været udplaceret borgere i kommunen og på tværs af kommunegrænser. 2) Data om virksomheders stillingsopslag på Jobnet de sidste to år.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "12:71",
+      "chapter": "12",
+      "section": "71",
+      "content": "§ 71. Data skal kunne modtages ugentligt i det af Arbejdsmarkedsstyrelsen specificerede format.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "13:72",
+      "chapter": "13",
+      "section": "72",
+      "content": "§ 72. Ministeriet for Børn og Undervisning indberetter uddannelsesoplysninger til Arbejdsmarkedsstyrelsen, jf. § 68 a, stk. 9 og 10, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "13:73",
+      "chapter": "13",
+      "section": "73",
+      "content": "§ 73. Der indberettes oplysninger om uddannelse for følgende personkreds: Personer i aldersgruppen 15-29 år.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "13:74",
+      "chapter": "13",
+      "section": "74",
+      "content": "§ 74. For hver person under 30 år indberettes: 1) Identifikationsoplysninger for personen, der deltager i uddannelsen. 2) Uddannelseskode til identifikation af uddannelsen. 3) Start- og sluttidspunkt for uddannelsen. 4) Statuskode for uddannelsen, herunder om uddannelsen er igangværende eller afsluttet.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "13:75",
+      "chapter": "13",
+      "section": "75",
+      "content": "§ 75. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau om uddannelse fra Arbejdsmarkedsstyrelsens fælles datagrundlag, jf. § 68 a, stk. 9, jf. § 58, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats videregives til kommunerne.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:76",
+      "chapter": "14",
+      "section": "76",
+      "content": "§ 76. Kommunen har pligt til at registrere og indberette oplysninger vedrørende jobplaner og beskæftigelsesforanstaltninger efter kap. 9, 10-12, 13, 13a, 13b og §§ 98b – 99 i lov om en aktiv beskæftigelsesindsats samt §§ 21, 22 og 23a – 23c i integrationsloven. Stk. 2. Kommunen har pligt til at modtage oplysningerne i stk. 1, hvis en borger fra personkredsen efter § 77 flytter til kommunen.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:77",
+      "chapter": "14",
+      "section": "77",
+      "content": "§ 77. Der skal registreres og indberettes oplysninger om foranstaltninger for følgende personkreds: 1) Kontaktgruppe 1: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 1. 2) Kontaktgruppe 2: Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2. 3) Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 3. 4) Kontaktgruppe 3: Kontanthjælpsmodtagere omfattet af introduktionsprogrammet efter integrationsloven. 5) Kontaktgruppe 4: Revalidender. 6) Kontaktgruppe 5: Forrevalidender. 7) Kontaktgruppe 6: Sygedagpengemodtagere. 8) Kontaktgruppe 7: Fleksvisiterede. 9) Personer omfattet af § 98 b i lov om en aktiv beskæftigelsesindsats (rotationsvikarer). 10) Personer omfattet af §§ 98 c – 98 g i lov om en aktiv beskæftigelsesindsats (voksenelever). 11) Beskæftigede omfattet af § 99 i lov om en aktiv beskæftigelsesindsats. 12) Personer omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 6, 8, 9 og 10. 13) Personer omfattet af lov om en aktiv beskæftigelsesindsats § 72 og 75. 14) Øvrige selvforsørgende, som kan få tilbud efter lov om en aktiv beskæftigelsesindsats. 15) Personer, der er omfattet af tilskud til personlig assistance til personer med handicap, jf. §§ 4, 5 og 14 i lov om kompensation til handicappede i erhverv mv. samt personer, der er omfattet af tilskud til personlig assistance, jf. § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats. 16) Personer, der er omfattet af mentorfunktionen til enkeltpersoner, jf. § 80, stk. 2, 1. punktum, i lov om en aktiv beskæftigelsesindsats.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:78",
+      "chapter": "14",
+      "section": "78",
+      "content": "§ 78. For hver foranstaltning indberettes følgende oplysninger: 1) For Jobplan: Identifikationsoplysninger for personen, der deltager i foranstaltningen. 2) For Jobplan: Kommunekode for indberettende kommune. 3) For Jobplan: Ansvarligt jobcenter. 4) For Jobplan: Registrerende jobcenter. 5) For Jobplan: Unik nøgle. 6) For Jobplan: Dato for oprettelse eller revision. 7) For Jobplan: Dato for registreringen i sagsbehandlingssystemet (indberetningssystemet). 8) For Jobplan: Beskæftigelsesmål. 9) For Jobplan: Baggrund. 10) For Jobplan: Planbeskrivelse. 11) For Jobplan: Aftalt opfølgning. 12) For Jobplan: Status. 13) For alle foranstaltninger: Identifikationsoplysninger for personen, der deltager i foranstaltningen. 14) For alle foranstaltninger: Kommunekode for indberettende kommune. 15) For alle foranstaltninger: Ansvarligt jobcenter. 16) For alle foranstaltninger: Registrerende jobcenter. 17) For alle foranstaltninger: Dato for registreringen i sagsbehandlingssystemet (indberetningssystemet). 18) For alle foranstaltninger: Aktivitetsudbyder/virksomhed ved CVR- og P-nummer. 19) For alle foranstaltninger: Unik nøgle for den enkelte foranstaltning (kursus, løntilskudsansættelse mv.). 20) For alle foranstaltninger: Startdato for den enkelte foranstaltning. 21) For alle foranstaltninger: Slutdato for den enkelte foranstaltning. 22) For alle foranstaltninger: Angivelse af aktivitetens status, hvis denne er »annulleret« eller »afbrudt«. 23) Hvis der er angivet status for en foranstaltning, skal årsag til status og bemærkning til status/årsag angives. 24) For alle foranstaltninger: Gennemsnitligt ugentligt timetal/minuttal for den enkelte foranstaltning. 25) For alle foranstaltninger: Aktiveringstype (økonomisk ramme m.v.). 26) For alle foranstaltninger: Forsørgelsestype. 27) For alle foranstaltninger: Oplysninger om flaskehals. 28) For alle foranstaltninger: Afholdelsessted. 29) For alle foranstaltninger: Kontaktinformation til udbyder/virksomhed. 30) For virksomhedsrettede foranstaltninger: Jobordreident fra Jobnet, hvis en sådan findes. 31) For virksomhedsrettede foranstaltninger: Jobbeskrivelse. 32) For virksomhedsrettede foranstaltninger: Type af virksomhedsrettede tilbud (Jobordretype). 33) For virksomhedsrettede foranstaltninger: Stillingsbetegnelse på den foranstaltning personen deltager i. 34) For ansættelse med løntilskud i statslige institutioner: Ministerområde. 35) For kursusforløb: Titel på kursus. 36) For kursusforløb: Beskrivelse af kurset. 37) For kursusforløb: Kursustype (afholdelseskategori). 38) For kursusforløb: Uddannelsestype – DUN/AMU. 39) For kursusforløb: Hold ID. 40) For kursusforløb: Oplysninger om evt. praktik i forløbet. 41) Borgerens samtykke til digitalt at modtage og kvittere for jobplan og aktiveringer (tilbud efter lov om en aktiv beskæftigelsesindsats kap. 10 – 12). 42) Oplysning om, hvorvidt der er kvitteret eller ej.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:79",
+      "chapter": "14",
+      "section": "79",
+      "content": "§ 79. Oplysninger vedrørende foranstaltninger efter kap. 9 (jobplaner) i lov om en aktiv beskæftigelsesindsats skal registreres og indberettes når jobplanen oprettes og efterfølgende når jobplanen revideres. Stk. 2. Oplysninger vedrørende foranstaltninger efter kap. 10 – 12 (tilbud om aktivering) i lov om en aktiv beskæftigelsesindsats samt efter §§ 21, 22 og 23a – 23c i integrationsloven skal registreres og indberettes når tilbuddet afgives til borgeren. Stk. 3. Oplysninger vedrørende foranstaltninger efter kapitel 13 (fleksjob) og §§ 98b – 98g (rotationsvikarer og voksenelever) i lov om en aktiv beskæftigelsesindsats skal registreres og indberettes når ansættelsen aftales. Stk. 4. Hvis der sker ændringer i oplysninger indberettet efter stk. 2 – 3, skal disse på ny indberettes. Dog kan ændring af status og årsag til status samt ændret slutdato på grund af statusændring for et tilbud efter lov om en aktiv beskæftigelsesindsats kap. 10 – 12 indberettes uden at de øvrige oplysninger genindberettes.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:80",
+      "chapter": "14",
+      "section": "80",
+      "content": "§ 80. De i § 78 omhandlede data skal løbende registreres elektronisk i kommunens administrative systemer, således at registreringerne er i overensstemmelse med bevillings- og udbetalingsoplysningerne for de pågældende personer.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:81",
+      "chapter": "14",
+      "section": "81",
+      "content": "§ 81. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus samt af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau videregives til andre offentlige myndigheder, jf. kapitel 11 og 12 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, herunder Danmarks Statistik. Stk. 3. Data for personer under 18 år og som er omfattet af § 77 nr. 2 – 6 videregives til Ministeriet for Børn og Undervisnings fælles datagrundlag med henblik på forvaltning af lov om vejledning om uddannelse og erhverv samt pligt til uddannelse, beskæftigelse m.v., herunder til kontrolforanstaltninger, jf. § 68 a, stk. 8, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Der videregives følgende informationer: Cpr.nr., foranstaltning samt start- og slutdato for de enkelte foranstaltninger. Stk. 4. Data for personer født mellem 1. januar 1946 og 31. december 1952, som er beskæftiget med løntilskud helt eller delvist i perioden 1. januar 2010 til 31. december 2016, videregives til ATP og SKAT med henblik på beregning af skattenedslag for seniorer, jf. § 16, stk. 1, nr. 6, i lov om skattenedslag for seniorer. Der videregives følgende informationer: Cpr.nr. og start- og slutdato for de enkelte foranstaltninger.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:82",
+      "chapter": "14",
+      "section": "82",
+      "content": "§ 82. Data skal registreres på en sådan måde, at data kan overføres i elektronisk form til Arbejdsmarkedsstyrelsen. Indberetningen til det fælles datagrundlag samt modtagelse af oplysninger, jf. § 76, stk. 2, sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "15:83",
+      "chapter": "15",
+      "section": "83",
+      "content": "§ 83. Arbejdsløshedskassen har pligt til registrere og indberette oplysninger efter § 106 i lov om en aktiv beskæftigelsesindsats om egne medlemmer til brug for opdatering af det fælles datagrundlag samt til brug for jobcenterets administration efter lov om en aktiv beskæftigelsesindsats og bestemmelser fastsat i medfør af denne lov. Stk. 2. Oplysningerne skal registreres og indberettes samme dag, som oplysningen kommer til arbejdsløshedskassens kendskab eller foreligger som en afgørelse truffet i arbejdsløshedskassen.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "15:84",
+      "chapter": "15",
+      "section": "84",
+      "content": "§ 84. Arbejdsløshedskassen har pligt til at modtage og behandle 1) oplysninger om egne medlemmers status i det fælles datagrundlag, 2) jobcenterets underretninger efter kapitel 15 i bekendtgørelse om en aktiv beskæftigelsesindsats og 3) andre aktørers underretninger efter § 5 i bekendtgørelse om andre aktører.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "15:85",
+      "chapter": "15",
+      "section": "85",
+      "content": "§ 85. Oplysninger efter §§ 83 og 84 udveksles elektronisk via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved enten 1) at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3, eller 2) filoverførsler via ftp-server. Stk. 3. Filoverførsel må kun anvendes for oplysninger, hvor Arbejdsmarkedsstyrelsen ikke stiller webservice til rådighed for udvekslingen.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "16:86",
+      "chapter": "16",
+      "section": "86",
+      "content": "§ 86. Kommunen har pligt til at modtage og behandle følgende oplysninger om syge- og raskmeldinger vedrørende ledige medlemmer af en arbejdsløshedskasse fra det fælles datagrundlag: 1) Første sygedag. 2) Sidste sygedag. 3) Anmeldelsesdato for en syge- eller raskmelding. 4) Registreringsdato for en syge- eller raskmelding.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "16:87",
+      "chapter": "16",
+      "section": "87",
+      "content": "§ 87. Ved anmeldelsen af sygefravær fra arbejdsløshedskassen via SDPI-løsningen har kommunen, via sit it-system til sagsbehandling af sygedagpengesager, pligt til at foretage opslag i det fælles datagrundlag for at modtage oplysninger efter § 86. Stk. 2. Ved opslag efter stk. 1, afleverer kommunens it-system unik nøgle (UUID) for sagen i det fælles datagrundlag. Stk. 3. Hvis der ikke ved opslaget efter stk. 2, allerede foreligger en raskmelding, modtager kommunens it-system efterfølgende automatisk besked når der registreres en raskmelding i det fælles datagrundlag.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "16:88",
+      "chapter": "16",
+      "section": "88",
+      "content": "§ 88. Den digitale kommunikation med det fælles datagrundlag efter §§ 86 og 87 sker via den it-funktionalitet, som stilles til rådighed af Arbejdsmarkedsstyrelsen. Stk. 2. Den it-funktionalitet, som er nævnt i stk. 1, skal anvendes ved at benytte de grænseflader (webservicer), som Arbejdsmarkedsstyrelsen har udviklet, jf. §§ 1-3.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "17:89",
+      "chapter": "17",
+      "section": "89",
+      "content": "§ 89. Bekendtgørelsen træder i kraft den 16. april 2012, jf. dog stk. 2 - 5. Stk. 2. Oplysninger efter kapitel 10 registreres når den tekniske indberetningsløsning er releaset. Stk. 3. Indberetningerne efter § 77, nr. 2 påbegyndes 23. april 2012. Stk. 4. Indberetningerne efter § 77, nr. 3 – 16 påbegyndes 22. oktober 2012. Stk. 5. Den digitale kommunikation efter kap. 16 påbegyndes 2. juli 2012. Stk. 6. Bekendtgørelse nr. 1400 af 20. december 2011 om registrering og indberetning af data på beskæftigelsesområdet til det statistiske datavarehus og det fælles datagrundlag i Arbejdsmarkedsstyrelsen ophæves. Stk. 7. Bekendtgørelse nr. 547 af 23. juni 1994 om udveksling af informationer mellem Arbejdsformidlingen og Arbejdsløshedskasserne ophæves.",
+      "valid_from": "2012-03-30",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

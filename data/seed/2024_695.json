@@ -1,0 +1,281 @@
+{
+  "id": "2024:695",
+  "type": "statute",
+  "title": "Bekendtgørelse om frisættelse af eldata",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2024-06-11",
+  "url": "https://www.retsinformation.dk/eli/lta/2024/695/xml",
+  "description": "Retsinformation source. DocumentId=DB000928; AccessionNumber=B20240069505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Formålet med bekendtgørelsen er at frisætte alle netvirksomheders data om elforbrug og elproduktion til samfundsnyttig udvikling af elmarkedet og fleksibel udnyttelse af distributionsnettet samt opfyldelse af databrugeres behov."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Bekendtgørelsen finder anvendelse på data om elforbrug og elproduktion i netvirksomhedens besiddelse, som indsamles via Energinets Datahub."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. I denne bekendtgørelse forstås ved: 1) API: Et API (Application Programming Interface) er en programmeringsgrænseflade, som bruges til at overføre data mellem softwareapplikationer på en formaliseret måde. 2) Databrugere: Aktører, som anvender eller kan anvende data frisat af netvirksomhederne. 3) Dataformater: Henviser til måden, som data er struktureret på, f.eks. CSV, XML og JSON. 4) Datahub: Som defineret i § 5, nr. 6, i lov om elforsyning. 5) Elforbrugsdata : Data om elforbrug indsamlet fra målepunkter, herunder fra afregningsmålere, som ejes af netvirksomheden og er i drift, der er omfattet af bekendtgørelse om fjernaflæste elmålere og måling af elektricitet i slutforbruget. 6) Elproduktionsdata : Data om elproduktion indsamlet fra målere, der registrerer elproduktionen, som leveres til distributions- og transmissionsnettet. 7) Frisætte: Offentliggøre data uden beregning for databrugere. 8) Metadata: Data om andre data, f.eks. oplysninger om dataejer, tidspunkt for indsamling, formål for indsamling og af hvem samt opdateringsfrekvens mv. 9) Netvirksomhed: Som defineret i § 5, nr. 26, i lov om elforsyning."
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Netvirksomheden skal f.eks. ved høring inddrage databrugere for at sikre, at data om elforbrug og elproduktion frisættes under hensyntagen til databrugeres behov og samfundsnyttig effekt afvejet i forhold til udgifter forbundet hermed. Stk. 2. Netvirksomheden skal så vidt muligt berige datasæt i deres besiddelse, hvis det forbedrer databrugeres effektive anvendelse af data."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Netvirksomheden kan ikke opkræve betaling for adgang til frisat data."
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Netvirksomhedens elforbrugsdata og elproduktionsdata som indsamles via Energinets Datahub, jf. elforsyningslovens § 22, stk. 3, skal frisættes via Energinets IT-platform, f.eks. Energi Data Service."
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Netvirksomhederne og Energinet skal indgå en samarbejdsaftale i overensstemmelse med kravene i denne bekendtgørelse, og som regulerer frisættelse af data efter § 6."
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. Netvirksomhedernes samarbejdsaftale med Energinet om sikring af en fælles frisættelse af data om elforbrug og elproduktion skal indeholde følgende: 1) Metode til systematisering, anonymisering og offentliggørelse af data. 2) Dataformater og metadata: a) Data skal frisættes i bredt anvendelige dataformater, der ikke er bundet op på anvendelse af proprietær software. b) Data skal frisættes via udstillingsmetoder, der understøtter en bred og nemt tilgængelig anvendelse, herunder via API. 3) Vejledning til databrugere med information om: a) Hvilke data, der frisættes. b) Adgang til frisat data. c) Beskrivelse af metadata om frisat data. 4) Forpligtelse til gensidigt at udlevere oplysninger, som er nødvendige af hensyn til opfyldelse af kravene i denne bekendtgørelse. Stk. 2. Netvirksomhederne skal i samarbejde med Energinet sikre, at frisat data opdateres løbende og som minimum en gang i døgnet."
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Netvirksomhederne skal i samarbejde med Energinet sikre, at data om elforbrug og elproduktion, der kan indeholde personoplysninger, forretningshemmeligheder, jf. § 2, stk. 1 i lov om forretningshemmeligheder eller oplysninger omfattet af offentlige beskyttelseshensyn, anonymiseres inden offentliggørelse. Stk. 2. Anonymisering af personoplysninger, forretningshemmeligheder eller oplysninger omfattet af offentlige beskyttelseshensyn skal ske, så databrugere sikres mest mulig værdi af den frisatte data under anvendelse af passende tekniske og organisatoriske sikkerhedsforanstaltninger."
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "§ 10. Alle netvirksomhederne skal udarbejde én samlet plan for frisættelse af data, som skal indgives til Energistyrelsen. Stk. 2. Netvirksomhedernes plan for datafrisættelse skal som minimum indeholde følgende: 1) En beskrivelse af hvordan databrugere er identificerede, herunder hvordan deres behov er inddraget i forbindelse med fastlæggelse af datafrisættelsen, samt en redegørelse for databrugeres kommentarer til de data, der planlægges frisat, jf. § 4. 2) Beskrivelse af hvordan data frisættes, herunder hvordan databrugere kan få adgang til data, jf. § 8, stk. 1, nr. 1 og 2. 3) Dokumentation for analyser og risikovurderinger vedrørende den valgte anonymiseringsteknik for personoplysninger, oplysninger omfattet af offentlige beskyttelseshensyn og forretningshemmeligheder, jf. § 9. 4) Beskrivelse af oplysningsmateriale og servicefunktioner vedrørende frisat data til databrugere, jf. § 8, stk. 1, nr. 3. 5) En samarbejdsaftale med Energinet, jf. § 7 og § 8. 6) En tidsplan for implementering af planen."
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "content": "§ 11. Energistyrelsen godkender netvirksomhedernes plan for frisættelse af data om elforbrug og elproduktion, såfremt planen opfylder kravene i §§ 4, 8, 9 og 10, dog ikke forhold vedrørende § 10, stk. 2, nr. 3. Stk. 2. Energistyrelsen kan i forbindelse med godkendelsen efter stk. 1, fastsætte vilkår om, at netvirksomheden skal 1) sikre tilpasning af angivne forhold i henhold til krav efter denne bekendtgørelse, 2) udarbejde supplerende dokumentation mv., der indeholder en nærmere beskrivelse af punkter, jf. § 10, og 3) efter anmodning meddele fornødne oplysninger til Energistyrelsen til brug for vurdering af planen. Stk. 3. Energistyrelsen fastsætter i forbindelse med godkendelse en frist for tilpasning af planen, jf. stk. 2."
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Planen for datafrisættelse skal være modtaget af Energistyrelsen seneste ved udgangen af december 2024. Stk. 2. Energistyrelsen godkender planen efter stk. 1, senest 2 måneder efter sagen er fuldt oplyst. Stk. 3. Energistyrelsen kan i forbindelse med en betinget godkendelse fastsætte en frist for tilpasning af planen. Stk. 4. Netvirksomhedernes plan for frisættelse af data offentliggøres på Energistyrelsens hjemmeside www.ens.dk."
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "content": "§ 13. Netvirksomhederne gennemfører den godkendte plan."
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "content": "§ 14. Netvirksomhederne udarbejder årligt én samlet redegørelse for datafrisættelsen, jf. stk. 3, og ét forslag til en revideret plan af datafrisættelsen, jf. stk. 5. Stk. 2. Energistyrelsen kan bede netvirksomhederne om at redegøre for bestemte forhold i forbindelse med den årlige redegørelse og revision af planen. Stk. 3. Redegørelsen efter stk. 1, skal omfatte følgende forhold: 1) Status på efterlevelse af den godkendte plan, jf. § 10. 2) Statistik over anvendelse af frisat data, eksempelvis i form af udtræk og opslag. 3) Omfang af henvendelser fra databrugere vedrørende frisat data mv. 4) Opdateret risikovurdering i forhold til databehandling, herunder behov for nye tiltag til anonymiseringsteknikker mv. på baggrund af eventuelle ændrede forudsætninger. 5) Overvejelser og forslag til ændring af frisat data, herunder metode til udtræk af data, servicering af databrugere mv. Stk. 4. Energistyrelsen kan træffe afgørelse om, hvorvidt netvirksomhedernes redegørelse opfylder kravene i denne bekendtgørelse. Energistyrelsen kan i afgørelsen fastsætte vilkår om, at netvirksomhederne skal sikre tilpasning af angivne forhold. Energistyrelsen fastsætter i afgørelsen en frist for efterlevelse af vilkår. Stk. 5. Forslaget til en revideret plan for datafrisættelsen skal omfatte de forhold, som er beskrevet i § 10. Den reviderede plan kan baseres på den sidst godkendte plan med de ændringer, som netvirksomhederne foreslår gennemført på grundlag af redegørelsen i stk. 3. Stk. 6. Energistyrelsen godkender forslaget til en revideret plan for datafrisættelse. Energistyrelsen kan i forbindelse med godkendelsen fastsætte vilkår om, at netvirksomhederne skal tilpasse nærmere angivne forhold i forslaget til planen. Energistyrelsen fastsætter en frist for tilpasning af fastsatte vilkår. Stk. 7. Netvirksomhederne skal udarbejde og indsende den samlede redegørelse for, samt revisionen af planen for datafrisættelse, i forbindelse med det årlige tilsyn med netvirksomhedernes bevillinger, jf. § 51, stk. 1, i lov om elforsyning. Stk. 8. Energistyrelsen kan i særlige tilfælde meddele netvirksomhederne dispensation fra stk. 1."
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "content": "§ 15. Energistyrelsen kan give påbud til en netvirksomhed eller Energinet om at udføre nærmere angivne datafrisættelsesaktiviteter eller opfylde nærmere angivne samarbejdsforpligtelser i overensstemmelse med denne bekendtgørelse, hvis virksomheden: 1) Tilsidesætter vilkår mv. i Energistyrelsens godkendelse efter § 11 og § 14, stk. 5 og 6. 2) Undlader at gennemføre forpligtelser efter §§ 4-9. Stk. 2. Såfremt der ikke ved aftale kan opnås enighed om sikring af planlagte datafrisættelsesaktiviteter, jf. § 8, stk. 1 eller § 10, eller en indgået aftale ikke kan overholdes, kan Energistyrelsen ved påbud fastlægge vilkår for udførelse af den pågældende datafrisættelsesaktivitet eller aftale. Stk. 3. Energistyrelsen fører tilsyn med efterlevelsen af påbud efter stk. 1-2."
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "content": "§ 16. Energistyrelsen fører tilsyn med den overordnede overholdelse af denne bekendtgørelse."
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "content": "§ 17. Afgørelser truffet af Energistyrelsen efter denne bekendtgørelse kan påklages til Energiklagenævnet. Stk. 2. Klage som nævnt i stk. 1 skal være indgivet skriftligt inden 4 uger efter, at afgørelsen er meddelt."
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "content": "§ 18. Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den netvirksomhed, som: 1) Tilsidesætter Energistyrelsens påbud efter § 15. 2) Afgiver urigtige oplysninger eller undlader at afgive oplysninger om forhold, hvorom virksomheden er forpligtet til at give oplysninger til Energistyrelsen eller anden myndighed efter bestemmelser i denne bekendtgørelse. Dette gælder uanset om oplysningerne er afgivet direkte over for Energistyrelsen eller anden myndighed eller til et samarbejdsorgan med henblik på videregivelse til Energistyrelsen eller anden myndighed. 3) Tilsidesætter forpligtelser efter §§ 4-9. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "content": "§ 19. Bekendtgørelsen træder i kraft den 1. juli 2024."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Formålet med bekendtgørelsen er at frisætte alle netvirksomheders data om elforbrug og elproduktion til samfundsnyttig udvikling af elmarkedet og fleksibel udnyttelse af distributionsnettet samt opfyldelse af databrugeres behov.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Bekendtgørelsen finder anvendelse på data om elforbrug og elproduktion i netvirksomhedens besiddelse, som indsamles via Energinets Datahub.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. I denne bekendtgørelse forstås ved: 1) API: Et API (Application Programming Interface) er en programmeringsgrænseflade, som bruges til at overføre data mellem softwareapplikationer på en formaliseret måde. 2) Databrugere: Aktører, som anvender eller kan anvende data frisat af netvirksomhederne. 3) Dataformater: Henviser til måden, som data er struktureret på, f.eks. CSV, XML og JSON. 4) Datahub: Som defineret i § 5, nr. 6, i lov om elforsyning. 5) Elforbrugsdata : Data om elforbrug indsamlet fra målepunkter, herunder fra afregningsmålere, som ejes af netvirksomheden og er i drift, der er omfattet af bekendtgørelse om fjernaflæste elmålere og måling af elektricitet i slutforbruget. 6) Elproduktionsdata : Data om elproduktion indsamlet fra målere, der registrerer elproduktionen, som leveres til distributions- og transmissionsnettet. 7) Frisætte: Offentliggøre data uden beregning for databrugere. 8) Metadata: Data om andre data, f.eks. oplysninger om dataejer, tidspunkt for indsamling, formål for indsamling og af hvem samt opdateringsfrekvens mv. 9) Netvirksomhed: Som defineret i § 5, nr. 26, i lov om elforsyning.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Netvirksomheden skal f.eks. ved høring inddrage databrugere for at sikre, at data om elforbrug og elproduktion frisættes under hensyntagen til databrugeres behov og samfundsnyttig effekt afvejet i forhold til udgifter forbundet hermed. Stk. 2. Netvirksomheden skal så vidt muligt berige datasæt i deres besiddelse, hvis det forbedrer databrugeres effektive anvendelse af data.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Netvirksomheden kan ikke opkræve betaling for adgang til frisat data.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Netvirksomhedens elforbrugsdata og elproduktionsdata som indsamles via Energinets Datahub, jf. elforsyningslovens § 22, stk. 3, skal frisættes via Energinets IT-platform, f.eks. Energi Data Service.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Netvirksomhederne og Energinet skal indgå en samarbejdsaftale i overensstemmelse med kravene i denne bekendtgørelse, og som regulerer frisættelse af data efter § 6.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. Netvirksomhedernes samarbejdsaftale med Energinet om sikring af en fælles frisættelse af data om elforbrug og elproduktion skal indeholde følgende: 1) Metode til systematisering, anonymisering og offentliggørelse af data. 2) Dataformater og metadata: a) Data skal frisættes i bredt anvendelige dataformater, der ikke er bundet op på anvendelse af proprietær software. b) Data skal frisættes via udstillingsmetoder, der understøtter en bred og nemt tilgængelig anvendelse, herunder via API. 3) Vejledning til databrugere med information om: a) Hvilke data, der frisættes. b) Adgang til frisat data. c) Beskrivelse af metadata om frisat data. 4) Forpligtelse til gensidigt at udlevere oplysninger, som er nødvendige af hensyn til opfyldelse af kravene i denne bekendtgørelse. Stk. 2. Netvirksomhederne skal i samarbejde med Energinet sikre, at frisat data opdateres løbende og som minimum en gang i døgnet.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Netvirksomhederne skal i samarbejde med Energinet sikre, at data om elforbrug og elproduktion, der kan indeholde personoplysninger, forretningshemmeligheder, jf. § 2, stk. 1 i lov om forretningshemmeligheder eller oplysninger omfattet af offentlige beskyttelseshensyn, anonymiseres inden offentliggørelse. Stk. 2. Anonymisering af personoplysninger, forretningshemmeligheder eller oplysninger omfattet af offentlige beskyttelseshensyn skal ske, så databrugere sikres mest mulig værdi af den frisatte data under anvendelse af passende tekniske og organisatoriske sikkerhedsforanstaltninger.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "§ 10. Alle netvirksomhederne skal udarbejde én samlet plan for frisættelse af data, som skal indgives til Energistyrelsen. Stk. 2. Netvirksomhedernes plan for datafrisættelse skal som minimum indeholde følgende: 1) En beskrivelse af hvordan databrugere er identificerede, herunder hvordan deres behov er inddraget i forbindelse med fastlæggelse af datafrisættelsen, samt en redegørelse for databrugeres kommentarer til de data, der planlægges frisat, jf. § 4. 2) Beskrivelse af hvordan data frisættes, herunder hvordan databrugere kan få adgang til data, jf. § 8, stk. 1, nr. 1 og 2. 3) Dokumentation for analyser og risikovurderinger vedrørende den valgte anonymiseringsteknik for personoplysninger, oplysninger omfattet af offentlige beskyttelseshensyn og forretningshemmeligheder, jf. § 9. 4) Beskrivelse af oplysningsmateriale og servicefunktioner vedrørende frisat data til databrugere, jf. § 8, stk. 1, nr. 3. 5) En samarbejdsaftale med Energinet, jf. § 7 og § 8. 6) En tidsplan for implementering af planen.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "content": "§ 11. Energistyrelsen godkender netvirksomhedernes plan for frisættelse af data om elforbrug og elproduktion, såfremt planen opfylder kravene i §§ 4, 8, 9 og 10, dog ikke forhold vedrørende § 10, stk. 2, nr. 3. Stk. 2. Energistyrelsen kan i forbindelse med godkendelsen efter stk. 1, fastsætte vilkår om, at netvirksomheden skal 1) sikre tilpasning af angivne forhold i henhold til krav efter denne bekendtgørelse, 2) udarbejde supplerende dokumentation mv., der indeholder en nærmere beskrivelse af punkter, jf. § 10, og 3) efter anmodning meddele fornødne oplysninger til Energistyrelsen til brug for vurdering af planen. Stk. 3. Energistyrelsen fastsætter i forbindelse med godkendelse en frist for tilpasning af planen, jf. stk. 2.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Planen for datafrisættelse skal være modtaget af Energistyrelsen seneste ved udgangen af december 2024. Stk. 2. Energistyrelsen godkender planen efter stk. 1, senest 2 måneder efter sagen er fuldt oplyst. Stk. 3. Energistyrelsen kan i forbindelse med en betinget godkendelse fastsætte en frist for tilpasning af planen. Stk. 4. Netvirksomhedernes plan for frisættelse af data offentliggøres på Energistyrelsens hjemmeside www.ens.dk.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "content": "§ 13. Netvirksomhederne gennemfører den godkendte plan.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "content": "§ 14. Netvirksomhederne udarbejder årligt én samlet redegørelse for datafrisættelsen, jf. stk. 3, og ét forslag til en revideret plan af datafrisættelsen, jf. stk. 5. Stk. 2. Energistyrelsen kan bede netvirksomhederne om at redegøre for bestemte forhold i forbindelse med den årlige redegørelse og revision af planen. Stk. 3. Redegørelsen efter stk. 1, skal omfatte følgende forhold: 1) Status på efterlevelse af den godkendte plan, jf. § 10. 2) Statistik over anvendelse af frisat data, eksempelvis i form af udtræk og opslag. 3) Omfang af henvendelser fra databrugere vedrørende frisat data mv. 4) Opdateret risikovurdering i forhold til databehandling, herunder behov for nye tiltag til anonymiseringsteknikker mv. på baggrund af eventuelle ændrede forudsætninger. 5) Overvejelser og forslag til ændring af frisat data, herunder metode til udtræk af data, servicering af databrugere mv. Stk. 4. Energistyrelsen kan træffe afgørelse om, hvorvidt netvirksomhedernes redegørelse opfylder kravene i denne bekendtgørelse. Energistyrelsen kan i afgørelsen fastsætte vilkår om, at netvirksomhederne skal sikre tilpasning af angivne forhold. Energistyrelsen fastsætter i afgørelsen en frist for efterlevelse af vilkår. Stk. 5. Forslaget til en revideret plan for datafrisættelsen skal omfatte de forhold, som er beskrevet i § 10. Den reviderede plan kan baseres på den sidst godkendte plan med de ændringer, som netvirksomhederne foreslår gennemført på grundlag af redegørelsen i stk. 3. Stk. 6. Energistyrelsen godkender forslaget til en revideret plan for datafrisættelse. Energistyrelsen kan i forbindelse med godkendelsen fastsætte vilkår om, at netvirksomhederne skal tilpasse nærmere angivne forhold i forslaget til planen. Energistyrelsen fastsætter en frist for tilpasning af fastsatte vilkår. Stk. 7. Netvirksomhederne skal udarbejde og indsende den samlede redegørelse for, samt revisionen af planen for datafrisættelse, i forbindelse med det årlige tilsyn med netvirksomhedernes bevillinger, jf. § 51, stk. 1, i lov om elforsyning. Stk. 8. Energistyrelsen kan i særlige tilfælde meddele netvirksomhederne dispensation fra stk. 1.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "content": "§ 15. Energistyrelsen kan give påbud til en netvirksomhed eller Energinet om at udføre nærmere angivne datafrisættelsesaktiviteter eller opfylde nærmere angivne samarbejdsforpligtelser i overensstemmelse med denne bekendtgørelse, hvis virksomheden: 1) Tilsidesætter vilkår mv. i Energistyrelsens godkendelse efter § 11 og § 14, stk. 5 og 6. 2) Undlader at gennemføre forpligtelser efter §§ 4-9. Stk. 2. Såfremt der ikke ved aftale kan opnås enighed om sikring af planlagte datafrisættelsesaktiviteter, jf. § 8, stk. 1 eller § 10, eller en indgået aftale ikke kan overholdes, kan Energistyrelsen ved påbud fastlægge vilkår for udførelse af den pågældende datafrisættelsesaktivitet eller aftale. Stk. 3. Energistyrelsen fører tilsyn med efterlevelsen af påbud efter stk. 1-2.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "content": "§ 16. Energistyrelsen fører tilsyn med den overordnede overholdelse af denne bekendtgørelse.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "content": "§ 17. Afgørelser truffet af Energistyrelsen efter denne bekendtgørelse kan påklages til Energiklagenævnet. Stk. 2. Klage som nævnt i stk. 1 skal være indgivet skriftligt inden 4 uger efter, at afgørelsen er meddelt.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "content": "§ 18. Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den netvirksomhed, som: 1) Tilsidesætter Energistyrelsens påbud efter § 15. 2) Afgiver urigtige oplysninger eller undlader at afgive oplysninger om forhold, hvorom virksomheden er forpligtet til at give oplysninger til Energistyrelsen eller anden myndighed efter bestemmelser i denne bekendtgørelse. Dette gælder uanset om oplysningerne er afgivet direkte over for Energistyrelsen eller anden myndighed eller til et samarbejdsorgan med henblik på videregivelse til Energistyrelsen eller anden myndighed. 3) Tilsidesætter forpligtelser efter §§ 4-9. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "content": "§ 19. Bekendtgørelsen træder i kraft den 1. juli 2024.",
+      "valid_from": "2024-06-11",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

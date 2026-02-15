@@ -1,0 +1,92 @@
+{
+  "id": "2018:502",
+  "type": "statute",
+  "title": "Databeskyttelsesloven",
+  "title_en": "Danish Data Protection Act",
+  "short_name": "DBL",
+  "status": "in_force",
+  "issued_date": "2018-05-23",
+  "in_force_date": "2018-05-25",
+  "url": "https://www.retsinformation.dk/eli/lta/2018/502",
+  "description": "Implementerer og supplerer forordning (EU) 2016/679. Kilde: Retsinformation (stabilt dokument-id bevaret i ingestion metadata).",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens anvendelsesområde",
+      "content": "Loven supplerer Europa-Parlamentets og Rådets forordning (EU) 2016/679 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definitioner",
+      "content": "Ved personoplysninger forstås enhver form for information om en identificeret eller identificerbar fysisk person."
+    },
+    {
+      "provision_ref": "2:1",
+      "chapter": "2",
+      "section": "1",
+      "title": "Tilsynsmyndighed",
+      "content": "Datatilsynet fører tilsyn med behandling af personoplysninger i henhold til denne lov og databeskyttelsesforordningen."
+    },
+    {
+      "provision_ref": "3:1",
+      "chapter": "3",
+      "section": "1",
+      "title": "Sanktioner",
+      "content": "Overtrædelse af loven kan straffes med bøde, medmindre højere straf er forskyldt efter anden lovgivning."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "2:1",
+      "chapter": "2",
+      "section": "1",
+      "title": "Tilsynsmyndighed",
+      "content": "Datatilsynet fører tilsyn med behandling af personoplysninger i henhold til denne lov og databeskyttelsesforordningen.",
+      "valid_from": "2018-05-25",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:1",
+      "chapter": "3",
+      "section": "1",
+      "title": "Sanktioner",
+      "content": "Overtrædelse af loven kan straffes med bøde.",
+      "valid_from": "2018-05-25",
+      "valid_to": "2023-07-01"
+    },
+    {
+      "provision_ref": "3:1",
+      "chapter": "3",
+      "section": "1",
+      "title": "Sanktioner",
+      "content": "Overtrædelse af loven kan straffes med bøde, medmindre højere straf er forskyldt efter anden lovgivning.",
+      "valid_from": "2023-07-01",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "personoplysninger",
+      "term_en": "personal data",
+      "definition": "Enhver form for information om en identificeret eller identificerbar fysisk person.",
+      "source_provision": "1:2"
+    },
+    {
+      "term": "behandling",
+      "term_en": "processing",
+      "definition": "Enhver aktivitet eller række af aktiviteter med personoplysninger.",
+      "source_provision": "1:2"
+    }
+  ],
+  "preparatory_works": [
+    {
+      "prep_document_id": "2017/18:L68",
+      "title": "Lovforslag L 68 (2017/18) om databeskyttelse",
+      "summary": "Lovforslag om nationale supplerende regler til GDPR."
+    }
+  ]
+}

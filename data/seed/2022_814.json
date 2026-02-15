@@ -1,0 +1,623 @@
+{
+  "id": "2022:814",
+  "type": "statute",
+  "title": "Bekendtgørelse om infrastrukturforvalteres tekniske sikkerhedsregler på jernbanen",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2022-06-03",
+  "url": "https://www.retsinformation.dk/eli/lta/2022/814/xml",
+  "description": "Retsinformation source. DocumentId=DG000431; AccessionNumber=B20220081405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Bekendtgørelsen indeholder funktionskrav til infrastrukturforvalteres tekniske sikkerhedsregler, hvor disse er nødvendige for at sikre, at sikkerhedsniveauet opretholdes eller forbedres på en dokumenteret og systembåret måde, så mulige farer knyttet til den teknik, der anvendes, kontrolleres. Stk. 2. Bekendtgørelsen indeholder de krav, infrastrukturforvaltere skal opfylde for at kunne overgå til selvforvaltning af tekniske sikkerhedsregler på jernbaneinfrastrukturområdet, og fastsætter krav og procedurer for denne selvforvaltning."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Bekendtgørelsen gælder for infrastrukturforvaltere."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Bekendtgørelsen gælder ikke tekniske sikkerhedsregler i forbindelse med: 1) Veteranbaner. 2) Privatejet jernbaneinfrastruktur, herunder sidespor, der anvendes af ejeren eller af en operatør i forbindelse med deres respektive godstransportaktiviteter eller personbefordring i ikke-kommercielt øjemed."
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. I denne bekendtgørelse forstås ved: 1) Funktionskrav til tekniske sikkerhedsregler: Overordnede krav til tekniske sikkerhedsregler, som er en del af infrastrukturforvalterens sikkerhedsledelsessystem, og som er nødvendige at opfylde for at opnå acceptabel jernbanesikkerhed. 2) Tekniske sikkerhedsregler: Indeholder krav, som er fastsat for at imødegå jernbanefarer, der skyldes, at mennesker begår fejl, når de kravsætter, betjener, benytter eller vedligeholder et teknisk system. 3) Trafikale sikkerhedsregler: Indeholder krav, som er fastsat for at imødegå jernbanefarer, der skyldes, at mennesker begår fejl i forbindelse med færdsel på infrastrukturen og trafikafviklingen. 4) Indgrebsgrænser: Værdier fastsat i infrastrukturforvalterens tekniske sikkerhedsregler. Indgrebsgrænsen overvåges af infrastrukturforvalteren for at afgøre, hvornår infrastrukturforvalteren skal gennemføre indgreb med henblik på, at de fastsatte grænseværdier for akutindgreb ikke overskrides. 5) Sikkerhedsmæssige grundparametre: En gruppe af parametre, som fastlægger samtlige sikkerhedsegenskaber ved et system eller et element på jernbaneområdet. 6) Grænseværdier for akutindgreb: Værdier for sikkerhedsparametre eller slidindikatorer fastsat i infrastrukturforvalterens tekniske sikkerhedsregler, hvor overskridelse af disse værdier vil indebære en uacceptabel risiko og derfor straks kræver en handling, der bringer systemet i en tilstand, hvor risikoen er acceptabel. 7) Funktion med betydning for jernbanesikkerheden: En funktion realiseret ved hjælp af et teknisk system på jernbaneområdet, og som medvirker til at begrænse risikoen for jernbaneulykker. 8) Sikkerhedsrelaterede anvendelsesbetingelser: Betingelser, som minimerer farer forbundet med tekniske systemer ved at pålægge brugeren af systemerne begrænsninger, eller stiller krav om, at brugeren skal gennemføre særlige aktiviteter for at begrænse risikoen for, at farer medfører ulykker. 9) Infrastrukturforvalter: Infrastrukturforvalter som defineret i jernbanelovens § 3, stk. 1, nr. 5. 10) Ændring af tekniske sikkerhedsregler: Ved ændring forstås, at infrastrukturforvalteren ændrer en eksisterende teknisk sikkerhedsregel eller bringer en eksisterende teknisk sikkerhedsregel til ophør. 11) Regelassessor: Den uafhængige og kompetente, eksterne eller interne person, organisation eller enhed, der foretager efterforskninger med henblik på at nå frem til, hvorvidt en teknisk sikkerhedsregel, en ændring hertil eller en dispensation fra de tekniske sikkerhedsregler sikrer, at infrastrukturforvalteren opretholder eller forbedrer sikkerhedsniveauet på en dokumenteret og systembåret måde, så alle farer, der med rimelighed kan forudses, knyttet til den teknik der anvendes, kontrolleres. 12) Selvforvaltning: Ved selvforvaltning af tekniske sikkerhedsregler forstås, at infrastrukturforvalteren varetager hele regelprocessen, samt at der ikke er myndighedsgodkendelse af reglerne. 13) Bruger: Den fagperson, der forestår en konkret opgave. 14) Overvågningssystematik: Overvågningsaktiviteter, der gennemføres i henhold til en nedskrevet proces. 15) Akkumulation af tekniske sikkerhedsregler: Ved akkumulation forstås, at flere mindre ændringer af tekniske sikkerhedsregler, som enkeltvis ikke er væsentlige, summeres eller vekselvirker, så de samlet udgør en væsentlig ændring af tekniske sikkerhedsregler. 16) Afvigelse: Afvigelse fra en teknisk sikkerhedsregel kan både være planlagt og uplanlagt og forstås, som at den tekniske sikkerhedsregel ikke er overholdt . 17) Dispensation fra en teknisk sikkerhedsregel: Ved dispensation fra en teknisk sikkerhedsregel forstås godkendelse af en afvigelse fra den tekniske sikkerhedsregel."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Infrastrukturforvalteren skal sikre, at der er udarbejdet relevante tekniske sikkerhedsregler efter procedurer fastlagt i infrastrukturforvalterens sikkerhedsledelsessystem. De tekniske sikkerhedsregler skal opfylde de funktionskrav, der er opstillet for de relevante områder i kapital 7 og 8. Infrastrukturforvalteren skal til enhver tid leve op til disse tekniske sikkerhedsregler, medmindre der er opnået dispensation i medfør af § 15 eller § 36. Stk. 2. De fastlagte procedurer i infrastrukturforvalterens sikkerhedsledelsessystem, jf. stk. 1, skal opfylde § 6."
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. I infrastrukturforvalterens sikkerhedsledelsessystem skal der fastlægges en proces for udarbejdelse, godkendelse, implementering og overvågning af nye og ændrede tekniske sikkerhedsregler samt dispensation fra tekniske sikkerhedsregler. Processen skal bl.a. indeholde risikovurdering og kvalitetssikring. Stk. 2. Nye og ændrede tekniske sikkerhedsregler skal dokumenteres. Dokumentationen skal som minimum indeholde: 1) Entydig identifikation af de pågældende regler. 2) Anvendelsesområde. 3) Gyldighed. 4) Begrundelse for nødvendigheden af den nye eller ændrede tekniske sikkerhedsregel. 5) Sporbarhed til eventuelle sikkerhedsrelaterede anvendelsesbetingelser. 6) Risikovurdering og risikoevaluering. 7) Afledte konsekvenser, der kan påvirke jernbanesikkerheden, herunder konsekvenser for andre tekniske eller trafikale sikkerhedsregler. 8) Behov for ændringer i relevante brugeres kompetencer og/eller i sikkerhedsledelsessystemets dokumenter. 9) Ved ændrede tekniske sikkerhedsregler skal forskellen fra eksisterende regler entydigt identificeres. Stk. 3. Dispensation fra tekniske sikkerhedsregler skal dokumenteres. Dokumentationen skal som minimum indeholde: 1) Entydig identifikation af de tekniske sikkerhedsregler, der dispenseres fra. 2) Hvad der derved tillades, herunder gyldighedsperiode og omfang. 3) Begrænsninger i det, der tillades. 4) Begrundelse for hvorfor det er nødvendigt at afvige fra den/de tekniske sikkerhedsregler. 5) Risikovurdering og risikoevaluering. 6) Hvilke betingelser, modforanstaltninger eller kontrolforanstaltninger der skal opfyldes eller være til stede i dispensationens gyldighedsperiode. 7) Afledte afvigelser fra andre tekniske eller trafikale sikkerhedsregler. 8) Behov for supplerende kompetencer, som relevante brugere skal have. 9) Supplerende instruktioner til relevante brugere og/eller supplerende ændringer i sikkerhedsledelsessystemets dokumenter. Stk. 4. Ved nye og ændrede tekniske sikkerhedsregler, samt afvigelse, herfra skal infrastrukturforvalteren vurdere behovet for en regelassessor på baggrund af kriterierne i § 7, medmindre reglen eller afvigelsen er omfattet af anden godkendelse af Trafikstyrelsen. Stk. 5. Regelassessor forelægger infrastrukturforvalteren sin vurdering i henhold til kravene i kapitel 4. Infrastrukturforvalteren afgør, om og hvordan konklusionerne i vurderingen skal tages i betragtning ved accept af sikkerhed for de ændrede tekniske sikkerhedsregler eller afvigelsen fra tekniske sikkerhedsregler. Stk. 6. Er infrastrukturforvalteren uenig i en del af vurderingen, jf. stk. 5, skal infrastrukturforvalteren begrunde og dokumentere dette."
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Ved nye tekniske sikkerhedsregler, ændringer af tekniske sikkerhedsregler eller dispensationer fra tekniske sikkerhedsregler skal infrastrukturforvalteren foretage en vurdering af væsentlighed ud fra følgende kriterier: 1) Værste konsekvens, hvis en teknisk sikkerhedsregel ikke opfylder sit formål, eller der ikke iværksættes risikoreducerende tiltag ved en afvigelse. 2) Nyskabelse i den tekniske sikkerhedsregel eller afvigelse. 3) Den tekniske sikkerhedsregels, ændringens eller afvigelsens kompleksitet og omfang. 4) Akkumulation. Stk. 2. I vurderingen af nyskabelse i den tekniske sikkerhedsregel eller afvigelsen herfra skal nedenstående faktorer indgå: 1) Nye brugere af den tekniske sikkerhedsregel eller nye brugere, der involveres som følge af afvigelsen, og nye faglige områder, der omfattes. 2) Nye måder brugeren skal agere eller kommunikere på. 3) Nye måder brugeren skal interagere med tekniske systemer. Stk. 3. I vurderingen af kompleksitet og omfang skal nedenstående faktorer indgå: 1) Antallet af og hvor komplicerede de fysiske grænseflader er mod andre tekniske systemer. 2) Antallet af og hvor komplicerede grænsefladerne er mod andre fagområder. 3) Antallet af og hvor komplicerede aktiviteterne er, som den tekniske sikkerhedsregel eller afvigelsen pålægger de brugere, der skal benytte reglen eller er involverede i afvigelsen. 4) Antallet af eksterne parter, der er omfattet og skal høres. 5) Antallet af personalefaglige grupper, der skal benytte den tekniske sikkerhedsregel eller er involverede i afvigelsen. 6) Antallet af regler, som den tekniske sikkerhedsregel eller afvigelsen refererer til eller påvirker. Stk. 4. Ved vurdering af akkumulation, jf. stk. 1, nr. 4, skal infrastrukturforvalteren identificere alle tidligere ændringer i den tekniske sikkerhedsregel, siden reglen er oprettet eller sidste gang var genstand for regelassessorsvurdering eller godkendelse af Trafikstyrelsen. Ved afvigelse fra en teknisk sikkerhedsregel skal infrastrukturforvalteren identificere alle tidligere relevante afvigelser fra den tekniske sikkerhedsregel. Dog kun siden en afvigelse fra den tekniske sikkerhedsregel sidste gang var genstand for en regelassessorvurdering eller godkendelse af Trafikstyrelsen. Stk. 5. Infrastrukturforvalteren skal medtage de tidligere ændringer eller afvigelser, jf. stk. 4, sammen med det, der skal vurderes i henhold til de tre kriterier, jf. stk. 1, nr. 1-3. Stk. 6. Hvis en teknisk sikkerhedsregel, en ændring eller en afvigelse fra en teknisk sikkerhedsregel af infrastrukturforvalteren vurderes at være væsentlig efter stk. 1, nr. 1-3, skal der anvendes regelassessor. Stk. 7. Trafikstyrelsen kan uanset stk. 6, på baggrund af en vurdering af kriterierne i stk. 1-3, stille krav om, at der anvendes regelassessor, som skal godkendes, jf. § 13."
+    },
+    {
+      "provision_ref": "4:8",
+      "chapter": "4",
+      "section": "8",
+      "content": "§ 8. Såfremt der skal anvendes regelassessor, skal denne udarbejde en rapport med sin vurdering, jf. § 10."
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "content": "§ 9. I den i § 8 omhandlede rapport skal regelassessor udarbejde en konklusion for vurdering af hvert enkelt kriterie, der er indeholdt i regelassessors opgave, jf. § 10. Stk. 2. Regelassessor skal ud fra en samlet vurdering af de respektive konklusioner, jf. stk. 1, indstille til infrastrukturforvalteren, hvorvidt de tekniske sikkerhedsregler eller afvigelser fra tekniske sikkerhedsregler, der er genstand for vurderingen, ud fra et jernbanesikkerhedsmæssigt synspunkt, kan godkendes."
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "§ 10. Regelassessor skal i sin rapport, jf. § 8, vurdere, om det er dokumenteret, at infrastrukturforvalterens nye eller ændrede tekniske sikkerhedsregler eller afvigelser fra tekniske sikkerhedsregler lever op til følgende kriterier i det omfang, det er relevant: 1) Infrastrukturforvalteren skal have fulgt processen i sikkerhedsledelsessystemet for udarbejdelse eller ændring af tekniske sikkerhedsregler eller dispensationer herfra, jf. § 6, stk. 1. 2) Infrastrukturforvalteren skal have dokumenteret de nye eller ændrede tekniske sikkerhedsregler eller dispensationer herfra, jf. § 6, stk. 2 og 3. 3) Infrastrukturforvalteren skal have anvendt tilstrækkelige kompetencer i overensstemmelse med sikkerhedsledelsessystemets proces for kompetencekrav. 4) I de tilfælde, hvor der er tale om et samlet sæt af tekniske sikkerhedsregler, skal de tekniske sikkerhedsregler overholde bestemmelserne i kapitel 7 og 8 i denne bekendtgørelse. 5) I de tilfælde, hvor der ikke er tale om et samlet sæt af tekniske sikkerhedsregler, skal de tekniske sikkerhedsregler, der er genstand for vurderingen, overholde de relevante bestemmelser i kapitel 7 og 8 i denne bekendtgørelse. 6) Mulige farer, jf. § 1, knyttet til den teknik, der anvendes, skal være identificerede og håndterede på tilstrækkelig vis. 7) Det samlede sikkerhedsniveau for jernbanesystemet skal som minimum opretholdes. 8) Farer må ikke have en uacceptabel risiko. 9) Grænseflader mod andre tekniske eller trafikale sikkerhedsregler skal være identificerede og håndterede forsvarligt, herunder a) afledte konsekvensrettelser, som de primære tekniske sikkerhedsregler, der er genstand for vurderingen, har for andre tekniske eller trafikale sikkerhedsregler, skal være identificerede. De afledte konsekvensrettelser i andre tekniske sikkerhedsregler skal være forelagt for regelassessor til vurdering i henhold til bestemmelserne i kapitel 4 eller b) afledte afvigelser fra andre tekniske eller trafikale sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler, der er genstand for vurderingen, har afstedkommet, skal være identificerede. De afledte afvigelser fra andre tekniske sikkerhedsregler skal være forelagt for regelassessor til vurdering i henhold til bestemmelserne i kapitel 4. 10) De nye eller ændrede tekniske sikkerhedsregler eller dispensationer herfra skal være entydigt og konsekvent formuleret, for så vidt angår brugen af normativ tekst, informativ tekst, beskrivende tekst og anbefalinger. 11) Ved nye eller ændrede tekniske sikkerhedsregler skal der være sondret korrekt mellem sikkerhedsregler og øvrige regler. 12) De tekniske sikkerhedsregler eller dispensationerne herfra skal være praktisk anvendelige for brugerne. Stk. 2. Regelassessor skal vurdere, om der er sket behørig inddragelse af relevante interessenter ved udarbejdelsen af udkast til de nye eller ændrede tekniske sikkerhedsregler eller dispensationer fra tekniske sikkerhedsregler."
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "content": "§ 11. Regelassessor skal opfylde de krav, der er oplistet i kapitel 2 i bekendtgørelse nr. 543 af 24. maj 2017 om godkendelse af assessorer og sagkyndige i forbindelse med godkendelse af jernbaneinfrastruktur og køretøjer. Stk. 2. Regelassessor skal have et indgående kendskab til relevante sikkerhedsregler og sikkerhedsregelsystemer samt kendskab til sikkerhedsledelsessystemer på jernbaneområdet."
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Såfremt der ikke skal anvendes regelassessor, jf. § 7, er det infrastrukturforvalteren selv, der skal vurdere og dokumentere, at infrastrukturforvalterens nye eller ændrede tekniske sikkerhedsregler eller dispensationer herfra lever op til kriterierne i § 10."
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "content": "§ 13. Trafikstyrelsen godkender regelassessor. Infrastrukturforvalteren skal fremsende ansøgning om godkendelse af regelassessor til Trafikstyrelsen. Stk. 2. Ansøgningen skal i relevant omfang vedlægges: 1) Udkast til de nye og ændrede tekniske sikkerhedsregler, herunder afledte konsekvensrettelser som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler. 2) De tekniske sikkerhedsregler, der afviges fra, herunder de tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet afledte afvigelser fra. 3) Dokumentation for, at regelassessor har de nødvendige kvalifikationer, jf. § 11, stk. 2. 4) Dokumentation for, at regelassessor har de nødvendige kvalifikationer, jf. §§ 4-5 i bekendtgørelse nr. 543 af 24. maj 2017 om godkendelse af assessorer og sagkyndige i forbindelse med godkendelse af jernbaneinfrastruktur og køretøjer. 5) Erklæring fra regelassessor om, at regelassessor opfylder de krav, som fremgår af §§ 2-3 og §§ 6-8 i bekendtgørelse nr. 543 af 24. maj 2017 om godkendelse af assessorer og sagkyndige i forbindelse med godkendelse af jernbaneinfrastruktur og køretøjer."
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "content": "§ 14. Trafikstyrelsen godkender kommissorium for regelassessors vurdering. Infrastrukturforvalteren skal fremsende ansøgning om godkendelse af kommissorium til Trafikstyrelsen. Stk. 2. Ansøgningen skal i relevant omfang vedlægges: 1) Udkast til de nye og ændrede tekniske sikkerhedsregler, herunder afledte konsekvensrettelser, som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler. 2) De tekniske sikkerhedsregler, der afviges fra, herunder de tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet afledte afvigelser fra. 3) Forslag til kommissorium for regelassessors vurdering. Stk. 3. Kommissoriet, jf. stk. 2, skal i relevant omfang 1) entydigt identificere de nye og ændrede tekniske sikkerhedsregler, der skal vurderes af regelassessor, herunder de afledte konsekvensrettelser, som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler, 2) entydigt identificere afvigelserne fra de tekniske sikkerhedsregler, der skal vurderes af regelassessor, herunder de afledte afvigelser fra andre tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet, 3) fastsætte rammen for indholdet i regelassessors vurdering, jf. §§ 8-10, og 4) hvis relevant afgrænse, hvilke dokumenter der ikke indgår i det, som regelassessor skal vurdere, men som regelassessor skal tage udgangspunkt i."
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "content": "§ 15. Indtil en infrastrukturforvalter er blevet godkendt til selvforvaltning efter § 16, stk. 3, godkender Trafikstyrelsen infrastrukturforvalterens nye og ændrede tekniske sikkerhedsregler og afvigelser fra tekniske sikkerhedsregler. Stk. 2. Hvis de tekniske sikkerhedsregler eller afvigelserne, jf. stk. 1, ikke er omfattet af anden godkendelse af Trafikstyrelsen, skal infrastrukturforvalteren indsende ansøgning til Trafikstyrelsen om godkendelse. Stk. 3. Ansøgningen, jf. stk. 2, skal i relevant omfang vedlægges: 1) De nye og ændrede tekniske sikkerhedsregler, herunder afledte konsekvensrettelser, som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler, i deres endelige format og indplacering i infrastrukturforvalterens tekniske sikkerhedsregler. 2) Entydig identifikation af de nye og ændrede tekniske sikkerhedsregler, herunder identifikation af afledte konsekvensrettelser som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler, ændringerne i reglerne, begrundelse, sporbarhed til eventuelle sikkerhedsrelaterede anvendelsesbetingelser, risikovurdering og risikoevaluering. 3) De tekniske sikkerhedsregler, der afviges fra, herunder de tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet afledte afvigelser fra. 4) Entydig identifikation af de tekniske sikkerhedsregler, der afviges fra, herunder identifikation af afledte afvigelser fra andre tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet, hvad der derved tillades, begrænsninger i det, der tillades, begrundelse for hvorfor det er nødvendigt at afvige, risikovurdering og risikoevaluering, hvilke betingelser, modforanstaltninger eller kontrolforanstaltninger der skal opfyldes eller være til stede i dispensationens gyldighedsperiode, samt angivelse af dispensationens gyldighed og omfang. 5) Det af Trafikstyrelsen godkendte kommissorium for regelassessors vurdering, jf. § 14, såfremt der er knyttet regelassessor til vurdering af de nye og ændrede tekniske sikkerhedsregler eller afvigelser herfra. 6) Regelassessors rapport, jf. §§ 8-10, såfremt der er knyttet regelassessor til vurdering af de nye og ændrede tekniske sikkerhedsregler eller afvigelser herfra. 7) Infrastrukturforvalterens begrundede dokumentation for uenighed med regelassessor i dennes vurdering, jf. § 6, stk. 6, såfremt er foreligger en sådan uenighed."
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "content": "§ 16. Infrastrukturforvaltere kan ansøge Trafikstyrelsen om at overgå til selvforvaltning af tekniske sikkerhedsregler, herunder afvigelser herfra. Ansøgningen skal indeholde dokumentation for overholdelse af de relevante krav i § 6, stk. 1, og kap. 6-9 i denne bekendtgørelse. Til ansøgningen skal følgende dokumentation vedlægges: 1) Krydshenvisninger mellem infrastrukturforvalterens sikkerhedsledelsessystem og bekendtgørelsens krav. 2) Beskrivelse af ansvar, beføjelser, opgaver og kompetencer for medarbejdere med ansvar for eller bidrag til processer, jf. § 6, stk. 1, eller dele heraf. 3) Oversigt over infrastrukturforvalterens gældende tekniske sikkerhedsregler. Stk. 2. Trafikstyrelsen kan til enhver tid anmode om yderligere dokumentation i forbindelse med behandlingen af ansøgningen. Stk. 3. Trafikstyrelsen godkender infrastrukturforvalterens overgang til selvforvaltning af tekniske sikkerhedsregler. Ved behandlingen af ansøgningen vurderer Trafikstyrelsen, om infrastrukturforvalterens sikkerhedsledelsessystem sikrer overholdelse af de relevante krav i bekendtgørelsen."
+    },
+    {
+      "provision_ref": "7:17",
+      "chapter": "7",
+      "section": "17",
+      "content": "§ 17. I de tekniske sikkerhedsregler for spor skal infrastrukturforvalteren fastsætte nominelle værdier, indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for alle sikkerhedsmæssige grundparametre for alle typer af spor og sporelementer, som infrastrukturforvalteren forvalter. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte indikatorer for slid ved spor og sporelementer og fastsætte indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for indikatorerne. Stk. 3. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, som infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1 og 2, overskrides."
+    },
+    {
+      "provision_ref": "7:18",
+      "chapter": "7",
+      "section": "18",
+      "content": "§ 18. I de tekniske sikkerhedsregler for spor skal infrastrukturforvalteren fastsætte krav til processer, som kan påvirke sporets sikkerhedsmæssige grundparametre, hvis resultatet af processerne udelukkende kan kontrolleres ved destruktiv testning."
+    },
+    {
+      "provision_ref": "7:19",
+      "chapter": "7",
+      "section": "19",
+      "content": "§ 19. I de tekniske sikkerhedsregler for konstruktioner skal infrastrukturforvalteren fastsætte nominelle værdier, indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for alle sikkerhedsmæssige grundparametre for alle typer af konstruktioner, konstruktionselementer og sporbærende elementer, som infrastrukturforvalteren forvalter, og som kan have indflydelse på jernbanesikkerheden. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte indikatorer for nedbrydning og skader og fastsætte indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for indikatorerne. Stk. 3. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, som infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1 og 2, overskrides."
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "content": "§ 20. I de tekniske sikkerhedsregler for perroner skal infrastrukturforvalteren fastsætte nominelle værdier, indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for alle sikkerhedsmæssige grundparametre for alle typer af perroner, som infrastrukturforvalteren forvalter. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte indikatorer for slid ved perroner samt indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for indikatorerne. Stk. 3. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1 og 2, overskrides."
+    },
+    {
+      "provision_ref": "7:21",
+      "chapter": "7",
+      "section": "21",
+      "content": "§ 21. I de tekniske sikkerhedsregler for kørestrøm skal infrastrukturforvalteren fastsætte, hvilke dele af kørestrømssystemerne, der har funktioner med betydning for jernbanesikkerheden. Stk. 2. Såfremt funktioner med betydning for jernbanesikkerheden, jf. stk. 1, er afhængige af, at inspektion, vedligeholdelse, fejlretning og betjening udføres korrekt, skal inspektionsmateriale, vedligeholdelsesmateriale, fejlretningsmateriale og instruktionsmateriale for systemerne fastlægges i de tekniske sikkerhedsregler. Stk. 3. Inspektionsmateriale, vedligeholdelsesmateriale og fejlretningsmateriale, jf. stk. 2, skal fastsætte 1) krav til overvågnings- og vedligeholdelsesaktiviteter, herunder overvågnings- og vedligeholdelsesintervaller, 2) krav til dokumentation af inspektioner og vedligeholdelsesaktiviteter, således at funktioner med betydning for jernbanesikkerheden kan opretholdes i systemernes levetid og 3) hvilke indgreb der skal gennemføres, hvis funktioner med betydning for jernbanesikkerheden fejler. Stk. 4. Instruktionsmaterialet, jf. stk. 2, skal indeholde de nødvendige instruktioner i forbindelse med udførelse af arbejde i eller i nærheden af kørestrømsystemet."
+    },
+    {
+      "provision_ref": "7:22",
+      "chapter": "7",
+      "section": "22",
+      "content": "§ 22. I de tekniske sikkerhedsregler for kørestrøm skal infrastrukturforvalteren identificere mulige induktive, kapacitive og konduktive koblinger fra køresstrømsystemet, som kan medføre, at elektrisk ledende genstande bliver berøringsfarlige. Stk. 2. I de tekniske sikkerhedsregler skal infrastrukturforvalteren opstille de nødvendige krav til disse genstande, jf. stk. 1, således at berøringsfarer kan undgås."
+    },
+    {
+      "provision_ref": "7:23",
+      "chapter": "7",
+      "section": "23",
+      "content": "§ 23. Når funktioner med betydning for jernbanesikkerheden er afhængige af, at elektrisk forsyning er til stede, skal oppetiden af den elektriske forsyning fastsættes i infrastrukturforvalterens tekniske sikkerhedsregler. Stk. 2. Når funktioner med betydning for jernbanesikkerheden realiseres med elektroniske eller computerbaserede systemer, skal infrastrukturforvalteren fastsætte krav til oppetiden af funktioner med betydning for jernbanesikkerheden i infrastrukturforvalterens tekniske sikkerhedsregler."
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "content": "§ 24. I de tekniske sikkerhedsregler for signal- og sikringsanlæg skal infrastrukturforvalteren fastsætte funktioner med betydning for jernbanesikkerheden for alle typer af signal- og sikringsanlæg, som infrastrukturforvalteren forvalter. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren 1) fastsætte de kriterier, infrastrukturforvalteren skal bruge til at afgøre, hvilke steder funktioner med betydning for jernbanesikkerheden skal implementeres, 2) fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre i tilfælde af helt eller delvist bortfald af funktioner med betydning for jernbanesikkerheden og 3) fastsætte krav til, hvordan betjenings-, vedligeholdelses- og fejlretningsaktiviteter med betydning for jernbanesikkerheden skal gennemføres. Stk. 3. Indgreb fastsat efter stk. 2 skal sikre, at trafikken afbrydes eller, at sikkerhedsniveauet fortsat er acceptabelt, såfremt trafikken stadig afvikles, eventuelt underlagt bestemte begrænsninger."
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "content": "§ 25. I de tekniske sikkerhedsregler for EMC-forhold skal infrastrukturforvalteren fastsætte krav til, hvilke EMC-påvirkninger de elektriske, elektroniske, computerbaserede eller elektromekaniske anlæg, der leverer funktioner med betydning for jernbanesikkerheden, skal kunne modstå. Stk. 2. Infrastrukturforvalteren skal fastsætte de nødvendige krav til overvågning af, at de faktiske EMC-påvirkninger er acceptable i forhold til de fastsatte krav i stk. 1, og fastsætte de indgreb, infrastrukturforvalteren skal foretage, hvis uacceptable påvirkninger observeres."
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "content": "§ 26. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte, hvilke tekniske systemer infrastrukturforvalteren benytter til at aktivere eller overvåge objekter med relevans for jernbanesikkerheden. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren 1) fastsætte de funktioner med betydning for jernbanesikkerheden, som disse systemer leverer og 2) fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre i tilfælde af helt eller delvist bortfald af funktioner med betydning for jernbanesikkerheden."
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "content": "§ 27. I de tekniske sikkerhedsregler for afvanding skal infrastrukturforvalteren fastsætte nominelle værdier, indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for alle sikkerhedsmæssige grundparametre for afvanding. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte indikatorer for slid af afvandingssystemet samt indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for indikatorerne. Stk. 3. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1 og 2, overskrides."
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "content": "§ 28. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte regler for oversigtsforhold i usikrede jernbaneoverkørsler. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren 1) fastsætte metoder, som sikrer, at reglerne bliver overvåget og overholdt og 2) fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre, hvis reglerne ikke overholdes."
+    },
+    {
+      "provision_ref": "8:29",
+      "chapter": "8",
+      "section": "29",
+      "content": "§ 29. Infrastrukturforvalterens tekniske sikkerhedsregler skal formuleres på en måde, så reglerne er entydige og praktisk anvendelige."
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "content": "§ 30. I de tekniske sikkerhedsregler skal infrastrukturforvalteren definere begreber med betydning for jernbanesikkerheden, som benyttes i infrastrukturforvalterens sikkerhedsrelaterede kommunikation og i infrastrukturforvalterens tekniske sikkerhedsregler. Stk. 2. Definerede begreber, jf. stk. 1, skal indenfor sammenhængende områder være ens på tværs af sikkerhedsregler, kommunikation og øvrige dele af infrastrukturforvalterens sikkerhedsledelsessystem."
+    },
+    {
+      "provision_ref": "8:31",
+      "chapter": "8",
+      "section": "31",
+      "content": "§ 31. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for nedbør, vandstandsstigning, vind og temperatur i forbindelse med den infrastruktur, som infrastrukturforvalteren forvalter. Stk. 2. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, som infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1, overskrides."
+    },
+    {
+      "provision_ref": "8:32",
+      "chapter": "8",
+      "section": "32",
+      "content": "§ 32. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte minimumskrav til tekniske evakueringsforanstaltninger, som skal etableres på steder i infrastrukturen, hvor evakuering er besværliggjort af jernbanesystemets fysiske udformning eller af omgivelsernes beskaffenhed. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre, hvis foranstaltningerne ikke er etableret eller i en periode ikke er tilgængelige."
+    },
+    {
+      "provision_ref": "8:33",
+      "chapter": "8",
+      "section": "33",
+      "content": "§ 33. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte minimumskrav til afskærmning og skiltning til sikring mod uautoriseret adgang til infrastrukturen. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren 1) fokusere på steder i infrastrukturen, hvor hyppigheden af uautoriseret færdsel er stor på grund af jernbanesystemets fysiske udformning eller barrierevirkning i forhold til det omgivende samfund og 2) fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre, hvis foranstaltningerne ikke er etableret eller i en periode ikke er tilgængelige."
+    },
+    {
+      "provision_ref": "8:34",
+      "chapter": "8",
+      "section": "34",
+      "content": "§ 34. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte metoder, der sikrer, at der indsamles observationer om tredjeparts aktiviteter og jernbanesikkerhedsrelevante forhold ved omgivelserne, herunder konstruktioner og bevoksning, som forvaltes af infrastrukturforvalteren eller tredjeparten. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre i tilfælde af, at infrastrukturforvalteren konstaterer forhold, som kan påvirke jernbanesystemets sikkerhed."
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "content": "§ 35. Hvis funktioner med betydning for jernbanesikkerheden i et teknisk system er afhængige af et andet teknisk system, skal infrastrukturforvalteren i de tekniske sikkerhedsregler fastsætte de krav, som de enkelte systemer skal opfylde for, at funktioner med betydning for jernbanesikkerheden i samtlige systemer kan opretholdes. Stk. 2. Når stk. 1 finder anvendelse, skal infrastrukturforvalteren i de tekniske sikkerhedsregler ligeledes fastsætte de sikkerhedsmæssige anvendelsesbetingelser, som skal opfyldes af køretøjer, for at det kan trafikere infrastrukturen sikkert. Kravene skal samles i én teknisk sikkerhedsregel, som indeholder alle anvendelsesbetingelser, som og køretøjer skal overholde. Stk. 3. Infrastrukturforvalteren skal fastsætte, hvilke krav, jf. stk. 1, der skal overvåges, hvilken overvågningssystematik der skal anvendes, samt hvilke indgreb der skal gennemføres, hvis kravene ikke er opfyldt."
+    },
+    {
+      "provision_ref": "9:36",
+      "chapter": "9",
+      "section": "36",
+      "content": "§ 36. En infrastrukturforvalter, som er godkendt til selvforvaltning, jf. § 16, stk. 3, kan dispensere fra de tekniske sikkerhedsregler, når det skønnes foreneligt med de hensyn, der ligger til grund for de pågældende tekniske sikkerhedsregler, herunder gældende EU-lovgivning på området, og når en risikovurdering har vist, at det samlede sikkerhedsniveau for jernbanesystemet som minimum opretholdes."
+    },
+    {
+      "provision_ref": "10:37",
+      "chapter": "10",
+      "section": "37",
+      "content": "§ 37. Trafikstyrelsen fører tilsyn med infrastrukturforvalterens overholdelse af reglerne i denne bekendtgørelse."
+    },
+    {
+      "provision_ref": "11:38",
+      "chapter": "11",
+      "section": "38",
+      "content": "§ 38. Trafikstyrelsen kan fastsætte vilkår i en godkendelse. Stk. 2. Trafikstyrelsen kan tilbagekalde godkendelser ved manglende overholdelse af vilkår."
+    },
+    {
+      "provision_ref": "12:39",
+      "chapter": "12",
+      "section": "39",
+      "content": "§ 39. Trafikstyrelsen kan i særlige tilfælde dispensere fra bestemmelserne i denne bekendtgørelse, når det i øvrigt skønnes foreneligt med de hensyn, der ligger til grund for de pågældende bestemmelser, herunder gældende EU-lovgivning."
+    },
+    {
+      "provision_ref": "13:40",
+      "chapter": "13",
+      "section": "40",
+      "content": "§ 40. Afgørelser truffet af Trafikstyrelsen efter denne bekendtgørelse kan ikke indbringes for transportministeren eller anden administrativ myndighed, jf. bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse af visse af Trafikstyrelsens forskrifter."
+    },
+    {
+      "provision_ref": "13:41",
+      "chapter": "13",
+      "section": "41",
+      "content": "§ 41. En infrastrukturforvalter, der har ansøgt Trafikstyrelsen om godkendelse af tekniske sikkerhedsregler, afvigelse fra tekniske sikkerhedsregler eller godkendelse til selvforvaltning og får afslag, kan anmode Trafikstyrelsen om en fornyet vurdering inden for en måned. Stk. 2. Trafikstyrelsen behandler anmodningen om fornyet vurdering inden for to måneder efter modtagelsen af anmodningen."
+    },
+    {
+      "provision_ref": "14:42",
+      "chapter": "14",
+      "section": "42",
+      "content": "§ 42. Overtrædelse af § 15, stk. 1, straffes med bøde, medmindre højere straf er forskyldt efter §§ 116-117 i jernbaneloven. Stk. 2. Den, der overgår til selvforvaltning uden Trafikstyrelsens godkendelse som anført i § 16, stk. 3, straffes med bøde, medmindre højere straf er forskyldt efter §§ 116-117 i jernbaneloven."
+    },
+    {
+      "provision_ref": "15:43",
+      "chapter": "15",
+      "section": "43",
+      "content": "§ 43. Bekendtgørelsen træder i kraft den 1. juli 2022, jf. dog stk. 3. Stk. 2. Bekendtgørelsen finder, uanset stk. 1, ikke anvendelse for tekniske sikkerhedsregler, der er godkendte eller ansøgte om inden bekendtgørelsens ikrafttræden, så længe der ikke skal ændres i disse sikkerhedsregler eller dispenseres herfra. Stk. 3. Bekendtgørelsen ophæves den 15. juni 2024."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Bekendtgørelsen indeholder funktionskrav til infrastrukturforvalteres tekniske sikkerhedsregler, hvor disse er nødvendige for at sikre, at sikkerhedsniveauet opretholdes eller forbedres på en dokumenteret og systembåret måde, så mulige farer knyttet til den teknik, der anvendes, kontrolleres. Stk. 2. Bekendtgørelsen indeholder de krav, infrastrukturforvaltere skal opfylde for at kunne overgå til selvforvaltning af tekniske sikkerhedsregler på jernbaneinfrastrukturområdet, og fastsætter krav og procedurer for denne selvforvaltning.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Bekendtgørelsen gælder for infrastrukturforvaltere.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Bekendtgørelsen gælder ikke tekniske sikkerhedsregler i forbindelse med: 1) Veteranbaner. 2) Privatejet jernbaneinfrastruktur, herunder sidespor, der anvendes af ejeren eller af en operatør i forbindelse med deres respektive godstransportaktiviteter eller personbefordring i ikke-kommercielt øjemed.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. I denne bekendtgørelse forstås ved: 1) Funktionskrav til tekniske sikkerhedsregler: Overordnede krav til tekniske sikkerhedsregler, som er en del af infrastrukturforvalterens sikkerhedsledelsessystem, og som er nødvendige at opfylde for at opnå acceptabel jernbanesikkerhed. 2) Tekniske sikkerhedsregler: Indeholder krav, som er fastsat for at imødegå jernbanefarer, der skyldes, at mennesker begår fejl, når de kravsætter, betjener, benytter eller vedligeholder et teknisk system. 3) Trafikale sikkerhedsregler: Indeholder krav, som er fastsat for at imødegå jernbanefarer, der skyldes, at mennesker begår fejl i forbindelse med færdsel på infrastrukturen og trafikafviklingen. 4) Indgrebsgrænser: Værdier fastsat i infrastrukturforvalterens tekniske sikkerhedsregler. Indgrebsgrænsen overvåges af infrastrukturforvalteren for at afgøre, hvornår infrastrukturforvalteren skal gennemføre indgreb med henblik på, at de fastsatte grænseværdier for akutindgreb ikke overskrides. 5) Sikkerhedsmæssige grundparametre: En gruppe af parametre, som fastlægger samtlige sikkerhedsegenskaber ved et system eller et element på jernbaneområdet. 6) Grænseværdier for akutindgreb: Værdier for sikkerhedsparametre eller slidindikatorer fastsat i infrastrukturforvalterens tekniske sikkerhedsregler, hvor overskridelse af disse værdier vil indebære en uacceptabel risiko og derfor straks kræver en handling, der bringer systemet i en tilstand, hvor risikoen er acceptabel. 7) Funktion med betydning for jernbanesikkerheden: En funktion realiseret ved hjælp af et teknisk system på jernbaneområdet, og som medvirker til at begrænse risikoen for jernbaneulykker. 8) Sikkerhedsrelaterede anvendelsesbetingelser: Betingelser, som minimerer farer forbundet med tekniske systemer ved at pålægge brugeren af systemerne begrænsninger, eller stiller krav om, at brugeren skal gennemføre særlige aktiviteter for at begrænse risikoen for, at farer medfører ulykker. 9) Infrastrukturforvalter: Infrastrukturforvalter som defineret i jernbanelovens § 3, stk. 1, nr. 5. 10) Ændring af tekniske sikkerhedsregler: Ved ændring forstås, at infrastrukturforvalteren ændrer en eksisterende teknisk sikkerhedsregel eller bringer en eksisterende teknisk sikkerhedsregel til ophør. 11) Regelassessor: Den uafhængige og kompetente, eksterne eller interne person, organisation eller enhed, der foretager efterforskninger med henblik på at nå frem til, hvorvidt en teknisk sikkerhedsregel, en ændring hertil eller en dispensation fra de tekniske sikkerhedsregler sikrer, at infrastrukturforvalteren opretholder eller forbedrer sikkerhedsniveauet på en dokumenteret og systembåret måde, så alle farer, der med rimelighed kan forudses, knyttet til den teknik der anvendes, kontrolleres. 12) Selvforvaltning: Ved selvforvaltning af tekniske sikkerhedsregler forstås, at infrastrukturforvalteren varetager hele regelprocessen, samt at der ikke er myndighedsgodkendelse af reglerne. 13) Bruger: Den fagperson, der forestår en konkret opgave. 14) Overvågningssystematik: Overvågningsaktiviteter, der gennemføres i henhold til en nedskrevet proces. 15) Akkumulation af tekniske sikkerhedsregler: Ved akkumulation forstås, at flere mindre ændringer af tekniske sikkerhedsregler, som enkeltvis ikke er væsentlige, summeres eller vekselvirker, så de samlet udgør en væsentlig ændring af tekniske sikkerhedsregler. 16) Afvigelse: Afvigelse fra en teknisk sikkerhedsregel kan både være planlagt og uplanlagt og forstås, som at den tekniske sikkerhedsregel ikke er overholdt . 17) Dispensation fra en teknisk sikkerhedsregel: Ved dispensation fra en teknisk sikkerhedsregel forstås godkendelse af en afvigelse fra den tekniske sikkerhedsregel.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Infrastrukturforvalteren skal sikre, at der er udarbejdet relevante tekniske sikkerhedsregler efter procedurer fastlagt i infrastrukturforvalterens sikkerhedsledelsessystem. De tekniske sikkerhedsregler skal opfylde de funktionskrav, der er opstillet for de relevante områder i kapital 7 og 8. Infrastrukturforvalteren skal til enhver tid leve op til disse tekniske sikkerhedsregler, medmindre der er opnået dispensation i medfør af § 15 eller § 36. Stk. 2. De fastlagte procedurer i infrastrukturforvalterens sikkerhedsledelsessystem, jf. stk. 1, skal opfylde § 6.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. I infrastrukturforvalterens sikkerhedsledelsessystem skal der fastlægges en proces for udarbejdelse, godkendelse, implementering og overvågning af nye og ændrede tekniske sikkerhedsregler samt dispensation fra tekniske sikkerhedsregler. Processen skal bl.a. indeholde risikovurdering og kvalitetssikring. Stk. 2. Nye og ændrede tekniske sikkerhedsregler skal dokumenteres. Dokumentationen skal som minimum indeholde: 1) Entydig identifikation af de pågældende regler. 2) Anvendelsesområde. 3) Gyldighed. 4) Begrundelse for nødvendigheden af den nye eller ændrede tekniske sikkerhedsregel. 5) Sporbarhed til eventuelle sikkerhedsrelaterede anvendelsesbetingelser. 6) Risikovurdering og risikoevaluering. 7) Afledte konsekvenser, der kan påvirke jernbanesikkerheden, herunder konsekvenser for andre tekniske eller trafikale sikkerhedsregler. 8) Behov for ændringer i relevante brugeres kompetencer og/eller i sikkerhedsledelsessystemets dokumenter. 9) Ved ændrede tekniske sikkerhedsregler skal forskellen fra eksisterende regler entydigt identificeres. Stk. 3. Dispensation fra tekniske sikkerhedsregler skal dokumenteres. Dokumentationen skal som minimum indeholde: 1) Entydig identifikation af de tekniske sikkerhedsregler, der dispenseres fra. 2) Hvad der derved tillades, herunder gyldighedsperiode og omfang. 3) Begrænsninger i det, der tillades. 4) Begrundelse for hvorfor det er nødvendigt at afvige fra den/de tekniske sikkerhedsregler. 5) Risikovurdering og risikoevaluering. 6) Hvilke betingelser, modforanstaltninger eller kontrolforanstaltninger der skal opfyldes eller være til stede i dispensationens gyldighedsperiode. 7) Afledte afvigelser fra andre tekniske eller trafikale sikkerhedsregler. 8) Behov for supplerende kompetencer, som relevante brugere skal have. 9) Supplerende instruktioner til relevante brugere og/eller supplerende ændringer i sikkerhedsledelsessystemets dokumenter. Stk. 4. Ved nye og ændrede tekniske sikkerhedsregler, samt afvigelse, herfra skal infrastrukturforvalteren vurdere behovet for en regelassessor på baggrund af kriterierne i § 7, medmindre reglen eller afvigelsen er omfattet af anden godkendelse af Trafikstyrelsen. Stk. 5. Regelassessor forelægger infrastrukturforvalteren sin vurdering i henhold til kravene i kapitel 4. Infrastrukturforvalteren afgør, om og hvordan konklusionerne i vurderingen skal tages i betragtning ved accept af sikkerhed for de ændrede tekniske sikkerhedsregler eller afvigelsen fra tekniske sikkerhedsregler. Stk. 6. Er infrastrukturforvalteren uenig i en del af vurderingen, jf. stk. 5, skal infrastrukturforvalteren begrunde og dokumentere dette.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Ved nye tekniske sikkerhedsregler, ændringer af tekniske sikkerhedsregler eller dispensationer fra tekniske sikkerhedsregler skal infrastrukturforvalteren foretage en vurdering af væsentlighed ud fra følgende kriterier: 1) Værste konsekvens, hvis en teknisk sikkerhedsregel ikke opfylder sit formål, eller der ikke iværksættes risikoreducerende tiltag ved en afvigelse. 2) Nyskabelse i den tekniske sikkerhedsregel eller afvigelse. 3) Den tekniske sikkerhedsregels, ændringens eller afvigelsens kompleksitet og omfang. 4) Akkumulation. Stk. 2. I vurderingen af nyskabelse i den tekniske sikkerhedsregel eller afvigelsen herfra skal nedenstående faktorer indgå: 1) Nye brugere af den tekniske sikkerhedsregel eller nye brugere, der involveres som følge af afvigelsen, og nye faglige områder, der omfattes. 2) Nye måder brugeren skal agere eller kommunikere på. 3) Nye måder brugeren skal interagere med tekniske systemer. Stk. 3. I vurderingen af kompleksitet og omfang skal nedenstående faktorer indgå: 1) Antallet af og hvor komplicerede de fysiske grænseflader er mod andre tekniske systemer. 2) Antallet af og hvor komplicerede grænsefladerne er mod andre fagområder. 3) Antallet af og hvor komplicerede aktiviteterne er, som den tekniske sikkerhedsregel eller afvigelsen pålægger de brugere, der skal benytte reglen eller er involverede i afvigelsen. 4) Antallet af eksterne parter, der er omfattet og skal høres. 5) Antallet af personalefaglige grupper, der skal benytte den tekniske sikkerhedsregel eller er involverede i afvigelsen. 6) Antallet af regler, som den tekniske sikkerhedsregel eller afvigelsen refererer til eller påvirker. Stk. 4. Ved vurdering af akkumulation, jf. stk. 1, nr. 4, skal infrastrukturforvalteren identificere alle tidligere ændringer i den tekniske sikkerhedsregel, siden reglen er oprettet eller sidste gang var genstand for regelassessorsvurdering eller godkendelse af Trafikstyrelsen. Ved afvigelse fra en teknisk sikkerhedsregel skal infrastrukturforvalteren identificere alle tidligere relevante afvigelser fra den tekniske sikkerhedsregel. Dog kun siden en afvigelse fra den tekniske sikkerhedsregel sidste gang var genstand for en regelassessorvurdering eller godkendelse af Trafikstyrelsen. Stk. 5. Infrastrukturforvalteren skal medtage de tidligere ændringer eller afvigelser, jf. stk. 4, sammen med det, der skal vurderes i henhold til de tre kriterier, jf. stk. 1, nr. 1-3. Stk. 6. Hvis en teknisk sikkerhedsregel, en ændring eller en afvigelse fra en teknisk sikkerhedsregel af infrastrukturforvalteren vurderes at være væsentlig efter stk. 1, nr. 1-3, skal der anvendes regelassessor. Stk. 7. Trafikstyrelsen kan uanset stk. 6, på baggrund af en vurdering af kriterierne i stk. 1-3, stille krav om, at der anvendes regelassessor, som skal godkendes, jf. § 13.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:8",
+      "chapter": "4",
+      "section": "8",
+      "content": "§ 8. Såfremt der skal anvendes regelassessor, skal denne udarbejde en rapport med sin vurdering, jf. § 10.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "content": "§ 9. I den i § 8 omhandlede rapport skal regelassessor udarbejde en konklusion for vurdering af hvert enkelt kriterie, der er indeholdt i regelassessors opgave, jf. § 10. Stk. 2. Regelassessor skal ud fra en samlet vurdering af de respektive konklusioner, jf. stk. 1, indstille til infrastrukturforvalteren, hvorvidt de tekniske sikkerhedsregler eller afvigelser fra tekniske sikkerhedsregler, der er genstand for vurderingen, ud fra et jernbanesikkerhedsmæssigt synspunkt, kan godkendes.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "§ 10. Regelassessor skal i sin rapport, jf. § 8, vurdere, om det er dokumenteret, at infrastrukturforvalterens nye eller ændrede tekniske sikkerhedsregler eller afvigelser fra tekniske sikkerhedsregler lever op til følgende kriterier i det omfang, det er relevant: 1) Infrastrukturforvalteren skal have fulgt processen i sikkerhedsledelsessystemet for udarbejdelse eller ændring af tekniske sikkerhedsregler eller dispensationer herfra, jf. § 6, stk. 1. 2) Infrastrukturforvalteren skal have dokumenteret de nye eller ændrede tekniske sikkerhedsregler eller dispensationer herfra, jf. § 6, stk. 2 og 3. 3) Infrastrukturforvalteren skal have anvendt tilstrækkelige kompetencer i overensstemmelse med sikkerhedsledelsessystemets proces for kompetencekrav. 4) I de tilfælde, hvor der er tale om et samlet sæt af tekniske sikkerhedsregler, skal de tekniske sikkerhedsregler overholde bestemmelserne i kapitel 7 og 8 i denne bekendtgørelse. 5) I de tilfælde, hvor der ikke er tale om et samlet sæt af tekniske sikkerhedsregler, skal de tekniske sikkerhedsregler, der er genstand for vurderingen, overholde de relevante bestemmelser i kapitel 7 og 8 i denne bekendtgørelse. 6) Mulige farer, jf. § 1, knyttet til den teknik, der anvendes, skal være identificerede og håndterede på tilstrækkelig vis. 7) Det samlede sikkerhedsniveau for jernbanesystemet skal som minimum opretholdes. 8) Farer må ikke have en uacceptabel risiko. 9) Grænseflader mod andre tekniske eller trafikale sikkerhedsregler skal være identificerede og håndterede forsvarligt, herunder a) afledte konsekvensrettelser, som de primære tekniske sikkerhedsregler, der er genstand for vurderingen, har for andre tekniske eller trafikale sikkerhedsregler, skal være identificerede. De afledte konsekvensrettelser i andre tekniske sikkerhedsregler skal være forelagt for regelassessor til vurdering i henhold til bestemmelserne i kapitel 4 eller b) afledte afvigelser fra andre tekniske eller trafikale sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler, der er genstand for vurderingen, har afstedkommet, skal være identificerede. De afledte afvigelser fra andre tekniske sikkerhedsregler skal være forelagt for regelassessor til vurdering i henhold til bestemmelserne i kapitel 4. 10) De nye eller ændrede tekniske sikkerhedsregler eller dispensationer herfra skal være entydigt og konsekvent formuleret, for så vidt angår brugen af normativ tekst, informativ tekst, beskrivende tekst og anbefalinger. 11) Ved nye eller ændrede tekniske sikkerhedsregler skal der være sondret korrekt mellem sikkerhedsregler og øvrige regler. 12) De tekniske sikkerhedsregler eller dispensationerne herfra skal være praktisk anvendelige for brugerne. Stk. 2. Regelassessor skal vurdere, om der er sket behørig inddragelse af relevante interessenter ved udarbejdelsen af udkast til de nye eller ændrede tekniske sikkerhedsregler eller dispensationer fra tekniske sikkerhedsregler.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "content": "§ 11. Regelassessor skal opfylde de krav, der er oplistet i kapitel 2 i bekendtgørelse nr. 543 af 24. maj 2017 om godkendelse af assessorer og sagkyndige i forbindelse med godkendelse af jernbaneinfrastruktur og køretøjer. Stk. 2. Regelassessor skal have et indgående kendskab til relevante sikkerhedsregler og sikkerhedsregelsystemer samt kendskab til sikkerhedsledelsessystemer på jernbaneområdet.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Såfremt der ikke skal anvendes regelassessor, jf. § 7, er det infrastrukturforvalteren selv, der skal vurdere og dokumentere, at infrastrukturforvalterens nye eller ændrede tekniske sikkerhedsregler eller dispensationer herfra lever op til kriterierne i § 10.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "content": "§ 13. Trafikstyrelsen godkender regelassessor. Infrastrukturforvalteren skal fremsende ansøgning om godkendelse af regelassessor til Trafikstyrelsen. Stk. 2. Ansøgningen skal i relevant omfang vedlægges: 1) Udkast til de nye og ændrede tekniske sikkerhedsregler, herunder afledte konsekvensrettelser som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler. 2) De tekniske sikkerhedsregler, der afviges fra, herunder de tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet afledte afvigelser fra. 3) Dokumentation for, at regelassessor har de nødvendige kvalifikationer, jf. § 11, stk. 2. 4) Dokumentation for, at regelassessor har de nødvendige kvalifikationer, jf. §§ 4-5 i bekendtgørelse nr. 543 af 24. maj 2017 om godkendelse af assessorer og sagkyndige i forbindelse med godkendelse af jernbaneinfrastruktur og køretøjer. 5) Erklæring fra regelassessor om, at regelassessor opfylder de krav, som fremgår af §§ 2-3 og §§ 6-8 i bekendtgørelse nr. 543 af 24. maj 2017 om godkendelse af assessorer og sagkyndige i forbindelse med godkendelse af jernbaneinfrastruktur og køretøjer.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "content": "§ 14. Trafikstyrelsen godkender kommissorium for regelassessors vurdering. Infrastrukturforvalteren skal fremsende ansøgning om godkendelse af kommissorium til Trafikstyrelsen. Stk. 2. Ansøgningen skal i relevant omfang vedlægges: 1) Udkast til de nye og ændrede tekniske sikkerhedsregler, herunder afledte konsekvensrettelser, som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler. 2) De tekniske sikkerhedsregler, der afviges fra, herunder de tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet afledte afvigelser fra. 3) Forslag til kommissorium for regelassessors vurdering. Stk. 3. Kommissoriet, jf. stk. 2, skal i relevant omfang 1) entydigt identificere de nye og ændrede tekniske sikkerhedsregler, der skal vurderes af regelassessor, herunder de afledte konsekvensrettelser, som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler, 2) entydigt identificere afvigelserne fra de tekniske sikkerhedsregler, der skal vurderes af regelassessor, herunder de afledte afvigelser fra andre tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet, 3) fastsætte rammen for indholdet i regelassessors vurdering, jf. §§ 8-10, og 4) hvis relevant afgrænse, hvilke dokumenter der ikke indgår i det, som regelassessor skal vurdere, men som regelassessor skal tage udgangspunkt i.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "content": "§ 15. Indtil en infrastrukturforvalter er blevet godkendt til selvforvaltning efter § 16, stk. 3, godkender Trafikstyrelsen infrastrukturforvalterens nye og ændrede tekniske sikkerhedsregler og afvigelser fra tekniske sikkerhedsregler. Stk. 2. Hvis de tekniske sikkerhedsregler eller afvigelserne, jf. stk. 1, ikke er omfattet af anden godkendelse af Trafikstyrelsen, skal infrastrukturforvalteren indsende ansøgning til Trafikstyrelsen om godkendelse. Stk. 3. Ansøgningen, jf. stk. 2, skal i relevant omfang vedlægges: 1) De nye og ændrede tekniske sikkerhedsregler, herunder afledte konsekvensrettelser, som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler, i deres endelige format og indplacering i infrastrukturforvalterens tekniske sikkerhedsregler. 2) Entydig identifikation af de nye og ændrede tekniske sikkerhedsregler, herunder identifikation af afledte konsekvensrettelser som de primære nye og ændrede tekniske sikkerhedsregler har for andre tekniske sikkerhedsregler, ændringerne i reglerne, begrundelse, sporbarhed til eventuelle sikkerhedsrelaterede anvendelsesbetingelser, risikovurdering og risikoevaluering. 3) De tekniske sikkerhedsregler, der afviges fra, herunder de tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet afledte afvigelser fra. 4) Entydig identifikation af de tekniske sikkerhedsregler, der afviges fra, herunder identifikation af afledte afvigelser fra andre tekniske sikkerhedsregler, som de primære afvigelser fra tekniske sikkerhedsregler har afstedkommet, hvad der derved tillades, begrænsninger i det, der tillades, begrundelse for hvorfor det er nødvendigt at afvige, risikovurdering og risikoevaluering, hvilke betingelser, modforanstaltninger eller kontrolforanstaltninger der skal opfyldes eller være til stede i dispensationens gyldighedsperiode, samt angivelse af dispensationens gyldighed og omfang. 5) Det af Trafikstyrelsen godkendte kommissorium for regelassessors vurdering, jf. § 14, såfremt der er knyttet regelassessor til vurdering af de nye og ændrede tekniske sikkerhedsregler eller afvigelser herfra. 6) Regelassessors rapport, jf. §§ 8-10, såfremt der er knyttet regelassessor til vurdering af de nye og ændrede tekniske sikkerhedsregler eller afvigelser herfra. 7) Infrastrukturforvalterens begrundede dokumentation for uenighed med regelassessor i dennes vurdering, jf. § 6, stk. 6, såfremt er foreligger en sådan uenighed.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "content": "§ 16. Infrastrukturforvaltere kan ansøge Trafikstyrelsen om at overgå til selvforvaltning af tekniske sikkerhedsregler, herunder afvigelser herfra. Ansøgningen skal indeholde dokumentation for overholdelse af de relevante krav i § 6, stk. 1, og kap. 6-9 i denne bekendtgørelse. Til ansøgningen skal følgende dokumentation vedlægges: 1) Krydshenvisninger mellem infrastrukturforvalterens sikkerhedsledelsessystem og bekendtgørelsens krav. 2) Beskrivelse af ansvar, beføjelser, opgaver og kompetencer for medarbejdere med ansvar for eller bidrag til processer, jf. § 6, stk. 1, eller dele heraf. 3) Oversigt over infrastrukturforvalterens gældende tekniske sikkerhedsregler. Stk. 2. Trafikstyrelsen kan til enhver tid anmode om yderligere dokumentation i forbindelse med behandlingen af ansøgningen. Stk. 3. Trafikstyrelsen godkender infrastrukturforvalterens overgang til selvforvaltning af tekniske sikkerhedsregler. Ved behandlingen af ansøgningen vurderer Trafikstyrelsen, om infrastrukturforvalterens sikkerhedsledelsessystem sikrer overholdelse af de relevante krav i bekendtgørelsen.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:17",
+      "chapter": "7",
+      "section": "17",
+      "content": "§ 17. I de tekniske sikkerhedsregler for spor skal infrastrukturforvalteren fastsætte nominelle værdier, indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for alle sikkerhedsmæssige grundparametre for alle typer af spor og sporelementer, som infrastrukturforvalteren forvalter. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte indikatorer for slid ved spor og sporelementer og fastsætte indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for indikatorerne. Stk. 3. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, som infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1 og 2, overskrides.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:18",
+      "chapter": "7",
+      "section": "18",
+      "content": "§ 18. I de tekniske sikkerhedsregler for spor skal infrastrukturforvalteren fastsætte krav til processer, som kan påvirke sporets sikkerhedsmæssige grundparametre, hvis resultatet af processerne udelukkende kan kontrolleres ved destruktiv testning.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:19",
+      "chapter": "7",
+      "section": "19",
+      "content": "§ 19. I de tekniske sikkerhedsregler for konstruktioner skal infrastrukturforvalteren fastsætte nominelle værdier, indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for alle sikkerhedsmæssige grundparametre for alle typer af konstruktioner, konstruktionselementer og sporbærende elementer, som infrastrukturforvalteren forvalter, og som kan have indflydelse på jernbanesikkerheden. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte indikatorer for nedbrydning og skader og fastsætte indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for indikatorerne. Stk. 3. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, som infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1 og 2, overskrides.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "content": "§ 20. I de tekniske sikkerhedsregler for perroner skal infrastrukturforvalteren fastsætte nominelle værdier, indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for alle sikkerhedsmæssige grundparametre for alle typer af perroner, som infrastrukturforvalteren forvalter. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte indikatorer for slid ved perroner samt indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for indikatorerne. Stk. 3. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1 og 2, overskrides.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:21",
+      "chapter": "7",
+      "section": "21",
+      "content": "§ 21. I de tekniske sikkerhedsregler for kørestrøm skal infrastrukturforvalteren fastsætte, hvilke dele af kørestrømssystemerne, der har funktioner med betydning for jernbanesikkerheden. Stk. 2. Såfremt funktioner med betydning for jernbanesikkerheden, jf. stk. 1, er afhængige af, at inspektion, vedligeholdelse, fejlretning og betjening udføres korrekt, skal inspektionsmateriale, vedligeholdelsesmateriale, fejlretningsmateriale og instruktionsmateriale for systemerne fastlægges i de tekniske sikkerhedsregler. Stk. 3. Inspektionsmateriale, vedligeholdelsesmateriale og fejlretningsmateriale, jf. stk. 2, skal fastsætte 1) krav til overvågnings- og vedligeholdelsesaktiviteter, herunder overvågnings- og vedligeholdelsesintervaller, 2) krav til dokumentation af inspektioner og vedligeholdelsesaktiviteter, således at funktioner med betydning for jernbanesikkerheden kan opretholdes i systemernes levetid og 3) hvilke indgreb der skal gennemføres, hvis funktioner med betydning for jernbanesikkerheden fejler. Stk. 4. Instruktionsmaterialet, jf. stk. 2, skal indeholde de nødvendige instruktioner i forbindelse med udførelse af arbejde i eller i nærheden af kørestrømsystemet.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:22",
+      "chapter": "7",
+      "section": "22",
+      "content": "§ 22. I de tekniske sikkerhedsregler for kørestrøm skal infrastrukturforvalteren identificere mulige induktive, kapacitive og konduktive koblinger fra køresstrømsystemet, som kan medføre, at elektrisk ledende genstande bliver berøringsfarlige. Stk. 2. I de tekniske sikkerhedsregler skal infrastrukturforvalteren opstille de nødvendige krav til disse genstande, jf. stk. 1, således at berøringsfarer kan undgås.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:23",
+      "chapter": "7",
+      "section": "23",
+      "content": "§ 23. Når funktioner med betydning for jernbanesikkerheden er afhængige af, at elektrisk forsyning er til stede, skal oppetiden af den elektriske forsyning fastsættes i infrastrukturforvalterens tekniske sikkerhedsregler. Stk. 2. Når funktioner med betydning for jernbanesikkerheden realiseres med elektroniske eller computerbaserede systemer, skal infrastrukturforvalteren fastsætte krav til oppetiden af funktioner med betydning for jernbanesikkerheden i infrastrukturforvalterens tekniske sikkerhedsregler.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "content": "§ 24. I de tekniske sikkerhedsregler for signal- og sikringsanlæg skal infrastrukturforvalteren fastsætte funktioner med betydning for jernbanesikkerheden for alle typer af signal- og sikringsanlæg, som infrastrukturforvalteren forvalter. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren 1) fastsætte de kriterier, infrastrukturforvalteren skal bruge til at afgøre, hvilke steder funktioner med betydning for jernbanesikkerheden skal implementeres, 2) fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre i tilfælde af helt eller delvist bortfald af funktioner med betydning for jernbanesikkerheden og 3) fastsætte krav til, hvordan betjenings-, vedligeholdelses- og fejlretningsaktiviteter med betydning for jernbanesikkerheden skal gennemføres. Stk. 3. Indgreb fastsat efter stk. 2 skal sikre, at trafikken afbrydes eller, at sikkerhedsniveauet fortsat er acceptabelt, såfremt trafikken stadig afvikles, eventuelt underlagt bestemte begrænsninger.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "content": "§ 25. I de tekniske sikkerhedsregler for EMC-forhold skal infrastrukturforvalteren fastsætte krav til, hvilke EMC-påvirkninger de elektriske, elektroniske, computerbaserede eller elektromekaniske anlæg, der leverer funktioner med betydning for jernbanesikkerheden, skal kunne modstå. Stk. 2. Infrastrukturforvalteren skal fastsætte de nødvendige krav til overvågning af, at de faktiske EMC-påvirkninger er acceptable i forhold til de fastsatte krav i stk. 1, og fastsætte de indgreb, infrastrukturforvalteren skal foretage, hvis uacceptable påvirkninger observeres.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "content": "§ 26. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte, hvilke tekniske systemer infrastrukturforvalteren benytter til at aktivere eller overvåge objekter med relevans for jernbanesikkerheden. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren 1) fastsætte de funktioner med betydning for jernbanesikkerheden, som disse systemer leverer og 2) fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre i tilfælde af helt eller delvist bortfald af funktioner med betydning for jernbanesikkerheden.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "content": "§ 27. I de tekniske sikkerhedsregler for afvanding skal infrastrukturforvalteren fastsætte nominelle værdier, indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for alle sikkerhedsmæssige grundparametre for afvanding. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte indikatorer for slid af afvandingssystemet samt indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for indikatorerne. Stk. 3. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1 og 2, overskrides.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "content": "§ 28. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte regler for oversigtsforhold i usikrede jernbaneoverkørsler. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren 1) fastsætte metoder, som sikrer, at reglerne bliver overvåget og overholdt og 2) fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre, hvis reglerne ikke overholdes.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:29",
+      "chapter": "8",
+      "section": "29",
+      "content": "§ 29. Infrastrukturforvalterens tekniske sikkerhedsregler skal formuleres på en måde, så reglerne er entydige og praktisk anvendelige.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "content": "§ 30. I de tekniske sikkerhedsregler skal infrastrukturforvalteren definere begreber med betydning for jernbanesikkerheden, som benyttes i infrastrukturforvalterens sikkerhedsrelaterede kommunikation og i infrastrukturforvalterens tekniske sikkerhedsregler. Stk. 2. Definerede begreber, jf. stk. 1, skal indenfor sammenhængende områder være ens på tværs af sikkerhedsregler, kommunikation og øvrige dele af infrastrukturforvalterens sikkerhedsledelsessystem.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:31",
+      "chapter": "8",
+      "section": "31",
+      "content": "§ 31. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte indgrebsgrænser, grænseværdier for akutindgreb og overvågningssystematik for nedbør, vandstandsstigning, vind og temperatur i forbindelse med den infrastruktur, som infrastrukturforvalteren forvalter. Stk. 2. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte de indgreb, som infrastrukturforvalteren skal gennemføre, hvis indgrebsgrænserne eller grænseværdierne for akutindgreb, jf. stk. 1, overskrides.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:32",
+      "chapter": "8",
+      "section": "32",
+      "content": "§ 32. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte minimumskrav til tekniske evakueringsforanstaltninger, som skal etableres på steder i infrastrukturen, hvor evakuering er besværliggjort af jernbanesystemets fysiske udformning eller af omgivelsernes beskaffenhed. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre, hvis foranstaltningerne ikke er etableret eller i en periode ikke er tilgængelige.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:33",
+      "chapter": "8",
+      "section": "33",
+      "content": "§ 33. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte minimumskrav til afskærmning og skiltning til sikring mod uautoriseret adgang til infrastrukturen. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren 1) fokusere på steder i infrastrukturen, hvor hyppigheden af uautoriseret færdsel er stor på grund af jernbanesystemets fysiske udformning eller barrierevirkning i forhold til det omgivende samfund og 2) fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre, hvis foranstaltningerne ikke er etableret eller i en periode ikke er tilgængelige.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:34",
+      "chapter": "8",
+      "section": "34",
+      "content": "§ 34. I de tekniske sikkerhedsregler skal infrastrukturforvalteren fastsætte metoder, der sikrer, at der indsamles observationer om tredjeparts aktiviteter og jernbanesikkerhedsrelevante forhold ved omgivelserne, herunder konstruktioner og bevoksning, som forvaltes af infrastrukturforvalteren eller tredjeparten. Stk. 2. I de tekniske sikkerhedsregler, jf. stk. 1, skal infrastrukturforvalteren fastsætte, hvilke indgreb infrastrukturforvalteren skal gennemføre i tilfælde af, at infrastrukturforvalteren konstaterer forhold, som kan påvirke jernbanesystemets sikkerhed.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "content": "§ 35. Hvis funktioner med betydning for jernbanesikkerheden i et teknisk system er afhængige af et andet teknisk system, skal infrastrukturforvalteren i de tekniske sikkerhedsregler fastsætte de krav, som de enkelte systemer skal opfylde for, at funktioner med betydning for jernbanesikkerheden i samtlige systemer kan opretholdes. Stk. 2. Når stk. 1 finder anvendelse, skal infrastrukturforvalteren i de tekniske sikkerhedsregler ligeledes fastsætte de sikkerhedsmæssige anvendelsesbetingelser, som skal opfyldes af køretøjer, for at det kan trafikere infrastrukturen sikkert. Kravene skal samles i én teknisk sikkerhedsregel, som indeholder alle anvendelsesbetingelser, som og køretøjer skal overholde. Stk. 3. Infrastrukturforvalteren skal fastsætte, hvilke krav, jf. stk. 1, der skal overvåges, hvilken overvågningssystematik der skal anvendes, samt hvilke indgreb der skal gennemføres, hvis kravene ikke er opfyldt.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:36",
+      "chapter": "9",
+      "section": "36",
+      "content": "§ 36. En infrastrukturforvalter, som er godkendt til selvforvaltning, jf. § 16, stk. 3, kan dispensere fra de tekniske sikkerhedsregler, når det skønnes foreneligt med de hensyn, der ligger til grund for de pågældende tekniske sikkerhedsregler, herunder gældende EU-lovgivning på området, og når en risikovurdering har vist, at det samlede sikkerhedsniveau for jernbanesystemet som minimum opretholdes.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:37",
+      "chapter": "10",
+      "section": "37",
+      "content": "§ 37. Trafikstyrelsen fører tilsyn med infrastrukturforvalterens overholdelse af reglerne i denne bekendtgørelse.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:38",
+      "chapter": "11",
+      "section": "38",
+      "content": "§ 38. Trafikstyrelsen kan fastsætte vilkår i en godkendelse. Stk. 2. Trafikstyrelsen kan tilbagekalde godkendelser ved manglende overholdelse af vilkår.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "12:39",
+      "chapter": "12",
+      "section": "39",
+      "content": "§ 39. Trafikstyrelsen kan i særlige tilfælde dispensere fra bestemmelserne i denne bekendtgørelse, når det i øvrigt skønnes foreneligt med de hensyn, der ligger til grund for de pågældende bestemmelser, herunder gældende EU-lovgivning.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "13:40",
+      "chapter": "13",
+      "section": "40",
+      "content": "§ 40. Afgørelser truffet af Trafikstyrelsen efter denne bekendtgørelse kan ikke indbringes for transportministeren eller anden administrativ myndighed, jf. bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse af visse af Trafikstyrelsens forskrifter.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "13:41",
+      "chapter": "13",
+      "section": "41",
+      "content": "§ 41. En infrastrukturforvalter, der har ansøgt Trafikstyrelsen om godkendelse af tekniske sikkerhedsregler, afvigelse fra tekniske sikkerhedsregler eller godkendelse til selvforvaltning og får afslag, kan anmode Trafikstyrelsen om en fornyet vurdering inden for en måned. Stk. 2. Trafikstyrelsen behandler anmodningen om fornyet vurdering inden for to måneder efter modtagelsen af anmodningen.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "14:42",
+      "chapter": "14",
+      "section": "42",
+      "content": "§ 42. Overtrædelse af § 15, stk. 1, straffes med bøde, medmindre højere straf er forskyldt efter §§ 116-117 i jernbaneloven. Stk. 2. Den, der overgår til selvforvaltning uden Trafikstyrelsens godkendelse som anført i § 16, stk. 3, straffes med bøde, medmindre højere straf er forskyldt efter §§ 116-117 i jernbaneloven.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "15:43",
+      "chapter": "15",
+      "section": "43",
+      "content": "§ 43. Bekendtgørelsen træder i kraft den 1. juli 2022, jf. dog stk. 3. Stk. 2. Bekendtgørelsen finder, uanset stk. 1, ikke anvendelse for tekniske sikkerhedsregler, der er godkendte eller ansøgte om inden bekendtgørelsens ikrafttræden, så længe der ikke skal ændres i disse sikkerhedsregler eller dispenseres herfra. Stk. 3. Bekendtgørelsen ophæves den 15. juni 2024.",
+      "valid_from": "2022-06-03",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dispensation fra en teknisk sikkerhedsregel",
+      "definition": "godkendelse af en afvigelse fra den tekniske sikkerhedsregel",
+      "source_provision": "1:4"
+    }
+  ]
+}

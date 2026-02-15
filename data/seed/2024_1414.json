@@ -1,0 +1,547 @@
+{
+  "id": "2024:1414",
+  "type": "statute",
+  "title": "Bekendtgørelse om interoperabilitet mellem elektroniske vejafgiftssystemer og fremme af udvekslingen på tværs af landegrænser af oplysninger om manglende betaling af vejafgifter i Unionen",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2024-12-05",
+  "url": "https://www.retsinformation.dk/eli/lta/2024/1414/xml",
+  "description": "Retsinformation source. DocumentId=DG000999; AccessionNumber=B20240141405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse fastsætter forholdene under elektroniske vejafgiftssystemer her i landet."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Denne bekendtgørelse finder ikke anvendelse på parkeringsafgifter. Stk. 2. Bestemmelserne i bekendtgørelsens §§ 4-35 finder ikke anvendelse på 1) vejafgiftssystemer, der ikke er elektroniske i den betydning, som er beskrevet i § 3, nr. 10, og 2) mindre, rent lokale vejafgiftssystemer, hvor omkostningerne i forbindelse med opfyldelsen af kravene i §§ 4-35 ikke vil stå i et rimeligt forhold til fordelene."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. I denne bekendtgørelse forstås ved: 1) Vejafgiftstjeneste: En tjeneste, der gør det muligt for brugere at anvende et køretøj i et eller flere EETS-områder i henhold til en enkelt kontrakt, og, hvor det er nødvendigt, med et enkelt stykke køretøjsudstyr, herunder a) om nødvendigt at levere et skræddersyet køretøjsudstyr til brugerne og vedligeholde dets funktionalitet, b) at garantere, at vejafgiftsopkræveren betales de skyldige vejafgifter af brugeren, c) at sørge for betalingsmidler eller acceptere et eksisterende betalingsmiddel, d) at opkræve vejafgifter fra brugeren, e) at forvalte kundekontakten med brugeren, og f) at gennemføre og overholde politikker for sikkerhed og privatlivets fred for vejafgiftssystemer. 2) Udbyder af vejafgiftstjenester: En retlig enhed, som leverer vejafgiftstjenester i et eller flere EETS-områder til en eller flere kategorier af køretøjer. 3) Vejafgiftsopkræver: En offentlig eller privat enhed, som opkræver vejafgift for køretøjers kørsel i et EETS-område. 4) Udpeget vejafgiftsopkræver: En offentlig eller privat enhed, der er blevet udpeget som vejafgiftsopkræver i et kommende EETS-område. 5) Europæisk elektronisk vejafgiftstjeneste (EETS): Den vejafgiftstjeneste, som en EETS-udbyder i henhold til en kontrakt om et eller flere EETS-områder leverer til en EETS-bruger. 6) EETS-udbyder: En enhed, som i henhold til en særskilt kontrakt giver en EETS-bruger adgang til EETS, overfører vejafgifterne til den relevante vejafgiftsopkræver, og som er registreret i etableringsmedlemsstaten. 7) EETS-bruger: En fysisk eller juridisk person, som har en kontrakt med en EETS-udbyder for at få adgang til EETS. 8) EETS-område: En vej, et vejnet eller et anlæg, f.eks. en bro eller en tunnel, eller en færge, hvor vejafgifter opkræves ved hjælp af et elektronisk vejafgiftssystem. 9) EETS-overensstemmende system: Det sæt af elementer i et elektronisk vejafgiftssystem, der er specifikt nødvendigt for at integrere EETS-udbydere i systemet og for driften af EETS. 10) Elektronisk vejafgiftssystem: Vejafgiftsopkrævningssystem, hvor brugerens pligt til at betale vejafgift udelukkende udløses af og er forbundet med automatisk detektion af køretøjets tilstedeværelse på et bestemt sted via fjernkommunikation med køretøjsudstyr i køretøjet eller automatisk nummerpladegenkendelse. 11) Køretøjsudstyr: Et komplet sæt hardware- og softwarekomponenter, der anvendes som en del af vejafgiftstjenesten, og som installeres eller medbringes i køretøjet med henblik på indsamling, lagring, behandling og fjernmodtagelse eller fjernoverførsel af data, enten som en enkelt anordning eller som et integreret system i køretøjet. 12) Hovedtjenesteudbyder: En udbyder af vejafgiftstjenester med specifikke forpligtelser, f.eks. forpligtelsen til at indgå kontrakter med alle interesserede brugere, eller specifikke rettigheder, såsom specifik aflønning eller en garanteret langsigtet kontrakt, der afviger fra andre tjenesteudbyderes rettigheder og forpligtelser. 13) Interoperabilitetskomponent: hver enkelt del, gruppe af dele, underenhed eller komplet enhed af udstyr, som indgår i eller er bestemt til at indgå i EETS, og som er direkte eller indirekte afgørende for tjenestens interoperabilitet, herunder både materielle og immaterielle objekter, f.eks. software. 14) Anvendelsesegnethed: En interoperabilitetskomponents evne til at opnå og fastholde et specificeret resultatniveau, når den er i drift og er integreret repræsentativt i EETS i forbindelse med en vejafgiftsopkrævers system. 15) Vejafgiftsdata: De oplysninger, der defineres af den ansvarlige vejafgiftsopkræver som nødvendige for, at det skyldige beløb for at færdes med et køretøj i et bestemt betalingsområde kan fastslås, og at vejafgiftstransaktionen kan afsluttes. 16) Vejafgiftsangivelse: En erklæring fra en vejafgiftsopkræver, som bekræfter et køretøjs tilstedeværelse i et EETS-område i et format, der er aftalt mellem udbyderen af vejafgiftstjenesten og vejafgiftsopkræveren. 17) Køretøjsklassificeringsparametre: De køretøjsrelaterede oplysninger, efter hvilke beregning af vejafgiftsbeløbet sker ud fra vejafgiftsdataene. 18) Backoffice: Det centrale elektroniske system, der anvendes af vejafgiftsopkræveren, en gruppe af vejafgiftsopkrævere, som har skabt et knudepunkt for interoperabilitet, eller af EETS-udbyderen til at indsamle, behandle og fremsende oplysninger inden for rammerne af et elektronisk vejafgiftssystem. 19) Væsentligt ændret system: Et eksisterende elektronisk vejafgiftssystem, som har undergået eller undergår en ændring, som kræver, at EETS-udbydere foretager ændringer af de interoperabilitetskomponenter, der er i drift, f.eks. omprogrammering eller tilpasning af grænsefladerne i deres backoffice i et sådant omfang, at det kræver fornyet akkreditering. 20) Akkreditering: Den proces, der fastlægges og forvaltes af vejafgiftsopkræveren, som en EETS-udbyder skal underkastes, før den får tilladelse til at udbyde EETS i et EETS-område. 21) Vejafgift: Den afgift, som trafikanten skal betale for at benytte en nærmere bestemt vej, et vejnet eller et anlæg, f.eks. en bro eller en tunnel, eller en færge. 22) Manglende betaling af en vejafgift: En overtrædelse bestående i, at en trafikant ikke betaler en vejafgift i en medlemsstat som defineret i de relevante nationale bestemmelser i den pågældende medlemsstat. 23) Registreringsmedlemsstat: Den medlemsstat, hvor det køretøj, der er genstand for betalingen af vejafgiften, er registreret. 24) Nationalt kontaktpunkt: En kompetent myndighed i en medlemsstat, der er udpeget til at udveksle oplysninger fra køretøjsregistre på tværs af landegrænser. 25) Automatiseret søgning: En onlineadgangsprocedure, der anvendes til at konsultere databaserne i en, flere eller alle medlemsstater. 26) Køretøj: Et motorkøretøj eller sammenkoblet køretøj, som er beregnet til eller benyttes til vejtransport af passagerer eller gods. 27) Køretøjets indehaver: Den person, i hvis navn køretøjet er registreret, som defineret i registreringsmedlemsstatens lovgivning. 28) Tungt køretøj: Et køretøj med en teknisk tilladt totalvægt på over 3,5 ton. 29) Let køretøj: Et køretøj med en teknisk tilladt totalvægt på ikke over 3,5 ton. 30) EETS-direktivet: Europa-Parlamentets og Rådets direktiv (EU) 2019/520 af 19. marts 2019 om interoperabilitet mellem elektroniske vejafgiftssystemer og fremme af udvekslingen på tværs af landegrænser af oplysninger om manglende betaling af vejafgifter i Unionen som ændret ved Europa-Parlamentets og Rådets direktiv (EU) 2022/362 af 24. februar 2022. 31) Kommissionens gennemførelsesretsakt: Kommissionens gennemførelsesforordning (EU) 2020/204 af 28. november 2019 om detaljerede forpligtelser for udbydere af europæiske elektroniske vejafgiftstjenester, minimumskrav til indholdet af den europæiske elektroniske vejafgiftstjenestes områdeerklæring, elektroniske grænseflader, krav til interoperabilitetskomponenter og om ophævelse af beslutning 2009/750/EF. 32) Kommissionens delegerede retsakt: Kommissionens delegerede forordning (EU) 2020/203 af 28. november 2019 om klassificering af køretøjer, forpligtelser for brugere af den europæiske elektroniske bompengetjeneste, krav til interoperabilitetskomponenter og minimumskriterier for bemyndigede organers egnethed."
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Alle nye elektroniske vejafgiftssystemer, som forudsætter installation eller brug af køretøjsudstyr, skal bygge på en eller flere af følgende de teknologier i forbindelse med udførelsen af elektroniske vejafgiftstransaktioner: 1) Satellitpositionering. 2) Mobil kommunikation. 3) 5,8 GHz-mikrobølgeteknologi. Stk. 2. Foretages der væsentlige teknologiske forbedringer i eksisterende vejafgiftssystemer, som forudsætter installation eller brug af køretøjsudstyr og brug af andre teknologier, skal systemerne bringes i overensstemmelse med de teknologier, der er fastsat i stk. 1. Stk. 3. Køretøjsudstyr, der bruger satellitbaseret positionsbestemmelse og markedsføres efter den 19. oktober 2021, skal være kompatibelt med de positionsbestemmelsestjenester, som udbydes via Galileos og den europæiske geostationære navigationsoverlaytjenestes (EGNOS) systemer. Stk. 4. EETS-udbydere skal stille køretøjsudstyr til rådighed for EETS-brugere. Dette køretøjsudstyr skal være brugsegnet, interoperabelt og i stand til at kommunikere med de relevante elektroniske vejafgiftssystemer, der er i drift inden for Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde, som bruger de teknologier, der er anført i stk. 1, jf. dog § 38 stk. 4. Stk. 5. Køretøjsudstyret må bruge egen hardware og software, bruge elementer af anden hardware og software i køretøjet eller en kombination af egen hardware og software samt elementer af anden hardware og software. Køretøjsudstyret må, forudsat at sikkerheden, kvaliteten af tjenesten og privatlivets fred er sikret, bruge andre teknologier end dem, der er angivet i stk. 1, til at kommunikere med andre hardwaresystemer, som befinder sig i køretøjet. EETS-køretøjsudstyr kan formidle andre tjenester end opkrævning af vejafgifter, forudsat at driften af sådanne tjenester ikke griber forstyrrende ind i vejafgiftstjenesterne i noget EETS-område."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Registermyndigheden, jf. § 28, foretager efter ansøgning registrering af en juridisk person, der er etableret i Danmark. Stk. 2. Registrering efter stk. 1 forudsætter, at ansøgeren dokumenterer, at denne opfylder følgende krav 1) er certificeret efter EN ISO 9001 eller tilsvarende, 2) er i besiddelse af det tekniske udstyr og den EF-overensstemmelseserklæring eller -attest, der erklærer, at der er overensstemmelse mellem interoperabilitetskomponenterne og specifikationerne, 3) har kompetence på området for elektroniske vejafgiftstjenester eller andre relevante områder, 4) har et passende økonomisk grundlag, 5) følger en overordnet risikostyringsplan, som revideres mindst hvert andet år, og 6) har et godt omdømme."
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. EETS-udbydere registreret efter § 5 skal: 1) Indgå EETS-kontrakter, der dækker alle EETS-områder i mindst fire lande inden for Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde inden for 36 måneder fra deres registrering efter § 5. 2) Indgå kontrakter, der dækker alle EETS-områder i ét land inden for Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde, inden for 24 måneder fra indgåelsen af den første kontrakt indgået i Danmark. Denne frist suspenderes i de tilfælde, hvor de ansvarlige vejafgiftsopkrævere ikke overholder de i denne bekendtgørelse § 12, stk. 1, 3, 4 og 6, nævnte forpligtigelser til at handle ikke-diskriminerende. 3) Til enhver tid opretholde dækningen af alle EETS-områder, når de har indgået kontrakter herom. 4) Hurtigst muligt dække et EETS-område igen, hvis de ikke er i stand hertil, fordi vejafgiftsopkræveren ikke overholder denne bekendtgørelse eller EETS-direktivet. 5) Senest 1 måned efter registreringen eller ændringen offentliggøre a) oplysninger om deres EETS-områdedækning og enhver eventuel ændring heraf, samt b) detaljerede planer for enhver eventuel udvidelse af deres tjeneste til yderligere EETS-områder med årlige opdateringer. 6) Forsyne EETS-brugerne med køretøjsudstyr, der opfylder kravene fastsat i denne bekendtgørelse, i Europa-Parlamentets og Rådets direktiv 2014/53/EU om harmonisering af medlemsstaternes love om tilgængeliggørelse af radioudstyr på markedet og om ophævelse af direktiv 1999/5/EF samt Europa-Parlamentets og Rådets direktiv 2014/30/EU om harmonisering af medlemsstaternes lovgivning om elektromagnetisk kompabilitet, og efter anmodning godtgøre, at disse krav er opfyldt. 7) Føre lister over ugyldiggjort køretøjsudstyr, som er knyttet til deres EETS-kontrakter med EETS-brugerne. Vejafgiftsopkræverne og EETS-udbyderne enes om antallet af ugyldiggjorte stykker køretøjsudstyr på listen, listens udformning og ajourføringshyppighed. Listerne skal endvidere føres i overensstemmelse med Unionens regler om beskyttelse af personoplysninger, som bl.a. findes i forordning (EU) 2016/679 og direktiv 2002/58/EF. 8) Offentliggøre deres kontraktpolitik for EETS-brugerne. 9) Give vejafgiftsopkræverne de oplysninger, de har brug for til at beregne og pålægge EETS-brugernes køretøjer vejafgifter, eller giver vejafgiftsopkræverne alle de oplysninger, der er nødvendige, for at de kan kontrollere beregningen af de vejafgifter, som EETS-udbyderne har pålagt EETS-brugernes køretøjer. 10) Samarbejde med vejafgiftsopkræverne i deres bestræbelser på at identificere formodede lovovertrædere. 11) Efter anmodning omgående udlevere oplysninger til vejafgiftsopkrævere vedrørende køretøjer, der er involveret i den formodede manglende betaling af en vejafgift, herunder om køretøjets ejer eller indehaver, som er kunde hos den pågældende EETS-udbyder. 12) Senest 2 arbejdsdage efter anmodningen udlevere oplysninger til vejafgiftsopkrævere vedrørende køretøjer, som på et givet tidspunkt har kørt i den pågældende vejafgiftsopkrævers EETS-område, til brug for opfyldelse af vejafgiftsopkræverens forpligtelser over for skattemyndighederne."
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Vejafgiftsopkræveren skal stille EETS til rådighed for EETS-brugerne som en sammenhængende ensartet tjeneste, hvorved forstås, at der, når køretøjsklassificeringsparametrene, herunder de variable parametre, er lagt ind eller angivet eller begge dele, ikke skal foretages yderligere menneskelig handling i køretøjet under turen, medmindre der sker en ændring af køretøjets egenskaber, og at behovet for menneskelig interaktion med et bestemt stykke køretøjsudstyr forbliver det samme uanset EETS-område."
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. Når et EETS-område ikke er i overensstemmelse med de tekniske og proceduremæssige betingelser for EETS-interoperabilitet fastsat i denne bekendtgørelse, skal den ansvarlige vejafgiftsopkræver vurdere problemet sammen med de berørte parter og, såfremt det falder ind under opkræverens ansvarsområde, træffe de fornødne foranstaltninger med henblik på at sikre vejafgiftssystemets interoperabilitet med EETS."
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Vejafgiftsopkræveren skal udforme og vedligeholde en EETS-områdeerklæring, der fastsætter de generelle betingelser for EETS-udbydernes adgang til dens EETS-områder, i overensstemmelse med Kommissionens gennemførelsesretsakt. Stk. 2. Når et elektronisk vejafgiftssystem ændres væsentligt, skal vejafgiftsopkræveren med ansvar for systemet ajourføre og offentliggøre EETS-områdeerklæringen samt en udførlig planlægning af revurderingen af interoperabilitetskomponenternes overensstemmelse med specifikationerne og anvendelsesegnethed i tilstrækkelig god tid til, at allerede akkrediterede EETS-udbydere kan tilpasse deres interoperabilitetskomponenter til de nye krav og opnå fornyet akkreditering senest 1 måned før den operationelle lancering af det ændrede system. Stk. 3. Vejafgiftsopkræveren er forpligtet til at overholde den planlægning, der er nævnt i stk. 2. Stk. 4. Vejafgiftsopkræveren skal orientere EETS-udbydere, med hvem vejafgiftsopkræveren har indgået aftale, om enhver planlagt, væsentlig ændring i det elektroniske vejafgiftssystem."
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "§ 10. Hver vejafgiftsopkræver med ansvar for et EETS-område skal oprette et testmiljø, hvor EETS-udbydere eller deres bemyndigede repræsentanter kan kontrollere, om deres køretøjsudstyr er egnet til anvendelse i vejafgiftsopkræverens EETS-område, og opnå certificering for vellykket gennemførelse af de pågældende tests. Stk. 2. Et testmiljø, jf. stk. 1, kan anvendes på mere end ét EETS-område, og kan give en bemyndiget repræsentant adgang til at kontrollere anvendelsesegnetheden for en type køretøjsudstyr på vegne af mere end én EETS-udbyder. Stk. 3. Vejafgiftsopkrævere kan kræve, at EETS-udbydere eller deres bemyndigede repræsentanter dækker omkostningerne ved de pågældende tests."
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. Ved oprettelse af et nyt elektronisk vejafgiftssystem skal den udpegede vejafgiftsopkræver med ansvar for systemet offentliggøre EETS-områdeerklæringen i tilstrækkelig god tid til, at interesserede EETS-udbydere kan akkrediteres senest 1 måned før den operationelle lancering af det nye system. Stk. 2. Den udpegede vejafgiftsopkræver med ansvar for systemet skal senest 1 måned før den operationelle lancering af det nye system i sin EETS-områdeerklæring offentliggøre en udførlig planlægning af processen med vurdering af interoperabilitetskomponenternes overensstemmelse med specifikationerne og anvendelsesegnethed."
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "§ 12. Vejafgiftsopkrævere skal på ikke-diskriminerende vis acceptere enhver EETS-udbyder, der anmoder om at udbyde EETS på den pågældende vejafgiftsopkrævers EETS-område. Stk. 2. Vejafgiftsopkræverne skal samarbejde på en ikke-diskriminerende måde med EETS-udbydere eller -producenter eller bemyndigede organer med henblik på at vurdere interoperabilitetskomponenternes anvendelsesegnethed på EETS-områder inden for Danmark. Stk. 3. Vejafgiftsopkrævere kan ikke kræve, at EETS-leverandøren benytter bestemte tekniske løsninger eller processer, som hindrer interoperabiliteten af en EETS-udbyders interoperabilitetskomponenter med elektroniske vejafgiftssystemer i andre EETS-områder. Stk. 4. Vejafgiftsopkræverens godkendelse af en EETS-udbyder til et vejafgiftsområde er betinget af, at denne overholder forpligtelserne og de generelle betingelser i EETS-områdeerklæringen. Stk. 5. Vejafgiftsopkræverne skal acceptere enhver type køretøjsudstyr, som kommer fra EETS-udbydere, de har kontrakt med, og som er blevet certificeret i overensstemmelse med den procedure, der er fastlagt i Kommissionens gennemførelsesretsakt, og som ikke optræder på en liste over ugyldiggjort køretøjsudstyr, jf. § 6, nr. 7. Stk. 6. Ved uenighed om forhold i stk. 1-5 kan sagen indbringes for Forligsorganet, jf. § 33."
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "§ 13. Kontrakten mellem vejafgiftsopkræveren og EETS-udbyderen vedrørende levering af EETS skal tillade, at fakturaen for vejafgifterne udstedes direkte til EETS-brugeren af EETS-udbyderen. Vejafgiftsopkræveren kan kræve, at EETS-udbyderen fakturerer brugeren i vejafgiftsopkræverens navn og på dennes vegne. Stk. 2. De vejafgifter, som vejafgiftsopkræverne opkræver hos EETS-brugerne, må ikke overstige tilsvarende nationale eller lokale vejafgiftssatser. Stk. 3. Såfremt vejafgiftsopkræveren i medfør af lovgivningen i øvrigt kan indføre rabatter eller nedslag i en vejafgift, skal sådanne rabatter eller nedslag i vejafgifter være gennemsigtige, offentliggjorte og tilgængelige på samme vilkår for alle EETS-udbyderes kunder. Stk. 4. Vejafgiftsopkræveren skal sørge for fortsat drift med forringede driftsvilkår, når funktionsforstyrrelserne kan tilregnes denne, for at køretøjer med udstyr som nævnt i § 12, stk. 5, kan færdes sikkert med minimale forsinkelser og uden at blive mistænkt for ikke at have betalt vejafgift."
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "§ 14. EETS-udbydere er berettigede til aflønning fra vejafgiftsopkræveren. Metoden til fastsættelse af aflønningen skal være gennemsigtig, ikke-diskriminerende og identisk for alle EETS-udbydere, der er akkrediteret til et givet EETS-område. Stk. 2. Vejafgiftsopkræveren skal offentliggøre metoden i stk. 1 som en del af de kommercielle betingelser i EETS-områdeerklæringen."
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "§ 15. Metoden til beregning af aflønningen af EETS-udbydere i EETS-områder med en hovedtjenesteudbyder skal følge den samme struktur som ved aflønning af lignende tjenester, som hovedtjenesteudbyderen leverer. Aflønningsbeløbet til EETS-udbydere kan adskille sig fra det til hovedtjenesteudbyderen, forudsat at det kan begrundes i 1) omkostningerne ved specifikke krav og forpligtelser, der er pålagt hovedtjenesteudbyderen og ikke EETS-udbyderne, og 2) nødvendigheden af i EETS-udbydernes aflønning at fratrække de faste afgifter, som vejafgiftsopkræveren har pålagt, og som er udregnet på grundlag af vejafgiftsopkræverens omkostninger ved at tilvejebringe, drive og vedligeholde et EETS-overensstemmende system i sit betalingsområde, herunder akkrediteringsomkostninger, hvis disse omkostninger ikke er inkluderet i vejafgifterne."
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "§ 16. Vejafgiftsopkræveren skal opbevare, behandle og eventuelt videregive oplysninger vedrørende manglende betaling i overensstemmelse med de i § 37 nævnte bestemmelser om databeskyttelse. Stk. 2. Vejafgiftsopkræveren må ikke videregive de i § 6, nr. 9, 11 og 12, nævnte oplysninger til andre udbydere af vejafgiftstjenesten. Oplysningerne må udelukkende anvendes såvel internt i vejafgiftsopkræverens organisation som eksternt til de formål, hvortil de er indhentet."
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "§ 17. Hvis der ved fastlæggelse af den vejafgiftstakst, som gælder for et givet køretøj, er en uoverensstemmelse mellem EETS-udbyderens og vejafgiftsopkræverens køretøjsklassificering, er vejafgiftsopkræverens klassificering gældende, medmindre der kan påvises en fejl. Stk. 2. Vejafgiftsopkræveren kan opkræve betaling fra en EETS-udbyder for enhver dokumenteret vejafgiftsangivelse og enhver dokumenteret manglende vejafgiftsangivelse for en EETS-brugerkonto, som EETS-udbyderen forvalter. Stk. 3. Såfremt en EETS-udbyder har sendt en vejafgiftsopkræver en liste over ugyldiggjort køretøjsudstyr, jf. § 6, nr. 7, kan denne ikke drages til ansvar for yderligere vejafgifter, som påløber ved brug af dette ugyldiggjorte køretøjsudstyr. Stk. 4. I mikrobølgebaserede betalingssystemer skal vejafgiftsopkræveren indsende dokumenterede vejafgiftsangivelser til EETS-udbyderne for vejafgifter, som skyldes af deres respektive EETS-brugere. Stk. 5. Vejafgiftsopkræveren er ikke begrænset i sit valg af satsstrukturer af de køretøjsklassificeringsparametre, som er fastlagt i Kommissionens delegerede retsakt."
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "§ 18. Udbydere af vejafgiftstjenester skal føre regnskaber på en sådan måde, at det er muligt at skelne tydeligt mellem udgifter og indtægter vedrørende levering af vejafgiftstjenesten og udgifter og indtægter vedrørende andre aktiviteter. Det skal desuden sikres, at der ikke finder krydssubsidiering sted mellem de aktiviteter, der udøves i rollen som udbyder af vejafgiftstjenester, og andre aktiviteter. Stk. 2. Registermyndigheden og Forligsorganet, jf. §§ 28 og 33, kan kræve oplysningerne om udgifter og indtægter vedrørende levering af vejafgiftstjenesten udleveret."
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "§ 19. EETS-brugerne har ret til at tilmelde sig EETS gennem enhver EETS-udbyder uanset EETS-brugerens nationalitet, bopælsland eller det land, hvor køretøjet er registreret. Stk. 2. Når EETS-brugerne indgår en kontrakt, skal EETS-udbyderen underrette dem om gyldige betalingsformer og i overensstemmelse med forordning (EU) 2016/679 om, hvordan personoplysninger behandles, samt hvilke rettigheder EETS-brugerne har i medfør af gældende lovgivning om beskyttelse af personoplysninger. Stk. 3. En EETS-brugers betaling af vejafgifter til EETS-udbyderen anses for at opfylde EETS-brugerens betalingsforpligtelser over for den relevante vejafgiftsopkræver. Stk. 4. Hvis to eller flere stykker køretøjsudstyr installeres eller medbringes om bord på et køretøj, er det EETS-brugerens ansvar at anvende eller aktivere det relevante køretøjsudstyr for det specifikke EETS-område."
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "content": "§ 20. Interaktionen mellem EETS-brugerne og vejafgiftsopkrævere som led i EETS er begrænset til faktureringsprocessen, jf. § 13, stk. 1, og til håndhævelsesprocesser, jf. herved § 36. Stk. 2. Interaktionen mellem EETS-brugere og EETS-udbydere eller deres køretøjsudstyr, som er specifikke for den enkelte EETS-udbyder, må ikke gå ud over interoperabiliteten i EETS. Stk. 3. Udbydere af vejafgiftstjenester, herunder EETS-udbydere, skal efter anmodning fra Registermyndigheden videregive trafikdata om deres kunder, forudsat at de gældende databeskyttelsesregler, jf. § 38, overholdes. Registermyndigheden, Transportministeriet samt andre offentlige myndigheder og forskningsinstitutioner efter Transportministeriets nærmere bestemmelse må kun anvende disse data til transportpolitik og styrkelse af trafikledelse."
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "content": "§ 21. Interoperabilitetskomponenter skal overholde kravene hertil som fastsat i EETS-direktivet, Kommissionens gennemførelsesretsakt og Kommissionens delegerede retsakt. Stk. 2. Interoperabilitetskomponenter skal undergå en vurdering af disses overensstemmelse med specifikationerne og anvendelsesegnetheden i henhold til de bestemmelser og den fremgangsmåde, som følger af Kommissionens delegerede retsakt."
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "content": "§ 22. Interoperabilitetskomponenter til anvendelse i EETS skal være CE-mærkede eller enten have en erklæring om overensstemmelse med specifikationer eller en erklæring om anvendelsesegnethed eller begge dele. Hvis interoperabilitetskomponenter er CE-mærkede eller enten har en erklæring om overensstemmelse med specifikationer eller en erklæring om anvendelsesegnethed eller begge dele, må markedsføring af komponenterne til anvendelse i EETS ikke forbydes, begrænses eller hindres, herunder ved kontrakten mellem vejafgiftsopkræveren og EETS-udbyderen. Stk. 2. Der kan ikke i forhold til interoperabilitetskomponenter kræve kontroller, der allerede er udført som led i proceduren for vurdering af overensstemmelse med specifikationer eller anvendelsesegnethed eller begge dele til anvendelse i EETS, jf. herved § 21, stk. 2."
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "content": "§ 23. Hvis Registermyndigheden har grund til at antage, at CE-mærkede interoperabilitetskomponenter, der markedsføres her i landet, ikke under den tilsigtede anvendelse opfylder kravene efter §§ 21-22, kan den forbyde yderligere markedsføring af disse komponenter eller påbyde dem trukket tilbage eller endog tilbagekaldt. Registermyndigheden underretter omgående Kommissionen om de trufne foranstaltninger, begrunder sin beslutning og angiver i den forbindelse, hvorvidt manglen på overensstemmelse skyldes 1) ukorrekt anvendelse af tekniske specifikationer, eller 2) at de tekniske specifikationer er utilstrækkelige. Stk. 2. Registermyndigheden kan med Kommissionens godkendelse kræve, at producenten eller dennes bemyndigede repræsentant etableret inden for Den Europæiske Union eller i en stat inden for Det Europæiske Økonomiske Samarbejdsområde bringer interoperabilitetskomponenten i overensstemmelse med specifikationerne eller sikrer dens anvendelsesegnethed eller begge dele på de vilkår, der er fastsat efter § 4, samt angive en frist herfor. Registermyndigheden giver underretning herom til Kommissionen og de øvrige medlemsstater i Den Europæiske Union og stater inden for Det Europæiske Økonomiske Samarbejdsområde."
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "content": "§ 24. Enhver beslutning, der træffes af Registermyndigheden, jf. § 23, eller af en vejafgiftsopkræver om vurdering af interoperabilitetskomponenters overensstemmelse med specifikationer eller deres anvendelsesegnethed, og enhver beslutning, der træffes efter § 21, stk. 1 og 2, skal indeholde en begrundelse i overensstemmelse med § 24 i forvaltningsloven og vejledning om klageadgang med angivelse af klageinstans og oplysning om fremgangsmåden ved indgivelse af klage, herunder om eventuel klagefrist, jf. forvaltningsloven § 25. Beslutningen skal snarest muligt meddeles den berørte producent eller EETS-udbyder eller deres bemyndigede repræsentanter."
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "content": "§ 25. Vejdirektoratet er kontaktkontor for EETS-udbydere. Stk. 2. Vejdirektoratet offentliggør på hjemmesiden www.vd.dk/EETS kontaktoplysningerne på vejafgiftsopkrævere og EETS-udbydere, der er registreret i Danmark, samt på kontaktkontoret, Registermyndigheden, Forligsorganet og det nationale kontaktpunkt. Stk. 3. Kontaktkontoret bistår EETS-udbydere med kontakten til vejafgiftsopkrævere."
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "content": "§ 26. Registermyndigheden underretter Kommissionen og de øvrige medlemsstater i Den Europæiske Union og stater inden for Det Europæiske Økonomiske Samarbejdsområde ethvert organ, der er udpeget af Registermyndigheden til at udføre eller overvåge den procedure, der er nævnt i § 21, stk. 2, med angivelse af hvert organs kompetenceområde og de identifikationsnumre, som Kommissionen har udstedt på forhånd. Stk. 2. Registermyndighedens udpegelse af et bemyndiget organ foretages efter kriterierne, der er fastlagt i Kommissionens delegerede forordning. Stk. 3. Opfylder et bemyndiget organ ikke længere kriterierne, som er nævnt i stk. 2, tilbagekalder Registermyndigheden sin godkendelse og underretter omgående Kommissionen og de øvrige medlemsstater i Den Europæiske Union og stater inden for Det Europæiske Økonomiske Samarbejdsområde. Stk. 4. Finder Registermyndigheden, at et bemyndiget organ, der er bemyndiget af en anden medlemsstat i Den Europæiske Union eller stater inden for Det Europæiske Økonomiske Samarbejdsområde, ikke opfylder kriterierne, der er nævnt i stk. 2, indbringer Registermyndigheden sagen for Udvalget for Elektronisk Opkrævning af Vejafgifter nedsat efter EETS-direktivets artikel 31, stk. 1."
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "content": "§ 27. Transportministeriet fastlægger nærmere den danske deltagelse i koordineringsgruppen, der bistår Udvalget for Elektronisk Opkrævning af Vejafgifter."
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "content": "§ 28. Vejdirektoratet (Registermyndigheden) opretter og fører elektronisk et register (Dansk Vejafgiftssystem Register), jf. stk. 2. Stk. 2. Registeret skal indeholde følgende oplysninger 1) EETS-områderne i Danmark med oplysning om a) de pågældende vejafgiftsopkrævere, b) de teknologier, der anvendes til opkrævning af vejafgifter, c) vejafgiftsdata, d) EETS-områdeerklæringen, og e) de EETS-udbydere, som har indgået EETS-kontrakter med vejafgiftsopkræverne i Danmark. 2) de i Danmark registrerede EETS-udbydere, og 3) et kontaktkontor for EETS, herunder en e-mailadresse og et telefonnummer. Stk. 3. Registermyndigheden giver offentligheden adgang til registerets indhold. Stk. 4. Registermyndigheden ajourfører mindst én gang om året oplysningerne i stk. 2 på grundlag af kontroller efter § 29, stk. 1. Registermyndigheden ajourfører videre i nødvendigt omfang i tilfælde omfattet af § 8. Registret skal også indeholde konklusionerne på den i § 5, stk. 2, nr. 5, omhandlede revision."
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "content": "§ 29. Registermyndigheden kontrollerer mindst én gang om året, at kravene efter § 5, stk. 2, nr. 1 og 4-6, fortsat er opfyldt. Registermyndigheden kan til brug herfor kræve oplysninger udleveret fra EETS-udbydere registreret i Dansk Vejafgiftssystem Register. Stk. 2. Hvis en EETS-udbyder efter rimelig frist for udbedring ikke lever op til kravene i denne bekendtgørelse, slettes vedkommende af Dansk Vejafgiftssystem Register. Registermyndigheden offentliggør i registret dato for ophør, og Kommissionen samt danske vejafgiftsopkrævere informeres. Stk. 3. Registermyndighedens afgørelser efter § 5, § 23, stk. 2, § 26, stk. 2 og 3, og § 29, stk. 2, kan ikke påklages til anden administrativ myndighed."
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "content": "§ 30. Registermyndigheden påser, at vejafgiftsopkrævere i Dansk Vejafgiftssystem Register opfylder sine forpligtelser efter denne bekendtgørelse. Stk. 2. Registermyndigheden giver på sin hjemmeside offentligheden oplysninger om tilrettelæggelsen af sit tilsyn efter stk. 1."
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "content": "§ 31. Ved udgangen af hvert kalenderår fremsender Registermyndigheden ad elektronisk vej de ajourførte oplysninger i Dansk Vejafgiftssystem Register til Kommissionen."
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "content": "§ 32. Registermyndigheden anmoder om oplysninger fra Motorstyrelsen omkring brugen af automatiserede søgninger i Eucaris til brug for indberetning til Europa-Kommissionen."
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "content": "§ 33. Et Forligsorgan fungerer under Transportministeriet. Forligsorganet består af ansatte i Vejdirektoratet udpeget af vejdirektøren og er sekretariatsbetjent af Vejdirektoratet. Stk. 2. Forligsorganet skal mægle i tvister mellem vejafgiftsopkrævere for danske EETS-områder og EETS-udbydere, herunder tvister om kontraktvilkår og EETS-udbyderes aflønning i overensstemmelse med § 15. Medlemmerne af Forligsorganet er heri ikke undergivet instruktioner fra ledelsen i Vejdirektoratet om den konkrete sags behandling eller indholdet af sin udtalelse. Stk. 3. Kontaktoplysninger til Forligsorganet og oplysninger om Forligsorganets mæglingsprocedure fremgår af Vejdirektoratets hjemmeside."
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "content": "§ 34. Vejafgiftsopkrævere og EETS-udbydere kan anmode Forligsorganet om at mægle i en tvist, der er opstået i deres kontraktforhold eller -forhandlinger. Stk. 2. Forligsorganet skal inden 1 måned efter modtagelse af en anmodning om mægling erklære, om det er kommet i besiddelse af alle nødvendige dokumenter med henblik på mæglingen. Stk. 3. Forligsorganet skal afgive udtalelse om en tvist senest 6 måneder efter modtagelse af anmodningen om mægling. Stk. 4. Forligsorganet kan anmode om at modtage relevante oplysninger hos vejafgiftsopkrævere, EETS-udbydere og tredjeparter, der medvirker aktivt ved leverancen af EETS-ydelser i Danmark, i forbindelse med varetagelsen af opgaven som Forligsorgan. Stk. 5. Forligsorganet udveksler information om sit arbejde, retningslinjer og praksis med andre forligsorganer inden for Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde."
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "content": "§ 35. Transportministeriet kan efter forudgående tilladelse fra Kommissionen meddele tilladelse til, at der parallelt med det EETS-overensstemmende system gennemføres forsøg på begrænsede delområder og i en nærmere afgrænset periode med betalingssystemer, der anvender nye teknologier eller koncepter, som ikke opfylder en eller flere bestemmelser i denne bekendtgørelse, for at give mulighed for teknisk udvikling af EETS. Den første gyldighedsperiode for en sådan tilladelse må ikke være længere end 3 år. Stk. 2. Transportministeriets tilladelse efter stk. 1 forudsætter, at Kommissionen inden for 6 måneder fra modtagelsen af anmodningen har meddelt tilladelse til gennemførelse af forsøget. Stk. 3. Kommissionen kan nægte at give tilladelse, hvis forsøgssystemet for opkrævning af vejafgifter kunne skade den korrekte funktion af det almindelige elektroniske vejafgiftssystem eller EETS. Stk. 4. Vejafgiftsopkrævere kan ikke kræve, at EETS-udbydere deltager i sådanne forsøgssystemer."
+    },
+    {
+      "provision_ref": "9:36",
+      "chapter": "9",
+      "section": "36",
+      "content": "§ 36. I forbindelse med opfølgning på en manglende betaling af vejafgift sender vejafgiftsopkræveren eller den relevante kompetente myndighed en meddelelse eller lignende, jf. stk. 2 og 3, til den afgiftspligtige, som opfølgningen rettes mod, med oplysninger, om hvordan opfølgning i overensstemmelse med dansk lovgivning vil ske. Stk. 2. Meddelelsen eller lignende skal baseres på modellen til informationsskrivelse i EETS-direktivets bilag II, herunder indeholde de faktiske oplysninger, der er lægges til grund for konstateringen af den manglende betaling af vejafgift. Stk. 3. Meddelelsen eller lignende skal udfærdiges på sproget for køretøjets registreringsdokument. Hvis sproget efter 1. pkt. ikke kendes, udfærdiges den på et officielt sprog i den stat, hvor køretøjet er registreret. Stk. 4. EETS-udbyderen udleverer efter vejafgiftsopkræverens anmodning oplysninger om køretøjets ejer eller registrerede bruger til brug for opfølgning på manglende betaling af vejafgift."
+    },
+    {
+      "provision_ref": "9:37",
+      "chapter": "9",
+      "section": "37",
+      "content": "§ 37. Bestemmelserne i Europa-Parlamentets og Rådets forordning (EU) 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (EØS-relevant tekst), lov nr. 410 af 27. april 2017 om retshåndhævende myndigheders behandling af personoplysninger og lovbekendtgørelse nr. 289 af 8. marts 2024 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, finder anvendelse på myndigheders, vejafgiftsopkræveres og EETS-udbyderes indhentning, opbevaring og behandling af personoplysninger i medfør af denne bekendtgørelse. Stk. 2. Behandling af personoplysninger efter § 36 må kun omfatte oplysninger anført i EETS-direktivets bilag I. Stk. 3. Personoplysningerne skal være korrekte og ajourførte, og kapitel III i Europa-Parlamentets og Rådets forordning (EU) 2016/679 af 27. april 2016 om de registreredes rettigheder skal iagttages ved behandlingen af personoplysninger. Stk. 4. Vejafgiftsopkræveren må kun anmode om og modtage de af Motorstyrelsen efter bestemmelsen i § 17 a i lov om registrering af køretøjer indhentede oplysninger, i det omfang 1) oplysningerne er begrænset til, hvad vejafgiftsopkræveren eller den relevante kompetente myndighed har brug for med henblik på opfølgningen af den manglende betaling af vejafgift, 2) proceduren for opfølgningen på den manglende betaling af vejafgift er i overensstemmelse med proceduren i § 36, 3) vejafgiftsopkræveren eller den relevante kompetente myndighed er ansvarlig for gennemførelsen af denne procedure, og 4) overholdelsen af den opkrævning, der er udstedt af vejafgiftsopkræveren eller den relevante kompetente myndighed, bringer den manglende betaling af vejafgiften til ophør. Stk. 5. De indhentede personoplysninger må udelukkende bruges til 1) at identificere formodede lovovertrædere med henblik på forpligtelsen til at betale manglende vejafgifter inden for anvendelsesområdet af § 6, nr. 10-11, 2) at sikre, at vejafgiftsopkrævere overholder reglerne med hensyn til deres forpligtelser over for skattemyndighederne inden for anvendelsesområdet af § 6, nr. 12, og 3) at identificere køretøjet og ejeren eller indehaveren af det køretøj, for hvilket en manglende betaling af en vejafgift er konstateret, inden for anvendelsesområdet af § 36. Stk. 6. Personoplysningerne skal behandles i overensstemmelse med Europa-Parlamentets og Rådets forordning (EU) 2016/679 af 27. april 2016, art. 5, stk. 1, litra e. Stk. 7. Data overført til vejafgiftsopkræveren eller den relevante kompetente myndighed i henhold til stk. 4 skal slettes af pågældende, når opfølgningen på den manglende betaling af vejafgift er afsluttet, dog senest 2 år efter modtagelsen af de nævnte data. Stk. 8. Registrerede personer har samme ret til information, adgang, berigtigelse, sletning og begrænsning af behandling, og til at indgive en klage til Datatilsynet, til erstatning samt til et effektivt retshåndhævelsesmiddel som dem, der er vedtaget i henhold til forordning (EU) 2016/679 eller, hvor det er relevant, direktiv (EU) 2016/680. Stk. 9. Enhver berørt person har ret til uden unødig forsinkelse at få oplyst, hvilke af de i stk. 2 nævnte personoplysninger, der er blevet fremsendt til den medlemsstat, hvor en manglende betaling af vejafgift blev konstateret, herunder datoen for anmodningen og den kompetente myndighed, på hvis område den manglende betaling af en vejafgift blev konstateret. Stk. 10. Der kan fastsættes bestemmelser om at begrænse omfanget af de forpligtelser og rettigheder, der er fastsat i visse bestemmelser i forordning (EU) 2016/679, i overensstemmelse med nævnte forordnings artikel 23 til de formål, der er anført i nævnte artikels stk. 1."
+    },
+    {
+      "provision_ref": "10:38",
+      "chapter": "10",
+      "section": "38",
+      "content": "§ 38. Bekendtgørelsen træder i kraft den 1. januar 2025. Stk. 2. Bekendtgørelse nr. 1518 af 6. december 2023 om interoperabilitet mellem elektroniske vejafgiftssystemer og fremme af udvekslingen på tværs af landegrænser af oplysninger om manglende betaling af vejafgifter i Unionen ophæves. Stk. 3. EETS-udbydere kan indtil den 31. december 2027 levere køretøjsudstyr til brugere af lette køretøjer, som alene er egnet til brug med 5,8 GHz-mikrobølgeteknologi i EETS-områder, der ikke kræver satellitpositionerings- eller mobilkommunikationsteknologier, medmindre andet er bestemt. Stk. 4. Brugere af lette køretøjer kan i EETS-områder indtil den 31. december 2027 anvende køretøjsudstyr, som alene er egnet til brug med 5,8 GHz-mikrobølgeteknologi."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse fastsætter forholdene under elektroniske vejafgiftssystemer her i landet.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Denne bekendtgørelse finder ikke anvendelse på parkeringsafgifter. Stk. 2. Bestemmelserne i bekendtgørelsens §§ 4-35 finder ikke anvendelse på 1) vejafgiftssystemer, der ikke er elektroniske i den betydning, som er beskrevet i § 3, nr. 10, og 2) mindre, rent lokale vejafgiftssystemer, hvor omkostningerne i forbindelse med opfyldelsen af kravene i §§ 4-35 ikke vil stå i et rimeligt forhold til fordelene.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. I denne bekendtgørelse forstås ved: 1) Vejafgiftstjeneste: En tjeneste, der gør det muligt for brugere at anvende et køretøj i et eller flere EETS-områder i henhold til en enkelt kontrakt, og, hvor det er nødvendigt, med et enkelt stykke køretøjsudstyr, herunder a) om nødvendigt at levere et skræddersyet køretøjsudstyr til brugerne og vedligeholde dets funktionalitet, b) at garantere, at vejafgiftsopkræveren betales de skyldige vejafgifter af brugeren, c) at sørge for betalingsmidler eller acceptere et eksisterende betalingsmiddel, d) at opkræve vejafgifter fra brugeren, e) at forvalte kundekontakten med brugeren, og f) at gennemføre og overholde politikker for sikkerhed og privatlivets fred for vejafgiftssystemer. 2) Udbyder af vejafgiftstjenester: En retlig enhed, som leverer vejafgiftstjenester i et eller flere EETS-områder til en eller flere kategorier af køretøjer. 3) Vejafgiftsopkræver: En offentlig eller privat enhed, som opkræver vejafgift for køretøjers kørsel i et EETS-område. 4) Udpeget vejafgiftsopkræver: En offentlig eller privat enhed, der er blevet udpeget som vejafgiftsopkræver i et kommende EETS-område. 5) Europæisk elektronisk vejafgiftstjeneste (EETS): Den vejafgiftstjeneste, som en EETS-udbyder i henhold til en kontrakt om et eller flere EETS-områder leverer til en EETS-bruger. 6) EETS-udbyder: En enhed, som i henhold til en særskilt kontrakt giver en EETS-bruger adgang til EETS, overfører vejafgifterne til den relevante vejafgiftsopkræver, og som er registreret i etableringsmedlemsstaten. 7) EETS-bruger: En fysisk eller juridisk person, som har en kontrakt med en EETS-udbyder for at få adgang til EETS. 8) EETS-område: En vej, et vejnet eller et anlæg, f.eks. en bro eller en tunnel, eller en færge, hvor vejafgifter opkræves ved hjælp af et elektronisk vejafgiftssystem. 9) EETS-overensstemmende system: Det sæt af elementer i et elektronisk vejafgiftssystem, der er specifikt nødvendigt for at integrere EETS-udbydere i systemet og for driften af EETS. 10) Elektronisk vejafgiftssystem: Vejafgiftsopkrævningssystem, hvor brugerens pligt til at betale vejafgift udelukkende udløses af og er forbundet med automatisk detektion af køretøjets tilstedeværelse på et bestemt sted via fjernkommunikation med køretøjsudstyr i køretøjet eller automatisk nummerpladegenkendelse. 11) Køretøjsudstyr: Et komplet sæt hardware- og softwarekomponenter, der anvendes som en del af vejafgiftstjenesten, og som installeres eller medbringes i køretøjet med henblik på indsamling, lagring, behandling og fjernmodtagelse eller fjernoverførsel af data, enten som en enkelt anordning eller som et integreret system i køretøjet. 12) Hovedtjenesteudbyder: En udbyder af vejafgiftstjenester med specifikke forpligtelser, f.eks. forpligtelsen til at indgå kontrakter med alle interesserede brugere, eller specifikke rettigheder, såsom specifik aflønning eller en garanteret langsigtet kontrakt, der afviger fra andre tjenesteudbyderes rettigheder og forpligtelser. 13) Interoperabilitetskomponent: hver enkelt del, gruppe af dele, underenhed eller komplet enhed af udstyr, som indgår i eller er bestemt til at indgå i EETS, og som er direkte eller indirekte afgørende for tjenestens interoperabilitet, herunder både materielle og immaterielle objekter, f.eks. software. 14) Anvendelsesegnethed: En interoperabilitetskomponents evne til at opnå og fastholde et specificeret resultatniveau, når den er i drift og er integreret repræsentativt i EETS i forbindelse med en vejafgiftsopkrævers system. 15) Vejafgiftsdata: De oplysninger, der defineres af den ansvarlige vejafgiftsopkræver som nødvendige for, at det skyldige beløb for at færdes med et køretøj i et bestemt betalingsområde kan fastslås, og at vejafgiftstransaktionen kan afsluttes. 16) Vejafgiftsangivelse: En erklæring fra en vejafgiftsopkræver, som bekræfter et køretøjs tilstedeværelse i et EETS-område i et format, der er aftalt mellem udbyderen af vejafgiftstjenesten og vejafgiftsopkræveren. 17) Køretøjsklassificeringsparametre: De køretøjsrelaterede oplysninger, efter hvilke beregning af vejafgiftsbeløbet sker ud fra vejafgiftsdataene. 18) Backoffice: Det centrale elektroniske system, der anvendes af vejafgiftsopkræveren, en gruppe af vejafgiftsopkrævere, som har skabt et knudepunkt for interoperabilitet, eller af EETS-udbyderen til at indsamle, behandle og fremsende oplysninger inden for rammerne af et elektronisk vejafgiftssystem. 19) Væsentligt ændret system: Et eksisterende elektronisk vejafgiftssystem, som har undergået eller undergår en ændring, som kræver, at EETS-udbydere foretager ændringer af de interoperabilitetskomponenter, der er i drift, f.eks. omprogrammering eller tilpasning af grænsefladerne i deres backoffice i et sådant omfang, at det kræver fornyet akkreditering. 20) Akkreditering: Den proces, der fastlægges og forvaltes af vejafgiftsopkræveren, som en EETS-udbyder skal underkastes, før den får tilladelse til at udbyde EETS i et EETS-område. 21) Vejafgift: Den afgift, som trafikanten skal betale for at benytte en nærmere bestemt vej, et vejnet eller et anlæg, f.eks. en bro eller en tunnel, eller en færge. 22) Manglende betaling af en vejafgift: En overtrædelse bestående i, at en trafikant ikke betaler en vejafgift i en medlemsstat som defineret i de relevante nationale bestemmelser i den pågældende medlemsstat. 23) Registreringsmedlemsstat: Den medlemsstat, hvor det køretøj, der er genstand for betalingen af vejafgiften, er registreret. 24) Nationalt kontaktpunkt: En kompetent myndighed i en medlemsstat, der er udpeget til at udveksle oplysninger fra køretøjsregistre på tværs af landegrænser. 25) Automatiseret søgning: En onlineadgangsprocedure, der anvendes til at konsultere databaserne i en, flere eller alle medlemsstater. 26) Køretøj: Et motorkøretøj eller sammenkoblet køretøj, som er beregnet til eller benyttes til vejtransport af passagerer eller gods. 27) Køretøjets indehaver: Den person, i hvis navn køretøjet er registreret, som defineret i registreringsmedlemsstatens lovgivning. 28) Tungt køretøj: Et køretøj med en teknisk tilladt totalvægt på over 3,5 ton. 29) Let køretøj: Et køretøj med en teknisk tilladt totalvægt på ikke over 3,5 ton. 30) EETS-direktivet: Europa-Parlamentets og Rådets direktiv (EU) 2019/520 af 19. marts 2019 om interoperabilitet mellem elektroniske vejafgiftssystemer og fremme af udvekslingen på tværs af landegrænser af oplysninger om manglende betaling af vejafgifter i Unionen som ændret ved Europa-Parlamentets og Rådets direktiv (EU) 2022/362 af 24. februar 2022. 31) Kommissionens gennemførelsesretsakt: Kommissionens gennemførelsesforordning (EU) 2020/204 af 28. november 2019 om detaljerede forpligtelser for udbydere af europæiske elektroniske vejafgiftstjenester, minimumskrav til indholdet af den europæiske elektroniske vejafgiftstjenestes områdeerklæring, elektroniske grænseflader, krav til interoperabilitetskomponenter og om ophævelse af beslutning 2009/750/EF. 32) Kommissionens delegerede retsakt: Kommissionens delegerede forordning (EU) 2020/203 af 28. november 2019 om klassificering af køretøjer, forpligtelser for brugere af den europæiske elektroniske bompengetjeneste, krav til interoperabilitetskomponenter og minimumskriterier for bemyndigede organers egnethed.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Alle nye elektroniske vejafgiftssystemer, som forudsætter installation eller brug af køretøjsudstyr, skal bygge på en eller flere af følgende de teknologier i forbindelse med udførelsen af elektroniske vejafgiftstransaktioner: 1) Satellitpositionering. 2) Mobil kommunikation. 3) 5,8 GHz-mikrobølgeteknologi. Stk. 2. Foretages der væsentlige teknologiske forbedringer i eksisterende vejafgiftssystemer, som forudsætter installation eller brug af køretøjsudstyr og brug af andre teknologier, skal systemerne bringes i overensstemmelse med de teknologier, der er fastsat i stk. 1. Stk. 3. Køretøjsudstyr, der bruger satellitbaseret positionsbestemmelse og markedsføres efter den 19. oktober 2021, skal være kompatibelt med de positionsbestemmelsestjenester, som udbydes via Galileos og den europæiske geostationære navigationsoverlaytjenestes (EGNOS) systemer. Stk. 4. EETS-udbydere skal stille køretøjsudstyr til rådighed for EETS-brugere. Dette køretøjsudstyr skal være brugsegnet, interoperabelt og i stand til at kommunikere med de relevante elektroniske vejafgiftssystemer, der er i drift inden for Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde, som bruger de teknologier, der er anført i stk. 1, jf. dog § 38 stk. 4. Stk. 5. Køretøjsudstyret må bruge egen hardware og software, bruge elementer af anden hardware og software i køretøjet eller en kombination af egen hardware og software samt elementer af anden hardware og software. Køretøjsudstyret må, forudsat at sikkerheden, kvaliteten af tjenesten og privatlivets fred er sikret, bruge andre teknologier end dem, der er angivet i stk. 1, til at kommunikere med andre hardwaresystemer, som befinder sig i køretøjet. EETS-køretøjsudstyr kan formidle andre tjenester end opkrævning af vejafgifter, forudsat at driften af sådanne tjenester ikke griber forstyrrende ind i vejafgiftstjenesterne i noget EETS-område.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Registermyndigheden, jf. § 28, foretager efter ansøgning registrering af en juridisk person, der er etableret i Danmark. Stk. 2. Registrering efter stk. 1 forudsætter, at ansøgeren dokumenterer, at denne opfylder følgende krav 1) er certificeret efter EN ISO 9001 eller tilsvarende, 2) er i besiddelse af det tekniske udstyr og den EF-overensstemmelseserklæring eller -attest, der erklærer, at der er overensstemmelse mellem interoperabilitetskomponenterne og specifikationerne, 3) har kompetence på området for elektroniske vejafgiftstjenester eller andre relevante områder, 4) har et passende økonomisk grundlag, 5) følger en overordnet risikostyringsplan, som revideres mindst hvert andet år, og 6) har et godt omdømme.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. EETS-udbydere registreret efter § 5 skal: 1) Indgå EETS-kontrakter, der dækker alle EETS-områder i mindst fire lande inden for Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde inden for 36 måneder fra deres registrering efter § 5. 2) Indgå kontrakter, der dækker alle EETS-områder i ét land inden for Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde, inden for 24 måneder fra indgåelsen af den første kontrakt indgået i Danmark. Denne frist suspenderes i de tilfælde, hvor de ansvarlige vejafgiftsopkrævere ikke overholder de i denne bekendtgørelse § 12, stk. 1, 3, 4 og 6, nævnte forpligtigelser til at handle ikke-diskriminerende. 3) Til enhver tid opretholde dækningen af alle EETS-områder, når de har indgået kontrakter herom. 4) Hurtigst muligt dække et EETS-område igen, hvis de ikke er i stand hertil, fordi vejafgiftsopkræveren ikke overholder denne bekendtgørelse eller EETS-direktivet. 5) Senest 1 måned efter registreringen eller ændringen offentliggøre a) oplysninger om deres EETS-områdedækning og enhver eventuel ændring heraf, samt b) detaljerede planer for enhver eventuel udvidelse af deres tjeneste til yderligere EETS-områder med årlige opdateringer. 6) Forsyne EETS-brugerne med køretøjsudstyr, der opfylder kravene fastsat i denne bekendtgørelse, i Europa-Parlamentets og Rådets direktiv 2014/53/EU om harmonisering af medlemsstaternes love om tilgængeliggørelse af radioudstyr på markedet og om ophævelse af direktiv 1999/5/EF samt Europa-Parlamentets og Rådets direktiv 2014/30/EU om harmonisering af medlemsstaternes lovgivning om elektromagnetisk kompabilitet, og efter anmodning godtgøre, at disse krav er opfyldt. 7) Føre lister over ugyldiggjort køretøjsudstyr, som er knyttet til deres EETS-kontrakter med EETS-brugerne. Vejafgiftsopkræverne og EETS-udbyderne enes om antallet af ugyldiggjorte stykker køretøjsudstyr på listen, listens udformning og ajourføringshyppighed. Listerne skal endvidere føres i overensstemmelse med Unionens regler om beskyttelse af personoplysninger, som bl.a. findes i forordning (EU) 2016/679 og direktiv 2002/58/EF. 8) Offentliggøre deres kontraktpolitik for EETS-brugerne. 9) Give vejafgiftsopkræverne de oplysninger, de har brug for til at beregne og pålægge EETS-brugernes køretøjer vejafgifter, eller giver vejafgiftsopkræverne alle de oplysninger, der er nødvendige, for at de kan kontrollere beregningen af de vejafgifter, som EETS-udbyderne har pålagt EETS-brugernes køretøjer. 10) Samarbejde med vejafgiftsopkræverne i deres bestræbelser på at identificere formodede lovovertrædere. 11) Efter anmodning omgående udlevere oplysninger til vejafgiftsopkrævere vedrørende køretøjer, der er involveret i den formodede manglende betaling af en vejafgift, herunder om køretøjets ejer eller indehaver, som er kunde hos den pågældende EETS-udbyder. 12) Senest 2 arbejdsdage efter anmodningen udlevere oplysninger til vejafgiftsopkrævere vedrørende køretøjer, som på et givet tidspunkt har kørt i den pågældende vejafgiftsopkrævers EETS-område, til brug for opfyldelse af vejafgiftsopkræverens forpligtelser over for skattemyndighederne.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Vejafgiftsopkræveren skal stille EETS til rådighed for EETS-brugerne som en sammenhængende ensartet tjeneste, hvorved forstås, at der, når køretøjsklassificeringsparametrene, herunder de variable parametre, er lagt ind eller angivet eller begge dele, ikke skal foretages yderligere menneskelig handling i køretøjet under turen, medmindre der sker en ændring af køretøjets egenskaber, og at behovet for menneskelig interaktion med et bestemt stykke køretøjsudstyr forbliver det samme uanset EETS-område.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. Når et EETS-område ikke er i overensstemmelse med de tekniske og proceduremæssige betingelser for EETS-interoperabilitet fastsat i denne bekendtgørelse, skal den ansvarlige vejafgiftsopkræver vurdere problemet sammen med de berørte parter og, såfremt det falder ind under opkræverens ansvarsområde, træffe de fornødne foranstaltninger med henblik på at sikre vejafgiftssystemets interoperabilitet med EETS.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Vejafgiftsopkræveren skal udforme og vedligeholde en EETS-områdeerklæring, der fastsætter de generelle betingelser for EETS-udbydernes adgang til dens EETS-områder, i overensstemmelse med Kommissionens gennemførelsesretsakt. Stk. 2. Når et elektronisk vejafgiftssystem ændres væsentligt, skal vejafgiftsopkræveren med ansvar for systemet ajourføre og offentliggøre EETS-områdeerklæringen samt en udførlig planlægning af revurderingen af interoperabilitetskomponenternes overensstemmelse med specifikationerne og anvendelsesegnethed i tilstrækkelig god tid til, at allerede akkrediterede EETS-udbydere kan tilpasse deres interoperabilitetskomponenter til de nye krav og opnå fornyet akkreditering senest 1 måned før den operationelle lancering af det ændrede system. Stk. 3. Vejafgiftsopkræveren er forpligtet til at overholde den planlægning, der er nævnt i stk. 2. Stk. 4. Vejafgiftsopkræveren skal orientere EETS-udbydere, med hvem vejafgiftsopkræveren har indgået aftale, om enhver planlagt, væsentlig ændring i det elektroniske vejafgiftssystem.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "§ 10. Hver vejafgiftsopkræver med ansvar for et EETS-område skal oprette et testmiljø, hvor EETS-udbydere eller deres bemyndigede repræsentanter kan kontrollere, om deres køretøjsudstyr er egnet til anvendelse i vejafgiftsopkræverens EETS-område, og opnå certificering for vellykket gennemførelse af de pågældende tests. Stk. 2. Et testmiljø, jf. stk. 1, kan anvendes på mere end ét EETS-område, og kan give en bemyndiget repræsentant adgang til at kontrollere anvendelsesegnetheden for en type køretøjsudstyr på vegne af mere end én EETS-udbyder. Stk. 3. Vejafgiftsopkrævere kan kræve, at EETS-udbydere eller deres bemyndigede repræsentanter dækker omkostningerne ved de pågældende tests.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. Ved oprettelse af et nyt elektronisk vejafgiftssystem skal den udpegede vejafgiftsopkræver med ansvar for systemet offentliggøre EETS-områdeerklæringen i tilstrækkelig god tid til, at interesserede EETS-udbydere kan akkrediteres senest 1 måned før den operationelle lancering af det nye system. Stk. 2. Den udpegede vejafgiftsopkræver med ansvar for systemet skal senest 1 måned før den operationelle lancering af det nye system i sin EETS-områdeerklæring offentliggøre en udførlig planlægning af processen med vurdering af interoperabilitetskomponenternes overensstemmelse med specifikationerne og anvendelsesegnethed.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "§ 12. Vejafgiftsopkrævere skal på ikke-diskriminerende vis acceptere enhver EETS-udbyder, der anmoder om at udbyde EETS på den pågældende vejafgiftsopkrævers EETS-område. Stk. 2. Vejafgiftsopkræverne skal samarbejde på en ikke-diskriminerende måde med EETS-udbydere eller -producenter eller bemyndigede organer med henblik på at vurdere interoperabilitetskomponenternes anvendelsesegnethed på EETS-områder inden for Danmark. Stk. 3. Vejafgiftsopkrævere kan ikke kræve, at EETS-leverandøren benytter bestemte tekniske løsninger eller processer, som hindrer interoperabiliteten af en EETS-udbyders interoperabilitetskomponenter med elektroniske vejafgiftssystemer i andre EETS-områder. Stk. 4. Vejafgiftsopkræverens godkendelse af en EETS-udbyder til et vejafgiftsområde er betinget af, at denne overholder forpligtelserne og de generelle betingelser i EETS-områdeerklæringen. Stk. 5. Vejafgiftsopkræverne skal acceptere enhver type køretøjsudstyr, som kommer fra EETS-udbydere, de har kontrakt med, og som er blevet certificeret i overensstemmelse med den procedure, der er fastlagt i Kommissionens gennemførelsesretsakt, og som ikke optræder på en liste over ugyldiggjort køretøjsudstyr, jf. § 6, nr. 7. Stk. 6. Ved uenighed om forhold i stk. 1-5 kan sagen indbringes for Forligsorganet, jf. § 33.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "§ 13. Kontrakten mellem vejafgiftsopkræveren og EETS-udbyderen vedrørende levering af EETS skal tillade, at fakturaen for vejafgifterne udstedes direkte til EETS-brugeren af EETS-udbyderen. Vejafgiftsopkræveren kan kræve, at EETS-udbyderen fakturerer brugeren i vejafgiftsopkræverens navn og på dennes vegne. Stk. 2. De vejafgifter, som vejafgiftsopkræverne opkræver hos EETS-brugerne, må ikke overstige tilsvarende nationale eller lokale vejafgiftssatser. Stk. 3. Såfremt vejafgiftsopkræveren i medfør af lovgivningen i øvrigt kan indføre rabatter eller nedslag i en vejafgift, skal sådanne rabatter eller nedslag i vejafgifter være gennemsigtige, offentliggjorte og tilgængelige på samme vilkår for alle EETS-udbyderes kunder. Stk. 4. Vejafgiftsopkræveren skal sørge for fortsat drift med forringede driftsvilkår, når funktionsforstyrrelserne kan tilregnes denne, for at køretøjer med udstyr som nævnt i § 12, stk. 5, kan færdes sikkert med minimale forsinkelser og uden at blive mistænkt for ikke at have betalt vejafgift.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "§ 14. EETS-udbydere er berettigede til aflønning fra vejafgiftsopkræveren. Metoden til fastsættelse af aflønningen skal være gennemsigtig, ikke-diskriminerende og identisk for alle EETS-udbydere, der er akkrediteret til et givet EETS-område. Stk. 2. Vejafgiftsopkræveren skal offentliggøre metoden i stk. 1 som en del af de kommercielle betingelser i EETS-områdeerklæringen.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "§ 15. Metoden til beregning af aflønningen af EETS-udbydere i EETS-områder med en hovedtjenesteudbyder skal følge den samme struktur som ved aflønning af lignende tjenester, som hovedtjenesteudbyderen leverer. Aflønningsbeløbet til EETS-udbydere kan adskille sig fra det til hovedtjenesteudbyderen, forudsat at det kan begrundes i 1) omkostningerne ved specifikke krav og forpligtelser, der er pålagt hovedtjenesteudbyderen og ikke EETS-udbyderne, og 2) nødvendigheden af i EETS-udbydernes aflønning at fratrække de faste afgifter, som vejafgiftsopkræveren har pålagt, og som er udregnet på grundlag af vejafgiftsopkræverens omkostninger ved at tilvejebringe, drive og vedligeholde et EETS-overensstemmende system i sit betalingsområde, herunder akkrediteringsomkostninger, hvis disse omkostninger ikke er inkluderet i vejafgifterne.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "§ 16. Vejafgiftsopkræveren skal opbevare, behandle og eventuelt videregive oplysninger vedrørende manglende betaling i overensstemmelse med de i § 37 nævnte bestemmelser om databeskyttelse. Stk. 2. Vejafgiftsopkræveren må ikke videregive de i § 6, nr. 9, 11 og 12, nævnte oplysninger til andre udbydere af vejafgiftstjenesten. Oplysningerne må udelukkende anvendes såvel internt i vejafgiftsopkræverens organisation som eksternt til de formål, hvortil de er indhentet.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "§ 17. Hvis der ved fastlæggelse af den vejafgiftstakst, som gælder for et givet køretøj, er en uoverensstemmelse mellem EETS-udbyderens og vejafgiftsopkræverens køretøjsklassificering, er vejafgiftsopkræverens klassificering gældende, medmindre der kan påvises en fejl. Stk. 2. Vejafgiftsopkræveren kan opkræve betaling fra en EETS-udbyder for enhver dokumenteret vejafgiftsangivelse og enhver dokumenteret manglende vejafgiftsangivelse for en EETS-brugerkonto, som EETS-udbyderen forvalter. Stk. 3. Såfremt en EETS-udbyder har sendt en vejafgiftsopkræver en liste over ugyldiggjort køretøjsudstyr, jf. § 6, nr. 7, kan denne ikke drages til ansvar for yderligere vejafgifter, som påløber ved brug af dette ugyldiggjorte køretøjsudstyr. Stk. 4. I mikrobølgebaserede betalingssystemer skal vejafgiftsopkræveren indsende dokumenterede vejafgiftsangivelser til EETS-udbyderne for vejafgifter, som skyldes af deres respektive EETS-brugere. Stk. 5. Vejafgiftsopkræveren er ikke begrænset i sit valg af satsstrukturer af de køretøjsklassificeringsparametre, som er fastlagt i Kommissionens delegerede retsakt.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "§ 18. Udbydere af vejafgiftstjenester skal føre regnskaber på en sådan måde, at det er muligt at skelne tydeligt mellem udgifter og indtægter vedrørende levering af vejafgiftstjenesten og udgifter og indtægter vedrørende andre aktiviteter. Det skal desuden sikres, at der ikke finder krydssubsidiering sted mellem de aktiviteter, der udøves i rollen som udbyder af vejafgiftstjenester, og andre aktiviteter. Stk. 2. Registermyndigheden og Forligsorganet, jf. §§ 28 og 33, kan kræve oplysningerne om udgifter og indtægter vedrørende levering af vejafgiftstjenesten udleveret.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "§ 19. EETS-brugerne har ret til at tilmelde sig EETS gennem enhver EETS-udbyder uanset EETS-brugerens nationalitet, bopælsland eller det land, hvor køretøjet er registreret. Stk. 2. Når EETS-brugerne indgår en kontrakt, skal EETS-udbyderen underrette dem om gyldige betalingsformer og i overensstemmelse med forordning (EU) 2016/679 om, hvordan personoplysninger behandles, samt hvilke rettigheder EETS-brugerne har i medfør af gældende lovgivning om beskyttelse af personoplysninger. Stk. 3. En EETS-brugers betaling af vejafgifter til EETS-udbyderen anses for at opfylde EETS-brugerens betalingsforpligtelser over for den relevante vejafgiftsopkræver. Stk. 4. Hvis to eller flere stykker køretøjsudstyr installeres eller medbringes om bord på et køretøj, er det EETS-brugerens ansvar at anvende eller aktivere det relevante køretøjsudstyr for det specifikke EETS-område.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "content": "§ 20. Interaktionen mellem EETS-brugerne og vejafgiftsopkrævere som led i EETS er begrænset til faktureringsprocessen, jf. § 13, stk. 1, og til håndhævelsesprocesser, jf. herved § 36. Stk. 2. Interaktionen mellem EETS-brugere og EETS-udbydere eller deres køretøjsudstyr, som er specifikke for den enkelte EETS-udbyder, må ikke gå ud over interoperabiliteten i EETS. Stk. 3. Udbydere af vejafgiftstjenester, herunder EETS-udbydere, skal efter anmodning fra Registermyndigheden videregive trafikdata om deres kunder, forudsat at de gældende databeskyttelsesregler, jf. § 38, overholdes. Registermyndigheden, Transportministeriet samt andre offentlige myndigheder og forskningsinstitutioner efter Transportministeriets nærmere bestemmelse må kun anvende disse data til transportpolitik og styrkelse af trafikledelse.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "content": "§ 21. Interoperabilitetskomponenter skal overholde kravene hertil som fastsat i EETS-direktivet, Kommissionens gennemførelsesretsakt og Kommissionens delegerede retsakt. Stk. 2. Interoperabilitetskomponenter skal undergå en vurdering af disses overensstemmelse med specifikationerne og anvendelsesegnetheden i henhold til de bestemmelser og den fremgangsmåde, som følger af Kommissionens delegerede retsakt.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "content": "§ 22. Interoperabilitetskomponenter til anvendelse i EETS skal være CE-mærkede eller enten have en erklæring om overensstemmelse med specifikationer eller en erklæring om anvendelsesegnethed eller begge dele. Hvis interoperabilitetskomponenter er CE-mærkede eller enten har en erklæring om overensstemmelse med specifikationer eller en erklæring om anvendelsesegnethed eller begge dele, må markedsføring af komponenterne til anvendelse i EETS ikke forbydes, begrænses eller hindres, herunder ved kontrakten mellem vejafgiftsopkræveren og EETS-udbyderen. Stk. 2. Der kan ikke i forhold til interoperabilitetskomponenter kræve kontroller, der allerede er udført som led i proceduren for vurdering af overensstemmelse med specifikationer eller anvendelsesegnethed eller begge dele til anvendelse i EETS, jf. herved § 21, stk. 2.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "content": "§ 23. Hvis Registermyndigheden har grund til at antage, at CE-mærkede interoperabilitetskomponenter, der markedsføres her i landet, ikke under den tilsigtede anvendelse opfylder kravene efter §§ 21-22, kan den forbyde yderligere markedsføring af disse komponenter eller påbyde dem trukket tilbage eller endog tilbagekaldt. Registermyndigheden underretter omgående Kommissionen om de trufne foranstaltninger, begrunder sin beslutning og angiver i den forbindelse, hvorvidt manglen på overensstemmelse skyldes 1) ukorrekt anvendelse af tekniske specifikationer, eller 2) at de tekniske specifikationer er utilstrækkelige. Stk. 2. Registermyndigheden kan med Kommissionens godkendelse kræve, at producenten eller dennes bemyndigede repræsentant etableret inden for Den Europæiske Union eller i en stat inden for Det Europæiske Økonomiske Samarbejdsområde bringer interoperabilitetskomponenten i overensstemmelse med specifikationerne eller sikrer dens anvendelsesegnethed eller begge dele på de vilkår, der er fastsat efter § 4, samt angive en frist herfor. Registermyndigheden giver underretning herom til Kommissionen og de øvrige medlemsstater i Den Europæiske Union og stater inden for Det Europæiske Økonomiske Samarbejdsområde.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "content": "§ 24. Enhver beslutning, der træffes af Registermyndigheden, jf. § 23, eller af en vejafgiftsopkræver om vurdering af interoperabilitetskomponenters overensstemmelse med specifikationer eller deres anvendelsesegnethed, og enhver beslutning, der træffes efter § 21, stk. 1 og 2, skal indeholde en begrundelse i overensstemmelse med § 24 i forvaltningsloven og vejledning om klageadgang med angivelse af klageinstans og oplysning om fremgangsmåden ved indgivelse af klage, herunder om eventuel klagefrist, jf. forvaltningsloven § 25. Beslutningen skal snarest muligt meddeles den berørte producent eller EETS-udbyder eller deres bemyndigede repræsentanter.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "content": "§ 25. Vejdirektoratet er kontaktkontor for EETS-udbydere. Stk. 2. Vejdirektoratet offentliggør på hjemmesiden www.vd.dk/EETS kontaktoplysningerne på vejafgiftsopkrævere og EETS-udbydere, der er registreret i Danmark, samt på kontaktkontoret, Registermyndigheden, Forligsorganet og det nationale kontaktpunkt. Stk. 3. Kontaktkontoret bistår EETS-udbydere med kontakten til vejafgiftsopkrævere.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "content": "§ 26. Registermyndigheden underretter Kommissionen og de øvrige medlemsstater i Den Europæiske Union og stater inden for Det Europæiske Økonomiske Samarbejdsområde ethvert organ, der er udpeget af Registermyndigheden til at udføre eller overvåge den procedure, der er nævnt i § 21, stk. 2, med angivelse af hvert organs kompetenceområde og de identifikationsnumre, som Kommissionen har udstedt på forhånd. Stk. 2. Registermyndighedens udpegelse af et bemyndiget organ foretages efter kriterierne, der er fastlagt i Kommissionens delegerede forordning. Stk. 3. Opfylder et bemyndiget organ ikke længere kriterierne, som er nævnt i stk. 2, tilbagekalder Registermyndigheden sin godkendelse og underretter omgående Kommissionen og de øvrige medlemsstater i Den Europæiske Union og stater inden for Det Europæiske Økonomiske Samarbejdsområde. Stk. 4. Finder Registermyndigheden, at et bemyndiget organ, der er bemyndiget af en anden medlemsstat i Den Europæiske Union eller stater inden for Det Europæiske Økonomiske Samarbejdsområde, ikke opfylder kriterierne, der er nævnt i stk. 2, indbringer Registermyndigheden sagen for Udvalget for Elektronisk Opkrævning af Vejafgifter nedsat efter EETS-direktivets artikel 31, stk. 1.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "content": "§ 27. Transportministeriet fastlægger nærmere den danske deltagelse i koordineringsgruppen, der bistår Udvalget for Elektronisk Opkrævning af Vejafgifter.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "content": "§ 28. Vejdirektoratet (Registermyndigheden) opretter og fører elektronisk et register (Dansk Vejafgiftssystem Register), jf. stk. 2. Stk. 2. Registeret skal indeholde følgende oplysninger 1) EETS-områderne i Danmark med oplysning om a) de pågældende vejafgiftsopkrævere, b) de teknologier, der anvendes til opkrævning af vejafgifter, c) vejafgiftsdata, d) EETS-områdeerklæringen, og e) de EETS-udbydere, som har indgået EETS-kontrakter med vejafgiftsopkræverne i Danmark. 2) de i Danmark registrerede EETS-udbydere, og 3) et kontaktkontor for EETS, herunder en e-mailadresse og et telefonnummer. Stk. 3. Registermyndigheden giver offentligheden adgang til registerets indhold. Stk. 4. Registermyndigheden ajourfører mindst én gang om året oplysningerne i stk. 2 på grundlag af kontroller efter § 29, stk. 1. Registermyndigheden ajourfører videre i nødvendigt omfang i tilfælde omfattet af § 8. Registret skal også indeholde konklusionerne på den i § 5, stk. 2, nr. 5, omhandlede revision.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "content": "§ 29. Registermyndigheden kontrollerer mindst én gang om året, at kravene efter § 5, stk. 2, nr. 1 og 4-6, fortsat er opfyldt. Registermyndigheden kan til brug herfor kræve oplysninger udleveret fra EETS-udbydere registreret i Dansk Vejafgiftssystem Register. Stk. 2. Hvis en EETS-udbyder efter rimelig frist for udbedring ikke lever op til kravene i denne bekendtgørelse, slettes vedkommende af Dansk Vejafgiftssystem Register. Registermyndigheden offentliggør i registret dato for ophør, og Kommissionen samt danske vejafgiftsopkrævere informeres. Stk. 3. Registermyndighedens afgørelser efter § 5, § 23, stk. 2, § 26, stk. 2 og 3, og § 29, stk. 2, kan ikke påklages til anden administrativ myndighed.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "content": "§ 30. Registermyndigheden påser, at vejafgiftsopkrævere i Dansk Vejafgiftssystem Register opfylder sine forpligtelser efter denne bekendtgørelse. Stk. 2. Registermyndigheden giver på sin hjemmeside offentligheden oplysninger om tilrettelæggelsen af sit tilsyn efter stk. 1.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "content": "§ 31. Ved udgangen af hvert kalenderår fremsender Registermyndigheden ad elektronisk vej de ajourførte oplysninger i Dansk Vejafgiftssystem Register til Kommissionen.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "content": "§ 32. Registermyndigheden anmoder om oplysninger fra Motorstyrelsen omkring brugen af automatiserede søgninger i Eucaris til brug for indberetning til Europa-Kommissionen.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "content": "§ 33. Et Forligsorgan fungerer under Transportministeriet. Forligsorganet består af ansatte i Vejdirektoratet udpeget af vejdirektøren og er sekretariatsbetjent af Vejdirektoratet. Stk. 2. Forligsorganet skal mægle i tvister mellem vejafgiftsopkrævere for danske EETS-områder og EETS-udbydere, herunder tvister om kontraktvilkår og EETS-udbyderes aflønning i overensstemmelse med § 15. Medlemmerne af Forligsorganet er heri ikke undergivet instruktioner fra ledelsen i Vejdirektoratet om den konkrete sags behandling eller indholdet af sin udtalelse. Stk. 3. Kontaktoplysninger til Forligsorganet og oplysninger om Forligsorganets mæglingsprocedure fremgår af Vejdirektoratets hjemmeside.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "content": "§ 34. Vejafgiftsopkrævere og EETS-udbydere kan anmode Forligsorganet om at mægle i en tvist, der er opstået i deres kontraktforhold eller -forhandlinger. Stk. 2. Forligsorganet skal inden 1 måned efter modtagelse af en anmodning om mægling erklære, om det er kommet i besiddelse af alle nødvendige dokumenter med henblik på mæglingen. Stk. 3. Forligsorganet skal afgive udtalelse om en tvist senest 6 måneder efter modtagelse af anmodningen om mægling. Stk. 4. Forligsorganet kan anmode om at modtage relevante oplysninger hos vejafgiftsopkrævere, EETS-udbydere og tredjeparter, der medvirker aktivt ved leverancen af EETS-ydelser i Danmark, i forbindelse med varetagelsen af opgaven som Forligsorgan. Stk. 5. Forligsorganet udveksler information om sit arbejde, retningslinjer og praksis med andre forligsorganer inden for Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "content": "§ 35. Transportministeriet kan efter forudgående tilladelse fra Kommissionen meddele tilladelse til, at der parallelt med det EETS-overensstemmende system gennemføres forsøg på begrænsede delområder og i en nærmere afgrænset periode med betalingssystemer, der anvender nye teknologier eller koncepter, som ikke opfylder en eller flere bestemmelser i denne bekendtgørelse, for at give mulighed for teknisk udvikling af EETS. Den første gyldighedsperiode for en sådan tilladelse må ikke være længere end 3 år. Stk. 2. Transportministeriets tilladelse efter stk. 1 forudsætter, at Kommissionen inden for 6 måneder fra modtagelsen af anmodningen har meddelt tilladelse til gennemførelse af forsøget. Stk. 3. Kommissionen kan nægte at give tilladelse, hvis forsøgssystemet for opkrævning af vejafgifter kunne skade den korrekte funktion af det almindelige elektroniske vejafgiftssystem eller EETS. Stk. 4. Vejafgiftsopkrævere kan ikke kræve, at EETS-udbydere deltager i sådanne forsøgssystemer.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:36",
+      "chapter": "9",
+      "section": "36",
+      "content": "§ 36. I forbindelse med opfølgning på en manglende betaling af vejafgift sender vejafgiftsopkræveren eller den relevante kompetente myndighed en meddelelse eller lignende, jf. stk. 2 og 3, til den afgiftspligtige, som opfølgningen rettes mod, med oplysninger, om hvordan opfølgning i overensstemmelse med dansk lovgivning vil ske. Stk. 2. Meddelelsen eller lignende skal baseres på modellen til informationsskrivelse i EETS-direktivets bilag II, herunder indeholde de faktiske oplysninger, der er lægges til grund for konstateringen af den manglende betaling af vejafgift. Stk. 3. Meddelelsen eller lignende skal udfærdiges på sproget for køretøjets registreringsdokument. Hvis sproget efter 1. pkt. ikke kendes, udfærdiges den på et officielt sprog i den stat, hvor køretøjet er registreret. Stk. 4. EETS-udbyderen udleverer efter vejafgiftsopkræverens anmodning oplysninger om køretøjets ejer eller registrerede bruger til brug for opfølgning på manglende betaling af vejafgift.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:37",
+      "chapter": "9",
+      "section": "37",
+      "content": "§ 37. Bestemmelserne i Europa-Parlamentets og Rådets forordning (EU) 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (EØS-relevant tekst), lov nr. 410 af 27. april 2017 om retshåndhævende myndigheders behandling af personoplysninger og lovbekendtgørelse nr. 289 af 8. marts 2024 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, finder anvendelse på myndigheders, vejafgiftsopkræveres og EETS-udbyderes indhentning, opbevaring og behandling af personoplysninger i medfør af denne bekendtgørelse. Stk. 2. Behandling af personoplysninger efter § 36 må kun omfatte oplysninger anført i EETS-direktivets bilag I. Stk. 3. Personoplysningerne skal være korrekte og ajourførte, og kapitel III i Europa-Parlamentets og Rådets forordning (EU) 2016/679 af 27. april 2016 om de registreredes rettigheder skal iagttages ved behandlingen af personoplysninger. Stk. 4. Vejafgiftsopkræveren må kun anmode om og modtage de af Motorstyrelsen efter bestemmelsen i § 17 a i lov om registrering af køretøjer indhentede oplysninger, i det omfang 1) oplysningerne er begrænset til, hvad vejafgiftsopkræveren eller den relevante kompetente myndighed har brug for med henblik på opfølgningen af den manglende betaling af vejafgift, 2) proceduren for opfølgningen på den manglende betaling af vejafgift er i overensstemmelse med proceduren i § 36, 3) vejafgiftsopkræveren eller den relevante kompetente myndighed er ansvarlig for gennemførelsen af denne procedure, og 4) overholdelsen af den opkrævning, der er udstedt af vejafgiftsopkræveren eller den relevante kompetente myndighed, bringer den manglende betaling af vejafgiften til ophør. Stk. 5. De indhentede personoplysninger må udelukkende bruges til 1) at identificere formodede lovovertrædere med henblik på forpligtelsen til at betale manglende vejafgifter inden for anvendelsesområdet af § 6, nr. 10-11, 2) at sikre, at vejafgiftsopkrævere overholder reglerne med hensyn til deres forpligtelser over for skattemyndighederne inden for anvendelsesområdet af § 6, nr. 12, og 3) at identificere køretøjet og ejeren eller indehaveren af det køretøj, for hvilket en manglende betaling af en vejafgift er konstateret, inden for anvendelsesområdet af § 36. Stk. 6. Personoplysningerne skal behandles i overensstemmelse med Europa-Parlamentets og Rådets forordning (EU) 2016/679 af 27. april 2016, art. 5, stk. 1, litra e. Stk. 7. Data overført til vejafgiftsopkræveren eller den relevante kompetente myndighed i henhold til stk. 4 skal slettes af pågældende, når opfølgningen på den manglende betaling af vejafgift er afsluttet, dog senest 2 år efter modtagelsen af de nævnte data. Stk. 8. Registrerede personer har samme ret til information, adgang, berigtigelse, sletning og begrænsning af behandling, og til at indgive en klage til Datatilsynet, til erstatning samt til et effektivt retshåndhævelsesmiddel som dem, der er vedtaget i henhold til forordning (EU) 2016/679 eller, hvor det er relevant, direktiv (EU) 2016/680. Stk. 9. Enhver berørt person har ret til uden unødig forsinkelse at få oplyst, hvilke af de i stk. 2 nævnte personoplysninger, der er blevet fremsendt til den medlemsstat, hvor en manglende betaling af vejafgift blev konstateret, herunder datoen for anmodningen og den kompetente myndighed, på hvis område den manglende betaling af en vejafgift blev konstateret. Stk. 10. Der kan fastsættes bestemmelser om at begrænse omfanget af de forpligtelser og rettigheder, der er fastsat i visse bestemmelser i forordning (EU) 2016/679, i overensstemmelse med nævnte forordnings artikel 23 til de formål, der er anført i nævnte artikels stk. 1.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:38",
+      "chapter": "10",
+      "section": "38",
+      "content": "§ 38. Bekendtgørelsen træder i kraft den 1. januar 2025. Stk. 2. Bekendtgørelse nr. 1518 af 6. december 2023 om interoperabilitet mellem elektroniske vejafgiftssystemer og fremme af udvekslingen på tværs af landegrænser af oplysninger om manglende betaling af vejafgifter i Unionen ophæves. Stk. 3. EETS-udbydere kan indtil den 31. december 2027 levere køretøjsudstyr til brugere af lette køretøjer, som alene er egnet til brug med 5,8 GHz-mikrobølgeteknologi i EETS-områder, der ikke kræver satellitpositionerings- eller mobilkommunikationsteknologier, medmindre andet er bestemt. Stk. 4. Brugere af lette køretøjer kan i EETS-områder indtil den 31. december 2027 anvende køretøjsudstyr, som alene er egnet til brug med 5,8 GHz-mikrobølgeteknologi.",
+      "valid_from": "2024-12-05",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

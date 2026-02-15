@@ -1,0 +1,155 @@
+{
+  "id": "2018:453",
+  "type": "statute",
+  "title": "Bekendtgørelse om sikkerhed i net- og informationssystemer for operatører af væsentlige tjenester på domænenavnsområdet",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2018-05-08",
+  "url": "https://www.retsinformation.dk/eli/lta/2018/453/xml",
+  "description": "Retsinformation source. DocumentId=CQ000500; AccessionNumber=B20180045305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse på operatører af væsentlige tjenester, jf. lov om sikkerhed i net- og informationssikkerhed for domænenavnssystemer og visse digitale tjeneste. Stk. 2. En topdomænenavnsadministrator anses for at være en operatør af væsentlige tjenester, hvis administratoren og dennes koncernforbundne selskaber har mere end 500.000 andenordens internetdomænenavne registreret under topdomænenavnet. Stk. 3. En DNS-tjenesteudbyder anses for at være en operatør af væsentlige tjenester, hvis udbyderen og dennes koncernforbundne selskaber har 1) rekursive navneservere som mere end 100.000 brugere anvender, eller 2) autoritative navneservere, som har mere end 100.000 andenordens internetdomænenavne tilsluttet."
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "§ 2. Operatører af væsentlige tjenester skal gennemføre en risikovurdering, der skal tage stilling til risikoen for tab af tilgængelighed, autenticitet, integritet og fortrolighed i de væsentlige tjenester, som fremgår af bilag 1. Stk. 2. Såfremt operatørens væsentlige tjenester helt eller delvist drives af en tredjepart, skal eventuelle risici forbundet hermed medtages i risikovurderingen efter stk. 1. Stk. 3. På baggrund af risikovurderingen efter stk. 1 og 2 skal operatørerne implementere passende foranstaltninger til sikring af tilgængelighed, autenticitet, integritet og fortrolighed i de væsentlige tjenester samt sikre, at tredjepart opretholder en tilsvarende sikkerhed i forhold til driftsleverancer til operatøren efter stk. 2. Stk. 4. Risikovurderinger efter stk. 1 og 2 samt foranstaltninger efter stk. 3 skal løbende tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet."
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Operatører af væsentlige tjenester skal udarbejde og gennemføre en ledelsesgodkendt net- og sikkerhedspolitik med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Sikkerhedspolitikken skal herunder beskrive de processuelle og organisatoriske rammer for arbejdet med sikkerheden og operatørens politik for håndtering af beredskabssituationer og andre ekstraordinære situationer med henblik på at sikre, at net og tjenester i videst muligt omfang kan opretholdes i sådanne situationer. Stk. 2. Operatørerne skal sikre, at sikkerhedspolitikken er kommunikeret til alle relevante medarbejdere. Stk. 3. Operatørerne skal løbende tilpasse sikkerhedspolitikken, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet. Der skal dog mindst én gang om året foretages en vurdering af behovet for at tilpasse sikkerhedspolitikken."
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Operatører af væsentlige tjenester skal på baggrund af sikkerhedspolitikken efter § 3 sikre, at der er etableret en sikkerhedsorganisation. Varetagelsen af relevante sikkerhedsopgaver, herunder roller og ansvar, skal i den forbindelse være beskrevet og i fornødent omfang være kommunikeret til operatørernes medarbejdere."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Operatører af væsentlige tjenester skal foretage risikostyring i forbindelse med de væsentlige tjenester, som fremgår af bilag 1, med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Stk. 2. Som led i risikostyringen skal operatørerne fastsætte en samlet risikostyringsproces, der omfatter risikovurderingen efter § 2 og håndtering af sikkerhedsrisici. Der skal i den forbindelse tages stilling til kriterier for operatørernes risikovillighed. Stk. 3. Ved fastlæggelsen af risikovillighed efter stk. 2 skal der tages højde for, at operatørerne i videst muligt omfang skal opretholde udbuddet af deres væsentlige tjenester i beredskabssituationer og i andre ekstraordinære situationer med henblik på at sikre samfundets internettrafik. Stk. 4. Risikostyringsprocessen skal i fornødent omfang dokumenteres og tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet."
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Operatører af væsentlige tjenester skal underrette Erhvervsstyrelsen og Center for Cybersikkerhed om hændelser, der har væsentlige konsekvenser for kontinuiteten af de tjenester, som fremgår af bilag 1, jf. § 7."
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. En hændelse anses for at have væsentlige konsekvenser for kontinuiteten af de tjenester, der fremgår af bilag 1, hvis hændelsen medfører, 1) at en topdomænenavnsadministrators domænenavneservertjeneste har en oppetid på mindre end 100%, 2) at en DNS-tjenesteudbyders rekursive servere i DNS-tjenesten ikke har været tilgængelig i over 6 timer eller i over 2.000.000 brugertimer, idet udtrykket ”brugertime” henviser til antallet af berørte brugere i en periode på 60 minutter, 3) at en DNS-tjenesteudbyders autoritative navneservere i DNS-tjenesten ikke har været tilgængelig i over 6 timer eller, 4) tab integritet, autenticitet eller fortrolighed i forbindelse med lagrede, overførte eller behandlede data i forbindelse med domænenavneservertjenesten eller DNS-tjenesten for rekursive servere, som berører mere end 10.000 brugere eller DNS-tjenesten for autoritative servere, som berører mere end 10.000 domænenavne."
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. Underretning i medfør af § 6 skal ske hurtigst muligt efter, at operatøren har konstateret, at hændelsen har fået væsentlige konsekvenser for kontinuiteten af de tjenester, som fremgår af bilag 1, jf. § 7. Stk. 2. Underretningen af hændelser skal ske gennem den fælles digitale løsning for indberetning af hændelser til offentlige myndigheder på www.virk.dk, jf. dog stk. 3. Stk. 3. Såfremt alle oplysninger til brug for underretningen ikke er tilgængelige for operatøren på tidspunktet, hvor underretning foretages, jf. stk. 1, afgiver operatøren en delvis underretning med de tilgængelige oplysninger. En delvis underretning skal snarest muligt følges op af en komplet underretning."
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "content": "§ 9. Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der overtræder §§ 2-6 og § 8. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "§ 10. Bekendtgørelsen træder i kraft den 10. maj 2018."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse på operatører af væsentlige tjenester, jf. lov om sikkerhed i net- og informationssikkerhed for domænenavnssystemer og visse digitale tjeneste. Stk. 2. En topdomænenavnsadministrator anses for at være en operatør af væsentlige tjenester, hvis administratoren og dennes koncernforbundne selskaber har mere end 500.000 andenordens internetdomænenavne registreret under topdomænenavnet. Stk. 3. En DNS-tjenesteudbyder anses for at være en operatør af væsentlige tjenester, hvis udbyderen og dennes koncernforbundne selskaber har 1) rekursive navneservere som mere end 100.000 brugere anvender, eller 2) autoritative navneservere, som har mere end 100.000 andenordens internetdomænenavne tilsluttet.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "§ 2. Operatører af væsentlige tjenester skal gennemføre en risikovurdering, der skal tage stilling til risikoen for tab af tilgængelighed, autenticitet, integritet og fortrolighed i de væsentlige tjenester, som fremgår af bilag 1. Stk. 2. Såfremt operatørens væsentlige tjenester helt eller delvist drives af en tredjepart, skal eventuelle risici forbundet hermed medtages i risikovurderingen efter stk. 1. Stk. 3. På baggrund af risikovurderingen efter stk. 1 og 2 skal operatørerne implementere passende foranstaltninger til sikring af tilgængelighed, autenticitet, integritet og fortrolighed i de væsentlige tjenester samt sikre, at tredjepart opretholder en tilsvarende sikkerhed i forhold til driftsleverancer til operatøren efter stk. 2. Stk. 4. Risikovurderinger efter stk. 1 og 2 samt foranstaltninger efter stk. 3 skal løbende tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Operatører af væsentlige tjenester skal udarbejde og gennemføre en ledelsesgodkendt net- og sikkerhedspolitik med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Sikkerhedspolitikken skal herunder beskrive de processuelle og organisatoriske rammer for arbejdet med sikkerheden og operatørens politik for håndtering af beredskabssituationer og andre ekstraordinære situationer med henblik på at sikre, at net og tjenester i videst muligt omfang kan opretholdes i sådanne situationer. Stk. 2. Operatørerne skal sikre, at sikkerhedspolitikken er kommunikeret til alle relevante medarbejdere. Stk. 3. Operatørerne skal løbende tilpasse sikkerhedspolitikken, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet. Der skal dog mindst én gang om året foretages en vurdering af behovet for at tilpasse sikkerhedspolitikken.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Operatører af væsentlige tjenester skal på baggrund af sikkerhedspolitikken efter § 3 sikre, at der er etableret en sikkerhedsorganisation. Varetagelsen af relevante sikkerhedsopgaver, herunder roller og ansvar, skal i den forbindelse være beskrevet og i fornødent omfang være kommunikeret til operatørernes medarbejdere.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Operatører af væsentlige tjenester skal foretage risikostyring i forbindelse med de væsentlige tjenester, som fremgår af bilag 1, med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Stk. 2. Som led i risikostyringen skal operatørerne fastsætte en samlet risikostyringsproces, der omfatter risikovurderingen efter § 2 og håndtering af sikkerhedsrisici. Der skal i den forbindelse tages stilling til kriterier for operatørernes risikovillighed. Stk. 3. Ved fastlæggelsen af risikovillighed efter stk. 2 skal der tages højde for, at operatørerne i videst muligt omfang skal opretholde udbuddet af deres væsentlige tjenester i beredskabssituationer og i andre ekstraordinære situationer med henblik på at sikre samfundets internettrafik. Stk. 4. Risikostyringsprocessen skal i fornødent omfang dokumenteres og tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Operatører af væsentlige tjenester skal underrette Erhvervsstyrelsen og Center for Cybersikkerhed om hændelser, der har væsentlige konsekvenser for kontinuiteten af de tjenester, som fremgår af bilag 1, jf. § 7.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. En hændelse anses for at have væsentlige konsekvenser for kontinuiteten af de tjenester, der fremgår af bilag 1, hvis hændelsen medfører, 1) at en topdomænenavnsadministrators domænenavneservertjeneste har en oppetid på mindre end 100%, 2) at en DNS-tjenesteudbyders rekursive servere i DNS-tjenesten ikke har været tilgængelig i over 6 timer eller i over 2.000.000 brugertimer, idet udtrykket ”brugertime” henviser til antallet af berørte brugere i en periode på 60 minutter, 3) at en DNS-tjenesteudbyders autoritative navneservere i DNS-tjenesten ikke har været tilgængelig i over 6 timer eller, 4) tab integritet, autenticitet eller fortrolighed i forbindelse med lagrede, overførte eller behandlede data i forbindelse med domænenavneservertjenesten eller DNS-tjenesten for rekursive servere, som berører mere end 10.000 brugere eller DNS-tjenesten for autoritative servere, som berører mere end 10.000 domænenavne.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. Underretning i medfør af § 6 skal ske hurtigst muligt efter, at operatøren har konstateret, at hændelsen har fået væsentlige konsekvenser for kontinuiteten af de tjenester, som fremgår af bilag 1, jf. § 7. Stk. 2. Underretningen af hændelser skal ske gennem den fælles digitale løsning for indberetning af hændelser til offentlige myndigheder på www.virk.dk, jf. dog stk. 3. Stk. 3. Såfremt alle oplysninger til brug for underretningen ikke er tilgængelige for operatøren på tidspunktet, hvor underretning foretages, jf. stk. 1, afgiver operatøren en delvis underretning med de tilgængelige oplysninger. En delvis underretning skal snarest muligt følges op af en komplet underretning.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "content": "§ 9. Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der overtræder §§ 2-6 og § 8. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "§ 10. Bekendtgørelsen træder i kraft den 10. maj 2018.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

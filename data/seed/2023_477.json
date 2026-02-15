@@ -1,0 +1,189 @@
+{
+  "id": "2023:477",
+  "type": "statute",
+  "title": "Bekendtgørelse om fjernaflæste elmålere og måling af elektricitet i slutforbruget",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2023-05-10",
+  "url": "https://www.retsinformation.dk/eli/lta/2023/477/xml",
+  "description": "Retsinformation source. DocumentId=DB000693; AccessionNumber=B20230047705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Bekendtgørelsen finder anvendelse på netvirksomheders fjernaflæste elmålere og måling af forbruget af elektricitet hos slutbrugere. Stk. 2. Ved slutbruger forstås i denne bekendtgørelse en fysisk eller juridisk person, hvis levering eller aftag af elektricitet i nettet er omfattet af netvirksomhedens pligt til at måle levering og aftag af elektricitet i nettet, jf. § 20, stk. 1, nr. 4, i lov om elforsyning. Stk. 3. I denne bekendtgørelse forstås ved: 1) Egenproducent: Elforbruger, som producerer elektricitet eller varme og elektricitet med henblik på helt eller delvis at dække eget energiforbrug. Det elproducerende anlæg kan ejes af tredjepart. 2) Summationsmåler: En fjernaflæst elmåler, der foretager summering af energien ud fra en tidsmæssig integration af den øjeblikkelige fortegnsafhængige effekt for hver fase."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Netvirksomhederne skal sikre, at alle elmålere der idriftsættes hos slutbrugere er fjernaflæste. Stk. 2. Fjernaflæste elmålere skal opfylde kravene i §§ 4-7, jf. dog § 12. Stk. 3. En fjernaflæst elmåler, der opfylder kravene i §§ 4-7, kan ikke udskiftes med en elmåler, som ikke opfylder disse krav."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Ved installation af fjernaflæste elmålere hos slutbrugere skal netvirksomhederne informere og rådgive slutbrugerne om anvendelsen af fjernaflæste elmålere og potentialet for brugen af disse."
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. En fjernaflæst elmåler skal kunne 1) registrere aftag og levering af elektricitet i det kollektive elforsyningsnet særskilt og med en registrering hvert 15. minut eller med kortere intervaller, 2) ændre indstillinger for registreringsfrekvensen via et fjernaflæsningssystem, og 3) lagre målte data til brug for forbrugsafregning. Stk. 2. Målersystemet skal kunne registrere forsyningsafbrud hos forbrugeren og på forespørgsel fra netvirksomheden overføre afbrudsdata. Stk. 3. En fjernaflæst elmåler, der opsættes hos en egenproducent, skal være en summationsmåler."
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "§ 5. En fjernaflæst elmåler skal være i stand til at videreformidle målte data om aftag og levering af elektricitet for de enkelte tidsserier til netvirksomheden og en ekstern enhed. Den fjernaflæste elmåler skal som minimum kunne bringes til at vise akkumulerede værdier for aftag og levering af elektricitet samt den aktuelle elektriske effekt."
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "§ 6. Intervallet for overførsel af målte data til netvirksomheden skal kunne justeres og tilpasses i henhold til forskrifter udstedt af Energinet. Stk. 2. Målte data skal til enhver tid kunne indhentes fra den fjernaflæste elmåler af netvirksomheden."
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "§ 7. Det skal være muligt for forbrugeren efter åbne standarder at tilkoble eksterne enheder til den fjernaflæste elmåler og løbende udtage forbrugsrelevante data, jf. § 5. Stk. 2. Overførsel af data eller adgang til data skal være sikret via kryptering eller lignende. Stk. 3. Tilkobling af eksterne enheder skal kunne foretages af lægmand uden at bryde plomber eller lignende. Netvirksomheden kan beslutte, at aktivering skal foretages eksternt af netvirksomheden. Dette må ikke påføre forbrugeren unødige ekstraomkostninger. Stk. 4. Udtagning af data må ikke være til gene for netvirksomheders brug af den fjernaflæste elmåler."
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "§ 8. Netvirksomhederne indsender timemålte forbrugsdata til datahub fra de af netvirksomhedernes slutbrugere med forbrug under 100.000 kWh om året, hvor der er idriftsat fjernaflæste elmålere, når der i forskrifter udstedt af Energinet er indført en model herfor. Stk. 2. Netvirksomhederne indsender kvarters målte forbrugsdata til datahub fra de af netvirksomhedernes slutbrugere med forbrug over 100.000 kWh om året, hvor der er idriftsat fjernaflæste elmålere, når der i forskrifter udstedt af Energinet er indført en model herfor. Stk. 3. Netvirksomhederne kan vælge at indsende kvarters målte forbrugsdata til datahub for alle netvirksomhedernes slutbrugere. Stk. 4. Netvirksomhedens forpligtelse efter stk. 2 opretholdes uanset slutbrugeren falder under grænsen på 100.000 kWh om året. Stk. 5. Klima-, energi- og forsyningsministeren kan fastsætte en tidsfrist for Energinets udstedelse af forskrifter, der indfører en model for indsendelse af forbrugsdata i henhold til stk. 1 og 2."
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "§ 9. Slutbrugere med forbrug under 100.000 kWh om året, som har en idriftsat fjernaflæst elmåler, der kan registrere aftag og levering af elektricitet i det kollektive elforsyningsnet med en registrering hvert 15. minut eller med kortere intervaller, kan anmode om, at netvirksomheden indsender kvarters målte forbrugsdata til datahub, når der i forskrifter udstedt af Energinet er indført en model herfor. Stk. 2. En slutbrugers anmodning om indsendelse af kvarters målte forbrugsdata kan ske til den elhandelsvirksomhed, der leverer elektricitet til målepunktet. Elhandelsvirksomheden meddeler slutbrugerens anmodning til datahub, der giver netvirksomheden besked om anmodningen. Stk. 3. Netvirksomheden skal senest løbende måned + 30 dage efter en anmodning efter stk. 2 aktivere den fjernaflæste måler til indsendelse af kvarters målte forbrugsdata og påbegynde indsendelse til datahub i medfør af Energinets udstedte forskrifter. Stk. 4. En anmodning om indsendelse af kvarters målte forbrugsdata til datahub er bindende for slutbrugeren. Stk. 5. En netvirksomhed kan uanset stk. 2 håndtere en anmodning om indsendelse af kvarters målte forbrugsdata. Stk. 6. Klima-, energi- og forsyningsministeren kan fastsætte en tidsfrist for Energinets udstedelse af forskrifter, der indfører en model for indsendelse af forbrugsdata i henhold til stk. 1."
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "§ 10. Omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret kan forhøjes med dokumenterede meromkostninger ved fremskyndelse af investeringer som følge af en anmodning efter § 12, stk. 2 og 3. Stk. 2. Omkostningsrammen kan forhøjes med øgede driftsomkostninger som følge af forskrifter udstedt af Energinet om indsendelse af forbrugsdata, jf. § 8, stk. 1 og 2, og § 9, stk. 1. Stk. 3. Omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret kan forhøjes med dokumenterede meromkostninger til udskiftning eller opgradering af elmålere til fjernaflæste elmålere, der opfylder kravene i §§ 4-7, jf. § 2, stk. 1. Stk. 4. Forsyningstilsynet kan anvende standardiserede forudsætninger for forhøjelse af omkostningsrammen som følge af øgede driftsomkostninger efter stk. 2. Forsyningstilsynet kan anvende standardiserede forudsætninger for forhøjelse af omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret som følge af dokumenterede meromkostninger efter stk. 1 og 2. Ved udarbejdelse af standardiserede forudsætninger i forhold til stk. 2 og 3 tager Forsyningstilsynet bl.a. hensyn til en forventet levetid på 15 år for elmålerne og netvirksomhedernes sparede omkostninger til den relevante alternative investering, der indtil den 31. december 2020 vil være en elektronisk ikke-fjernaflæst elmåler. Stk. 5. En netvirksomhed kan efter reglerne i bekendtgørelse om indtægtsrammer for netvirksomheder én gang årligt ansøge Forsyningstilsynet om en forhøjelse af omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret for det eller de år, hvor de dokumenterede meromkostninger er afholdt, jf. stk. 1-2. Muligheden for at få godkendt en forhøjelse af omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret bortfalder, såfremt Forsyningstilsynet ikke har modtaget en ansøgning rettidigt, jf. bekendtgørelse om indtægtsrammer for netvirksomheder."
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "§ 11. Bekendtgørelsen træder i kraft den 22. maj 2023. Stk. 2. Bekendtgørelse nr. 75 af 25. januar 2019 om fjernaflæste elmålere og måling af elektricitet i slutforbruget ophæves."
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "§ 12. De fjernaflæste elmålere, der allerede var idriftsat den 3. december 2013, men ikke opfylder alle kravene i §§ 4-7, kan forblive i drift i de pågældende elmåleres restlevetid, såfremt de kan benyttes til indsendelse af timemålte forbrugsdata til datahubben, jf. § 8, stk. 1, jf. dog stk. 2 og 3. Stk. 2. En netvirksomhed der har idriftsat en fjernaflæst elmåler, som ikke opfylder kravene i § 4, stk. 3, hos en egenproducent, skal udskifte denne til en summationsmåler, hvis egenproducenten anmoder herom. Egenproducenten skal afholde de dokumenterede meromkostninger for udskiftningen. Stk. 3. En netvirksomhed der har idriftsat en fjernaflæst elmåler, som ikke opfylder kravene i § 4, stk. 1, nr. 1, hos en slutbruger, skal udskifte denne, hvis slutbrugeren anmoder herom. Slutbrugeren skal afholde de dokumenterede meromkostninger for udskiftningen. Stk. 4. I målersystemer med fjernaflæste elmålere som nævnt i stk. 1, finder § 2, stk. 2, ikke anvendelse ved udskiftning af enkelte defekte fjernaflæste elmålere."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Bekendtgørelsen finder anvendelse på netvirksomheders fjernaflæste elmålere og måling af forbruget af elektricitet hos slutbrugere. Stk. 2. Ved slutbruger forstås i denne bekendtgørelse en fysisk eller juridisk person, hvis levering eller aftag af elektricitet i nettet er omfattet af netvirksomhedens pligt til at måle levering og aftag af elektricitet i nettet, jf. § 20, stk. 1, nr. 4, i lov om elforsyning. Stk. 3. I denne bekendtgørelse forstås ved: 1) Egenproducent: Elforbruger, som producerer elektricitet eller varme og elektricitet med henblik på helt eller delvis at dække eget energiforbrug. Det elproducerende anlæg kan ejes af tredjepart. 2) Summationsmåler: En fjernaflæst elmåler, der foretager summering af energien ud fra en tidsmæssig integration af den øjeblikkelige fortegnsafhængige effekt for hver fase.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Netvirksomhederne skal sikre, at alle elmålere der idriftsættes hos slutbrugere er fjernaflæste. Stk. 2. Fjernaflæste elmålere skal opfylde kravene i §§ 4-7, jf. dog § 12. Stk. 3. En fjernaflæst elmåler, der opfylder kravene i §§ 4-7, kan ikke udskiftes med en elmåler, som ikke opfylder disse krav.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Ved installation af fjernaflæste elmålere hos slutbrugere skal netvirksomhederne informere og rådgive slutbrugerne om anvendelsen af fjernaflæste elmålere og potentialet for brugen af disse.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. En fjernaflæst elmåler skal kunne 1) registrere aftag og levering af elektricitet i det kollektive elforsyningsnet særskilt og med en registrering hvert 15. minut eller med kortere intervaller, 2) ændre indstillinger for registreringsfrekvensen via et fjernaflæsningssystem, og 3) lagre målte data til brug for forbrugsafregning. Stk. 2. Målersystemet skal kunne registrere forsyningsafbrud hos forbrugeren og på forespørgsel fra netvirksomheden overføre afbrudsdata. Stk. 3. En fjernaflæst elmåler, der opsættes hos en egenproducent, skal være en summationsmåler.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "§ 5. En fjernaflæst elmåler skal være i stand til at videreformidle målte data om aftag og levering af elektricitet for de enkelte tidsserier til netvirksomheden og en ekstern enhed. Den fjernaflæste elmåler skal som minimum kunne bringes til at vise akkumulerede værdier for aftag og levering af elektricitet samt den aktuelle elektriske effekt.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "§ 6. Intervallet for overførsel af målte data til netvirksomheden skal kunne justeres og tilpasses i henhold til forskrifter udstedt af Energinet. Stk. 2. Målte data skal til enhver tid kunne indhentes fra den fjernaflæste elmåler af netvirksomheden.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "§ 7. Det skal være muligt for forbrugeren efter åbne standarder at tilkoble eksterne enheder til den fjernaflæste elmåler og løbende udtage forbrugsrelevante data, jf. § 5. Stk. 2. Overførsel af data eller adgang til data skal være sikret via kryptering eller lignende. Stk. 3. Tilkobling af eksterne enheder skal kunne foretages af lægmand uden at bryde plomber eller lignende. Netvirksomheden kan beslutte, at aktivering skal foretages eksternt af netvirksomheden. Dette må ikke påføre forbrugeren unødige ekstraomkostninger. Stk. 4. Udtagning af data må ikke være til gene for netvirksomheders brug af den fjernaflæste elmåler.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "§ 8. Netvirksomhederne indsender timemålte forbrugsdata til datahub fra de af netvirksomhedernes slutbrugere med forbrug under 100.000 kWh om året, hvor der er idriftsat fjernaflæste elmålere, når der i forskrifter udstedt af Energinet er indført en model herfor. Stk. 2. Netvirksomhederne indsender kvarters målte forbrugsdata til datahub fra de af netvirksomhedernes slutbrugere med forbrug over 100.000 kWh om året, hvor der er idriftsat fjernaflæste elmålere, når der i forskrifter udstedt af Energinet er indført en model herfor. Stk. 3. Netvirksomhederne kan vælge at indsende kvarters målte forbrugsdata til datahub for alle netvirksomhedernes slutbrugere. Stk. 4. Netvirksomhedens forpligtelse efter stk. 2 opretholdes uanset slutbrugeren falder under grænsen på 100.000 kWh om året. Stk. 5. Klima-, energi- og forsyningsministeren kan fastsætte en tidsfrist for Energinets udstedelse af forskrifter, der indfører en model for indsendelse af forbrugsdata i henhold til stk. 1 og 2.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "§ 9. Slutbrugere med forbrug under 100.000 kWh om året, som har en idriftsat fjernaflæst elmåler, der kan registrere aftag og levering af elektricitet i det kollektive elforsyningsnet med en registrering hvert 15. minut eller med kortere intervaller, kan anmode om, at netvirksomheden indsender kvarters målte forbrugsdata til datahub, når der i forskrifter udstedt af Energinet er indført en model herfor. Stk. 2. En slutbrugers anmodning om indsendelse af kvarters målte forbrugsdata kan ske til den elhandelsvirksomhed, der leverer elektricitet til målepunktet. Elhandelsvirksomheden meddeler slutbrugerens anmodning til datahub, der giver netvirksomheden besked om anmodningen. Stk. 3. Netvirksomheden skal senest løbende måned + 30 dage efter en anmodning efter stk. 2 aktivere den fjernaflæste måler til indsendelse af kvarters målte forbrugsdata og påbegynde indsendelse til datahub i medfør af Energinets udstedte forskrifter. Stk. 4. En anmodning om indsendelse af kvarters målte forbrugsdata til datahub er bindende for slutbrugeren. Stk. 5. En netvirksomhed kan uanset stk. 2 håndtere en anmodning om indsendelse af kvarters målte forbrugsdata. Stk. 6. Klima-, energi- og forsyningsministeren kan fastsætte en tidsfrist for Energinets udstedelse af forskrifter, der indfører en model for indsendelse af forbrugsdata i henhold til stk. 1.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "§ 10. Omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret kan forhøjes med dokumenterede meromkostninger ved fremskyndelse af investeringer som følge af en anmodning efter § 12, stk. 2 og 3. Stk. 2. Omkostningsrammen kan forhøjes med øgede driftsomkostninger som følge af forskrifter udstedt af Energinet om indsendelse af forbrugsdata, jf. § 8, stk. 1 og 2, og § 9, stk. 1. Stk. 3. Omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret kan forhøjes med dokumenterede meromkostninger til udskiftning eller opgradering af elmålere til fjernaflæste elmålere, der opfylder kravene i §§ 4-7, jf. § 2, stk. 1. Stk. 4. Forsyningstilsynet kan anvende standardiserede forudsætninger for forhøjelse af omkostningsrammen som følge af øgede driftsomkostninger efter stk. 2. Forsyningstilsynet kan anvende standardiserede forudsætninger for forhøjelse af omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret som følge af dokumenterede meromkostninger efter stk. 1 og 2. Ved udarbejdelse af standardiserede forudsætninger i forhold til stk. 2 og 3 tager Forsyningstilsynet bl.a. hensyn til en forventet levetid på 15 år for elmålerne og netvirksomhedernes sparede omkostninger til den relevante alternative investering, der indtil den 31. december 2020 vil være en elektronisk ikke-fjernaflæst elmåler. Stk. 5. En netvirksomhed kan efter reglerne i bekendtgørelse om indtægtsrammer for netvirksomheder én gang årligt ansøge Forsyningstilsynet om en forhøjelse af omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret for det eller de år, hvor de dokumenterede meromkostninger er afholdt, jf. stk. 1-2. Muligheden for at få godkendt en forhøjelse af omkostningsrammen og det samlede forrentningsgrundlag i reguleringsåret bortfalder, såfremt Forsyningstilsynet ikke har modtaget en ansøgning rettidigt, jf. bekendtgørelse om indtægtsrammer for netvirksomheder.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "§ 11. Bekendtgørelsen træder i kraft den 22. maj 2023. Stk. 2. Bekendtgørelse nr. 75 af 25. januar 2019 om fjernaflæste elmålere og måling af elektricitet i slutforbruget ophæves.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "§ 12. De fjernaflæste elmålere, der allerede var idriftsat den 3. december 2013, men ikke opfylder alle kravene i §§ 4-7, kan forblive i drift i de pågældende elmåleres restlevetid, såfremt de kan benyttes til indsendelse af timemålte forbrugsdata til datahubben, jf. § 8, stk. 1, jf. dog stk. 2 og 3. Stk. 2. En netvirksomhed der har idriftsat en fjernaflæst elmåler, som ikke opfylder kravene i § 4, stk. 3, hos en egenproducent, skal udskifte denne til en summationsmåler, hvis egenproducenten anmoder herom. Egenproducenten skal afholde de dokumenterede meromkostninger for udskiftningen. Stk. 3. En netvirksomhed der har idriftsat en fjernaflæst elmåler, som ikke opfylder kravene i § 4, stk. 1, nr. 1, hos en slutbruger, skal udskifte denne, hvis slutbrugeren anmoder herom. Slutbrugeren skal afholde de dokumenterede meromkostninger for udskiftningen. Stk. 4. I målersystemer med fjernaflæste elmålere som nævnt i stk. 1, finder § 2, stk. 2, ikke anvendelse ved udskiftning af enkelte defekte fjernaflæste elmålere.",
+      "valid_from": "2023-05-10",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "slutbruger",
+      "definition": "i denne bekendtgørelse en fysisk eller juridisk person, hvis levering eller aftag af elektricitet i nettet er omfattet af netvirksomhedens pligt til at måle levering og aftag af elektricitet i nettet, jf",
+      "source_provision": "1:1"
+    }
+  ]
+}

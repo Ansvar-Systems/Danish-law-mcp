@@ -1,0 +1,987 @@
+{
+  "date": "2026-02-14",
+  "root": "/Users/jeffreyvonrotz/Projects",
+  "repos": [
+    {
+      "repo": "security-controls-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/security-controls-mcp",
+      "package_name": null,
+      "version": null,
+      "has_package_json": false,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": false,
+      "runtime_tools": [],
+      "manifest_tools": [
+        "get_clause",
+        "get_control",
+        "get_framework_controls",
+        "list_available_standards",
+        "list_frameworks",
+        "map_frameworks",
+        "query_standard",
+        "search_controls",
+        "version_info"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 6,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 0,
+      "findings": [
+        "No obvious runtime entrypoint found (likely incomplete or metadata-only).",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Troubleshooting guidance not clearly documented.",
+        "Helpful runtime error handling not clearly detected.",
+        "Limited evidence of token-frugality controls (limits/optional fields).",
+        "Remote-like server but Streamable HTTP support not detected.",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P1",
+      "severity_score": 16
+    },
+    {
+      "repo": "swedish-law-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/swedish-law-mcp",
+      "package_name": "@ansvar/swedish-law-mcp",
+      "version": "1.2.1",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": true,
+      "runtime_tools": [
+        "about",
+        "build_legal_stance",
+        "check_currency",
+        "format_citation",
+        "get_eu_basis",
+        "get_preparatory_works",
+        "get_provision",
+        "get_provision_eu_basis",
+        "get_swedish_implementations",
+        "search_case_law",
+        "search_eu_implementations",
+        "search_legislation",
+        "validate_citation",
+        "validate_eu_compliance"
+      ],
+      "manifest_tools": [
+        "build_legal_stance",
+        "check_currency",
+        "format_citation",
+        "get_eu_basis",
+        "get_preparatory_works",
+        "get_provision",
+        "get_provision_at_date",
+        "get_provision_eu_basis",
+        "get_swedish_implementations",
+        "search_case_law",
+        "search_eu_implementations",
+        "search_legislation",
+        "validate_citation",
+        "validate_eu_compliance"
+      ],
+      "smithery_tools": [
+        "get_definitions",
+        "get_section",
+        "list_statutes",
+        "search_laws"
+      ],
+      "has_tool_annotations": false,
+      "has_streamable_http": true,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": true,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.ai",
+        "hello@ansvar.eu",
+        "privacy@anthropic.com"
+      ],
+      "example_prompt_count_estimate": 9,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 3,
+      "findings": [
+        "Manifest lists tools not found in runtime: ['get_provision_at_date']",
+        "Runtime exposes tools missing in manifest: ['about']",
+        "Smithery tool list does not match runtime tools.",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Troubleshooting guidance not clearly documented.",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P1",
+      "severity_score": 14
+    },
+    {
+      "repo": "Vendor_Intelligence_MCP",
+      "path": "/Users/jeffreyvonrotz/Projects/Vendor_Intelligence_MCP",
+      "package_name": null,
+      "version": null,
+      "has_package_json": false,
+      "has_manifest_json": false,
+      "has_server_json": false,
+      "has_runtime_entry": false,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 0,
+      "findings": [
+        "No obvious runtime entrypoint found (likely incomplete or metadata-only).",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "Helpful runtime error handling not clearly detected.",
+        "Limited evidence of token-frugality controls (limits/optional fields).",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P1",
+      "severity_score": 13
+    },
+    {
+      "repo": "Document-Logic-MCP",
+      "path": "/Users/jeffreyvonrotz/Projects/Document-Logic-MCP",
+      "package_name": null,
+      "version": null,
+      "has_package_json": false,
+      "has_manifest_json": true,
+      "has_server_json": false,
+      "has_runtime_entry": false,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": true,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 0,
+      "findings": [
+        "No obvious runtime entrypoint found (likely incomplete or metadata-only).",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Helpful runtime error handling not clearly detected.",
+        "Limited evidence of token-frugality controls (limits/optional fields).",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P1",
+      "severity_score": 12
+    },
+    {
+      "repo": "TPRM-Frameworks-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/TPRM-Frameworks-mcp",
+      "package_name": null,
+      "version": null,
+      "has_package_json": false,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": false,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 0,
+      "findings": [
+        "No obvious runtime entrypoint found (likely incomplete or metadata-only).",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "Helpful runtime error handling not clearly detected.",
+        "Limited evidence of token-frugality controls (limits/optional fields)."
+      ],
+      "priority": "P1",
+      "severity_score": 12
+    },
+    {
+      "repo": "US_Compliance_MCP",
+      "path": "/Users/jeffreyvonrotz/Projects/US_Compliance_MCP",
+      "package_name": "@ansvar/us-regulations-mcp",
+      "version": "1.2.5",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": true,
+      "runtime_tools": [
+        "about",
+        "check_applicability",
+        "compare_requirements",
+        "get_breach_notification_timeline",
+        "get_compliance_action_items",
+        "get_definitions",
+        "get_evidence_requirements",
+        "get_section",
+        "list_regulations",
+        "map_controls",
+        "search_regulations"
+      ],
+      "manifest_tools": [
+        "check_applicability",
+        "compare_requirements",
+        "get_breach_notification_timeline",
+        "get_compliance_action_items",
+        "get_definitions",
+        "get_evidence_requirements",
+        "get_section",
+        "list_regulations",
+        "map_controls",
+        "search_regulations"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": true,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.eu",
+        "security@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 49,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 2,
+      "findings": [
+        "Runtime exposes tools missing in manifest: ['about']",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Troubleshooting guidance not clearly documented.",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P1",
+      "severity_score": 12
+    },
+    {
+      "repo": "Automotive-MCP",
+      "path": "/Users/jeffreyvonrotz/Projects/Automotive-MCP",
+      "package_name": "@ansvar/automotive-cybersecurity-mcp",
+      "version": "1.0.1",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": true,
+      "runtime_tools": [
+        "about",
+        "export_compliance_matrix",
+        "get_requirement",
+        "list_sources",
+        "list_work_products",
+        "search_requirements"
+      ],
+      "manifest_tools": [
+        "export_compliance_matrix",
+        "get_requirement",
+        "list_sources",
+        "list_work_products",
+        "search_requirements"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": true,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.eu",
+        "jeffrey@ansvar.ai",
+        "security@ansvar.ai"
+      ],
+      "example_prompt_count_estimate": 3,
+      "has_troubleshooting": true,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 2,
+      "findings": [
+        "Runtime exposes tools missing in manifest: ['about']",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 11
+    },
+    {
+      "repo": "EU_compliance_MCP",
+      "path": "/Users/jeffreyvonrotz/Projects/EU_compliance_MCP",
+      "package_name": "@ansvar/eu-regulations-mcp",
+      "version": "1.0.0",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": true,
+      "runtime_tools": [
+        "about",
+        "check_applicability",
+        "compare_requirements",
+        "get_article",
+        "get_definitions",
+        "get_evidence_requirements",
+        "get_recital",
+        "list_regulations",
+        "map_controls",
+        "search_regulations"
+      ],
+      "manifest_tools": [
+        "check_applicability",
+        "compare_requirements",
+        "get_article",
+        "get_definitions",
+        "get_evidence_requirements",
+        "get_recital",
+        "list_regulations",
+        "map_controls",
+        "search_regulations"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": true,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 9,
+      "has_troubleshooting": true,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 3,
+      "findings": [
+        "Runtime exposes tools missing in manifest: ['about']",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 11
+    },
+    {
+      "repo": "client_context_mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/client_context_mcp",
+      "package_name": "client-context-mcp",
+      "version": "0.1.0",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": false,
+      "has_runtime_entry": true,
+      "runtime_tools": [],
+      "manifest_tools": [
+        "clear_all_data",
+        "extract_context",
+        "get_context_metadata",
+        "has_control",
+        "parse_document",
+        "search_context",
+        "update_extraction"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": true,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 2,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "Helpful runtime error handling not clearly detected.",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 11
+    },
+    {
+      "repo": "mcp-sqlite",
+      "path": "/Users/jeffreyvonrotz/Projects/mcp-sqlite",
+      "package_name": "@ansvar/mcp-sqlite",
+      "version": "1.0.3",
+      "has_package_json": true,
+      "has_manifest_json": false,
+      "has_server_json": false,
+      "has_runtime_entry": true,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": false,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 0,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Support/contact channel not clearly documented.",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "Helpful runtime error handling not clearly detected.",
+        "Limited evidence of token-frugality controls (limits/optional fields).",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 11
+    },
+    {
+      "repo": "threat-intel-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/threat-intel-mcp",
+      "package_name": null,
+      "version": null,
+      "has_package_json": false,
+      "has_manifest_json": true,
+      "has_server_json": false,
+      "has_runtime_entry": false,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.eu",
+        "security@ansvar.systems"
+      ],
+      "example_prompt_count_estimate": 34,
+      "has_troubleshooting": true,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 0,
+      "findings": [
+        "No obvious runtime entrypoint found (likely incomplete or metadata-only).",
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Helpful runtime error handling not clearly detected.",
+        "Limited evidence of token-frugality controls (limits/optional fields).",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 11
+    },
+    {
+      "repo": "STRIDE-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/STRIDE-mcp",
+      "package_name": "@ansvar/stride-patterns-mcp",
+      "version": "0.2.0",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": false,
+      "has_runtime_entry": true,
+      "runtime_tools": [],
+      "manifest_tools": [
+        "classify_technology",
+        "filter_by_tags",
+        "find_patterns_by_reference",
+        "get_available_filters",
+        "get_database_stats",
+        "get_dfd_taxonomy",
+        "get_pattern",
+        "list_patterns",
+        "search_mitigations",
+        "search_patterns",
+        "suggest_trust_boundaries"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": true,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.eu",
+        "security@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 2,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 10
+    },
+    {
+      "repo": "Slovenian-law-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/Slovenian-law-mcp",
+      "package_name": "@ansvar/slovenian-law-mcp",
+      "version": "1.0.0",
+      "has_package_json": true,
+      "has_manifest_json": false,
+      "has_server_json": true,
+      "has_runtime_entry": true,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [
+        "hello@ansvar.ai"
+      ],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 3,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Support/contact channel not clearly documented.",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "Helpful runtime error handling not clearly detected.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 10
+    },
+    {
+      "repo": "Dutch-law-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/Dutch-law-mcp",
+      "package_name": "@ansvar/dutch-law-mcp",
+      "version": "1.0.0",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": true,
+      "runtime_tools": [
+        "build_legal_stance",
+        "check_currency",
+        "format_citation",
+        "get_dutch_implementations",
+        "get_eu_basis",
+        "get_preparatory_works",
+        "get_provision",
+        "get_provision_at_date",
+        "get_provision_eu_basis",
+        "search_case_law",
+        "search_eu_implementations",
+        "search_legislation",
+        "validate_citation",
+        "validate_eu_compliance"
+      ],
+      "manifest_tools": [
+        "build_legal_stance",
+        "check_currency",
+        "format_citation",
+        "get_dutch_implementations",
+        "get_eu_basis",
+        "get_preparatory_works",
+        "get_provision",
+        "get_provision_at_date",
+        "get_provision_eu_basis",
+        "search_case_law",
+        "search_eu_implementations",
+        "search_legislation",
+        "validate_citation",
+        "validate_eu_compliance"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": true,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": true,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.ai",
+        "hello@ansvar.eu",
+        "privacy@anthropic.com"
+      ],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": false,
+      "token_frugality_signal_score": 3,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "Helpful runtime error handling not clearly detected.",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 9
+    },
+    {
+      "repo": "GLEIF-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/GLEIF-mcp",
+      "package_name": "@ansvar/gleif-mcp",
+      "version": "1.0.0",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": true,
+      "runtime_tools": [
+        "get_health",
+        "search_entity",
+        "verify_lei"
+      ],
+      "manifest_tools": [
+        "get_health",
+        "search_entity",
+        "verify_lei"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": true,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 8,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 2,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Troubleshooting guidance not clearly documented.",
+        "Remote-like server has no obvious OAuth 2.0 documentation/configuration.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 9
+    },
+    {
+      "repo": "template-law-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/template-law-mcp",
+      "package_name": "template-law-mcp",
+      "version": "0.1.0",
+      "has_package_json": true,
+      "has_manifest_json": false,
+      "has_server_json": false,
+      "has_runtime_entry": true,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 2,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Support/contact channel not clearly documented.",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 9
+    },
+    {
+      "repo": "German-law-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/German-law-mcp",
+      "package_name": "@ansvar/german-law-mcp",
+      "version": "0.1.0",
+      "has_package_json": true,
+      "has_manifest_json": false,
+      "has_server_json": false,
+      "has_runtime_entry": true,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": false
+      },
+      "support_contacts": [],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 2,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 8
+    },
+    {
+      "repo": "mcp-server-template",
+      "path": "/Users/jeffreyvonrotz/Projects/mcp-server-template",
+      "package_name": "@ansvar/your-mcp-server",
+      "version": "0.1.0",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": false,
+      "has_runtime_entry": true,
+      "runtime_tools": [],
+      "manifest_tools": [],
+      "smithery_tools": [
+        "get_item",
+        "list_sources",
+        "lookup_definition",
+        "search_content"
+      ],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.ai",
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 0,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 4,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Fewer than 3 prompt/use-case examples detected in README.",
+        "Troubleshooting guidance not clearly documented."
+      ],
+      "priority": "P2",
+      "severity_score": 7
+    },
+    {
+      "repo": "nordic-law-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/nordic-law-mcp",
+      "package_name": "@ansvar/nordic-law-mcp",
+      "version": "0.1.0",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": false,
+      "has_runtime_entry": true,
+      "runtime_tools": [],
+      "manifest_tools": [
+        "get_item",
+        "list_sources",
+        "lookup_definition",
+        "search_content"
+      ],
+      "smithery_tools": [
+        "compare_jurisdictions",
+        "get_definitions",
+        "get_section",
+        "list_statutes",
+        "search_laws"
+      ],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": false,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.ai",
+        "hello@ansvar.eu"
+      ],
+      "example_prompt_count_estimate": 4,
+      "has_troubleshooting": false,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 4,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap).",
+        "Troubleshooting guidance not clearly documented.",
+        "No standard testing account/sample-data instructions detected for directory review."
+      ],
+      "priority": "P2",
+      "severity_score": 7
+    },
+    {
+      "repo": "ot-security-mcp",
+      "path": "/Users/jeffreyvonrotz/Projects/ot-security-mcp",
+      "package_name": "@ansvar/ot-security-mcp",
+      "version": "0.4.0",
+      "has_package_json": true,
+      "has_manifest_json": true,
+      "has_server_json": true,
+      "has_runtime_entry": true,
+      "runtime_tools": [
+        "get_mitre_ics_technique",
+        "get_ot_requirement",
+        "get_requirement_rationale",
+        "get_zone_conduit_guidance",
+        "list_ot_standards",
+        "map_security_level_requirements",
+        "search_ot_requirements"
+      ],
+      "manifest_tools": [
+        "get_mitre_ics_technique",
+        "get_ot_requirement",
+        "get_requirement_rationale",
+        "get_zone_conduit_guidance",
+        "list_ot_standards",
+        "map_security_level_requirements",
+        "search_ot_requirements"
+      ],
+      "smithery_tools": [],
+      "has_tool_annotations": false,
+      "has_streamable_http": false,
+      "has_oauth2_signals": false,
+      "docs": {
+        "README.md": true,
+        "PRIVACY.md": false,
+        "SECURITY.md": true,
+        "CONTRIBUTING.md": true
+      },
+      "support_contacts": [
+        "hello@ansvar.eu",
+        "info@ansvar.eu",
+        "jane@example.com",
+        "security@ansvar.eu",
+        "your.email@example.com"
+      ],
+      "example_prompt_count_estimate": 21,
+      "has_troubleshooting": true,
+      "has_helpful_error_handling": true,
+      "token_frugality_signal_score": 3,
+      "findings": [
+        "Missing required MCP tool annotations (readOnlyHint/destructiveHint/title).",
+        "Missing PRIVACY.md (privacy policy/documentation gap)."
+      ],
+      "priority": "P3",
+      "severity_score": 5
+    }
+  ]
+}

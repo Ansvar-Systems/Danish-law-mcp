@@ -1,0 +1,34 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "eu.ansvar/danish-law-mcp",
+  "description": "Query Danish laws and regulations, EU cross-references, case law, and preparatory works",
+  "repository": {
+    "url": "https://github.com/Ansvar-Systems/Denmark-law-mcp",
+    "source": "github"
+  },
+  "homepage": "https://ansvar.eu",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "keywords": [
+    "danish-law",
+    "denmark",
+    "legal",
+    "retsinformation",
+    "lovtidende",
+    "compliance",
+    "gdpr",
+    "eu-law",
+    "databeskyttelsesloven",
+    "mcp"
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@ansvar/danish-law-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

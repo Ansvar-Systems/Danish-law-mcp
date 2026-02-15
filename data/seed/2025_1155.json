@@ -1,0 +1,1177 @@
+{
+  "id": "2025:1155",
+  "type": "statute",
+  "title": "Bekendtgørelse om indberetningspligt for udbydere af kryptoaktivtjenester",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2025-09-10",
+  "url": "https://www.retsinformation.dk/eli/lta/2025/1155/xml",
+  "description": "Retsinformation source. DocumentId=AN017009; AccessionNumber=B20250115505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Udtrykkene med stort begyndelsesbogstav i denne bekendtgørelse skal tillægges den betydning, de har i henhold til dette kapitel. Stk. 2. Ethvert andet begreb, som er defineret i OECD’s ramme for indberetning vedrørende kryptoaktiver (Crypto-Asset Reporting Framework), herunder kommentarerne hertil, og som ikke er defineret i denne bekendtgørelse, skal fortolkes og anvendes i overensstemmelse med denne ramme."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. »Kryptoaktiv« betyder et kryptoaktiv som defineret i artikel 3, stk. 1, nr. 5, i forordning (EU) 2023/1114."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. »Digital centralbankvaluta« betyder enhver form for digital Fiatvaluta udstedt af en Centralbank eller en anden monetær myndighed."
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. »Centralbank« betyder en institution, der ved lov eller offentlig godkendelse er den øverste myndighed, bortset fra jurisdiktionens regering, og som udsteder instrumenter, der skal sættes i omløb som valuta. En sådan bank kan omfatte en institution, der er adskilt fra jurisdiktionens regering, uanset om den ejes helt eller delvist af jurisdiktionen."
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "§ 5. »Indberetningspligtigt Kryptoaktiv« betyder enhver form for Kryptoaktiver, som ikke er Digitale centralbankvalutaer, Elektroniske penge eller enhver anden form for Kryptoaktiver, for hvilke den Indberetningspligtige Udbyder af Kryptoaktivtjenester har slået tilstrækkeligt fast, at de ikke kan bruges til betalings- eller investeringsformål."
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "§ 6. »Elektroniske penge« eller »E-penge« betyder ethvert Kryptoaktiv, der 1) er en digital repræsentation af en enkelt Fiatvaluta, 2) udstedes ved modtagelse af midler med henblik på gennemførelse af betalingstransaktioner, 3) er repræsenteret ved et krav på udstederen denomineret i samme Fiatvaluta, 4) accepteres som betaling af en anden fysisk eller juridisk person end udstederen og 5) i henhold til de lovgivningsmæssige krav, som udsteder er underlagt, kan indløses til enhver tid og til pariværdi for samme Fiatvaluta efter anmodning fra indehaveren af produktet. Stk. 2. Udtrykket »Elektroniske penge« eller »E-penge« omfatter ikke produkter, der udelukkende er skabt med det formål at lette overførslen af midler fra en kunde til en anden person efter kundens instrukser. Et produkt er ikke skabt udelukkende med det formål at lette overførslen af midler, hvis de midler, der er forbundet med et sådant produkt – som led i den overførende Enheds sædvanlige forretningsvirksomhed – opbevares længere end 60 dage efter modtagelsen af instrukser om at lette overførslen, eller, hvis disse midler i tilfælde af manglende instrukser opbevares længere end 60 dage efter modtagelsen af midlerne."
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "§ 7. »Udbyder af Kryptoaktivtjenester« betyder en udbyder af kryptoaktivtjenester som defineret i artikel 3, stk. 1, nr. 15, i forordning (EU) 2023/1114."
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "§ 8. »Kryptoaktivoperatør« betyder en kryptoaktivtjenesteudbyder, som ikke er en Udbyder af Kryptoaktivtjenester efter § 7."
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "§ 9. »Indberetningspligtig Udbyder af Kryptoaktivtjenester« betyder Udbydere af Kryptoaktivtjenester og Kryptoaktivoperatører, som udfører en eller flere Kryptoaktivtjenester, der gennemfører Vekslingstransaktioner for eller på vegne af en Bruger, hvorom der skal indberettes."
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "§ 10. »Kryptoaktivtjenester« betyder kryptoaktivtjenester som defineret i artikel 3, stk. 1, nr. 16, i forordning (EU) 2023/1114, herunder staking og udlån."
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "§ 11. »Indberetningspligtig transaktion« betyder enhver vekslingstransaktion og enhver overførsel af Indberetningspligtige Kryptoaktiver."
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "§ 12. »Vekslingstransaktion« betyder enhver veksling mellem Indberetningspligtige Kryptoaktiver og Fiatvalutaer og enhver veksling mellem en eller flere former for Indberetningspligtige Kryptoaktiver."
+    },
+    {
+      "provision_ref": "1:13",
+      "chapter": "1",
+      "section": "13",
+      "content": "§ 13. »Indberetningspligtig Detailbetalingstransaktion« betyder en Overførsel af Indberetningspligtige Kryptoaktiver som modydelse for varer eller tjenester til en værdi på mere end 50.000 USD (eller det tilsvarende beløb i en anden valuta)."
+    },
+    {
+      "provision_ref": "1:14",
+      "chapter": "1",
+      "section": "14",
+      "content": "§ 14. »Overførsel« betyder en transaktion, hvorved et Indberetningspligtigt Kryptoaktiv flyttes fra eller til en Kryptoaktivbrugers Kryptoaktivadresse eller -konto, bortset fra en adresse eller konto, der føres af den Indberetningspligtige Udbyder af Kryptoaktivtjenester på vegne af samme Kryptoaktivbruger, hvor den Indberetningspligtige Udbyder af Kryptoaktivtjenester på grundlag af viden til rådighed for denne på tidspunktet for transaktionen ikke kan fastslå, at transaktionen er en Vekslingstransaktion."
+    },
+    {
+      "provision_ref": "1:15",
+      "chapter": "1",
+      "section": "15",
+      "content": "§ 15. »Fiatvaluta« betyder en officiel valuta i en jurisdiktion, som er udstedt af en jurisdiktion eller af en jurisdiktions udpegede Centralbank eller monetære myndighed, og som udgøres af fysiske pengesedler eller mønter eller af penge i forskellige digitale former, herunder bankreserver og Digitale centralbankvalutaer. Udtrykket omfatter også forretningsbankpenge og elektroniske pengeprodukter (Elektroniske penge)."
+    },
+    {
+      "provision_ref": "1:16",
+      "chapter": "1",
+      "section": "16",
+      "content": "§ 16. »Bruger, hvorom der skal indberettes« betyder en Kryptoaktivbruger, som er en Person, hvorom der skal indberettes."
+    },
+    {
+      "provision_ref": "1:17",
+      "chapter": "1",
+      "section": "17",
+      "content": "§ 17. »Kryptoaktivbruger« betyder en fysisk person eller Enhed, som er kunde hos en Indberetningspligtig Udbyder af Kryptoaktivtjenester med det formål at foretage Indberetningspligtige Transaktioner. Stk. 2. En fysisk person eller Enhed, der ikke er et Finansielt institut eller en Indberetningspligtig Udbyder af Kryptoaktivtjenester, og som handler som Kryptoaktivbruger til fordel for eller for regning af en anden fysisk person eller Enhed som befuldmægtiget, depositar, forvalter, underskriftsberettiget, investeringsrådgiver eller mellemmand, behandles ikke som Kryptoaktivbruger. Den pågældende anden fysisk person eller Enhed behandles som Kryptoaktivbrugeren. Stk. 3. Hvis en Indberetningspligtig Udbyder af Kryptoaktivtjenester leverer en tjeneste, hvor der foretages en Indberetningspligtig Detailbetalingstransaktion for eller på vegne af en handlende, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester også behandle den kunde, som er den handlendes modpart i en sådan Indberetningspligtig Detailbetalingstransaktion, som Kryptoaktivbruger, for så vidt angår den Indberetningspligtige Detailbetalingstransaktion. 1. pkt. gælder alene i det omfang, den Indberetningspligtige Udbyder af Kryptoaktivtjenester er forpligtet til at kontrollere identiteten på en sådan kunde i forbindelse med den Indberetningspligtige Detailbetalingstransaktion i henhold til nationale regler om bekæmpelse af hvidvask af penge."
+    },
+    {
+      "provision_ref": "1:18",
+      "chapter": "1",
+      "section": "18",
+      "content": "§ 18. »Individuel Kryptoaktivbruger« betyder en Kryptoaktivbruger, som er en fysisk person."
+    },
+    {
+      "provision_ref": "1:19",
+      "chapter": "1",
+      "section": "19",
+      "content": "§ 19. »Allerede eksisterende Individuel Kryptoaktivbruger« betyder en Individuel Kryptoaktivbruger, der har etableret et forhold med den Indberetningspligtige Udbyder af Kryptoaktivtjenester gældende fra og med den 31. december 2025."
+    },
+    {
+      "provision_ref": "1:20",
+      "chapter": "1",
+      "section": "20",
+      "content": "§ 20. »Enhed, som er Kryptoaktivbruger« betyder en Kryptoaktivbruger, som er en Enhed."
+    },
+    {
+      "provision_ref": "1:21",
+      "chapter": "1",
+      "section": "21",
+      "content": "§ 21. »Allerede eksisterende Enhed, som er Kryptoaktivbruger« betyder en Enhed, som er en Kryptoaktivbruger, og som har etableret et forhold med den Indberetningspligtige Udbyder af Kryptoaktivtjenester gældende fra og med den 31. december 2025."
+    },
+    {
+      "provision_ref": "1:22",
+      "chapter": "1",
+      "section": "22",
+      "content": "§ 22. »Person, hvorom der skal indberettes« betyder en Person i en i Relevant jurisdiktion, som ikke er en Undtagen Person."
+    },
+    {
+      "provision_ref": "1:23",
+      "chapter": "1",
+      "section": "23",
+      "content": "§ 23. »Relevant jurisdiktion« betyder: 1) En EU-medlemsstat, som er optaget på liste A i bilag 1. 2) Enhver jurisdiktion, a) med hvilken der er en aftale eller et arrangement i kraft, efter hvilken Danmark er forpligtet til at sende de oplysninger, der er specificeret i kapitel 3, med hensyn til Personer, hvorom der skal indberettes, der er skattemæssigt hjemmehørende i en sådan jurisdiktion, og b) som er optaget på liste B i bilag 1."
+    },
+    {
+      "provision_ref": "1:24",
+      "chapter": "1",
+      "section": "24",
+      "content": "§ 24. »Person i en Relevant jurisdiktion« betyder en Enhed eller en fysisk person, der er skattemæssigt hjemmehørende i en Relevant jurisdiktion i henhold til skattelovgivningen i denne jurisdiktion, eller et bo efter en afdød person, der var skattemæssigt hjemmehørende i en Relevant jurisdiktion. Stk. 2. Ved anvendelsen af stk. 1 skal en Enhed som f.eks. et interessentskab, et kommanditselskab eller lignende juridisk ordning, der ikke har noget skattemæssigt hjemsted, behandles som skattemæssigt hjemmehørende i den jurisdiktion, hvor stedet for dens faktiske ledelse er beliggende."
+    },
+    {
+      "provision_ref": "1:25",
+      "chapter": "1",
+      "section": "25",
+      "content": "§ 25. » Kontrollerende Personer« betyder fysiske personer, der udøver kontrol over en Enhed. Stk. 2. For så vidt angår trusts betyder udtrykket » Kontrollerende Personer« stifter eller stiftere, forvalter eller forvaltere, en eventuel protektor eller protektorer, den eller de begunstigede eller klasse eller klasser af begunstigede og en eller flere andre fysiske personer, der i sidste instans udøver reel kontrol over trusten, og for så vidt angår en anden juridisk ordning end en trust betyder udtrykket en person i en tilsvarende eller lignende stilling. Stk. 3. Udtrykket »Kontrollerende Person« skal fortolkes på en måde, der stemmer overens med udtrykket »reel ejer« som defineret i artikel 3, nr. 6, i direktiv (EU) 2015/849, for så vidt angår Indberetningspligtige Udbydere af Kryptoaktivtjenester, og på en måde, der stemmer overens med anbefalingerne af 2012 fra Financial Action Task Force, som opdateret i juni 2019 vedrørende udbydere af virtuelle aktiver."
+    },
+    {
+      "provision_ref": "1:26",
+      "chapter": "1",
+      "section": "26",
+      "content": "§ 26. »Aktiv Enhed« betyder en Enhed der opfylder et eller flere af følgende kriterier: 1) Mindre end 50 pct. af Enhedens bruttoindkomst for det foregående kalenderår eller anden relevant indberetningsperiode er passiv indkomst, og mindre end 50 pct af aktiverne ejet af Enheden i det foregående kalenderår eller anden relevant indberetningsperiode er aktiver, som genererer eller ejes med henblik på at generere passiv indkomst. 2) Praktisk taget alle aktiviteterne i Enheden består i (helt eller delvis) at eje den udstedte beholdning af aktier i, eller yde finansiering og tjenesteydelser til, et eller flere datterselskaber, der driver anden handel eller forretningsvirksomhed end virksomhed som Finansielt institut, bortset fra, at en Enhed ikke er kvalificeret til denne status, hvis Enheden fungerer som (eller foregiver at være) en investeringsfond, som f.eks. en private equity-fond, venturekapitalfond, leveraged buyout-fond eller et investeringsinstrument, der har til formål at erhverve eller finansiere selskaber og derefter eje aktieposter i disse selskaber som anlægsaktiver til investeringsformål. 3) Enheden driver endnu ikke forretningsvirksomhed og har ingen tidligere driftshistorie, men investerer kapital i aktiver med det formål at drive anden forretningsvirksomhed end virksomhed som Finansielt institut, forudsat at Enheden ikke er berettiget til denne undtagelse efter den dato, der ligger 24 måneder efter datoen for den oprindelige oprettelse af Enheden. 4) Enheden har ikke været et Finansielt institut i de seneste fem år og er i færd med at afvikle sine aktiver eller er under omstrukturering med det formål at fortsætte eller genoptage driften af anden forretningsvirksomhed end virksomhed som Finansielt institut. 5) Enheden er hovedsagelig beskæftiget med finansiering og hedgingtransaktioner med eller for Tilknyttede enheder, der ikke er Finansielle institutter, og yder ikke finansiering eller hedgingydelser til nogen Enhed, der ikke er en Tilknyttet enhed, forudsat at den gruppe af sådanne Tilknyttede enheder hovedsagelig driver anden forretningsvirksomhed end virksomhed som Finansielt institut. 6) Enheden opfylder alle følgende krav: a) Den er etableret og drives i den jurisdiktion, hvor den er hjemmehørende, udelukkende til religiøse, velgørende, videnskabelige, kunstneriske, kulturelle, sports- eller uddannelsesmæssige formål eller den er etableret og drives i den jurisdiktion, hvor den er hjemmehørende, og er en faglig organisation, et erhvervsforbund, et handelskammer, en fagforening, en landbrugs- eller havebrugsorganisation, en borgerforening eller en organisation, der udelukkende drives til fremme af social velfærd. b) Den er fritaget for indkomstskat i den jurisdiktion, hvor den er hjemmehørende. c) Den har ingen aktionærer eller medlemmer, der har ejerskab eller retmæssig andel i dens indkomst eller aktiver. d) Den gældende ret i den jurisdiktion, hvor Enheden er hjemmehørende, eller Enhedens stiftelsesdokumenter tillader ikke nogen del af Enhedens indkomst eller aktiver at blive udloddet til eller anvendt til fordel for en privatperson eller ikke-velgørende Enhed, bortset fra, hvad der følger af udøvelsen af Enhedens velgørende aktiviteter, eller som betaling af et rimeligt vederlag for leverede tjenesteydelser, eller som betaling, der repræsenterer den rimelige markedsværdi af ejendom eller ejendele, som Enheden har købt. e) Den gældende ret i den jurisdiktion, hvor Enheden er hjemmehørende, eller Enhedens stiftelsesdokumenter kræver, at alle Enhedens aktiver ved enhedens likvidation eller opløsning skal udloddes til en Offentlig enhed eller anden nonprofitorganisation eller tilfalde regeringen i den jurisdiktion, hvor Enheden er hjemmehørende, eller en politisk underafdeling deraf."
+    },
+    {
+      "provision_ref": "1:27",
+      "chapter": "1",
+      "section": "27",
+      "content": "§ 27. »Undtagen Person« betyder 1) en Enhed, hvis aktier regelmæssigt handles på et eller flere etablerede værdipapirmarkeder, 2) en Enhed, som er en Tilknyttet Enhed til en Enhed beskrevet i nr. 1, 3) en Offentlig enhed, 4) en International organisation, 5) en Centralbank, eller 6) et Finansielt institut, bortset fra en Investeringsenhed som beskrevet i § 31, stk. 1, nr. 2."
+    },
+    {
+      "provision_ref": "1:28",
+      "chapter": "1",
+      "section": "28",
+      "content": "§ 28. »Finansielt institut« betyder et Forvaltningsinstitut, et Indskudsinstitut, en Investeringsenhed eller et Specificeret forsikringsselskab."
+    },
+    {
+      "provision_ref": "1:29",
+      "chapter": "1",
+      "section": "29",
+      "content": "§ 29. »Forvaltningsinstitut« (Custodial Institution) betyder en Enhed, der som en væsentlig del af sin forretningsvirksomhed besidder Finansielle aktiver for andres regning. Stk. 2. En Enhed besidder Finansielle aktiver for andres regning som en væsentlig del af sin forretningsvirksomhed, hvis Enhedens bruttoindkomst, der kan henføres til besiddelse af Finansielle aktiver og dertil knyttede finansielle tjenesteydelser, svarer til eller overstiger 20 pct. af Enhedens bruttoindkomst i den korteste af følgende perioder: 1) den treårige periode, som slutter den 31. december (eller den sidste dag af en regnskabsperiode, som ikke følger kalenderåret) forud for det år, hvor fastsættelsen sker, eller 2) den periode, hvor Enheden har eksisteret."
+    },
+    {
+      "provision_ref": "1:30",
+      "chapter": "1",
+      "section": "30",
+      "content": "§ 30. »Indskudsinstitut« (Depository Institution) betyder en Enhed, der 1) accepterer indskud som et sædvanligt led i bankvirksomhed eller lignende forretningsvirksomhed, eller 2) opbevarer Elektroniske penge eller Digitale centralbankvalutaer for kunderne."
+    },
+    {
+      "provision_ref": "1:31",
+      "chapter": "1",
+      "section": "31",
+      "content": "§ 31. »Investeringsenhed« (Investment Entity) betyder en Enhed 1) der som led i forretningsvirksomhed hovedsagelig udfører en eller flere af følgende aktiviteter eller operationer for eller på vegne af en kunde a) handel med pengemarkedsinstrumenter (dvs. checks, veksler, indskudsbeviser, derivater mv.), valutaveksling, børs-, rente- og indeksinstrumenter, omsættelige værdipapirer eller råvareterminskontrakter, b) individuel og kollektiv porteføljeforvaltning, eller c) anden form for investering, administration eller forvaltning af Finansielle aktiver, penge eller Indberetningspligtige Kryptoaktiver, der skal indberettes, på vegne af andre personer, eller 2) hvis bruttoindkomst hovedsagelig kan tilskrives investering, geninvestering eller handel med Finansielle aktiver eller Indberetningspligtige Kryptoaktiver, hvis Enheden forvaltes af en anden Enhed, som er et Indskudsinstitut, et Forvaltningsinstitut, et Specificeret forsikringsselskab eller en Investeringsenhed som beskrevet i nr. 1. Stk. 2. En Enhed anses for som led i forretningsvirksomhed hovedsagelig at udføre en eller flere af de aktiviteter, der er beskrevet i stk. 1, nr. 1, eller en Enheds bruttoindkomst kan hovedsagelig tilskrives investering, geninvestering eller handel med Finansielle aktiver eller Indberetningspligtige Kryptoaktiver til de formål, der er nævnt i stk. 1, nr. 2, hvis Enhedens bruttoindkomst, der kan henføres til de relevante aktiviteter, svarer til eller overstiger 50 pct. af Enhedens bruttoindkomst i den korteste af følgende perioder 1) den treårige periode, som slutter den 31. december i det år, der går forud for det år, hvor fastsættelsen sker, eller 2) den periode, hvor Enheden har eksisteret. Stk. 3. Udtrykket »anden form for investering, administration eller forvaltning af Finansielle aktiver, penge eller Indberetningspligtige Kryptoaktiver på vegne af andre personer« i stk. 1, litra c, omfatter ikke levering af tjenester, hvor der foretages Vekslingstransaktioner for eller på vegne af kunder. Stk. 4. Udtrykket »Investeringsenhed« omfatter ikke en Enhed, som er en Aktiv Enhed, fordi den pågældende Enhed opfylder en eller flere af betingelserne i § 26, nr. 2-5. Stk. 5. Stk. 1-4 skal fortolkes på en måde, der er i overensstemmelse med ordlyden i definitionen af »finansieringsinstitut« i artikel 3, nr. 2, i direktiv (EU) 2015/849 og definitionen af »finansielt institut« (financial institution) i anbefalingerne fra Financial Action Task Force."
+    },
+    {
+      "provision_ref": "1:32",
+      "chapter": "1",
+      "section": "32",
+      "content": "§ 32. »Specificeret forsikringsselskab« (Specified Insurance Company) betyder en Enhed, som er et forsikringsselskab (eller holdingselskab til et forsikringsselskab), som udsteder, eller er forpligtet til at foretage betalinger med hensyn til, en Forsikringsaftale med kontantværdi (Cash Value Insurance Contract) eller en Annuitetsaftale."
+    },
+    {
+      "provision_ref": "1:33",
+      "chapter": "1",
+      "section": "33",
+      "content": "§ 33. »Offentlig enhed« betyder en jurisdiktions regering, en politisk underinddeling af en jurisdiktion (hvilket omfatter stat, provins, region eller kommune) eller en myndighed eller anden institution, der ejes fuldt ud af en jurisdiktion eller af en eller flere af ovenstående Offentlige enheder. Denne kategori består af integrerende dele, kontrollerede enheder og politiske underinddelinger af en jurisdiktion. 1) En »integrerende del« af en jurisdiktion betyder en person, en organisation, en myndighed, et kontor, en fond, en institution eller et andet organ, uanset betegnelsen, der udgør en styrende myndighed i en jurisdiktion. Den styrende myndigheds nettoindtjening skal godskrives dens egen konto eller andre konti, der tilhører denne jurisdiktion, uden at nogen del kommer en privatperson til gode. En integrerende del omfatter ikke en fysisk person, der er statsoverhoved, embedsmand eller administrator, som handler i privat eller personlig egenskab. 2) En »kontrolleret enhed« betyder en Enhed, der i sin form er adskilt fra jurisdiktionen, eller som på anden vis udgør en særskilt juridisk enhed, forudsat at a) Enheden ejes fuldt ud og kontrolleres direkte af en eller flere Offentlige enheder eller gennem en eller flere kontrollerede enheder, b) Enhedens nettoindtjening godskrives dens egen konto eller konti, der tilhører en eller flere Offentlige enheder, uden at nogen del af indkomsten tilskrives en privatperson, og c) Enhedens aktiver ved opløsning tilfalder en eller flere Offentlige enheder. 3) Indkomst kommer ikke privatpersoner til gode, hvis disse personer er de tilsigtede modtagere af et offentligt program, og programmets aktiviteter udføres over for offentligheden i almenhedens interesse eller vedrører forvaltningen af et offentligt tiltag. Uanset 1. pkt. anses indkomst for at komme privatpersoner til gode, hvis indkomsten stammer fra anvendelsen af en offentlig enhed til at udføre erhvervsmæssig virksomhed, som f.eks. kommerciel bankvirksomhed, som leverer finansielle tjenesteydelser til privatpersoner."
+    },
+    {
+      "provision_ref": "1:34",
+      "chapter": "1",
+      "section": "34",
+      "content": "§ 34. »International organisation« betyder en international organisation eller en myndighed eller institution, der ejes fuldt ud heraf. Denne kategori omfatter enhver mellemstatslig organisation (herunder en overstatslig organisation), 1) der hovedsagelig består af regeringer, 2) der i praksis har en hjemstedsaftale eller en i alt væsentligt tilsvarende aftale med jurisdiktionen, og 3) hvorfra indkomsten ikke kommer privatpersoner til gode."
+    },
+    {
+      "provision_ref": "1:35",
+      "chapter": "1",
+      "section": "35",
+      "content": "§ 35. Udtrykket »Finansielt aktiv« omfatter: 1) Værdipapirer som f.eks. kapitalandele i et aktieselskab, andele eller ejerinteresser i et interessentskab, der har udvidet ejerkreds eller er børsnoteret, eller en trust, obligationer, lånebeviser, gældsbreve eller tilsvarende gældsbeviser. 2) Andele i et interessentskab, råvarer, swaps som f.eks. renteswaps, valutaswaps, basisswaps, rentelofter, rentegulve, råvareswaps, aktieswaps, aktieindeksswaps og lignende aftaler. 3) Forsikringsaftaler eller Annuitetsaftaler. 4) Andele, (herunder en futureskontrakt, en terminskontrakt eller en option) i værdipapirer, Indberetningspligtige Kryptoaktiver, interessentskaber, råvarer, swaps, Forsikringsaftaler eller Annuitetsaftaler. Stk. 2. »Finansielt aktiv« omfatter ikke en ikkegældsbaseret, direkte andel i fast ejendom."
+    },
+    {
+      "provision_ref": "1:36",
+      "chapter": "1",
+      "section": "36",
+      "content": "§ 36. »Andel i egenkapital« betyder, for så vidt angår et interessentskab, der er et Finansielt institut, enten andel i kapital eller andel i overskud i interessentskabet. Stk. 2. For så vidt angår en trust, der er et Finansielt institut, anses en Andel i egenkapital for at være besiddet af en person, der behandles som stifter eller berettiget i hele eller en del af trusten, eller en anden fysisk person, der udøver endelig effektiv kontrol over trusten. En Person, hvorom der skal indberettes, behandles som værende berettiget i en trust, hvis en sådan Person, hvorom der skal indberettes, har ret til direkte eller indirekte (for eksempel gennem en forvalter) at modtage en pligtmæssig udlodning eller direkte eller indirekte kan modtage en skønsmæssig udlodning fra trusten."
+    },
+    {
+      "provision_ref": "1:37",
+      "chapter": "1",
+      "section": "37",
+      "content": "§ 37. »Forsikringsaftale« betyder en aftale (bortset fra en Annuitetsaftale), i henhold til hvilken udstederen accepterer at betale et beløb ved indtræden af en specificeret hændelse, der omfatter døds-, sygdoms-, ulykkes-, ansvars- eller ejendomsrisiko."
+    },
+    {
+      "provision_ref": "1:38",
+      "chapter": "1",
+      "section": "38",
+      "content": "§ 38. »Annuitetsaftale« betyder en aftale, i henhold til hvilken udstederen accepterer at foretage udbetalinger i en tidsperiode, der helt eller delvis fastsættes under hensyn til en eller flere fysiske personers forventede levetid. Stk. 2. Udtrykket »Annuitetsaftale« omfatter også en aftale, der anses for en Annuitetsaftale i henhold til lov, forskrift eller praksis i den jurisdiktion, hvor aftalen er udstedt, og i henhold til hvilken udstederen accepterer at foretage betalinger i en årrække."
+    },
+    {
+      "provision_ref": "1:39",
+      "chapter": "1",
+      "section": "39",
+      "content": "§ 39. »Forsikringsaftale med kontantværdi« betyder en Forsikringsaftale (bortset fra en genforsikringsaftale for regresansvar mellem to forsikringsselskaber), som har en Kontantværdi."
+    },
+    {
+      "provision_ref": "1:40",
+      "chapter": "1",
+      "section": "40",
+      "content": "§ 40. »Kontantværdi« betyder det største af følgende to beløb: 1) det beløb, som forsikringstageren er berettiget til at modtage ved opsigelse eller udløb af aftalen (fastsat uden nedsættelse for en eventuel betaling i forbindelse med opsigelse eller forsikringspolicelån) og 2) det beløb, som forsikringstageren kan låne i henhold til eller under hensyn til aftalen. Stk. 2. Uanset stk. 1 omfatter udtrykket »Kontantværdi« ikke et beløb, som skal betales i henhold til en Forsikringsaftale: 1) alene som følge af, at en fysisk person, som er forsikret i henhold til en livsforsikringsaftale, er afgået ved døden, 2) i form af personskade- eller sygdomsydelser eller anden ydelse, der erstatter et økonomisk tab ved indtræden af den hændelse, der er forsikret mod, 3) i form af tilbagebetaling af en tidligere indbetalt præmie (fratrukket udgifter til forsikringsgebyrer, uanset om de er opkrævet eller ej) i henhold til en Forsikringsaftale (bortset fra en investeringstilknyttet livsforsikrings- eller annuitetsaftale) som følge af annullering eller udløb af aftalen, nedsættelse af risikoeksponering i aftalens dækningsperiode eller som følge af rettelse af posteringsfejl eller anden lignende fejl vedrørende aftalens præmie, 4) som udlodning til forsikringstager (undtagen udlodning i forbindelse med udløb), såfremt udlodningen vedrører en Forsikringsaftale, i henhold til hvilken kun de ydelser, der er beskrevet i nr. 2 skal udbetales, eller 5) i form af tilbagebetaling af en forudbetalt præmie eller et præmiedepositum for en Forsikringsaftale, for hvilken præmien skal betales mindst én gang årligt, hvis beløbet for forskudspræmien eller præmiedepositummet ikke overstiger den næste årlige præmie, der skal betales i henhold til aftalen."
+    },
+    {
+      "provision_ref": "1:41",
+      "chapter": "1",
+      "section": "41",
+      "content": "§ 41. »Due diligence procedurer i forhold til Kunder« betyder en Indberetningspligtig Udbyder af Kryptoaktivtjenesters due diligence procedurer i forhold til kunder, jf. direktiv (EU) 2015/849, eller lignende krav, som en sådan Indberetningspligtig Udbyder af Kryptoaktivtjenester er underlagt."
+    },
+    {
+      "provision_ref": "1:42",
+      "chapter": "1",
+      "section": "42",
+      "content": "§ 42. »Enhed« betyder en juridisk person eller en juridisk ordning, f.eks. et selskab, et interessentskab, et partnerskab, en trust eller en fond."
+    },
+    {
+      "provision_ref": "1:43",
+      "chapter": "1",
+      "section": "43",
+      "content": "§ 43. En Enhed er en »Tilknyttet enhed« i forhold til en anden Enhed, hvis en af Enhederne kontrollerer den anden Enhed, eller de to Enheder er under fælles kontrol. I denne henseende omfatter kontrol direkte eller indirekte ejerskab af mere end 50 pct. af stemmerne og værdien i en Enhed."
+    },
+    {
+      "provision_ref": "1:44",
+      "chapter": "1",
+      "section": "44",
+      "content": "§ 44. »Filial« betyder en enhed, en virksomhed eller et kontor for en Indberetningspligtig Udbyder af Kryptoaktivtjenester, der behandles som filial i henhold til en jurisdiktions lovgivning, eller som på anden vis reguleres under en jurisdiktions lovgivning separat fra andre kontorer, enheder eller filialer tilhørende den Indberetningspligtige Udbyder af Kryptoaktivtjenester. Alle enheder, virksomheder eller kontorer tilhørende en Indberetningspligtig Udbyder af Kryptoaktivtjenester i samme jurisdiktion behandles som en enkelt filial."
+    },
+    {
+      "provision_ref": "1:45",
+      "chapter": "1",
+      "section": "45",
+      "content": "§ 45. »Gældende Betinget Aftale Mellem Kompetente Myndigheder« betyder en aftale mellem de kompetente myndigheder i en EU-medlemsstat og en jurisdiktion uden for EU, som kræver automatisk udveksling af oplysninger svarende til dem, der er angivet i § 58, som fastsat ved en gennemførelsesretsakt i overensstemmelse med artikel 8ad, stk. 11, i Rådets direktiv 2011/16/EU om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/799/EØF med senere ændringer."
+    },
+    {
+      "provision_ref": "1:46",
+      "chapter": "1",
+      "section": "46",
+      "content": "§ 46. »Kvalificeret Jurisdiktion uden for EU« betyder en jurisdiktion uden for EU, der har en Gældende Betinget Aftale Mellem Kompetente Myndigheder, som er i kraft, med de kompetente myndigheder i alle EU-medlemsstater, der er identificeret som jurisdiktioner, hvorom der skal indberettes, på en liste offentliggjort af jurisdiktionen uden for EU."
+    },
+    {
+      "provision_ref": "1:47",
+      "chapter": "1",
+      "section": "47",
+      "content": "§ 47. »Skatteregistreringsnummer« betyder et Skatteregistreringsnummer, eller hvad der til praktiske formål svarer dertil i mangel af et Skatteregistreringsnummer. Skatteregistreringsnummeret er et nummer eller en kode, som en kompetent myndighed bruger til at identificere en skatteyder."
+    },
+    {
+      "provision_ref": "1:48",
+      "chapter": "1",
+      "section": "48",
+      "content": "§ 48. »Identifikationstjeneste« betyder en elektronisk proces, som en Relevant jurisdiktion eller EU vederlagsfrit stiller til rådighed for en Indberetningspligtig Udbyder af Kryptoaktivtjenester med henblik på at fastslå en Kryptoaktivbrugers identitet og skattemæssige hjemsted."
+    },
+    {
+      "provision_ref": "2:49",
+      "chapter": "2",
+      "section": "49",
+      "content": "§ 49. En Indberetningspligtig Udbyder af Kryptoaktivtjenester er omfattet af de krav om indberetning og due diligence, der er fastsat i henholdsvis kapitel 3 og 4, i Danmark, hvis den 1) er en Enhed, der er meddelt tilladelse af Finanstilsynet i overensstemmelse med artikel 63 i forordning (EU) 2023/1114, eller som har tilladelse til at levere kryptoaktivtjenester efter en meddelelse til Finanstilsynet i overensstemmelse med artikel 60 i forordning (EU) 2023/1114, eller 2) ikke er en Enhed, der er meddelt tilladelse i overensstemmelse med artikel 63 i forordning (EU) 2023/1114, eller som har tilladelse til at levere kryptoaktivtjenester efter en meddelelse til nogen medlemsstat i overensstemmelse med artikel 60 i forordning (EU) 2023/1114, og den er a) en Enhed eller fysisk person, som er skattemæssigt hjemmehørende i Danmark, b) en Enhed, som er i) registreret eller oprettet i henhold til lovgivningen i Danmark, og ii) enten en juridisk person i Danmark eller forpligtet til at indgive oplysningsskemaer til Skatteforvaltningen, for så vidt angår Enhedens indkomst, c) en Enhed, som forvaltes fra Danmark, eller d) en Enhed eller en fysisk person, som har sit sædvanlige forretningssted i Danmark."
+    },
+    {
+      "provision_ref": "2:50",
+      "chapter": "2",
+      "section": "50",
+      "content": "§ 50. En Indberetningspligtig Udbyder af Kryptoaktivtjenester er omfattet af kravene om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, for så vidt angår Indberetningspligtige transaktioner, der foretages via en Filial beliggende i Danmark."
+    },
+    {
+      "provision_ref": "2:51",
+      "chapter": "2",
+      "section": "51",
+      "content": "§ 51. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som er en Enhed, skal ikke opfylde de krav om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som den er omfattet af i henhold til § 49, nr. 2, litra b, c eller d, hvis disse krav er opfyldt af denne Indberetningspligtige Udbyder af Kryptoaktivtjenester i en anden EU-medlemsstat eller i en Kvalificeret Jurisdiktion uden for EU i kraft af, at denne har skattemæssigt hjemsted i en sådan EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU."
+    },
+    {
+      "provision_ref": "2:52",
+      "chapter": "2",
+      "section": "52",
+      "content": "§ 52. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som er en Enhed, skal ikke opfylde de krav om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som den er omfattet af i henhold til § 49, nr. 2, litra c eller d, hvis disse krav er opfyldt af denne Indberetningspligtige Udbyder af Kryptoaktivtjenester i en anden EU-medlemsstat eller i en Kvalificeret Jurisdiktion uden for EU i kraft af, at den er en Enhed, som 1) er registreret eller oprettet i henhold til lovgivningen i sådan en EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU, og 2) enten er en juridisk person i den anden EU-medlemsstat eller Kvalificerede Jurisdiktion uden for EU eller er forpligtet til at indgive selvangivelser til skattemyndighederne i den anden EU-medlemsstat eller Kvalificerede Jurisdiktion uden for EU, for så vidt angår Enhedens indkomst."
+    },
+    {
+      "provision_ref": "2:53",
+      "chapter": "2",
+      "section": "53",
+      "content": "§ 53. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som er en Enhed, skal ikke opfylde de krav om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som den er omfattet af i henhold til § 49, nr. 2, litra d, hvis disse krav er opfyldt af denne Indberetningspligtige Udbyder af Kryptoaktivtjenester i en anden EU-medlemsstat eller i en Kvalificeret Jurisdiktion uden for EU i kraft af, at denne forvaltes fra en sådan EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU."
+    },
+    {
+      "provision_ref": "2:54",
+      "chapter": "2",
+      "section": "54",
+      "content": "§ 54. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som er en fysisk person, skal ikke opfylde de krav om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som vedkommende er omfattet af i henhold til § 49, nr. 2, litra d, hvis disse krav er opfyldt af den pågældende Indberetningspligtige Udbyder af Kryptoaktivtjenester i en anden EU-medlemsstat eller i en Kvalificeret Jurisdiktion uden for EU i kraft af, at vedkommende har sit skattemæssige hjemsted i en sådan EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU."
+    },
+    {
+      "provision_ref": "2:55",
+      "chapter": "2",
+      "section": "55",
+      "content": "§ 55. En Indberetningspligtig Udbyder af Kryptoaktivtjenester skal ikke opfylde de krav til indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som den er omfattet af i henhold til § 49, nr. 2, litra a-d, hvis den pågældende har givet en meddelelse til Skatteforvaltningen i et format specificeret af Skatteforvaltningen, hvori det bekræftes, at sådanne krav er opfyldt af den pågældende Indberetningspligtige Udbyder af Kryptoaktivtjenester i henhold til reglerne i en anden EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU, jf. kriterier, som i al væsentlighed svarer til henholdsvis § 49, nr. 2, litra a-d."
+    },
+    {
+      "provision_ref": "2:56",
+      "chapter": "2",
+      "section": "56",
+      "content": "§ 56. En Indberetningspligtig Udbyder af Kryptoaktivtjenester skal ikke opfylde kravene om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, for så vidt angår Indberetningspligtige transaktioner, som den pågældende foretager via en Filial i en anden EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU, hvis disse krav er opfyldt af denne Filial i en sådan anden EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU."
+    },
+    {
+      "provision_ref": "3:57",
+      "chapter": "3",
+      "section": "57",
+      "content": "§ 57. En Indberetningspligtig Udbyder af Kryptoaktivtjenester som omhandlet i §§ 49 og 50, indberetter de oplysninger, der er fastsat i § 58, til den kompetente myndighed i Danmark, hvis den er underlagt indberetningskrav her i henhold til kapitel 2."
+    },
+    {
+      "provision_ref": "3:58",
+      "chapter": "3",
+      "section": "58",
+      "content": "§ 58. En Indberetningspligtig Udbyder af Kryptoaktivtjenester skal for hvert relevant kalenderår og i overensstemmelse med forpligtelserne for Indberetningspligtige Udbydere af Kryptoaktivtjenester i kapitel 2 og due diligence procedurerne i kapitel 4 indberette oplysningerne nævnt i stk. 2-6 og 8-10, for så vidt angår sine Kryptoaktivbrugere, der er Brugere, hvorom der skal indberettes, eller som har Kontrollerende Personer, der er Personer, hvorom der skal indberettes. Stk. 2. Indberetningen skal omfatte følgende oplysninger for hver Bruger, hvorom der skal indberettes 1) navn, 2) adresse, 3) den jurisdiktion eller de jurisdiktioner, hvor vedkommende er skattemæssigt hjemmehørende, 4) Skatteregistreringsnummer eller -numre og, 5) såfremt der er tale om en fysisk person, fødselsdato og fødested. Stk. 3. Såfremt en Enhed efter anvendelse af due diligence procedurerne i overensstemmelse med kapitel 4 bliver identificeret som havende en eller flere Kontrollerende Personer, som er Personer, hvorom der skal indberettes, skal indberetningen omfatte de oplysninger, som er nævnt i stk. 2, for hver af disse Kontrollerende personer. Endvidere skal indberetningen omfatte oplysninger om den eller de roller, i kraft af hvilken eller hvilke hver enkelt Person, hvorom der skal indberettes, er en Kontrollerende Person i Enheden. Stk. 4. Hvis den Indberetningspligtige Udbyder af Kryptoaktivtjenester indberetter til en kompetent myndighed, der anvender en Identifikationstjeneste og anvender direkte bekræftelse af identitet og bopæl for den Person, hvorom der skal indberettes, gennem en Identifikationstjeneste, der er stillet til rådighed af en Relevant jurisdiktion eller EU, til at fastslå identitet og alle skattemæssige hjemsteder for den Person, hvorom der skal indberettes, skal de oplysninger, der skal indberettes, uanset stk. 2 og 3, omfatte navn, Identifikationstjenestens identifikator og udstedelsesmedlemsstaten eller -staterne samt den eller de roller, i kraft af hvilken eller hvilke hver Person, hvorom der skal indberettes, er en Kontrollerende person i Enheden. Stk. 5. For så vidt angår den Indberetningspligtige Udbyder af Kryptoaktivtjenester, skal indberetningen omfatte navn, adresse, Skatteregistreringsnummer og, hvis det findes, det individuelle identifikationsnummer som omhandlet i § 74, stk. 3, og den globale ID-kode for juridiske enheder. Stk. 6. For hver type Indberetningspligtigt Kryptoaktiv, for hvilket den Indberetningspligtige Udbyder af Kryptoaktivtjenester har foretaget Indberetningspligtige transaktioner i løbet af det relevante kalenderår, skal følgende oplysninger indberettes, hvis det er relevant: 1) Digital Token Identifier, hvis en sådan findes, eller alternativt det fulde navn på typen af Indberetningspligtigt Kryptoaktiv. 2) Det aggregerede betalte bruttobeløb, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner for så vidt angår erhvervelser mod betaling i Fiatvaluta. 3) Det aggregerede modtagne bruttobeløb, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner, for så vidt angår afhændelser mod betaling i Fiatvaluta. 4) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner, for så vidt angår erhvervelser mod betaling i andre Indberetningspligtige Kryptoaktiver. 5) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner, for så vidt angår afhændelser mod betaling i andre Indberetningspligtige Kryptoaktiver. 6) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige Detailbetalingstransaktioner. 7) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner underopdelt efter transaktionstype, hvis den Indberetningspligtige Udbyder af Kryptoaktivtjenester har kendskab hertil, for så vidt angår Overførsler til den Bruger, hvorom der skal indberettes, som ikke er omfattet af nr. 2 og 4. 8) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner underopdelt efter transaktionstype, hvis den Indberetningspligtige Udbyder af Kryptoaktivtjenester har kendskab hertil, for så vidt angår Overførsler fra den Bruger, hvorom der skal indberettes, som ikke er omfattet af nr. 3, 5 og 6. 9) Den aggregerede rimelige markedsværdi såvel som det aggregerede antal enheder af Overførsler foretaget af den Indberetningspligtige Udbyder af Kryptoaktivtjenester til distributed ledger-adresser som omhandlet i forordning (EU) 2023/1114, som ikke vides at være associeret med en udbyder af tjenester for virtuelle aktiver eller et finansielt institut. Stk. 7. Den Indberetningspligtige Udbyder af Kryptoaktivtjenester skal alene indberette om Personer, hvorom der skal indberettes, hvis denne har udført en eller flere Indberetningspligtige transaktioner i det kalenderår, indberetningen vedrører. Stk. 8. Ved indberetning efter stk. 6, nr. 2 og 3, indberettes det beløb, som er betalt eller modtaget, i den Fiatvaluta, i hvilken det er betalt eller modtaget. I tilfælde, hvor beløbene er betalt eller modtaget i forskellige Fiatvalutaer, indberettes beløbene i en enkelt valuta, som omregnes på tidspunktet for hver Indberetningspligtig transaktion på en måde, der anvendes konsekvent af den Indberetningspligtige Udbyder af Kryptoaktivtjenester. Stk. 9. Ved indberetning efter stk. 6, nr. 4-9, fastslås og indberettes den rimelige markedsværdi i en enkelt valuta, som værdisættes på tidspunktet for hver Indberetningspligtig transaktion på en måde, der anvendes konsekvent af den Indberetningspligtige Udbyder af Kryptoaktivtjenester . Stk. 10. De indberettede oplysninger skal identificere den Fiatvaluta, hvori hvert beløb er indberettet."
+    },
+    {
+      "provision_ref": "3:59",
+      "chapter": "3",
+      "section": "59",
+      "content": "§ 59. Uanset § 58 skal Skatteregistreringsnummeret ikke indberettes hvis 1) den Relevante jurisdiktion ikke udsteder Skatteregistreringsnummer, eller 2) lovgivningen i den Relevante jurisdiktion ikke kræver indsamling af Skatteregistreringsnummeret udstedt af den pågældende Relevante jurisdiktion. Stk. 2. Uanset § 58, stk. 2 og 3, skal fødestedet ikke indberettes, medmindre den Indberetningspligtige Udbyder af Kryptoaktivtjenester på anden måde er forpligtet til at indhente og indberette det i henhold til national ret."
+    },
+    {
+      "provision_ref": "3:60",
+      "chapter": "3",
+      "section": "60",
+      "content": "§ 60. De i § 58 anførte oplysninger skal indberettes senest den 31. januar i året efter det kalenderår, som oplysningerne vedrører. De første oplysninger indberettes for kalenderåret 2026."
+    },
+    {
+      "provision_ref": "3:61",
+      "chapter": "3",
+      "section": "61",
+      "content": "§ 61. Uanset §§ 57 og 60 er en Indberetningspligtig Udbyder af Kryptoaktivtjenester som omhandlet i § 49, nr. 2, ikke forpligtet til at videregive de oplysninger, der er fastsat i § 58, for så vidt angår Brugere, hvorom der skal indberettes, eller Kontrollerende personer, for hvilke den Indberetningspligtige Udbyder af Kryptoaktivtjenester foretager indberetningen af disse oplysninger i en jurisdiktion uden for EU, der er omfattet af en Gældende Betinget Aftale Mellem Kompetente Myndigheder med den EU-medlemsstat, hvor vedkommende er skattemæssigt hjemmehørende."
+    },
+    {
+      "provision_ref": "4:62",
+      "chapter": "4",
+      "section": "62",
+      "content": "§ 62. En Kryptoaktivbruger behandles som en Bruger, hvorom der skal indberettes, begyndende fra den dato, hvor vedkommende bliver identificeret som sådan i henhold til due diligence procedurerne som beskrevet i dette kapitel."
+    },
+    {
+      "provision_ref": "4:63",
+      "chapter": "4",
+      "section": "63",
+      "content": "§ 63. Følgende procedurer finder anvendelse med henblik på bestemmelse af, hvorvidt den Individuelle Kryptoaktivbruger er en Bruger, hvorom der skal indberettes: 1) Ved etablering af et kundeforhold med den Individuelle Kryptoaktivbruger, eller – for så vidt angår Allerede eksisterende Individuelle Kryptoaktivbrugere – senest den 1. januar 2027, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester indhente en egenerklæring, som gør det muligt for den Indberetningspligtige Udbyder af Kryptoaktivtjenester at fastslå den Individuelle Kryptoaktivbrugers skattemæssige hjemsted eller hjemsteder og bekræfte en sådan egenerklærings rimelighed på grundlag af oplysninger indhentet af den Indberetningspligtige Udbyder af Kryptoaktivtjenester, herunder dokumentation indsamlet i henhold til Due diligence procedurer i forhold til Kunder. 2) Hvis der sker en ændring i omstændighederne med hensyn til en Individuel Kryptoaktivbruger, som medfører, at den Indberetningspligtige Udbyder af Kryptoaktivtjenester tror eller får grund til at tro, at den oprindelige egenerklæring er forkert eller upålidelig, kan den Indberetningspligtige Udbyder af Kryptoaktivtjenester ikke henholde sig til den oprindelige egenerklæring, men skal indhente en gyldig egenerklæring eller en rimelig forklaring og, hvor det er relevant, dokumentation til støtte for gyldigheden af den oprindelige egenerklæring."
+    },
+    {
+      "provision_ref": "4:64",
+      "chapter": "4",
+      "section": "64",
+      "content": "§ 64. Følgende procedurer finder anvendelse med henblik på at fastslå, hvorvidt den Enhed, som er Kryptoaktivbruger, er en Bruger, hvorom der skal indberettes, eller en anden Enhed end en Undtagen Person eller en Aktiv Enhed, med en eller flere Kontrollerende Personer, hvorom der skal indberettes: 1) Afgørelse af, hvorvidt den Enhed, som er Kryptoaktivbruger, er en Person, hvorom der skal indberettes: a) Ved etablering af et forhold med den Enhed, som er Kryptoaktivbruger, eller – for så vidt angår Allerede eksisterende Enheder, som er Kryptoaktivbrugere – senest den 1. januar 2027, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester indhente en egenerklæring, som gør det muligt for den Indberetningspligtige Udbyder af Kryptoaktivtjenester at fastslå det eller de skattemæssige hjemsteder for Enheden, som er Kryptoaktivbruger, og bekræfte en sådan egenerklærings rimelighed på grundlag af oplysninger indhentet af den Indberetningspligtige Udbyder af Kryptoaktivtjenester, herunder dokumentation indsamlet i henhold til Due diligence procedurer i forhold til Kunder. Hvis den Enhed, som er Kryptoaktivbruger, erklærer, at den ikke har noget skattemæssigt hjemsted, kan den Indberetningspligtige Udbyder af Kryptoaktivtjenester med henblik på at fastslå hjemstedet for Enheden, som er Kryptoaktivbruger, henholde sig til stedet for dennes faktiske ledelse eller hovedkontorets adresse. b) Hvis det af egenerklæringen fremgår, at den Enhed, som er Kryptoaktivbruger, er skattemæssigt hjemmehørende i en Relevant jurisdiktion, behandler den Indberetningspligtige Udbyder af Kryptoaktivtjenester Enheden, som er Kryptoaktivbruger, som en Bruger, hvorom der skal indberettes, medmindre det med rimelighed – baseret på egenerklæringen eller oplysninger, der er i dens besiddelse, eller som er offentligt tilgængelige – kan fastslås, at Enheden, som er Kryptoaktivbruger, er en Undtagen Person. 2) Ved afgørelse af, hvorvidt Enheden har en eller flere Kontrollerende Personer, hvorom der skal indberettes, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester med hensyn til en Enhed, som er Kryptoaktivbruger, men som ikke er en Undtagen Person, fastslå, hvorvidt den har en eller flere Kontrollerende Personer, hvorom der skal indberettes, medmindre det på grundlag af en egenerklæring fra Enheden, som er Kryptoaktivbruger, fastslås, at den Enhed, som er Kryptoaktivbruger, er en Aktiv Enhed. Dette sker efter følgende procedure: a) Ved bestemmelse af de Kontrollerende Personer for en Enhed, som er Kryptoaktivbruger kan en Indberetningspligtig Udbyder af Kryptoaktivtjenester henholde sig til oplysninger indsamlet og opbevaret efter Due diligence procedurer i forhold til Kunder, forudsat at sådanne procedurer er i overensstemmelse med direktiv (EU) 2015/849 og i overensstemmelse med anbefalingerne af 2012 fra Financial Action Task Force, som opdateret i juni 2019 vedrørende udbydere af virtuelle aktiver. Hvis den Indberetningspligtige Udbyder af Kryptoaktivtjenester ikke er juridisk forpligtet til at anvende Due diligence procedurer i forhold til Kunder, som er i overensstemmelse med direktiv (EU) 2015/849 og i overensstemmelse med anbefalingerne af 2012 fra Financial Action Task Force, som opdateret i juni 2019 vedrørende udbydere af virtuelle aktiver, anvender den i væsentlig grad lignende procedurer med henblik på at fastslå de Kontrollerende personer. b) Ved afgørelse af, hvorvidt en Kontrollerende Person for en Enhed, som er Kryptoaktivbruger, er en Person, hvorom der skal indberettes, skal en Indberetningspligtig Udbyder af Kryptoaktivtjenester henholde sig til en egenerklæring fra den Enhed, som er Kryptoaktivbruger, eller en sådan Kontrollerende Person, som gør det muligt for den Indberetningspligtige Udbyder af Kryptoaktivtjenester at fastslå den Kontrollerende Persons skattemæssige hjemsted eller hjemsteder og bekræfte en sådan egenerklærings rimelighed på grundlag af oplysninger indhentet af den Indberetningspligtige Udbyder af Kryptoaktivtjenester, herunder dokumentation indsamlet i henhold til Due diligence procedurer i forhold til Kunder. 3) Hvis der på noget tidspunkt sker en ændring i omstændighederne med hensyn til en Enhed, som er Kryptoaktivbruger, eller dennes Kontrollerende Personer, som medfører, at den Indberetningspligtige Udbyder af Kryptoaktivtjenester tror eller har grund til at tro, at en egenerklæring indhentet efter nr. 1 eller 2 er forkert eller upålidelig, kan den Indberetningspligtige Udbyder af Kryptoaktivtjenester ikke henholde sig til den oprindelige egenerklæring, men skal indhente en gyldig egenerklæring eller en rimelig forklaring og, hvor det er relevant, dokumentation til støtte for gyldigheden af den oprindelige egenerklæring."
+    },
+    {
+      "provision_ref": "4:65",
+      "chapter": "4",
+      "section": "65",
+      "content": "§ 65. En egenerklæring fra en Individuel Kryptoaktivbruger eller en Kontrollerende Person er kun gyldig, hvis den er undertegnet eller på anden måde positivt bekræftet af den Individuelle Kryptoaktivbruger eller den Kontrollerende Person, hvis den er dateret senest på datoen for modtagelsen, og den indeholder følgende oplysninger vedrørende den Individuelle Kryptoaktivbruger eller den Kontrollerende Person: 1) For- og efternavn. 2) Bopælsadresse. 3) Jurisdiktion eller jurisdiktioner, hvor vedkommende er skattemæssigt hjemmehørende. 4) For så vidt angår hver enkelt Person, hvorom der skal indberettes, Skatteregistreringsnummeret for hver jurisdiktion, hvor vedkommende er skattemæssigt hjemmehørende. 5) Fødselsdato."
+    },
+    {
+      "provision_ref": "4:66",
+      "chapter": "4",
+      "section": "66",
+      "content": "§ 66. En egenerklæring fra en Enhed, som er Kryptoaktivbruger, er kun gyldig, hvis den er undertegnet eller på anden måde positivt bekræftet af Enheden, som er Kryptoaktivbruger, hvis den er dateret senest på datoen for modtagelsen, og den indeholder følgende oplysninger vedrørende Enheden, som er Kryptoaktivbruger: 1) Juridisk navn. 2) Adresse. 3) Jurisdiktion eller jurisdiktioner, hvor Enheden er skattemæssigt hjemmehørende. 4) For så vidt angår hver enkelt Person, hvorom der skal indberettes, Skatteregistreringsnummeret for hver jurisdiktion, hvor vedkommende er skattemæssigt hjemmehørende. 5) I tilfælde af en Enhed, som er Kryptoaktivbruger, men som ikke er en Aktiv Enhed eller en Undtagen Person, de oplysninger, som er beskrevet i § 65 for hver Kontrollerende Person for Enheden, som er Kryptoaktivbruger, medmindre denne Kontrollerende person har forelagt en egenerklæring i henhold til § 65 såvel som den eller de roller i kraft af hvilken eller hvilke hver enkelt Person, hvorom der skal indberettes, er en Kontrollerende Person for Enheden, hvis dette ikke allerede er fastslået på grundlag af Due diligence procedurer i forhold til Kunder. 6) Hvis det er relevant, oplysninger om de kriterier, Enheden opfylder for at blive behandlet som en Aktiv Enhed eller en Undtagen Person."
+    },
+    {
+      "provision_ref": "4:67",
+      "chapter": "4",
+      "section": "67",
+      "content": "§ 67. Uanset §§ 65 og 66 er der ikke krav om indsamling af Skatteregistreringsnummeret, hvis den jurisdiktion, hvor den Kryptoaktivbruger, hvorom der skal indberettes, skattemæssigt er hjemmehørende, ikke har udstedt et Skatteregistreringsnummer til den Kryptoaktivbruger, hvorom der skal indberettes, eller lovgivningen i den Relevante jurisdiktion ikke kræver indsamling af Skatteregistreringsnummeret udstedt af den pågældende Relevante jurisdiktion."
+    },
+    {
+      "provision_ref": "4:68",
+      "chapter": "4",
+      "section": "68",
+      "content": "§ 68. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som også er et Finansielt institut, jf. § 28, kan basere sig på de due diligence procedurer, som er fuldført i henhold til kapitel 5 og 7 i bekendtgørelse om identifikation og indberetning af finansielle konti med tilknytning til udlandet med henblik på due diligence procedurerne i henhold til dette kapitel. En Indberetningspligtig Udbyder af Kryptoaktivtjenester kan ligeledes basere sig på en egenerklæring, der allerede er indhentet til andre skatteformål, forudsat at en sådan egenerklæring opfylder kravene i §§ 65 eller 66."
+    },
+    {
+      "provision_ref": "4:69",
+      "chapter": "4",
+      "section": "69",
+      "content": "§ 69. En Indberetningspligtig Udbyder af Kryptoaktivtjenester kan basere sig på, at en tredjepart opfylder due diligence forpligtelserne som fastsat i dette kapitel, men forpligtelserne er fortsat den Indberetningspligtige Udbyder af Kryptoaktivtjenesters ansvar."
+    },
+    {
+      "provision_ref": "5:70",
+      "chapter": "5",
+      "section": "70",
+      "content": "§ 70. Hvis en Kryptoaktivbruger ikke fremlægger de oplysninger, der er påkrævet i henhold til kapitel 4, efter to påmindelser efter den Indberetningspligtige Udbyder af Kryptoaktivtjenesters oprindelige anmodning, men ikke før udløbet af 60 dage, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester forhindre Kryptoaktivbrugeren i at foretage Indberetningspligtige transaktioner."
+    },
+    {
+      "provision_ref": "5:71",
+      "chapter": "5",
+      "section": "71",
+      "content": "§ 71. Finanstilsynet sender regelmæssigt og senest den 31. december i det relevante kalenderår en liste til Skatteforvaltningen over alle Udbydere af Kryptoaktivtjenester, der af Finanstilsynet er meddelt tilladelse efter forordning (EU) 2023/1114."
+    },
+    {
+      "provision_ref": "5:72",
+      "chapter": "5",
+      "section": "72",
+      "content": "§ 72. Indberetningspligtige Udbydere af Kryptoaktivtjenester omfattet af § 49, nr. 1, skal senest 8 dage efter indberetningspligtens indtræden foretage anmeldelse herom til Skatteforvaltningen. Stk. 2. Anmeldelsen sker elektronisk efter Skatteforvaltningens nærmere anvisning eller foretages på en særlig blanket, der kan rekvireres hos Skatteforvaltningen. Stk. 3. Tvivl om, hvorvidt en virksomhed er omfattet af indberetningspligt, fritager ikke for anmeldelse til registrering. Anmeldelsen skal i disse tilfælde vedlægges en redegørelse for den anmeldelsespligtiges virksomhed, hvorefter Skatteforvaltningen træffer afgørelse om registrering. Stk. 4. Ved anmeldelsen skal den indberetningspligtige give oplysning om: 1) Navn, adresse, elektroniske adresser, herunder websteder, og hjemstedskommune. 2) Den indberetningspligtiges cvr-nummer. Har den indberetningspligtige ikke et cvr-nummer, oplyses SE-nummer. 3) Dato for indberetningspligtens indtræden. 4) Karakteren af indberetningspligten. Stk. 5. Er den indberetningspligtige hverken registreret med cvr-nummer eller SE-nummer, foretages en registrering i et af disse registre. Stk. 6. Efter registreringen sender Skatteforvaltningen et registreringsbevis indeholdende de registrerede oplysninger til den indberetningspligtige. Stk. 7. Indtræder der efter registreringen ændring i de meddelte oplysninger, herunder ophør af indberetningspligt, eller konstateres der fejl i de registrerede oplysninger, skal den indberetningspligtige give Skatteforvaltningen skriftlig meddelelse herom inden 8 dage efter, at ændringen er sket, eller fejlen er konstateret. Skatteforvaltningen fremsender herefter et nyt registreringsbevis. Ved ophør af indberetningspligt gives der meddelelse om, at ophøret er registreret. Stk. 8. Ændring af registrering efter stk. 7 kan undlades ved midlertidigt ophør af indberetningspligten, mod at den indberetningspligtige for de pågældende perioder indberetter til Skatteforvaltningen om, at der ikke er oplysninger at indberette."
+    },
+    {
+      "provision_ref": "5:73",
+      "chapter": "5",
+      "section": "73",
+      "content": "§ 73. En Kryptoaktivoperatør, der er en Indberetningspligtig Udbyder af Kryptoaktivtjenester, der opfylder betingelserne i henholdsvis § 49, nr. 2, litra a-d, eller § 50 for at være omfattet af de krav om indberetning og due diligence, der er fastsat i henholdsvis kapitel 3 og 4, i Danmark, skal registreres hos Skatteforvaltningen, inden udløbet af den periode, inden for hvilken denne Kryptoaktivoperatør skal indberette de oplysninger, der er omhandlet i § 58. Hvis en sådan Kryptoaktivoperatør opfylder betingelserne i henholdsvis § 49, nr. 2, litra a-d, eller § 50 både i Danmark og i en eller flere andre EU-medlemsstater, skal den registreres hos den kompetente myndighed enten i Danmark eller i en af disse andre EU-medlemsstater inden udløbet af den periode, inden for hvilken Kryptoaktivoperatøren skal indberette de oplysninger, der er omhandlet i § 58. Stk. 2. Uanset stk. 1 skal en Kryptoaktivoperatør, som er en Indberetningspligtig Udbyder af Kryptoaktivtjenester, ikke registreres hos Skatteforvaltningen, hvis denne Kryptoaktivoperatør ikke er forpligtet til at opfylde kravene vedrørende indberetning og due diligence i henholdsvis kapitel 3 og 4 i henhold til §§ 51-56, i Danmark, fordi disse krav opfyldes af denne Kryptoaktivoperatør i en anden EU-medlemsstat."
+    },
+    {
+      "provision_ref": "5:74",
+      "chapter": "5",
+      "section": "74",
+      "content": "§ 74. Ved registreringen efter § 73 i Danmark fremsender Kryptoaktivoperatøren følgende oplysninger til Skatteforvaltningen: 1) Navn. 2) Postadresse. 3) Elektroniske adresser, herunder websteder. 4) Ethvert Skatteregistreringsnummer udstedt til Kryptoaktivoperatøren. 5) De EU-medlemsstater, hvor de Brugere, hvorom der skal indberettes, er skattemæssigt hjemmehørende, jf. §§ 63 og 64. 6) Enhver Kvalificeret Jurisdiktion uden for EU som omhandlet i §§ 51-56. Stk. 2. Kryptoaktivoperatøren underretter Skatteforvaltningen om enhver ændring af de oplysninger, der er givet i henhold til stk. 1. Stk. 3. Skatteforvaltningen tildeler Kryptoaktivoperatøren et individuelt identifikationsnummer og meddeler det elektronisk til de kompetente myndigheder i alle EU-medlemsstaterne."
+    },
+    {
+      "provision_ref": "5:75",
+      "chapter": "5",
+      "section": "75",
+      "content": "§ 75. Skatteforvaltningen kan slette Kryptoaktivoperatøren fra registret over Kryptoaktivoperatører i følgende tilfælde: 1) Hvis Kryptoaktivoperatøren underretter Skatteforvaltningen om, at den ikke længere har Brugere, hvorom der skal indberettes, i EU. 2) Hvis der i mangel af en underretning i henhold til nr. 1 er grund til at antage, at en Kryptoaktivoperatørs aktivitet er ophørt. 3) Hvis Kryptoaktivoperatøren ikke længere opfylder betingelserne i § 8. 4) Hvis Skatteforvaltningen har tilbagekaldt registreringen i medfør af § 77."
+    },
+    {
+      "provision_ref": "5:76",
+      "chapter": "5",
+      "section": "76",
+      "content": "§ 76. Skatteforvaltningen skal straks underrette Kommissionen om Kryptoaktivoperatører som omhandlet i § 8, som har Brugere, hvorom der skal indberettes, som er skattemæssigt hjemmehørende i EU, men som hverken har registreret sig selv for indberetningspligt i Danmark eller i nogen anden EU-medlemsstat i henhold til Rådets direktiv 2011/16/EU om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/799/EØF med senere ændringer, bilag VI, afdeling V, jf. herved § 73. Stk. 2. Hvis en Kryptoaktivoperatør ikke opfylder registreringsforpligtelsen efter § 73, eller hvis registreringen af vedkommende er blevet tilbagekaldt i overensstemmelse med § 77, træffer Skatteforvaltningen foranstaltninger, der er effektive, står i et rimeligt forhold til overtrædelsen og har afskrækkende virkning, for at håndhæve overholdelse inden for Danmark. Valget af sådanne foranstaltninger henhører under Skatteforvaltningens skønsbeføjelse. Skatteforvaltningen skal bestræbe sig på at samordne deres tiltag med andre EU-medlemsstater med henblik på at håndhæve overholdelse."
+    },
+    {
+      "provision_ref": "5:77",
+      "chapter": "5",
+      "section": "77",
+      "content": "§ 77. Hvis en Kryptoaktivoperatør, der er registreret hos Skatteforvaltningen efter § 73, ikke opfylder indberetningsforpligtelsen, jf. § 58, efter to påmindelser fra Skatteforvaltningen, træffer Skatteforvaltningen de nødvendige foranstaltninger til at tilbagekalde registreringen af Kryptoaktivoperatøren. Registreringen tilbagekaldes senest efter 90 dage, men ikke før der er gået 30 dage efter anden påmindelse. Stk. 2. Hvis en Kryptoaktivoperatørs registrering er blevet tilbagekaldt efter stk. 1, kan Kryptoaktivoperatøren igen få tilladelse til at blive registreret efter § 73, hvis Kryptoaktivoperatøren over for Skatteforvaltningen giver tilsagn om at ville overholde indberetningskravene, herunder foretage eventuelle manglende indberetninger."
+    },
+    {
+      "provision_ref": "6:78",
+      "chapter": "6",
+      "section": "78",
+      "content": "§ 78. Hvis der foretages handlinger eller undladelser, der alene eller i det væsentlige har til formål, at en transaktion ikke bliver identificeret som en Indberetningspligtig transaktion, eller at der ikke sker korrekt indberetning om en transaktion, herunder at der ikke sker korrekt indberetning vedrørende Kryptoaktivbrugere, der er Brugere, hvorom der skal indberettes, eller som har Kontrollerende Personer, der er Personer, hvorom der skal indberettes, skal der ved gennemførelse af procedurerne til identifikation af Indberetningspligtige transaktioner og ved indberetning handles, som om disse handlinger eller undladelser ikke var foretaget."
+    },
+    {
+      "provision_ref": "7:79",
+      "chapter": "7",
+      "section": "79",
+      "content": "§ 79. Hvis anmeldelse til registrering efter § 73 ikke foretages rettidigt, kan Skatteforvaltningen give pålæg om anmeldelse til registrering inden en fastsat frist og om betaling af daglige tvangsbøder, der skal betales fra overskridelsen af fristen, og indtil pålægget efterkommes."
+    },
+    {
+      "provision_ref": "8:80",
+      "chapter": "8",
+      "section": "80",
+      "content": "§ 80. Med bøde straffes den Indberetningspligtige Udbyder af Kryptoaktivtjenester, der forsætligt eller groft uagtsomt ikke rettidigt gennemfører due diligence procedurerne efter kapitel 4, undlader rettidigt at anmelde sig til registrering efter § 73 eller undlader rettidigt at opfylde sin indberetningspligt efter kapitel 3 eller afgiver urigtige, vildledende eller ufuldstændige oplysninger, medmindre højere straf er forskyldt efter skatteindberetningslovens § 58. Stk. 2. Med bøde straffes den Kryptoaktivbruger, der forsætligt eller groft uagtsomt afgiver urigtige, vildledende eller ufuldstændige oplysninger til en Indberetningspligtig Udbyder af Kryptoaktivtjenester i forbindelse med dennes indsamling af oplysninger efter kapitel 4, medmindre højere straf er forskyldt efter lovgivningen. Stk. 3. Med bøde straffes den Indberetningspligtige Udbyder af Kryptoaktivtjenester, der i strid med § 70 forsætligt eller groft uagtsomt undlader at forhindre en Kryptoaktivbruger i at foretage Indberetningspligtige transaktioner."
+    },
+    {
+      "provision_ref": "8:81",
+      "chapter": "8",
+      "section": "81",
+      "content": "§ 81. Reglerne i skatteindberetningslovens §§ 60-63 gælder også for overtrædelser af bekendtgørelsen."
+    },
+    {
+      "provision_ref": "9:82",
+      "chapter": "9",
+      "section": "82",
+      "content": "§ 82. Denne bekendtgørelse skal fortolkes og anvendes i overensstemmelse med OECD’s ramme for indberetning vedrørende kryptoaktiver (Crypto-Asset Reporting Framework), hvilket omfatter kommentarerne hertil."
+    },
+    {
+      "provision_ref": "10:83",
+      "chapter": "10",
+      "section": "83",
+      "content": "§ 83. Bekendtgørelsen træder i kraft den 1. januar 2026. Stk. 2. Bekendtgørelsen har virkning for indberetning vedrørende kalenderåret 2026 og senere kalenderår. Stk. 3. For Udbydere af Kryptoaktivtjenester, der er indberetningspligtige vedrørende kalenderåret 2026, vil anmeldelse til registrering uanset § 72 være rettidig, hvis anmeldelsen indgives senest den 31. december 2026."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Udtrykkene med stort begyndelsesbogstav i denne bekendtgørelse skal tillægges den betydning, de har i henhold til dette kapitel. Stk. 2. Ethvert andet begreb, som er defineret i OECD’s ramme for indberetning vedrørende kryptoaktiver (Crypto-Asset Reporting Framework), herunder kommentarerne hertil, og som ikke er defineret i denne bekendtgørelse, skal fortolkes og anvendes i overensstemmelse med denne ramme.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. »Kryptoaktiv« betyder et kryptoaktiv som defineret i artikel 3, stk. 1, nr. 5, i forordning (EU) 2023/1114.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. »Digital centralbankvaluta« betyder enhver form for digital Fiatvaluta udstedt af en Centralbank eller en anden monetær myndighed.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. »Centralbank« betyder en institution, der ved lov eller offentlig godkendelse er den øverste myndighed, bortset fra jurisdiktionens regering, og som udsteder instrumenter, der skal sættes i omløb som valuta. En sådan bank kan omfatte en institution, der er adskilt fra jurisdiktionens regering, uanset om den ejes helt eller delvist af jurisdiktionen.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "§ 5. »Indberetningspligtigt Kryptoaktiv« betyder enhver form for Kryptoaktiver, som ikke er Digitale centralbankvalutaer, Elektroniske penge eller enhver anden form for Kryptoaktiver, for hvilke den Indberetningspligtige Udbyder af Kryptoaktivtjenester har slået tilstrækkeligt fast, at de ikke kan bruges til betalings- eller investeringsformål.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "§ 6. »Elektroniske penge« eller »E-penge« betyder ethvert Kryptoaktiv, der 1) er en digital repræsentation af en enkelt Fiatvaluta, 2) udstedes ved modtagelse af midler med henblik på gennemførelse af betalingstransaktioner, 3) er repræsenteret ved et krav på udstederen denomineret i samme Fiatvaluta, 4) accepteres som betaling af en anden fysisk eller juridisk person end udstederen og 5) i henhold til de lovgivningsmæssige krav, som udsteder er underlagt, kan indløses til enhver tid og til pariværdi for samme Fiatvaluta efter anmodning fra indehaveren af produktet. Stk. 2. Udtrykket »Elektroniske penge« eller »E-penge« omfatter ikke produkter, der udelukkende er skabt med det formål at lette overførslen af midler fra en kunde til en anden person efter kundens instrukser. Et produkt er ikke skabt udelukkende med det formål at lette overførslen af midler, hvis de midler, der er forbundet med et sådant produkt – som led i den overførende Enheds sædvanlige forretningsvirksomhed – opbevares længere end 60 dage efter modtagelsen af instrukser om at lette overførslen, eller, hvis disse midler i tilfælde af manglende instrukser opbevares længere end 60 dage efter modtagelsen af midlerne.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "§ 7. »Udbyder af Kryptoaktivtjenester« betyder en udbyder af kryptoaktivtjenester som defineret i artikel 3, stk. 1, nr. 15, i forordning (EU) 2023/1114.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "§ 8. »Kryptoaktivoperatør« betyder en kryptoaktivtjenesteudbyder, som ikke er en Udbyder af Kryptoaktivtjenester efter § 7.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "§ 9. »Indberetningspligtig Udbyder af Kryptoaktivtjenester« betyder Udbydere af Kryptoaktivtjenester og Kryptoaktivoperatører, som udfører en eller flere Kryptoaktivtjenester, der gennemfører Vekslingstransaktioner for eller på vegne af en Bruger, hvorom der skal indberettes.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "§ 10. »Kryptoaktivtjenester« betyder kryptoaktivtjenester som defineret i artikel 3, stk. 1, nr. 16, i forordning (EU) 2023/1114, herunder staking og udlån.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "§ 11. »Indberetningspligtig transaktion« betyder enhver vekslingstransaktion og enhver overførsel af Indberetningspligtige Kryptoaktiver.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "§ 12. »Vekslingstransaktion« betyder enhver veksling mellem Indberetningspligtige Kryptoaktiver og Fiatvalutaer og enhver veksling mellem en eller flere former for Indberetningspligtige Kryptoaktiver.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:13",
+      "chapter": "1",
+      "section": "13",
+      "content": "§ 13. »Indberetningspligtig Detailbetalingstransaktion« betyder en Overførsel af Indberetningspligtige Kryptoaktiver som modydelse for varer eller tjenester til en værdi på mere end 50.000 USD (eller det tilsvarende beløb i en anden valuta).",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:14",
+      "chapter": "1",
+      "section": "14",
+      "content": "§ 14. »Overførsel« betyder en transaktion, hvorved et Indberetningspligtigt Kryptoaktiv flyttes fra eller til en Kryptoaktivbrugers Kryptoaktivadresse eller -konto, bortset fra en adresse eller konto, der føres af den Indberetningspligtige Udbyder af Kryptoaktivtjenester på vegne af samme Kryptoaktivbruger, hvor den Indberetningspligtige Udbyder af Kryptoaktivtjenester på grundlag af viden til rådighed for denne på tidspunktet for transaktionen ikke kan fastslå, at transaktionen er en Vekslingstransaktion.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:15",
+      "chapter": "1",
+      "section": "15",
+      "content": "§ 15. »Fiatvaluta« betyder en officiel valuta i en jurisdiktion, som er udstedt af en jurisdiktion eller af en jurisdiktions udpegede Centralbank eller monetære myndighed, og som udgøres af fysiske pengesedler eller mønter eller af penge i forskellige digitale former, herunder bankreserver og Digitale centralbankvalutaer. Udtrykket omfatter også forretningsbankpenge og elektroniske pengeprodukter (Elektroniske penge).",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:16",
+      "chapter": "1",
+      "section": "16",
+      "content": "§ 16. »Bruger, hvorom der skal indberettes« betyder en Kryptoaktivbruger, som er en Person, hvorom der skal indberettes.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:17",
+      "chapter": "1",
+      "section": "17",
+      "content": "§ 17. »Kryptoaktivbruger« betyder en fysisk person eller Enhed, som er kunde hos en Indberetningspligtig Udbyder af Kryptoaktivtjenester med det formål at foretage Indberetningspligtige Transaktioner. Stk. 2. En fysisk person eller Enhed, der ikke er et Finansielt institut eller en Indberetningspligtig Udbyder af Kryptoaktivtjenester, og som handler som Kryptoaktivbruger til fordel for eller for regning af en anden fysisk person eller Enhed som befuldmægtiget, depositar, forvalter, underskriftsberettiget, investeringsrådgiver eller mellemmand, behandles ikke som Kryptoaktivbruger. Den pågældende anden fysisk person eller Enhed behandles som Kryptoaktivbrugeren. Stk. 3. Hvis en Indberetningspligtig Udbyder af Kryptoaktivtjenester leverer en tjeneste, hvor der foretages en Indberetningspligtig Detailbetalingstransaktion for eller på vegne af en handlende, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester også behandle den kunde, som er den handlendes modpart i en sådan Indberetningspligtig Detailbetalingstransaktion, som Kryptoaktivbruger, for så vidt angår den Indberetningspligtige Detailbetalingstransaktion. 1. pkt. gælder alene i det omfang, den Indberetningspligtige Udbyder af Kryptoaktivtjenester er forpligtet til at kontrollere identiteten på en sådan kunde i forbindelse med den Indberetningspligtige Detailbetalingstransaktion i henhold til nationale regler om bekæmpelse af hvidvask af penge.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:18",
+      "chapter": "1",
+      "section": "18",
+      "content": "§ 18. »Individuel Kryptoaktivbruger« betyder en Kryptoaktivbruger, som er en fysisk person.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:19",
+      "chapter": "1",
+      "section": "19",
+      "content": "§ 19. »Allerede eksisterende Individuel Kryptoaktivbruger« betyder en Individuel Kryptoaktivbruger, der har etableret et forhold med den Indberetningspligtige Udbyder af Kryptoaktivtjenester gældende fra og med den 31. december 2025.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:20",
+      "chapter": "1",
+      "section": "20",
+      "content": "§ 20. »Enhed, som er Kryptoaktivbruger« betyder en Kryptoaktivbruger, som er en Enhed.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:21",
+      "chapter": "1",
+      "section": "21",
+      "content": "§ 21. »Allerede eksisterende Enhed, som er Kryptoaktivbruger« betyder en Enhed, som er en Kryptoaktivbruger, og som har etableret et forhold med den Indberetningspligtige Udbyder af Kryptoaktivtjenester gældende fra og med den 31. december 2025.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:22",
+      "chapter": "1",
+      "section": "22",
+      "content": "§ 22. »Person, hvorom der skal indberettes« betyder en Person i en i Relevant jurisdiktion, som ikke er en Undtagen Person.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:23",
+      "chapter": "1",
+      "section": "23",
+      "content": "§ 23. »Relevant jurisdiktion« betyder: 1) En EU-medlemsstat, som er optaget på liste A i bilag 1. 2) Enhver jurisdiktion, a) med hvilken der er en aftale eller et arrangement i kraft, efter hvilken Danmark er forpligtet til at sende de oplysninger, der er specificeret i kapitel 3, med hensyn til Personer, hvorom der skal indberettes, der er skattemæssigt hjemmehørende i en sådan jurisdiktion, og b) som er optaget på liste B i bilag 1.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:24",
+      "chapter": "1",
+      "section": "24",
+      "content": "§ 24. »Person i en Relevant jurisdiktion« betyder en Enhed eller en fysisk person, der er skattemæssigt hjemmehørende i en Relevant jurisdiktion i henhold til skattelovgivningen i denne jurisdiktion, eller et bo efter en afdød person, der var skattemæssigt hjemmehørende i en Relevant jurisdiktion. Stk. 2. Ved anvendelsen af stk. 1 skal en Enhed som f.eks. et interessentskab, et kommanditselskab eller lignende juridisk ordning, der ikke har noget skattemæssigt hjemsted, behandles som skattemæssigt hjemmehørende i den jurisdiktion, hvor stedet for dens faktiske ledelse er beliggende.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:25",
+      "chapter": "1",
+      "section": "25",
+      "content": "§ 25. » Kontrollerende Personer« betyder fysiske personer, der udøver kontrol over en Enhed. Stk. 2. For så vidt angår trusts betyder udtrykket » Kontrollerende Personer« stifter eller stiftere, forvalter eller forvaltere, en eventuel protektor eller protektorer, den eller de begunstigede eller klasse eller klasser af begunstigede og en eller flere andre fysiske personer, der i sidste instans udøver reel kontrol over trusten, og for så vidt angår en anden juridisk ordning end en trust betyder udtrykket en person i en tilsvarende eller lignende stilling. Stk. 3. Udtrykket »Kontrollerende Person« skal fortolkes på en måde, der stemmer overens med udtrykket »reel ejer« som defineret i artikel 3, nr. 6, i direktiv (EU) 2015/849, for så vidt angår Indberetningspligtige Udbydere af Kryptoaktivtjenester, og på en måde, der stemmer overens med anbefalingerne af 2012 fra Financial Action Task Force, som opdateret i juni 2019 vedrørende udbydere af virtuelle aktiver.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:26",
+      "chapter": "1",
+      "section": "26",
+      "content": "§ 26. »Aktiv Enhed« betyder en Enhed der opfylder et eller flere af følgende kriterier: 1) Mindre end 50 pct. af Enhedens bruttoindkomst for det foregående kalenderår eller anden relevant indberetningsperiode er passiv indkomst, og mindre end 50 pct af aktiverne ejet af Enheden i det foregående kalenderår eller anden relevant indberetningsperiode er aktiver, som genererer eller ejes med henblik på at generere passiv indkomst. 2) Praktisk taget alle aktiviteterne i Enheden består i (helt eller delvis) at eje den udstedte beholdning af aktier i, eller yde finansiering og tjenesteydelser til, et eller flere datterselskaber, der driver anden handel eller forretningsvirksomhed end virksomhed som Finansielt institut, bortset fra, at en Enhed ikke er kvalificeret til denne status, hvis Enheden fungerer som (eller foregiver at være) en investeringsfond, som f.eks. en private equity-fond, venturekapitalfond, leveraged buyout-fond eller et investeringsinstrument, der har til formål at erhverve eller finansiere selskaber og derefter eje aktieposter i disse selskaber som anlægsaktiver til investeringsformål. 3) Enheden driver endnu ikke forretningsvirksomhed og har ingen tidligere driftshistorie, men investerer kapital i aktiver med det formål at drive anden forretningsvirksomhed end virksomhed som Finansielt institut, forudsat at Enheden ikke er berettiget til denne undtagelse efter den dato, der ligger 24 måneder efter datoen for den oprindelige oprettelse af Enheden. 4) Enheden har ikke været et Finansielt institut i de seneste fem år og er i færd med at afvikle sine aktiver eller er under omstrukturering med det formål at fortsætte eller genoptage driften af anden forretningsvirksomhed end virksomhed som Finansielt institut. 5) Enheden er hovedsagelig beskæftiget med finansiering og hedgingtransaktioner med eller for Tilknyttede enheder, der ikke er Finansielle institutter, og yder ikke finansiering eller hedgingydelser til nogen Enhed, der ikke er en Tilknyttet enhed, forudsat at den gruppe af sådanne Tilknyttede enheder hovedsagelig driver anden forretningsvirksomhed end virksomhed som Finansielt institut. 6) Enheden opfylder alle følgende krav: a) Den er etableret og drives i den jurisdiktion, hvor den er hjemmehørende, udelukkende til religiøse, velgørende, videnskabelige, kunstneriske, kulturelle, sports- eller uddannelsesmæssige formål eller den er etableret og drives i den jurisdiktion, hvor den er hjemmehørende, og er en faglig organisation, et erhvervsforbund, et handelskammer, en fagforening, en landbrugs- eller havebrugsorganisation, en borgerforening eller en organisation, der udelukkende drives til fremme af social velfærd. b) Den er fritaget for indkomstskat i den jurisdiktion, hvor den er hjemmehørende. c) Den har ingen aktionærer eller medlemmer, der har ejerskab eller retmæssig andel i dens indkomst eller aktiver. d) Den gældende ret i den jurisdiktion, hvor Enheden er hjemmehørende, eller Enhedens stiftelsesdokumenter tillader ikke nogen del af Enhedens indkomst eller aktiver at blive udloddet til eller anvendt til fordel for en privatperson eller ikke-velgørende Enhed, bortset fra, hvad der følger af udøvelsen af Enhedens velgørende aktiviteter, eller som betaling af et rimeligt vederlag for leverede tjenesteydelser, eller som betaling, der repræsenterer den rimelige markedsværdi af ejendom eller ejendele, som Enheden har købt. e) Den gældende ret i den jurisdiktion, hvor Enheden er hjemmehørende, eller Enhedens stiftelsesdokumenter kræver, at alle Enhedens aktiver ved enhedens likvidation eller opløsning skal udloddes til en Offentlig enhed eller anden nonprofitorganisation eller tilfalde regeringen i den jurisdiktion, hvor Enheden er hjemmehørende, eller en politisk underafdeling deraf.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:27",
+      "chapter": "1",
+      "section": "27",
+      "content": "§ 27. »Undtagen Person« betyder 1) en Enhed, hvis aktier regelmæssigt handles på et eller flere etablerede værdipapirmarkeder, 2) en Enhed, som er en Tilknyttet Enhed til en Enhed beskrevet i nr. 1, 3) en Offentlig enhed, 4) en International organisation, 5) en Centralbank, eller 6) et Finansielt institut, bortset fra en Investeringsenhed som beskrevet i § 31, stk. 1, nr. 2.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:28",
+      "chapter": "1",
+      "section": "28",
+      "content": "§ 28. »Finansielt institut« betyder et Forvaltningsinstitut, et Indskudsinstitut, en Investeringsenhed eller et Specificeret forsikringsselskab.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:29",
+      "chapter": "1",
+      "section": "29",
+      "content": "§ 29. »Forvaltningsinstitut« (Custodial Institution) betyder en Enhed, der som en væsentlig del af sin forretningsvirksomhed besidder Finansielle aktiver for andres regning. Stk. 2. En Enhed besidder Finansielle aktiver for andres regning som en væsentlig del af sin forretningsvirksomhed, hvis Enhedens bruttoindkomst, der kan henføres til besiddelse af Finansielle aktiver og dertil knyttede finansielle tjenesteydelser, svarer til eller overstiger 20 pct. af Enhedens bruttoindkomst i den korteste af følgende perioder: 1) den treårige periode, som slutter den 31. december (eller den sidste dag af en regnskabsperiode, som ikke følger kalenderåret) forud for det år, hvor fastsættelsen sker, eller 2) den periode, hvor Enheden har eksisteret.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:30",
+      "chapter": "1",
+      "section": "30",
+      "content": "§ 30. »Indskudsinstitut« (Depository Institution) betyder en Enhed, der 1) accepterer indskud som et sædvanligt led i bankvirksomhed eller lignende forretningsvirksomhed, eller 2) opbevarer Elektroniske penge eller Digitale centralbankvalutaer for kunderne.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:31",
+      "chapter": "1",
+      "section": "31",
+      "content": "§ 31. »Investeringsenhed« (Investment Entity) betyder en Enhed 1) der som led i forretningsvirksomhed hovedsagelig udfører en eller flere af følgende aktiviteter eller operationer for eller på vegne af en kunde a) handel med pengemarkedsinstrumenter (dvs. checks, veksler, indskudsbeviser, derivater mv.), valutaveksling, børs-, rente- og indeksinstrumenter, omsættelige værdipapirer eller råvareterminskontrakter, b) individuel og kollektiv porteføljeforvaltning, eller c) anden form for investering, administration eller forvaltning af Finansielle aktiver, penge eller Indberetningspligtige Kryptoaktiver, der skal indberettes, på vegne af andre personer, eller 2) hvis bruttoindkomst hovedsagelig kan tilskrives investering, geninvestering eller handel med Finansielle aktiver eller Indberetningspligtige Kryptoaktiver, hvis Enheden forvaltes af en anden Enhed, som er et Indskudsinstitut, et Forvaltningsinstitut, et Specificeret forsikringsselskab eller en Investeringsenhed som beskrevet i nr. 1. Stk. 2. En Enhed anses for som led i forretningsvirksomhed hovedsagelig at udføre en eller flere af de aktiviteter, der er beskrevet i stk. 1, nr. 1, eller en Enheds bruttoindkomst kan hovedsagelig tilskrives investering, geninvestering eller handel med Finansielle aktiver eller Indberetningspligtige Kryptoaktiver til de formål, der er nævnt i stk. 1, nr. 2, hvis Enhedens bruttoindkomst, der kan henføres til de relevante aktiviteter, svarer til eller overstiger 50 pct. af Enhedens bruttoindkomst i den korteste af følgende perioder 1) den treårige periode, som slutter den 31. december i det år, der går forud for det år, hvor fastsættelsen sker, eller 2) den periode, hvor Enheden har eksisteret. Stk. 3. Udtrykket »anden form for investering, administration eller forvaltning af Finansielle aktiver, penge eller Indberetningspligtige Kryptoaktiver på vegne af andre personer« i stk. 1, litra c, omfatter ikke levering af tjenester, hvor der foretages Vekslingstransaktioner for eller på vegne af kunder. Stk. 4. Udtrykket »Investeringsenhed« omfatter ikke en Enhed, som er en Aktiv Enhed, fordi den pågældende Enhed opfylder en eller flere af betingelserne i § 26, nr. 2-5. Stk. 5. Stk. 1-4 skal fortolkes på en måde, der er i overensstemmelse med ordlyden i definitionen af »finansieringsinstitut« i artikel 3, nr. 2, i direktiv (EU) 2015/849 og definitionen af »finansielt institut« (financial institution) i anbefalingerne fra Financial Action Task Force.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:32",
+      "chapter": "1",
+      "section": "32",
+      "content": "§ 32. »Specificeret forsikringsselskab« (Specified Insurance Company) betyder en Enhed, som er et forsikringsselskab (eller holdingselskab til et forsikringsselskab), som udsteder, eller er forpligtet til at foretage betalinger med hensyn til, en Forsikringsaftale med kontantværdi (Cash Value Insurance Contract) eller en Annuitetsaftale.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:33",
+      "chapter": "1",
+      "section": "33",
+      "content": "§ 33. »Offentlig enhed« betyder en jurisdiktions regering, en politisk underinddeling af en jurisdiktion (hvilket omfatter stat, provins, region eller kommune) eller en myndighed eller anden institution, der ejes fuldt ud af en jurisdiktion eller af en eller flere af ovenstående Offentlige enheder. Denne kategori består af integrerende dele, kontrollerede enheder og politiske underinddelinger af en jurisdiktion. 1) En »integrerende del« af en jurisdiktion betyder en person, en organisation, en myndighed, et kontor, en fond, en institution eller et andet organ, uanset betegnelsen, der udgør en styrende myndighed i en jurisdiktion. Den styrende myndigheds nettoindtjening skal godskrives dens egen konto eller andre konti, der tilhører denne jurisdiktion, uden at nogen del kommer en privatperson til gode. En integrerende del omfatter ikke en fysisk person, der er statsoverhoved, embedsmand eller administrator, som handler i privat eller personlig egenskab. 2) En »kontrolleret enhed« betyder en Enhed, der i sin form er adskilt fra jurisdiktionen, eller som på anden vis udgør en særskilt juridisk enhed, forudsat at a) Enheden ejes fuldt ud og kontrolleres direkte af en eller flere Offentlige enheder eller gennem en eller flere kontrollerede enheder, b) Enhedens nettoindtjening godskrives dens egen konto eller konti, der tilhører en eller flere Offentlige enheder, uden at nogen del af indkomsten tilskrives en privatperson, og c) Enhedens aktiver ved opløsning tilfalder en eller flere Offentlige enheder. 3) Indkomst kommer ikke privatpersoner til gode, hvis disse personer er de tilsigtede modtagere af et offentligt program, og programmets aktiviteter udføres over for offentligheden i almenhedens interesse eller vedrører forvaltningen af et offentligt tiltag. Uanset 1. pkt. anses indkomst for at komme privatpersoner til gode, hvis indkomsten stammer fra anvendelsen af en offentlig enhed til at udføre erhvervsmæssig virksomhed, som f.eks. kommerciel bankvirksomhed, som leverer finansielle tjenesteydelser til privatpersoner.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:34",
+      "chapter": "1",
+      "section": "34",
+      "content": "§ 34. »International organisation« betyder en international organisation eller en myndighed eller institution, der ejes fuldt ud heraf. Denne kategori omfatter enhver mellemstatslig organisation (herunder en overstatslig organisation), 1) der hovedsagelig består af regeringer, 2) der i praksis har en hjemstedsaftale eller en i alt væsentligt tilsvarende aftale med jurisdiktionen, og 3) hvorfra indkomsten ikke kommer privatpersoner til gode.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:35",
+      "chapter": "1",
+      "section": "35",
+      "content": "§ 35. Udtrykket »Finansielt aktiv« omfatter: 1) Værdipapirer som f.eks. kapitalandele i et aktieselskab, andele eller ejerinteresser i et interessentskab, der har udvidet ejerkreds eller er børsnoteret, eller en trust, obligationer, lånebeviser, gældsbreve eller tilsvarende gældsbeviser. 2) Andele i et interessentskab, råvarer, swaps som f.eks. renteswaps, valutaswaps, basisswaps, rentelofter, rentegulve, råvareswaps, aktieswaps, aktieindeksswaps og lignende aftaler. 3) Forsikringsaftaler eller Annuitetsaftaler. 4) Andele, (herunder en futureskontrakt, en terminskontrakt eller en option) i værdipapirer, Indberetningspligtige Kryptoaktiver, interessentskaber, råvarer, swaps, Forsikringsaftaler eller Annuitetsaftaler. Stk. 2. »Finansielt aktiv« omfatter ikke en ikkegældsbaseret, direkte andel i fast ejendom.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:36",
+      "chapter": "1",
+      "section": "36",
+      "content": "§ 36. »Andel i egenkapital« betyder, for så vidt angår et interessentskab, der er et Finansielt institut, enten andel i kapital eller andel i overskud i interessentskabet. Stk. 2. For så vidt angår en trust, der er et Finansielt institut, anses en Andel i egenkapital for at være besiddet af en person, der behandles som stifter eller berettiget i hele eller en del af trusten, eller en anden fysisk person, der udøver endelig effektiv kontrol over trusten. En Person, hvorom der skal indberettes, behandles som værende berettiget i en trust, hvis en sådan Person, hvorom der skal indberettes, har ret til direkte eller indirekte (for eksempel gennem en forvalter) at modtage en pligtmæssig udlodning eller direkte eller indirekte kan modtage en skønsmæssig udlodning fra trusten.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:37",
+      "chapter": "1",
+      "section": "37",
+      "content": "§ 37. »Forsikringsaftale« betyder en aftale (bortset fra en Annuitetsaftale), i henhold til hvilken udstederen accepterer at betale et beløb ved indtræden af en specificeret hændelse, der omfatter døds-, sygdoms-, ulykkes-, ansvars- eller ejendomsrisiko.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:38",
+      "chapter": "1",
+      "section": "38",
+      "content": "§ 38. »Annuitetsaftale« betyder en aftale, i henhold til hvilken udstederen accepterer at foretage udbetalinger i en tidsperiode, der helt eller delvis fastsættes under hensyn til en eller flere fysiske personers forventede levetid. Stk. 2. Udtrykket »Annuitetsaftale« omfatter også en aftale, der anses for en Annuitetsaftale i henhold til lov, forskrift eller praksis i den jurisdiktion, hvor aftalen er udstedt, og i henhold til hvilken udstederen accepterer at foretage betalinger i en årrække.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:39",
+      "chapter": "1",
+      "section": "39",
+      "content": "§ 39. »Forsikringsaftale med kontantværdi« betyder en Forsikringsaftale (bortset fra en genforsikringsaftale for regresansvar mellem to forsikringsselskaber), som har en Kontantværdi.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:40",
+      "chapter": "1",
+      "section": "40",
+      "content": "§ 40. »Kontantværdi« betyder det største af følgende to beløb: 1) det beløb, som forsikringstageren er berettiget til at modtage ved opsigelse eller udløb af aftalen (fastsat uden nedsættelse for en eventuel betaling i forbindelse med opsigelse eller forsikringspolicelån) og 2) det beløb, som forsikringstageren kan låne i henhold til eller under hensyn til aftalen. Stk. 2. Uanset stk. 1 omfatter udtrykket »Kontantværdi« ikke et beløb, som skal betales i henhold til en Forsikringsaftale: 1) alene som følge af, at en fysisk person, som er forsikret i henhold til en livsforsikringsaftale, er afgået ved døden, 2) i form af personskade- eller sygdomsydelser eller anden ydelse, der erstatter et økonomisk tab ved indtræden af den hændelse, der er forsikret mod, 3) i form af tilbagebetaling af en tidligere indbetalt præmie (fratrukket udgifter til forsikringsgebyrer, uanset om de er opkrævet eller ej) i henhold til en Forsikringsaftale (bortset fra en investeringstilknyttet livsforsikrings- eller annuitetsaftale) som følge af annullering eller udløb af aftalen, nedsættelse af risikoeksponering i aftalens dækningsperiode eller som følge af rettelse af posteringsfejl eller anden lignende fejl vedrørende aftalens præmie, 4) som udlodning til forsikringstager (undtagen udlodning i forbindelse med udløb), såfremt udlodningen vedrører en Forsikringsaftale, i henhold til hvilken kun de ydelser, der er beskrevet i nr. 2 skal udbetales, eller 5) i form af tilbagebetaling af en forudbetalt præmie eller et præmiedepositum for en Forsikringsaftale, for hvilken præmien skal betales mindst én gang årligt, hvis beløbet for forskudspræmien eller præmiedepositummet ikke overstiger den næste årlige præmie, der skal betales i henhold til aftalen.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:41",
+      "chapter": "1",
+      "section": "41",
+      "content": "§ 41. »Due diligence procedurer i forhold til Kunder« betyder en Indberetningspligtig Udbyder af Kryptoaktivtjenesters due diligence procedurer i forhold til kunder, jf. direktiv (EU) 2015/849, eller lignende krav, som en sådan Indberetningspligtig Udbyder af Kryptoaktivtjenester er underlagt.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:42",
+      "chapter": "1",
+      "section": "42",
+      "content": "§ 42. »Enhed« betyder en juridisk person eller en juridisk ordning, f.eks. et selskab, et interessentskab, et partnerskab, en trust eller en fond.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:43",
+      "chapter": "1",
+      "section": "43",
+      "content": "§ 43. En Enhed er en »Tilknyttet enhed« i forhold til en anden Enhed, hvis en af Enhederne kontrollerer den anden Enhed, eller de to Enheder er under fælles kontrol. I denne henseende omfatter kontrol direkte eller indirekte ejerskab af mere end 50 pct. af stemmerne og værdien i en Enhed.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:44",
+      "chapter": "1",
+      "section": "44",
+      "content": "§ 44. »Filial« betyder en enhed, en virksomhed eller et kontor for en Indberetningspligtig Udbyder af Kryptoaktivtjenester, der behandles som filial i henhold til en jurisdiktions lovgivning, eller som på anden vis reguleres under en jurisdiktions lovgivning separat fra andre kontorer, enheder eller filialer tilhørende den Indberetningspligtige Udbyder af Kryptoaktivtjenester. Alle enheder, virksomheder eller kontorer tilhørende en Indberetningspligtig Udbyder af Kryptoaktivtjenester i samme jurisdiktion behandles som en enkelt filial.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:45",
+      "chapter": "1",
+      "section": "45",
+      "content": "§ 45. »Gældende Betinget Aftale Mellem Kompetente Myndigheder« betyder en aftale mellem de kompetente myndigheder i en EU-medlemsstat og en jurisdiktion uden for EU, som kræver automatisk udveksling af oplysninger svarende til dem, der er angivet i § 58, som fastsat ved en gennemførelsesretsakt i overensstemmelse med artikel 8ad, stk. 11, i Rådets direktiv 2011/16/EU om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/799/EØF med senere ændringer.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:46",
+      "chapter": "1",
+      "section": "46",
+      "content": "§ 46. »Kvalificeret Jurisdiktion uden for EU« betyder en jurisdiktion uden for EU, der har en Gældende Betinget Aftale Mellem Kompetente Myndigheder, som er i kraft, med de kompetente myndigheder i alle EU-medlemsstater, der er identificeret som jurisdiktioner, hvorom der skal indberettes, på en liste offentliggjort af jurisdiktionen uden for EU.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:47",
+      "chapter": "1",
+      "section": "47",
+      "content": "§ 47. »Skatteregistreringsnummer« betyder et Skatteregistreringsnummer, eller hvad der til praktiske formål svarer dertil i mangel af et Skatteregistreringsnummer. Skatteregistreringsnummeret er et nummer eller en kode, som en kompetent myndighed bruger til at identificere en skatteyder.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:48",
+      "chapter": "1",
+      "section": "48",
+      "content": "§ 48. »Identifikationstjeneste« betyder en elektronisk proces, som en Relevant jurisdiktion eller EU vederlagsfrit stiller til rådighed for en Indberetningspligtig Udbyder af Kryptoaktivtjenester med henblik på at fastslå en Kryptoaktivbrugers identitet og skattemæssige hjemsted.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:49",
+      "chapter": "2",
+      "section": "49",
+      "content": "§ 49. En Indberetningspligtig Udbyder af Kryptoaktivtjenester er omfattet af de krav om indberetning og due diligence, der er fastsat i henholdsvis kapitel 3 og 4, i Danmark, hvis den 1) er en Enhed, der er meddelt tilladelse af Finanstilsynet i overensstemmelse med artikel 63 i forordning (EU) 2023/1114, eller som har tilladelse til at levere kryptoaktivtjenester efter en meddelelse til Finanstilsynet i overensstemmelse med artikel 60 i forordning (EU) 2023/1114, eller 2) ikke er en Enhed, der er meddelt tilladelse i overensstemmelse med artikel 63 i forordning (EU) 2023/1114, eller som har tilladelse til at levere kryptoaktivtjenester efter en meddelelse til nogen medlemsstat i overensstemmelse med artikel 60 i forordning (EU) 2023/1114, og den er a) en Enhed eller fysisk person, som er skattemæssigt hjemmehørende i Danmark, b) en Enhed, som er i) registreret eller oprettet i henhold til lovgivningen i Danmark, og ii) enten en juridisk person i Danmark eller forpligtet til at indgive oplysningsskemaer til Skatteforvaltningen, for så vidt angår Enhedens indkomst, c) en Enhed, som forvaltes fra Danmark, eller d) en Enhed eller en fysisk person, som har sit sædvanlige forretningssted i Danmark.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:50",
+      "chapter": "2",
+      "section": "50",
+      "content": "§ 50. En Indberetningspligtig Udbyder af Kryptoaktivtjenester er omfattet af kravene om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, for så vidt angår Indberetningspligtige transaktioner, der foretages via en Filial beliggende i Danmark.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:51",
+      "chapter": "2",
+      "section": "51",
+      "content": "§ 51. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som er en Enhed, skal ikke opfylde de krav om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som den er omfattet af i henhold til § 49, nr. 2, litra b, c eller d, hvis disse krav er opfyldt af denne Indberetningspligtige Udbyder af Kryptoaktivtjenester i en anden EU-medlemsstat eller i en Kvalificeret Jurisdiktion uden for EU i kraft af, at denne har skattemæssigt hjemsted i en sådan EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:52",
+      "chapter": "2",
+      "section": "52",
+      "content": "§ 52. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som er en Enhed, skal ikke opfylde de krav om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som den er omfattet af i henhold til § 49, nr. 2, litra c eller d, hvis disse krav er opfyldt af denne Indberetningspligtige Udbyder af Kryptoaktivtjenester i en anden EU-medlemsstat eller i en Kvalificeret Jurisdiktion uden for EU i kraft af, at den er en Enhed, som 1) er registreret eller oprettet i henhold til lovgivningen i sådan en EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU, og 2) enten er en juridisk person i den anden EU-medlemsstat eller Kvalificerede Jurisdiktion uden for EU eller er forpligtet til at indgive selvangivelser til skattemyndighederne i den anden EU-medlemsstat eller Kvalificerede Jurisdiktion uden for EU, for så vidt angår Enhedens indkomst.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:53",
+      "chapter": "2",
+      "section": "53",
+      "content": "§ 53. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som er en Enhed, skal ikke opfylde de krav om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som den er omfattet af i henhold til § 49, nr. 2, litra d, hvis disse krav er opfyldt af denne Indberetningspligtige Udbyder af Kryptoaktivtjenester i en anden EU-medlemsstat eller i en Kvalificeret Jurisdiktion uden for EU i kraft af, at denne forvaltes fra en sådan EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:54",
+      "chapter": "2",
+      "section": "54",
+      "content": "§ 54. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som er en fysisk person, skal ikke opfylde de krav om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som vedkommende er omfattet af i henhold til § 49, nr. 2, litra d, hvis disse krav er opfyldt af den pågældende Indberetningspligtige Udbyder af Kryptoaktivtjenester i en anden EU-medlemsstat eller i en Kvalificeret Jurisdiktion uden for EU i kraft af, at vedkommende har sit skattemæssige hjemsted i en sådan EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:55",
+      "chapter": "2",
+      "section": "55",
+      "content": "§ 55. En Indberetningspligtig Udbyder af Kryptoaktivtjenester skal ikke opfylde de krav til indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, som den er omfattet af i henhold til § 49, nr. 2, litra a-d, hvis den pågældende har givet en meddelelse til Skatteforvaltningen i et format specificeret af Skatteforvaltningen, hvori det bekræftes, at sådanne krav er opfyldt af den pågældende Indberetningspligtige Udbyder af Kryptoaktivtjenester i henhold til reglerne i en anden EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU, jf. kriterier, som i al væsentlighed svarer til henholdsvis § 49, nr. 2, litra a-d.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:56",
+      "chapter": "2",
+      "section": "56",
+      "content": "§ 56. En Indberetningspligtig Udbyder af Kryptoaktivtjenester skal ikke opfylde kravene om indberetning og due diligence i henholdsvis kapitel 3 og 4 i Danmark, for så vidt angår Indberetningspligtige transaktioner, som den pågældende foretager via en Filial i en anden EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU, hvis disse krav er opfyldt af denne Filial i en sådan anden EU-medlemsstat eller Kvalificeret Jurisdiktion uden for EU.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:57",
+      "chapter": "3",
+      "section": "57",
+      "content": "§ 57. En Indberetningspligtig Udbyder af Kryptoaktivtjenester som omhandlet i §§ 49 og 50, indberetter de oplysninger, der er fastsat i § 58, til den kompetente myndighed i Danmark, hvis den er underlagt indberetningskrav her i henhold til kapitel 2.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:58",
+      "chapter": "3",
+      "section": "58",
+      "content": "§ 58. En Indberetningspligtig Udbyder af Kryptoaktivtjenester skal for hvert relevant kalenderår og i overensstemmelse med forpligtelserne for Indberetningspligtige Udbydere af Kryptoaktivtjenester i kapitel 2 og due diligence procedurerne i kapitel 4 indberette oplysningerne nævnt i stk. 2-6 og 8-10, for så vidt angår sine Kryptoaktivbrugere, der er Brugere, hvorom der skal indberettes, eller som har Kontrollerende Personer, der er Personer, hvorom der skal indberettes. Stk. 2. Indberetningen skal omfatte følgende oplysninger for hver Bruger, hvorom der skal indberettes 1) navn, 2) adresse, 3) den jurisdiktion eller de jurisdiktioner, hvor vedkommende er skattemæssigt hjemmehørende, 4) Skatteregistreringsnummer eller -numre og, 5) såfremt der er tale om en fysisk person, fødselsdato og fødested. Stk. 3. Såfremt en Enhed efter anvendelse af due diligence procedurerne i overensstemmelse med kapitel 4 bliver identificeret som havende en eller flere Kontrollerende Personer, som er Personer, hvorom der skal indberettes, skal indberetningen omfatte de oplysninger, som er nævnt i stk. 2, for hver af disse Kontrollerende personer. Endvidere skal indberetningen omfatte oplysninger om den eller de roller, i kraft af hvilken eller hvilke hver enkelt Person, hvorom der skal indberettes, er en Kontrollerende Person i Enheden. Stk. 4. Hvis den Indberetningspligtige Udbyder af Kryptoaktivtjenester indberetter til en kompetent myndighed, der anvender en Identifikationstjeneste og anvender direkte bekræftelse af identitet og bopæl for den Person, hvorom der skal indberettes, gennem en Identifikationstjeneste, der er stillet til rådighed af en Relevant jurisdiktion eller EU, til at fastslå identitet og alle skattemæssige hjemsteder for den Person, hvorom der skal indberettes, skal de oplysninger, der skal indberettes, uanset stk. 2 og 3, omfatte navn, Identifikationstjenestens identifikator og udstedelsesmedlemsstaten eller -staterne samt den eller de roller, i kraft af hvilken eller hvilke hver Person, hvorom der skal indberettes, er en Kontrollerende person i Enheden. Stk. 5. For så vidt angår den Indberetningspligtige Udbyder af Kryptoaktivtjenester, skal indberetningen omfatte navn, adresse, Skatteregistreringsnummer og, hvis det findes, det individuelle identifikationsnummer som omhandlet i § 74, stk. 3, og den globale ID-kode for juridiske enheder. Stk. 6. For hver type Indberetningspligtigt Kryptoaktiv, for hvilket den Indberetningspligtige Udbyder af Kryptoaktivtjenester har foretaget Indberetningspligtige transaktioner i løbet af det relevante kalenderår, skal følgende oplysninger indberettes, hvis det er relevant: 1) Digital Token Identifier, hvis en sådan findes, eller alternativt det fulde navn på typen af Indberetningspligtigt Kryptoaktiv. 2) Det aggregerede betalte bruttobeløb, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner for så vidt angår erhvervelser mod betaling i Fiatvaluta. 3) Det aggregerede modtagne bruttobeløb, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner, for så vidt angår afhændelser mod betaling i Fiatvaluta. 4) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner, for så vidt angår erhvervelser mod betaling i andre Indberetningspligtige Kryptoaktiver. 5) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner, for så vidt angår afhændelser mod betaling i andre Indberetningspligtige Kryptoaktiver. 6) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige Detailbetalingstransaktioner. 7) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner underopdelt efter transaktionstype, hvis den Indberetningspligtige Udbyder af Kryptoaktivtjenester har kendskab hertil, for så vidt angår Overførsler til den Bruger, hvorom der skal indberettes, som ikke er omfattet af nr. 2 og 4. 8) Den aggregerede rimelige markedsværdi, det aggregerede antal enheder og antallet af Indberetningspligtige transaktioner underopdelt efter transaktionstype, hvis den Indberetningspligtige Udbyder af Kryptoaktivtjenester har kendskab hertil, for så vidt angår Overførsler fra den Bruger, hvorom der skal indberettes, som ikke er omfattet af nr. 3, 5 og 6. 9) Den aggregerede rimelige markedsværdi såvel som det aggregerede antal enheder af Overførsler foretaget af den Indberetningspligtige Udbyder af Kryptoaktivtjenester til distributed ledger-adresser som omhandlet i forordning (EU) 2023/1114, som ikke vides at være associeret med en udbyder af tjenester for virtuelle aktiver eller et finansielt institut. Stk. 7. Den Indberetningspligtige Udbyder af Kryptoaktivtjenester skal alene indberette om Personer, hvorom der skal indberettes, hvis denne har udført en eller flere Indberetningspligtige transaktioner i det kalenderår, indberetningen vedrører. Stk. 8. Ved indberetning efter stk. 6, nr. 2 og 3, indberettes det beløb, som er betalt eller modtaget, i den Fiatvaluta, i hvilken det er betalt eller modtaget. I tilfælde, hvor beløbene er betalt eller modtaget i forskellige Fiatvalutaer, indberettes beløbene i en enkelt valuta, som omregnes på tidspunktet for hver Indberetningspligtig transaktion på en måde, der anvendes konsekvent af den Indberetningspligtige Udbyder af Kryptoaktivtjenester. Stk. 9. Ved indberetning efter stk. 6, nr. 4-9, fastslås og indberettes den rimelige markedsværdi i en enkelt valuta, som værdisættes på tidspunktet for hver Indberetningspligtig transaktion på en måde, der anvendes konsekvent af den Indberetningspligtige Udbyder af Kryptoaktivtjenester . Stk. 10. De indberettede oplysninger skal identificere den Fiatvaluta, hvori hvert beløb er indberettet.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:59",
+      "chapter": "3",
+      "section": "59",
+      "content": "§ 59. Uanset § 58 skal Skatteregistreringsnummeret ikke indberettes hvis 1) den Relevante jurisdiktion ikke udsteder Skatteregistreringsnummer, eller 2) lovgivningen i den Relevante jurisdiktion ikke kræver indsamling af Skatteregistreringsnummeret udstedt af den pågældende Relevante jurisdiktion. Stk. 2. Uanset § 58, stk. 2 og 3, skal fødestedet ikke indberettes, medmindre den Indberetningspligtige Udbyder af Kryptoaktivtjenester på anden måde er forpligtet til at indhente og indberette det i henhold til national ret.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:60",
+      "chapter": "3",
+      "section": "60",
+      "content": "§ 60. De i § 58 anførte oplysninger skal indberettes senest den 31. januar i året efter det kalenderår, som oplysningerne vedrører. De første oplysninger indberettes for kalenderåret 2026.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:61",
+      "chapter": "3",
+      "section": "61",
+      "content": "§ 61. Uanset §§ 57 og 60 er en Indberetningspligtig Udbyder af Kryptoaktivtjenester som omhandlet i § 49, nr. 2, ikke forpligtet til at videregive de oplysninger, der er fastsat i § 58, for så vidt angår Brugere, hvorom der skal indberettes, eller Kontrollerende personer, for hvilke den Indberetningspligtige Udbyder af Kryptoaktivtjenester foretager indberetningen af disse oplysninger i en jurisdiktion uden for EU, der er omfattet af en Gældende Betinget Aftale Mellem Kompetente Myndigheder med den EU-medlemsstat, hvor vedkommende er skattemæssigt hjemmehørende.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:62",
+      "chapter": "4",
+      "section": "62",
+      "content": "§ 62. En Kryptoaktivbruger behandles som en Bruger, hvorom der skal indberettes, begyndende fra den dato, hvor vedkommende bliver identificeret som sådan i henhold til due diligence procedurerne som beskrevet i dette kapitel.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:63",
+      "chapter": "4",
+      "section": "63",
+      "content": "§ 63. Følgende procedurer finder anvendelse med henblik på bestemmelse af, hvorvidt den Individuelle Kryptoaktivbruger er en Bruger, hvorom der skal indberettes: 1) Ved etablering af et kundeforhold med den Individuelle Kryptoaktivbruger, eller – for så vidt angår Allerede eksisterende Individuelle Kryptoaktivbrugere – senest den 1. januar 2027, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester indhente en egenerklæring, som gør det muligt for den Indberetningspligtige Udbyder af Kryptoaktivtjenester at fastslå den Individuelle Kryptoaktivbrugers skattemæssige hjemsted eller hjemsteder og bekræfte en sådan egenerklærings rimelighed på grundlag af oplysninger indhentet af den Indberetningspligtige Udbyder af Kryptoaktivtjenester, herunder dokumentation indsamlet i henhold til Due diligence procedurer i forhold til Kunder. 2) Hvis der sker en ændring i omstændighederne med hensyn til en Individuel Kryptoaktivbruger, som medfører, at den Indberetningspligtige Udbyder af Kryptoaktivtjenester tror eller får grund til at tro, at den oprindelige egenerklæring er forkert eller upålidelig, kan den Indberetningspligtige Udbyder af Kryptoaktivtjenester ikke henholde sig til den oprindelige egenerklæring, men skal indhente en gyldig egenerklæring eller en rimelig forklaring og, hvor det er relevant, dokumentation til støtte for gyldigheden af den oprindelige egenerklæring.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:64",
+      "chapter": "4",
+      "section": "64",
+      "content": "§ 64. Følgende procedurer finder anvendelse med henblik på at fastslå, hvorvidt den Enhed, som er Kryptoaktivbruger, er en Bruger, hvorom der skal indberettes, eller en anden Enhed end en Undtagen Person eller en Aktiv Enhed, med en eller flere Kontrollerende Personer, hvorom der skal indberettes: 1) Afgørelse af, hvorvidt den Enhed, som er Kryptoaktivbruger, er en Person, hvorom der skal indberettes: a) Ved etablering af et forhold med den Enhed, som er Kryptoaktivbruger, eller – for så vidt angår Allerede eksisterende Enheder, som er Kryptoaktivbrugere – senest den 1. januar 2027, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester indhente en egenerklæring, som gør det muligt for den Indberetningspligtige Udbyder af Kryptoaktivtjenester at fastslå det eller de skattemæssige hjemsteder for Enheden, som er Kryptoaktivbruger, og bekræfte en sådan egenerklærings rimelighed på grundlag af oplysninger indhentet af den Indberetningspligtige Udbyder af Kryptoaktivtjenester, herunder dokumentation indsamlet i henhold til Due diligence procedurer i forhold til Kunder. Hvis den Enhed, som er Kryptoaktivbruger, erklærer, at den ikke har noget skattemæssigt hjemsted, kan den Indberetningspligtige Udbyder af Kryptoaktivtjenester med henblik på at fastslå hjemstedet for Enheden, som er Kryptoaktivbruger, henholde sig til stedet for dennes faktiske ledelse eller hovedkontorets adresse. b) Hvis det af egenerklæringen fremgår, at den Enhed, som er Kryptoaktivbruger, er skattemæssigt hjemmehørende i en Relevant jurisdiktion, behandler den Indberetningspligtige Udbyder af Kryptoaktivtjenester Enheden, som er Kryptoaktivbruger, som en Bruger, hvorom der skal indberettes, medmindre det med rimelighed – baseret på egenerklæringen eller oplysninger, der er i dens besiddelse, eller som er offentligt tilgængelige – kan fastslås, at Enheden, som er Kryptoaktivbruger, er en Undtagen Person. 2) Ved afgørelse af, hvorvidt Enheden har en eller flere Kontrollerende Personer, hvorom der skal indberettes, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester med hensyn til en Enhed, som er Kryptoaktivbruger, men som ikke er en Undtagen Person, fastslå, hvorvidt den har en eller flere Kontrollerende Personer, hvorom der skal indberettes, medmindre det på grundlag af en egenerklæring fra Enheden, som er Kryptoaktivbruger, fastslås, at den Enhed, som er Kryptoaktivbruger, er en Aktiv Enhed. Dette sker efter følgende procedure: a) Ved bestemmelse af de Kontrollerende Personer for en Enhed, som er Kryptoaktivbruger kan en Indberetningspligtig Udbyder af Kryptoaktivtjenester henholde sig til oplysninger indsamlet og opbevaret efter Due diligence procedurer i forhold til Kunder, forudsat at sådanne procedurer er i overensstemmelse med direktiv (EU) 2015/849 og i overensstemmelse med anbefalingerne af 2012 fra Financial Action Task Force, som opdateret i juni 2019 vedrørende udbydere af virtuelle aktiver. Hvis den Indberetningspligtige Udbyder af Kryptoaktivtjenester ikke er juridisk forpligtet til at anvende Due diligence procedurer i forhold til Kunder, som er i overensstemmelse med direktiv (EU) 2015/849 og i overensstemmelse med anbefalingerne af 2012 fra Financial Action Task Force, som opdateret i juni 2019 vedrørende udbydere af virtuelle aktiver, anvender den i væsentlig grad lignende procedurer med henblik på at fastslå de Kontrollerende personer. b) Ved afgørelse af, hvorvidt en Kontrollerende Person for en Enhed, som er Kryptoaktivbruger, er en Person, hvorom der skal indberettes, skal en Indberetningspligtig Udbyder af Kryptoaktivtjenester henholde sig til en egenerklæring fra den Enhed, som er Kryptoaktivbruger, eller en sådan Kontrollerende Person, som gør det muligt for den Indberetningspligtige Udbyder af Kryptoaktivtjenester at fastslå den Kontrollerende Persons skattemæssige hjemsted eller hjemsteder og bekræfte en sådan egenerklærings rimelighed på grundlag af oplysninger indhentet af den Indberetningspligtige Udbyder af Kryptoaktivtjenester, herunder dokumentation indsamlet i henhold til Due diligence procedurer i forhold til Kunder. 3) Hvis der på noget tidspunkt sker en ændring i omstændighederne med hensyn til en Enhed, som er Kryptoaktivbruger, eller dennes Kontrollerende Personer, som medfører, at den Indberetningspligtige Udbyder af Kryptoaktivtjenester tror eller har grund til at tro, at en egenerklæring indhentet efter nr. 1 eller 2 er forkert eller upålidelig, kan den Indberetningspligtige Udbyder af Kryptoaktivtjenester ikke henholde sig til den oprindelige egenerklæring, men skal indhente en gyldig egenerklæring eller en rimelig forklaring og, hvor det er relevant, dokumentation til støtte for gyldigheden af den oprindelige egenerklæring.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:65",
+      "chapter": "4",
+      "section": "65",
+      "content": "§ 65. En egenerklæring fra en Individuel Kryptoaktivbruger eller en Kontrollerende Person er kun gyldig, hvis den er undertegnet eller på anden måde positivt bekræftet af den Individuelle Kryptoaktivbruger eller den Kontrollerende Person, hvis den er dateret senest på datoen for modtagelsen, og den indeholder følgende oplysninger vedrørende den Individuelle Kryptoaktivbruger eller den Kontrollerende Person: 1) For- og efternavn. 2) Bopælsadresse. 3) Jurisdiktion eller jurisdiktioner, hvor vedkommende er skattemæssigt hjemmehørende. 4) For så vidt angår hver enkelt Person, hvorom der skal indberettes, Skatteregistreringsnummeret for hver jurisdiktion, hvor vedkommende er skattemæssigt hjemmehørende. 5) Fødselsdato.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:66",
+      "chapter": "4",
+      "section": "66",
+      "content": "§ 66. En egenerklæring fra en Enhed, som er Kryptoaktivbruger, er kun gyldig, hvis den er undertegnet eller på anden måde positivt bekræftet af Enheden, som er Kryptoaktivbruger, hvis den er dateret senest på datoen for modtagelsen, og den indeholder følgende oplysninger vedrørende Enheden, som er Kryptoaktivbruger: 1) Juridisk navn. 2) Adresse. 3) Jurisdiktion eller jurisdiktioner, hvor Enheden er skattemæssigt hjemmehørende. 4) For så vidt angår hver enkelt Person, hvorom der skal indberettes, Skatteregistreringsnummeret for hver jurisdiktion, hvor vedkommende er skattemæssigt hjemmehørende. 5) I tilfælde af en Enhed, som er Kryptoaktivbruger, men som ikke er en Aktiv Enhed eller en Undtagen Person, de oplysninger, som er beskrevet i § 65 for hver Kontrollerende Person for Enheden, som er Kryptoaktivbruger, medmindre denne Kontrollerende person har forelagt en egenerklæring i henhold til § 65 såvel som den eller de roller i kraft af hvilken eller hvilke hver enkelt Person, hvorom der skal indberettes, er en Kontrollerende Person for Enheden, hvis dette ikke allerede er fastslået på grundlag af Due diligence procedurer i forhold til Kunder. 6) Hvis det er relevant, oplysninger om de kriterier, Enheden opfylder for at blive behandlet som en Aktiv Enhed eller en Undtagen Person.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:67",
+      "chapter": "4",
+      "section": "67",
+      "content": "§ 67. Uanset §§ 65 og 66 er der ikke krav om indsamling af Skatteregistreringsnummeret, hvis den jurisdiktion, hvor den Kryptoaktivbruger, hvorom der skal indberettes, skattemæssigt er hjemmehørende, ikke har udstedt et Skatteregistreringsnummer til den Kryptoaktivbruger, hvorom der skal indberettes, eller lovgivningen i den Relevante jurisdiktion ikke kræver indsamling af Skatteregistreringsnummeret udstedt af den pågældende Relevante jurisdiktion.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:68",
+      "chapter": "4",
+      "section": "68",
+      "content": "§ 68. En Indberetningspligtig Udbyder af Kryptoaktivtjenester, som også er et Finansielt institut, jf. § 28, kan basere sig på de due diligence procedurer, som er fuldført i henhold til kapitel 5 og 7 i bekendtgørelse om identifikation og indberetning af finansielle konti med tilknytning til udlandet med henblik på due diligence procedurerne i henhold til dette kapitel. En Indberetningspligtig Udbyder af Kryptoaktivtjenester kan ligeledes basere sig på en egenerklæring, der allerede er indhentet til andre skatteformål, forudsat at en sådan egenerklæring opfylder kravene i §§ 65 eller 66.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:69",
+      "chapter": "4",
+      "section": "69",
+      "content": "§ 69. En Indberetningspligtig Udbyder af Kryptoaktivtjenester kan basere sig på, at en tredjepart opfylder due diligence forpligtelserne som fastsat i dette kapitel, men forpligtelserne er fortsat den Indberetningspligtige Udbyder af Kryptoaktivtjenesters ansvar.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:70",
+      "chapter": "5",
+      "section": "70",
+      "content": "§ 70. Hvis en Kryptoaktivbruger ikke fremlægger de oplysninger, der er påkrævet i henhold til kapitel 4, efter to påmindelser efter den Indberetningspligtige Udbyder af Kryptoaktivtjenesters oprindelige anmodning, men ikke før udløbet af 60 dage, skal den Indberetningspligtige Udbyder af Kryptoaktivtjenester forhindre Kryptoaktivbrugeren i at foretage Indberetningspligtige transaktioner.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:71",
+      "chapter": "5",
+      "section": "71",
+      "content": "§ 71. Finanstilsynet sender regelmæssigt og senest den 31. december i det relevante kalenderår en liste til Skatteforvaltningen over alle Udbydere af Kryptoaktivtjenester, der af Finanstilsynet er meddelt tilladelse efter forordning (EU) 2023/1114.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:72",
+      "chapter": "5",
+      "section": "72",
+      "content": "§ 72. Indberetningspligtige Udbydere af Kryptoaktivtjenester omfattet af § 49, nr. 1, skal senest 8 dage efter indberetningspligtens indtræden foretage anmeldelse herom til Skatteforvaltningen. Stk. 2. Anmeldelsen sker elektronisk efter Skatteforvaltningens nærmere anvisning eller foretages på en særlig blanket, der kan rekvireres hos Skatteforvaltningen. Stk. 3. Tvivl om, hvorvidt en virksomhed er omfattet af indberetningspligt, fritager ikke for anmeldelse til registrering. Anmeldelsen skal i disse tilfælde vedlægges en redegørelse for den anmeldelsespligtiges virksomhed, hvorefter Skatteforvaltningen træffer afgørelse om registrering. Stk. 4. Ved anmeldelsen skal den indberetningspligtige give oplysning om: 1) Navn, adresse, elektroniske adresser, herunder websteder, og hjemstedskommune. 2) Den indberetningspligtiges cvr-nummer. Har den indberetningspligtige ikke et cvr-nummer, oplyses SE-nummer. 3) Dato for indberetningspligtens indtræden. 4) Karakteren af indberetningspligten. Stk. 5. Er den indberetningspligtige hverken registreret med cvr-nummer eller SE-nummer, foretages en registrering i et af disse registre. Stk. 6. Efter registreringen sender Skatteforvaltningen et registreringsbevis indeholdende de registrerede oplysninger til den indberetningspligtige. Stk. 7. Indtræder der efter registreringen ændring i de meddelte oplysninger, herunder ophør af indberetningspligt, eller konstateres der fejl i de registrerede oplysninger, skal den indberetningspligtige give Skatteforvaltningen skriftlig meddelelse herom inden 8 dage efter, at ændringen er sket, eller fejlen er konstateret. Skatteforvaltningen fremsender herefter et nyt registreringsbevis. Ved ophør af indberetningspligt gives der meddelelse om, at ophøret er registreret. Stk. 8. Ændring af registrering efter stk. 7 kan undlades ved midlertidigt ophør af indberetningspligten, mod at den indberetningspligtige for de pågældende perioder indberetter til Skatteforvaltningen om, at der ikke er oplysninger at indberette.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:73",
+      "chapter": "5",
+      "section": "73",
+      "content": "§ 73. En Kryptoaktivoperatør, der er en Indberetningspligtig Udbyder af Kryptoaktivtjenester, der opfylder betingelserne i henholdsvis § 49, nr. 2, litra a-d, eller § 50 for at være omfattet af de krav om indberetning og due diligence, der er fastsat i henholdsvis kapitel 3 og 4, i Danmark, skal registreres hos Skatteforvaltningen, inden udløbet af den periode, inden for hvilken denne Kryptoaktivoperatør skal indberette de oplysninger, der er omhandlet i § 58. Hvis en sådan Kryptoaktivoperatør opfylder betingelserne i henholdsvis § 49, nr. 2, litra a-d, eller § 50 både i Danmark og i en eller flere andre EU-medlemsstater, skal den registreres hos den kompetente myndighed enten i Danmark eller i en af disse andre EU-medlemsstater inden udløbet af den periode, inden for hvilken Kryptoaktivoperatøren skal indberette de oplysninger, der er omhandlet i § 58. Stk. 2. Uanset stk. 1 skal en Kryptoaktivoperatør, som er en Indberetningspligtig Udbyder af Kryptoaktivtjenester, ikke registreres hos Skatteforvaltningen, hvis denne Kryptoaktivoperatør ikke er forpligtet til at opfylde kravene vedrørende indberetning og due diligence i henholdsvis kapitel 3 og 4 i henhold til §§ 51-56, i Danmark, fordi disse krav opfyldes af denne Kryptoaktivoperatør i en anden EU-medlemsstat.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:74",
+      "chapter": "5",
+      "section": "74",
+      "content": "§ 74. Ved registreringen efter § 73 i Danmark fremsender Kryptoaktivoperatøren følgende oplysninger til Skatteforvaltningen: 1) Navn. 2) Postadresse. 3) Elektroniske adresser, herunder websteder. 4) Ethvert Skatteregistreringsnummer udstedt til Kryptoaktivoperatøren. 5) De EU-medlemsstater, hvor de Brugere, hvorom der skal indberettes, er skattemæssigt hjemmehørende, jf. §§ 63 og 64. 6) Enhver Kvalificeret Jurisdiktion uden for EU som omhandlet i §§ 51-56. Stk. 2. Kryptoaktivoperatøren underretter Skatteforvaltningen om enhver ændring af de oplysninger, der er givet i henhold til stk. 1. Stk. 3. Skatteforvaltningen tildeler Kryptoaktivoperatøren et individuelt identifikationsnummer og meddeler det elektronisk til de kompetente myndigheder i alle EU-medlemsstaterne.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:75",
+      "chapter": "5",
+      "section": "75",
+      "content": "§ 75. Skatteforvaltningen kan slette Kryptoaktivoperatøren fra registret over Kryptoaktivoperatører i følgende tilfælde: 1) Hvis Kryptoaktivoperatøren underretter Skatteforvaltningen om, at den ikke længere har Brugere, hvorom der skal indberettes, i EU. 2) Hvis der i mangel af en underretning i henhold til nr. 1 er grund til at antage, at en Kryptoaktivoperatørs aktivitet er ophørt. 3) Hvis Kryptoaktivoperatøren ikke længere opfylder betingelserne i § 8. 4) Hvis Skatteforvaltningen har tilbagekaldt registreringen i medfør af § 77.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:76",
+      "chapter": "5",
+      "section": "76",
+      "content": "§ 76. Skatteforvaltningen skal straks underrette Kommissionen om Kryptoaktivoperatører som omhandlet i § 8, som har Brugere, hvorom der skal indberettes, som er skattemæssigt hjemmehørende i EU, men som hverken har registreret sig selv for indberetningspligt i Danmark eller i nogen anden EU-medlemsstat i henhold til Rådets direktiv 2011/16/EU om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/799/EØF med senere ændringer, bilag VI, afdeling V, jf. herved § 73. Stk. 2. Hvis en Kryptoaktivoperatør ikke opfylder registreringsforpligtelsen efter § 73, eller hvis registreringen af vedkommende er blevet tilbagekaldt i overensstemmelse med § 77, træffer Skatteforvaltningen foranstaltninger, der er effektive, står i et rimeligt forhold til overtrædelsen og har afskrækkende virkning, for at håndhæve overholdelse inden for Danmark. Valget af sådanne foranstaltninger henhører under Skatteforvaltningens skønsbeføjelse. Skatteforvaltningen skal bestræbe sig på at samordne deres tiltag med andre EU-medlemsstater med henblik på at håndhæve overholdelse.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:77",
+      "chapter": "5",
+      "section": "77",
+      "content": "§ 77. Hvis en Kryptoaktivoperatør, der er registreret hos Skatteforvaltningen efter § 73, ikke opfylder indberetningsforpligtelsen, jf. § 58, efter to påmindelser fra Skatteforvaltningen, træffer Skatteforvaltningen de nødvendige foranstaltninger til at tilbagekalde registreringen af Kryptoaktivoperatøren. Registreringen tilbagekaldes senest efter 90 dage, men ikke før der er gået 30 dage efter anden påmindelse. Stk. 2. Hvis en Kryptoaktivoperatørs registrering er blevet tilbagekaldt efter stk. 1, kan Kryptoaktivoperatøren igen få tilladelse til at blive registreret efter § 73, hvis Kryptoaktivoperatøren over for Skatteforvaltningen giver tilsagn om at ville overholde indberetningskravene, herunder foretage eventuelle manglende indberetninger.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:78",
+      "chapter": "6",
+      "section": "78",
+      "content": "§ 78. Hvis der foretages handlinger eller undladelser, der alene eller i det væsentlige har til formål, at en transaktion ikke bliver identificeret som en Indberetningspligtig transaktion, eller at der ikke sker korrekt indberetning om en transaktion, herunder at der ikke sker korrekt indberetning vedrørende Kryptoaktivbrugere, der er Brugere, hvorom der skal indberettes, eller som har Kontrollerende Personer, der er Personer, hvorom der skal indberettes, skal der ved gennemførelse af procedurerne til identifikation af Indberetningspligtige transaktioner og ved indberetning handles, som om disse handlinger eller undladelser ikke var foretaget.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:79",
+      "chapter": "7",
+      "section": "79",
+      "content": "§ 79. Hvis anmeldelse til registrering efter § 73 ikke foretages rettidigt, kan Skatteforvaltningen give pålæg om anmeldelse til registrering inden en fastsat frist og om betaling af daglige tvangsbøder, der skal betales fra overskridelsen af fristen, og indtil pålægget efterkommes.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:80",
+      "chapter": "8",
+      "section": "80",
+      "content": "§ 80. Med bøde straffes den Indberetningspligtige Udbyder af Kryptoaktivtjenester, der forsætligt eller groft uagtsomt ikke rettidigt gennemfører due diligence procedurerne efter kapitel 4, undlader rettidigt at anmelde sig til registrering efter § 73 eller undlader rettidigt at opfylde sin indberetningspligt efter kapitel 3 eller afgiver urigtige, vildledende eller ufuldstændige oplysninger, medmindre højere straf er forskyldt efter skatteindberetningslovens § 58. Stk. 2. Med bøde straffes den Kryptoaktivbruger, der forsætligt eller groft uagtsomt afgiver urigtige, vildledende eller ufuldstændige oplysninger til en Indberetningspligtig Udbyder af Kryptoaktivtjenester i forbindelse med dennes indsamling af oplysninger efter kapitel 4, medmindre højere straf er forskyldt efter lovgivningen. Stk. 3. Med bøde straffes den Indberetningspligtige Udbyder af Kryptoaktivtjenester, der i strid med § 70 forsætligt eller groft uagtsomt undlader at forhindre en Kryptoaktivbruger i at foretage Indberetningspligtige transaktioner.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:81",
+      "chapter": "8",
+      "section": "81",
+      "content": "§ 81. Reglerne i skatteindberetningslovens §§ 60-63 gælder også for overtrædelser af bekendtgørelsen.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:82",
+      "chapter": "9",
+      "section": "82",
+      "content": "§ 82. Denne bekendtgørelse skal fortolkes og anvendes i overensstemmelse med OECD’s ramme for indberetning vedrørende kryptoaktiver (Crypto-Asset Reporting Framework), hvilket omfatter kommentarerne hertil.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:83",
+      "chapter": "10",
+      "section": "83",
+      "content": "§ 83. Bekendtgørelsen træder i kraft den 1. januar 2026. Stk. 2. Bekendtgørelsen har virkning for indberetning vedrørende kalenderåret 2026 og senere kalenderår. Stk. 3. For Udbydere af Kryptoaktivtjenester, der er indberetningspligtige vedrørende kalenderåret 2026, vil anmeldelse til registrering uanset § 72 være rettidig, hvis anmeldelsen indgives senest den 31. december 2026.",
+      "valid_from": "2025-09-10",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

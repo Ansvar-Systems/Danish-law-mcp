@@ -1,0 +1,85 @@
+{
+  "name": "@ansvar/danish-law-mcp",
+  "version": "1.0.0",
+  "description": "Production-grade Danish legal research MCP server with comprehensive statute coverage and EU law cross-references",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "danish-law-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "data/database.db"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "build:db": "node --import tsx scripts/build-db.ts",
+    "build:db:paid": "node --import tsx scripts/build-db-paid.ts",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "ingest": "tsx scripts/ingest-retsinformation.ts",
+    "ingest:document": "tsx scripts/ingest-retsinformation.ts",
+    "ingest:relevant": "tsx scripts/ingest-relevant-laws.ts",
+    "ingest:auto-all": "node --import tsx scripts/auto-ingest-all-statutes.ts",
+    "ingest:cases": "tsx scripts/ingest-lagennu-cases.ts",
+    "ingest:cases:full-archive": "tsx scripts/ingest-lagennu-full-archive.ts",
+    "sync:cases": "tsx scripts/sync-lagennu-cases.ts",
+    "sync:cases:full": "tsx scripts/sync-lagennu-cases.ts --full",
+    "sync:prep-works": "tsx scripts/ingest-preparatory-works.ts",
+    "check-updates": "node --import tsx scripts/check-updates.ts",
+    "extract:definitions": "tsx scripts/extract-definitions.ts",
+    "audit:seeds": "tsx scripts/audit-seeds.ts",
+    "fetch:eurlex": "tsx scripts/fetch-eurlex-metadata.ts",
+    "import:eurlex-documents": "tsx scripts/import-eurlex-documents.ts",
+    "migrate:eu-references": "tsx scripts/migrate-eu-references.ts",
+    "verify:eu-coverage": "tsx scripts/verify-eu-coverage.ts",
+    "lint": "eslint src tests",
+    "prepublishOnly": "npm run build",
+    "postinstall": "test -d dist || npm run build || true"
+  },
+  "dependencies": {
+    "@ansvar/mcp-sqlite": "^1.0.3",
+    "@modelcontextprotocol/sdk": "^1.25.3"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^22.15.29",
+    "@vercel/node": "^5.6.3",
+    "@vitest/coverage-v8": "^4.0.18",
+    "fast-xml-parser": "^5.3.5",
+    "jsdom": "^27.4.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansvar-Systems/Denmark-law-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ansvar-Systems/Denmark-law-mcp/issues"
+  },
+  "homepage": "https://github.com/Ansvar-Systems/Denmark-law-mcp#readme",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "claude",
+    "danish-law",
+    "denmark",
+    "legal",
+    "compliance",
+    "retsinformation",
+    "lovtidende",
+    "ansvar"
+  ],
+  "author": "Ansvar Systems AB <hello@ansvar.ai>",
+  "license": "Apache-2.0",
+  "mcpName": "eu.ansvar/danish-law-mcp"
+}

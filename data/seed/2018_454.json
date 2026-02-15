@@ -1,0 +1,169 @@
+{
+  "id": "2018:454",
+  "type": "statute",
+  "title": "Bekendtgørelse om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2018-05-08",
+  "url": "https://www.retsinformation.dk/eli/lta/2018/454/xml",
+  "description": "Retsinformation source. DocumentId=AG000840; AccessionNumber=B20180045405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Ved vurderingen af, om en operatør af et internetudvekslingspunkt kan anses for en væsentlig operatør, jf. § 2, nr. 5, i lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v., vil der blive lagt vægt på, om operatøren driver et internet­udvekslingspunkt, der håndterer en gennemsnitlig daglig datamængde på mere end 200 gigabit pr. sekund."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Reglerne i denne bekendtgørelse finder ikke anvendelse på operatører af væsentlige internetudvekslingspunkter, der er omfattet af lov om net- og informationssikkerhed, jf. herved § 1 i lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v."
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Operatører af væsentlige internetudvekslingspunkter skal gennemføre en risikovurdering, der skal tage stilling til risikoen for tab af tilgængelighed, autenticitet, integritet og fortrolighed i de tjenester, der udbydes. Stk. 2. Såfremt operatørens tjenester helt eller delvist drives af en tredjepart, skal eventuelle risici forbundet hermed medtages i risikovurderingen efter stk. 1. Stk. 3. På baggrund af risikovurderingen efter stk. 1 og 2 skal operatørerne implementere passende foranstaltninger til sikring af tilgængelighed, autenticitet, integritet og fortrolighed i tjenester samt sikre, at tredjepart opretholder en tilsvarende sikkerhed i forhold til driftsleverancer til operatørerne efter stk. 2. Stk. 4. Risikovurderinger efter stk. 1 og 2 samt foranstaltninger efter stk. 3 skal løbende tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet."
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Operatører af væsentlige internetudvekslingspunkter skal udarbejde og gennemføre en ledelsesgodkendt net- og informationssikkerhedspolitik med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Informationssikkerhedspolitikken skal herunder beskrive de processuelle og organisatoriske rammer for arbejdet med informationssikkerheden og operatørens politik for håndtering af beredskabssituationer og andre ekstraordinære situationer med henblik på at sikre, at net og tjenester i videst muligt omfang kan opretholdes i sådanne situationer. Stk. 2. Operatørerne skal sikre, at informationssikkerhedspolitikken er kommunikeret til alle relevante medarbejdere. Stk. 3. Operatørerne skal løbende tilpasse informationssikkerhedspolitikken, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet. Der skal dog mindst én gang om året foretages en vurdering af behovet for at tilpasse informationssikkerhedspolitikken."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Operatører af væsentlige internetudvekslingspunkter skal på baggrund af informationssikkerhedspolitikken efter § 4 sikre, at der er etableret en informationssikkerhedsorganisation. Varetagelsen af relevante sikkerhedsopgaver, herunder roller og ansvar, skal i den forbindelse være beskrevet og i fornødent omfang være kommunikeret til operatørernes medarbejdere."
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Operatører af væsentlige internetudvekslingspunkter skal foretage risikostyring med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Stk. 2. Som led i risikostyringen skal operatørerne fastsætte en samlet risikostyringsproces, der omfatter risikovurdering og håndtering af informationssikkerhedsrisici. Der skal i den forbindelse tages stilling til kriterier for operatørernes risikovillighed. Stk. 3. Ved fastlæggelsen af risikovillighed efter stk. 2 skal der tages højde for, at operatørerne i videst muligt omfang skal opretholde udbuddet af deres væsentlige tjenester i beredskabssituationer og i andre ekstraordinære situationer med henblik på at sikre samfundets internettrafik. Stk. 4. Risikostyringsprocessen skal i fornødent omfang dokumenteres og tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet."
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Operatører af væsentlige internetudvekslingspunkter skal underrette Center for Cybersikkerhed om hændelser, der har væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som operatørerne leverer, jf. § 8."
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. En hændelse har væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som en operatør af et væsentligt internetudvekslingspunkt leverer, når hændelsen i den væsentlige tjeneste medfører 1) nedgang i operatørens kapacitet i forhold til at håndtere data på mindst 50 procent i mindst en time, eller 2) tab af autenticitet, integritet eller fortrolighed."
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Underretning i medfør af § 7 skal ske hurtigst muligt og senest inden udgangen af den førstkommende hverdag efter, at operatøren har konstateret, at hændelsen har fået væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som operatøren leverer, jf. § 8. Stk. 2. Underretningen af hændelser skal ske gennem den fælles digitale løsning for indberetning til offentlige myndigheder på www.virk.dk, jf. dog stk. 3. Stk. 3. Såfremt alle oplysninger til brug for underretningen ikke er tilgængelig for operatøren på tidspunktet, hvor underretning foretages, jf. stk. 1, afgiver operatøren en delvis underretning med de tilgængelige oplysninger. En delvis underretning skal snarest muligt følges op af en komplet underretning."
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "§ 10. Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der overtræder §§ 3-7 og § 9. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "content": "§ 11. Bekendtgørelsen træder i kraft den 10. maj 2018."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Ved vurderingen af, om en operatør af et internetudvekslingspunkt kan anses for en væsentlig operatør, jf. § 2, nr. 5, i lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v., vil der blive lagt vægt på, om operatøren driver et internet­udvekslingspunkt, der håndterer en gennemsnitlig daglig datamængde på mere end 200 gigabit pr. sekund.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Reglerne i denne bekendtgørelse finder ikke anvendelse på operatører af væsentlige internetudvekslingspunkter, der er omfattet af lov om net- og informationssikkerhed, jf. herved § 1 i lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Operatører af væsentlige internetudvekslingspunkter skal gennemføre en risikovurdering, der skal tage stilling til risikoen for tab af tilgængelighed, autenticitet, integritet og fortrolighed i de tjenester, der udbydes. Stk. 2. Såfremt operatørens tjenester helt eller delvist drives af en tredjepart, skal eventuelle risici forbundet hermed medtages i risikovurderingen efter stk. 1. Stk. 3. På baggrund af risikovurderingen efter stk. 1 og 2 skal operatørerne implementere passende foranstaltninger til sikring af tilgængelighed, autenticitet, integritet og fortrolighed i tjenester samt sikre, at tredjepart opretholder en tilsvarende sikkerhed i forhold til driftsleverancer til operatørerne efter stk. 2. Stk. 4. Risikovurderinger efter stk. 1 og 2 samt foranstaltninger efter stk. 3 skal løbende tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Operatører af væsentlige internetudvekslingspunkter skal udarbejde og gennemføre en ledelsesgodkendt net- og informationssikkerhedspolitik med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Informationssikkerhedspolitikken skal herunder beskrive de processuelle og organisatoriske rammer for arbejdet med informationssikkerheden og operatørens politik for håndtering af beredskabssituationer og andre ekstraordinære situationer med henblik på at sikre, at net og tjenester i videst muligt omfang kan opretholdes i sådanne situationer. Stk. 2. Operatørerne skal sikre, at informationssikkerhedspolitikken er kommunikeret til alle relevante medarbejdere. Stk. 3. Operatørerne skal løbende tilpasse informationssikkerhedspolitikken, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet. Der skal dog mindst én gang om året foretages en vurdering af behovet for at tilpasse informationssikkerhedspolitikken.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Operatører af væsentlige internetudvekslingspunkter skal på baggrund af informationssikkerhedspolitikken efter § 4 sikre, at der er etableret en informationssikkerhedsorganisation. Varetagelsen af relevante sikkerhedsopgaver, herunder roller og ansvar, skal i den forbindelse være beskrevet og i fornødent omfang være kommunikeret til operatørernes medarbejdere.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Operatører af væsentlige internetudvekslingspunkter skal foretage risikostyring med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Stk. 2. Som led i risikostyringen skal operatørerne fastsætte en samlet risikostyringsproces, der omfatter risikovurdering og håndtering af informationssikkerhedsrisici. Der skal i den forbindelse tages stilling til kriterier for operatørernes risikovillighed. Stk. 3. Ved fastlæggelsen af risikovillighed efter stk. 2 skal der tages højde for, at operatørerne i videst muligt omfang skal opretholde udbuddet af deres væsentlige tjenester i beredskabssituationer og i andre ekstraordinære situationer med henblik på at sikre samfundets internettrafik. Stk. 4. Risikostyringsprocessen skal i fornødent omfang dokumenteres og tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Operatører af væsentlige internetudvekslingspunkter skal underrette Center for Cybersikkerhed om hændelser, der har væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som operatørerne leverer, jf. § 8.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "§ 8. En hændelse har væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som en operatør af et væsentligt internetudvekslingspunkt leverer, når hændelsen i den væsentlige tjeneste medfører 1) nedgang i operatørens kapacitet i forhold til at håndtere data på mindst 50 procent i mindst en time, eller 2) tab af autenticitet, integritet eller fortrolighed.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Underretning i medfør af § 7 skal ske hurtigst muligt og senest inden udgangen af den førstkommende hverdag efter, at operatøren har konstateret, at hændelsen har fået væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som operatøren leverer, jf. § 8. Stk. 2. Underretningen af hændelser skal ske gennem den fælles digitale løsning for indberetning til offentlige myndigheder på www.virk.dk, jf. dog stk. 3. Stk. 3. Såfremt alle oplysninger til brug for underretningen ikke er tilgængelig for operatøren på tidspunktet, hvor underretning foretages, jf. stk. 1, afgiver operatøren en delvis underretning med de tilgængelige oplysninger. En delvis underretning skal snarest muligt følges op af en komplet underretning.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "§ 10. Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der overtræder §§ 3-7 og § 9. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "content": "§ 11. Bekendtgørelsen træder i kraft den 10. maj 2018.",
+      "valid_from": "2018-05-08",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

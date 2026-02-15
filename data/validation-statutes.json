@@ -1,0 +1,12 @@
+{
+  "description": "Strategic statute expansion for proof-of-concept validation (Phase 1: GDPR/Privacy domain)",
+  "statutes": [
+    { "id": "1973:1173", "slug": "kreditupplysningslagen", "priority": "high", "domain": "privacy" },
+    { "id": "2003:389", "slug": "lagen-om-elektronisk-kommunikation", "priority": "high", "domain": "privacy" },
+    { "id": "1992:18", "slug": "produktansvarslagen", "priority": "medium", "domain": "commercial" },
+    { "id": "2018:558", "slug": "foretagshemlighetslagen", "priority": "medium", "domain": "commercial" },
+    { "id": "1990:409", "slug": "naringsforbudslagen", "priority": "low", "domain": "commercial" },
+    { "id": "1995:584", "slug": "foraldraledighetslagen", "priority": "high", "domain": "employment" },
+    { "id": "1976:580", "slug": "kollektivavtalslagen", "priority": "medium", "domain": "employment" }
+  ]
+}

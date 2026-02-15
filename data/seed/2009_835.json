@@ -1,0 +1,547 @@
+{
+  "id": "2009:835",
+  "type": "statute",
+  "title": "Bekendtgørelse om tekniske krav og forskrifter for tinglysningssystemet",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2009-09-04",
+  "url": "https://www.retsinformation.dk/eli/lta/2009/835/xml",
+  "description": "Retsinformation source. DocumentId=AA005036; AccessionNumber=B20090083505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Den digitale signatur, som skal anvendes ved oprettelse og anmeldelse af dokumenter til tinglysning, skal være baseret på den gældende OCES-standard eller opfylde kravene i lov om elektroniske signaturer. Stk. 2. Den digitale signatur skal endvidere anvendes ved: 1) opslag vedrørende en fast ejendom, som foretages af den registrerede ejer af ejendommen, såfremt afgiftsfrihedsreglen i retsafgiftslovens § 49 a, stk. 1, 3. pkt., skal benyttes, jf. dog stk. 3, 2) opslag i tinglysningssystemet, som ønskes afregnet efter kreditkundeordningen, jf. § 36 i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden, 3) adgang til oplysninger om tidligere foretagne tinglysninger, anmeldelser, opslag mv. (funktionen ”mine tinglysninger”). Stk. 3. Opslag som nævnt i stk. 2, nr. 1, der foretages ved personlig henvendelse til Tinglysningsretten eller en byret, kræver ikke anvendelse af den pågældendes digitale signatur."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Ved modtagelse af et elektronisk dokument til tinglysning foretager Tinglysningsretten en kontrol af de tilknyttede digitale signaturer, samt af hvem den enkelte digitale signatur tilhører. Stk. 2. Kan en digital signatur, som efter tinglysningsloven eller andre tinglysningsforskrifter skal påføres et elektronisk dokument, ikke godkendes, jf. stk. 1, kan der ikke ske ting­lysning. Kan andre end de i 1. pkt. anførte signaturer, som er tilknyttet et anmeldt dokument ikke godkendes, jf. stk. 1, anfører Tinglysningsretten en bemærkning herom i meddelelsen om tinglysning."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Indholdet af et dokument, der anmeldes til tinglysning, må ikke ændres, efter der er sket digital signering."
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Tinglysningsrettens meddelelser, herunder meddelelser om tinglysning, fremsendes elektronisk, jf. dog stk. 2. Meddelelsen signeres med rettens digitale signatur. Rettens signatur skal opfylde kravene i § 1, stk. 1. Stk. 2. Meddelelse om tinglysning sendes med almindelig post i tilfælde, hvor Tinglysningsretten af tekniske grunde ikke har mulighed for at sende meddelelsen elektronisk."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Dokumenter, der skal danne grundlag for tinglysning, skal overholde de krav, der fremgår af de af Tinglysningsretten offentliggjorte snitfaldebeskrivelser, eller dokumenterne skal være oprettet ved anvendelse af de skabeloner, der er tilgængelige på Tinglysningsrettens internetportal."
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Dokumenter, der anmeldes til tinglysning, kan henvise til en godkendt brugerformular. En brugerformular indeholder en række standardvilkår, der er relevante for tinglysning af en bestemt rettighedstype. Stk. 2. Ved tinglysning af dokumenter oprettet ved anvendelse af en godkendt brugerformular, omfatter prøvelsen ikke brugerformularens nærmere vilkår. Prøvelsen omfatter i disse tilfælde de individuelle vilkår samt brugerformularens gyldighed, jf. § 7."
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. Brugerformularer godkendes af Tinglysningsretten. Retten tildeler en godkendt brugerformular en kode. Tinglysning på baggrund af en brugerformular skal indeholde en henvisning til formularens kode. Stk. 2. Ved indsendelse af en brugerformular til godkendelse skal angives: 1) hvilke personer eller virksomheder, der skal kunne anvende brugerformularen og de pågældendes person- eller cvr-nummer, og 2) en gyldighedsperiode, herunder den dato formularen skal kunne anvendes fra samt eventuelt en slutdato. Stk. 3. Angives der ikke bestemte berettigede brugere, vil brugerformularen være frit tilgængelig for alle brugere af ting­lysningssystemet. Stk. 4. Ændringer i angivelsen af personer eller virksomheder, der kan anvende brugerformularen, eller af gyldighedsperioden skal meddeles Tinglysningsretten. Stk. 5. Tinglysningsretten fastsætter nærmere regler for fremgangsmåden ved godkendelse efter stk. 1."
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. Digitale bilag til et dokument, der anmeldes til tinglysning, skal være af typen JPEG, XML, GML eller PDF."
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Til det digitale tinglysningssystem er knyttet en kladdemappe, en underskriftsmappe, en bilagsbank, en fuldmagtsdatabase samt oversigter over dokumenter i tinglysningssystemet, som knytter sig til en digital signatur (funktionen ”mine tinglysninger”). Endvidere er der i systemet mulighed for at foretage prøvetinglysning."
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "§ 10. Når et elektronisk dokument, der skal anmeldes til tinglysning, er udfyldt, kan anmelderen foretage følgende: 1) dokumentet kan gemmes som kladde, 2) dokumentet kan lægges i underskriftsmappen, 3) dokumentet kan sendes til prøvetinglysning, 4) der kan betales tinglysningsafgift."
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. Et dokument kan på ethvert tidspunkt under oprettelsen på Tinglysningsrettens internetportal gemmes som kladde. En gemt kladde vil senere kunne fremfindes ved anvendelse af den digitale signatur, som blev benyttet ved oprettelsen af kladden. Stk. 2. Tinglysningsretten kan fastsætte en længste periode for opbevaring af dokumenter i kladdemappen. Oplysninger om længste periode fremgår af Tinglysningsrettens internetportal."
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "§ 12. Den digitale signering af et dokument, der skal anmeldes til tinglysning, foretages i underskriftsmappen. Anmeldes et dokument til tinglysning ved brug af en systemopkobling godkendt af retten, kan der være fastsat særlige regler om digital signering af dokumenter. Reglerne om underskrifts­mappen finder i disse tilfælde ikke anvendelse. Stk. 2. Når dokumentet lægges i underskriftsmappen, skal det angives, hvem der er anmelder, og hvem der efterfølgende skal underskrive dokumentet, jf. stk. 3. Der skal endvidere angives en e-mail-adresse eller systemadresse, hvortil der sendes meddelelse, når dokumentet efterfølgende signeres. Stk. 3. Der skal angives personnumre og CVR-numre for personer og virksomheder, der skal kunne underskrive dokumentet. Er underskriveren en virksomhed skal enten antallet af de tegningsberettigede, der skal underskrive, eller personnumrene for de medarbejdere, der skal underskrive, angives."
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "§ 13. Når et dokument ligger i underskriftsmappen, jf. § 12, stk. 2, kan der alene knyttes følgende supplerende oplysninger til dokumentet: 1) angivelse af en anden anmelder, 2) angivelse af, at der underskrives i henhold til fuldmagt, og 3) angivelse af, at en anden skal modtage elektronisk meddelelse om tinglysning. Stk. 2. Slettes en signatur fra dokumentet, mens det ligger i underskriftsmappen, vil dokumentet ikke kunne tinglyses. Meddelelse herom sendes til anmelderen."
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "§ 14. Når et dokument er signeret digitalt, jf. § 12, stk. 2, kan det af anmelderen sendes til tinglysning. Anmelderen skal signere dokumentet digitalt."
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "§ 15. Et dokument, der ligger i underskriftsmappen, kan slettes af anmelderen eller af den, der har lagt dokumentet i underskriftsmappen. Stk. 2. Et dokument i underskriftsmappen, som ikke inden seks måneder er anmeldt til tinglysning, slettes."
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "§ 16. I bilagsbanken registreres den for tinglysning nødvendige dokumentation, attestation mv. Endvidere kan bilag, som der henvises til i det anmeldte dokument, registreres i bilagsbanken. Alle bilag i bilagsbanken har et unikt referencenummer. Stk. 2. Er et bilag, som ønskes påberåbt eller henvist til, allerede registreret i bilagsbanken, er en henvisning i anmeldelsen til referencenummeret tilstrækkelig."
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "§ 17. I fuldmagtsdatabasen registreres fuldmagter, jf. tinglysningslovens § 49 b og kapitel 3 i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden. Stk. 2. Fuldmagtsdatabasen indeholder et register over aktuelle og ophørte fuldmagter, herunder de fuldmagter, som er givet ved påtegning på selve det elektroniske dokument, der er anmeldt til tinglysning, jf. § 6, stk. 2, i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden Stk. 3. En oversigt over fuldmagter, som er tilknyttet en digital signatur, fremgår af funktionen ”mine tinglysninger”. Er den digitale signatur, der anvendes, en medarbejdersignatur, fremgår samtlige fuldmagter, som vedrører den pågældende virksomhed, af oversigten."
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "§ 18. Ved prøvetinglysning foretages en prøvelse af det pågældende dokument, som om der skulle foretages tinglysning. Anmelderen modtager på baggrund af prøvetinglysningen meddelelse om, hvad resultatet ville være blevet, såfremt der var foretaget en egentlig anmeldelse til tinglysning af dokumentet, herunder om eventuelle mangler ved dokumentet. Det fremgår ikke af prøvetinglysningen, hvorvidt dokumentet ville have fået retsanmærkninger. Stk. 2. Ved prøvetinglysning tages der ikke hensyn til anmeldte dokumenter vedrørende det pågældende tinglysningsobjekt. En anmodning om prøvetinglysning behandles således med det samme og sættes ikke i kø, hvis der er anmeldt dokumenter vedrørende samme tinglysningsobjekt."
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "§ 19. Tinglysningsretten kan tillade, at der etableres ekstern terminaladgang til tinglysningssystemet ved brug af en systemopkobling. Systemopkoblingen skal godkendes af retten. Stk. 2. Ved anvendelse af en systemopkobling sker der en sammenkobling af brugerens sagsbehandlingssystem med den digitale tingbog, hvorved der kan foretages dataudveksling mellem systemerne."
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "§ 20. Ansøgning om godkendelse af en systemopkobling indsendes til Tinglysningsretten, jf. tinglysningslovens § 50 c, stk. 9. Stk. 2. Retten foretager sammen med leverandøren, jf. § 24, en funktionstest af systemopkoblingen, hvorunder det kontrolleres, at systemet kan sende og modtage digitale meddelelser i det korrekte tekniske format, jf. §§ 5 og 8. Stk. 3. Godkendelse af en systemopkobling kan alene ske, når ansøgeren er registreret som månedlig betaler (storkunde) hos told- og skatteforvaltningen, jf. tinglysningsafgiftslovens § 17, og kreditkunde, jf. § 36 i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden."
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "content": "§ 21. Ved ansøgning om godkendelse af en systemopkobling skal ansøger angive en eller flere medarbejdere i virksomheden, der skal fungere som administrator af ansøgers adgang til tinglysningssystemet ved brug af systemopkoblingen. Dette gælder dog ikke, hvis ansøger er autoriseret anmelder, jf. kapitel 4 i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden. I så fald administreres adgangen via systemopkoblingen af den administrator, der er udpeget efter § 13, stk. 2, i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden. Stk. 2. Administrator har adgang til hos Tinglysningsretten at registrere de medarbejdere i virksomheden, som skal kunne benytte systemopkoblingen. Administrator kan ikke selv anmelde dokumenter til tinglysning ved brug af systemopkoblingen. Stk. 3. Ved registrering af medarbejdere efter stk. 2, skal administrator angive navn og kontaktoplysninger på de pågældende samt oplysninger om deres digitale medarbejdersignaturer (certifikater). Stk. 4. Hvis der i forhold til en bestemt virksomhed, på hvis vegne flere medarbejdere skal have adgang til tinglysningssystemet ved brug af systemopkoblingen, findes særlige grunde, som gør det uhensigtsmæssigt at udpege en administrator efter stk. 1, kan Tinglysningsretten bestemme, at retten forestår registrering af de medarbejdere i virksomheden, som skal kunne benytte adgangen. Stk. 5. Tinglysningsretten fastsætter regler om de tekniske krav, som systemopkoblingen skal opfylde. Reglerne herom fremgår af rettens internetportal."
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "§ 22. Tinglysningsretten kan tilbagekalde en tilladelse efter § 19, hvis betingelserne i §§ 20 og 21 ikke længere er opfyldt. Inden retten tilbagekalder en tilladelse, skal indehaveren af tilladelsen have lejlighed til at udtale sig herom."
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "content": "§ 23. Tinglysningsretten er dataansvarlig myndighed for tinglysningssystemet med tilknyttede databaser."
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "content": "§ 24. Tinglysningssystemet må kun føres og opbevares hos den databehandler, som af Domstolsstyrelsen er antaget hertil (leverandøren). Stk. 2. Leverandøren kan med tilladelse overlade dele af opgaven til underleverandører."
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "§ 25. Tinglysningssystemet må kun indeholde de oplysninger herunder personoplysninger som i medfør af tinglysningsloven eller andre tinglysningsforskrifter kan indføres i systemet."
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "content": "§ 26. Oplysningerne i tinglysningssystemet må kun tilvejebringes på grundlag af anmeldelse af dokumenter til ting­lysning, eller hvor der i øvrigt i medfør af tinglysningsloven eller andre tinglysningsforskrifter er adgang til at indføre oplysninger i systemet, jf. dog stk. 2. Stk. 2. Oplysninger i tinglysningssystemet må endvidere tilvejebringes ved elektronisk overførsel af oplysninger fra Det Centrale Personregister (CPR), Det Centrale Virksomhedsregister (CVR) og SKAT. Stk. 3. Oplysninger til tingbogen må endvidere tilvejebringes fra Den Offentlige Informationsserver (OIS), mens oplysninger til bilbogen må tilvejebringes fra Centralregisteret for Motorkøretøjer (CRM) Stk. 4. Oplysninger omfattet af stk. 2 og 3 overføres direkte til tinglysningsssystemet, når systemet retter anmodning herom."
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "content": "§ 27. Behandling af oplysninger må kun bestå i ajourføring af systemets oplysninger samt bearbejdning med henblik på frembringelse af de oplysninger, der ifølge tinglysningsloven eller andre tinglysningsforskrifter, skal leveres af tinglys­ningssystemet."
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "§ 28. Der kan fra tinglysningssystemet ske elektronisk overførsel af oplysninger i følgende tilfælde: 1) Oplysninger, der er relevante for beregningen af tinglys­ningsafgift, kan overføres til SKAT. 2) Oplysninger om adkomstændringer vedrørende fast ejendom, herunder oplysninger vedrørende identifikation af den pågældende ejendom, adkomsthaver, overtagelsesdato og købesum, kan overføres til den kommune, hvori ejendommen er beliggende, samt til SKAT. 3) Oplysninger om adkomstændringer vedrørende landbrugsejendomme kan overføres til FødevareErhverv under Ministeriet for Fødevarer, Landbrug og Fiskeri. 4) Oplysninger fra tinglysningssystemet kan overføres til en godkendt systemopkobling, jf. § 19, med henblik på anmeldelse af et dokument til tinglysning. Stk. 2. Reglen i stk. 1 er ikke til hinder for, at der for så vidt angår tingbogen kan ske sammenstilling via terminal med offentligt tilgængelige oplysninger fra andre offentlige systemer vedrørende fast ejendom. Stk. 3. Udskrift fra tinglysningssystemet foretages fra Ting­lysningsrettens internetportal eller ved brug af en godkendt systemopkobling."
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "content": "§ 29. Tinglysningsretten fastsætter nærmere interne bestemmelser om sikkerhedsforanstaltninger ved retten til uddybning af de regler, der fremgår af bekendtgørelse nr. 535 af 15. juni 2000 om sikkerhedsforanstaltninger til beskyttelse af personoplysninger, som behandles for domstolene. Bestemmelserne skal navnlig omfatte organisatoriske forhold og fysisk sikring, herunder sikkerhedsorganisation, administration af adgangskontrolordninger og autorisationsordninger samt kontrol med autorisationer. Der skal endvidere fastsættes instrukser, som fastlægger ansvaret for og beskriver behandling og destruktion af ind- og uddatamateriale samt anvendelse af edb-udstyr. Desuden skal der fastsættes retningslinjer for rettens tilsyn med overholdelsen af de fastsatte sikkerhedsforanstaltninger. Stk. 2. Der skal mellem Domstolsstyrelsen og leverandøren, jf. § 24, stk. 1, indgås en skriftlig aftale, hvoraf det fremgår, at reglerne i den i stk. 1 nævnte bekendtgørelse ligeledes gælder for behandlingen ved leverandøren og dennes eventuelle underleverandører, jf. § 24, stk. 2."
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "content": "§ 30. Der skal foretages fornøden kontrol til sikring af, at der ikke behandles urigtige oplysninger. Stk. 2. Oplysninger, der viser sig urigtige, skal, i det omfang der er mulighed herfor efter tinglysningsloven eller andre tinglysningsforskrifter, snarest muligt berigtiges eller slettes."
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "content": "§ 31. De medarbejdere ved Tinglysningsretten, der er beskæftiget med registrering af tinglysningsdokumenter, har adgang til at registrere oplysninger i systemet. Stk. 2. De i stk. 1 nævnte medarbejdere tildeles en personlig og fortrolig adgangskode, der skal anvendes, når de skal have adgang til det digitale tinglysningssystem med henblik på registrering (log on). Stk. 3. Tinglysningsretten skal kontrollere, at de medarbejdere, der har adgang til at foretage registreringer i tinglys­ningssystemet, fortsat har behov for de anvendelser, som de er autoriseret til."
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "content": "§ 32. Adgangskoder skal indtastes ikke-læsbart. Stk. 2. Når der sker registrering af oplysninger i systemet eller foretages opslag, skal der ved hvert brugerskift, og når en terminal forlades, træffes sådanne foranstaltninger (log off), at fornyet opkald med henblik på registrering eller opslag vil kræve indtastning af personlig og fortrolig adgangskode."
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "content": "§ 33. Der skal i systemet ske registrering (logning) af alle anvendelser af tinglysningssystemet, som foretages af Ting­lysningsretten. Loggen skal indeholde oplysning om tidspunkt, bruger, type af anvendelse og angivelse af den ejendom, den person eller det køretøj, som oplysningerne ved­rører. Registreringen skal opbevares i mindst seks måneder. Stk. 2. Logoplysninger for systemet kan af Tinglysningsretten og Domstolsstyrelsen til enhver tid rekvireres hos leverandøren."
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "content": "§ 34. Oplysningerne om den digitale kommunikation, der foregår i forbindelse med en tinglysningsdisposition, herunder hvorfra kommunikationen er afsendt, registreres i systemet."
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "content": "§ 35. Tinglysningsretten skal mindst én gang hvert kvartal generere en benyttelsesstatistik. Den skal for hver enkelt af de medarbejdere ved retten, der er beskæftiget med tinglysningsekspeditioner, jf. § 31, angive antallet af gange, den pågældende i perioden har anvendt systemet."
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "content": "§ 36. Der skal ske elektronisk registrering af alle afviste adgangsforsøg."
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "content": "§ 37. Oplysninger fra systemet kan videregives til enhver i overensstemmelse med reglerne i tinglysningsloven og forskrifter fastsat i medfør heraf. Oplysninger om ejers adresse, hvis ejer har fået navne- og adressebeskyttelse efter § 28 i lov om Det Centrale Personregister, og om personnumre videregives dog ikke. Stk. 2. Anmodning om udlevering af oplysninger omfattet af § 34 indsendes til Tinglysningsretten."
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "content": "§ 38. Bekendtgørelsen træder i kraft den 8. september 2009 for så vidt angår tinglysning i tingbogen. Samtidig ophæves for så vidt angår tinglysning i tingbogen bekendtgørelse nr. 507 af 21. juni 2002 om forskrifter for tinglysningssystemet. Endvidere ophæves cirkulæreskrivelse nr. 11304 af 30. september 1988 til tinglysningskontorerne."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Den digitale signatur, som skal anvendes ved oprettelse og anmeldelse af dokumenter til tinglysning, skal være baseret på den gældende OCES-standard eller opfylde kravene i lov om elektroniske signaturer. Stk. 2. Den digitale signatur skal endvidere anvendes ved: 1) opslag vedrørende en fast ejendom, som foretages af den registrerede ejer af ejendommen, såfremt afgiftsfrihedsreglen i retsafgiftslovens § 49 a, stk. 1, 3. pkt., skal benyttes, jf. dog stk. 3, 2) opslag i tinglysningssystemet, som ønskes afregnet efter kreditkundeordningen, jf. § 36 i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden, 3) adgang til oplysninger om tidligere foretagne tinglysninger, anmeldelser, opslag mv. (funktionen ”mine tinglysninger”). Stk. 3. Opslag som nævnt i stk. 2, nr. 1, der foretages ved personlig henvendelse til Tinglysningsretten eller en byret, kræver ikke anvendelse af den pågældendes digitale signatur.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Ved modtagelse af et elektronisk dokument til tinglysning foretager Tinglysningsretten en kontrol af de tilknyttede digitale signaturer, samt af hvem den enkelte digitale signatur tilhører. Stk. 2. Kan en digital signatur, som efter tinglysningsloven eller andre tinglysningsforskrifter skal påføres et elektronisk dokument, ikke godkendes, jf. stk. 1, kan der ikke ske ting­lysning. Kan andre end de i 1. pkt. anførte signaturer, som er tilknyttet et anmeldt dokument ikke godkendes, jf. stk. 1, anfører Tinglysningsretten en bemærkning herom i meddelelsen om tinglysning.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Indholdet af et dokument, der anmeldes til tinglysning, må ikke ændres, efter der er sket digital signering.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Tinglysningsrettens meddelelser, herunder meddelelser om tinglysning, fremsendes elektronisk, jf. dog stk. 2. Meddelelsen signeres med rettens digitale signatur. Rettens signatur skal opfylde kravene i § 1, stk. 1. Stk. 2. Meddelelse om tinglysning sendes med almindelig post i tilfælde, hvor Tinglysningsretten af tekniske grunde ikke har mulighed for at sende meddelelsen elektronisk.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Dokumenter, der skal danne grundlag for tinglysning, skal overholde de krav, der fremgår af de af Tinglysningsretten offentliggjorte snitfaldebeskrivelser, eller dokumenterne skal være oprettet ved anvendelse af de skabeloner, der er tilgængelige på Tinglysningsrettens internetportal.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Dokumenter, der anmeldes til tinglysning, kan henvise til en godkendt brugerformular. En brugerformular indeholder en række standardvilkår, der er relevante for tinglysning af en bestemt rettighedstype. Stk. 2. Ved tinglysning af dokumenter oprettet ved anvendelse af en godkendt brugerformular, omfatter prøvelsen ikke brugerformularens nærmere vilkår. Prøvelsen omfatter i disse tilfælde de individuelle vilkår samt brugerformularens gyldighed, jf. § 7.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. Brugerformularer godkendes af Tinglysningsretten. Retten tildeler en godkendt brugerformular en kode. Tinglysning på baggrund af en brugerformular skal indeholde en henvisning til formularens kode. Stk. 2. Ved indsendelse af en brugerformular til godkendelse skal angives: 1) hvilke personer eller virksomheder, der skal kunne anvende brugerformularen og de pågældendes person- eller cvr-nummer, og 2) en gyldighedsperiode, herunder den dato formularen skal kunne anvendes fra samt eventuelt en slutdato. Stk. 3. Angives der ikke bestemte berettigede brugere, vil brugerformularen være frit tilgængelig for alle brugere af ting­lysningssystemet. Stk. 4. Ændringer i angivelsen af personer eller virksomheder, der kan anvende brugerformularen, eller af gyldighedsperioden skal meddeles Tinglysningsretten. Stk. 5. Tinglysningsretten fastsætter nærmere regler for fremgangsmåden ved godkendelse efter stk. 1.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. Digitale bilag til et dokument, der anmeldes til tinglysning, skal være af typen JPEG, XML, GML eller PDF.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "§ 9. Til det digitale tinglysningssystem er knyttet en kladdemappe, en underskriftsmappe, en bilagsbank, en fuldmagtsdatabase samt oversigter over dokumenter i tinglysningssystemet, som knytter sig til en digital signatur (funktionen ”mine tinglysninger”). Endvidere er der i systemet mulighed for at foretage prøvetinglysning.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "§ 10. Når et elektronisk dokument, der skal anmeldes til tinglysning, er udfyldt, kan anmelderen foretage følgende: 1) dokumentet kan gemmes som kladde, 2) dokumentet kan lægges i underskriftsmappen, 3) dokumentet kan sendes til prøvetinglysning, 4) der kan betales tinglysningsafgift.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. Et dokument kan på ethvert tidspunkt under oprettelsen på Tinglysningsrettens internetportal gemmes som kladde. En gemt kladde vil senere kunne fremfindes ved anvendelse af den digitale signatur, som blev benyttet ved oprettelsen af kladden. Stk. 2. Tinglysningsretten kan fastsætte en længste periode for opbevaring af dokumenter i kladdemappen. Oplysninger om længste periode fremgår af Tinglysningsrettens internetportal.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "§ 12. Den digitale signering af et dokument, der skal anmeldes til tinglysning, foretages i underskriftsmappen. Anmeldes et dokument til tinglysning ved brug af en systemopkobling godkendt af retten, kan der være fastsat særlige regler om digital signering af dokumenter. Reglerne om underskrifts­mappen finder i disse tilfælde ikke anvendelse. Stk. 2. Når dokumentet lægges i underskriftsmappen, skal det angives, hvem der er anmelder, og hvem der efterfølgende skal underskrive dokumentet, jf. stk. 3. Der skal endvidere angives en e-mail-adresse eller systemadresse, hvortil der sendes meddelelse, når dokumentet efterfølgende signeres. Stk. 3. Der skal angives personnumre og CVR-numre for personer og virksomheder, der skal kunne underskrive dokumentet. Er underskriveren en virksomhed skal enten antallet af de tegningsberettigede, der skal underskrive, eller personnumrene for de medarbejdere, der skal underskrive, angives.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "§ 13. Når et dokument ligger i underskriftsmappen, jf. § 12, stk. 2, kan der alene knyttes følgende supplerende oplysninger til dokumentet: 1) angivelse af en anden anmelder, 2) angivelse af, at der underskrives i henhold til fuldmagt, og 3) angivelse af, at en anden skal modtage elektronisk meddelelse om tinglysning. Stk. 2. Slettes en signatur fra dokumentet, mens det ligger i underskriftsmappen, vil dokumentet ikke kunne tinglyses. Meddelelse herom sendes til anmelderen.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "§ 14. Når et dokument er signeret digitalt, jf. § 12, stk. 2, kan det af anmelderen sendes til tinglysning. Anmelderen skal signere dokumentet digitalt.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "§ 15. Et dokument, der ligger i underskriftsmappen, kan slettes af anmelderen eller af den, der har lagt dokumentet i underskriftsmappen. Stk. 2. Et dokument i underskriftsmappen, som ikke inden seks måneder er anmeldt til tinglysning, slettes.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "§ 16. I bilagsbanken registreres den for tinglysning nødvendige dokumentation, attestation mv. Endvidere kan bilag, som der henvises til i det anmeldte dokument, registreres i bilagsbanken. Alle bilag i bilagsbanken har et unikt referencenummer. Stk. 2. Er et bilag, som ønskes påberåbt eller henvist til, allerede registreret i bilagsbanken, er en henvisning i anmeldelsen til referencenummeret tilstrækkelig.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "§ 17. I fuldmagtsdatabasen registreres fuldmagter, jf. tinglysningslovens § 49 b og kapitel 3 i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden. Stk. 2. Fuldmagtsdatabasen indeholder et register over aktuelle og ophørte fuldmagter, herunder de fuldmagter, som er givet ved påtegning på selve det elektroniske dokument, der er anmeldt til tinglysning, jf. § 6, stk. 2, i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden Stk. 3. En oversigt over fuldmagter, som er tilknyttet en digital signatur, fremgår af funktionen ”mine tinglysninger”. Er den digitale signatur, der anvendes, en medarbejdersignatur, fremgår samtlige fuldmagter, som vedrører den pågældende virksomhed, af oversigten.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "§ 18. Ved prøvetinglysning foretages en prøvelse af det pågældende dokument, som om der skulle foretages tinglysning. Anmelderen modtager på baggrund af prøvetinglysningen meddelelse om, hvad resultatet ville være blevet, såfremt der var foretaget en egentlig anmeldelse til tinglysning af dokumentet, herunder om eventuelle mangler ved dokumentet. Det fremgår ikke af prøvetinglysningen, hvorvidt dokumentet ville have fået retsanmærkninger. Stk. 2. Ved prøvetinglysning tages der ikke hensyn til anmeldte dokumenter vedrørende det pågældende tinglysningsobjekt. En anmodning om prøvetinglysning behandles således med det samme og sættes ikke i kø, hvis der er anmeldt dokumenter vedrørende samme tinglysningsobjekt.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "§ 19. Tinglysningsretten kan tillade, at der etableres ekstern terminaladgang til tinglysningssystemet ved brug af en systemopkobling. Systemopkoblingen skal godkendes af retten. Stk. 2. Ved anvendelse af en systemopkobling sker der en sammenkobling af brugerens sagsbehandlingssystem med den digitale tingbog, hvorved der kan foretages dataudveksling mellem systemerne.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "§ 20. Ansøgning om godkendelse af en systemopkobling indsendes til Tinglysningsretten, jf. tinglysningslovens § 50 c, stk. 9. Stk. 2. Retten foretager sammen med leverandøren, jf. § 24, en funktionstest af systemopkoblingen, hvorunder det kontrolleres, at systemet kan sende og modtage digitale meddelelser i det korrekte tekniske format, jf. §§ 5 og 8. Stk. 3. Godkendelse af en systemopkobling kan alene ske, når ansøgeren er registreret som månedlig betaler (storkunde) hos told- og skatteforvaltningen, jf. tinglysningsafgiftslovens § 17, og kreditkunde, jf. § 36 i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "content": "§ 21. Ved ansøgning om godkendelse af en systemopkobling skal ansøger angive en eller flere medarbejdere i virksomheden, der skal fungere som administrator af ansøgers adgang til tinglysningssystemet ved brug af systemopkoblingen. Dette gælder dog ikke, hvis ansøger er autoriseret anmelder, jf. kapitel 4 i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden. I så fald administreres adgangen via systemopkoblingen af den administrator, der er udpeget efter § 13, stk. 2, i bekendtgørelse om adgang til tinglysningssystemet og om tinglysningsmåden. Stk. 2. Administrator har adgang til hos Tinglysningsretten at registrere de medarbejdere i virksomheden, som skal kunne benytte systemopkoblingen. Administrator kan ikke selv anmelde dokumenter til tinglysning ved brug af systemopkoblingen. Stk. 3. Ved registrering af medarbejdere efter stk. 2, skal administrator angive navn og kontaktoplysninger på de pågældende samt oplysninger om deres digitale medarbejdersignaturer (certifikater). Stk. 4. Hvis der i forhold til en bestemt virksomhed, på hvis vegne flere medarbejdere skal have adgang til tinglysningssystemet ved brug af systemopkoblingen, findes særlige grunde, som gør det uhensigtsmæssigt at udpege en administrator efter stk. 1, kan Tinglysningsretten bestemme, at retten forestår registrering af de medarbejdere i virksomheden, som skal kunne benytte adgangen. Stk. 5. Tinglysningsretten fastsætter regler om de tekniske krav, som systemopkoblingen skal opfylde. Reglerne herom fremgår af rettens internetportal.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "§ 22. Tinglysningsretten kan tilbagekalde en tilladelse efter § 19, hvis betingelserne i §§ 20 og 21 ikke længere er opfyldt. Inden retten tilbagekalder en tilladelse, skal indehaveren af tilladelsen have lejlighed til at udtale sig herom.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "content": "§ 23. Tinglysningsretten er dataansvarlig myndighed for tinglysningssystemet med tilknyttede databaser.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "content": "§ 24. Tinglysningssystemet må kun føres og opbevares hos den databehandler, som af Domstolsstyrelsen er antaget hertil (leverandøren). Stk. 2. Leverandøren kan med tilladelse overlade dele af opgaven til underleverandører.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "§ 25. Tinglysningssystemet må kun indeholde de oplysninger herunder personoplysninger som i medfør af tinglysningsloven eller andre tinglysningsforskrifter kan indføres i systemet.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "content": "§ 26. Oplysningerne i tinglysningssystemet må kun tilvejebringes på grundlag af anmeldelse af dokumenter til ting­lysning, eller hvor der i øvrigt i medfør af tinglysningsloven eller andre tinglysningsforskrifter er adgang til at indføre oplysninger i systemet, jf. dog stk. 2. Stk. 2. Oplysninger i tinglysningssystemet må endvidere tilvejebringes ved elektronisk overførsel af oplysninger fra Det Centrale Personregister (CPR), Det Centrale Virksomhedsregister (CVR) og SKAT. Stk. 3. Oplysninger til tingbogen må endvidere tilvejebringes fra Den Offentlige Informationsserver (OIS), mens oplysninger til bilbogen må tilvejebringes fra Centralregisteret for Motorkøretøjer (CRM) Stk. 4. Oplysninger omfattet af stk. 2 og 3 overføres direkte til tinglysningsssystemet, når systemet retter anmodning herom.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "content": "§ 27. Behandling af oplysninger må kun bestå i ajourføring af systemets oplysninger samt bearbejdning med henblik på frembringelse af de oplysninger, der ifølge tinglysningsloven eller andre tinglysningsforskrifter, skal leveres af tinglys­ningssystemet.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "§ 28. Der kan fra tinglysningssystemet ske elektronisk overførsel af oplysninger i følgende tilfælde: 1) Oplysninger, der er relevante for beregningen af tinglys­ningsafgift, kan overføres til SKAT. 2) Oplysninger om adkomstændringer vedrørende fast ejendom, herunder oplysninger vedrørende identifikation af den pågældende ejendom, adkomsthaver, overtagelsesdato og købesum, kan overføres til den kommune, hvori ejendommen er beliggende, samt til SKAT. 3) Oplysninger om adkomstændringer vedrørende landbrugsejendomme kan overføres til FødevareErhverv under Ministeriet for Fødevarer, Landbrug og Fiskeri. 4) Oplysninger fra tinglysningssystemet kan overføres til en godkendt systemopkobling, jf. § 19, med henblik på anmeldelse af et dokument til tinglysning. Stk. 2. Reglen i stk. 1 er ikke til hinder for, at der for så vidt angår tingbogen kan ske sammenstilling via terminal med offentligt tilgængelige oplysninger fra andre offentlige systemer vedrørende fast ejendom. Stk. 3. Udskrift fra tinglysningssystemet foretages fra Ting­lysningsrettens internetportal eller ved brug af en godkendt systemopkobling.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "content": "§ 29. Tinglysningsretten fastsætter nærmere interne bestemmelser om sikkerhedsforanstaltninger ved retten til uddybning af de regler, der fremgår af bekendtgørelse nr. 535 af 15. juni 2000 om sikkerhedsforanstaltninger til beskyttelse af personoplysninger, som behandles for domstolene. Bestemmelserne skal navnlig omfatte organisatoriske forhold og fysisk sikring, herunder sikkerhedsorganisation, administration af adgangskontrolordninger og autorisationsordninger samt kontrol med autorisationer. Der skal endvidere fastsættes instrukser, som fastlægger ansvaret for og beskriver behandling og destruktion af ind- og uddatamateriale samt anvendelse af edb-udstyr. Desuden skal der fastsættes retningslinjer for rettens tilsyn med overholdelsen af de fastsatte sikkerhedsforanstaltninger. Stk. 2. Der skal mellem Domstolsstyrelsen og leverandøren, jf. § 24, stk. 1, indgås en skriftlig aftale, hvoraf det fremgår, at reglerne i den i stk. 1 nævnte bekendtgørelse ligeledes gælder for behandlingen ved leverandøren og dennes eventuelle underleverandører, jf. § 24, stk. 2.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "content": "§ 30. Der skal foretages fornøden kontrol til sikring af, at der ikke behandles urigtige oplysninger. Stk. 2. Oplysninger, der viser sig urigtige, skal, i det omfang der er mulighed herfor efter tinglysningsloven eller andre tinglysningsforskrifter, snarest muligt berigtiges eller slettes.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "content": "§ 31. De medarbejdere ved Tinglysningsretten, der er beskæftiget med registrering af tinglysningsdokumenter, har adgang til at registrere oplysninger i systemet. Stk. 2. De i stk. 1 nævnte medarbejdere tildeles en personlig og fortrolig adgangskode, der skal anvendes, når de skal have adgang til det digitale tinglysningssystem med henblik på registrering (log on). Stk. 3. Tinglysningsretten skal kontrollere, at de medarbejdere, der har adgang til at foretage registreringer i tinglys­ningssystemet, fortsat har behov for de anvendelser, som de er autoriseret til.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "content": "§ 32. Adgangskoder skal indtastes ikke-læsbart. Stk. 2. Når der sker registrering af oplysninger i systemet eller foretages opslag, skal der ved hvert brugerskift, og når en terminal forlades, træffes sådanne foranstaltninger (log off), at fornyet opkald med henblik på registrering eller opslag vil kræve indtastning af personlig og fortrolig adgangskode.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "content": "§ 33. Der skal i systemet ske registrering (logning) af alle anvendelser af tinglysningssystemet, som foretages af Ting­lysningsretten. Loggen skal indeholde oplysning om tidspunkt, bruger, type af anvendelse og angivelse af den ejendom, den person eller det køretøj, som oplysningerne ved­rører. Registreringen skal opbevares i mindst seks måneder. Stk. 2. Logoplysninger for systemet kan af Tinglysningsretten og Domstolsstyrelsen til enhver tid rekvireres hos leverandøren.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "content": "§ 34. Oplysningerne om den digitale kommunikation, der foregår i forbindelse med en tinglysningsdisposition, herunder hvorfra kommunikationen er afsendt, registreres i systemet.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "content": "§ 35. Tinglysningsretten skal mindst én gang hvert kvartal generere en benyttelsesstatistik. Den skal for hver enkelt af de medarbejdere ved retten, der er beskæftiget med tinglysningsekspeditioner, jf. § 31, angive antallet af gange, den pågældende i perioden har anvendt systemet.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "content": "§ 36. Der skal ske elektronisk registrering af alle afviste adgangsforsøg.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "content": "§ 37. Oplysninger fra systemet kan videregives til enhver i overensstemmelse med reglerne i tinglysningsloven og forskrifter fastsat i medfør heraf. Oplysninger om ejers adresse, hvis ejer har fået navne- og adressebeskyttelse efter § 28 i lov om Det Centrale Personregister, og om personnumre videregives dog ikke. Stk. 2. Anmodning om udlevering af oplysninger omfattet af § 34 indsendes til Tinglysningsretten.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "content": "§ 38. Bekendtgørelsen træder i kraft den 8. september 2009 for så vidt angår tinglysning i tingbogen. Samtidig ophæves for så vidt angår tinglysning i tingbogen bekendtgørelse nr. 507 af 21. juni 2002 om forskrifter for tinglysningssystemet. Endvidere ophæves cirkulæreskrivelse nr. 11304 af 30. september 1988 til tinglysningskontorerne.",
+      "valid_from": "2009-09-04",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

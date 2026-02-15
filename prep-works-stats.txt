@@ -1,0 +1,75 @@
+PREPARATORY WORKS STATISTICS
+Swedish Law MCP - 2026-02-12
+
+=== DOCUMENT COUNTS ===
+Statutes:                   81
+Propositions (bill):        3,624
+SOUs (sou):                 1
+Ds (ds):                    0
+Case Law:                   1
+Total Documents:            3,707
+
+=== LINKAGE STATISTICS ===
+Statutes with prep works:   81/81 (100%)
+Total prep work linkages:   6,735
+Average per statute:        83 prep works
+Propositions linked:        3,624/3,624 (100%)
+Orphaned propositions:      0
+
+=== TOP 10 STATUTES BY PREP WORKS COUNT ===
+2009:400  (Offentlighets- och sekretesslag)    631
+1999:1229 (Inkomstskattelagen)                 564
+1942:740  (Rättegångsbalk)                      456
+1962:700  (Brottsbalk)                          432
+2010:110  (Socialförsäkringsbalk)               293
+1998:808  (Miljöbalk)                           245
+2011:1244 (Skatteförfarandelagen)               225
+2001:453  (Socialtjänstlagen)                   210
+1970:994  (Jordabalk)                           184
+1949:381  (Föräldrabalk)                        178
+
+=== PROPOSITION COVERAGE BY PERIOD ===
+1975/76 - 1989/90:          ~200
+1990/91 - 1999/00:          ~500
+2000/01 - 2009/10:          ~800
+2010/11 - 2019/20:          ~1,400
+2020/21 - 2025/26:          ~724
+Total:                      3,624
+
+=== METADATA QUALITY ===
+Prep works with summaries:  43/6,735 (0.6%)
+Prep works with titles:     6,735/6,735 (100%)
+Prep works with dates:      N/A (not yet fetched)
+Prep works with dept:       N/A (not yet fetched)
+
+=== CROSS-REFERENCES ===
+Case law → statute:         0 (schema exists, not populated)
+Case law → proposition:     0 (schema exists, not populated)
+Statute → statute:          0 (schema exists, not populated)
+Total cross-references:     0
+
+=== SOU ANALYSIS ===
+SOUs in database:           1
+SOUs cited in seed files:   2 mentions
+SOUs available (2020-2025): 4,902 (Riksdagen API)
+Coverage percentage:        0.02%
+Recommended target:         500-1,000 SOUs
+
+=== SUCCESS CRITERIA ===
+✓ All statutes linked to prep works:           ACHIEVED (100%)
+✗ SOU count increased to 50+:                  NOT ACHIEVED (1)
+⚠ Prep works data enhanced with summaries:     PARTIAL (0.6%)
+✗ Cross-reference network established:         NOT ACHIEVED (0 refs)
+
+=== DATA QUALITY METRICS ===
+Duplicate prep work refs:   0
+Conflicting duplicates:     0
+Missing statute linkage:    0
+Malformed prep IDs:         0
+Data integrity:             EXCELLENT
+
+=== NEXT PRIORITIES ===
+1. Implement proposition → SOU extraction
+2. Enhance metadata (department, dates, URLs)
+3. Build cross-reference network
+4. Await Agent 2 case law expansion (2,000+ cases)

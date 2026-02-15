@@ -1,0 +1,295 @@
+{
+  "id": "2023:1811",
+  "type": "statute",
+  "title": "Bekendtgørelse om netværk til dokumentudveksling i den fælles digitale infrastruktur",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2023-12-28",
+  "url": "https://www.retsinformation.dk/eli/lta/2023/1811/xml",
+  "description": "Retsinformation source. DocumentId=CQ002751; AccessionNumber=B20230181105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse på alle juridiske enheder omfattet af lov om fælles digital infrastruktur for elektronisk dataudveksling ved samhandel og rapportering m.v. Bekendtgørelsen fastlægger betingelserne for anvendelse af den fælles digitale infrastruktur, samt Erhvervsstyrelsens tekniske og organisatoriske understøttelse af den."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. I denne bekendtgørelse forstås ved: 1) Forretningsdokumenter: Elektroniske dokumenter, som defineret i § 2, nr. 5, i lov om fælles digital infrastruktur for elektronisk dataudveksling ved samhandel og rapportering m.v., der sendes igennem et af de i den fælles digitale infrastruktur inkluderede netværk. 2) Bruger: Virksomhed, organ inden for den offentlige forvaltning eller juridisk eller fysisk person, der anvender den fælles digitale infrastruktur til at udveksle forretningsdokumenter, enten på egne eller andres vegne. 3) Serviceaftager: En bruger, som anvender den fælles digitale infrastruktur, eller som har bemyndiget en serviceleverandør til at anvende den fælles digitale infrastruktur på dennes vegne. Har en serviceaftager ikke bemyndiget en serviceleverandør til at forestå en given anvendelse, regnes serviceaftager også for serviceleverandør i relation til denne anvendelse. 4) Nemhandelsregisteret: Et register, som bistår serviceleverandører med at formidle deres serviceaftageres forsendelser, ved at formidle tekniske og formelle detaljer om modtagere. 5) Dokumentlog: Logfil indeholdende sporingsoplysninger til dokumentation af dokumentformidlingen og det formidlede forretningsdokuments originalitet og integritet. 6) Applikationslog: Logfil, der dokumenterer den daglige drift af IT-systemer, herunder særligt oplysninger til fejlsøgning og sikring af driftsstabilitet og IT-sikkerhed. 7) Interoperabilitetsprofil: En beskrivelse af, hvilke servicestandarder, som skal benyttes i udvekslingen af forskellige forretningsdokumenter mellem serviceleverandør og serviceaftager. En interoperabilitetsprofil beskriver en transportstandard, syntaks, semantik, koreografi og forretningsregler for anvendelsen af en bestemt dokumenttype eller et sæt af dokumenttyper. 8) Korrespondent: Den modstående part i en udveksling af oplysninger, uanset om denne udveksling sker igennem den fælles digitale infrastruktur eller ej."
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Den fælles digitale infrastruktur, som defineret i lov om fælles digital infrastruktur for elektronisk dataudveksling ved samhandel og rapportering m.v., består af følgende netværk til udveksling af forretningsdokumenter, som beskrevet i bilag 1 1) nemhandel, og 2) peppol. Stk. 2. Anvendelse af Peppol netværket er omfattet af betingelserne i bilag 2. Stk. 3. Brugere af Nemhandel netværket er forpligtede af betingelserne i bilag 3. Stk. 4. Serviceleverandører er yderligere forpligtede af betingelserne i bilag 4."
+    },
+    {
+      "provision_ref": "3:4",
+      "chapter": "3",
+      "section": "4",
+      "content": "§ 4. I den udstrækning et forretningsdokument skaber en ny forpligtelse, er denne forpligtelse alene et forhold imellem afsender og modtager, og forpligter ikke de serviceleverandører, der er involverede i fremsendelsen."
+    },
+    {
+      "provision_ref": "3:5",
+      "chapter": "3",
+      "section": "5",
+      "content": "§ 5. Serviceleverandører er alene ansvarlige for selve formidlingen af forretningsdokumenterne, herunder at disse er udformet og indlæst teknisk korrekt og formidles uforvansket og uden unødigt ophold. Stk. 2. Ved formidling af et forretningsdokument er serviceleverandøren alene ansvarlig efter stk. 1 overfor den serviceaftager, som serviceleverandøren repræsenterer."
+    },
+    {
+      "provision_ref": "4:6",
+      "chapter": "4",
+      "section": "6",
+      "content": "§ 6. Organer inden for den offentlige forvaltning, der anvender den fælles digitale infrastruktur, skal være tilsluttet alle de inkluderede netværk, som er beskrevet i bilag 1. Stk. 2. Organer inden for den offentlige forvaltning skal behandle forsendelser modtaget igennem den fælles digitale infrastruktur ens, uanset hvilket netværk afsender vælger at anvende."
+    },
+    {
+      "provision_ref": "4:7",
+      "chapter": "4",
+      "section": "7",
+      "content": "§ 7. Ved korrespondance, mellem organer inden for den offentlige forvaltning og virksomheder, som formidles via den fælles digitale infrastruktur, har virksomheden ret til at vælge, hvilket af de af den fælles digitale infrastruktur understøttede netværk, jf. § 3, virksomheden ønsker at anvende. Stk. 2. Bestemmelsen i stk. 1 er ikke til hindring for at organer inden for den offentlige forvaltning kan understøtte og anvende funktionalitet, som alene er understøttet i visse, men ikke alle af netværkene. Denne funktionalitet skal dog anvendes på lige fod i alle de netværk, der understøtter den. Stk. 3. Ved anvendelse af funktionalitet, som alene er understøttet af visse netværk i den fælles digitale infrastruktur, er virksomhedens ret til at vælge netværk begrænset til de netværk, der understøtter den anvendte funktionalitet."
+    },
+    {
+      "provision_ref": "5:8",
+      "chapter": "5",
+      "section": "8",
+      "content": "§ 8. Virksomheder, der anvender den fælles digitale infrastruktur til modtagelse af forretningsdokumenter, skal realitetsbehandle alle teknisk valide modtagne dokumenter. Stk. 2. Virksomheder, der anvender den fælles digitale infrastruktur, må ikke give korrespondenter, som anvender den fælles digitale infrastruktur, ringere vilkår eller behandling end deres øvrige korrespondenter alene begrundet i anvendelsen af den fælles digitale infrastruktur."
+    },
+    {
+      "provision_ref": "5:9",
+      "chapter": "5",
+      "section": "9",
+      "content": "§ 9. Korrespondance, der refererer til tidligere kommunikation igennem den fælles digitale infrastruktur, skal føres i samme netværk. Stk. 2. Korrespondenter kan efter forudgående aftale fravige kravet i stk. 1."
+    },
+    {
+      "provision_ref": "6:10",
+      "chapter": "6",
+      "section": "10",
+      "content": "§ 10. En serviceleverandør skal ligebehandle alle udvekslede forretningsdokumenter og alle serviceaftagere, uanset hvilke øvrige serviceleverandører, der måtte være involverede i forsendelsen."
+    },
+    {
+      "provision_ref": "6:11",
+      "chapter": "6",
+      "section": "11",
+      "content": "§ 11. Serviceleverandør må ikke opbevare forretningsdokumenter i længere tid, end hvad der er nødvendigt for at gennemføre forsendelsen af forretningsdokumentet. Stk. 2. Foreligger der særskilt aftale herom med serviceaftager kan stk. 1 fraviges."
+    },
+    {
+      "provision_ref": "6:12",
+      "chapter": "6",
+      "section": "12",
+      "content": "§ 12. Serviceleverandører er forpligtede til at føre en komplet dokumentlog over al afsendelse og modtagelse af forretningsdokumenter. Stk. 2. Dokumentloggen skal indeholde oplysning om 1) dokumenttype, 2) hvilket netværk i den fælles digitale infrastruktur, forsendelsen er foretaget igennem, 3) rolle i forsendelsen (afsender/modtager), 4) tidspunkt for forsendelsen, 5) hvorvidt forsendelsen blev gennemført eller fejlede, og fejlkode for evt. afvisning, 6) universelt unikt dokument-ID til dokumentsporing, 7) eventuelle krypterede signatur-filer, checksummer eller hashes, til integritetsvalidering, 8) den serviceaftager dokumentet er afsendt eller modtaget på vegne af, og 9) det endepunkt, dokumentet er sendt til, eller det endepunkt for tekniske indsigelser, der er angivet i dokumenthovedet, for det modtagne dokument."
+    },
+    {
+      "provision_ref": "6:13",
+      "chapter": "6",
+      "section": "13",
+      "content": "§ 13. Dokumentloggen skal opbevares i fem år, i overensstemmelse med kravet om opbevaring af regnskabsmateriale efter lov om bogføring. Stk. 2. Applikationslogs relateret til den software, serviceleverandøren anvender til at tilgå den fælles digitale infrastruktur, skal opbevares i mindst tre og højest seks måneder. Stk. 3. Dokument- og applikationslogs kan opbevares længere end den maksimale opbevaringsperiode i stk. 1 og 2, hvis de er en del af en aktiv sagsbehandling i serviceleverandørens regi, eller genstand for i øvrigt lovlige aftaler eller påkrav herom."
+    },
+    {
+      "provision_ref": "6:14",
+      "chapter": "6",
+      "section": "14",
+      "content": "§ 14. Serviceleverandører er forpligtede til uden unødigt ophold at slette dokumentlogs, som de ikke længere er forpligtede til at opbevare. Stk. 2. Serviceleverandører er forpligtede til at opbevare logs forsvarligt, så de ikke kommer til uvedkommendes kendskab, og i overensstemmelse med i øvrigt gældende regler for databeskyttelse."
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "content": "§ 15. Serviceleverandøren skal på serviceaftagers forlangende udlevere de dele af dokumentloggen til serviceaftager, som omhandler dokumenter, hvor serviceaftager er enten afsender eller modtager."
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "content": "§ 16. Hvis en serviceaftager skifter serviceleverandør, uanset årsagen hertil, er den oprindelige serviceleverandør forpligtet til loyalt og proaktivt at hjælpe serviceaftager med en hurtig og effektiv overdragelse til den anden serviceleverandør. Stk. 2. Den nye serviceleverandør er forpligtet til at overtage opbevaring og håndtering af logfiler sammen med kundeforholdet. Stk. 3. Serviceleverandørens forpligtelse efter § 13, stk. 1 ophører når, serviceaftagers nye serviceleverandør har bekræftet, at den nye serviceleverandør har modtaget de relevante data og overtaget opbevaringsforpligtelsen. Stk. 4. Ophører kundeforholdet, uden at serviceaftageren angiver en ny serviceleverandør, er den tidligere serviceleverandør forpligtet til at opbevare logfiler i hele den efter § 13, stk. 1 obligatoriske opbevaringsperiode. Stk. 5. Hvis den oprindelige serviceleverandør ikke har overdraget de relevante logfiler indenfor 3 måneder efter overgangen af kundeforholdet, skal den nye serviceleverandør orientere Erhvervsstyrelsen herom. Erhvervsstyrelsen foretager derefter de nødvendige foranstaltninger for at arrangere overdragelsen."
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "content": "§ 17. Erhvervsstyrelsen specificerer og offentliggør krav til det serviceniveau serviceleverandører skal opretholde. Indholdet af sådanne krav er beskrevet i bilag 4."
+    },
+    {
+      "provision_ref": "7:18",
+      "chapter": "7",
+      "section": "18",
+      "content": "§ 18. Erhvervsstyrelsen vedligeholder og drifter de nødvendige og centrale komponenter for den fælles digitale infrastrukturs funktion, herunder Nemhandelsregisteret. Stk. 2. Nemhandelsregisteret indeholder og udstiller oplysninger om brugere af Nemhandel, herunder modtageres CVR-numre, kontaktoplysninger til deres tekniske support, de adresseringsoplysninger som afsender har behov for til at kunne sende forretningsdokumenter til modtageren, og tekniske oplysninger om hvilke dokumenter brugeren kan modtage."
+    },
+    {
+      "provision_ref": "7:19",
+      "chapter": "7",
+      "section": "19",
+      "content": "§ 19. Enhver serviceaftager har ret til vederlagsfrit at registrere sig eller lade sig registrere i Nemhandelsregisteret. Sådanne registreringer foretages af serviceaftager eller dennes servicele-verandør. Stk. 2. Enhver serviceleverandør har ret til vederlagsfrit at registrere sine serviceaftagere i Nemhandelsregisteret. Stk. 3. Serviceleverandøren skal kunne dokumentere, at dennes serviceaftager har samtykket til registreringen. Erhvervsstyrelsen kan iværksætte automatisk kontrol heraf via de snitflader, gennem hvilke man tilgår registreringsfunktionen i Nemhandelsregisteret. Denne automatiske kontrol kan indebære afledte praktiske krav til den nøjagtige tekniske udformning af kundens samtykkeerklæring."
+    },
+    {
+      "provision_ref": "8:20",
+      "chapter": "8",
+      "section": "20",
+      "content": "§ 20. Bekendtgørelsen træder i kraft den 1. januar 2024."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse på alle juridiske enheder omfattet af lov om fælles digital infrastruktur for elektronisk dataudveksling ved samhandel og rapportering m.v. Bekendtgørelsen fastlægger betingelserne for anvendelse af den fælles digitale infrastruktur, samt Erhvervsstyrelsens tekniske og organisatoriske understøttelse af den.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. I denne bekendtgørelse forstås ved: 1) Forretningsdokumenter: Elektroniske dokumenter, som defineret i § 2, nr. 5, i lov om fælles digital infrastruktur for elektronisk dataudveksling ved samhandel og rapportering m.v., der sendes igennem et af de i den fælles digitale infrastruktur inkluderede netværk. 2) Bruger: Virksomhed, organ inden for den offentlige forvaltning eller juridisk eller fysisk person, der anvender den fælles digitale infrastruktur til at udveksle forretningsdokumenter, enten på egne eller andres vegne. 3) Serviceaftager: En bruger, som anvender den fælles digitale infrastruktur, eller som har bemyndiget en serviceleverandør til at anvende den fælles digitale infrastruktur på dennes vegne. Har en serviceaftager ikke bemyndiget en serviceleverandør til at forestå en given anvendelse, regnes serviceaftager også for serviceleverandør i relation til denne anvendelse. 4) Nemhandelsregisteret: Et register, som bistår serviceleverandører med at formidle deres serviceaftageres forsendelser, ved at formidle tekniske og formelle detaljer om modtagere. 5) Dokumentlog: Logfil indeholdende sporingsoplysninger til dokumentation af dokumentformidlingen og det formidlede forretningsdokuments originalitet og integritet. 6) Applikationslog: Logfil, der dokumenterer den daglige drift af IT-systemer, herunder særligt oplysninger til fejlsøgning og sikring af driftsstabilitet og IT-sikkerhed. 7) Interoperabilitetsprofil: En beskrivelse af, hvilke servicestandarder, som skal benyttes i udvekslingen af forskellige forretningsdokumenter mellem serviceleverandør og serviceaftager. En interoperabilitetsprofil beskriver en transportstandard, syntaks, semantik, koreografi og forretningsregler for anvendelsen af en bestemt dokumenttype eller et sæt af dokumenttyper. 8) Korrespondent: Den modstående part i en udveksling af oplysninger, uanset om denne udveksling sker igennem den fælles digitale infrastruktur eller ej.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Den fælles digitale infrastruktur, som defineret i lov om fælles digital infrastruktur for elektronisk dataudveksling ved samhandel og rapportering m.v., består af følgende netværk til udveksling af forretningsdokumenter, som beskrevet i bilag 1 1) nemhandel, og 2) peppol. Stk. 2. Anvendelse af Peppol netværket er omfattet af betingelserne i bilag 2. Stk. 3. Brugere af Nemhandel netværket er forpligtede af betingelserne i bilag 3. Stk. 4. Serviceleverandører er yderligere forpligtede af betingelserne i bilag 4.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:4",
+      "chapter": "3",
+      "section": "4",
+      "content": "§ 4. I den udstrækning et forretningsdokument skaber en ny forpligtelse, er denne forpligtelse alene et forhold imellem afsender og modtager, og forpligter ikke de serviceleverandører, der er involverede i fremsendelsen.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:5",
+      "chapter": "3",
+      "section": "5",
+      "content": "§ 5. Serviceleverandører er alene ansvarlige for selve formidlingen af forretningsdokumenterne, herunder at disse er udformet og indlæst teknisk korrekt og formidles uforvansket og uden unødigt ophold. Stk. 2. Ved formidling af et forretningsdokument er serviceleverandøren alene ansvarlig efter stk. 1 overfor den serviceaftager, som serviceleverandøren repræsenterer.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:6",
+      "chapter": "4",
+      "section": "6",
+      "content": "§ 6. Organer inden for den offentlige forvaltning, der anvender den fælles digitale infrastruktur, skal være tilsluttet alle de inkluderede netværk, som er beskrevet i bilag 1. Stk. 2. Organer inden for den offentlige forvaltning skal behandle forsendelser modtaget igennem den fælles digitale infrastruktur ens, uanset hvilket netværk afsender vælger at anvende.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:7",
+      "chapter": "4",
+      "section": "7",
+      "content": "§ 7. Ved korrespondance, mellem organer inden for den offentlige forvaltning og virksomheder, som formidles via den fælles digitale infrastruktur, har virksomheden ret til at vælge, hvilket af de af den fælles digitale infrastruktur understøttede netværk, jf. § 3, virksomheden ønsker at anvende. Stk. 2. Bestemmelsen i stk. 1 er ikke til hindring for at organer inden for den offentlige forvaltning kan understøtte og anvende funktionalitet, som alene er understøttet i visse, men ikke alle af netværkene. Denne funktionalitet skal dog anvendes på lige fod i alle de netværk, der understøtter den. Stk. 3. Ved anvendelse af funktionalitet, som alene er understøttet af visse netværk i den fælles digitale infrastruktur, er virksomhedens ret til at vælge netværk begrænset til de netværk, der understøtter den anvendte funktionalitet.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:8",
+      "chapter": "5",
+      "section": "8",
+      "content": "§ 8. Virksomheder, der anvender den fælles digitale infrastruktur til modtagelse af forretningsdokumenter, skal realitetsbehandle alle teknisk valide modtagne dokumenter. Stk. 2. Virksomheder, der anvender den fælles digitale infrastruktur, må ikke give korrespondenter, som anvender den fælles digitale infrastruktur, ringere vilkår eller behandling end deres øvrige korrespondenter alene begrundet i anvendelsen af den fælles digitale infrastruktur.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:9",
+      "chapter": "5",
+      "section": "9",
+      "content": "§ 9. Korrespondance, der refererer til tidligere kommunikation igennem den fælles digitale infrastruktur, skal føres i samme netværk. Stk. 2. Korrespondenter kan efter forudgående aftale fravige kravet i stk. 1.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:10",
+      "chapter": "6",
+      "section": "10",
+      "content": "§ 10. En serviceleverandør skal ligebehandle alle udvekslede forretningsdokumenter og alle serviceaftagere, uanset hvilke øvrige serviceleverandører, der måtte være involverede i forsendelsen.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:11",
+      "chapter": "6",
+      "section": "11",
+      "content": "§ 11. Serviceleverandør må ikke opbevare forretningsdokumenter i længere tid, end hvad der er nødvendigt for at gennemføre forsendelsen af forretningsdokumentet. Stk. 2. Foreligger der særskilt aftale herom med serviceaftager kan stk. 1 fraviges.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:12",
+      "chapter": "6",
+      "section": "12",
+      "content": "§ 12. Serviceleverandører er forpligtede til at føre en komplet dokumentlog over al afsendelse og modtagelse af forretningsdokumenter. Stk. 2. Dokumentloggen skal indeholde oplysning om 1) dokumenttype, 2) hvilket netværk i den fælles digitale infrastruktur, forsendelsen er foretaget igennem, 3) rolle i forsendelsen (afsender/modtager), 4) tidspunkt for forsendelsen, 5) hvorvidt forsendelsen blev gennemført eller fejlede, og fejlkode for evt. afvisning, 6) universelt unikt dokument-ID til dokumentsporing, 7) eventuelle krypterede signatur-filer, checksummer eller hashes, til integritetsvalidering, 8) den serviceaftager dokumentet er afsendt eller modtaget på vegne af, og 9) det endepunkt, dokumentet er sendt til, eller det endepunkt for tekniske indsigelser, der er angivet i dokumenthovedet, for det modtagne dokument.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:13",
+      "chapter": "6",
+      "section": "13",
+      "content": "§ 13. Dokumentloggen skal opbevares i fem år, i overensstemmelse med kravet om opbevaring af regnskabsmateriale efter lov om bogføring. Stk. 2. Applikationslogs relateret til den software, serviceleverandøren anvender til at tilgå den fælles digitale infrastruktur, skal opbevares i mindst tre og højest seks måneder. Stk. 3. Dokument- og applikationslogs kan opbevares længere end den maksimale opbevaringsperiode i stk. 1 og 2, hvis de er en del af en aktiv sagsbehandling i serviceleverandørens regi, eller genstand for i øvrigt lovlige aftaler eller påkrav herom.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:14",
+      "chapter": "6",
+      "section": "14",
+      "content": "§ 14. Serviceleverandører er forpligtede til uden unødigt ophold at slette dokumentlogs, som de ikke længere er forpligtede til at opbevare. Stk. 2. Serviceleverandører er forpligtede til at opbevare logs forsvarligt, så de ikke kommer til uvedkommendes kendskab, og i overensstemmelse med i øvrigt gældende regler for databeskyttelse.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "content": "§ 15. Serviceleverandøren skal på serviceaftagers forlangende udlevere de dele af dokumentloggen til serviceaftager, som omhandler dokumenter, hvor serviceaftager er enten afsender eller modtager.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "content": "§ 16. Hvis en serviceaftager skifter serviceleverandør, uanset årsagen hertil, er den oprindelige serviceleverandør forpligtet til loyalt og proaktivt at hjælpe serviceaftager med en hurtig og effektiv overdragelse til den anden serviceleverandør. Stk. 2. Den nye serviceleverandør er forpligtet til at overtage opbevaring og håndtering af logfiler sammen med kundeforholdet. Stk. 3. Serviceleverandørens forpligtelse efter § 13, stk. 1 ophører når, serviceaftagers nye serviceleverandør har bekræftet, at den nye serviceleverandør har modtaget de relevante data og overtaget opbevaringsforpligtelsen. Stk. 4. Ophører kundeforholdet, uden at serviceaftageren angiver en ny serviceleverandør, er den tidligere serviceleverandør forpligtet til at opbevare logfiler i hele den efter § 13, stk. 1 obligatoriske opbevaringsperiode. Stk. 5. Hvis den oprindelige serviceleverandør ikke har overdraget de relevante logfiler indenfor 3 måneder efter overgangen af kundeforholdet, skal den nye serviceleverandør orientere Erhvervsstyrelsen herom. Erhvervsstyrelsen foretager derefter de nødvendige foranstaltninger for at arrangere overdragelsen.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "content": "§ 17. Erhvervsstyrelsen specificerer og offentliggør krav til det serviceniveau serviceleverandører skal opretholde. Indholdet af sådanne krav er beskrevet i bilag 4.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:18",
+      "chapter": "7",
+      "section": "18",
+      "content": "§ 18. Erhvervsstyrelsen vedligeholder og drifter de nødvendige og centrale komponenter for den fælles digitale infrastrukturs funktion, herunder Nemhandelsregisteret. Stk. 2. Nemhandelsregisteret indeholder og udstiller oplysninger om brugere af Nemhandel, herunder modtageres CVR-numre, kontaktoplysninger til deres tekniske support, de adresseringsoplysninger som afsender har behov for til at kunne sende forretningsdokumenter til modtageren, og tekniske oplysninger om hvilke dokumenter brugeren kan modtage.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:19",
+      "chapter": "7",
+      "section": "19",
+      "content": "§ 19. Enhver serviceaftager har ret til vederlagsfrit at registrere sig eller lade sig registrere i Nemhandelsregisteret. Sådanne registreringer foretages af serviceaftager eller dennes servicele-verandør. Stk. 2. Enhver serviceleverandør har ret til vederlagsfrit at registrere sine serviceaftagere i Nemhandelsregisteret. Stk. 3. Serviceleverandøren skal kunne dokumentere, at dennes serviceaftager har samtykket til registreringen. Erhvervsstyrelsen kan iværksætte automatisk kontrol heraf via de snitflader, gennem hvilke man tilgår registreringsfunktionen i Nemhandelsregisteret. Denne automatiske kontrol kan indebære afledte praktiske krav til den nøjagtige tekniske udformning af kundens samtykkeerklæring.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:20",
+      "chapter": "8",
+      "section": "20",
+      "content": "§ 20. Bekendtgørelsen træder i kraft den 1. januar 2024.",
+      "valid_from": "2023-12-28",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,119 @@
+{
+  "id": "2021:1504",
+  "type": "statute",
+  "title": "Bekendtgørelse om behandling af personoplysninger i den digitale løsning Coronapas",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2021-06-30",
+  "url": "https://www.retsinformation.dk/eli/lta/2021/1504/xml",
+  "description": "Retsinformation source. DocumentId=DI000255; AccessionNumber=B20210150405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Statens Serum Institut er ansvarlig for at stille en digital løsning til rådighed for de borgere, der har downloadet den digitale løsning ”Coronapas”, samt at formidle oplysninger om en brugers vaccine-, test- og restitutionsstatus m.v., herunder om en bruger af løsningen har opnået et gyldigt Coronapas, jf. § 3. Stk. 2. Løsningens overordnede formål er at forebygge og hindre udbredelse og smitte af Coronavirussygdom 2019 (COVID-19), og at understøtte genåbning. Løsningen har i den forbindelse til formål at bidrage til at sikre epidemikontrol ved, at brugere af løsningen kan fremvise pålidelige digitale beviser for en brugers vaccine-, test- og restitutionsstatus med henblik på, at brugere via kontrol af passets gyldighed kan få adgang til bestemte lokaliteter eller rejse til andre lande på en måde, hvor risikoen for smitte forbundet hermed minimeres. En kontrollør kan få verificeret, at de fremviste oplysninger er korrekte ved at scanne en QR-kode, der er dannet på baggrund af data, som er digitalt signeret med en signatur, der er ejet af myndighederne. Stk. 3. Statens Serum Institut sikrer, at brugere af løsningen har adgang til detaljerede oplysninger om deres vaccine-, test- og restitutionsstatus m.v. via løsningen. Stk. 4. I tillæg til egne oplysninger kan forældremyndighedsindehavere, i det omfang relationen er registreret i det centrale personregister, tilgå test- og vaccinationsoplysninger om børn under 15 år i den digitale løsning, medmindre barnet har fået registreret navne- og adressebeskyttelse i det centrale personregister."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Statens Serum Institut har adgang til oplysninger i Det Danske Vaccinationsregister, når det er nødvendigt med henblik på at formidle oplysninger som nævnt i § 1, stk. 1."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Ved et gyldigt Coronapas i denne bekendtgørelse forstås dokumentation for, at en bruger af løsningen har opnået: 1) et negativt resultat af en PCR-test, jf. stk. 2, der er højst 96 timer gammel regnet fra tidspunktet, hvor testen er foretaget, 2) et negativt resultat af en antigentest, jf. stk. 3, der er højst 72 timer gammel regnet fra tidspunktet, hvor testen er foretaget, 3) et positivt resultat af en PCR-test, jf. stk. 2, der er mindst 14 dage og højst 8 måneder gammel regnet fra tidspunktet, hvor testen blev foretaget, 4) et gennemført vaccinationsforløb mod covid-19, eller 5) et påbegyndt vaccinationsforløb mod covid-19. Stk. 2. Ved en PCR-test forstås en polymerase chain reaction-test. Stk. 3. Ved en antigentest forstås en test, der på kort tid viser, om der er immunkemisk påvisning af virusproteiner (antigener)."
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Statens Serum Institut er dataansvarlig for den behandling af personoplysninger, der er omfattet af denne bekendtgørelse. Statens Serum Institut udarbejder forud for denne behandling af personoplysninger en konsekvensanalyse i overensstemmelse med artikel 35 i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesforordningen) og implementerer i forlængelse heraf foranstaltninger for at imødegå de identificerede risici. Stk. 2. Statens Serum Institut og eventuelle databehandlere, der på instituttets vegne varetager driften af løsningen kan, når det nødvendigt med henblik at formidle oplysninger som nævnt i § 1, stk. 1, træffe afgørelser omfattet af artikel 22 i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesforordningen) over for alle brugere af løsningen, herunder unge mellem 15 og 18 år, der har installeret løsningen."
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "§ 5. Lagring af og adgang til oplysninger på brugerens telefon er efter artikel 5, stk. 3 i Europa-Parlamentets og Rådets direktiv nr. 2002/58/EF af 12. juli 2002 om behandling af personoplysninger og beskyttelse af privatlivets fred i den elektroniske kommunikationssektor (Direktiv om databeskyttelse inden for elektronisk kommunikation), betinget af, at brugeren har afgivet samtykke i overensstemmelse med artikel 4, nr. 11, og artikel 7, jf. artikel 94-95, i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesforordningen), efter at have modtaget fyldestgørende information om lagringen af oplysninger på brugerens terminaludstyr. Øvrig behandling af personoplysninger, der foretages i forbindelse med drift og anvendelse af løsningen, er reguleret af denne bekendtgørelse. Stk. 2. Der lagres følgende oplysninger på den telefon eller mobile enhed, som den enkelte bruger har installeret løsningen på: 1) AccessToken: Kortlevende adgangsbillet, der kan veksles til et ID-token, og som angiver brugerens identitet og cpr-nummer. 2) NemID token: Et token fra NemId, der repræsenterer brugerens identitet via en PID. 3) RefreshToken: Langlevende token, der kan veksles til et AccessToken. Denne gemmes på brugerens mobile enhed, indtil den udløber, men slettes først, når brugeren åbner løsningen. 4) Coronapas: En række signerede tokens, der indeholder information om brugerens test- og vaccinestatus. 5) Offentlig nøgle. 6) JobID: Et unikt ID, der modtages fra webservicen, såfremt data ikke er klar til at blive hentet, samt fra NAS (National Adviserings Service), når data efterfølgende bliver klar til at blive hentet fra webservicen. Dette sendes til løsningen, således at denne kan spørge, om data er klar. Denne slettes senest efter 24 timer, når brugeren åbner løsningen næste gang. Stk. 3. Oplysninger, der er lagret på den telefon eller mobile enhed, som den enkelte bruger har installeret løsningen på, slettes på følgende måde: 1) Når brugeren sletter løsningen fra enheden, eller trækker sit samtykke som nævnt i stk. 1 tilbage. 2) Ved indrullering på tredje device. 3) Når brugeren logger ud. 4) Hvis brugeren har glemt sin pinkode og derfor logger ud. 5) Efter at brugeren logger ind næste gang, efter at refresh token, som nævnt i stk. 2, nr. 3, er udløbet."
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "§ 6. Følgende kategorier af personoplysninger behandles i løsningen: 1) Navn og fødselsdato. 2) CPR-nummer. 3) Oplysninger om gyldighed som nævnt i § 3, stk. 1. 4) Oplysninger om gennemført vaccination, herunder oplysninger om vaccinelægemiddel, vaccineproducent, dato for vaccination, målsygdom, medlemsstat, hvor vaccinen er givet m.v. 5) Oplysninger om udført test, herunder oplysninger om testtype, testresultat, testnavn, testproducent, målsygdom, dato og klokkeslæt for prøveudtagning, testcenter eller –facilitet, medlemsstat, hvor testen er taget m.v. 6) Oplysninger om restitution, herunder oplysninger om sygdom, som brugeren er kommet sig over, dato for første positive testresultat, medlemsstat, hvor testen er taget m.v. Stk. 2. Statens Serum Institut og eventuelle databehandlere, der på instituttets vegne varetager driften af løsningen, behandler de i stk. 1 nævnte oplysninger i løsningen, når det nødvendigt med henblik på at varetage de formål, der er omfattet af denne bekendtgørelse, jf. § 1, stk. 1-3, og når det er påkrævet af driftstekniske grunde eller følger af Statens Serum Instituts forpligtelser som dataansvarlig."
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "§ 7. Bekendtgørelsen træder i kraft den 1. juli 2021. Stk. 2. Bekendtgørelsen ophæves den 7. juli 2021. Stk. 3. Bekendtgørelse nr. 962 af 20. maj 2021 om behandling af personoplysninger i den digitale løsning Coronapas ophæves."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Statens Serum Institut er ansvarlig for at stille en digital løsning til rådighed for de borgere, der har downloadet den digitale løsning ”Coronapas”, samt at formidle oplysninger om en brugers vaccine-, test- og restitutionsstatus m.v., herunder om en bruger af løsningen har opnået et gyldigt Coronapas, jf. § 3. Stk. 2. Løsningens overordnede formål er at forebygge og hindre udbredelse og smitte af Coronavirussygdom 2019 (COVID-19), og at understøtte genåbning. Løsningen har i den forbindelse til formål at bidrage til at sikre epidemikontrol ved, at brugere af løsningen kan fremvise pålidelige digitale beviser for en brugers vaccine-, test- og restitutionsstatus med henblik på, at brugere via kontrol af passets gyldighed kan få adgang til bestemte lokaliteter eller rejse til andre lande på en måde, hvor risikoen for smitte forbundet hermed minimeres. En kontrollør kan få verificeret, at de fremviste oplysninger er korrekte ved at scanne en QR-kode, der er dannet på baggrund af data, som er digitalt signeret med en signatur, der er ejet af myndighederne. Stk. 3. Statens Serum Institut sikrer, at brugere af løsningen har adgang til detaljerede oplysninger om deres vaccine-, test- og restitutionsstatus m.v. via løsningen. Stk. 4. I tillæg til egne oplysninger kan forældremyndighedsindehavere, i det omfang relationen er registreret i det centrale personregister, tilgå test- og vaccinationsoplysninger om børn under 15 år i den digitale løsning, medmindre barnet har fået registreret navne- og adressebeskyttelse i det centrale personregister.",
+      "valid_from": "2021-06-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Statens Serum Institut har adgang til oplysninger i Det Danske Vaccinationsregister, når det er nødvendigt med henblik på at formidle oplysninger som nævnt i § 1, stk. 1.",
+      "valid_from": "2021-06-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Ved et gyldigt Coronapas i denne bekendtgørelse forstås dokumentation for, at en bruger af løsningen har opnået: 1) et negativt resultat af en PCR-test, jf. stk. 2, der er højst 96 timer gammel regnet fra tidspunktet, hvor testen er foretaget, 2) et negativt resultat af en antigentest, jf. stk. 3, der er højst 72 timer gammel regnet fra tidspunktet, hvor testen er foretaget, 3) et positivt resultat af en PCR-test, jf. stk. 2, der er mindst 14 dage og højst 8 måneder gammel regnet fra tidspunktet, hvor testen blev foretaget, 4) et gennemført vaccinationsforløb mod covid-19, eller 5) et påbegyndt vaccinationsforløb mod covid-19. Stk. 2. Ved en PCR-test forstås en polymerase chain reaction-test. Stk. 3. Ved en antigentest forstås en test, der på kort tid viser, om der er immunkemisk påvisning af virusproteiner (antigener).",
+      "valid_from": "2021-06-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Statens Serum Institut er dataansvarlig for den behandling af personoplysninger, der er omfattet af denne bekendtgørelse. Statens Serum Institut udarbejder forud for denne behandling af personoplysninger en konsekvensanalyse i overensstemmelse med artikel 35 i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesforordningen) og implementerer i forlængelse heraf foranstaltninger for at imødegå de identificerede risici. Stk. 2. Statens Serum Institut og eventuelle databehandlere, der på instituttets vegne varetager driften af løsningen kan, når det nødvendigt med henblik at formidle oplysninger som nævnt i § 1, stk. 1, træffe afgørelser omfattet af artikel 22 i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesforordningen) over for alle brugere af løsningen, herunder unge mellem 15 og 18 år, der har installeret løsningen.",
+      "valid_from": "2021-06-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "§ 5. Lagring af og adgang til oplysninger på brugerens telefon er efter artikel 5, stk. 3 i Europa-Parlamentets og Rådets direktiv nr. 2002/58/EF af 12. juli 2002 om behandling af personoplysninger og beskyttelse af privatlivets fred i den elektroniske kommunikationssektor (Direktiv om databeskyttelse inden for elektronisk kommunikation), betinget af, at brugeren har afgivet samtykke i overensstemmelse med artikel 4, nr. 11, og artikel 7, jf. artikel 94-95, i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesforordningen), efter at have modtaget fyldestgørende information om lagringen af oplysninger på brugerens terminaludstyr. Øvrig behandling af personoplysninger, der foretages i forbindelse med drift og anvendelse af løsningen, er reguleret af denne bekendtgørelse. Stk. 2. Der lagres følgende oplysninger på den telefon eller mobile enhed, som den enkelte bruger har installeret løsningen på: 1) AccessToken: Kortlevende adgangsbillet, der kan veksles til et ID-token, og som angiver brugerens identitet og cpr-nummer. 2) NemID token: Et token fra NemId, der repræsenterer brugerens identitet via en PID. 3) RefreshToken: Langlevende token, der kan veksles til et AccessToken. Denne gemmes på brugerens mobile enhed, indtil den udløber, men slettes først, når brugeren åbner løsningen. 4) Coronapas: En række signerede tokens, der indeholder information om brugerens test- og vaccinestatus. 5) Offentlig nøgle. 6) JobID: Et unikt ID, der modtages fra webservicen, såfremt data ikke er klar til at blive hentet, samt fra NAS (National Adviserings Service), når data efterfølgende bliver klar til at blive hentet fra webservicen. Dette sendes til løsningen, således at denne kan spørge, om data er klar. Denne slettes senest efter 24 timer, når brugeren åbner løsningen næste gang. Stk. 3. Oplysninger, der er lagret på den telefon eller mobile enhed, som den enkelte bruger har installeret løsningen på, slettes på følgende måde: 1) Når brugeren sletter løsningen fra enheden, eller trækker sit samtykke som nævnt i stk. 1 tilbage. 2) Ved indrullering på tredje device. 3) Når brugeren logger ud. 4) Hvis brugeren har glemt sin pinkode og derfor logger ud. 5) Efter at brugeren logger ind næste gang, efter at refresh token, som nævnt i stk. 2, nr. 3, er udløbet.",
+      "valid_from": "2021-06-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "§ 6. Følgende kategorier af personoplysninger behandles i løsningen: 1) Navn og fødselsdato. 2) CPR-nummer. 3) Oplysninger om gyldighed som nævnt i § 3, stk. 1. 4) Oplysninger om gennemført vaccination, herunder oplysninger om vaccinelægemiddel, vaccineproducent, dato for vaccination, målsygdom, medlemsstat, hvor vaccinen er givet m.v. 5) Oplysninger om udført test, herunder oplysninger om testtype, testresultat, testnavn, testproducent, målsygdom, dato og klokkeslæt for prøveudtagning, testcenter eller –facilitet, medlemsstat, hvor testen er taget m.v. 6) Oplysninger om restitution, herunder oplysninger om sygdom, som brugeren er kommet sig over, dato for første positive testresultat, medlemsstat, hvor testen er taget m.v. Stk. 2. Statens Serum Institut og eventuelle databehandlere, der på instituttets vegne varetager driften af løsningen, behandler de i stk. 1 nævnte oplysninger i løsningen, når det nødvendigt med henblik på at varetage de formål, der er omfattet af denne bekendtgørelse, jf. § 1, stk. 1-3, og når det er påkrævet af driftstekniske grunde eller følger af Statens Serum Instituts forpligtelser som dataansvarlig.",
+      "valid_from": "2021-06-30",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "§ 7. Bekendtgørelsen træder i kraft den 1. juli 2021. Stk. 2. Bekendtgørelsen ophæves den 7. juli 2021. Stk. 3. Bekendtgørelse nr. 962 af 20. maj 2021 om behandling af personoplysninger i den digitale løsning Coronapas ophæves.",
+      "valid_from": "2021-06-30",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "et gyldigt coronapas i denne bekendtgørelse",
+      "definition": "dokumentation for, at en bruger af løsningen har opnået: 1) et negativt resultat af en PCR-test, jf",
+      "source_provision": "1:3"
+    }
+  ]
+}

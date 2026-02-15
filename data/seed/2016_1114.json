@@ -1,0 +1,757 @@
+{
+  "id": "2016:1114",
+  "type": "statute",
+  "title": "Bekendtgørelse om sikkerhed for udførelse af elektriske anlæg",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2016-08-18",
+  "url": "https://www.retsinformation.dk/eli/lta/2016/1114/xml",
+  "description": "Retsinformation source. DocumentId=BP001724; AccessionNumber=B20160111405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse for udførelse af elektriske anlæg og primære højspændingsinstallationer, jf. dog stk. 2-3. Stk. 2. Bekendtgørelsen finder ikke anvendelse for udførelse af elproducerende anlæg, som udføres efter bekendtgørelse om sikkerhed for udførelse og drift af elektriske installationer. Stk. 3. Bekendtgørelsen finder ikke anvendelse for udførelse af lagre til elektrisk energi, som udføres efter bekendtgørelse om sikkerhed for udførelse og drift af elektriske installationer."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. I denne bekendtgørelse forstås ved: 1) Beskyttelse mod direkte berøring: Foranstaltninger, som forhindrer, at personer kommer i farlig nærhed af spændingsførende dele eller de dele, som kan have en farlig spænding, med dele af kroppen eller genstande. 2) Beskyttelse mod indirekte berøring: Beskyttelse af personer fra farer, som kan opstå i tilfælde af fejl fra kontakt med udsatte spændingsførende dele på elektrisk udstyr eller fremmed ledende dele. 3) Farezonen: Zonen for arbejde under spænding D L . Område omkring spændingsførende dele, hvor isolationsniveauet til beskyttelse mod elektrisk fare er utilstrækkeligt, når personer rækker ind i eller går ind i området, jf. EN 50110, anneks A. 4) Fejlbeskyttelse: Beskyttelse mod elektrisk stød under enkeltfejlforhold. 5) Grundbeskyttelse: Beskyttelse mod elektrisk stød under fejlfrie forhold. 6) Højspændingsanlæg: Elektriske anlæg med nominel spænding over 1000 V a.c. eller 1500 V d.c. 7) Lavspændingsanlæg: Elektriske anlæg med nominel spænding til og med 1000 V a.c. eller 1500 V d.c. 8) Ledningsanlæg: Luftledninger og kabler, som indgår i et elektrisk anlæg. 9) Lukket elektrisk driftsområde: Adgangsreguleret rum eller område, hvor elektriske anlæg og udstyr betjenes. 10) Røranlæg: Alle elektrisk ledende dele, som indgår i et metallisk rørsystem og de elektrisk ledende dele, som er i berøring med rørsystemet."
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Udføres et elektrisk anlæg over 1000 V a.c. i overensstemmelse med EN 61936-1 med eventuelle nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt."
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Udføres et jordingsanlæg til elektriske anlæg over 1000 V a.c. i overensstemmelse med EN 50522 med eventuelle nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Udføres et luftledningsanlæg over 1000 V a.c. i overensstemmelse med EN 50341 med eventuelle nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt."
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Udføres et elektrisk anlæg over 1500 V d.c. i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt."
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. Udføres et elektrisk anlæg i nærheden af metalliske røranlæg i overensstemmelse med EN 50443 med eventuelle nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt. Stk. 2. Sikkerhedskravet anses tillige for opfyldt, hvis nærføringen mellem det elektriske anlæg og et metallisk røranlæg udføres i overensstemmelse med bilag 1 til denne bekendtgørelse."
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. Udføres et elektrisk anlæg ikke eller kun delvist efter de i §§ 3-7 nævnte standarder, skal det dokumenteres, at sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, er opfyldt. Stk. 2. Tidspunktet for udførelse af det elektriske anlæg angiver hvilken udgave af standardserien, jf. §§ 3-7, der skal anvendes. I de tilfælde, hvor udførelsestidspunktet for det elektriske anlæg ligger mindre end tre år efter færdigprojekteringstidspunktet, kan den på færdigprojekteringstidspunktet i Danmark gældende udgave af standardserien, jf. §§ 3-7, anvendes."
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "§ 9. Udføres den elektriske forsyning til et baneanlæg i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og de for spændingsniveauet generelle sikkerhedskrav, jf. §§ 21-25 eller §§ 26-36, for opfyldt. Stk. 2. Udføres den elektriske forsyning til et baneanlæg ikke eller kun delvist efter de i stk. 1 nævnte standarder, skal det dokumenteres, at sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og de for spændingsniveauet generelle sikkerhedskrav, jf. §§ 21-25 eller §§ 26-36, er opfyldt. Stk. 3. Tidspunktet for udførelse af den elektriske forsyning til et baneanlæg angiver hvilke udgaver af standarderne, jf. stk. 1, der skal anvendes. I de tilfælde, hvor udførelsestidspunktet for den elektriske forsyning til et baneanlæg ligger mindre end tre år efter færdigprojekteringstidspunktet, kan de på færdigprojekteringstidspunktet i Danmark gældende udgaver af standarderne, jf. stk. 1, anvendes."
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "§ 10. Udføres baneanlæg i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3 for opfyldt. Stk. 2. Udføres baneanlæg ikke eller kun delvist efter de i stk. 1 nævnte standarder, skal det dokumenteres, at sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og de for spændingsniveauet generelle sikkerhedskrav, jf. §§ 21-25 eller §§ 26-36, er opfyldt. Stk. 3. Tidspunktet for udførelse af baneanlæg angiver hvilke udgaver af standarderne, jf. stk. 1, der skal anvendes. I de tilfælde, hvor udførelsestidspunktet for baneanlæg ligger mindre end tre år efter færdigprojekteringstidspunktet, kan de på færdigprojekteringstidspunktet i Danmark gældende udgaver af standarderne, jf. stk. 1, anvendes."
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "§ 11. Udføres et elektrisk anlæg til og med 1000 V a.c. eller 1500 V d.c. efter den i Danmark gældende udgave af standardserien for elektriske lavspændingsinstallationer HD 60364, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-25, for opfyldt. Stk. 2. Udføres et elektrisk anlæg ikke eller kun delvist efter den i Danmark gældende udgave af standardserien for elektriske installationer HD 60364, skal det dokumenteres, at sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-25, er opfyldt. Stk. 3. Tidspunktet for udførelse af det elektriske anlæg angiver hvilken udgave af standardserien, jf. stk. 1, der skal anvendes. I de tilfælde, hvor udførelsestidspunktet for det elektriske anlæg ligger mindre end tre år efter færdigprojekteringstidspunktet, kan den på færdigprojekteringstidspunktet i Danmark gældende udgave af standardserien, jf. stk. 1, anvendes."
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "§ 12. Batterier, der anvendes i erhvervsmæssige energilagre, skal være egnet og beregnet til formålet og i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark."
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "§ 13. Standarderne, som denne bekendtgørelse henviser til, indføres ikke i Lovtidende, men kan købes ved Dansk Standard eller gennemses ved Sikkerhedsstyrelsen."
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "§ 14. §§ 15-36 uddyber sikkerhedskravet i elsikkerhedslovens § 3."
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "§ 15. Et elektrisk anlæg skal udføres, så det ikke kan medføre fare på grund af for høj temperatur, lysbue eller mekanisk påvirkning ved normal drift, specielle driftsforhold, kortslutning eller forventede klimatiske forhold."
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "§ 16. Overspændinger må ikke medføre fare for personer, husdyr eller ejendom."
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "§ 17. Et elektrisk anlæg skal have immunitet overfor elektromagnetiske forstyrrelser, så det kan fungere korrekt i det angivne miljø."
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "§ 18. Elektrisk materiel, der indgår i et elektrisk anlæg, skal tilsluttes og anvendes i overensstemmelse med fabrikantens anvisninger."
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "§ 19. Et jordingsanlæg skal udføres, så det fungerer under alle forhold og yder sikkerhed for personer på ethvert sted, hvor disse har legitim adgang. Det skal desuden sikres, at det elektriske materiel til jordingsanlæg forbliver intakt og fejlfrit."
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "§ 20. Elektriske anlæg og andre objekter må ikke anbringes så nær hinanden, at der derved kan opstå fare. Stk. 2. Ved anbringelse af andre objekter i nærheden af bestående elektriske anlæg skal eventuelle afstandskrav til det elektriske anlæg overholdes. Stk. 3. Det elektriske anlæg eller objekt, der anlægges sidst, skal placeres under hensyntagen til det allerede placerede."
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "content": "§ 21. Et elektrisk anlæg skal grundbeskyttes, så personer og husdyr beskyttes mod de farer, der kan opstå ved kontakt med anlæggets spændingsførende dele."
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "content": "§ 22. Et elektrisk anlæg skal fejlbeskyttes, så personer og husdyr beskyttes mod de farer, der under fejl kan opstå ved kontakt med anlæggets udsatte ledende dele."
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "content": "§ 23. Et elektrisk anlæg skal beskyttes mod overstrøm, så personer, husdyr og ejendom beskyttes mod de farer, der kan opstå som følge af for høje temperaturer eller elektromekaniske påvirkninger forårsaget af overstrøm."
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "content": "§ 24. For et elektrisk anlæg skal beskyttelsesledere og enhver anden del, der er beregnet til at føre en fejlstrøm, kunne føre denne strøm uden at antage for høj temperatur."
+    },
+    {
+      "provision_ref": "3:25",
+      "chapter": "3",
+      "section": "25",
+      "content": "§ 25. Fejl mellem spændingsførende dele i strømkredse, som forsynes med forskellige spændinger, må ikke medføre fare for personer, husdyr eller ejendom."
+    },
+    {
+      "provision_ref": "3:26",
+      "chapter": "3",
+      "section": "26",
+      "content": "§ 26. Et elektrisk anlæg skal beskyttes mod direkte berøring således, at kontakt med spændingsførende dele eller utilsigtet indtrængen i farezonen omkring spændingsførende dele undgås."
+    },
+    {
+      "provision_ref": "3:27",
+      "chapter": "3",
+      "section": "27",
+      "content": "§ 27. Et elektrisk anlæg skal være indrettet med foranstaltninger til beskyttelse af personer mod indirekte berøring, hvor disse har legitim adgang."
+    },
+    {
+      "provision_ref": "3:28",
+      "chapter": "3",
+      "section": "28",
+      "content": "§ 28. Et elektrisk anlæg skal være beskyttet med udstyr til automatisk afbrydelse af farlige jordfejl eller til visning af jordfejl."
+    },
+    {
+      "provision_ref": "3:29",
+      "chapter": "3",
+      "section": "29",
+      "content": "§ 29. Et elektrisk anlæg skal udføres, så det kan modstå normalt forekommende spændinger, herunder overspændinger."
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "content": "§ 30. Hvor det er praktisk muligt, skal et elektrisk anlæg udføres, så underspænding, jordfejl eller spændingsudfald af en eller flere spændingsførende ledere ikke medfører fare for personer, husdyr eller ejendom."
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "content": "§ 31. Et elektrisk anlæg skal have nødvendigt overvågnings-, beskyttelses-, regulerings- og kontroludstyr, så det fungerer sikkert og efter hensigten."
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "content": "§ 32. Et elektrisk anlæg skal udføres, så der tages hensyn til risikoen for farlige inducerede berøringsspændinger i andre ikke-elektriske anlæg, der er nærført det elektriske anlæg, og der skal om nødvendigt træffes foranstaltninger, der minimerer inducerede berøringsspændinger til et ufarligt niveau for personer og husdyr."
+    },
+    {
+      "provision_ref": "3:33",
+      "chapter": "3",
+      "section": "33",
+      "content": "§ 33. Et elektrisk anlæg skal udføres, så arbejde i forbindelse med drift og vedligehold af anlægget kan udføres sikkert."
+    },
+    {
+      "provision_ref": "3:34",
+      "chapter": "3",
+      "section": "34",
+      "content": "§ 34. Et elektrisk anlæg skal have advarselsskilte, mærkning og identifikation, så fejlbetjening og ulykker undgås. Stk. 2. Advarselsskilte skal opfylde bekendtgørelse om sikkerhedsskiltning og anden form for signalgivning."
+    },
+    {
+      "provision_ref": "3:35",
+      "chapter": "3",
+      "section": "35",
+      "content": "§ 35. Alle sider af det ydre hegn omkransende et udendørs elektrisk anlæg og adgangsdøre til anlægget skal være forsynet med advarselsskilte. Stk. 2. Advarselsskilte skal opfylde bekendtgørelse om sikkerhedsskiltning og anden form for signalgivning."
+    },
+    {
+      "provision_ref": "3:36",
+      "chapter": "3",
+      "section": "36",
+      "content": "§ 36. Alle adgangsdøre til lukkede elektriske driftsområder skal være forsynet med advarselsskilte. Stk. 2. I lukkede elektriske driftsområder og i industrielle bygninger skal alle rum med elektrisk udstyr mærkes med information, der identificerer rummet og gør opmærksom på mulige elektriske farer. Denne information skal findes uden for rummet og på hver dør, der giver adgang til rummet. Stk. 3. Advarselsskilte skal opfylde bekendtgørelse om sikkerhedsskiltning og anden form for signalgivning."
+    },
+    {
+      "provision_ref": "4:37",
+      "chapter": "4",
+      "section": "37",
+      "content": "§ 37. Bærende konstruktioner skal dimensioneres i overensstemmelse med Eurocodes med tilhørende danske annekser."
+    },
+    {
+      "provision_ref": "4:38",
+      "chapter": "4",
+      "section": "38",
+      "content": "§ 38. I forbindelse med statiske beregninger af elektrisk udstyr, bærende konstruktioner og fundamenter skal der tages hensyn til vind- og islast i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark."
+    },
+    {
+      "provision_ref": "4:39",
+      "chapter": "4",
+      "section": "39",
+      "content": "§ 39. Ved fremføring af kabler i bygninger uden for stationsrum skal det sikres, at kabler er tilstrækkeligt brandhæmmende."
+    },
+    {
+      "provision_ref": "4:40",
+      "chapter": "4",
+      "section": "40",
+      "content": "§ 40. Hvor kabler krydser hinanden eller placeres nær ved andre kabler, skal de gensidige termiske påvirkninger beregnes for at afgøre minimumsafstanden mellem kablerne. Kan den beregnede minimumsafstand ikke overholdes, skal det på anden vis sikres, at der ikke sker en skadelig påvirkning mellem kablerne. Stk. 2. Kabler skal installeres i tilstrækkelig afstand fra varmekilder eller adskilles fra disse ved hjælp af termiske isolationsskærme."
+    },
+    {
+      "provision_ref": "4:41",
+      "chapter": "4",
+      "section": "41",
+      "content": "§ 41. Kabler skal nedgraves i mindst 0,7 m dybde og være beskyttet af rør, U-profiler eller dækplader."
+    },
+    {
+      "provision_ref": "4:42",
+      "chapter": "4",
+      "section": "42",
+      "content": "§ 42. Dækplader, rør og U-profiler af plastmateriale til beskyttelse af kabler i jord skal være røde. Stk. 2. Dækplader skal have en bredde på mindst 100 mm og være forsynet med følgende advarselstekst: ELKABEL. Stk. 3. Advarselsteksten, jf. stk. 2, skal 1) have en bogstavhøjde på mindst 10 mm, 2) være i sort farve og 3) gentages med et mellemrum på højst 200 mm mellem hver tekst. Stk. 4. For dækplader finder stk. 3, nr. 2, kun anvendelse, hvis disse er mærket ved påstempling."
+    },
+    {
+      "provision_ref": "4:43",
+      "chapter": "4",
+      "section": "43",
+      "content": "§ 43. Hvor ledere og tilbehør er direkte forbundet til en effektafbryder, en sikringslastafbryder eller en lastafbryder, må værdien og varigheden af mærkekorttidsholdestrømmen for ledere og tilbehør ikke være mindre end den tilsvarende mærkeværdi for det elektriske materiel, det er tilsluttet."
+    },
+    {
+      "provision_ref": "4:44",
+      "chapter": "4",
+      "section": "44",
+      "content": "§ 44. Ved betjeningsgange skal der etableres det antal udgange, som giver tilstrækkelig flugtmulighed i tilfælde af en nødsituation. Stk. 2. Betjeningsgange på mere end 10 m skal have mindst 2 nødudgange."
+    },
+    {
+      "provision_ref": "4:45",
+      "chapter": "4",
+      "section": "45",
+      "content": "§ 45. Et elektrisk anlægs overvågnings- og styresystem skal udformes, så det indikerer afbryderens position og enhver given fejltilstand."
+    },
+    {
+      "provision_ref": "4:46",
+      "chapter": "4",
+      "section": "46",
+      "content": "§ 46. Motorbetjente adskillere, jordsluttere, effektafbrydere, automatsikringer og lastafbrydere skal forsynes med lokal betjening til indkobling og udkobling."
+    },
+    {
+      "provision_ref": "5:47",
+      "chapter": "5",
+      "section": "47",
+      "content": "§ 47. Et elektrisk anlæg skal være udført i overensstemmelse med de på tidspunktet for udførelsen gældende regler. Stk. 2. For mindre ændringer af eksisterende luftledningsanlæg kan de bestemmelser, der var gældende på udførelsestidspunktet, anvendes."
+    },
+    {
+      "provision_ref": "6:48",
+      "chapter": "6",
+      "section": "48",
+      "content": "§ 48. Inden et nyt elektrisk anlæg idriftsættes, skal den, der sætter anlægget i drift, sikre, at driften af anlægget varetages af en driftsansvarlig virksomhed, hvor bekendtgørelse om sikkerhed for drift af elektriske anlæg kræver en driftsansvarlig virksomhed."
+    },
+    {
+      "provision_ref": "6:49",
+      "chapter": "6",
+      "section": "49",
+      "content": "§ 49. Anvendes den for den pågældende anlægstype gældende udgave af standarden ikke eller kun delvist, jf. § 8, stk. 1, § 9, stk. 2, § 10, stk. 2, og § 11, stk. 2, skal den udførende virksomhed indberette dette via Sikkerhedsstyrelsens elektroniske indberetningssystem. Der skal ske indberetning for følgende: 1) Udvidelse af et eksisterende elektrisk anlæg. 2) Nyt elektrisk anlæg. Stk. 2. Dokumentation efter stk. 1 skal indeholde følgende oplysninger og dokumentation: 1) Adressen på det elektriske anlæg og eventuelle andre oplysninger, så anlægget entydigt identificeres. 2) Tidspunktet for arbejdets udførelse. 3) Tidspunktet for færdigprojektering, hvor dette er væsentligt forskelligt fra udførelsestidspunktet. 4) Dokumentation for opfyldelse af sikkerhedskravene, jf. § 8, stk. 1, § 9, stk. 2, § 10, stk. 2, eller § 11, stk. 2. 5) Dokumentation for kontrol af, at det elektriske anlæg er i overensstemmelse med den tekniske dokumentation. 6) Dokumentation for materialevalg og for valg af beskyttelsesudstyr. 7) Beregninger og vurderinger, som danner grundlag for overholdelse af sikkerhedskravene. 8) Tegninger og skematisk oversigt over det elektriske anlæg. 9) Entydig identificerbar dokumentation for hvilken del af det elektriske anlæg, der er udført arbejde på. Stk. 3. Indberetning, jf. stk. 1, skal foretages senest 14 dage efter arbejdets udførelse."
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "content": "§ 50. Medmindre strengere straf er forskyldt efter anden lovgivning, straffes med bøde den, der 1) overtræder §§ 15-46 og 48, 2) undlader at foretage indberetning, jf. § 49, stk. 1, 3) undlader at indberette oplysninger efter § 49, stk. 2, eller indberetter forkerte oplysninger, eller 4) overtræder § 49, stk. 3. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+    },
+    {
+      "provision_ref": "7:51",
+      "chapter": "7",
+      "section": "51",
+      "content": "§ 51. Forældelsesfristen for strafansvaret er 10 år."
+    },
+    {
+      "provision_ref": "8:52",
+      "chapter": "8",
+      "section": "52",
+      "content": "§ 52. Bekendtgørelsen træder i kraft den 1. juli 2017. Stk. 2. Følgende bekendtgørelser ophæves den 1. januar 2019: 1) Bekendtgørelse af 1. januar 1990 om Stærkstrømsreglementet, afd. A, afsnit 4, jordforbindelser m.m. i og ved stations- og ledningsanlæg 3. udgave. 2) Bekendtgørelse af 1. maj 1994 om Stærkstrømsbekendtgørelsen udførelse af elforsyningsanlæg. 3) Bekendtgørelse af 16. juni 2005 om Stærkstrømsbekendtgørelsen afsnit 2, 2. udgave udførelse af elforsyningsanlæg. 4) Bekendtgørelse af 1. oktober 2001 om Stærkstrømsbekendtgørelsen, afsnit 9, 4. udgave, Højspændingsinstallationer."
+    },
+    {
+      "provision_ref": "8:53",
+      "chapter": "8",
+      "section": "53",
+      "content": "§ 53. Elektriske anlæg kan udføres efter stærkstrømsbekendtgørelsens afsnit 2, 6 og 9 til og med den 31. december 2018. Stk. 2. Elektriske anlæg, som er færdigprojekteret eller påbegyndt før den 1. januar 2019 efter stærkstrømsbekendtgørelsens afsnit 2, 6 og 9, kan udføres eller færdiggøres efter disse regler til og med den 31. december 2019. Stk. 3. Sikkerhedsstyrelsen kan i særlige tilfælde give dispensation til at færdiggøre elektriske anlæg, som er færdigprojekteret eller påbegyndt før den 1. januar 2020 efter stærkstrømsbekendtgørelsens afsnit 2, 6 og 9 efter den 31. december 2019. Ansøgning om dispensation skal være modtaget af Sikkerhedsstyrelsen inden den 31. december 2019."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse for udførelse af elektriske anlæg og primære højspændingsinstallationer, jf. dog stk. 2-3. Stk. 2. Bekendtgørelsen finder ikke anvendelse for udførelse af elproducerende anlæg, som udføres efter bekendtgørelse om sikkerhed for udførelse og drift af elektriske installationer. Stk. 3. Bekendtgørelsen finder ikke anvendelse for udførelse af lagre til elektrisk energi, som udføres efter bekendtgørelse om sikkerhed for udførelse og drift af elektriske installationer.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. I denne bekendtgørelse forstås ved: 1) Beskyttelse mod direkte berøring: Foranstaltninger, som forhindrer, at personer kommer i farlig nærhed af spændingsførende dele eller de dele, som kan have en farlig spænding, med dele af kroppen eller genstande. 2) Beskyttelse mod indirekte berøring: Beskyttelse af personer fra farer, som kan opstå i tilfælde af fejl fra kontakt med udsatte spændingsførende dele på elektrisk udstyr eller fremmed ledende dele. 3) Farezonen: Zonen for arbejde under spænding D L . Område omkring spændingsførende dele, hvor isolationsniveauet til beskyttelse mod elektrisk fare er utilstrækkeligt, når personer rækker ind i eller går ind i området, jf. EN 50110, anneks A. 4) Fejlbeskyttelse: Beskyttelse mod elektrisk stød under enkeltfejlforhold. 5) Grundbeskyttelse: Beskyttelse mod elektrisk stød under fejlfrie forhold. 6) Højspændingsanlæg: Elektriske anlæg med nominel spænding over 1000 V a.c. eller 1500 V d.c. 7) Lavspændingsanlæg: Elektriske anlæg med nominel spænding til og med 1000 V a.c. eller 1500 V d.c. 8) Ledningsanlæg: Luftledninger og kabler, som indgår i et elektrisk anlæg. 9) Lukket elektrisk driftsområde: Adgangsreguleret rum eller område, hvor elektriske anlæg og udstyr betjenes. 10) Røranlæg: Alle elektrisk ledende dele, som indgår i et metallisk rørsystem og de elektrisk ledende dele, som er i berøring med rørsystemet.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Udføres et elektrisk anlæg over 1000 V a.c. i overensstemmelse med EN 61936-1 med eventuelle nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Udføres et jordingsanlæg til elektriske anlæg over 1000 V a.c. i overensstemmelse med EN 50522 med eventuelle nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Udføres et luftledningsanlæg over 1000 V a.c. i overensstemmelse med EN 50341 med eventuelle nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Udføres et elektrisk anlæg over 1500 V d.c. i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. Udføres et elektrisk anlæg i nærheden af metalliske røranlæg i overensstemmelse med EN 50443 med eventuelle nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, for opfyldt. Stk. 2. Sikkerhedskravet anses tillige for opfyldt, hvis nærføringen mellem det elektriske anlæg og et metallisk røranlæg udføres i overensstemmelse med bilag 1 til denne bekendtgørelse.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. Udføres et elektrisk anlæg ikke eller kun delvist efter de i §§ 3-7 nævnte standarder, skal det dokumenteres, at sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og §§ 26-36, er opfyldt. Stk. 2. Tidspunktet for udførelse af det elektriske anlæg angiver hvilken udgave af standardserien, jf. §§ 3-7, der skal anvendes. I de tilfælde, hvor udførelsestidspunktet for det elektriske anlæg ligger mindre end tre år efter færdigprojekteringstidspunktet, kan den på færdigprojekteringstidspunktet i Danmark gældende udgave af standardserien, jf. §§ 3-7, anvendes.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "§ 9. Udføres den elektriske forsyning til et baneanlæg i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og de for spændingsniveauet generelle sikkerhedskrav, jf. §§ 21-25 eller §§ 26-36, for opfyldt. Stk. 2. Udføres den elektriske forsyning til et baneanlæg ikke eller kun delvist efter de i stk. 1 nævnte standarder, skal det dokumenteres, at sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og de for spændingsniveauet generelle sikkerhedskrav, jf. §§ 21-25 eller §§ 26-36, er opfyldt. Stk. 3. Tidspunktet for udførelse af den elektriske forsyning til et baneanlæg angiver hvilke udgaver af standarderne, jf. stk. 1, der skal anvendes. I de tilfælde, hvor udførelsestidspunktet for den elektriske forsyning til et baneanlæg ligger mindre end tre år efter færdigprojekteringstidspunktet, kan de på færdigprojekteringstidspunktet i Danmark gældende udgaver af standarderne, jf. stk. 1, anvendes.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "§ 10. Udføres baneanlæg i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark, anses sikkerhedskravet i elsikkerhedslovens § 3 for opfyldt. Stk. 2. Udføres baneanlæg ikke eller kun delvist efter de i stk. 1 nævnte standarder, skal det dokumenteres, at sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-20 og de for spændingsniveauet generelle sikkerhedskrav, jf. §§ 21-25 eller §§ 26-36, er opfyldt. Stk. 3. Tidspunktet for udførelse af baneanlæg angiver hvilke udgaver af standarderne, jf. stk. 1, der skal anvendes. I de tilfælde, hvor udførelsestidspunktet for baneanlæg ligger mindre end tre år efter færdigprojekteringstidspunktet, kan de på færdigprojekteringstidspunktet i Danmark gældende udgaver af standarderne, jf. stk. 1, anvendes.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "§ 11. Udføres et elektrisk anlæg til og med 1000 V a.c. eller 1500 V d.c. efter den i Danmark gældende udgave af standardserien for elektriske lavspændingsinstallationer HD 60364, anses sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-25, for opfyldt. Stk. 2. Udføres et elektrisk anlæg ikke eller kun delvist efter den i Danmark gældende udgave af standardserien for elektriske installationer HD 60364, skal det dokumenteres, at sikkerhedskravet i elsikkerhedslovens § 3, jf. denne bekendtgørelses §§ 15-25, er opfyldt. Stk. 3. Tidspunktet for udførelse af det elektriske anlæg angiver hvilken udgave af standardserien, jf. stk. 1, der skal anvendes. I de tilfælde, hvor udførelsestidspunktet for det elektriske anlæg ligger mindre end tre år efter færdigprojekteringstidspunktet, kan den på færdigprojekteringstidspunktet i Danmark gældende udgave af standardserien, jf. stk. 1, anvendes.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "§ 12. Batterier, der anvendes i erhvervsmæssige energilagre, skal være egnet og beregnet til formålet og i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "§ 13. Standarderne, som denne bekendtgørelse henviser til, indføres ikke i Lovtidende, men kan købes ved Dansk Standard eller gennemses ved Sikkerhedsstyrelsen.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "§ 14. §§ 15-36 uddyber sikkerhedskravet i elsikkerhedslovens § 3.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "§ 15. Et elektrisk anlæg skal udføres, så det ikke kan medføre fare på grund af for høj temperatur, lysbue eller mekanisk påvirkning ved normal drift, specielle driftsforhold, kortslutning eller forventede klimatiske forhold.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "§ 16. Overspændinger må ikke medføre fare for personer, husdyr eller ejendom.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "§ 17. Et elektrisk anlæg skal have immunitet overfor elektromagnetiske forstyrrelser, så det kan fungere korrekt i det angivne miljø.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "§ 18. Elektrisk materiel, der indgår i et elektrisk anlæg, skal tilsluttes og anvendes i overensstemmelse med fabrikantens anvisninger.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "§ 19. Et jordingsanlæg skal udføres, så det fungerer under alle forhold og yder sikkerhed for personer på ethvert sted, hvor disse har legitim adgang. Det skal desuden sikres, at det elektriske materiel til jordingsanlæg forbliver intakt og fejlfrit.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "§ 20. Elektriske anlæg og andre objekter må ikke anbringes så nær hinanden, at der derved kan opstå fare. Stk. 2. Ved anbringelse af andre objekter i nærheden af bestående elektriske anlæg skal eventuelle afstandskrav til det elektriske anlæg overholdes. Stk. 3. Det elektriske anlæg eller objekt, der anlægges sidst, skal placeres under hensyntagen til det allerede placerede.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "content": "§ 21. Et elektrisk anlæg skal grundbeskyttes, så personer og husdyr beskyttes mod de farer, der kan opstå ved kontakt med anlæggets spændingsførende dele.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "content": "§ 22. Et elektrisk anlæg skal fejlbeskyttes, så personer og husdyr beskyttes mod de farer, der under fejl kan opstå ved kontakt med anlæggets udsatte ledende dele.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "content": "§ 23. Et elektrisk anlæg skal beskyttes mod overstrøm, så personer, husdyr og ejendom beskyttes mod de farer, der kan opstå som følge af for høje temperaturer eller elektromekaniske påvirkninger forårsaget af overstrøm.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "content": "§ 24. For et elektrisk anlæg skal beskyttelsesledere og enhver anden del, der er beregnet til at føre en fejlstrøm, kunne føre denne strøm uden at antage for høj temperatur.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:25",
+      "chapter": "3",
+      "section": "25",
+      "content": "§ 25. Fejl mellem spændingsførende dele i strømkredse, som forsynes med forskellige spændinger, må ikke medføre fare for personer, husdyr eller ejendom.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:26",
+      "chapter": "3",
+      "section": "26",
+      "content": "§ 26. Et elektrisk anlæg skal beskyttes mod direkte berøring således, at kontakt med spændingsførende dele eller utilsigtet indtrængen i farezonen omkring spændingsførende dele undgås.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:27",
+      "chapter": "3",
+      "section": "27",
+      "content": "§ 27. Et elektrisk anlæg skal være indrettet med foranstaltninger til beskyttelse af personer mod indirekte berøring, hvor disse har legitim adgang.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:28",
+      "chapter": "3",
+      "section": "28",
+      "content": "§ 28. Et elektrisk anlæg skal være beskyttet med udstyr til automatisk afbrydelse af farlige jordfejl eller til visning af jordfejl.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:29",
+      "chapter": "3",
+      "section": "29",
+      "content": "§ 29. Et elektrisk anlæg skal udføres, så det kan modstå normalt forekommende spændinger, herunder overspændinger.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "content": "§ 30. Hvor det er praktisk muligt, skal et elektrisk anlæg udføres, så underspænding, jordfejl eller spændingsudfald af en eller flere spændingsførende ledere ikke medfører fare for personer, husdyr eller ejendom.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "content": "§ 31. Et elektrisk anlæg skal have nødvendigt overvågnings-, beskyttelses-, regulerings- og kontroludstyr, så det fungerer sikkert og efter hensigten.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "content": "§ 32. Et elektrisk anlæg skal udføres, så der tages hensyn til risikoen for farlige inducerede berøringsspændinger i andre ikke-elektriske anlæg, der er nærført det elektriske anlæg, og der skal om nødvendigt træffes foranstaltninger, der minimerer inducerede berøringsspændinger til et ufarligt niveau for personer og husdyr.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:33",
+      "chapter": "3",
+      "section": "33",
+      "content": "§ 33. Et elektrisk anlæg skal udføres, så arbejde i forbindelse med drift og vedligehold af anlægget kan udføres sikkert.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:34",
+      "chapter": "3",
+      "section": "34",
+      "content": "§ 34. Et elektrisk anlæg skal have advarselsskilte, mærkning og identifikation, så fejlbetjening og ulykker undgås. Stk. 2. Advarselsskilte skal opfylde bekendtgørelse om sikkerhedsskiltning og anden form for signalgivning.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:35",
+      "chapter": "3",
+      "section": "35",
+      "content": "§ 35. Alle sider af det ydre hegn omkransende et udendørs elektrisk anlæg og adgangsdøre til anlægget skal være forsynet med advarselsskilte. Stk. 2. Advarselsskilte skal opfylde bekendtgørelse om sikkerhedsskiltning og anden form for signalgivning.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:36",
+      "chapter": "3",
+      "section": "36",
+      "content": "§ 36. Alle adgangsdøre til lukkede elektriske driftsområder skal være forsynet med advarselsskilte. Stk. 2. I lukkede elektriske driftsområder og i industrielle bygninger skal alle rum med elektrisk udstyr mærkes med information, der identificerer rummet og gør opmærksom på mulige elektriske farer. Denne information skal findes uden for rummet og på hver dør, der giver adgang til rummet. Stk. 3. Advarselsskilte skal opfylde bekendtgørelse om sikkerhedsskiltning og anden form for signalgivning.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:37",
+      "chapter": "4",
+      "section": "37",
+      "content": "§ 37. Bærende konstruktioner skal dimensioneres i overensstemmelse med Eurocodes med tilhørende danske annekser.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:38",
+      "chapter": "4",
+      "section": "38",
+      "content": "§ 38. I forbindelse med statiske beregninger af elektrisk udstyr, bærende konstruktioner og fundamenter skal der tages hensyn til vind- og islast i overensstemmelse med standarder, der er offentliggjort af Den Europæiske Komité for Elektroteknisk Standardisering (CENELEC) med eventuelle særlige nationale forhold gældende for Danmark.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:39",
+      "chapter": "4",
+      "section": "39",
+      "content": "§ 39. Ved fremføring af kabler i bygninger uden for stationsrum skal det sikres, at kabler er tilstrækkeligt brandhæmmende.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:40",
+      "chapter": "4",
+      "section": "40",
+      "content": "§ 40. Hvor kabler krydser hinanden eller placeres nær ved andre kabler, skal de gensidige termiske påvirkninger beregnes for at afgøre minimumsafstanden mellem kablerne. Kan den beregnede minimumsafstand ikke overholdes, skal det på anden vis sikres, at der ikke sker en skadelig påvirkning mellem kablerne. Stk. 2. Kabler skal installeres i tilstrækkelig afstand fra varmekilder eller adskilles fra disse ved hjælp af termiske isolationsskærme.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:41",
+      "chapter": "4",
+      "section": "41",
+      "content": "§ 41. Kabler skal nedgraves i mindst 0,7 m dybde og være beskyttet af rør, U-profiler eller dækplader.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:42",
+      "chapter": "4",
+      "section": "42",
+      "content": "§ 42. Dækplader, rør og U-profiler af plastmateriale til beskyttelse af kabler i jord skal være røde. Stk. 2. Dækplader skal have en bredde på mindst 100 mm og være forsynet med følgende advarselstekst: ELKABEL. Stk. 3. Advarselsteksten, jf. stk. 2, skal 1) have en bogstavhøjde på mindst 10 mm, 2) være i sort farve og 3) gentages med et mellemrum på højst 200 mm mellem hver tekst. Stk. 4. For dækplader finder stk. 3, nr. 2, kun anvendelse, hvis disse er mærket ved påstempling.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:43",
+      "chapter": "4",
+      "section": "43",
+      "content": "§ 43. Hvor ledere og tilbehør er direkte forbundet til en effektafbryder, en sikringslastafbryder eller en lastafbryder, må værdien og varigheden af mærkekorttidsholdestrømmen for ledere og tilbehør ikke være mindre end den tilsvarende mærkeværdi for det elektriske materiel, det er tilsluttet.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:44",
+      "chapter": "4",
+      "section": "44",
+      "content": "§ 44. Ved betjeningsgange skal der etableres det antal udgange, som giver tilstrækkelig flugtmulighed i tilfælde af en nødsituation. Stk. 2. Betjeningsgange på mere end 10 m skal have mindst 2 nødudgange.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:45",
+      "chapter": "4",
+      "section": "45",
+      "content": "§ 45. Et elektrisk anlægs overvågnings- og styresystem skal udformes, så det indikerer afbryderens position og enhver given fejltilstand.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:46",
+      "chapter": "4",
+      "section": "46",
+      "content": "§ 46. Motorbetjente adskillere, jordsluttere, effektafbrydere, automatsikringer og lastafbrydere skal forsynes med lokal betjening til indkobling og udkobling.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:47",
+      "chapter": "5",
+      "section": "47",
+      "content": "§ 47. Et elektrisk anlæg skal være udført i overensstemmelse med de på tidspunktet for udførelsen gældende regler. Stk. 2. For mindre ændringer af eksisterende luftledningsanlæg kan de bestemmelser, der var gældende på udførelsestidspunktet, anvendes.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:48",
+      "chapter": "6",
+      "section": "48",
+      "content": "§ 48. Inden et nyt elektrisk anlæg idriftsættes, skal den, der sætter anlægget i drift, sikre, at driften af anlægget varetages af en driftsansvarlig virksomhed, hvor bekendtgørelse om sikkerhed for drift af elektriske anlæg kræver en driftsansvarlig virksomhed.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:49",
+      "chapter": "6",
+      "section": "49",
+      "content": "§ 49. Anvendes den for den pågældende anlægstype gældende udgave af standarden ikke eller kun delvist, jf. § 8, stk. 1, § 9, stk. 2, § 10, stk. 2, og § 11, stk. 2, skal den udførende virksomhed indberette dette via Sikkerhedsstyrelsens elektroniske indberetningssystem. Der skal ske indberetning for følgende: 1) Udvidelse af et eksisterende elektrisk anlæg. 2) Nyt elektrisk anlæg. Stk. 2. Dokumentation efter stk. 1 skal indeholde følgende oplysninger og dokumentation: 1) Adressen på det elektriske anlæg og eventuelle andre oplysninger, så anlægget entydigt identificeres. 2) Tidspunktet for arbejdets udførelse. 3) Tidspunktet for færdigprojektering, hvor dette er væsentligt forskelligt fra udførelsestidspunktet. 4) Dokumentation for opfyldelse af sikkerhedskravene, jf. § 8, stk. 1, § 9, stk. 2, § 10, stk. 2, eller § 11, stk. 2. 5) Dokumentation for kontrol af, at det elektriske anlæg er i overensstemmelse med den tekniske dokumentation. 6) Dokumentation for materialevalg og for valg af beskyttelsesudstyr. 7) Beregninger og vurderinger, som danner grundlag for overholdelse af sikkerhedskravene. 8) Tegninger og skematisk oversigt over det elektriske anlæg. 9) Entydig identificerbar dokumentation for hvilken del af det elektriske anlæg, der er udført arbejde på. Stk. 3. Indberetning, jf. stk. 1, skal foretages senest 14 dage efter arbejdets udførelse.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "content": "§ 50. Medmindre strengere straf er forskyldt efter anden lovgivning, straffes med bøde den, der 1) overtræder §§ 15-46 og 48, 2) undlader at foretage indberetning, jf. § 49, stk. 1, 3) undlader at indberette oplysninger efter § 49, stk. 2, eller indberetter forkerte oplysninger, eller 4) overtræder § 49, stk. 3. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:51",
+      "chapter": "7",
+      "section": "51",
+      "content": "§ 51. Forældelsesfristen for strafansvaret er 10 år.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:52",
+      "chapter": "8",
+      "section": "52",
+      "content": "§ 52. Bekendtgørelsen træder i kraft den 1. juli 2017. Stk. 2. Følgende bekendtgørelser ophæves den 1. januar 2019: 1) Bekendtgørelse af 1. januar 1990 om Stærkstrømsreglementet, afd. A, afsnit 4, jordforbindelser m.m. i og ved stations- og ledningsanlæg 3. udgave. 2) Bekendtgørelse af 1. maj 1994 om Stærkstrømsbekendtgørelsen udførelse af elforsyningsanlæg. 3) Bekendtgørelse af 16. juni 2005 om Stærkstrømsbekendtgørelsen afsnit 2, 2. udgave udførelse af elforsyningsanlæg. 4) Bekendtgørelse af 1. oktober 2001 om Stærkstrømsbekendtgørelsen, afsnit 9, 4. udgave, Højspændingsinstallationer.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:53",
+      "chapter": "8",
+      "section": "53",
+      "content": "§ 53. Elektriske anlæg kan udføres efter stærkstrømsbekendtgørelsens afsnit 2, 6 og 9 til og med den 31. december 2018. Stk. 2. Elektriske anlæg, som er færdigprojekteret eller påbegyndt før den 1. januar 2019 efter stærkstrømsbekendtgørelsens afsnit 2, 6 og 9, kan udføres eller færdiggøres efter disse regler til og med den 31. december 2019. Stk. 3. Sikkerhedsstyrelsen kan i særlige tilfælde give dispensation til at færdiggøre elektriske anlæg, som er færdigprojekteret eller påbegyndt før den 1. januar 2020 efter stærkstrømsbekendtgørelsens afsnit 2, 6 og 9 efter den 31. december 2019. Ansøgning om dispensation skal være modtaget af Sikkerhedsstyrelsen inden den 31. december 2019.",
+      "valid_from": "2016-08-18",
+      "valid_to": null
+    }
+  ],
+  "definitions": []
+}

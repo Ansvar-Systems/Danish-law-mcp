@@ -1,0 +1,231 @@
+{
+  "id": "2019:147",
+  "type": "statute",
+  "title": "Bekendtgørelse om registrering af ejerlejligheder og notering af bygning på fremmed grund i matriklen",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2019-02-19",
+  "url": "https://www.retsinformation.dk/eli/lta/2019/147/xml",
+  "description": "Retsinformation source. DocumentId=CI000576; AccessionNumber=B20190014705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse fastsætter krav til dokumentation m.v. og om anvendelse af digital kommunikation ved anmodning om registrering af en ejendoms opdeling i ejerlejligheder, registrering af ændring af ejerlejligheder eller videreopdeling af ejerlejligheder. Efter bekendtgørelsen skal kommunalbestyrelsen foretage indberetning i Bygnings- og Boligregistret om bygninger, der tilhører en anden end ejeren af det underliggende areal."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Ved en landinspektør med beskikkelse forstås i denne bekendtgørelse praktiserende landinspektører og deres assistenter med landinspektørbeskikkelse."
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Anmodning om registrering af en ejendoms opdeling i ejerlejligheder, videreopdeling af ejerlejligheder og ændring af ejerlejligheder skal indgives til Geodatastyrelsen."
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Anmodning om registrering af en ejendoms opdeling i ejerlejligheder skal indeholde 1) oplysning om de forandringer, der ønskes registreret, 2) en fortegnelse over ejerlejlighederne i ejendommen efter den ønskede forandring, 3) kort over hver ejerlejlighed udarbejdet af en landinspektør med beskikkelse og i formater godkendt af Geodatastyrelsen, 4) erklæring fra en landinspektør med beskikkelse om, at de i ejerlejlighedsfortegnelsen indeholdte oplysninger om beliggenhed og numre er korrekte, og at det angivne areal for ejerlejlighederne er i overensstemmelse med den af landinspektøren foretagne opmåling, 5) erklæring fra en landinspektør med beskikkelse om, at opdelingen ikke kan ske ved matrikulær udstykning, at ejendommen opdeles i sin helhed, og at ejendommen ikke er en landbrugsejendom, 6) erklæring fra ejendommens ejer om, hvorvidt ejendommen inden for de seneste 5 år har tilhørt en privat andelsboligforening, og 7) de erklæringer og dokumenter, der fremgår af bilag 1, som dokumentation for, at betingelserne for opdeling i lov om ejerlejligheder er opfyldt. Stk. 2. Fortegnelsen over ejerlejlighederne kan angive ejerlejlighedernes anvendelse og skal angive 1) oplysning om navn på den person, som er ansvarlig for udarbejdelse af fortegnelsen, 2) dato for udarbejdelse, 3) beliggenhed for den opdelte ejendom, angivet med beliggenhedsadressen og matrikelbetegnelse, med mindre ejendommen ligger på søterritoriet, 4) identifikationsnummer (BFE-nummer) for hver ejerlejlighed og for den opdelte ejendom, 5) beliggenhedsadresse for hver ejerlejlighed, og når flere bolig-, erhvervs- eller brugsenheder er tilknyttet ejerlejligheden, adresse for enheder angivet med gadenavn, husnummer, etage mv., hvis særskilt adresse er tildelt, 6) ejerlejlighedsnumre og litra-nummerering, når en ejerlejlighed består af flere fysisk adskilte delarealer, 7) ejerlejlighedernes areal og delarealer opmålt i overensstemmelse med bilag 2, og 8) fordelingstal angivet som brøk. Stk. 3. Ejerlejlighedskortet skal indeholde 1) oplysning om navn på den landinspektør med beskikkelse, at der har udarbejdet kortet, 2) dato for opmålingen, 3) oplysning om beliggenhedsadressen, 4) en situationsplan, der viser placering af den opdelte ejendoms bygninger på matrikelkortet, medmindre ejendommen ligger på søterritoriet, 5) et oversigtskort, der tydeligt viser fysisk afgrænsning og beliggenhed af ejerlejlighedens areal og arealer i ejendommen når ejerlejligheden består af flere fysisk adskilte delarealer, 6) identifikationsnummer (BFE-nummer) for den opdelte ejendom, 7) ejerlejlighedsnummer, 8) oplysning om ejerlejlighedens areal i m 2 og om delarealer i m 2 , 9) målestoksforhold og 10) angivelse af nordretning."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Ved anmodning om registrering af en ejendoms opdeling i ejerlejligheder skal data med geometri for hver ejerlejlighed være overført fra digitalt format godkendt af Geodatastyrelsen. Data med geometri skal indeholde oplysning om identifikationsnummer (BFE-nummer) for den opdelte ejendom og ejerlejlighedsnummer. Koordinater skal være fundet ved en opmåling på stedet, hvor UTM32/ETRS89 er referencesystem. Koordinaterne skal være yderpunkter i ejerlejlighedens areal, som dette er opmålt i overensstemmelse med bilag 2."
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Før registrering af nye ejerlejligheder, skal hver ny ejerlejlighed tilknyttes de bolig-, erhvervs- og brugsenheder optaget i Bygnings- og Boligregistret, der hører til ejerlejligheden eller tilknyttes en bygning optaget i Bygnings- og Boligregistret. Stk. 2. Stk. 1 gælder i det omfang, at det efter regler fastsat i medfør af lov om bygnings- og boligregistrering påhviler ejeren før registrering at etablere referencen mellem en ejerlejlighed og de enheder eller en bygning, der hører til ejerlejligheden. Stk. 3. En ejerlejlighed kan med Geodatastyrelsens godkendelse oprettes, selvom ejerlejligheden ikke er tilknyttet nogen bolig-, erhvervs- eller brugsenhed optaget i Bygnings- og Boligregistret eller ikke tilknyttet en bygning optaget i Bygnings- og Boligregistret."
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. Ved anmodning om registrering af videreopdeling af ejerlejligheder, skal foreligge 1) oplysning om de forandringer, der ønskes registreret, 2) en fortegnelse over ejerlejlighederne efter den ønskede forandring, der omfatter de nye ejerlejligheder og den ejerlejlighed, hvorfra videreopdeling sker, 3) kort over hver ejerlejlighed, der opstår ved videreopdelingen og kort over den ejerlejlighed, hvorfra videre‍o‌pdeling sker, 4) en erklæring fra en landinspektør med beskikkelse i overensstemmelse med § 4, stk. 1, nr. 4, og 5) de erklæringer og dokumenter, der fremgår af bilag 1 som dokumentation for, at betingelserne for opdeling i lov om ejerlejligheder er opfyldt. Stk. 2. Ved udarbejdelse af fortegnelse over ejerlejlig‍he‌derne og ejerlejlighedskort finder § 4, stk. 2 og 3, tilsvarende anvendelse. Stk. 3. Er data med geometri tidligere overført for den ejerlejlighed, hvorfra videreopdeling sker, skal data med geo‌metri for hver ejerlejlighed, der dannes ved videreopdelingen og data med ny geometri for den ejerlejlighed, hvorfra videreopdeling sker, være overført idet § 5 finder tilsvarende anvendelse."
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. Ved anmodning om registrering af andre ændringer af ejerlejligheder end videreopdeling, skal der foreligge 1) oplysning om de forandringer, der ønskes registreret, 2) en fortegnelse over ejerlejlighederne efter den ønskede forandring, der omfatter de ejerlejligheder i ejendommen, hvor en eller flere af de angivelser, der er nævnt i § 4, stk. 2, nr. 3-8, ændres, 3) kort over hver ejerlejlighed, hvor korrektion af ejerlejlighedskortet må ske som følge af ændringen, og 4) en erklæring fra en landinspektør med beskikkelse i overensstemmelse med § 4, stk. 1, nr. 4, når der sker ændring i en eller flere af de angivelser, der er nævnt i § 4, stk. 2, nr. 5-7. Stk. 2. Ved udarbejdelse af fortegnelse over ejerlejlig‍he‌derne og ejerlejlighedskort finder § 4, stk. 2 og 3, tilsvarende anvendelse. Fortegnelsen kan være udarbejdet af andre end en landinspektør med beskikkelse, når en registreringsanmodning alene angår ændring af fordelingstal. Stk. 3. Er data med geometri tidligere overført for en ejerlejlighed, som ønskes ændret, skal data med ny geometri overføres, hvis geometrien ændres. § 5 finder tilsvarende anvendelse. Stk. 4. Stk. 1-3, gælder ikke ved opløsning af ejerlejlighedsfællesskabet."
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "§ 9. Geodatastyrelsen kan anmode om supplerende dokumentation for, at oplysninger om sagens faktiske grundlag i fremsendte erklæringer og dokumenter er korrekte, hvis oplysninger, der foreligger for Geodatastyrelsen, efterlader tvivl herom."
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "§ 10. Før endelig registrering af opdeling eller ændring, herunder videreopdeling, skal Geodatastyrelsen have modtaget meddelelse fra Tinglysningsretten om, at opdelingen eller ændringen kan tinglyses."
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. Kommunalbestyrelsen skal indberette i Bygnings- og Boligregistret, når en bygning er ejet af en anden end ejeren af det underliggende areal samt indberette oplysning om et geografisk punkt inden for bygningens ydre afgrænsning, hvorefter ejendommen af Geodatastyrelsen tildeles et identifikationsnummer (BFE-nummer). Er bygningen beliggende på en samlet fast ejendom, noterer Geodatastyrelsen ejendommen og det tildelte identifikationsnummer (BFE-nummer) i matriklen."
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Registreringsanmodningen med tilhørende dokumenter og data skal indsendes elektronisk til Geodatastyrelsen via Ejendomsregistreringsportalen på adressen www.erpo.dk. Stk. 2. Registreringsanmodningen skal være forsynet med en digital signatur. Stk. 3. Ejerlejlighedsfortegnelse, ejerlejlighedskort og erklæringer afgivet af en landinspektør med beskikkelse, skal være forsynet med en digital signatur afgivet af en landinspektør med beskikkelse. En ejerlejlighedsfortegnelse, der alene angår ændring af fordelingstal kan forsynes med en digital signatur fra andre end en landinspektør med beskikkelse. Stk. 4. Indsendelse af supplerende dokumenter til en sag er også omfattet stk. 2 og 3."
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "content": "§ 13. For ekspedition af sager om registrering vedrørende ejerlejligheder betales gebyr med de anførte beløb: 1) Opdeling af ejendom i ejerlejligheder: 1.360 kr. for hver ejerlejlighed, der oprettes. 2) Videreopdeling af ejerlejlighed: 1.360 kr. for hver ejerlejlighed, der oprettes. 3) Sammenlægning af ejerlejligheder: 680 kr. for hver ejerlejlighed, der videreføres. 4) Arealoverførsel til ejerlejlighed: 680 kr. for hver ejerlejlighed, hvortil der overføres areal. 5) Arealoverførsel fra en eller flere ejerlejligheder til fællesareal: 680 kr. 6) Ændring af fordelingstal: 340 kr. for hver ejerlejlighedsejendom, uanset antallet af fordelingstal, der ændres i sagen."
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "content": "§ 14. Gebyr efter denne bekendtgørelse forfalder til betaling samtidigt med, at opdeling i ejerlejligheder eller ændring af ejerlejligheder, herunder videreopdeling registreres. Stk. 2. Betalingsfristen er 30 dage fra forfaldsdato. Stk. 3. Gebyrer opkræves af den person, der har signeret registreringsanmodningen. Stk. 4. Overstiger det samlede gebyr beløb 85.000 kr. opkræver Geodatastyrelsen beløbet forud. Stk. 5. Geodatastyrelsen kan i andre tilfælde, hvor det skønnes nødvendigt for at afværge risiko for tab, kræve forudbetaling af gebyrer. Stk. 6. For udskrivning af rykker for betaling opkræves et gebyr på 100 kr."
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "content": "§ 15. Bekendtgørelsen træder i kraft den 25. februar 2019. Stk. 2. Bekendtgørelsen finder ikke anvendelse på sager, som er under behandling ved Tinglysningsretten ved bekendtgørelsens ikrafttræden. For sådanne sager finder de hidtil gældende regler anvendelse."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse fastsætter krav til dokumentation m.v. og om anvendelse af digital kommunikation ved anmodning om registrering af en ejendoms opdeling i ejerlejligheder, registrering af ændring af ejerlejligheder eller videreopdeling af ejerlejligheder. Efter bekendtgørelsen skal kommunalbestyrelsen foretage indberetning i Bygnings- og Boligregistret om bygninger, der tilhører en anden end ejeren af det underliggende areal.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Ved en landinspektør med beskikkelse forstås i denne bekendtgørelse praktiserende landinspektører og deres assistenter med landinspektørbeskikkelse.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Anmodning om registrering af en ejendoms opdeling i ejerlejligheder, videreopdeling af ejerlejligheder og ændring af ejerlejligheder skal indgives til Geodatastyrelsen.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Anmodning om registrering af en ejendoms opdeling i ejerlejligheder skal indeholde 1) oplysning om de forandringer, der ønskes registreret, 2) en fortegnelse over ejerlejlighederne i ejendommen efter den ønskede forandring, 3) kort over hver ejerlejlighed udarbejdet af en landinspektør med beskikkelse og i formater godkendt af Geodatastyrelsen, 4) erklæring fra en landinspektør med beskikkelse om, at de i ejerlejlighedsfortegnelsen indeholdte oplysninger om beliggenhed og numre er korrekte, og at det angivne areal for ejerlejlighederne er i overensstemmelse med den af landinspektøren foretagne opmåling, 5) erklæring fra en landinspektør med beskikkelse om, at opdelingen ikke kan ske ved matrikulær udstykning, at ejendommen opdeles i sin helhed, og at ejendommen ikke er en landbrugsejendom, 6) erklæring fra ejendommens ejer om, hvorvidt ejendommen inden for de seneste 5 år har tilhørt en privat andelsboligforening, og 7) de erklæringer og dokumenter, der fremgår af bilag 1, som dokumentation for, at betingelserne for opdeling i lov om ejerlejligheder er opfyldt. Stk. 2. Fortegnelsen over ejerlejlighederne kan angive ejerlejlighedernes anvendelse og skal angive 1) oplysning om navn på den person, som er ansvarlig for udarbejdelse af fortegnelsen, 2) dato for udarbejdelse, 3) beliggenhed for den opdelte ejendom, angivet med beliggenhedsadressen og matrikelbetegnelse, med mindre ejendommen ligger på søterritoriet, 4) identifikationsnummer (BFE-nummer) for hver ejerlejlighed og for den opdelte ejendom, 5) beliggenhedsadresse for hver ejerlejlighed, og når flere bolig-, erhvervs- eller brugsenheder er tilknyttet ejerlejligheden, adresse for enheder angivet med gadenavn, husnummer, etage mv., hvis særskilt adresse er tildelt, 6) ejerlejlighedsnumre og litra-nummerering, når en ejerlejlighed består af flere fysisk adskilte delarealer, 7) ejerlejlighedernes areal og delarealer opmålt i overensstemmelse med bilag 2, og 8) fordelingstal angivet som brøk. Stk. 3. Ejerlejlighedskortet skal indeholde 1) oplysning om navn på den landinspektør med beskikkelse, at der har udarbejdet kortet, 2) dato for opmålingen, 3) oplysning om beliggenhedsadressen, 4) en situationsplan, der viser placering af den opdelte ejendoms bygninger på matrikelkortet, medmindre ejendommen ligger på søterritoriet, 5) et oversigtskort, der tydeligt viser fysisk afgrænsning og beliggenhed af ejerlejlighedens areal og arealer i ejendommen når ejerlejligheden består af flere fysisk adskilte delarealer, 6) identifikationsnummer (BFE-nummer) for den opdelte ejendom, 7) ejerlejlighedsnummer, 8) oplysning om ejerlejlighedens areal i m 2 og om delarealer i m 2 , 9) målestoksforhold og 10) angivelse af nordretning.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. Ved anmodning om registrering af en ejendoms opdeling i ejerlejligheder skal data med geometri for hver ejerlejlighed være overført fra digitalt format godkendt af Geodatastyrelsen. Data med geometri skal indeholde oplysning om identifikationsnummer (BFE-nummer) for den opdelte ejendom og ejerlejlighedsnummer. Koordinater skal være fundet ved en opmåling på stedet, hvor UTM32/ETRS89 er referencesystem. Koordinaterne skal være yderpunkter i ejerlejlighedens areal, som dette er opmålt i overensstemmelse med bilag 2.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. Før registrering af nye ejerlejligheder, skal hver ny ejerlejlighed tilknyttes de bolig-, erhvervs- og brugsenheder optaget i Bygnings- og Boligregistret, der hører til ejerlejligheden eller tilknyttes en bygning optaget i Bygnings- og Boligregistret. Stk. 2. Stk. 1 gælder i det omfang, at det efter regler fastsat i medfør af lov om bygnings- og boligregistrering påhviler ejeren før registrering at etablere referencen mellem en ejerlejlighed og de enheder eller en bygning, der hører til ejerlejligheden. Stk. 3. En ejerlejlighed kan med Geodatastyrelsens godkendelse oprettes, selvom ejerlejligheden ikke er tilknyttet nogen bolig-, erhvervs- eller brugsenhed optaget i Bygnings- og Boligregistret eller ikke tilknyttet en bygning optaget i Bygnings- og Boligregistret.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. Ved anmodning om registrering af videreopdeling af ejerlejligheder, skal foreligge 1) oplysning om de forandringer, der ønskes registreret, 2) en fortegnelse over ejerlejlighederne efter den ønskede forandring, der omfatter de nye ejerlejligheder og den ejerlejlighed, hvorfra videreopdeling sker, 3) kort over hver ejerlejlighed, der opstår ved videreopdelingen og kort over den ejerlejlighed, hvorfra videre‍o‌pdeling sker, 4) en erklæring fra en landinspektør med beskikkelse i overensstemmelse med § 4, stk. 1, nr. 4, og 5) de erklæringer og dokumenter, der fremgår af bilag 1 som dokumentation for, at betingelserne for opdeling i lov om ejerlejligheder er opfyldt. Stk. 2. Ved udarbejdelse af fortegnelse over ejerlejlig‍he‌derne og ejerlejlighedskort finder § 4, stk. 2 og 3, tilsvarende anvendelse. Stk. 3. Er data med geometri tidligere overført for den ejerlejlighed, hvorfra videreopdeling sker, skal data med geo‌metri for hver ejerlejlighed, der dannes ved videreopdelingen og data med ny geometri for den ejerlejlighed, hvorfra videreopdeling sker, være overført idet § 5 finder tilsvarende anvendelse.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. Ved anmodning om registrering af andre ændringer af ejerlejligheder end videreopdeling, skal der foreligge 1) oplysning om de forandringer, der ønskes registreret, 2) en fortegnelse over ejerlejlighederne efter den ønskede forandring, der omfatter de ejerlejligheder i ejendommen, hvor en eller flere af de angivelser, der er nævnt i § 4, stk. 2, nr. 3-8, ændres, 3) kort over hver ejerlejlighed, hvor korrektion af ejerlejlighedskortet må ske som følge af ændringen, og 4) en erklæring fra en landinspektør med beskikkelse i overensstemmelse med § 4, stk. 1, nr. 4, når der sker ændring i en eller flere af de angivelser, der er nævnt i § 4, stk. 2, nr. 5-7. Stk. 2. Ved udarbejdelse af fortegnelse over ejerlejlig‍he‌derne og ejerlejlighedskort finder § 4, stk. 2 og 3, tilsvarende anvendelse. Fortegnelsen kan være udarbejdet af andre end en landinspektør med beskikkelse, når en registreringsanmodning alene angår ændring af fordelingstal. Stk. 3. Er data med geometri tidligere overført for en ejerlejlighed, som ønskes ændret, skal data med ny geometri overføres, hvis geometrien ændres. § 5 finder tilsvarende anvendelse. Stk. 4. Stk. 1-3, gælder ikke ved opløsning af ejerlejlighedsfællesskabet.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "§ 9. Geodatastyrelsen kan anmode om supplerende dokumentation for, at oplysninger om sagens faktiske grundlag i fremsendte erklæringer og dokumenter er korrekte, hvis oplysninger, der foreligger for Geodatastyrelsen, efterlader tvivl herom.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "§ 10. Før endelig registrering af opdeling eller ændring, herunder videreopdeling, skal Geodatastyrelsen have modtaget meddelelse fra Tinglysningsretten om, at opdelingen eller ændringen kan tinglyses.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. Kommunalbestyrelsen skal indberette i Bygnings- og Boligregistret, når en bygning er ejet af en anden end ejeren af det underliggende areal samt indberette oplysning om et geografisk punkt inden for bygningens ydre afgrænsning, hvorefter ejendommen af Geodatastyrelsen tildeles et identifikationsnummer (BFE-nummer). Er bygningen beliggende på en samlet fast ejendom, noterer Geodatastyrelsen ejendommen og det tildelte identifikationsnummer (BFE-nummer) i matriklen.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Registreringsanmodningen med tilhørende dokumenter og data skal indsendes elektronisk til Geodatastyrelsen via Ejendomsregistreringsportalen på adressen www.erpo.dk. Stk. 2. Registreringsanmodningen skal være forsynet med en digital signatur. Stk. 3. Ejerlejlighedsfortegnelse, ejerlejlighedskort og erklæringer afgivet af en landinspektør med beskikkelse, skal være forsynet med en digital signatur afgivet af en landinspektør med beskikkelse. En ejerlejlighedsfortegnelse, der alene angår ændring af fordelingstal kan forsynes med en digital signatur fra andre end en landinspektør med beskikkelse. Stk. 4. Indsendelse af supplerende dokumenter til en sag er også omfattet stk. 2 og 3.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "content": "§ 13. For ekspedition af sager om registrering vedrørende ejerlejligheder betales gebyr med de anførte beløb: 1) Opdeling af ejendom i ejerlejligheder: 1.360 kr. for hver ejerlejlighed, der oprettes. 2) Videreopdeling af ejerlejlighed: 1.360 kr. for hver ejerlejlighed, der oprettes. 3) Sammenlægning af ejerlejligheder: 680 kr. for hver ejerlejlighed, der videreføres. 4) Arealoverførsel til ejerlejlighed: 680 kr. for hver ejerlejlighed, hvortil der overføres areal. 5) Arealoverførsel fra en eller flere ejerlejligheder til fællesareal: 680 kr. 6) Ændring af fordelingstal: 340 kr. for hver ejerlejlighedsejendom, uanset antallet af fordelingstal, der ændres i sagen.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "content": "§ 14. Gebyr efter denne bekendtgørelse forfalder til betaling samtidigt med, at opdeling i ejerlejligheder eller ændring af ejerlejligheder, herunder videreopdeling registreres. Stk. 2. Betalingsfristen er 30 dage fra forfaldsdato. Stk. 3. Gebyrer opkræves af den person, der har signeret registreringsanmodningen. Stk. 4. Overstiger det samlede gebyr beløb 85.000 kr. opkræver Geodatastyrelsen beløbet forud. Stk. 5. Geodatastyrelsen kan i andre tilfælde, hvor det skønnes nødvendigt for at afværge risiko for tab, kræve forudbetaling af gebyrer. Stk. 6. For udskrivning af rykker for betaling opkræves et gebyr på 100 kr.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "content": "§ 15. Bekendtgørelsen træder i kraft den 25. februar 2019. Stk. 2. Bekendtgørelsen finder ikke anvendelse på sager, som er under behandling ved Tinglysningsretten ved bekendtgørelsens ikrafttræden. For sådanne sager finder de hidtil gældende regler anvendelse.",
+      "valid_from": "2019-02-19",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "en landinspektør med beskikkelse",
+      "definition": "i denne bekendtgørelse praktiserende landinspektører og deres assistenter med landinspektørbeskikkelse",
+      "source_provision": "1:2"
+    }
+  ]
+}

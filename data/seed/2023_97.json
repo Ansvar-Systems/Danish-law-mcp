@@ -1,0 +1,203 @@
+{
+  "id": "2023:97",
+  "type": "statute",
+  "title": "Bekendtgørelse om krav til digitale standard bogføringssystemer",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2023-01-26",
+  "url": "https://www.retsinformation.dk/eli/lta/2023/97/xml",
+  "description": "Retsinformation source. DocumentId=CQ002459; AccessionNumber=B20230009705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse på digitale standard bogføringssystemer der markedsføres her i landet til virksomheder, der er omfattet af § 16, stk. 1, i lov om bogføring, og hvor det digitale standard bogføringssystem skal anmeldes efter § 19, stk. 1, 2. pkt., i lov om bogføring. Stk. 2. Bekendtgørelsen finder tilsvarende anvendelse på moduler og udvidelser til et digitalt standard bogføringssystem, hvis 1) de varetager funktioner, som et digitalt standard bogføringssystem efter denne bekendtgørelse skal understøtte, og 2) virksomheden direkte kan tilgå dem i bogføringssystemet. Stk. 3. Stk. 2 finder tilsvarende anvendelse på moduler og udvidelser fra en tredjepart, hvis udbyderen af det digitale standard bogføringssystem har indgået aftale med tredjeparten om, at modulet eller udvidelsen skal være direkte tilgængeligt i bogføringssystemet."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Ved et digitalt bogføringssystem forstås i denne bekendtgørelse en digital service eller software, som indeholder funktioner, hvorved virksomheder kan bogføre transaktioner og opbevare de bogførte transaktioner og bilag omfattet af § 3 i denne bekendtgørelse eller som minimum en fuldstændig sikkerhedskopi heraf på en server hos en udbyder eller en anden tredjepart. Stk. 2. Ved cloud-baserede digitale bogføringssystemer forstås i denne bekendtgørelse bogføringssystemer, der udbydes som en service på internettet, og hvor virksomheden både bogfører transaktioner og opbevarer bogførte transaktioner og bilag på en server hos udbyderen af systemet, eller hos dennes cloud-leverandør. Stk. 3. Ved hybride digitale bogføringssystemer forstås i denne bekendtgørelse bogføringssystemer, der installeres lokalt i en virksomhed, og hvor der automatisk og løbende som minimum tages en fuldstændig sikkerhedskopi af bogførte transaktioner og bilag, som opbevares hos en tredjepart. Stk. 4. Ved et standardsystem forstås i denne bekendtgørelse cloud-baserede digitale bogføringssystemer og hybride digitale bogføringssystemer, der udbydes på ensartede vilkår til en ubestemt kreds af virksomheder. Stk. 5. Ved bogført transaktion i denne bekendtgørelse forstås registreringer omfattet af § 7, stk. 1, i lov om bogføring."
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Ved bilag, der skal kunne opbevares i et digitalt standard bogføringssystem efter denne bekendtgørelse, forstås enhver dokumentation for en bogført transaktion vedrørende køb eller salg, som indeholder følgende oplysninger: 1) Udstedelsesdato. 2) Leverancens art. 3) Beløb. 4) Afsender og modtager, herunder navn, adresse, samt CVR-nummer eller SE-nummer. 5) Oplysning om momsbeløbets størrelse. 6) Betalingsoplysninger. Stk. 2. Stk. 1 finder ikke anvendelse på kassestrimler fra et salgsregistreringssystem. Stk. 3. Stk. 1 finder endvidere ikke anvendelse på dokumentation for bogførte transaktioner, som alene foreligger i fysisk form, og som modtages vedrørende køb eller salg af varer og tjenesteydelser uden for landets grænser."
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Ved opbevaring af en sikkerhedskopi af bogførte transaktioner og bilag omfattet af § 3 hos en tredjepart, forstås i denne bekendtgørelse opbevaring hos en part, som ikke er en nærtstående part til den bogføringspligtige virksomhed, eller den der udfører bogføringen for virksomheden. Stk. 2. En nærtstående part defineres i overensstemmelse med definitionen i den internationale regnskabsstandard IAS 24, således som denne er vedtaget af Kommissionen i overensstemmelse med Europa-Parlamentets og Rådets forordning nr. 1606/2002 af 19. juli 2002 om anvendelse af internationale regnskabsstandarder, samt efterfølgende ændringer i definitionen, som vedtages af Kommissionen i overensstemmelse med den nævnte forordning."
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. En udbyder af flere digitale standard bogføringssystemer, hvoraf kun nogle opfylder kravene i § 15, stk. 1, i lov om bogføring, og denne bekendtgørelse, skal sikre, at det af systemet tydeligt fremgår, hvorvidt det lovligt kan anvendes som et registreret bogføringssystem efter § 16, stk. 2, nr. 1, i lov om bogføring."
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. En udbyder af et digitalt standard bogføringssystem skal sikre, at systemet opfylder kravene i bilag 1 til: 1) Oplysninger ved bogføring af virksomhedens transaktioner. 2) Sikring af kontrolspor ved virksomhedens bogførte transaktioner. 3) Opbevaring af bilag omfattet af § 3. 4) Opbevaring af virksomhedens bogførte transaktioner og bilag omfattet af § 3 i 5 år."
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. En udbyder af et digitalt standard bogføringssystem skal sikre, at systemet automatisk mindst ugentligt tager en sikkerhedskopi af alle virksomhedens bogførte transaktioner og bilag omfattet af § 3 (fuld sikkerhedskopi). Udbyderen skal endvidere mindst dagligt tage en sikkerhedskopi af de data, der er ændret siden sidste sikkerhedskopi (inkrementel sikkerhedskopi). Stk. 2. Udbyderen skal sikre, at såvel den fulde som den inkrementelle sikkerhedskopi efter stk. 1, opbevares hos udbyderen selv eller hos en tredjepart, under passende tekniske og organisatoriske it-sikkerhedsforanstaltninger, der opfylder kravene til høj it-sikkerhed efter § 8, og kravene til udlevering af oplysninger efter § 10 og § 11. Stk. 3. Udbyderen skal sikre, at mindst én fuld og inkrementel sikkerhedskopi efter stk. 1, opbevares på en server i et EU- eller EØS-land."
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. En udbyder af et cloud-baseret digitalt standard bogføringssystem, jf. § 2, stk. 2, skal til enhver tid gennemføre passende tekniske og organisatoriske it-sikkerhedsforanstaltninger med henblik på, at systemet til stadighed har et højt it-sikkerhedsniveau i forhold til de funktioner, som et digitalt standard bogføringssystem skal understøtte efter denne bekendtgørelse. Stk. 2. En udbyder af et digitalt standard bogføringssystem skal gennemføre en risikovurdering med henblik på at fastsætte passende foranstaltninger efter stk. 1. Vurderingen skal omfatte risikoen for tab af tilgængelighed, autencitet, integritet og fortrolighed i det digitale standard bogføringssystem. Vurderingen skal tage hensyn til eventuelle tredjeparter, og skal løbende opdateres ved ændringer i trusselsbilledet. Stk. 3. Ved fastsættelse af et passende it-sikkerhedsniveau, jf. stk. 1, skal der navnlig tages hensyn til: 1) Relevante risici for hændelig eller ulovlig tilintetgørelse, tab eller andre former for manglende tilgængelighed, uberettigede ændringer, uautoriseret adgang til eller misbrug af oplysninger. 2) Relevante risici ved behandling af persondata, herunder navnlig ved at udbyderen indgår en databehandleraftale, der opfylder kravene i databeskyttelsesforordningens art. 28, stk. 3, inden etablering af et kundeforhold. Stk. 4. Passende tekniske og organisatoriske it-sikkerhedsforanstaltninger efter stk. 1, skal som minimum omfatte 1) netværkssikkerhed, 2) adgangsstyring, 3) leverandørstyring, 4) backup, 5) logning, 6) beredskab og reetablering og 7) databeskyttelse. Stk. 5. Stk. 1-4 finder tilsvarende anvendelse på en udbyder af et hybridt digitalt standard bogføringssystem, jf. § 2, stk. 3, hvis sikkerhedskopien af virksomhedens bogførte transaktioner og bilag opbevares hos udbyderen. I andre tilfælde finder stk. 6 anvendelse. Stk. 6. Hvis en udbyder af et digitalt standard bogføringssystem anvender tredjepart til opbevaring af bogførte transaktioner og bilag der dokumenterer disse, eller til opbevaring af en sikkerhedskopi heraf, skal udbyderen i relevant omfang ved aftale med eller passende dokumentation fra den pågældende tredjepart sikre, at der også gennemføres passende tekniske og organisatoriske it-sikkerhedsforanstaltninger, jf. stk. 1, hos de respektive tredjeparter."
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "§ 9. En udbyder af et digitalt standard bogføringssystem skal sikre, at systemet opfylder kravene i bilag 2 til: 1) Automatisk fremsendelse og modtagelse af e-faktura. 2) Mulighed for at afstemme virksomhedens bogføring med virksomhedens bankkonto. 3) Mulighed for kontering efter en offentlig standardkontoplan der dækker årsregnskab og moms. 4) Korrekt bogføring gennem en bogføringsguide eller konteringsvejledning. 5) Deling af virksomhedens bogføringsdata. 6) Indberetning af årsregnskab og moms. 7) Meddelelse om mulighed for oprettelse i Nemhandelsregisteret. 8) Tilmeldingsfunktionalitet til Nemhandelsregisteret."
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "§ 10. En udbyder af et digitalt standard bogføringssystem skal sikre, at opbevaring af bogførte transaktioner og bilag omfattet af § 3 i et digitalt standard bogføringssystem sker på en måde, så regnskabsmaterialet kan gendannes og gøres læsbart inden for fristen efter § 11, stk. 1."
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. En udbyder af et digitalt standard bogføringssystem skal inden for en frist på 4 uger fra anmodningstidspunktet stille bogførte transaktioner og bilag omfattet af § 3 for en nærmere angivet periode vedrørende en virksomhed til rådighed for en myndighed. 1. pkt. finder tilsvarende anvendelse for en likvidator, kurator eller rekonstruktør, der er trådt i ledelsens sted i den pågældende virksomhed. Stk. 2. Adgang til oplysninger efter stk. 1 er betinget af, at myndigheden oplyser, at det ikke har været muligt at få stillet oplysningerne til rådighed af virksomheden inden for den frist, som myndigheden har fastsat efter § 22, stk. 4, i lov om bogføring. Stk. 3. Hvis en myndighed anmoder om, at oplysninger i virksomhedens bogførte transaktioner eller bilag udsøges efter andre kriterier end tidsmæssig afgrænsning efter stk. 1, skal myndigheden dække udbyderens omkostninger herved. 1. pkt. finder tilsvarende anvendelse på en likvidator, kurator eller rekonstruktør, der er trådt i ledelsens sted i den pågældende virksomhed. Stk. 4. Bogførte transaktioner omfattet af stk. 1, skal kunne udleveres i et struktureret maskinlæsbart format og bilag i et læsbart format. Stk. 5. Stk. 1-4 finder tilsvarende anvendelse, hvis udbyderen af det digitale standard bogføringssystem opbevarer bogførte transaktioner og bilag, eller en sikkerhedskopi heraf, på en server hos en tredjepart."
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Overtrædelse af §§ 5-11 straffes med bøde."
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "content": "§ 13. Bekendtgørelsen træder i kraft den 1. februar 2023. Stk. 2. §§ 5-12 har virkning fra den 1. november 2023 for digitale standard bogføringssystemer, der markedsføres her i landet på tidspunktet for ikrafttrædelsen af bekendtgørelsen."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Denne bekendtgørelse finder anvendelse på digitale standard bogføringssystemer der markedsføres her i landet til virksomheder, der er omfattet af § 16, stk. 1, i lov om bogføring, og hvor det digitale standard bogføringssystem skal anmeldes efter § 19, stk. 1, 2. pkt., i lov om bogføring. Stk. 2. Bekendtgørelsen finder tilsvarende anvendelse på moduler og udvidelser til et digitalt standard bogføringssystem, hvis 1) de varetager funktioner, som et digitalt standard bogføringssystem efter denne bekendtgørelse skal understøtte, og 2) virksomheden direkte kan tilgå dem i bogføringssystemet. Stk. 3. Stk. 2 finder tilsvarende anvendelse på moduler og udvidelser fra en tredjepart, hvis udbyderen af det digitale standard bogføringssystem har indgået aftale med tredjeparten om, at modulet eller udvidelsen skal være direkte tilgængeligt i bogføringssystemet.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. Ved et digitalt bogføringssystem forstås i denne bekendtgørelse en digital service eller software, som indeholder funktioner, hvorved virksomheder kan bogføre transaktioner og opbevare de bogførte transaktioner og bilag omfattet af § 3 i denne bekendtgørelse eller som minimum en fuldstændig sikkerhedskopi heraf på en server hos en udbyder eller en anden tredjepart. Stk. 2. Ved cloud-baserede digitale bogføringssystemer forstås i denne bekendtgørelse bogføringssystemer, der udbydes som en service på internettet, og hvor virksomheden både bogfører transaktioner og opbevarer bogførte transaktioner og bilag på en server hos udbyderen af systemet, eller hos dennes cloud-leverandør. Stk. 3. Ved hybride digitale bogføringssystemer forstås i denne bekendtgørelse bogføringssystemer, der installeres lokalt i en virksomhed, og hvor der automatisk og løbende som minimum tages en fuldstændig sikkerhedskopi af bogførte transaktioner og bilag, som opbevares hos en tredjepart. Stk. 4. Ved et standardsystem forstås i denne bekendtgørelse cloud-baserede digitale bogføringssystemer og hybride digitale bogføringssystemer, der udbydes på ensartede vilkår til en ubestemt kreds af virksomheder. Stk. 5. Ved bogført transaktion i denne bekendtgørelse forstås registreringer omfattet af § 7, stk. 1, i lov om bogføring.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "§ 3. Ved bilag, der skal kunne opbevares i et digitalt standard bogføringssystem efter denne bekendtgørelse, forstås enhver dokumentation for en bogført transaktion vedrørende køb eller salg, som indeholder følgende oplysninger: 1) Udstedelsesdato. 2) Leverancens art. 3) Beløb. 4) Afsender og modtager, herunder navn, adresse, samt CVR-nummer eller SE-nummer. 5) Oplysning om momsbeløbets størrelse. 6) Betalingsoplysninger. Stk. 2. Stk. 1 finder ikke anvendelse på kassestrimler fra et salgsregistreringssystem. Stk. 3. Stk. 1 finder endvidere ikke anvendelse på dokumentation for bogførte transaktioner, som alene foreligger i fysisk form, og som modtages vedrørende køb eller salg af varer og tjenesteydelser uden for landets grænser.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "§ 4. Ved opbevaring af en sikkerhedskopi af bogførte transaktioner og bilag omfattet af § 3 hos en tredjepart, forstås i denne bekendtgørelse opbevaring hos en part, som ikke er en nærtstående part til den bogføringspligtige virksomhed, eller den der udfører bogføringen for virksomheden. Stk. 2. En nærtstående part defineres i overensstemmelse med definitionen i den internationale regnskabsstandard IAS 24, således som denne er vedtaget af Kommissionen i overensstemmelse med Europa-Parlamentets og Rådets forordning nr. 1606/2002 af 19. juli 2002 om anvendelse af internationale regnskabsstandarder, samt efterfølgende ændringer i definitionen, som vedtages af Kommissionen i overensstemmelse med den nævnte forordning.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "§ 5. En udbyder af flere digitale standard bogføringssystemer, hvoraf kun nogle opfylder kravene i § 15, stk. 1, i lov om bogføring, og denne bekendtgørelse, skal sikre, at det af systemet tydeligt fremgår, hvorvidt det lovligt kan anvendes som et registreret bogføringssystem efter § 16, stk. 2, nr. 1, i lov om bogføring.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "§ 6. En udbyder af et digitalt standard bogføringssystem skal sikre, at systemet opfylder kravene i bilag 1 til: 1) Oplysninger ved bogføring af virksomhedens transaktioner. 2) Sikring af kontrolspor ved virksomhedens bogførte transaktioner. 3) Opbevaring af bilag omfattet af § 3. 4) Opbevaring af virksomhedens bogførte transaktioner og bilag omfattet af § 3 i 5 år.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "§ 7. En udbyder af et digitalt standard bogføringssystem skal sikre, at systemet automatisk mindst ugentligt tager en sikkerhedskopi af alle virksomhedens bogførte transaktioner og bilag omfattet af § 3 (fuld sikkerhedskopi). Udbyderen skal endvidere mindst dagligt tage en sikkerhedskopi af de data, der er ændret siden sidste sikkerhedskopi (inkrementel sikkerhedskopi). Stk. 2. Udbyderen skal sikre, at såvel den fulde som den inkrementelle sikkerhedskopi efter stk. 1, opbevares hos udbyderen selv eller hos en tredjepart, under passende tekniske og organisatoriske it-sikkerhedsforanstaltninger, der opfylder kravene til høj it-sikkerhed efter § 8, og kravene til udlevering af oplysninger efter § 10 og § 11. Stk. 3. Udbyderen skal sikre, at mindst én fuld og inkrementel sikkerhedskopi efter stk. 1, opbevares på en server i et EU- eller EØS-land.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "§ 8. En udbyder af et cloud-baseret digitalt standard bogføringssystem, jf. § 2, stk. 2, skal til enhver tid gennemføre passende tekniske og organisatoriske it-sikkerhedsforanstaltninger med henblik på, at systemet til stadighed har et højt it-sikkerhedsniveau i forhold til de funktioner, som et digitalt standard bogføringssystem skal understøtte efter denne bekendtgørelse. Stk. 2. En udbyder af et digitalt standard bogføringssystem skal gennemføre en risikovurdering med henblik på at fastsætte passende foranstaltninger efter stk. 1. Vurderingen skal omfatte risikoen for tab af tilgængelighed, autencitet, integritet og fortrolighed i det digitale standard bogføringssystem. Vurderingen skal tage hensyn til eventuelle tredjeparter, og skal løbende opdateres ved ændringer i trusselsbilledet. Stk. 3. Ved fastsættelse af et passende it-sikkerhedsniveau, jf. stk. 1, skal der navnlig tages hensyn til: 1) Relevante risici for hændelig eller ulovlig tilintetgørelse, tab eller andre former for manglende tilgængelighed, uberettigede ændringer, uautoriseret adgang til eller misbrug af oplysninger. 2) Relevante risici ved behandling af persondata, herunder navnlig ved at udbyderen indgår en databehandleraftale, der opfylder kravene i databeskyttelsesforordningens art. 28, stk. 3, inden etablering af et kundeforhold. Stk. 4. Passende tekniske og organisatoriske it-sikkerhedsforanstaltninger efter stk. 1, skal som minimum omfatte 1) netværkssikkerhed, 2) adgangsstyring, 3) leverandørstyring, 4) backup, 5) logning, 6) beredskab og reetablering og 7) databeskyttelse. Stk. 5. Stk. 1-4 finder tilsvarende anvendelse på en udbyder af et hybridt digitalt standard bogføringssystem, jf. § 2, stk. 3, hvis sikkerhedskopien af virksomhedens bogførte transaktioner og bilag opbevares hos udbyderen. I andre tilfælde finder stk. 6 anvendelse. Stk. 6. Hvis en udbyder af et digitalt standard bogføringssystem anvender tredjepart til opbevaring af bogførte transaktioner og bilag der dokumenterer disse, eller til opbevaring af en sikkerhedskopi heraf, skal udbyderen i relevant omfang ved aftale med eller passende dokumentation fra den pågældende tredjepart sikre, at der også gennemføres passende tekniske og organisatoriske it-sikkerhedsforanstaltninger, jf. stk. 1, hos de respektive tredjeparter.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "§ 9. En udbyder af et digitalt standard bogføringssystem skal sikre, at systemet opfylder kravene i bilag 2 til: 1) Automatisk fremsendelse og modtagelse af e-faktura. 2) Mulighed for at afstemme virksomhedens bogføring med virksomhedens bankkonto. 3) Mulighed for kontering efter en offentlig standardkontoplan der dækker årsregnskab og moms. 4) Korrekt bogføring gennem en bogføringsguide eller konteringsvejledning. 5) Deling af virksomhedens bogføringsdata. 6) Indberetning af årsregnskab og moms. 7) Meddelelse om mulighed for oprettelse i Nemhandelsregisteret. 8) Tilmeldingsfunktionalitet til Nemhandelsregisteret.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "§ 10. En udbyder af et digitalt standard bogføringssystem skal sikre, at opbevaring af bogførte transaktioner og bilag omfattet af § 3 i et digitalt standard bogføringssystem sker på en måde, så regnskabsmaterialet kan gendannes og gøres læsbart inden for fristen efter § 11, stk. 1.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "§ 11. En udbyder af et digitalt standard bogføringssystem skal inden for en frist på 4 uger fra anmodningstidspunktet stille bogførte transaktioner og bilag omfattet af § 3 for en nærmere angivet periode vedrørende en virksomhed til rådighed for en myndighed. 1. pkt. finder tilsvarende anvendelse for en likvidator, kurator eller rekonstruktør, der er trådt i ledelsens sted i den pågældende virksomhed. Stk. 2. Adgang til oplysninger efter stk. 1 er betinget af, at myndigheden oplyser, at det ikke har været muligt at få stillet oplysningerne til rådighed af virksomheden inden for den frist, som myndigheden har fastsat efter § 22, stk. 4, i lov om bogføring. Stk. 3. Hvis en myndighed anmoder om, at oplysninger i virksomhedens bogførte transaktioner eller bilag udsøges efter andre kriterier end tidsmæssig afgrænsning efter stk. 1, skal myndigheden dække udbyderens omkostninger herved. 1. pkt. finder tilsvarende anvendelse på en likvidator, kurator eller rekonstruktør, der er trådt i ledelsens sted i den pågældende virksomhed. Stk. 4. Bogførte transaktioner omfattet af stk. 1, skal kunne udleveres i et struktureret maskinlæsbart format og bilag i et læsbart format. Stk. 5. Stk. 1-4 finder tilsvarende anvendelse, hvis udbyderen af det digitale standard bogføringssystem opbevarer bogførte transaktioner og bilag, eller en sikkerhedskopi heraf, på en server hos en tredjepart.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "§ 12. Overtrædelse af §§ 5-11 straffes med bøde.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "content": "§ 13. Bekendtgørelsen træder i kraft den 1. februar 2023. Stk. 2. §§ 5-12 har virkning fra den 1. november 2023 for digitale standard bogføringssystemer, der markedsføres her i landet på tidspunktet for ikrafttrædelsen af bekendtgørelsen.",
+      "valid_from": "2023-01-26",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "et digitalt bogføringssystem",
+      "definition": "i denne bekendtgørelse en digital service eller software, som indeholder funktioner, hvorved virksomheder kan bogføre transaktioner og opbevare de bogførte transaktioner og bilag omfattet af § 3 i denne bekendtgørelse eller som minimum en fuldstændig sikkerhedskopi heraf på en server hos en udbyder eller en anden tredjepart",
+      "source_provision": "1:2"
+    }
+  ]
+}

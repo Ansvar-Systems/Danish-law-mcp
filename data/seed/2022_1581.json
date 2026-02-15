@@ -1,0 +1,404 @@
+{
+  "id": "2022:1581",
+  "type": "statute",
+  "title": "Bekendtgørelse om systemrevisionens gennemførelse i fælles datacentraler m.fl.",
+  "short_name": "BEK H#LOKDOK04",
+  "status": "in_force",
+  "issued_date": "2022-12-22",
+  "url": "https://www.retsinformation.dk/eli/lta/2022/1581/xml",
+  "description": "Retsinformation source. DocumentId=CQ002403; AccessionNumber=B20220158105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Bekendtgørelsen finder anvendelse for fælles datacentraler, it-operatører af detailbetalingssystemer samt datacentraler, der udfører både væsentlig it-drift og it-udvikling for den fælles betalingsinfrastruktur. Stk. 2. Ved fælles datacentraler forstås virksomheder, hvis væsentligste aktiviteter omfatter it-drift, herunder bogførings-, registrerings- og clearingsopgaver eller it-udvikling for flere finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder, og som overvejende er ejet af 1) flere finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder, fælles datacentraler eller sådanne virksomheders dattervirksomheder i forening, eller 2) en forening, hvis medlemmer overvejende er finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder. Stk. 3. Bekendtgørelsen finder ikke anvendelse for fælles datacentraler, der er dattervirksomheder i en finansiel koncern. Stk. 4. Fælles datacentraler, it-operatører af detailbetalingssystemer og datacentraler, der udfører både væsentlig it-drift og it-udvikling for den fælles betalingsinfrastruktur, benævnes i denne bekendtgørelse datacentraler."
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. I denne bekendtgørelse forstås ved systemrevision revision af 1) generelle it-kontroller i virksomheden, herunder datacentralens ledelsessystem i relation til it-sikkerhed, 2) it-baserede brugersystemer, som datacentralerne tilbyder de tilsluttede finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder og 3) it-systemer, der tilbydes til udveksling af data med de til datacentralerne tilsluttede finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder samt andre datacentraler. Stk. 2. I denne bekendtgørelse forstås ved system-, data- og driftssikkerhed: 1) Systemsikkerhed er resultatet af de politikker, forretningsgange og kontroller, der skal sikre pålidelige systemer, herunder at systemer er dokumenteret, godkendt, testet og sikret mod uautoriseret ændring og adgang. 2) Datasikkerhed er resultatet af de politikker, forretningsgange og kontroller, der skal sikre en pålidelig og fortrolig registrering, opbevaring, beskyttelse og brug af data, samt at ændring, sletning, fysisk eller logisk adgang til eller brug af data er godkendt og dokumenteret. 3) Driftssikkerhed er resultatet af de politikker, forretningsgange og kontroller, der skal sikre en pålidelig gennemførelse af databehandling og håndtering af fejl og mangler med henblik på, at systemer og data er tilgængelige i fornødent omfang. Stk. 3. Ved tilsluttede virksomheder forstås virksomheder, der er underlagt Finanstilsynets tilsyn, som en datacentral udfører de i § 1 nævnte opgaver for."
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Generalforsamlingen i datacentraler efter § 1 skal vælge mindst én godkendt revisor (den eksterne systemrevision) til varetagelse af opgaverne i §§ 4-8. I datacentraler, hvor det øverste ledelsesorgan ikke er en generalforsamling, foretages valget af det øverste ledelsesorgan. Den enkelte eksterne systemrevisor skal udføre sine opgaver gennem en godkendt revisionsvirksomhed, jf. lov om godkendte revisorer og revisionsvirksomheder. Datacentralen afholder omkostningerne ved systemrevisionen. Stk. 2. Den eksterne systemrevision vælges for et år ad gangen. Ved nyvalg skal bestyrelsen sikre, at der senest en måned efter valget sker anmeldelse herom til Finanstilsynet. Ved revisorskifte skal virksomheden og afgående revisor senest 1 måned efter fratræden give Finanstilsynet hver sin redegørelse, hvis skiftet skyldes særlige forhold, jf. § 199, stk. 6, i lov om finansiel virksomhed. Stk. 3. Bestemmelserne i lov om godkendte revisorer og revisionsvirksomheder om revisors funktionsperiode i virksomheder, der er underlagt tilsyn af Finanstilsynet, samt rapportering og uafhængighed, finder tilsvarende anvendelse for den eksterne systemrevision. Stk. 4. Bestemmelserne i lov om aktie- og anpartsselskaber (selskabsloven) om bestyrelsens og direktionens pligt til at give revisor oplysninger, adgang til at foretage undersøgelser og sørge for, at revisor får de oplysninger og den bistand, som revisor anser for nødvendig for udførelsen af sit hverv, finder tilsvarende anvendelse for den eksterne systemrevision. Stk. 5. Bestemmelserne i lov om aktie- og anpartsselskaber (selskabsloven) om revisors ret og pligt til at være til stede og til at besvare spørgsmål på et selskabs generalforsamling finder tilsvarende anvendelse for den eksterne systemrevision på en datacentrals generalforsamling eller møde i den øverste myndighed."
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Den eksterne systemrevision skal foretage den i § 2, stk. 1, nævnte systemrevision i overensstemmelse med god revisorskik, herunder påse om 1) betryggende kontrol- og sikringsforanstaltninger tilgodeses i tilstrækkeligt omfang ved udvikling, vedligeholdelse og drift af de af datacentralens systemer, som har relation til de tilsluttede virksomheder, og 2) de af datacentralens forretningsgange, der har relation til tilsluttede virksomheder, er tilrettelagt og fungerer på betryggende vis. Stk. 2. Den eksterne systemrevision skal medvirke til en koordineret systemrevisionsmæssig indsats med 1) revisionen i tilsluttede virksomheder, og 2) systemrevisionen i andre datacentraler, der er omfattet af denne bekendtgørelse."
+    },
+    {
+      "provision_ref": "3:5",
+      "chapter": "3",
+      "section": "5",
+      "content": "§ 5. Til brug for datacentralens bestyrelse skal den eksterne systemrevision føre en særskilt systemrevisionsprotokol. Der skal i systemrevisionsprotokollen redegøres for den i årets løb udførte systemrevision, som kan danne grundlag for revisionsmæssige delkonklusioner. Systemrevisionsprotokollen skal fremlægges for bestyrelsen, og enhver protokoltilførsel skal underskrives af den samlede bestyrelse og systemrevisionschefen. Stk. 2. Ved hvert kalenderårs afslutning skal der i et årsprotokollat redegøres for arten og omfanget af de udførte revisionsarbejder og konklusionen herpå. Årsprotokollatet skal i den forbindelse opfylde følgende: 1) Den eksterne systemrevision skal i årsprotokollatet opliste afgivne revisorerklæringer vedrørende systemrevision, som ikke er afgivet efter § 8, samt oplyse om indholdet af eventuelle modifikationer eller fremhævelse af forhold i disse. Er der ikke nogen revisorerklæringer at opliste, skal dette fremgå eksplicit af årsprotokollatet. 2) Den eksterne systemrevision skal i et særskilt afsnit i årsprotokollatet opsummere samtlige bemærkninger, som systemrevisionen har givet anledning til at fremføre over for bestyrelsen i systemrevisionsprotokollen. Opsummeringen skal indeholde en status vedrørende de bemærkninger, der er fremført vedrørende det pågældende år samt en status vedrørende de bemærkninger, der fremgik som åbenstående i årsprotokollatet vedrørende de foregående år. Opsummeringen kan indeholde henvisninger til bemærkninger i den revisionserklæring, der skal afgives i henhold til § 8. Såfremt der anvendes henvisninger til revisionserklæringen skal selve erklæringen forelægges for datacentralens bestyrelse senest på det møde, hvor bestyrelsen behandler årsprotokollatet. I særskilt afsnit skal det tydeligt anføres, hvornår bestyrelsen enten har fået, eller får, forelagt selve erklæringen. 3) Den eksterne systemrevision skal i et særskilt afsnit i årsprotokollatet oplyse om udførelse af eventuelle assistance- eller rådgivningsopgaver inden for bekendtgørelsens anvendelsesområde. Har der ikke været udført sådanne opgaver, skal dette fremgå eksplicit af årsprotokollatet."
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Har datacentralen en intern systemrevision, der opfylder bestemmelserne i §§ 10-16, kan den eksterne systemrevision aftale med systemrevisionschefen, jf. § 11, stk. 1, at oplistningen af revisorerklæringer efter § 5, stk. 2, nr. 1, samt opsummeringen efter § 5, stk. 2, nr. 2, alene fremgår af den interne systemrevisions årsprotokollat. Aftalen herom skal fremgå af systemrevisionsaftalen, jf. § 15."
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Det skal i årsprotokollatet oplyses, om 1) den eksterne systemrevision opfylder lovgivningens krav til revisors uafhængighed, og 2) den eksterne systemrevision har modtaget alle de oplysninger, der er anmodet om. Stk. 2. I årsprotokollatet skal den eksterne systemrevision bekræfte, at den i § 8 nævnte erklæring er afgivet over for de tilsluttede virksomheder. Eventuelle modifikationer eller fremhævelse af forhold skal i denne forbindelse gengives i årsprotokollatet. Stk. 3. I datacentraler, der har intern systemrevision, skal det i årsprotokollatet oplyses, om 1) de ifølge systemrevisionsaftalen, jf. § 15, aftalte opgaver er udført, 2) den interne systemrevision fungerer tilfredsstillende, herunder hvorvidt den eksterne revision er blevet bekendt med forhold, der enkeltvis eller tilsammen afkræfter, at den interne revision fungerer uafhængigt af den daglige ledelse, og 3) den eksterne systemrevision er enig i indholdet af alle de interne systemrevisions protokoltilførsler vedrørende kalenderåret, og såfremt dette ikke er tilfældet, hvori uenigheden består. Stk. 4. Datacentralen skal sende en kopi af den eksterne systemrevisions årsprotokollat til Finanstilsynet hvert år inden 15. februar sammen med kopi af den erklæring, der afgives efter § 8 samt en kopi af ledelsens redegørelse, jf. § 21. Stk. 5. Erklæringer og oplysninger efter stk. 1-3 skal, hvis de afgives uden modifikationer, gengives efter bekendtgørelsens ordlyd."
+    },
+    {
+      "provision_ref": "4:8",
+      "chapter": "4",
+      "section": "8",
+      "content": "§ 8. Den eksterne systemrevision skal hvert år inden et med datacentralen aftalt tidspunkt, jf. dog stk. 9, afgive erklæring om system-, data- og driftssikkerheden vedrørende det forudgående kalenderår til brug for de tilsluttede virksomheder. Stk. 2. Erklæringen, jf. stk. 1, skal omfatte alle relevante forhold, herunder forhold der er omfattet af bilag 5 til bekendtgørelse om ledelse og styring af pengeinstitutter m.fl. Stk. 3. For hvert enkelt kontrolmål, som indgår i erklæringen efter stk. 1, skal der angives én af de følgende kategorier som opsummering på om kontrolmålet er opfyldt betryggende: 1) Betryggende. 2) Betryggende, men behov for nogle forbedringer. 3) Ikke betryggende. Stk. 4. Erklæringen, jf. stk. 1, skal indeholde en selvstændig oplistning af de kontroller, der er eller har været ineffektive. Stk. 5. Konklusioner i erklæringen, jf. stk. 1, skal afgives ordret efter bekendtgørelsens bilag 1, hvis erklæringen afgives uden modifikationer. Erklæringen skal udformes efter reglerne om andre erklæringer med sikkerhed i bekendtgørelse om godkendte revisorers erklæringer. Stk. 6. Det skal fremgå af erklæringens konklusion, hvorvidt den eksterne systemrevision vurderer, at datacentralens samlede system-, data- og driftssikkerhed er og fungerer betryggende. Stk. 7. Hvis den eksterne systemrevision er bekendt med forhold vedrørende datacentralens generelle it-kontroller, it-baserede brugersystemer samt systemer til udveksling af data, som er i strid med lovgivningen vedrørende finansielle virksomheder, skal den eksterne systemrevision oplyse herom i et særskilt afsnit i erklæringen. Såfremt der ikke findes nogle af de nævnte forhold, skal dette ligeledes oplyses i særskilt afsnit. Stk. 8. Erklæringen, jf. stk. 1, samt den interne systemrevisionschefs erklæring i henhold til § 9, skal af datacentralen uden unødigt ophold efter deres afgivelse sendes til direktionen i de tilsluttede virksomheder. For koncerner kan datacentralen, medmindre det vil stride mod bestemmelserne i lov om finansiel virksomhed om videregivelse af fortrolige oplysninger, aftale med moderselskabet, at erklæringerne alene sendes til moderselskabets direktion, der i så fald skal sikre, at relevante koncernvirksomheders direktioner modtager kopier. Stk. 9. Den eksterne systemrevision skal afgive erklæringen, jf. stk. 1, vedrørende en periode, der tidligst slutter den 31. oktober i det pågældende kalenderår. Hvis der afgives erklæring vedrørende en anden periode end et kalenderår, skal den eksterne systemrevision ved årsskiftet tillige afgive supplerende erklæring til de tilsluttede virksomheder om, hvorvidt den samlede system-, data- og driftssikkerhed har været og fungeret betryggende i perioden frem til årsskiftet."
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "content": "§ 9. Har datacentralen en intern systemrevision, der opfylder bestemmelserne i §§ 10-16, skal den interne systemrevisionschef i et særskilt dokument, til brug for de tilsluttede virksomheder, erklære om denne er enig i den eksterne systemrevisions erklæring. Stk. 2. Systemrevisionschefens erklæring skal indeholde en kort beskrivelse af den udførte systemrevision samt konklusionen herpå. Stk. 3. Eventuelle modifikationer eller fremhævelse af forhold skal tydeligt fremgå af erklæringen."
+    },
+    {
+      "provision_ref": "5:10",
+      "chapter": "5",
+      "section": "10",
+      "content": "§ 10. Bestyrelsen i en datacentral kan bestemme, at der skal oprettes en intern systemrevision, jf. dog stk. 2. Stk. 2. Datacentraler, der varetager væsentlige it-driftsopgaver, herunder bogførings-, registrerings- og clearingsopgaver for pengeinstitutter, er forpligtet til at oprette en intern systemrevision."
+    },
+    {
+      "provision_ref": "5:11",
+      "chapter": "5",
+      "section": "11",
+      "content": "§ 11. Den interne systemrevision skal ledes af en systemrevisionschef. Ansættelse og afskedigelse af systemrevisionschefen kan alene foretages af datacentralens bestyrelse. Stk. 2. Systemrevisionschefen skal ved ansættelsen have deltaget i praktisk systemrevisionsarbejde i mindst 3 af de seneste 5 år. Stk. 3. Bestyrelsen kan udpege en vicesystemrevisionschef som stedfortræder for systemrevisionschefen. Stk. 4. Bestemmelserne i stk. 1 og 2 samt §§ 12 og 13 vedrørende systemrevisionschefen finder tilsvarende anvendelse på vicesystemrevisionschefer, herunder stedfortrædere."
+    },
+    {
+      "provision_ref": "5:12",
+      "chapter": "5",
+      "section": "12",
+      "content": "§ 12. Når en systemrevisionschef tiltræder, skal dette indberettes til Finanstilsynet senest 1 måned efter tiltrædelsen. Stk. 2. Bestyrelsen skal ved indberetning til Finanstilsynet om ansættelse af systemrevisionschefen afgive en erklæring om, at systemrevisionschefen opfylder kravene efter § 11, stk. 2. Stk. 3. Når en systemrevisionschef fratræder sin stilling, skal bestyrelsen og systemrevisionschefen senest 1 måned efter fratrædelsen sende hver sin redegørelse til Finanstilsynet om baggrunden herfor."
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "content": "§ 13. Systemrevisionschefen skal have adgang til alle oplysninger, som denne finder nødvendige for systemrevisionens gennemførelse, herunder bestyrelsesprotokollater. Stk. 2. Systemrevisionschefen og medarbejderne i den interne systemrevision må ikke deltage i andet arbejde i datacentralen end revision. Stk. 3. Systemrevisionschefen og medarbejderne i den interne systemrevision skal være uafhængige. Systemrevisionen skal kunne rette henvendelse og rapportere direkte til bestyrelsen, uafhængigt af direktionen."
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "content": "§ 14. I datacentraler, der har en intern systemrevision, skal der foreligge en funktionsbeskrivelse, som er godkendt af bestyrelsen. Funktionsbeskrivelsen skal som minimum indeholde bestemmelser om følgende: 1) Den interne systemrevisions almindelige beføjelser, ansvar og arbejdsopgaver. 2) Medarbejdernes kvalifikationer. 3) Hvorledes og i hvilket omfang systemrevisionschefen og medarbejderne i den interne systemrevision sikres løbende efteruddannelse. 4) At ansættelse og afskedigelse af medarbejdere i den interne systemrevision skal foretages eller godkendes af systemrevisionschefen. 5) Den interne systemrevisions budget, herunder at dette godkendes af datacentralens bestyrelse. 6) Oplysning om aftaler mellem datacentralens ledelse og den interne systemrevision om udførelse af særlige revisionsopgaver, dog med undtagelse af engangsopgaver og opgaver af midlertidig karakter, som alene behøver at fremgå af den interne systemrevisionsprotokol, jf. § 17. Stk. 2. De opgaver, der er nævnt i stk. 1, nr. 6, må ikke bevirke, at systemrevisionschefen kommer i en situation, hvor vedkommende erklærer sig eller oplyser om forhold eller dokumenter, som systemrevisionschefen eller ansatte i den interne systemrevision har udarbejdet grundlaget for. Stk. 3. Den interne systemrevision skal fremlægge revisionsplanen for bestyrelsen, herunder alle it-revisioner og eventuelle væsentlige ændringer heraf. Revisionsplanen og dens gennemførelse, herunder art, omfang og hyppighed, skal afspejle og stå i et rimeligt forhold til de iboende it-risici i virksomheden og ajourføres regelmæssigt."
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "content": "§ 15. I datacentraler, der har en intern systemrevision, skal systemrevisionsarbejdet udføres i overensstemmelse med god revisorskik og i henhold til en systemrevisionsaftale mellem den eksterne systemrevision og systemrevisionschefen. Systemrevisionsaftalen skal som minimum indeholde følgende: 1) En overordnet beskrivelse af hvilke systemrevisionsopgaver der skal udføres, og hvilke af disse opgaver der påhviler henholdsvis den eksterne systemrevision og den interne systemrevision. 2) Retningslinjer for samarbejdet mellem den eksterne systemrevision og den interne systemrevision, herunder det arbejde den eksterne og interne systemrevision skal udføre i forbindelse med kontrol af systemrevisionsarbejdet. 3) En beskrivelse af hvordan, og i hvilket omfang, der udveksles oplysninger mellem den interne systemrevision og den eksterne systemrevision om den udførte systemrevision. 4) Retningslinjer for samarbejdet med a) intern og ekstern revision i tilsluttede virksomheder, og b) intern og ekstern systemrevision i andre datacentraler, der er omfattet af denne bekendtgørelse."
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "content": "§ 16. Intern systemrevision skal tage stilling til datacentralens efterlevelse af Finanstilsynets tilsynsreaktioner ved at gennemgå og efterprøve relevant dokumentation."
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "content": "§ 17. Til brug for datacentralens bestyrelse skal den interne systemrevision føre en systemrevisionsprotokol. Der skal i systemrevisionsprotokollen redegøres for den i årets løb udførte systemrevision, som kan danne grundlag for revisionsmæssige delkonklusioner. Systemrevisionsprotokollen skal fremlægges for bestyrelsen, og enhver protokoltilførsel skal underskrives af den samlede bestyrelse. Stk. 2. Ved hvert kalenderårs afslutning skal der i et årsprotokollat redegøres for den udførte systemrevision samt konklusionen herpå. Årsprotokollatet skal i den forbindelse opfylde følgende: 1) Den interne systemrevision skal i årsprotokollatet opliste afgivne revisorerklæringer vedrørende systemrevision samt oplyse om indholdet af eventuelle modifikationer eller fremhævelse af forhold i disse. Er der ikke nogen revisorerklæringer at opliste, skal dette fremgå eksplicit af årsprotokollatet. 2) Den interne systemrevision skal i et særskilt afsnit i årsprotokollatet opsummere samtlige bemærkninger, som systemrevisionen har givet anledning til at fremføre over for bestyrelsen i systemrevisionsprotokollen. Opsummeringen skal indeholde en status vedrørende de bemærkninger, der er fremført vedrørende det pågældende år samt en status vedrørende de bemærkninger, der fremgik som åbenstående i protokollatet vedrørende det foregående år. 3) Den interne systemrevision skal i et særskilt afsnit i årsprotokollatet gengive en af virksomheden udarbejdet oversigt over samtlige tilsynsreaktioner, som Finanstilsynet har afgivet i regnskabsåret, tilsynsreaktioner, som Finanstilsynet har afgivet i foregående regnskabsår, men som endnu ikke er efterlevet på afslutningstidspunktet, og tilsynsreaktioner, som er efterlevet i regnskabsåret. Er der ikke afgivet tilsynsreaktioner i regnskabsåret, og er alle tilsynsreaktioner efterlevet ved udgangen af det foregående regnskabsår, skal dette ligeledes oplyses. Intern systemrevision skal gennemgå den af virksomheden udarbejdede oversigt og oplyse om bemærkninger hertil, herunder den interne systemrevisions stillingtagen til efterlevelsen af tilsynsreaktioner. 4) Systemrevisionschefen skal som minimum i et særskilt afsnit i årsprotokollatet bekræfte, at systemrevisionschefen ikke er kommet i en situation, hvor vedkommende erklærer sig eller oplyser om forhold eller dokumenter, som systemrevisionschefen eller ansatte i den interne systemrevision har udarbejdet grundlaget for, jf. § 14, stk. 2. 5) I årsprotokollatet skal det tillige oplyses, om den interne systemrevision har modtaget alle de oplysninger, der er anmodet om. Stk. 3. Datacentralen skal sende en kopi af den interne systemrevisions årsprotokollat til Finanstilsynet hvert år inden 15. februar sammen med kopi af den erklæring, der afgives efter § 9."
+    },
+    {
+      "provision_ref": "7:18",
+      "chapter": "7",
+      "section": "18",
+      "content": "§ 18. Den interne og eksterne systemrevision skal 1) have tilstrækkelig viden, faglige kompetencer og ekspertise inden for relevante områder, og løbende vedligeholde disse på et niveau, der er nødvendigt for at sikre, at der leveres en kvalificeret professionel ydelse baseret på en opdateret viden om den seneste udvikling inden for god revisorskik, lovgivning og metoder, samt 2) sikre at art, omfang og hyppighed af revisionen står i et rimeligt forhold til de relevante it-risici."
+    },
+    {
+      "provision_ref": "7:19",
+      "chapter": "7",
+      "section": "19",
+      "content": "§ 19. Den interne og eksterne systemrevision skal påse, at Finanstilsynet straks modtager meddelelse, såfremt de 1) må formode, at datacentralens samlede system-, data- og driftssikkerhed på områder omfattet af denne bekendtgørelse ikke er betryggende, eller 2) bliver bekendt med, at der i datacentralen er opstået betydelige og længerevarende it-mæssige driftsproblemer vedrørende datacentralens ydelser til de tilsluttede virksomheder. Stk. 2. Ved vurderingen af, om der skal ske meddelelse til Finanstilsynet efter stk. 1, nr. 2, skal som minimum indgå 1) driftsproblemernes indvirkning på datacentralens udveksling af data med andre datacentraler og den hermed forbundne databehandling, og 2) driftsproblemernes betydning for de tilsluttede virksomheders kortsigtede finansielle styring. Stk. 3. Konstaterer den eksterne systemrevision eller den interne systemrevision forhold vedrørende en eller flere af de tilsluttede virksomheders it-anvendelse, der ikke er betryggende på områder, som er omfattet af datacentralens ydelser til virksomheden, og dette vedrører forhold, som tilsluttede virksomheder må forventes normalt at tillægge betydning, når de træffer beslutninger om system-, data- og driftssikkerhed, skal vedkommende påse, at forholdet uden unødigt ophold meddeles skriftligt til den eller de pågældende virksomheders direktioner. Forholdet skal fremgå af den løbende systemrevisionsprotokol til datacentralens bestyrelse, og det skal fremgå i et særskilt afsnit af intern eller ekstern systemrevisions årsprotokollat."
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "content": "§ 20. § 74, stk. 1-3, i lov om finansiel virksomhed finder tilsvarende anvendelse for den eksterne systemrevisions og den interne systemrevisionschefs deltagelse i og rettigheder på bestyrelsesmøder."
+    },
+    {
+      "provision_ref": "8:21",
+      "chapter": "8",
+      "section": "21",
+      "content": "§ 21. Datacentralens ledelse skal udarbejde en redegørelse, der på baggrund af ekstern systemrevisions erklæring, skal gøre den enkelte tilsluttede virksomhed i stand til at vurdere risici. Redegørelsen skal som minimum indeholde en beskrivelse af følgende: 1) Ledelsens vurdering af kontrolsvagheder og afledte risici for den enkelte tilsluttede virksomhed samt hvilke konsekvenser de identificerede kontrolsvagheder medfører enkeltvis og samlet. 2) Hvordan datacentralen håndterer de identificerede kontrolsvagheder. 3) Hvilke kompenserende kontrol- og sikringsforanstaltninger den enkelte tilsluttede virksomhed kan implementere, til at imødegå de identificerede kontrolsvagheder. Stk. 2. Baseret på den udførte systemrevision skal den eksterne systemrevision gennemlæse ledelsens redegørelse, og afgive en udtalelse om hvorvidt oplysningerne i ledelsens redegørelse er i overensstemmelse med den afgivne erklæring jf. § 8 samt minimumskravene i henhold til § 21, stk. 1. Stk. 3. Redegørelse og udtalelse skal sendes til den enkelte tilsluttede virksomhed sammen med erklæringen, jf. § 8, stk. 1."
+    },
+    {
+      "provision_ref": "9:22",
+      "chapter": "9",
+      "section": "22",
+      "content": "§ 22. Fortrolige oplysninger, som den eksterne systemrevision, systemrevisionschefen og medarbejderne i systemrevisionsafdelingen modtager fra finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder i kraft af deres arbejde, er omfattet af § 117, stk. 1, i lov om finansiel virksomhed."
+    },
+    {
+      "provision_ref": "9:23",
+      "chapter": "9",
+      "section": "23",
+      "content": "§ 23. Finanstilsynet kan pålægge den eksterne systemrevision eller systemrevisionschefen samt dennes stedfortræder at give Finanstilsynet oplysninger om datacentralens forhold."
+    },
+    {
+      "provision_ref": "9:24",
+      "chapter": "9",
+      "section": "24",
+      "content": "§ 24. Finanstilsynet kan dispensere fra bestemmelserne i denne bekendtgørelse."
+    },
+    {
+      "provision_ref": "10:25",
+      "chapter": "10",
+      "section": "25",
+      "content": "§ 25. Overtrædelse af § 3, stk. 1, 1-3 pkt., § 4, § 7, stk. 4, §§ 8-9, § 10, stk. 2, § 11, stk. 1, 2 og 4, §§ 12-13, §§ 14-17 samt § 21 straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+    },
+    {
+      "provision_ref": "11:26",
+      "chapter": "11",
+      "section": "26",
+      "content": "§ 26. Bekendtgørelsen træder i kraft den 1. februar 2023. Stk. 2. Bekendtgørelsen har virkning for erklæringer og protokollater, der vedrører erklæringsperioder, der påbegyndes den 1. januar 2023 eller senere. Stk. 3. Bekendtgørelse nr. 1268 af 21. november 2014 om systemrevisionens gennemførelse i fælles datacentraler ophæves."
+    },
+    {
+      "provision_ref": "11:27",
+      "chapter": "11",
+      "section": "27",
+      "content": "§ 27. Bekendtgørelsen gælder ikke for Grønland og Færøerne."
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "§ 1. Bekendtgørelsen finder anvendelse for fælles datacentraler, it-operatører af detailbetalingssystemer samt datacentraler, der udfører både væsentlig it-drift og it-udvikling for den fælles betalingsinfrastruktur. Stk. 2. Ved fælles datacentraler forstås virksomheder, hvis væsentligste aktiviteter omfatter it-drift, herunder bogførings-, registrerings- og clearingsopgaver eller it-udvikling for flere finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder, og som overvejende er ejet af 1) flere finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder, fælles datacentraler eller sådanne virksomheders dattervirksomheder i forening, eller 2) en forening, hvis medlemmer overvejende er finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder. Stk. 3. Bekendtgørelsen finder ikke anvendelse for fælles datacentraler, der er dattervirksomheder i en finansiel koncern. Stk. 4. Fælles datacentraler, it-operatører af detailbetalingssystemer og datacentraler, der udfører både væsentlig it-drift og it-udvikling for den fælles betalingsinfrastruktur, benævnes i denne bekendtgørelse datacentraler.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "§ 2. I denne bekendtgørelse forstås ved systemrevision revision af 1) generelle it-kontroller i virksomheden, herunder datacentralens ledelsessystem i relation til it-sikkerhed, 2) it-baserede brugersystemer, som datacentralerne tilbyder de tilsluttede finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder og 3) it-systemer, der tilbydes til udveksling af data med de til datacentralerne tilsluttede finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder samt andre datacentraler. Stk. 2. I denne bekendtgørelse forstås ved system-, data- og driftssikkerhed: 1) Systemsikkerhed er resultatet af de politikker, forretningsgange og kontroller, der skal sikre pålidelige systemer, herunder at systemer er dokumenteret, godkendt, testet og sikret mod uautoriseret ændring og adgang. 2) Datasikkerhed er resultatet af de politikker, forretningsgange og kontroller, der skal sikre en pålidelig og fortrolig registrering, opbevaring, beskyttelse og brug af data, samt at ændring, sletning, fysisk eller logisk adgang til eller brug af data er godkendt og dokumenteret. 3) Driftssikkerhed er resultatet af de politikker, forretningsgange og kontroller, der skal sikre en pålidelig gennemførelse af databehandling og håndtering af fejl og mangler med henblik på, at systemer og data er tilgængelige i fornødent omfang. Stk. 3. Ved tilsluttede virksomheder forstås virksomheder, der er underlagt Finanstilsynets tilsyn, som en datacentral udfører de i § 1 nævnte opgaver for.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "§ 3. Generalforsamlingen i datacentraler efter § 1 skal vælge mindst én godkendt revisor (den eksterne systemrevision) til varetagelse af opgaverne i §§ 4-8. I datacentraler, hvor det øverste ledelsesorgan ikke er en generalforsamling, foretages valget af det øverste ledelsesorgan. Den enkelte eksterne systemrevisor skal udføre sine opgaver gennem en godkendt revisionsvirksomhed, jf. lov om godkendte revisorer og revisionsvirksomheder. Datacentralen afholder omkostningerne ved systemrevisionen. Stk. 2. Den eksterne systemrevision vælges for et år ad gangen. Ved nyvalg skal bestyrelsen sikre, at der senest en måned efter valget sker anmeldelse herom til Finanstilsynet. Ved revisorskifte skal virksomheden og afgående revisor senest 1 måned efter fratræden give Finanstilsynet hver sin redegørelse, hvis skiftet skyldes særlige forhold, jf. § 199, stk. 6, i lov om finansiel virksomhed. Stk. 3. Bestemmelserne i lov om godkendte revisorer og revisionsvirksomheder om revisors funktionsperiode i virksomheder, der er underlagt tilsyn af Finanstilsynet, samt rapportering og uafhængighed, finder tilsvarende anvendelse for den eksterne systemrevision. Stk. 4. Bestemmelserne i lov om aktie- og anpartsselskaber (selskabsloven) om bestyrelsens og direktionens pligt til at give revisor oplysninger, adgang til at foretage undersøgelser og sørge for, at revisor får de oplysninger og den bistand, som revisor anser for nødvendig for udførelsen af sit hverv, finder tilsvarende anvendelse for den eksterne systemrevision. Stk. 5. Bestemmelserne i lov om aktie- og anpartsselskaber (selskabsloven) om revisors ret og pligt til at være til stede og til at besvare spørgsmål på et selskabs generalforsamling finder tilsvarende anvendelse for den eksterne systemrevision på en datacentrals generalforsamling eller møde i den øverste myndighed.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "§ 4. Den eksterne systemrevision skal foretage den i § 2, stk. 1, nævnte systemrevision i overensstemmelse med god revisorskik, herunder påse om 1) betryggende kontrol- og sikringsforanstaltninger tilgodeses i tilstrækkeligt omfang ved udvikling, vedligeholdelse og drift af de af datacentralens systemer, som har relation til de tilsluttede virksomheder, og 2) de af datacentralens forretningsgange, der har relation til tilsluttede virksomheder, er tilrettelagt og fungerer på betryggende vis. Stk. 2. Den eksterne systemrevision skal medvirke til en koordineret systemrevisionsmæssig indsats med 1) revisionen i tilsluttede virksomheder, og 2) systemrevisionen i andre datacentraler, der er omfattet af denne bekendtgørelse.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:5",
+      "chapter": "3",
+      "section": "5",
+      "content": "§ 5. Til brug for datacentralens bestyrelse skal den eksterne systemrevision føre en særskilt systemrevisionsprotokol. Der skal i systemrevisionsprotokollen redegøres for den i årets løb udførte systemrevision, som kan danne grundlag for revisionsmæssige delkonklusioner. Systemrevisionsprotokollen skal fremlægges for bestyrelsen, og enhver protokoltilførsel skal underskrives af den samlede bestyrelse og systemrevisionschefen. Stk. 2. Ved hvert kalenderårs afslutning skal der i et årsprotokollat redegøres for arten og omfanget af de udførte revisionsarbejder og konklusionen herpå. Årsprotokollatet skal i den forbindelse opfylde følgende: 1) Den eksterne systemrevision skal i årsprotokollatet opliste afgivne revisorerklæringer vedrørende systemrevision, som ikke er afgivet efter § 8, samt oplyse om indholdet af eventuelle modifikationer eller fremhævelse af forhold i disse. Er der ikke nogen revisorerklæringer at opliste, skal dette fremgå eksplicit af årsprotokollatet. 2) Den eksterne systemrevision skal i et særskilt afsnit i årsprotokollatet opsummere samtlige bemærkninger, som systemrevisionen har givet anledning til at fremføre over for bestyrelsen i systemrevisionsprotokollen. Opsummeringen skal indeholde en status vedrørende de bemærkninger, der er fremført vedrørende det pågældende år samt en status vedrørende de bemærkninger, der fremgik som åbenstående i årsprotokollatet vedrørende de foregående år. Opsummeringen kan indeholde henvisninger til bemærkninger i den revisionserklæring, der skal afgives i henhold til § 8. Såfremt der anvendes henvisninger til revisionserklæringen skal selve erklæringen forelægges for datacentralens bestyrelse senest på det møde, hvor bestyrelsen behandler årsprotokollatet. I særskilt afsnit skal det tydeligt anføres, hvornår bestyrelsen enten har fået, eller får, forelagt selve erklæringen. 3) Den eksterne systemrevision skal i et særskilt afsnit i årsprotokollatet oplyse om udførelse af eventuelle assistance- eller rådgivningsopgaver inden for bekendtgørelsens anvendelsesområde. Har der ikke været udført sådanne opgaver, skal dette fremgå eksplicit af årsprotokollatet.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "content": "§ 6. Har datacentralen en intern systemrevision, der opfylder bestemmelserne i §§ 10-16, kan den eksterne systemrevision aftale med systemrevisionschefen, jf. § 11, stk. 1, at oplistningen af revisorerklæringer efter § 5, stk. 2, nr. 1, samt opsummeringen efter § 5, stk. 2, nr. 2, alene fremgår af den interne systemrevisions årsprotokollat. Aftalen herom skal fremgå af systemrevisionsaftalen, jf. § 15.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "content": "§ 7. Det skal i årsprotokollatet oplyses, om 1) den eksterne systemrevision opfylder lovgivningens krav til revisors uafhængighed, og 2) den eksterne systemrevision har modtaget alle de oplysninger, der er anmodet om. Stk. 2. I årsprotokollatet skal den eksterne systemrevision bekræfte, at den i § 8 nævnte erklæring er afgivet over for de tilsluttede virksomheder. Eventuelle modifikationer eller fremhævelse af forhold skal i denne forbindelse gengives i årsprotokollatet. Stk. 3. I datacentraler, der har intern systemrevision, skal det i årsprotokollatet oplyses, om 1) de ifølge systemrevisionsaftalen, jf. § 15, aftalte opgaver er udført, 2) den interne systemrevision fungerer tilfredsstillende, herunder hvorvidt den eksterne revision er blevet bekendt med forhold, der enkeltvis eller tilsammen afkræfter, at den interne revision fungerer uafhængigt af den daglige ledelse, og 3) den eksterne systemrevision er enig i indholdet af alle de interne systemrevisions protokoltilførsler vedrørende kalenderåret, og såfremt dette ikke er tilfældet, hvori uenigheden består. Stk. 4. Datacentralen skal sende en kopi af den eksterne systemrevisions årsprotokollat til Finanstilsynet hvert år inden 15. februar sammen med kopi af den erklæring, der afgives efter § 8 samt en kopi af ledelsens redegørelse, jf. § 21. Stk. 5. Erklæringer og oplysninger efter stk. 1-3 skal, hvis de afgives uden modifikationer, gengives efter bekendtgørelsens ordlyd.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:8",
+      "chapter": "4",
+      "section": "8",
+      "content": "§ 8. Den eksterne systemrevision skal hvert år inden et med datacentralen aftalt tidspunkt, jf. dog stk. 9, afgive erklæring om system-, data- og driftssikkerheden vedrørende det forudgående kalenderår til brug for de tilsluttede virksomheder. Stk. 2. Erklæringen, jf. stk. 1, skal omfatte alle relevante forhold, herunder forhold der er omfattet af bilag 5 til bekendtgørelse om ledelse og styring af pengeinstitutter m.fl. Stk. 3. For hvert enkelt kontrolmål, som indgår i erklæringen efter stk. 1, skal der angives én af de følgende kategorier som opsummering på om kontrolmålet er opfyldt betryggende: 1) Betryggende. 2) Betryggende, men behov for nogle forbedringer. 3) Ikke betryggende. Stk. 4. Erklæringen, jf. stk. 1, skal indeholde en selvstændig oplistning af de kontroller, der er eller har været ineffektive. Stk. 5. Konklusioner i erklæringen, jf. stk. 1, skal afgives ordret efter bekendtgørelsens bilag 1, hvis erklæringen afgives uden modifikationer. Erklæringen skal udformes efter reglerne om andre erklæringer med sikkerhed i bekendtgørelse om godkendte revisorers erklæringer. Stk. 6. Det skal fremgå af erklæringens konklusion, hvorvidt den eksterne systemrevision vurderer, at datacentralens samlede system-, data- og driftssikkerhed er og fungerer betryggende. Stk. 7. Hvis den eksterne systemrevision er bekendt med forhold vedrørende datacentralens generelle it-kontroller, it-baserede brugersystemer samt systemer til udveksling af data, som er i strid med lovgivningen vedrørende finansielle virksomheder, skal den eksterne systemrevision oplyse herom i et særskilt afsnit i erklæringen. Såfremt der ikke findes nogle af de nævnte forhold, skal dette ligeledes oplyses i særskilt afsnit. Stk. 8. Erklæringen, jf. stk. 1, samt den interne systemrevisionschefs erklæring i henhold til § 9, skal af datacentralen uden unødigt ophold efter deres afgivelse sendes til direktionen i de tilsluttede virksomheder. For koncerner kan datacentralen, medmindre det vil stride mod bestemmelserne i lov om finansiel virksomhed om videregivelse af fortrolige oplysninger, aftale med moderselskabet, at erklæringerne alene sendes til moderselskabets direktion, der i så fald skal sikre, at relevante koncernvirksomheders direktioner modtager kopier. Stk. 9. Den eksterne systemrevision skal afgive erklæringen, jf. stk. 1, vedrørende en periode, der tidligst slutter den 31. oktober i det pågældende kalenderår. Hvis der afgives erklæring vedrørende en anden periode end et kalenderår, skal den eksterne systemrevision ved årsskiftet tillige afgive supplerende erklæring til de tilsluttede virksomheder om, hvorvidt den samlede system-, data- og driftssikkerhed har været og fungeret betryggende i perioden frem til årsskiftet.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "content": "§ 9. Har datacentralen en intern systemrevision, der opfylder bestemmelserne i §§ 10-16, skal den interne systemrevisionschef i et særskilt dokument, til brug for de tilsluttede virksomheder, erklære om denne er enig i den eksterne systemrevisions erklæring. Stk. 2. Systemrevisionschefens erklæring skal indeholde en kort beskrivelse af den udførte systemrevision samt konklusionen herpå. Stk. 3. Eventuelle modifikationer eller fremhævelse af forhold skal tydeligt fremgå af erklæringen.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:10",
+      "chapter": "5",
+      "section": "10",
+      "content": "§ 10. Bestyrelsen i en datacentral kan bestemme, at der skal oprettes en intern systemrevision, jf. dog stk. 2. Stk. 2. Datacentraler, der varetager væsentlige it-driftsopgaver, herunder bogførings-, registrerings- og clearingsopgaver for pengeinstitutter, er forpligtet til at oprette en intern systemrevision.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:11",
+      "chapter": "5",
+      "section": "11",
+      "content": "§ 11. Den interne systemrevision skal ledes af en systemrevisionschef. Ansættelse og afskedigelse af systemrevisionschefen kan alene foretages af datacentralens bestyrelse. Stk. 2. Systemrevisionschefen skal ved ansættelsen have deltaget i praktisk systemrevisionsarbejde i mindst 3 af de seneste 5 år. Stk. 3. Bestyrelsen kan udpege en vicesystemrevisionschef som stedfortræder for systemrevisionschefen. Stk. 4. Bestemmelserne i stk. 1 og 2 samt §§ 12 og 13 vedrørende systemrevisionschefen finder tilsvarende anvendelse på vicesystemrevisionschefer, herunder stedfortrædere.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:12",
+      "chapter": "5",
+      "section": "12",
+      "content": "§ 12. Når en systemrevisionschef tiltræder, skal dette indberettes til Finanstilsynet senest 1 måned efter tiltrædelsen. Stk. 2. Bestyrelsen skal ved indberetning til Finanstilsynet om ansættelse af systemrevisionschefen afgive en erklæring om, at systemrevisionschefen opfylder kravene efter § 11, stk. 2. Stk. 3. Når en systemrevisionschef fratræder sin stilling, skal bestyrelsen og systemrevisionschefen senest 1 måned efter fratrædelsen sende hver sin redegørelse til Finanstilsynet om baggrunden herfor.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "content": "§ 13. Systemrevisionschefen skal have adgang til alle oplysninger, som denne finder nødvendige for systemrevisionens gennemførelse, herunder bestyrelsesprotokollater. Stk. 2. Systemrevisionschefen og medarbejderne i den interne systemrevision må ikke deltage i andet arbejde i datacentralen end revision. Stk. 3. Systemrevisionschefen og medarbejderne i den interne systemrevision skal være uafhængige. Systemrevisionen skal kunne rette henvendelse og rapportere direkte til bestyrelsen, uafhængigt af direktionen.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "content": "§ 14. I datacentraler, der har en intern systemrevision, skal der foreligge en funktionsbeskrivelse, som er godkendt af bestyrelsen. Funktionsbeskrivelsen skal som minimum indeholde bestemmelser om følgende: 1) Den interne systemrevisions almindelige beføjelser, ansvar og arbejdsopgaver. 2) Medarbejdernes kvalifikationer. 3) Hvorledes og i hvilket omfang systemrevisionschefen og medarbejderne i den interne systemrevision sikres løbende efteruddannelse. 4) At ansættelse og afskedigelse af medarbejdere i den interne systemrevision skal foretages eller godkendes af systemrevisionschefen. 5) Den interne systemrevisions budget, herunder at dette godkendes af datacentralens bestyrelse. 6) Oplysning om aftaler mellem datacentralens ledelse og den interne systemrevision om udførelse af særlige revisionsopgaver, dog med undtagelse af engangsopgaver og opgaver af midlertidig karakter, som alene behøver at fremgå af den interne systemrevisionsprotokol, jf. § 17. Stk. 2. De opgaver, der er nævnt i stk. 1, nr. 6, må ikke bevirke, at systemrevisionschefen kommer i en situation, hvor vedkommende erklærer sig eller oplyser om forhold eller dokumenter, som systemrevisionschefen eller ansatte i den interne systemrevision har udarbejdet grundlaget for. Stk. 3. Den interne systemrevision skal fremlægge revisionsplanen for bestyrelsen, herunder alle it-revisioner og eventuelle væsentlige ændringer heraf. Revisionsplanen og dens gennemførelse, herunder art, omfang og hyppighed, skal afspejle og stå i et rimeligt forhold til de iboende it-risici i virksomheden og ajourføres regelmæssigt.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "content": "§ 15. I datacentraler, der har en intern systemrevision, skal systemrevisionsarbejdet udføres i overensstemmelse med god revisorskik og i henhold til en systemrevisionsaftale mellem den eksterne systemrevision og systemrevisionschefen. Systemrevisionsaftalen skal som minimum indeholde følgende: 1) En overordnet beskrivelse af hvilke systemrevisionsopgaver der skal udføres, og hvilke af disse opgaver der påhviler henholdsvis den eksterne systemrevision og den interne systemrevision. 2) Retningslinjer for samarbejdet mellem den eksterne systemrevision og den interne systemrevision, herunder det arbejde den eksterne og interne systemrevision skal udføre i forbindelse med kontrol af systemrevisionsarbejdet. 3) En beskrivelse af hvordan, og i hvilket omfang, der udveksles oplysninger mellem den interne systemrevision og den eksterne systemrevision om den udførte systemrevision. 4) Retningslinjer for samarbejdet med a) intern og ekstern revision i tilsluttede virksomheder, og b) intern og ekstern systemrevision i andre datacentraler, der er omfattet af denne bekendtgørelse.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "content": "§ 16. Intern systemrevision skal tage stilling til datacentralens efterlevelse af Finanstilsynets tilsynsreaktioner ved at gennemgå og efterprøve relevant dokumentation.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "content": "§ 17. Til brug for datacentralens bestyrelse skal den interne systemrevision føre en systemrevisionsprotokol. Der skal i systemrevisionsprotokollen redegøres for den i årets løb udførte systemrevision, som kan danne grundlag for revisionsmæssige delkonklusioner. Systemrevisionsprotokollen skal fremlægges for bestyrelsen, og enhver protokoltilførsel skal underskrives af den samlede bestyrelse. Stk. 2. Ved hvert kalenderårs afslutning skal der i et årsprotokollat redegøres for den udførte systemrevision samt konklusionen herpå. Årsprotokollatet skal i den forbindelse opfylde følgende: 1) Den interne systemrevision skal i årsprotokollatet opliste afgivne revisorerklæringer vedrørende systemrevision samt oplyse om indholdet af eventuelle modifikationer eller fremhævelse af forhold i disse. Er der ikke nogen revisorerklæringer at opliste, skal dette fremgå eksplicit af årsprotokollatet. 2) Den interne systemrevision skal i et særskilt afsnit i årsprotokollatet opsummere samtlige bemærkninger, som systemrevisionen har givet anledning til at fremføre over for bestyrelsen i systemrevisionsprotokollen. Opsummeringen skal indeholde en status vedrørende de bemærkninger, der er fremført vedrørende det pågældende år samt en status vedrørende de bemærkninger, der fremgik som åbenstående i protokollatet vedrørende det foregående år. 3) Den interne systemrevision skal i et særskilt afsnit i årsprotokollatet gengive en af virksomheden udarbejdet oversigt over samtlige tilsynsreaktioner, som Finanstilsynet har afgivet i regnskabsåret, tilsynsreaktioner, som Finanstilsynet har afgivet i foregående regnskabsår, men som endnu ikke er efterlevet på afslutningstidspunktet, og tilsynsreaktioner, som er efterlevet i regnskabsåret. Er der ikke afgivet tilsynsreaktioner i regnskabsåret, og er alle tilsynsreaktioner efterlevet ved udgangen af det foregående regnskabsår, skal dette ligeledes oplyses. Intern systemrevision skal gennemgå den af virksomheden udarbejdede oversigt og oplyse om bemærkninger hertil, herunder den interne systemrevisions stillingtagen til efterlevelsen af tilsynsreaktioner. 4) Systemrevisionschefen skal som minimum i et særskilt afsnit i årsprotokollatet bekræfte, at systemrevisionschefen ikke er kommet i en situation, hvor vedkommende erklærer sig eller oplyser om forhold eller dokumenter, som systemrevisionschefen eller ansatte i den interne systemrevision har udarbejdet grundlaget for, jf. § 14, stk. 2. 5) I årsprotokollatet skal det tillige oplyses, om den interne systemrevision har modtaget alle de oplysninger, der er anmodet om. Stk. 3. Datacentralen skal sende en kopi af den interne systemrevisions årsprotokollat til Finanstilsynet hvert år inden 15. februar sammen med kopi af den erklæring, der afgives efter § 9.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:18",
+      "chapter": "7",
+      "section": "18",
+      "content": "§ 18. Den interne og eksterne systemrevision skal 1) have tilstrækkelig viden, faglige kompetencer og ekspertise inden for relevante områder, og løbende vedligeholde disse på et niveau, der er nødvendigt for at sikre, at der leveres en kvalificeret professionel ydelse baseret på en opdateret viden om den seneste udvikling inden for god revisorskik, lovgivning og metoder, samt 2) sikre at art, omfang og hyppighed af revisionen står i et rimeligt forhold til de relevante it-risici.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:19",
+      "chapter": "7",
+      "section": "19",
+      "content": "§ 19. Den interne og eksterne systemrevision skal påse, at Finanstilsynet straks modtager meddelelse, såfremt de 1) må formode, at datacentralens samlede system-, data- og driftssikkerhed på områder omfattet af denne bekendtgørelse ikke er betryggende, eller 2) bliver bekendt med, at der i datacentralen er opstået betydelige og længerevarende it-mæssige driftsproblemer vedrørende datacentralens ydelser til de tilsluttede virksomheder. Stk. 2. Ved vurderingen af, om der skal ske meddelelse til Finanstilsynet efter stk. 1, nr. 2, skal som minimum indgå 1) driftsproblemernes indvirkning på datacentralens udveksling af data med andre datacentraler og den hermed forbundne databehandling, og 2) driftsproblemernes betydning for de tilsluttede virksomheders kortsigtede finansielle styring. Stk. 3. Konstaterer den eksterne systemrevision eller den interne systemrevision forhold vedrørende en eller flere af de tilsluttede virksomheders it-anvendelse, der ikke er betryggende på områder, som er omfattet af datacentralens ydelser til virksomheden, og dette vedrører forhold, som tilsluttede virksomheder må forventes normalt at tillægge betydning, når de træffer beslutninger om system-, data- og driftssikkerhed, skal vedkommende påse, at forholdet uden unødigt ophold meddeles skriftligt til den eller de pågældende virksomheders direktioner. Forholdet skal fremgå af den løbende systemrevisionsprotokol til datacentralens bestyrelse, og det skal fremgå i et særskilt afsnit af intern eller ekstern systemrevisions årsprotokollat.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "content": "§ 20. § 74, stk. 1-3, i lov om finansiel virksomhed finder tilsvarende anvendelse for den eksterne systemrevisions og den interne systemrevisionschefs deltagelse i og rettigheder på bestyrelsesmøder.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "8:21",
+      "chapter": "8",
+      "section": "21",
+      "content": "§ 21. Datacentralens ledelse skal udarbejde en redegørelse, der på baggrund af ekstern systemrevisions erklæring, skal gøre den enkelte tilsluttede virksomhed i stand til at vurdere risici. Redegørelsen skal som minimum indeholde en beskrivelse af følgende: 1) Ledelsens vurdering af kontrolsvagheder og afledte risici for den enkelte tilsluttede virksomhed samt hvilke konsekvenser de identificerede kontrolsvagheder medfører enkeltvis og samlet. 2) Hvordan datacentralen håndterer de identificerede kontrolsvagheder. 3) Hvilke kompenserende kontrol- og sikringsforanstaltninger den enkelte tilsluttede virksomhed kan implementere, til at imødegå de identificerede kontrolsvagheder. Stk. 2. Baseret på den udførte systemrevision skal den eksterne systemrevision gennemlæse ledelsens redegørelse, og afgive en udtalelse om hvorvidt oplysningerne i ledelsens redegørelse er i overensstemmelse med den afgivne erklæring jf. § 8 samt minimumskravene i henhold til § 21, stk. 1. Stk. 3. Redegørelse og udtalelse skal sendes til den enkelte tilsluttede virksomhed sammen med erklæringen, jf. § 8, stk. 1.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:22",
+      "chapter": "9",
+      "section": "22",
+      "content": "§ 22. Fortrolige oplysninger, som den eksterne systemrevision, systemrevisionschefen og medarbejderne i systemrevisionsafdelingen modtager fra finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder i kraft af deres arbejde, er omfattet af § 117, stk. 1, i lov om finansiel virksomhed.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:23",
+      "chapter": "9",
+      "section": "23",
+      "content": "§ 23. Finanstilsynet kan pålægge den eksterne systemrevision eller systemrevisionschefen samt dennes stedfortræder at give Finanstilsynet oplysninger om datacentralens forhold.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "9:24",
+      "chapter": "9",
+      "section": "24",
+      "content": "§ 24. Finanstilsynet kan dispensere fra bestemmelserne i denne bekendtgørelse.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "10:25",
+      "chapter": "10",
+      "section": "25",
+      "content": "§ 25. Overtrædelse af § 3, stk. 1, 1-3 pkt., § 4, § 7, stk. 4, §§ 8-9, § 10, stk. 2, § 11, stk. 1, 2 og 4, §§ 12-13, §§ 14-17 samt § 21 straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:26",
+      "chapter": "11",
+      "section": "26",
+      "content": "§ 26. Bekendtgørelsen træder i kraft den 1. februar 2023. Stk. 2. Bekendtgørelsen har virkning for erklæringer og protokollater, der vedrører erklæringsperioder, der påbegyndes den 1. januar 2023 eller senere. Stk. 3. Bekendtgørelse nr. 1268 af 21. november 2014 om systemrevisionens gennemførelse i fælles datacentraler ophæves.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    },
+    {
+      "provision_ref": "11:27",
+      "chapter": "11",
+      "section": "27",
+      "content": "§ 27. Bekendtgørelsen gælder ikke for Grønland og Færøerne.",
+      "valid_from": "2022-12-22",
+      "valid_to": null
+    }
+  ],
+  "definitions": [
+    {
+      "term": "fælles datacentraler",
+      "definition": "virksomheder, hvis væsentligste aktiviteter omfatter it-drift, herunder bogførings-, registrerings- og clearingsopgaver eller it-udvikling for flere finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder, og som overvejende er ejet af 1) flere finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder, fælles datacentraler eller sådanne virksomheders dattervirksomheder i forening, eller 2) en forening, hvis medlemmer overvejende er finansielle virksomheder, finansielle holdingvirksomheder, forsikringsholdingvirksomheder eller sådanne virksomheders dattervirksomheder",
+      "source_provision": "1:1"
+    },
+    {
+      "term": "tilsluttede virksomheder",
+      "definition": "virksomheder, der er underlagt Finanstilsynets tilsyn, som en datacentral udfører de i § 1 nævnte opgaver for",
+      "source_provision": "1:2"
+    }
+  ]
+}
