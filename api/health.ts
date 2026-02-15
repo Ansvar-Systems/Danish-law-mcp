@@ -30,7 +30,7 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
     uptime_seconds: Math.floor(process.uptime()),
     data_freshness: {
       max_age_days: FRESHNESS_MAX_DAYS,
-      note: 'Serving bundled free-tier database',
+      note: 'Serving runtime-downloaded free-tier database',
     },
     capabilities: ['statutes', 'eu_cross_references'],
     tier: 'free',
