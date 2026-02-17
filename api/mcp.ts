@@ -1,6 +1,11 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/streamableHttp.js';
+import {
+  CallToolRequestSchema,
+  ListToolsRequestSchema,
+  type Tool,
+} from '@modelcontextprotocol/sdk/types.js';
 import Database from '@ansvar/mcp-sqlite';
 import { existsSync, createWriteStream, rmSync, renameSync } from 'fs';
 import { pipeline } from 'stream/promises';
@@ -28,6 +33,7 @@ const TMP_DB_LOCK = '/tmp/database.db.lock';
 const GITHUB_REPO = 'Ansvar-Systems/Denmark-law-mcp';
 const RELEASE_TAG = `v${SERVER_VERSION}`;
 const ASSET_NAME = 'danish-free.db.gz';
+const ALLOW_RUNTIME_DB_DOWNLOAD = process.env.DANISH_LAW_ALLOW_RUNTIME_DOWNLOAD === '1';
 
 let db: InstanceType<typeof Database> | null = null;
 
@@ -86,6 +92,12 @@ async function ensureDatabase(): Promise<InstanceType<typeof Database>> {
       return db;
     }
 
+    if (!ALLOW_RUNTIME_DB_DOWNLOAD) {
+      throw new Error(
+        'database_unavailable: set DANISH_LAW_DB_PATH or enable DANISH_LAW_ALLOW_RUNTIME_DOWNLOAD=1',
+      );
+    }
+
     console.log('[danish-law-mcp] Downloading free-tier database...');
     await downloadDatabase();
     console.log('[danish-law-mcp] Database ready');
@@ -94,6 +106,56 @@ async function ensureDatabase(): Promise<InstanceType<typeof Database>> {
   db = new Database(TMP_DB, { readonly: true });
   db.pragma('foreign_keys = ON');
   return db;
+}
+
+function registerDegradedTools(server: Server, reason: string): void {
+  const tools: Tool[] = [
+    {
+      name: 'about',
+      description: 'Service metadata and current runtime availability status.',
+      inputSchema: {
+        type: 'object',
+        properties: {},
+      },
+    },
+  ];
+
+  server.setRequestHandler(ListToolsRequestSchema, async () => ({ tools }));
+
+  server.setRequestHandler(CallToolRequestSchema, async (request) => {
+    const toolName = request.params.name;
+    if (toolName !== 'about') {
+      return {
+        isError: true,
+        content: [
+          {
+            type: 'text',
+            text: `Service is temporarily in degraded mode: ${reason}`,
+          },
+        ],
+      };
+    }
+
+    return {
+      content: [
+        {
+          type: 'text',
+          text: JSON.stringify(
+            {
+              name: SERVER_NAME,
+              version: SERVER_VERSION,
+              status: 'degraded',
+              message:
+                'Database is currently unavailable. Configure DANISH_LAW_DB_PATH or enable DANISH_LAW_ALLOW_RUNTIME_DOWNLOAD=1.',
+              reason,
+            },
+            null,
+            2,
+          ),
+        },
+      ],
+    };
+  });
 }
 
 // ---------------------------------------------------------------------------
@@ -121,14 +183,19 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   }
 
   try {
-    const database = await ensureDatabase();
-
     const server = new Server(
       { name: SERVER_NAME, version: SERVER_VERSION },
       { capabilities: { tools: {} } }
     );
 
-    registerTools(server, database);
+    try {
+      const database = await ensureDatabase();
+      registerTools(server, database);
+    } catch (dbErr: unknown) {
+      const reason = dbErr instanceof Error ? dbErr.message : String(dbErr);
+      console.error('Danish MCP degraded mode:', reason);
+      registerDegradedTools(server, reason);
+    }
 
     const transport = new StreamableHTTPServerTransport({
       sessionIdGenerator: undefined,
