@@ -8,12 +8,14 @@ import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.j
 
 export interface GetProvisionEUBasisInput {
   document_id?: string;
+  /** @deprecated Use document_id instead */
   sfs_number?: string;
   provision_ref: string;
 }
 
 export interface GetProvisionEUBasisResult {
   document_id: string;
+  /** @deprecated Legacy alias for document_id */
   sfs_number: string;
   provision_ref: string;
   provision_content?: string;

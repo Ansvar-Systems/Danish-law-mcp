@@ -1,7 +1,7 @@
 /**
- * Parse amendment references from Swedish statute text.
+ * Parse amendment references from statute text.
  *
- * Swedish statutes indicate amendments using standard phrases:
+ * Statutes indicate amendments using standard phrases (inherited from Swedish fork):
  *   - "Lag (YYYY:NNN)." at end of provision
  *   - "Upphävd genom lag (YYYY:NNN)"
  *   - "Införd genom lag (YYYY:NNN)"
@@ -159,14 +159,14 @@ export interface StatuteMetadataAmendments {
   /** Free-text description of repeal */
   repeal_description?: string;
 
-  /** SFS numbers mentioned in Riksdagen HTML metadata */
+  /** Document IDs mentioned in HTML metadata */
   referenced_sfs: string[];
 }
 
 /**
- * Extract amendment metadata from Riksdagen HTML document metadata.
+ * Extract amendment metadata from HTML document metadata.
  *
- * Riksdagen documents have HTML headers like:
+ * Source documents may have HTML headers like (inherited from Swedish fork):
  *   <b>Upphävd</b>: 2018-05-25
  *   <b>Författningen har upphävts genom</b>: SFS 2018:218
  */
@@ -240,7 +240,7 @@ export interface AmendmentSection {
  *   1 kap. 3 § ska ha följande lydelse:
  *   [new text]
  *
- * Note: Full implementation requires advanced Swedish legal NLP and
+ * Note: Full implementation requires advanced legal NLP and
  * understanding of "ska ha följande lydelse" constructions.
  */
 export function parseAmendingStatute(text: string): AmendmentSection[] {

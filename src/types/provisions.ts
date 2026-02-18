@@ -22,7 +22,7 @@ export interface LegalProvision {
   /** Rubrik (heading) for the provision */
   title?: string;
 
-  /** Full text content in Swedish */
+  /** Full text content in Danish */
   content: string;
 
   /** JSON metadata: stycken, punkter, etc. */

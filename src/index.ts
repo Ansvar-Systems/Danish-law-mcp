@@ -194,9 +194,9 @@ Omit chapter/section/provision_ref to get all provisions in the statute.`,
   },
   {
     name: 'search_case_law',
-    description: `Search Danish court decisions (rattsfall).
+    description: `Search Danish court decisions (retspraksis).
 
-Searches case summaries and keywords. Filter by court (HD, HFD, AD, etc.) and date range.`,
+Searches case summaries and keywords. Filter by court and date range.`,
     inputSchema: {
       type: 'object',
       properties: {
@@ -206,7 +206,7 @@ Searches case summaries and keywords. Filter by court (HD, HFD, AD, etc.) and da
         },
         court: {
           type: 'string',
-          description: 'Filter by court (e.g., "HD", "HFD", "AD")',
+          description: 'Filter by court',
         },
         date_from: {
           type: 'string',
@@ -226,9 +226,9 @@ Searches case summaries and keywords. Filter by court (HD, HFD, AD, etc.) and da
   },
   {
     name: 'get_preparatory_works',
-    description: `Get preparatory works (forarbeten) for a Danish statute.
+    description: `Get preparatory works (forarbejder) for a Danish statute.
 
-Returns linked propositions (Prop.), SOUs, and Ds documents with summaries.
+Returns linked preparatory documents with summaries.
 Essential for understanding legislative intent behind statutory provisions.`,
     inputSchema: {
       type: 'object',
@@ -498,6 +498,16 @@ Note: This is Phase 1 validation. Full compliance checking against EU requiremen
     },
   },
   {
+    name: 'list_sources',
+    description:
+      'List all data sources and their provenance. ' +
+      'Returns source URLs, licenses, and coverage information for transparency and audit compliance.',
+    inputSchema: {
+      type: 'object',
+      properties: {},
+    },
+  },
+  {
     name: 'about',
     description:
       'Server metadata, dataset statistics, freshness, and provenance. ' +
@@ -556,16 +566,16 @@ server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
               text: JSON.stringify(
                 {
                   status: 'no_data',
-                  message: 'No case law data has been synced yet. Run npm run sync:cases to fetch case law from lagen.nu.',
+                  message: 'No case law data has been synced yet. Run npm run sync:cases to fetch case law.',
                   last_sync_date: null,
                   last_decision_date: null,
                   total_cases: 0,
                   cases_by_court: {},
                   source: {
-                    name: 'lagen.nu',
-                    url: 'https://lagen.nu',
-                    license: 'Creative Commons Attribution',
-                    attribution: 'Case law from lagen.nu, licensed CC-BY Domstolsverket',
+                    name: 'Retsinformation',
+                    url: 'https://www.retsinformation.dk',
+                    license: 'Public domain (Danish legal texts)',
+                    attribution: 'Case law from Retsinformation.dk',
                   },
                   update_frequency: 'weekly',
                   coverage: '1993-present (varies by court)',
@@ -610,10 +620,10 @@ server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
         total_cases: totalCases,
         cases_by_court: casesByCourt,
         source: {
-          name: syncMeta?.source || 'lagen.nu',
-          url: 'https://lagen.nu',
-          license: 'Creative Commons Attribution',
-          attribution: 'Case law from lagen.nu, licensed CC-BY Domstolsverket',
+          name: syncMeta?.source || 'Retsinformation',
+          url: 'https://www.retsinformation.dk',
+          license: 'Public domain (Danish legal texts)',
+          attribution: 'Case law from Retsinformation.dk',
         },
         update_frequency: 'weekly',
         coverage: '1993-present (varies by court)',
@@ -701,6 +711,35 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
         break;
       case 'validate_eu_compliance':
         result = await validateEUCompliance(getDb(), args as unknown as ValidateEUComplianceInput);
+        break;
+      case 'list_sources':
+        result = {
+          sources: [
+            {
+              name: 'Retsinformation',
+              url: 'https://www.retsinformation.dk',
+              description: 'Official Danish legal information system (primary document source)',
+              license: 'Public domain (Danish legal texts)',
+              coverage: 'Danish statutes, regulations, and legal documents',
+            },
+            {
+              name: 'Retsinformation API',
+              url: 'https://api.retsinformation.dk',
+              description: 'Programmatic access to Danish legal documents (update feed)',
+              license: 'Public domain (Danish legal texts)',
+              coverage: 'Document update notifications and metadata',
+            },
+            {
+              name: 'EUR-Lex',
+              url: 'https://eur-lex.europa.eu',
+              description: 'Official EU legislation database (EU directive/regulation metadata)',
+              license: 'EU public domain',
+              coverage: 'EU directives and regulations referenced by Danish statutes',
+            },
+          ],
+          authenticity_note:
+            'All data is sourced from official public legal information services. Verify legal conclusions against current official publications on Retsinformation and Lovtidende.',
+        };
         break;
       case 'about':
         result = getAbout(getDb(), aboutContext);

@@ -130,9 +130,9 @@ export async function checkCurrency(
       caseLawStats = {
         last_updated: syncMeta.last_sync_date,
         total_cases: syncMeta.cases_count || 0,
-        source: syncMeta.source || 'lagen.nu',
-        source_url: 'https://lagen.nu',
-        attribution: 'Case law data from lagen.nu, licensed CC-BY Domstolsverket',
+        source: syncMeta.source || 'Retsinformation',
+        source_url: 'https://www.retsinformation.dk',
+        attribution: 'Case law data from Retsinformation.dk',
       };
     }
   } catch (error) {

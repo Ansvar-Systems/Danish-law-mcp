@@ -1,5 +1,5 @@
 /**
- * search_case_law — Full-text search across Swedish court decisions.
+ * search_case_law — Full-text search across Danish court decisions.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
@@ -90,8 +90,8 @@ export async function searchCaseLaw(
     return results.map(result => ({
       ...result,
       _metadata: {
-        source: 'lagen.nu',
-        attribution: 'Data from lagen.nu, licensed CC-BY Domstolsverket',
+        source: 'Retsinformation',
+        attribution: 'Data from Retsinformation.dk',
       },
     }));
   };

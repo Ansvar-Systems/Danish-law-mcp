@@ -1,5 +1,5 @@
 /**
- * Test database fixture with Swedish law sample data.
+ * Test database fixture with Danish law sample data.
  */
 
 import Database from '@ansvar/mcp-sqlite';

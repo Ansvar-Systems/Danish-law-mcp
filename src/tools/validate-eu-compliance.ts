@@ -7,6 +7,7 @@ import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.j
 
 export interface ValidateEUComplianceInput {
   document_id?: string;
+  /** @deprecated Use document_id instead */
   sfs_number?: string;
   provision_ref?: string;
   eu_document_id?: string;
@@ -14,6 +15,7 @@ export interface ValidateEUComplianceInput {
 
 export interface EUComplianceResult {
   document_id: string;
+  /** @deprecated Legacy alias for document_id */
   sfs_number: string;
   provision_ref?: string;
   compliance_status: 'compliant' | 'partial' | 'unclear' | 'not_applicable';

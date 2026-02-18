@@ -84,7 +84,7 @@ describe('EU Cross-Reference Tools', () => {
   });
 
   describe('get_swedish_implementations', () => {
-    it('should return Swedish implementations of GDPR', async () => {
+    it('should return Danish implementations of GDPR', async () => {
       const result = await getSwedishImplementations(db, {
         eu_document_id: 'regulation:2016/679',
       });
@@ -106,7 +106,7 @@ describe('EU Cross-Reference Tools', () => {
       expect(result.results.statistics.in_force).toBe(1);
     });
 
-    it('should return Swedish implementations of Data Protection Directive', async () => {
+    it('should return Danish implementations of Data Protection Directive', async () => {
       const result = await getSwedishImplementations(db, {
         eu_document_id: 'directive:95/46',
       });
@@ -196,7 +196,7 @@ describe('EU Cross-Reference Tools', () => {
       }
     });
 
-    it('should show Swedish statute counts', async () => {
+    it('should show Danish statute counts', async () => {
       const result = await searchEUImplementations(db, {
         query: 'GDPR',
       });

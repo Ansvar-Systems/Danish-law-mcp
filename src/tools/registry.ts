@@ -27,6 +27,17 @@ import { validateEUCompliance, ValidateEUComplianceInput } from './validate-eu-c
 import { getAbout, type AboutContext } from './about.js';
 export type { AboutContext } from './about.js';
 
+const LIST_SOURCES_TOOL: Tool = {
+  name: 'list_sources',
+  description:
+    'List all data sources and their provenance. ' +
+    'Returns source URLs, licenses, and coverage information for transparency and audit compliance.',
+  inputSchema: {
+    type: 'object',
+    properties: {},
+  },
+};
+
 const ABOUT_TOOL: Tool = {
   name: 'about',
   description:
@@ -77,12 +88,12 @@ Specify the document ID and either chapter+section or provision_ref directly.`,
   },
   {
     name: 'search_case_law',
-    description: `Search Danish court decisions (rattsfall). Filter by court (HD, HFD, AD, etc.) and date range.`,
+    description: `Search Danish court decisions (retspraksis). Filter by court and date range.`,
     inputSchema: {
       type: 'object',
       properties: {
         query: { type: 'string', description: 'Search query for case law summaries' },
-        court: { type: 'string', description: 'Filter by court (e.g., "HD", "HFD", "AD")' },
+        court: { type: 'string', description: 'Filter by court' },
         date_from: { type: 'string', description: 'Start date filter (ISO 8601)' },
         date_to: { type: 'string', description: 'End date filter (ISO 8601)' },
         limit: { type: 'number', description: 'Maximum results (default: 10, max: 50)' },
@@ -92,7 +103,7 @@ Specify the document ID and either chapter+section or provision_ref directly.`,
   },
   {
     name: 'get_preparatory_works',
-    description: `Get preparatory works (forarbeten) for a Danish statute. Returns linked propositions, SOUs, and Ds documents.`,
+    description: `Get preparatory works (forarbejder) for a Danish statute. Returns linked preparatory documents.`,
     inputSchema: {
       type: 'object',
       properties: {
@@ -223,7 +234,7 @@ Specify the document ID and either chapter+section or provision_ref directly.`,
 ];
 
 export function buildTools(context?: AboutContext): Tool[] {
-  return context ? [...TOOLS, ABOUT_TOOL] : TOOLS;
+  return context ? [...TOOLS, ABOUT_TOOL, LIST_SOURCES_TOOL] : [...TOOLS, LIST_SOURCES_TOOL];
 }
 
 export function registerTools(
@@ -293,6 +304,35 @@ export function registerTools(
               isError: true,
             };
           }
+          break;
+        case 'list_sources':
+          result = {
+            sources: [
+              {
+                name: 'Retsinformation',
+                url: 'https://www.retsinformation.dk',
+                description: 'Official Danish legal information system (primary document source)',
+                license: 'Public domain (Danish legal texts)',
+                coverage: 'Danish statutes, regulations, and legal documents',
+              },
+              {
+                name: 'Retsinformation API',
+                url: 'https://api.retsinformation.dk',
+                description: 'Programmatic access to Danish legal documents (update feed)',
+                license: 'Public domain (Danish legal texts)',
+                coverage: 'Document update notifications and metadata',
+              },
+              {
+                name: 'EUR-Lex',
+                url: 'https://eur-lex.europa.eu',
+                description: 'Official EU legislation database (EU directive/regulation metadata)',
+                license: 'EU public domain',
+                coverage: 'EU directives and regulations referenced by Danish statutes',
+              },
+            ],
+            authenticity_note:
+              'All data is sourced from official public legal information services. Verify legal conclusions against current official publications on Retsinformation and Lovtidende.',
+          };
           break;
         default:
           return {

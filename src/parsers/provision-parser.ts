@@ -1,5 +1,5 @@
 /**
- * Parse Swedish statute text into structured provisions.
+ * Parse statute text into structured provisions.
  *
  * Detects and handles:
  *   - Chaptered statutes: "3 kap. 5 §" → provision_ref "3:5"

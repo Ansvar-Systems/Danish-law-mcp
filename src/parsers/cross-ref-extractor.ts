@@ -1,5 +1,5 @@
 /**
- * Extract cross-references from Swedish legal provision text.
+ * Extract cross-references from Danish legal provision text.
  *
  * Detects patterns like:
  *   - "3 kap. 5 para" (same statute, different provision)

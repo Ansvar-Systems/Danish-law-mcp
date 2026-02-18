@@ -19,7 +19,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { pathToFileURL } from 'url';
-import { parseRiksdagenProvisions } from '../src/parsers/riksdagen-provision-parser.js';
+// import { parseRiksdagenProvisions } from '../src/parsers/riksdagen-provision-parser.js'; // Removed: Swedish-specific parser
 import { parseStatuteText } from '../src/parsers/provision-parser.js';
 
 // ─────────────────────────────────────────────────────────────────────────────

@@ -1,5 +1,5 @@
 /**
- * Parse Swedish legal citation strings into structured objects.
+ * Parse Danish legal citation strings into structured objects.
  *
  * Supported formats:
  *   - SFS 2018:218
@@ -14,10 +14,10 @@
 
 import type { ParsedCitation, DocumentType } from '../types/index.js';
 
-/** SFS statute pattern: SFS 2018:218 [3 kap.] [5 [a] §] or short form [3:5] */
-const SFS_PATTERN = /^(?:SFS\s+)?(\d{4}:\d+)\s*(?:(\d+)\s*kap\.\s*)?(?:(\d+\s*[a-z]?)\s*§)?/i;
+/** Statute pattern: SFS 2018:218 [3 kap.] [5 [a] §] or short form [3:5] */
+const STATUTE_PATTERN = /^(?:SFS\s+)?(\d{4}:\d+)\s*(?:(\d+)\s*kap\.\s*)?(?:(\d+\s*[a-z]?)\s*§)?/i;
 /** Short form statute pattern: 2018:218 3:5 */
-const SFS_SHORT_PATTERN = /^(?:SFS\s+)?(\d{4}:\d+)\s+(\d+):(\d+\s*[a-z]?)\s*$/i;
+const STATUTE_SHORT_PATTERN = /^(?:SFS\s+)?(\d{4}:\d+)\s+(\d+):(\d+\s*[a-z]?)\s*$/i;
 
 /** Proposition pattern: Prop. 2017/18:105 */
 const PROP_PATTERN = /^Prop\.\s*(\d{4}\/\d{2}:\d+)/i;
@@ -28,13 +28,13 @@ const SOU_PATTERN = /^SOU\s+(\d{4}:\d+)/i;
 /** Ds pattern: Ds 2022:10 */
 const DS_PATTERN = /^Ds\s+(\d{4}:\d+)/i;
 
-/** Case law patterns: NJA 2020 s. 45, HFD 2019 ref. 12 */
+/** Case law patterns (inherited from Swedish fork — NJA, HFD, AD, MD, MIG) */
 const CASE_NJA_PATTERN = /^(NJA)\s+(\d{4})\s+s\.\s*(\d+)/i;
 const CASE_HFD_PATTERN = /^(HFD)\s+(\d{4})\s+ref\.\s*(\d+)/i;
 const CASE_GENERIC_PATTERN = /^(AD|MD|MIG)\s+(\d{4})\s+(?:nr|ref\.?)\s*(\d+)/i;
 
 /**
- * Parse a Swedish legal citation string.
+ * Parse a Danish legal citation string.
  *
  * @param citation - Raw citation string
  * @returns Parsed citation with type, document ID, and optional provision reference
@@ -93,8 +93,8 @@ export function parseCitation(citation: string): ParsedCitation {
     }
   }
 
-  // Try SFS statute short form first (2018:218 3:5)
-  const sfsShortMatch = trimmed.match(SFS_SHORT_PATTERN);
+  // Try statute short form first (2018:218 3:5)
+  const sfsShortMatch = trimmed.match(STATUTE_SHORT_PATTERN);
   if (sfsShortMatch && sfsShortMatch[1]) {
     return {
       raw: citation,
@@ -106,8 +106,8 @@ export function parseCitation(citation: string): ParsedCitation {
     };
   }
 
-  // Try SFS statute long form (with or without "SFS" prefix)
-  const sfsMatch = trimmed.match(SFS_PATTERN);
+  // Try statute long form (with or without "SFS" prefix)
+  const sfsMatch = trimmed.match(STATUTE_PATTERN);
   if (sfsMatch && sfsMatch[1]) {
     const result: ParsedCitation = {
       raw: citation,

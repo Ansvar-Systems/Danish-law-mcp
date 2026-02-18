@@ -65,8 +65,8 @@ describe('search_case_law', () => {
       expect(result).toHaveProperty('_metadata');
       expect(result._metadata).toHaveProperty('source');
       expect(result._metadata).toHaveProperty('attribution');
-      expect(result._metadata.source).toBe('lagen.nu');
-      expect(result._metadata.attribution).toContain('CC-BY Domstolsverket');
+      expect(result._metadata.source).toBe('Retsinformation');
+      expect(result._metadata.attribution).toContain('Retsinformation');
     }
   });
 });

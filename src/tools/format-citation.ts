@@ -1,5 +1,5 @@
 /**
- * format_citation — Format a Swedish legal citation per standard conventions.
+ * format_citation — Format a Danish legal citation per standard conventions.
  */
 
 import { parseCitation } from '../citation/parser.js';

@@ -12,6 +12,7 @@ export interface SearchEUImplementationsInput {
   year_to?: number;
   community?: 'EU' | 'EG' | 'EEG' | 'Euratom';
   has_danish_implementation?: boolean;
+  /** @deprecated Use has_danish_implementation instead */
   has_swedish_implementation?: boolean;
   limit?: number;
 }
@@ -29,6 +30,7 @@ export interface SearchEUImplementationsResult {
       celex_number?: string;
     };
     danish_statute_count: number;
+    /** @deprecated Legacy alias for danish_statute_count */
     swedish_statute_count: number;
     primary_implementations: string[];
     all_references: string[];

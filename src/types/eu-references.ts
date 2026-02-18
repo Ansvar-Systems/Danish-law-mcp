@@ -1,7 +1,7 @@
 /**
  * EU References Types
  *
- * Types for EU law cross-references in Swedish legislation.
+ * Types for EU law cross-references in Danish legislation.
  */
 
 export type EUDocumentType = 'directive' | 'regulation';
@@ -29,6 +29,7 @@ export interface EUDocument {
   community: EUCommunity;
   celex_number?: string;         // "32016R0679"
   title?: string;
+  /** @deprecated Legacy DB column name — retained for schema compatibility */
   title_sv?: string;
   short_name?: string;           // "GDPR"
   adoption_date?: string;
@@ -73,7 +74,7 @@ export interface EUBasisDocument {
   url_eur_lex?: string;
 }
 
-export interface SwedishImplementation {
+export interface DanishImplementation {
   document_id: string;
   document_title: string;
   short_name?: string;
@@ -82,8 +83,9 @@ export interface SwedishImplementation {
   is_primary_implementation: boolean;
   implementation_status?: ImplementationStatus;
   articles_referenced?: string[];
-  // Legacy aliases retained for backward compatibility with existing clients/tests.
+  /** @deprecated Legacy alias for document_id — retained for backward compatibility */
   sfs_number?: string;
+  /** @deprecated Legacy alias for document_title — retained for backward compatibility */
   sfs_title?: string;
 }
 
@@ -97,3 +99,6 @@ export interface ProvisionEUReference {
   full_citation: string;
   context?: string;
 }
+
+/** @deprecated Use DanishImplementation instead */
+export type SwedishImplementation = DanishImplementation;

@@ -10,7 +10,7 @@
       "description": "Grundloven § 1 — constitutional form of government",
       "upstream_url": "https://www.retsinformation.dk/eli/lta/1953/169",
       "selector_hint": "Section 1",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "888b1f6eaafc88addb134726e1790abf10e2f6faaf4b08bf113e892b1a410a66",
       "expected_snippet": "Denne grundlov gælder for alle dele af Danmarks Rige"
     },
     {
@@ -18,7 +18,7 @@
       "description": "Grundloven § 3 — separation of powers (lovgivende, udøvende, dømmende)",
       "upstream_url": "https://www.retsinformation.dk/eli/lta/1953/169",
       "selector_hint": "Section 3",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "ad5e9bf302571e7440b884904a0457e1ae670be6d238735159b0fc0f460f107e",
       "expected_snippet": "lovgivende magt"
     },
     {
@@ -26,7 +26,7 @@
       "description": "Grundloven § 67 — freedom of religion (trosfrihed)",
       "upstream_url": "https://www.retsinformation.dk/eli/lta/1953/169",
       "selector_hint": "Section 67",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "45bdf23d3d613b482fc56b9ec70eec839081eb821c5c43d65b5a8b31f1eec46c",
       "expected_snippet": "Borgerne har ret til at forene sig"
     },
     {
@@ -34,7 +34,7 @@
       "description": "Grundloven § 71 — personal liberty (den personlige frihed)",
       "upstream_url": "https://www.retsinformation.dk/eli/lta/1953/169",
       "selector_hint": "Section 71",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "b33b288e87beaa9431441e7787c30cfd1d8e4b0476fa73c86bb43f6559bdd5ca",
       "expected_snippet": "Den personlige frihed er ukrænkelig"
     },
     {
@@ -42,7 +42,7 @@
       "description": "Grundloven § 77 — freedom of expression (ytringsfrihed)",
       "upstream_url": "https://www.retsinformation.dk/eli/lta/1953/169",
       "selector_hint": "Section 77",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "b1dcd4f13d10a6dc532ae1dc55c15cb58db2b2a5811f158f6136981191d0c1bf",
       "expected_snippet": "Enhver er berettiget til"
     }
   ]

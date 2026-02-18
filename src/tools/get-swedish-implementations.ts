@@ -1,18 +1,18 @@
 /**
- * get_swedish_implementations — Find Danish statutes implementing an EU directive/regulation.
+ * get_danish_implementations — Find Danish statutes implementing an EU directive/regulation.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
-import type { EUDocument, SwedishImplementation } from '../types/index.js';
+import type { EUDocument, DanishImplementation } from '../types/index.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
-export interface GetSwedishImplementationsInput {
+export interface GetDanishImplementationsInput {
   eu_document_id: string;
   primary_only?: boolean;
   in_force_only?: boolean;
 }
 
-export interface GetSwedishImplementationsResult {
+export interface GetDanishImplementationsResult {
   eu_document: {
     id: string;
     type: 'directive' | 'regulation';
@@ -22,7 +22,7 @@ export interface GetSwedishImplementationsResult {
     short_name?: string;
     celex_number?: string;
   };
-  implementations: SwedishImplementation[];
+  implementations: DanishImplementation[];
   statistics: {
     total_statutes: number;
     primary_implementations: number;
@@ -36,10 +36,10 @@ export interface GetSwedishImplementationsResult {
  *
  * Returns a list of Danish statutes with their reference types and implementation status.
  */
-export async function getSwedishImplementations(
+export async function getDanishImplementations(
   db: Database,
-  input: GetSwedishImplementationsInput
-): Promise<ToolResponse<GetSwedishImplementationsResult>> {
+  input: GetDanishImplementationsInput
+): Promise<ToolResponse<GetDanishImplementationsResult>> {
   // Validate EU document ID format
   if (!input.eu_document_id || !/^(directive|regulation):\d+\/\d+$/.test(input.eu_document_id)) {
     throw new Error(
@@ -105,8 +105,8 @@ export async function getSwedishImplementations(
   const rows = db.prepare(sql).all(...params) as QueryRow[];
 
   // Transform rows into result format
-  const implementations: SwedishImplementation[] = rows.map(row => {
-    const impl: SwedishImplementation = {
+  const implementations: DanishImplementation[] = rows.map(row => {
+    const impl: DanishImplementation = {
       document_id: row.document_id,
       document_title: row.document_title,
       sfs_number: row.document_id,
@@ -130,7 +130,7 @@ export async function getSwedishImplementations(
   const inForceCount = implementations.filter(i => i.status === 'in_force').length;
   const repealedCount = implementations.filter(i => i.status === 'repealed').length;
 
-  const result: GetSwedishImplementationsResult = {
+  const result: GetDanishImplementationsResult = {
     eu_document: {
       id: euDoc.id,
       type: euDoc.type,
@@ -155,7 +155,10 @@ export async function getSwedishImplementations(
   };
 }
 
-// Danish aliases keep runtime parity while exposing country-specific naming.
-export type GetDanishImplementationsInput = GetSwedishImplementationsInput;
-export type GetDanishImplementationsResult = GetSwedishImplementationsResult;
-export const getDanishImplementations = getSwedishImplementations;
+// Backward-compat aliases for existing consumers.
+/** @deprecated Use GetDanishImplementationsInput instead */
+export type GetSwedishImplementationsInput = GetDanishImplementationsInput;
+/** @deprecated Use GetDanishImplementationsResult instead */
+export type GetSwedishImplementationsResult = GetDanishImplementationsResult;
+/** @deprecated Use getDanishImplementations instead */
+export const getSwedishImplementations = getDanishImplementations;

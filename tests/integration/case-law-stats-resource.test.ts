@@ -103,15 +103,15 @@ describe('Case Law Stats Resource Integration', () => {
 
   it('should construct proper attribution object', () => {
     const attribution = {
-      source: 'lagen.nu',
-      url: 'https://lagen.nu',
-      license: 'Creative Commons Attribution',
-      attribution: 'Case law from lagen.nu, licensed CC-BY Domstolsverket',
+      source: 'Retsinformation',
+      url: 'https://www.retsinformation.dk',
+      license: 'Public domain (Danish legal texts)',
+      attribution: 'Case law from Retsinformation.dk',
     };
 
-    expect(attribution.source).toBe('lagen.nu');
-    expect(attribution.url).toBe('https://lagen.nu');
-    expect(attribution.license).toBe('Creative Commons Attribution');
-    expect(attribution.attribution).toContain('CC-BY Domstolsverket');
+    expect(attribution.source).toBe('Retsinformation');
+    expect(attribution.url).toBe('https://www.retsinformation.dk');
+    expect(attribution.license).toBe('Public domain (Danish legal texts)');
+    expect(attribution.attribution).toContain('Retsinformation');
   });
 });

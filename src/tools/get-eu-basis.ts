@@ -8,6 +8,7 @@ import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.j
 
 export interface GetEUBasisInput {
   document_id?: string;
+  /** @deprecated Use document_id instead */
   sfs_number?: string;
   include_articles?: boolean;
   reference_types?: string[];
@@ -15,8 +16,10 @@ export interface GetEUBasisInput {
 
 export interface GetEUBasisResult {
   document_id: string;
+  /** @deprecated Legacy alias for document_id */
   sfs_number: string;
   document_title: string;
+  /** @deprecated Legacy alias for document_title */
   sfs_title: string;
   eu_documents: EUBasisDocument[];
   statistics: {
