@@ -334,3 +334,9 @@ Rate limit: 0.5s between requests.
 - [Svensk Forfattningssamling](https://svenskforfattningssamling.se/)
 - [Lagrummet](https://lagrummet.se/) - Legal information system
 - [Lagen.nu](https://lagen.nu) - Case law and legal information (CC-BY Domstolsverket)
+
+## Git Workflow
+
+- **Never commit directly to `main`.** Always create a feature branch and open a Pull Request.
+- Branch protection requires: verified signatures, PR review, and status checks to pass.
+- Use conventional commit prefixes: `feat:`, `fix:`, `chore:`, `docs:`, etc.
