@@ -2,7 +2,7 @@ name: Daily Data Freshness Check
 
 on:
   schedule:
-    # Daily at 05:00 UTC
+    # Weekly at 05:00 UTC
     - cron: '0 5 * * *'
   workflow_dispatch:
     inputs:
@@ -58,7 +58,7 @@ jobs:
           const hasUpdates = updates + newDocs > 0;
 
           const lines = [];
-          lines.push("## Daily Data Freshness Check");
+          lines.push("## Weekly Data Freshness Check");
           lines.push("");
           lines.push(`- Checked at: ${report.checked_at}`);
           lines.push(`- Local statutes: ${report.local_statutes}`);
