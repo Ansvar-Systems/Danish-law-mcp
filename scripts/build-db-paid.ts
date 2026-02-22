@@ -162,6 +162,7 @@ function buildPaidTier(): void {
   updateMeta();
 
   db.pragma('wal_checkpoint(TRUNCATE)');
+  db.pragma('journal_mode = DELETE');  // WASM SQLite compat: switch from WAL before closing
   db.exec('ANALYZE');
   db.close();
 
