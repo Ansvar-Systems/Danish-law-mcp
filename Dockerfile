@@ -61,10 +61,8 @@ USER nodejs
 # Environment
 ENV NODE_ENV=production
 ENV DANISH_LAW_DB_PATH=/app/data/database.db
-ENV PORT=8080
+ENV PORT=3000
 
-EXPOSE 8080
+EXPOSE 3000
 
-# Default: HTTP server for remote deployment (Fly.io)
-# Override with "node dist/index.js" for stdio mode
-CMD ["node", "dist/serve.js"]
+CMD ["node", "dist/http-server.js"]
