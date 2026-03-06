@@ -26,6 +26,10 @@ interface DocRow {
 
 const ABBREVIATIONS: Record<string, string> = {
   // Example: 'DPA': 'data-protection-act-2019',
+  // Danish Data Protection Act (Databeskyttelsesloven) — consolidated 2024
+  'Databeskyttelsesloven': '2024:289',
+  'databeskyttelsesloven': '2024:289',
+  'DATABESKYTTELSESLOVEN': '2024:289',
 };
 
 // ---------------------------------------------------------------------------
