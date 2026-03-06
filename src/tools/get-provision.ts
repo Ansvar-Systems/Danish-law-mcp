@@ -4,6 +4,7 @@
 
 import type { Database } from '@ansvar/mcp-sqlite';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
+import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface GetProvisionInput {
@@ -58,6 +59,8 @@ export async function getProvision(
     throw new Error('document_id is required');
   }
 
+  const documentId = resolveDocumentId(db, input.document_id) ?? input.document_id;
+
   // If provision_ref is directly provided, use it
   let provisionRef = input.provision_ref;
   if (!provisionRef) {
@@ -75,7 +78,7 @@ export async function getProvision(
   // If no specific provision, return all provisions for the document
   if (!provisionRef) {
     return {
-      results: getAllProvisions(db, input.document_id, asOfDate),
+      results: getAllProvisions(db, documentId, asOfDate),
       _metadata: generateResponseMetadata(db)
     };
   }
@@ -104,7 +107,7 @@ export async function getProvision(
       ORDER BY COALESCE(lpv.valid_from, '0000-01-01') DESC, lpv.id DESC
       LIMIT 1
     `;
-    row = db.prepare(sql).get(input.document_id, provisionRef, asOfDate, asOfDate) as ProvisionRow | undefined;
+    row = db.prepare(sql).get(documentId, provisionRef, asOfDate, asOfDate) as ProvisionRow | undefined;
   } else {
     const sql = `
       SELECT
@@ -123,7 +126,7 @@ export async function getProvision(
       JOIN legal_documents ld ON ld.id = lp.document_id
       WHERE lp.document_id = ? AND lp.provision_ref = ?
     `;
-    row = db.prepare(sql).get(input.document_id, provisionRef) as ProvisionRow | undefined;
+    row = db.prepare(sql).get(documentId, provisionRef) as ProvisionRow | undefined;
   }
 
   if (!row) {
@@ -137,7 +140,7 @@ export async function getProvision(
     SELECT target_document_id, target_provision_ref, ref_type
     FROM cross_references
     WHERE source_document_id = ? AND (source_provision_ref = ? OR source_provision_ref IS NULL)
-  `).all(input.document_id, provisionRef) as CrossRefResult[];
+  `).all(documentId, provisionRef) as CrossRefResult[];
 
   return {
     results: {
