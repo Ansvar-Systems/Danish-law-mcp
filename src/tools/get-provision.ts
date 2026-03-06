@@ -10,6 +10,7 @@ export interface GetProvisionInput {
   document_id: string;
   chapter?: string;
   section?: string;
+  article?: string;
   provision_ref?: string;
   as_of_date?: string;
 }
@@ -64,6 +65,8 @@ export async function getProvision(
       provisionRef = `${input.chapter}:${input.section}`;
     } else if (input.section) {
       provisionRef = input.section;
+    } else if (input.article) {
+      provisionRef = input.article;
     }
   }
 
