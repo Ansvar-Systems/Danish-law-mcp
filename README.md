@@ -40,14 +40,14 @@ This MCP server makes Danish law **searchable, cross-referenceable, and AI-reada
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://danish-law-mcp.fly.dev/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-dk/mcp`
 
 > **Note:** This server is hosted on Fly.io rather than Vercel because the database (1.6 GB) exceeds Vercel's 50 MB deployment limit. The endpoint is otherwise identical in behaviour to other Ansvar Law MCP servers.
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add danish-law --transport http https://danish-law-mcp.fly.dev/mcp` |
+| **Claude Code** | `claude mcp add danish-law --transport http https://mcp.ansvar.eu/law-dk/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -58,7 +58,7 @@ This MCP server makes Danish law **searchable, cross-referenceable, and AI-reada
   "mcpServers": {
     "danish-law": {
       "type": "url",
-      "url": "https://danish-law-mcp.fly.dev/mcp"
+      "url": "https://mcp.ansvar.eu/law-dk/mcp"
     }
   }
 }
@@ -71,7 +71,7 @@ This MCP server makes Danish law **searchable, cross-referenceable, and AI-reada
   "github.copilot.chat.mcp.servers": {
     "danish-law": {
       "type": "http",
-      "url": "https://danish-law-mcp.fly.dev/mcp"
+      "url": "https://mcp.ansvar.eu/law-dk/mcp"
     }
   }
 }
