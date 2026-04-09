@@ -601,6 +601,7 @@ async function ingestCaseLaw(limit?: number): Promise<void> {
     log('');
     log('Optimizing database...');
     db.pragma('wal_checkpoint(TRUNCATE)');
+    db.pragma('journal_mode = DELETE');  // WASM SQLite compat: switch from WAL before closing
     db.exec('ANALYZE');
 
   } finally {
