@@ -26,6 +26,7 @@ import { getProvisionEUBasis, GetProvisionEUBasisInput } from './get-provision-e
 import { validateEUCompliance, ValidateEUComplianceInput } from './validate-eu-compliance.js';
 import { getAbout, type AboutContext } from './about.js';
 export type { AboutContext } from './about.js';
+import { generateResponseMetadata } from '../utils/metadata.js';
 
 const LIST_SOURCES_TOOL: Tool = {
   name: 'list_sources',
@@ -297,7 +298,7 @@ export function registerTools(
           break;
         case 'about':
           if (context) {
-            result = getAbout(db, context);
+            result = { ...getAbout(db, context), _metadata: generateResponseMetadata(db) };
           } else {
             return {
               content: [{ type: 'text', text: 'About tool not configured.' }],
@@ -332,6 +333,7 @@ export function registerTools(
             ],
             authenticity_note:
               'All data is sourced from official public legal information services. Verify legal conclusions against current official publications on Retsinformation and Lovtidende.',
+            _metadata: generateResponseMetadata(db),
           };
           break;
         default:

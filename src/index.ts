@@ -38,6 +38,7 @@ import { searchEUImplementations, SearchEUImplementationsInput } from './tools/s
 import { getProvisionEUBasis, GetProvisionEUBasisInput } from './tools/get-provision-eu-basis.js';
 import { validateEUCompliance, ValidateEUComplianceInput } from './tools/validate-eu-compliance.js';
 import { getAbout } from './tools/about.js';
+import { generateResponseMetadata } from './utils/metadata.js';
 import {
   detectCapabilities,
   readDbMetadata,
@@ -248,11 +249,9 @@ Essential for understanding legislative intent behind statutory provisions.`,
 Parses the citation, checks that the document and provision exist, and returns warnings about status (repealed, amended). This is the zero-hallucination enforcer.
 
 Supported formats:
-  - "document 2018:218 1 kap. 1 §"
-  - "2018:218 1:1"
-  - "Prop. 2017/18:105"
-  - "SOU 2017:39"
-  - "NJA 2020 s. 45"`,
+  - "2018:502"
+  - "2018:502 1:3"
+  - "2018:502 2 kap. 5 §"`,
     inputSchema: {
       type: 'object',
       properties: {
@@ -739,10 +738,11 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
           ],
           authenticity_note:
             'All data is sourced from official public legal information services. Verify legal conclusions against current official publications on Retsinformation and Lovtidende.',
+          _metadata: generateResponseMetadata(getDb()),
         };
         break;
       case 'about':
-        result = getAbout(getDb(), aboutContext);
+        result = { ...getAbout(getDb(), aboutContext), _metadata: generateResponseMetadata(getDb()) };
         break;
       default:
         return {
