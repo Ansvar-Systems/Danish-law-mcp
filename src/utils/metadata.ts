@@ -181,4 +181,7 @@ export interface ToolResponse<T> {
 
   /** Professional-use metadata and warnings */
   _metadata: ResponseMetadata;
+
+  /** Citation metadata for deterministic citation pipeline */
+  _citation?: import('./citation.js').CitationMetadata;
 }
