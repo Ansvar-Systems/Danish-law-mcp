@@ -6,9 +6,14 @@
 # - main: pushes :latest and :sha-XXXXXXX tags
 # - dev:  pushes :dev and :sha-XXXXXXX tags
 #
-# Watchtower on the Hetzner prod server polls GHCR every 6 hours and
-# automatically restarts containers when a new :latest image is detected.
-# No manual deploy step needed.
+# After a successful main-branch build, this workflow also POSTs to
+# Watchtower's /v1/update HTTP API on the Hetzner prod server, which
+# triggers an immediate scan + restart for any mcp-scope container with a
+# new :latest image. This makes prod swap within seconds of merge instead
+# of waiting up to 1h for the next periodic poll. The kick is best-effort
+# (continue-on-error) — if the secret is missing or the endpoint is down,
+# the existing hourly poll remains as a safety net. Same pattern as
+# ansvar-mcp-gateway/.github/workflows/deploy.yml.
 #
 # DATABASE PROVISIONING:
 # If the Dockerfile COPYs a .db file and that file is missing, empty, or an
@@ -144,6 +149,31 @@ jobs:
           platforms: linux/amd64
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+      - name: Trigger Watchtower update on prod
+        if: success() && github.ref == 'refs/heads/main'
+        continue-on-error: true
+        env:
+          WATCHTOWER_TOKEN: ${{ secrets.WATCHTOWER_HTTP_API_TOKEN }}
+        run: |
+          if [ -z "$WATCHTOWER_TOKEN" ]; then
+            echo "WATCHTOWER_HTTP_API_TOKEN not set — skipping kick. Prod will swap on next hourly Watchtower poll."
+            echo "To enable near-instant deploys, add this secret to the repo (value lives in /opt/ansvar/prod/mcp/watchtower/.env on the prod host)."
+            exit 0
+          fi
+          echo "Kicking Watchtower /v1/update..."
+          HTTP=$(curl -X POST -sS -o /tmp/watchtower-response \
+            -H "Authorization: Bearer $WATCHTOWER_TOKEN" \
+            -w "%{http_code}" \
+            https://watchtower.ansvar.eu/v1/update) || HTTP="000"
+          echo "Response code: $HTTP"
+          head -c 500 /tmp/watchtower-response 2>/dev/null || true
+          echo
+          if [ "$HTTP" = "200" ]; then
+            echo "OK: Watchtower scan triggered — prod should swap law-danish within seconds."
+          else
+            echo "WARN: Watchtower kick returned HTTP $HTTP. Hourly poll will swap eventually."
+          fi
 
       - name: Summary
         if: always()
