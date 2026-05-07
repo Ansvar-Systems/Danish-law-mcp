@@ -89,13 +89,27 @@ jobs:
               exit 1
             fi
 
-            echo "Downloading database.db.gz from release $TAG..."
+            echo "Downloading *.db.gz from release $TAG..."
             mkdir -p data
-            if gh release download "$TAG" -p "database.db.gz" -D data/ 2>/dev/null; then
-              gunzip -f data/database.db.gz
-              echo "OK: Downloaded $(du -sh data/database.db | cut -f1) from release $TAG"
+            # Match any .db.gz asset; some MCPs publish database.db.gz, others publish <name>-free.db.gz
+            if gh release download "$TAG" -p "*.db.gz" -D data/ 2>/dev/null; then
+              for gz in data/*.db.gz; do
+                [ -e "$gz" ] || continue
+                gunzip -f "$gz"
+              done
+              # Normalize to data/database.db so the Dockerfile COPY succeeds regardless of asset naming
+              if [ ! -f data/database.db ]; then
+                first_db=$(ls data/*.db 2>/dev/null | head -1)
+                [ -n "$first_db" ] && mv "$first_db" data/database.db
+              fi
+              if [ -f data/database.db ]; then
+                echo "OK: $(du -sh data/database.db | cut -f1) from release $TAG"
+              else
+                echo "ERROR: archive downloaded but no .db file produced"
+                exit 1
+              fi
             else
-              echo "ERROR: Could not download database.db.gz from release $TAG"
+              echo "ERROR: Could not download *.db.gz from release $TAG"
               exit 1
             fi
           done
