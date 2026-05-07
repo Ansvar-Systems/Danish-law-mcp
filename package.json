@@ -46,12 +46,12 @@
     "postinstall": "test -d dist || npm run build || true"
   },
   "dependencies": {
-    "@ansvar/mcp-sqlite": "^1.0.3",
+    "@ansvar/mcp-sqlite": "^1.0.5",
     "@modelcontextprotocol/sdk": "^1.25.3",
     "better-sqlite3": "^12.6.2"
   },
   "devDependencies": {
-    "better-sqlite3": "npm:@ansvar/mcp-sqlite@^1.0.3",
+    "better-sqlite3": "npm:@ansvar/mcp-sqlite@^1.0.5",
     "@types/jsdom": "^21.1.7",
     "@types/node": "^22.15.29",
     "@vercel/node": "^5.6.3",
