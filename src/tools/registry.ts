@@ -25,6 +25,7 @@ import { searchEUImplementations, SearchEUImplementationsInput } from './search-
 import { getProvisionEUBasis, GetProvisionEUBasisInput } from './get-provision-eu-basis.js';
 import { validateEUCompliance, ValidateEUComplianceInput } from './validate-eu-compliance.js';
 import { getAbout, type AboutContext } from './about.js';
+import { checkDataFreshness } from './check-data-freshness.js';
 export type { AboutContext } from './about.js';
 import { generateResponseMetadata } from '../utils/metadata.js';
 
@@ -44,6 +45,18 @@ const ABOUT_TOOL: Tool = {
   description:
     'Server metadata, dataset statistics, freshness, and provenance. ' +
     'Call this to verify data coverage, currency, and content basis before relying on results.',
+  inputSchema: {
+    type: 'object',
+    properties: {},
+  },
+};
+
+const CHECK_DATA_FRESHNESS_TOOL: Tool = {
+  name: 'check_data_freshness',
+  description:
+    'Returns the corpus build timestamp and per-source last_verified dates with staleness_days against a 90-day threshold. ' +
+    'Use this to verify whether the data backing this MCP is current before relying on it for compliance work. ' +
+    'For full source provenance, use list_sources; for server statistics, use about.',
   inputSchema: {
     type: 'object',
     properties: {},
@@ -235,7 +248,9 @@ Specify the document ID and either chapter+section or provision_ref directly.`,
 ];
 
 export function buildTools(context?: AboutContext): Tool[] {
-  return context ? [...TOOLS, ABOUT_TOOL, LIST_SOURCES_TOOL] : [...TOOLS, LIST_SOURCES_TOOL];
+  return context
+    ? [...TOOLS, ABOUT_TOOL, LIST_SOURCES_TOOL, CHECK_DATA_FRESHNESS_TOOL]
+    : [...TOOLS, LIST_SOURCES_TOOL, CHECK_DATA_FRESHNESS_TOOL];
 }
 
 export function registerTools(
@@ -335,6 +350,9 @@ export function registerTools(
               'All data is sourced from official public legal information services. Verify legal conclusions against current official publications on Retsinformation and Lovtidende.',
             _metadata: generateResponseMetadata(db),
           };
+          break;
+        case 'check_data_freshness':
+          result = checkDataFreshness(db);
           break;
         default:
           return {
