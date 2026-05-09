@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import { createHash } from 'node:crypto';
-import { existsSync, readFileSync, rmdirSync, rmSync } from 'node:fs';
+import { existsSync, readFileSync, rmdirSync, rmSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { Client } from '@modelcontextprotocol/sdk/client/index.js';
@@ -135,12 +135,17 @@ const isNightly = process.env['CONTRACT_MODE'] === 'nightly';
 
 const dbPath =
   process.env['DANISH_LAW_DB_PATH'] ?? join(__dirname, '..', '..', 'data', 'database.db');
-const dbAvailable = existsSync(dbPath);
+// Tighten existence check to also reject 0-byte stubs. Release-pattern
+// (manifest db_release_path) provisions the real DB at GHCR build time;
+// locally + in PR-CI the file may be missing or an intentional 0-byte
+// stub until `npm run build:db` populates it. Per memory
+// feedback_contract_test_skip_on_empty_db_2026_05_07.md.
+const dbAvailable = existsSync(dbPath) && statSync(dbPath).size > 1024;
 
 if (!dbAvailable) {
   // eslint-disable-next-line no-console
   console.warn(
-    `[contract] Skipping contract tests: database not found at ${dbPath}. ` +
+    `[contract] Skipping contract tests: database not usable at ${dbPath} (missing or <=1024 bytes). ` +
       `Run 'npm run ingest' to build it, or download the release artifact.`,
   );
 }
