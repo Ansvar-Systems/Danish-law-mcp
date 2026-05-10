@@ -27,6 +27,7 @@ RUN npm ci --omit=dev --ignore-scripts && npm cache clean --force
 
 COPY --from=builder --chown=nodejs:nodejs /app/dist ./dist
 COPY --chown=nodejs:nodejs data/database.db ./data/database.db
+COPY --chown=nodejs:nodejs sources.yml ./sources.yml
 
 # Ensure /app/data exists and is writable by the runtime user.
 # SQLite needs to write -wal/-shm sidecars in the DB directory.
