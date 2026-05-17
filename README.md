@@ -1,8 +1,54 @@
 # Danish Law MCP Server
 
+<!-- ANSVAR-CTA-BEGIN -->
+> ### ▶ Try this MCP instantly via Ansvar Gateway
+> **50 free queries/day · no card required · OAuth signup at [ansvar.eu/gateway](https://ansvar.eu/gateway)**
+>
+> One endpoint, one OAuth signup, access from any MCP-compatible client.
+
+### Connect
+
+**Claude Code** (one line):
+
+```bash
+claude mcp add ansvar --transport http https://gateway.ansvar.eu/mcp
+```
+
+**Claude Desktop / Cursor** — add to `claude_desktop_config.json` (or `mcp.json`):
+
+```json
+{
+  "mcpServers": {
+    "ansvar": {
+      "type": "url",
+      "url": "https://gateway.ansvar.eu/mcp"
+    }
+  }
+}
+```
+
+**Claude.ai** — Settings → Connectors → Add custom connector → paste `https://gateway.ansvar.eu/mcp`
+
+First request opens an OAuth flow at [ansvar.eu/gateway](https://ansvar.eu/gateway). After signup, your client is bound to your account; tier (free / premium / team / company) determines fan-out, quota, and which downstream MCPs are reachable.
+
+---
+
+## Self-host this MCP
+
+You can also clone this repo and build the corpus yourself. The schema,
+fetcher, and tool implementations all live here. What is not in the repo is
+the pre-built database — TDM and standards-licensing constraints on the
+upstream sources mean we host the corpus on Ansvar infrastructure rather
+than redistribute it as a public artifact.
+
+Build your own: run this repo's ingestion script (entry-point varies per
+repo — typically `scripts/ingest.sh`, `npm run ingest`, or `make ingest`;
+check the repo root).
+<!-- ANSVAR-CTA-END -->
+
+
 **The Retsinformation alternative for the AI age.**
 
-[![npm version](https://badge.fury.io/js/@ansvar%2Fdanish-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/danish-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Denmark-law-mcp?style=social)](https://github.com/Ansvar-Systems/Denmark-law-mcp)
@@ -33,84 +79,6 @@ Danish legal research means navigating retsinformation.dk, cross-referencing bet
 This MCP server makes Danish law **searchable, cross-referenceable, and AI-readable**.
 
 ---
-
-## Quick Start
-
-### Use Remotely (No Install Needed)
-
-> Connect directly to the hosted version -- zero dependencies, nothing to install.
-
-**Endpoint:** `https://mcp.ansvar.eu/law-dk/mcp`
-
-> **Note:** This server is hosted on Fly.io rather than Vercel because the database (1.6 GB) exceeds Vercel's 50 MB deployment limit. The endpoint is otherwise identical in behaviour to other Ansvar Law MCP servers.
-
-| Client | How to Connect |
-|--------|---------------|
-| **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add danish-law --transport http https://mcp.ansvar.eu/law-dk/mcp` |
-| **Claude Desktop** | Add to config (see below) |
-| **GitHub Copilot** | Add to VS Code settings (see below) |
-
-**Claude Desktop** -- add to `claude_desktop_config.json`:
-
-```json
-{
-  "mcpServers": {
-    "danish-law": {
-      "type": "url",
-      "url": "https://mcp.ansvar.eu/law-dk/mcp"
-    }
-  }
-}
-```
-
-**GitHub Copilot** -- add to VS Code `settings.json`:
-
-```json
-{
-  "github.copilot.chat.mcp.servers": {
-    "danish-law": {
-      "type": "http",
-      "url": "https://mcp.ansvar.eu/law-dk/mcp"
-    }
-  }
-}
-```
-
-### Use Locally (npm)
-
-```bash
-npx @ansvar/danish-law-mcp
-```
-
-**Claude Desktop** -- add to `claude_desktop_config.json`:
-
-**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
-**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
-
-```json
-{
-  "mcpServers": {
-    "danish-law": {
-      "command": "npx",
-      "args": ["-y", "@ansvar/danish-law-mcp"]
-    }
-  }
-}
-```
-
-**Cursor / VS Code:**
-
-```json
-{
-  "mcp.servers": {
-    "danish-law": {
-      "command": "npx",
-      "args": ["-y", "@ansvar/danish-law-mcp"]
-    }
-  }
-}
-```
 
 ## Example Queries
 
@@ -372,38 +340,9 @@ npm run drift:detect                       # Run drift detection
 
 ---
 
-## Related Projects: Complete Compliance Suite
+## More Ansvar MCPs
 
-This server is part of **Ansvar's Compliance Suite** -- MCP servers that work together for end-to-end compliance coverage:
-
-### [@ansvar/eu-regulations-mcp](https://github.com/Ansvar-Systems/EU_compliance_MCP)
-**Query 49 EU regulations directly from Claude** -- GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS, and more. Full regulatory text with article-level search. `npx @ansvar/eu-regulations-mcp`
-
-### @ansvar/danish-law-mcp (This Project)
-**Query 62,764 Danish laws directly from Claude** -- Databeskyttelsesloven, Straffeloven, Selskabsloven, Forvaltningsloven, Konkurrenceretten, and more. Full provision text with EU cross-references. `npx @ansvar/danish-law-mcp`
-
-### [@ansvar/swedish-law-mcp](https://github.com/Ansvar-Systems/swedish-law-mcp)
-**Query Swedish statutes directly from Claude** -- DSL, BrB, ABL, and more. Full provision text with EU cross-references. `npx @ansvar/swedish-law-mcp`
-
-### [@ansvar/norwegian-law-mcp](https://github.com/Ansvar-Systems/Norway-law-mcp)
-**Query Norwegian legislation directly from Claude** -- Lovdata corpus with EU EEA cross-references. `npx @ansvar/norwegian-law-mcp`
-
-### [@ansvar/us-regulations-mcp](https://github.com/Ansvar-Systems/US_Compliance_MCP)
-**Query US federal and state compliance laws** -- HIPAA, CCPA, SOX, GLBA, FERPA, and more. `npx @ansvar/us-regulations-mcp`
-
-### [@ansvar/ot-security-mcp](https://github.com/Ansvar-Systems/ot-security-mcp)
-**Query IEC 62443, NIST 800-82/53, and MITRE ATT&CK for ICS** -- Specialized for OT/ICS environments. `npx @ansvar/ot-security-mcp`
-
-### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
-**Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
-
-### [@ansvar/sanctions-mcp](https://github.com/Ansvar-Systems/Sanctions-MCP)
-**Offline-capable sanctions screening** -- OFAC, EU, UN sanctions lists. `pip install ansvar-sanctions-mcp`
-
-**70+ national law MCPs** covering Australia, Belgium, Brazil, Canada, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Kenya, Netherlands, Nigeria, Norway, Poland, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
-
----
-
+Full fleet at [ansvar.eu/gateway](https://ansvar.eu/gateway).
 ## Contributing
 
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
@@ -423,9 +362,7 @@ Priority areas:
 - [x] **EU law integration** -- Danish statute transposition cross-references
 - [x] **Premium tier** -- case law (3,918 rulings) and preparatory works (4,412 documents)
 - [x] **Fly.io deployment** -- 1.6 GB database hosted on Fly.io
-- [x] **npm package publication** -- `@ansvar/danish-law-mcp`
 - [ ] Court case law expansion (Byretter full archives)
-- [ ] Full EU text integration (via @ansvar/eu-regulations-mcp)
 - [ ] Historical statute versions (amendment tracking)
 - [ ] English translations for key statutes
 - [ ] Web API for programmatic access
