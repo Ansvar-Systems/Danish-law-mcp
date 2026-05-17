@@ -208,7 +208,7 @@ All content is sourced from authoritative Danish legal databases:
 | **Authority** | Danish Ministry of Justice / Retsinformation |
 | **Retrieval method** | Bulk download from retsinformation.dk API |
 | **Language** | Danish (primary) |
-| **License** | Open data (retsinformation.dk) |
+| **License** | `DK-Statutory-PD` — Danish statutory public domain (Ophavsretsloven §9) |
 | **Coverage** | All 62,764 consolidated Danish laws |
 | **Last ingested** | 2026-02-22 |
 
@@ -391,9 +391,9 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Laws & Statutory Orders:** Danish Ministry of Justice via retsinformation.dk (open data)
-- **Case Law:** Højesteret and Landsretter (Danish court system)
-- **EU Metadata:** EUR-Lex (EU public domain)
+- **Laws & Statutory Orders:** `DK-Statutory-PD` — Danish statutory public domain. Ophavsretsloven §9 excludes laws, administrative orders, regulations, court decisions, and similar acts issued by a public authority from copyright protection. Verified verbatim 2026-05-17 — see [`docs/audits/2026-05-17-eu-copyright-statutory-works-batch-1a-AT-BE-DK-FI-FR.md`](https://github.com/Ansvar-Systems/Ansvar-Architecture-Documentation/blob/main/docs/audits/2026-05-17-eu-copyright-statutory-works-batch-1a-AT-BE-DK-FI-FR.md). Catalog entry: `DK-Statutory-PD` in `infrastructure/attribution-licenses.json`.
+- **Case Law:** Højesteret and Landsretter — same statutory basis (Ophavsretsloven §9 court-decision clause)
+- **EU Metadata:** EUR-Lex (EU public domain, Decision 2011/833/EU)
 
 ---
 

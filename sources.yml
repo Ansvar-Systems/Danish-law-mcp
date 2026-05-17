@@ -1,3 +1,11 @@
+# sources.yml — Data provenance metadata
+# License axis: DK-Statutory-PD (Danish statutory public domain)
+# Statutory basis: Ophavsretsloven §9 — laws, administrative orders,
+# regulations, court decisions, and similar acts of public authority are
+# excluded from copyright protection. Verified verbatim 2026-05-17.
+# Cross-ref: docs/audits/2026-05-17-eu-copyright-statutory-works-batch-1a-AT-BE-DK-FI-FR.md
+# Catalog entry: infrastructure/attribution-licenses.json → "DK-Statutory-PD"
+
 schema_version: '1.0'
 mcp_name: 'Danish Law MCP'
 jurisdiction: 'DK'
@@ -13,9 +21,9 @@ sources:
     last_ingested: '2026-02-14'
     last_verified: '2026-05-09'
     license_or_terms:
-      type: 'Government Open Data'
-      url: 'https://www.retsinformation.dk/offentliggoerelser/LDA-ophavsret'
-      summary: 'Danish legislation is public domain; free to use'
+      type: 'DK-Statutory-PD'
+      url: 'https://www.retsinformation.dk/eli/lta/2023/1093'
+      summary: 'Danish statutory public domain (Ophavsretsloven §9). Laws, administrative orders, regulations, court decisions, and similar acts issued by a public authority are excluded from copyright protection. Statute-level basis on the underlying text.'
     coverage:
       scope: 'Danish statutes (love, bekendtgørelser, cirkulærer)'
       limitations: 'Historical consolidations depend on Retsinformation coverage'
