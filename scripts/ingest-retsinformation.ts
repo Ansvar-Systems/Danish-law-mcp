@@ -14,6 +14,43 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath, pathToFileURL } from 'url';
 import { XMLParser } from 'fast-xml-parser';
+import {
+  extractVersionIdentity,
+  mapSeedStatus,
+  type VersionIdentity,
+  type SeedStatus,
+} from './lib/version-identity.js';
+import { stampIngestMeta, type SeedIngestMeta } from './lib/refresh-policy.js';
+import { fetchWithRetry } from './lib/http-retry.js';
+
+/**
+ * Positive evidence that the document is gone upstream (HTTP 404/410).
+ * Distinct from transient failures, which retry and then THROW a plain
+ * Error — a flaky network must never be classified as "document gone".
+ */
+export class GoneUpstreamError extends Error {
+  readonly httpStatus: number;
+  constructor(url: string, httpStatus: number) {
+    super(`document gone upstream: HTTP ${httpStatus} for ${url}`);
+    this.name = 'GoneUpstreamError';
+    this.httpStatus = httpStatus;
+  }
+}
+
+export interface IngestOptions {
+  fetchImpl?: typeof fetch;
+  /** ISO timestamp stamped as _ingest.retrieved_at; defaults to now. */
+  now?: string;
+  /** ISO 'YYYY-MM-DD' used for status date logic; defaults to today. */
+  today?: string;
+}
+
+export interface IngestResult {
+  seedId: string;
+  outputPath: string;
+  status: SeedStatus;
+  identity: VersionIdentity;
+}
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -155,18 +192,6 @@ function inferId(year: unknown, number: unknown, fallback: string): string {
   return fallback;
 }
 
-function inferStatus(rawStatus: unknown, startDate?: string, endDate?: string): SeedOutput['status'] {
-  const statusText = String(rawStatus ?? '').toLowerCase();
-  const today = new Date().toISOString().slice(0, 10);
-
-  if (startDate && startDate > today) return 'not_yet_in_force';
-  if (endDate && endDate < today) return 'repealed';
-  if (statusText.includes('valid') || statusText.includes('gældende')) return 'in_force';
-  if (statusText.includes('amend')) return 'amended';
-
-  return 'in_force';
-}
-
 function inferType(shortName: string): SeedOutput['type'] {
   const upper = shortName.toUpperCase();
 
@@ -184,8 +209,9 @@ function normalizeHref(href: string): string {
     .replace(/^https:\/\/retsinformation\.dk/i, 'https://www.retsinformation.dk');
 }
 
-async function fetchJson<T>(url: string): Promise<T> {
-  const response = await fetch(url, {
+async function fetchJson<T>(url: string, fetchImpl?: typeof fetch): Promise<T> {
+  const response = await fetchWithRetry(url, {
+    fetchImpl,
     headers: {
       Accept: 'application/json',
       'User-Agent': USER_AGENT,
@@ -199,14 +225,23 @@ async function fetchJson<T>(url: string): Promise<T> {
   return (await response.json()) as T;
 }
 
-async function fetchText(url: string): Promise<string> {
-  const response = await fetch(url, {
+/**
+ * Fetch a document XML payload. Transient failures retry and then THROW
+ * (plain Error); HTTP 404/410 raise GoneUpstreamError — the only statuses
+ * that count as positive gone-evidence.
+ */
+async function fetchDocumentXml(url: string, fetchImpl?: typeof fetch): Promise<string> {
+  const response = await fetchWithRetry(url, {
+    fetchImpl,
     headers: {
       Accept: 'application/xml,text/xml,*/*',
       'User-Agent': USER_AGENT,
     },
   });
 
+  if (response.status === 404 || response.status === 410) {
+    throw new GoneUpstreamError(url, response.status);
+  }
   if (!response.ok) {
     throw new Error(`HTTP ${response.status} for ${url}`);
   }
@@ -214,7 +249,7 @@ async function fetchText(url: string): Promise<string> {
   return response.text();
 }
 
-async function resolveDocument(identifier: string): Promise<RemoteDocument> {
+async function resolveDocument(identifier: string, fetchImpl?: typeof fetch): Promise<RemoteDocument> {
   if (/^https?:\/\//i.test(identifier)) {
     return {
       documentId: 'unknown',
@@ -226,7 +261,10 @@ async function resolveDocument(identifier: string): Promise<RemoteDocument> {
 
   // Try documentId endpoint first
   try {
-    return await fetchJson<RemoteDocument>(`${API_BASE}/Documents/${encodeURIComponent(identifier)}`);
+    return await fetchJson<RemoteDocument>(
+      `${API_BASE}/Documents/${encodeURIComponent(identifier)}`,
+      fetchImpl,
+    );
   } catch {
     // Fall through
   }
@@ -342,11 +380,18 @@ function buildDefaultOutputPath(seedId: string): string {
   return path.join(DEFAULT_SEED_DIR, `${toAsciiKey(seedId)}.json`);
 }
 
-export async function ingest(identifier: string, outputPath?: string): Promise<void> {
+export async function ingest(
+  identifier: string,
+  outputPath?: string,
+  opts: IngestOptions = {},
+): Promise<IngestResult> {
+  const now = opts.now ?? new Date().toISOString();
+  const today = opts.today ?? now.slice(0, 10);
+
   console.log('Retsinformation Ingestion');
   console.log(`  Identifier: ${identifier}`);
 
-  const remoteDoc = await resolveDocument(identifier);
+  const remoteDoc = await resolveDocument(identifier, opts.fetchImpl);
   const href = remoteDoc.href ? normalizeHref(remoteDoc.href) : undefined;
 
   if (!href) {
@@ -355,7 +400,7 @@ export async function ingest(identifier: string, outputPath?: string): Promise<v
 
   console.log(`  XML source: ${href}`);
 
-  const xml = await fetchText(href);
+  const xml = await fetchDocumentXml(href, opts.fetchImpl);
 
   const parser = new XMLParser({
     ignoreAttributes: false,
@@ -377,38 +422,57 @@ export async function ingest(identifier: string, outputPath?: string): Promise<v
   const title = normalizeWhitespace(extractText(meta.DocumentTitle)) || 'Untitled Retsinformation document';
   const shortName = normalizeWhitespace(extractText(meta.DocumentType));
   const issuedDate = parseIsoDate(meta.DiesSigni);
-  const startDate = parseIsoDate(meta.StartDate);
-  const endDate = parseIsoDate(meta.EndDate);
   const documentId = normalizeWhitespace(extractText(meta.DocumentId)) || remoteDoc.documentId || 'unknown';
-  const accession = normalizeWhitespace(extractText(meta.AccessionNumber)) || remoteDoc.accessionsnummer || identifier;
   const seedId = inferId(meta.Year, meta.Number, documentId);
+
+  // Version identity of the served consolidation (issue #89). Status mapping
+  // is explicit and THROWS on unknown vocabulary — no seed is written then.
+  const identity = extractVersionIdentity(meta);
+  if (!identity.document_id) identity.document_id = documentId;
+  if (!identity.accession && remoteDoc.accessionsnummer && remoteDoc.accessionsnummer !== identifier) {
+    identity.accession = remoteDoc.accessionsnummer;
+  }
+  const status = mapSeedStatus(identity, today);
+  const startDate = identity.start_date ?? undefined;
+  const endDate = identity.end_date ?? undefined;
+  const accession = identity.accession ?? identifier;
 
   const provisions = collectProvisions(documentNode);
   const definitions = extractDefinitions(provisions);
 
+  // valid_to only when validity actually ended (repealed): <EndDate> on a
+  // Valid document is the amended-through marker, not a validity end.
+  const validityEnd = status === 'repealed' ? identity.historic_marked ?? endDate ?? null : null;
+
   const provisionVersions = provisions.map((p): ProvisionVersionSeed => ({
     ...p,
     valid_from: startDate ?? issuedDate ?? null,
-    valid_to: endDate ?? null,
+    valid_to: validityEnd,
   }));
 
-  const seed: SeedOutput = {
+  // 'Ophævet <date>' is parsed by build-db.ts deriveDocumentValidityWindow
+  // to set the document validity end for superseded consolidations.
+  const repealNote = status === 'repealed' && validityEnd ? ` Ophævet ${validityEnd}.` : '';
+
+  const seedBody: SeedOutput = {
     id: seedId,
     type: inferType(shortName),
     title,
     title_en: undefined,
     short_name: shortName || undefined,
-    status: inferStatus(meta.Status, startDate, endDate),
+    status,
     issued_date: issuedDate,
     in_force_date: startDate,
     url: href,
     description: normalizeWhitespace(
-      `Retsinformation source. DocumentId=${documentId}; AccessionNumber=${accession}; Characters preserved in NFC; ASCII fallback used only for key/file generation.`,
+      `Retsinformation source. DocumentId=${documentId}; AccessionNumber=${accession};${repealNote} Characters preserved in NFC; ASCII fallback used only for key/file generation.`,
     ),
     provisions,
     provision_versions: provisionVersions,
     definitions,
   };
+
+  const seed: SeedOutput & { _ingest: SeedIngestMeta } = stampIngestMeta(seedBody, identity, status, now);
 
   const finalOutputPath = outputPath
     ? path.resolve(PROJECT_ROOT, outputPath)
@@ -419,7 +483,10 @@ export async function ingest(identifier: string, outputPath?: string): Promise<v
 
   console.log(`  Provisions extracted: ${seed.provisions.length}`);
   console.log(`  Definitions extracted: ${seed.definitions.length}`);
+  console.log(`  Status: ${status} (upstream: ${identity.upstream_status ?? 'n/a'}, end: ${identity.end_date ?? 'open'})`);
   console.log(`  Seed file written: ${path.relative(PROJECT_ROOT, finalOutputPath)}`);
+
+  return { seedId, outputPath: finalOutputPath, status, identity };
 }
 
 async function main(): Promise<void> {
