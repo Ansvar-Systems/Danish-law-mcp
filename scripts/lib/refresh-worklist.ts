@@ -73,11 +73,22 @@ export function buildWorklist(opts: {
  * documented self-heal path for unreadable seeds.
  */
 export function readHeldSeedId(seedPath: string): string | null {
+  let raw: string;
   try {
-    const seed = JSON.parse(fs.readFileSync(seedPath, 'utf-8')) as { id?: unknown };
+    raw = fs.readFileSync(seedPath, 'utf-8');
+  } catch (error) {
+    // Self-heal (null) is reserved for the never-held case. Any other fs
+    // failure (EACCES, EIO, EMFILE, ...) is transient/environmental: it must
+    // fail the item loudly, NOT disable the identity gate and authorize
+    // overwriting the held good seed (PR #90 round 3).
+    if ((error as NodeJS.ErrnoException).code === 'ENOENT') return null;
+    throw error;
+  }
+  try {
+    const seed = JSON.parse(raw) as { id?: unknown };
     return typeof seed.id === 'string' && seed.id.trim().length > 0 ? seed.id : null;
   } catch {
-    return null;
+    return null; // torn/invalid JSON: the documented self-heal class
   }
 }
 
@@ -91,7 +102,16 @@ export function readHeldSeedId(seedPath: string): string | null {
 export function quarantineGoneSeed(seedPath: string, quarantineDir: string): string | null {
   if (!fs.existsSync(seedPath)) return null;
   fs.mkdirSync(quarantineDir, { recursive: true });
-  const destPath = path.join(quarantineDir, path.basename(seedPath));
+  // Never overwrite earlier quarantine evidence: a second 404 for the same
+  // id (e.g. after an operator restore-by-copy) must not destroy the first
+  // quarantined copy (PR #90 round 3) — uniquify instead.
+  const base = path.basename(seedPath, '.json');
+  let destPath = path.join(quarantineDir, `${base}.json`);
+  let n = 1;
+  while (fs.existsSync(destPath)) {
+    destPath = path.join(quarantineDir, `${base}.gone-${n}.json`);
+    n += 1;
+  }
   fs.renameSync(seedPath, destPath);
   return destPath;
 }

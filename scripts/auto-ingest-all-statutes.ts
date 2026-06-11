@@ -176,14 +176,36 @@ export async function processWorklist(
     // prod-stable citation identity and must keep matching. A never-held or
     // unreadable seed has no held identity: the served id IS the identity.
     const heldId = item.seedExists ? readHeldSeedId(outputPath) : null;
+    // No held identity (fetch_new / torn seed): the URL-derived year:number
+    // is a shape-conditional expectation — enforced inside ingest() whenever
+    // the served id is year:number-shaped, so a redirect to a different
+    // modern document can never land under this item's filename (round 3).
+    const gateOpts =
+      heldId !== null ? { expectedId: heldId } : { urlDerivedId: item.id.replace('_', ':') };
 
     await sleepFn(options.delayMs);
     try {
-      const result = await ingestFn(
-        item.xmlUrl,
-        outputPath,
-        heldId !== null ? { expectedId: heldId } : {},
-      );
+      let result;
+      try {
+        result = await ingestFn(item.xmlUrl, outputPath, gateOpts);
+      } catch (error) {
+        // Quarantine removes law from the served corpus — that demands
+        // removal-grade evidence, not one unretried 404 (round 3):
+        //  - the sitemap LISTING the document contradicts "gone" outright;
+        //  - otherwise a single 404 gets one confirming probe after the
+        //    politeness delay; only a second 404 is gone-evidence.
+        if (error instanceof GoneUpstreamError && item.inSitemap) {
+          throw new Error(
+            `HTTP ${error.httpStatus} but the sitemap lists this document — contradictory evidence, treating as failure, seed kept`,
+          );
+        }
+        if (error instanceof GoneUpstreamError) {
+          await sleepFn(options.delayMs);
+          result = await ingestFn(item.xmlUrl, outputPath, gateOpts);
+        } else {
+          throw error;
+        }
+      }
       console.log(`${tag} OK ${item.decision} status=${result.status}`);
       stats.fetched += 1;
     } catch (error) {
@@ -195,7 +217,7 @@ export async function processWorklist(
           quarantined: quarantinedPath !== null,
         });
         console.error(
-          `${tag} GONE upstream (HTTP ${error.httpStatus})${
+          `${tag} GONE upstream (HTTP ${error.httpStatus}, confirmed by second probe)${
             quarantinedPath !== null
               ? ` — seed quarantined to ${path.relative(path.dirname(seedDir), quarantinedPath)}`
               : ' — no held seed'

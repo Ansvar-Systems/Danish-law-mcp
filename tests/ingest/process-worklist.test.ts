@@ -157,12 +157,19 @@ describe('processWorklist gone-upstream quarantine', () => {
     const seedPath = writeSeed(seedDir, '1993_1054', { id: '1993:1054', status: 'in_force' });
     const stats = newStats();
 
-    await processWorklist([item('1993_1054', 'refetch_unknown', true)], OPTS, stats, {
-      ingestFn: goneIngest,
-      seedDir,
-      quarantineDir,
-      sleepFn: noSleep,
-    });
+    // Round 3: quarantine demands removal-grade evidence — sitemap-absent
+    // AND a second confirming 404 (the goneIngest fake 404s consistently).
+    await processWorklist(
+      [{ ...item('1993_1054', 'refetch_unknown', true), inSitemap: false }],
+      OPTS,
+      stats,
+      {
+        ingestFn: goneIngest,
+        seedDir,
+        quarantineDir,
+        sleepFn: noSleep,
+      },
+    );
 
     expect(fs.existsSync(seedPath)).toBe(false); // no longer served
     const quarantined = path.join(quarantineDir, '1993_1054.json');
@@ -176,12 +183,17 @@ describe('processWorklist gone-upstream quarantine', () => {
     const { seedDir, quarantineDir } = tmpDirs();
     const stats = newStats();
 
-    await processWorklist([item('2026_999', 'fetch_new', false)], OPTS, stats, {
-      ingestFn: goneIngest,
-      seedDir,
-      quarantineDir,
-      sleepFn: noSleep,
-    });
+    await processWorklist(
+      [{ ...item('2026_999', 'fetch_new', false), inSitemap: false }],
+      OPTS,
+      stats,
+      {
+        ingestFn: goneIngest,
+        seedDir,
+        quarantineDir,
+        sleepFn: noSleep,
+      },
+    );
 
     expect(stats.goneUpstream).toEqual([{ id: '2026_999', httpStatus: 404, quarantined: false }]);
   });
@@ -203,5 +215,77 @@ describe('processWorklist skips', () => {
     expect(writes).toEqual([]);
     expect(stats.skipped).toBe(2);
     expect(stats.total).toBe(2);
+  });
+});
+
+describe('gone-evidence strengthening (PR #90 round 3)', () => {
+  // Round 2 escalated the gone consequence to corpus removal (quarantine)
+  // on a SINGLE unretried 404. Removal-grade evidence now requires: the
+  // sitemap must NOT list the document, and a second probe must confirm.
+  it('treats 404 on a sitemap-listed document as a FAILURE, never gone', async () => {
+    const { seedDir, quarantineDir } = tmpDirs();
+    const seedPath = writeSeed(seedDir, '1993_812', { id: '1993:812' });
+    const stats = newStats();
+    const it812 = { ...item('1993_812', 'refetch_unknown', true), inSitemap: true };
+    const ingestFn = async (): Promise<IngestResult> => {
+      throw new GoneUpstreamError('url', 404);
+    };
+    await processWorklist([it812], OPTS, stats, { seedDir, quarantineDir, ingestFn, sleepFn: noSleep });
+    expect(stats.goneUpstream).toHaveLength(0);
+    expect(stats.failed).toHaveLength(1);
+    expect(stats.failed[0].error).toMatch(/sitemap/i);
+    expect(fs.existsSync(seedPath)).toBe(true); // seed untouched
+  });
+
+  it('re-probes a sitemap-absent 404 once and quarantines only on a second 404', async () => {
+    const { seedDir, quarantineDir } = tmpDirs();
+    writeSeed(seedDir, '1993_813', { id: '1993:813' });
+    const stats = newStats();
+    const it813 = { ...item('1993_813', 'refetch_unknown', true), inSitemap: false };
+    let calls = 0;
+    const ingestFn = async (): Promise<IngestResult> => {
+      calls += 1;
+      throw new GoneUpstreamError('url', 404);
+    };
+    await processWorklist([it813], OPTS, stats, { seedDir, quarantineDir, ingestFn, sleepFn: noSleep });
+    expect(calls).toBe(2); // confirming probe happened
+    expect(stats.goneUpstream).toHaveLength(1);
+    expect(stats.failed).toHaveLength(0);
+  });
+
+  it('a transient 404 that succeeds on the confirming probe is fetched, not gone', async () => {
+    const { seedDir, quarantineDir } = tmpDirs();
+    writeSeed(seedDir, '1993_814', { id: '1993:814' });
+    const stats = newStats();
+    const it814 = { ...item('1993_814', 'refetch_unknown', true), inSitemap: false };
+    let calls = 0;
+    const ingestFn = async (): Promise<IngestResult> => {
+      calls += 1;
+      if (calls === 1) throw new GoneUpstreamError('url', 404);
+      return { seedId: '1993:814', status: 'in_force' } as IngestResult;
+    };
+    await processWorklist([it814], OPTS, stats, { seedDir, quarantineDir, ingestFn, sleepFn: noSleep });
+    expect(stats.fetched).toBe(1);
+    expect(stats.goneUpstream).toHaveLength(0);
+  });
+});
+
+describe('identity-gate coverage for unheld identities (PR #90 round 3)', () => {
+  // fetch_new items and unreadable-held seeds had NO identity verification:
+  // a redirect to a different document's XML wrote the wrong body under the
+  // item's filename. The URL-derived id is now passed as a shape-conditional
+  // expectation: enforced when the served id is year:number-shaped.
+  it('passes the URL-derived id when no held identity exists', async () => {
+    const { seedDir, quarantineDir } = tmpDirs();
+    const stats = newStats();
+    const itNew = { ...item('2026_100', 'fetch_new', false), inSitemap: true };
+    let seen: IngestOptions | undefined;
+    const ingestFn = async (_u: string, _o: string, opts: IngestOptions): Promise<IngestResult> => {
+      seen = opts;
+      return { seedId: '2026:100', status: 'in_force' } as IngestResult;
+    };
+    await processWorklist([itNew], OPTS, stats, { seedDir, quarantineDir, ingestFn, sleepFn: noSleep });
+    expect(seen?.urlDerivedId).toBe('2026:100');
+    expect(seen?.expectedId).toBeUndefined();
   });
 });

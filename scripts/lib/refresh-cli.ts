@@ -32,12 +32,18 @@ function flagValue(name: string, args: string[], i: number): string {
   return raw;
 }
 
-function intFlag(name: string, args: string[], i: number): number {
+function intFlag(name: string, args: string[], i: number, opts: { min?: number } = {}): number {
   const raw = flagValue(name, args, i);
   // Number(), not parseInt(): '500abc' must fail loud, not truncate to 500.
   const n = Number(raw);
   if (!Number.isFinite(n) || !Number.isInteger(n)) {
     throw new Error(`${name} must be a finite integer, got "${raw}"`);
+  }
+  if (opts.min !== undefined && n < opts.min) {
+    // 0/negative silently DISABLED limits downstream (applyLimit/sitemap
+    // truncation treat <=0 as "none") while the banner printed the value —
+    // a positive minimum keeps "no limit" an explicit omission, never a typo.
+    throw new Error(`${name} must be a positive integer (>= ${opts.min}), got "${raw}"`);
   }
   return n;
 }
@@ -73,7 +79,7 @@ export function parseRefreshArgs(args: string[]): CLIOptions {
 
     switch (arg) {
       case '--limit':
-        options.limit = intFlag('--limit', args, i++);
+        options.limit = intFlag('--limit', args, i++, { min: 1 });
         break;
       case '--year-start':
         options.yearStart = intFlag('--year-start', args, i++);
@@ -82,7 +88,7 @@ export function parseRefreshArgs(args: string[]): CLIOptions {
         options.yearEnd = intFlag('--year-end', args, i++);
         break;
       case '--max-pages':
-        options.maxPages = intFlag('--max-pages', args, i++);
+        options.maxPages = intFlag('--max-pages', args, i++, { min: 1 });
         break;
       case '--delay-ms':
         options.delayMs = intFlag('--delay-ms', args, i++);

@@ -15,7 +15,7 @@
 import * as fs from 'fs';
 
 export function writeFileAtomic(filePath: string, data: string): void {
-  const tmpPath = `${filePath}.tmp`;
+  const tmpPath = `${filePath}.${process.pid}.tmp`; // PID suffix: concurrent runs must not share a tmp file
   try {
     const fd = fs.openSync(tmpPath, 'w');
     try {

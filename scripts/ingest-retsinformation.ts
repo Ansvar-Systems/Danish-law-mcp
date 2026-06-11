@@ -73,6 +73,13 @@ export interface IngestOptions {
    * On mismatch ingest() throws IdentityMismatchError before any write.
    */
   expectedId?: string;
+  /**
+   * Shape-conditional identity expectation for items with no held identity
+   * (fetch_new / unreadable seed): enforced only when the SERVED id is
+   * year:number-shaped. Pre-1901 documents legitimately serve
+   * DocumentId-fallback ids, which cannot be URL-verified — those pass.
+   */
+  urlDerivedId?: string;
 }
 
 export interface IngestResult {
@@ -465,6 +472,14 @@ export async function ingest(
   // as what it is, not as unknown vocabulary.
   if (opts.expectedId !== undefined && seedId !== opts.expectedId) {
     throw new IdentityMismatchError(href, seedId, opts.expectedId);
+  }
+  if (
+    opts.expectedId === undefined &&
+    opts.urlDerivedId !== undefined &&
+    /^\d{4}:\d+$/u.test(seedId) &&
+    seedId !== opts.urlDerivedId
+  ) {
+    throw new IdentityMismatchError(href, seedId, opts.urlDerivedId);
   }
 
   // Version identity of the served consolidation (issue #89). Status mapping

@@ -92,3 +92,20 @@ describe('parseRefreshArgs — --skip-stamped-since', () => {
     );
   });
 });
+
+describe('positive-integer flags (PR #90 round 3)', () => {
+  // --limit 0 / negative silently DISABLED the limit (applyLimit treats
+  // falsy/<=0 as "no limit") while the banner printed "Limit: 0".
+  it.each([
+    ['--limit', '0'],
+    ['--limit', '-100'],
+    ['--max-pages', '0'],
+    ['--max-pages', '-1'],
+  ])('rejects %s %s loudly', (flag, value) => {
+    expect(() => parseRefreshArgs([flag, value])).toThrow(/positive/i);
+  });
+
+  it('still accepts positive values', () => {
+    expect(parseRefreshArgs(['--limit', '5']).limit).toBe(5);
+  });
+});

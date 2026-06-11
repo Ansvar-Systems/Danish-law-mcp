@@ -173,3 +173,47 @@ describe('applyLimit (PR #90 round 2)', () => {
     expect(applyLimit(decided, 0)).toEqual(decided);
   });
 });
+
+describe('readHeldSeedId — error discrimination (PR #90 round 3)', () => {
+  // Self-heal (null) is for missing/torn/id-less seeds ONLY. A transient fs
+  // error (EACCES/EIO/EMFILE) is none of those: returning null would disable
+  // the identity gate AND authorize overwriting the held good seed.
+  it('returns null for a missing seed (ENOENT — the never-held case)', () => {
+    expect(readHeldSeedId(path.join(tmpDir(), 'nope.json'))).toBeNull();
+  });
+
+  it('returns null for torn JSON (the documented self-heal class)', () => {
+    const dir = tmpDir();
+    const p = path.join(dir, 'torn.json');
+    fs.writeFileSync(p, '{"id": "AL0005');
+    expect(readHeldSeedId(p)).toBeNull();
+  });
+
+  it('THROWS on non-ENOENT fs errors instead of disabling the identity gate', () => {
+    const dir = tmpDir();
+    const p = path.join(dir, 'locked.json');
+    fs.writeFileSync(p, JSON.stringify({ id: 'AL000501' }));
+    fs.chmodSync(p, 0o000);
+    try {
+      expect(() => readHeldSeedId(p)).toThrow(/EACCES|permission/i);
+    } finally {
+      fs.chmodSync(p, 0o644);
+    }
+  });
+});
+
+describe('quarantineGoneSeed — evidence preservation (PR #90 round 3)', () => {
+  it('never overwrites an existing quarantined file — uniquifies instead', () => {
+    const dir = tmpDir();
+    const qdir = path.join(dir, 'seed-gone');
+    const seed = path.join(dir, '1993_812.json');
+    fs.mkdirSync(qdir, { recursive: true });
+    fs.writeFileSync(path.join(qdir, '1993_812.json'), '{"id":"run-1 evidence"}');
+    fs.writeFileSync(seed, '{"id":"run-2 copy"}');
+    const dest = quarantineGoneSeed(seed, qdir);
+    expect(dest).not.toBeNull();
+    expect(dest).not.toBe(path.join(qdir, '1993_812.json'));
+    expect(fs.readFileSync(path.join(qdir, '1993_812.json'), 'utf-8')).toContain('run-1 evidence');
+    expect(fs.readFileSync(dest as string, 'utf-8')).toContain('run-2 copy');
+  });
+});
