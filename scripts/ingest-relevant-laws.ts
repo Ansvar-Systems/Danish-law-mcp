@@ -1,5 +1,25 @@
 #!/usr/bin/env tsx
 /**
+ * DEPRECATED 2026-06-11 (PR #90 round 2, Dutch-law-mcp FORCE_LEGACY_INGEST
+ * pattern): this is Swedish-template residue. It imports ingest() from
+ * ingest-riksdagen.js (Riksdagen API code with silent in_force defaulting
+ * and NO _ingest stamping) and writes slug-named seeds that the refresh
+ * worklist's ^(\d{4})_(\d+)\.json$ regex can never see — unstamped,
+ * silently-in_force seeds that build-db serves but no sweep can ever
+ * self-heal. Use `npm run ingest:auto-all` / scripts/ingest-retsinformation.ts.
+ */
+if (process.env.FORCE_LEGACY_INGEST !== '1') {
+  console.error(
+    'DEPRECATED: this script writes unstamped, slug-named seeds via the Swedish Riksdagen ' +
+      'template — invisible to the refresh worklist and silently defaulted to in_force. ' +
+      'Use `npm run ingest:auto-all` (scripts/auto-ingest-all-statutes.ts) or ' +
+      'scripts/ingest-retsinformation.ts instead. ' +
+      'Set FORCE_LEGACY_INGEST=1 only if you understand the staleness consequences.',
+  );
+  process.exit(2);
+}
+
+/**
  * Bulk-ingest a curated set of high-relevance Danish statutes.
  *
  * Usage:

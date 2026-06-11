@@ -74,7 +74,8 @@ function textOf(node: unknown): string | null {
   return null;
 }
 
-function isoDateOf(node: unknown): string | null {
+/** Attribute-tolerant ISO date extraction (handles { '#text': ..., REFid } nodes). */
+export function isoDateOf(node: unknown): string | null {
   const text = textOf(node);
   if (!text) return null;
   const m = text.match(/\d{4}-\d{2}-\d{2}/);
@@ -94,7 +95,13 @@ export function extractVersionIdentity(meta: Record<string, unknown>): VersionId
   };
 }
 
-const IN_FORCE_STATUSES = new Set(['valid', 'gældende', 'gaeldende', 'gallende']);
+// Observed live (2026-06-10): 'Valid' and 'Historic'. The Danish-language
+// equivalents ('gældende', 'historisk') are kept as deliberate, real-word
+// mappings in case upstream localizes. NOTHING ELSE: pre-authorizing guessed
+// vocabulary ('gallende' — not a Danish word; 'gaeldende' — an ASCII fold
+// upstream has never served) is the same silent-default class issue #89
+// removed, moved into the accept-set. Unknown vocabulary THROWS below.
+const IN_FORCE_STATUSES = new Set(['valid', 'gældende']);
 const REPEALED_STATUSES = new Set(['historic', 'historisk']);
 
 /**

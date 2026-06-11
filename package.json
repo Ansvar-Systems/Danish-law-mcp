@@ -22,7 +22,6 @@
     "test:coverage": "vitest run --coverage",
     "ingest": "tsx scripts/ingest-retsinformation.ts",
     "ingest:document": "tsx scripts/ingest-retsinformation.ts",
-    "ingest:relevant": "tsx scripts/ingest-relevant-laws.ts",
     "ingest:auto-all": "node --import tsx scripts/auto-ingest-all-statutes.ts",
     "ingest:domsdatabasen": "node --import tsx scripts/ingest-domsdatabasen.ts",
     "ingest:folketinget": "node --import tsx scripts/ingest-folketinget.ts",

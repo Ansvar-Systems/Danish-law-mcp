@@ -21,11 +21,20 @@ export async function fetchWithRetry(
     attempts?: number;
     backoffMs?: number[];
     headers?: Record<string, string>;
+    /**
+     * Per-upstream politeness floor for the inter-attempt sleep (PR #90
+     * round 2): the default backoff ladder starts at 1s, which is UNDER the
+     * 2s start-to-start floor promised to retsinformation.dk — and re-hitting
+     * a 429 after 1s worsens throttling and burns the attempt budget.
+     * Every retry sleep becomes max(backoff slot, minDelayMs).
+     */
+    minDelayMs?: number;
   } = {},
 ): Promise<Response> {
   const fetchImpl = opts.fetchImpl ?? fetch;
   const attempts = opts.attempts ?? 4;
   const backoff = opts.backoffMs ?? DEFAULT_BACKOFF_MS;
+  const minDelayMs = opts.minDelayMs ?? 0;
   let lastProblem = 'unknown';
 
   for (let attempt = 1; attempt <= attempts; attempt++) {
@@ -41,7 +50,7 @@ export async function fetchWithRetry(
       lastProblem = err instanceof Error ? err.message : String(err);
     }
     if (attempt < attempts) {
-      await sleep(backoff[Math.min(attempt - 1, backoff.length - 1)] ?? 0);
+      await sleep(Math.max(backoff[Math.min(attempt - 1, backoff.length - 1)] ?? 0, minDelayMs));
     }
   }
   throw new Error(`fetch ${url} failed after ${attempts} attempts: ${lastProblem}`);

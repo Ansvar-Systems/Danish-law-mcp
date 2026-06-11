@@ -16,12 +16,14 @@ import { fileURLToPath, pathToFileURL } from 'url';
 import { XMLParser } from 'fast-xml-parser';
 import {
   extractVersionIdentity,
+  isoDateOf,
   mapSeedStatus,
   type VersionIdentity,
   type SeedStatus,
 } from './lib/version-identity.js';
 import { stampIngestMeta, type SeedIngestMeta } from './lib/refresh-policy.js';
 import { fetchWithRetry } from './lib/http-retry.js';
+import { writeFileAtomic } from './lib/atomic-write.js';
 
 /**
  * Positive evidence that the document is gone upstream (HTTP 404/410).
@@ -37,12 +39,40 @@ export class GoneUpstreamError extends Error {
   }
 }
 
+/**
+ * The URL served a document with a different identity than the caller
+ * expected (PR #90 round 2). Raised BEFORE any seed write — a body for a
+ * different document must never be written under the held statute's identity
+ * (Dutch-law-mcp ingest-bwb.ts ordering). The expected identity is the HELD
+ * seed's id (what we already serve), never a re-derived format.
+ */
+export class IdentityMismatchError extends Error {
+  readonly url: string;
+  readonly servedId: string;
+  readonly expectedId: string;
+  constructor(url: string, servedId: string, expectedId: string) {
+    super(
+      `identity mismatch: URL ${url} served document "${servedId}" but the held identity is ` +
+        `"${expectedId}" — refusing to write a different document's body under this seed`,
+    );
+    this.name = 'IdentityMismatchError';
+    this.url = url;
+    this.servedId = servedId;
+    this.expectedId = expectedId;
+  }
+}
+
 export interface IngestOptions {
   fetchImpl?: typeof fetch;
   /** ISO timestamp stamped as _ingest.retrieved_at; defaults to now. */
   now?: string;
   /** ISO 'YYYY-MM-DD' used for status date logic; defaults to today. */
   today?: string;
+  /**
+   * The identity the caller expects the URL to serve (the held seed's id).
+   * On mismatch ingest() throws IdentityMismatchError before any write.
+   */
+  expectedId?: string;
 }
 
 export interface IngestResult {
@@ -59,6 +89,12 @@ const DEFAULT_SEED_DIR = path.join(PROJECT_ROOT, 'data', 'seed');
 
 const API_BASE = 'https://api.retsinformation.dk/v1';
 const USER_AGENT = 'Danish-Law-MCP/1.0.0 (https://github.com/Ansvar-Systems/Denmark-law-mcp)';
+/**
+ * Politeness floor for retsinformation.dk: >= 2s start-to-start INCLUDING
+ * retries (the default backoff ladder starts at 1s and would re-hit a
+ * throttling upstream too fast).
+ */
+const RETRY_PACING_FLOOR_MS = 2_000;
 
 interface RemoteDocument {
   documentId: string;
@@ -125,12 +161,6 @@ function toAsciiKey(input: string): string {
 function asArray<T>(value: T | T[] | undefined | null): T[] {
   if (value == null) return [];
   return Array.isArray(value) ? value : [value];
-}
-
-function parseIsoDate(value: unknown): string | undefined {
-  if (typeof value !== 'string') return undefined;
-  const match = value.match(/\d{4}-\d{2}-\d{2}/);
-  return match?.[0];
 }
 
 function extractText(node: unknown): string {
@@ -212,6 +242,7 @@ function normalizeHref(href: string): string {
 async function fetchJson<T>(url: string, fetchImpl?: typeof fetch): Promise<T> {
   const response = await fetchWithRetry(url, {
     fetchImpl,
+    minDelayMs: RETRY_PACING_FLOOR_MS,
     headers: {
       Accept: 'application/json',
       'User-Agent': USER_AGENT,
@@ -233,6 +264,7 @@ async function fetchJson<T>(url: string, fetchImpl?: typeof fetch): Promise<T> {
 async function fetchDocumentXml(url: string, fetchImpl?: typeof fetch): Promise<string> {
   const response = await fetchWithRetry(url, {
     fetchImpl,
+    minDelayMs: RETRY_PACING_FLOOR_MS,
     headers: {
       Accept: 'application/xml,text/xml,*/*',
       'User-Agent': USER_AGENT,
@@ -421,9 +453,19 @@ export async function ingest(
 
   const title = normalizeWhitespace(extractText(meta.DocumentTitle)) || 'Untitled Retsinformation document';
   const shortName = normalizeWhitespace(extractText(meta.DocumentType));
-  const issuedDate = parseIsoDate(meta.DiesSigni);
+  // Attribute-tolerant like every other date field: <DiesSigni REFid=...>
+  // parses to an object and the old string-only parser yielded undefined.
+  const issuedDate = isoDateOf(meta.DiesSigni) ?? undefined;
   const documentId = normalizeWhitespace(extractText(meta.DocumentId)) || remoteDoc.documentId || 'unknown';
   const seedId = inferId(meta.Year, meta.Number, documentId);
+
+  // Identity gate BEFORE anything else (PR #90 round 2): a body for a
+  // different document must never be written under the held statute's
+  // identity. Checked before status mapping so a redirect surprise reports
+  // as what it is, not as unknown vocabulary.
+  if (opts.expectedId !== undefined && seedId !== opts.expectedId) {
+    throw new IdentityMismatchError(href, seedId, opts.expectedId);
+  }
 
   // Version identity of the served consolidation (issue #89). Status mapping
   // is explicit and THROWS on unknown vocabulary — no seed is written then.
@@ -479,7 +521,9 @@ export async function ingest(
     : buildDefaultOutputPath(seedId);
 
   fs.mkdirSync(path.dirname(finalOutputPath), { recursive: true });
-  fs.writeFileSync(finalOutputPath, `${JSON.stringify(seed, null, 2)}\n`, 'utf-8');
+  // Atomic replace: a kill mid-write must never destroy the held good seed
+  // or leave torn JSON (PR #90 round 2).
+  writeFileAtomic(finalOutputPath, `${JSON.stringify(seed, null, 2)}\n`);
 
   console.log(`  Provisions extracted: ${seed.provisions.length}`);
   console.log(`  Definitions extracted: ${seed.definitions.length}`);

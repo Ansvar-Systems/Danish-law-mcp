@@ -90,6 +90,20 @@ describe('mapSeedStatus', () => {
     );
   });
 
+  it('does not pre-authorize guessed vocabulary never observed upstream (PR #90 round 2)', () => {
+    // Observed live (2026-06-10): Valid / Historic. 'gallende' is not a Danish
+    // word and 'gaeldende' (ASCII fold) has never been served — accepting them
+    // is the same silent-default class issue #89 removed, moved into the
+    // accept-set. Unknown must THROW so the operator extends the mapping
+    // deliberately.
+    expect(() => mapSeedStatus({ ...base, upstream_status: 'Gallende' }, TODAY)).toThrow(
+      UnknownUpstreamStatusError,
+    );
+    expect(() => mapSeedStatus({ ...base, upstream_status: 'Gaeldende' }, TODAY)).toThrow(
+      UnknownUpstreamStatusError,
+    );
+  });
+
   it('THROWS when status is missing — dates alone prove nothing', () => {
     expect(() => mapSeedStatus({ ...base, upstream_status: null }, TODAY)).toThrow(
       UnknownUpstreamStatusError,

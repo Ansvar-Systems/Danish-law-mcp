@@ -8,23 +8,31 @@ import { describe, it, expect } from 'vitest';
 import * as fs from 'node:fs';
 import * as os from 'node:os';
 import * as path from 'node:path';
-import { ingest, GoneUpstreamError } from '../../scripts/ingest-retsinformation.js';
+import { ingest, GoneUpstreamError, IdentityMismatchError } from '../../scripts/ingest-retsinformation.js';
 
 const TODAY = '2026-06-10';
 const NOW = '2026-06-10T22:00:00Z';
 
-function docXml(opts: { status?: string; endDate?: string; startDate?: string }): string {
+function docXml(opts: {
+  status?: string;
+  endDate?: string;
+  startDate?: string;
+  year?: string;
+  number?: string;
+  documentId?: string;
+  diesSigniAttr?: boolean;
+}): string {
   return `<?xml version="1.0" encoding="utf-8"?>
 <Dokument id="d1">
   <Meta id="m1">
     <DocumentType>LBK H#LOKDOK03</DocumentType>
     <AccessionNumber>A20190024129</AccessionNumber>
-    <DocumentId>CK002013</DocumentId>
+    <DocumentId>${opts.documentId ?? 'CK002013'}</DocumentId>
     <UniqueDocumentId>207970</UniqueDocumentId>
     <DocumentTitle>Bekendtgørelse af lov om miljøbeskyttelse</DocumentTitle>
-    <Year>2019</Year>
-    <Number>241</Number>
-    <DiesSigni>2019-03-13</DiesSigni>
+    <Year>${opts.year ?? '2019'}</Year>
+    <Number>${opts.number ?? '241'}</Number>
+    ${opts.diesSigniAttr ? '<DiesSigni REFid="submit_1">2019-03-13</DiesSigni>' : '<DiesSigni>2019-03-13</DiesSigni>'}
     ${opts.startDate ? `<StartDate>${opts.startDate}</StartDate>` : ''}
     ${opts.endDate ? `<EndDate>${opts.endDate}</EndDate>` : ''}
     ${opts.status ? `<Status>${opts.status}</Status>` : ''}
@@ -145,5 +153,93 @@ describe('ingest version stamping', () => {
     expect(result.seedId).toBe('2019:241');
     expect(result.status).toBe('in_force');
     expect(result.identity.accession).toBe('A20190024129');
+  });
+
+  it('parses issued_date from an attribute-carrying DiesSigni node, like every other date field', async () => {
+    const out = tmpOut();
+    await ingest('https://www.retsinformation.dk/eli/lta/2019/241/xml', out, {
+      fetchImpl: fetchServing(docXml({ status: 'Valid', diesSigniAttr: true })),
+      now: NOW,
+      today: TODAY,
+    });
+    const seed = JSON.parse(fs.readFileSync(out, 'utf-8'));
+    expect(seed.issued_date).toBe('2019-03-13');
+  });
+
+  it('writes the seed atomically — no tmp sibling survives a successful write', async () => {
+    const out = tmpOut();
+    await ingest('https://www.retsinformation.dk/eli/lta/2019/241/xml', out, {
+      fetchImpl: fetchServing(docXml({ status: 'Valid' })),
+      now: NOW,
+      today: TODAY,
+    });
+    expect(fs.existsSync(out)).toBe(true);
+    expect(fs.readdirSync(path.dirname(out)).filter((f) => f.includes('.tmp'))).toEqual([]);
+  });
+});
+
+describe('ingest identity gate (write-before-check inversion, PR #90 round 2)', () => {
+  it('REFUSES before any write when the served document is not the expected identity', async () => {
+    const out = tmpOut();
+    // The held seed: the identity we already serve under this path.
+    fs.writeFileSync(out, '{"id":"1993:812","sentinel":"held-good-consolidation"}\n', 'utf-8');
+
+    await expect(
+      ingest('https://www.retsinformation.dk/eli/lta/1993/812/xml', out, {
+        fetchImpl: fetchServing(docXml({ status: 'Valid' })), // serves 2019:241
+        now: NOW,
+        today: TODAY,
+        expectedId: '1993:812',
+      }),
+    ).rejects.toThrow(IdentityMismatchError);
+
+    // A body for a different document must never be written under this
+    // statute's identity (Dutch-law-mcp ingest-bwb.ts ordering).
+    expect(fs.readFileSync(out, 'utf-8')).toBe(
+      '{"id":"1993:812","sentinel":"held-good-consolidation"}\n',
+    );
+  });
+
+  it('mismatch refusal fires even when the served status vocabulary is unknown — identity first', async () => {
+    const out = tmpOut();
+    await expect(
+      ingest('https://www.retsinformation.dk/eli/lta/1993/812/xml', out, {
+        fetchImpl: fetchServing(docXml({ status: 'Bortfaldet' })),
+        now: NOW,
+        today: TODAY,
+        expectedId: '1993:812',
+      }),
+    ).rejects.toThrow(IdentityMismatchError);
+    expect(fs.existsSync(out)).toBe(false);
+  });
+
+  it('writes when the served identity matches expectedId', async () => {
+    const out = tmpOut();
+    const result = await ingest('https://www.retsinformation.dk/eli/lta/2019/241/xml', out, {
+      fetchImpl: fetchServing(docXml({ status: 'Valid' })),
+      now: NOW,
+      today: TODAY,
+      expectedId: '2019:241',
+    });
+    expect(result.seedId).toBe('2019:241');
+    expect(fs.existsSync(out)).toBe(true);
+  });
+
+  it('pre-1901 statutes keep their prod-stable DocumentId fallback id — issued citations must not break', async () => {
+    const out = tmpOut();
+    // CITATION-IDENTITY CONSTRAINT: the pre-fix corpus already serves these
+    // documents under DocumentId-fallback ids (AL000501 etc.). The id must
+    // stay the fallback, and a held-id expectation of that fallback passes.
+    const result = await ingest('https://www.retsinformation.dk/eli/lta/1852/11000/xml', out, {
+      fetchImpl: fetchServing(
+        docXml({ status: 'Valid', year: '1852', number: '11000', documentId: 'AL000501' }),
+      ),
+      now: NOW,
+      today: TODAY,
+      expectedId: 'AL000501',
+    });
+    expect(result.seedId).toBe('AL000501');
+    const seed = JSON.parse(fs.readFileSync(out, 'utf-8'));
+    expect(seed.id).toBe('AL000501');
   });
 });

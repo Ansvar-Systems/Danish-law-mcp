@@ -1,11 +1,11 @@
 #!/usr/bin/env tsx
 /**
  * Automated bulk ingestion + corpus refresh for Danish laws from
- * Retsinformation (issue #89).
+ * Retsinformation (issue #89; hardened in PR #90 round 2).
  *
  * Source flow:
  *   sitemap.xml -> /eli/lta/{year}/{number} URLs (UNION with held seeds)
- *   -> /xml payload -> stamped seed JSON
+ *   -> /xml payload -> identity-checked, atomically written, stamped seed
  *
  * Modes:
  *   default      additive: only documents without a seed are fetched
@@ -16,12 +16,22 @@
  * Fail-loud contract:
  *   - transient fetch failures retry with backoff, then count as FAILED —
  *     never as "document gone"; the run continues and exits 2 at the end.
- *   - HTTP 404/410 is positive gone-evidence: enumerated in the report,
- *     seed kept, exit code unaffected.
- *   - every failed/gone document is enumerated in the JSON report.
+ *   - HTTP 404/410 is positive gone-evidence: the held seed is QUARANTINED
+ *     to data/seed-gone/ (rename, never delete — it must not keep flowing
+ *     into builds as current law), enumerated in the report, exit code
+ *     unaffected.
+ *   - identity gate: a held seed is refetched ONLY under its own held id —
+ *     ingest() refuses (no write) if the URL serves a different document.
+ *   - a sitemap yielding zero pages or zero entries FAILS the run instead
+ *     of degrading to a seeds-only sweep.
+ *   - every failed/gone document is enumerated in the run-stamped JSON
+ *     report; a run-start MARKER file is written at startup and a partial
+ *     report is written on SIGINT/SIGTERM, so an interrupted run's
+ *     --skip-stamped-since cutoff is always recoverable.
  *
- * Politeness: >= 2s start-to-start pacing against retsinformation.dk; one
- * request in flight at a time.
+ * Politeness: >= 2s start-to-start pacing against retsinformation.dk
+ * INCLUDING retries; one request in flight at a time. Enforced for
+ * --dry-run too (dry runs still fetch live sitemap pages).
  *
  * Usage:
  *   node --import tsx scripts/auto-ingest-all-statutes.ts
@@ -30,99 +40,46 @@
  *     --skip-stamped-since 2026-06-11T00:00:00Z   # resume interrupted run
  *   node --import tsx scripts/auto-ingest-all-statutes.ts --limit 500 --dry-run
  *
- * Exit codes: 0 = complete; 1 = fatal; 2 = partial (failures enumerated).
+ * Exit codes: 0 = complete; 1 = fatal; 2 = partial (failures enumerated);
+ * 130/143 = interrupted (SIGINT/SIGTERM, partial report written).
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { fileURLToPath } from 'url';
+import { fileURLToPath, pathToFileURL } from 'url';
 import { ingest, GoneUpstreamError } from './ingest-retsinformation.js';
 import { decideFetch, type SeedIngestMeta } from './lib/refresh-policy.js';
-import { buildWorklist, summarizeRun, type SitemapEntry, type WorkItem, type RunStats } from './lib/refresh-worklist.js';
+import {
+  applyLimit,
+  buildWorklist,
+  quarantineGoneSeed,
+  readHeldSeedId,
+  summarizeRun,
+  type WorkItem,
+  type RunStats,
+} from './lib/refresh-worklist.js';
 import { fetchWithRetry } from './lib/http-retry.js';
+import { parseRefreshArgs, REQUEST_DELAY_MS, type CLIOptions } from './lib/refresh-cli.js';
+import { collectSitemapEntries } from './lib/sitemap.js';
+import {
+  buildReportPath,
+  makeInterruptHandler,
+  writeReport,
+  writeRunMarker,
+} from './lib/run-report.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SITEMAP_INDEX_URL = 'https://www.retsinformation.dk/sitemap.xml';
 const OUTPUT_DIR = path.resolve(__dirname, '../data/seed');
+const QUARANTINE_DIR = path.resolve(__dirname, '../data/seed-gone');
 const REPORT_DIR = path.resolve(__dirname, '../reports');
-/** Politeness floor for retsinformation.dk: 2s start-to-start, sequential. */
-const REQUEST_DELAY_MS = 2_000;
 const USER_AGENT = 'Danish-Law-MCP/1.0.0 (bulk-ingest)';
-
-interface CLIOptions {
-  limit?: number;
-  yearStart?: number;
-  yearEnd?: number;
-  dryRun: boolean;
-  refresh: boolean;
-  skipStampedSince?: string;
-  maxPages?: number;
-  delayMs: number;
-  reportPath?: string;
-}
-
-function parseArgs(): CLIOptions {
-  const args = process.argv.slice(2);
-  const options: CLIOptions = {
-    dryRun: false,
-    refresh: false,
-    delayMs: REQUEST_DELAY_MS,
-  };
-
-  for (let i = 0; i < args.length; i++) {
-    const arg = args[i];
-
-    switch (arg) {
-      case '--limit':
-        options.limit = Number.parseInt(args[++i], 10);
-        break;
-      case '--year-start':
-        options.yearStart = Number.parseInt(args[++i], 10);
-        break;
-      case '--year-end':
-        options.yearEnd = Number.parseInt(args[++i], 10);
-        break;
-      case '--max-pages':
-        options.maxPages = Number.parseInt(args[++i], 10);
-        break;
-      case '--delay-ms':
-        options.delayMs = Number.parseInt(args[++i], 10);
-        break;
-      case '--dry-run':
-        options.dryRun = true;
-        break;
-      case '--refresh':
-        options.refresh = true;
-        break;
-      case '--skip-stamped-since':
-        options.skipStampedSince = args[++i];
-        break;
-      case '--report':
-        options.reportPath = args[++i];
-        break;
-      case '--no-skip':
-        // Legacy alias: a full refetch regardless of stamps is --refresh
-        // without --skip-stamped-since.
-        options.refresh = true;
-        break;
-      default:
-        throw new Error(`Unknown argument: ${arg}`);
-    }
-  }
-
-  if (options.delayMs < REQUEST_DELAY_MS && !options.dryRun) {
-    throw new Error(
-      `--delay-ms ${options.delayMs} is below the ${REQUEST_DELAY_MS}ms politeness floor for retsinformation.dk`,
-    );
-  }
-
-  return options;
-}
 
 async function fetchText(url: string): Promise<string> {
   const response = await fetchWithRetry(url, {
+    minDelayMs: REQUEST_DELAY_MS,
     headers: {
       Accept: 'application/xml,text/xml,*/*',
       'User-Agent': USER_AGENT,
@@ -136,85 +93,14 @@ async function fetchText(url: string): Promise<string> {
   return response.text();
 }
 
-function extractSitemapLocs(xml: string): string[] {
-  const locs: string[] = [];
-  const pattern = /<loc>([^<]+)<\/loc>/g;
-
-  for (const match of xml.matchAll(pattern)) {
-    const url = match[1]?.trim();
-    if (url) locs.push(url);
-  }
-
-  return locs;
-}
-
-function extractUrlEntries(xml: string): Array<{ loc: string; lastmod?: string }> {
-  const entries: Array<{ loc: string; lastmod?: string }> = [];
-  const pattern = /<url>\s*<loc>([^<]+)<\/loc>\s*(?:<lastmod>([^<]+)<\/lastmod>)?\s*<\/url>/g;
-
-  for (const match of xml.matchAll(pattern)) {
-    const loc = match[1]?.trim();
-    if (!loc) continue;
-
-    entries.push({
-      loc,
-      lastmod: match[2]?.trim(),
-    });
-  }
-
-  return entries;
-}
-
-function parseLawIdFromUrl(url: string): { year: number; number: number } | null {
-  const match = url.match(/\/eli\/lta\/(\d{4})\/(\d+)$/u);
-  if (!match) return null;
-
-  const year = Number.parseInt(match[1], 10);
-  const number = Number.parseInt(match[2], 10);
-
-  if (!Number.isFinite(year) || !Number.isFinite(number)) {
+function readSeedMeta(seedPath: string): SeedIngestMeta | null {
+  try {
+    const seed = JSON.parse(fs.readFileSync(seedPath, 'utf-8')) as { _ingest?: SeedIngestMeta };
+    return seed._ingest ?? null;
+  } catch {
+    // Unreadable seed == unstamped seed: it self-heals via refetch_unknown.
     return null;
   }
-
-  return { year, number };
-}
-
-async function collectSitemapEntries(options: CLIOptions): Promise<SitemapEntry[]> {
-  console.log('Fetching sitemap index...');
-  const indexXml = await fetchText(SITEMAP_INDEX_URL);
-  let sitemapPages = extractSitemapLocs(indexXml).filter(url => /sitemap\.xml\?page=\d+$/u.test(url));
-
-  if (options.maxPages && options.maxPages > 0) {
-    sitemapPages = sitemapPages.slice(0, options.maxPages);
-  }
-
-  console.log(`Sitemap pages to scan: ${sitemapPages.length}`);
-
-  const entries = new Map<string, SitemapEntry>();
-
-  for (let i = 0; i < sitemapPages.length; i++) {
-    const pageUrl = sitemapPages[i];
-    console.log(`  [${i + 1}/${sitemapPages.length}] ${pageUrl}`);
-
-    await sleep(options.delayMs);
-    const pageXml = await fetchText(pageUrl);
-
-    for (const entry of extractUrlEntries(pageXml)) {
-      const parsed = parseLawIdFromUrl(entry.loc);
-      if (!parsed) continue;
-
-      if (options.yearStart && parsed.year < options.yearStart) continue;
-      if (options.yearEnd && parsed.year > options.yearEnd) continue;
-
-      const id = `${parsed.year}_${parsed.number}`;
-      const existing = entries.get(id);
-      if (!existing || ((entry.lastmod ?? '') > (existing.lastmod ?? ''))) {
-        entries.set(id, { id, url: entry.loc, lastmod: entry.lastmod ?? null });
-      }
-    }
-  }
-
-  return [...entries.values()];
 }
 
 function getExistingSeedIds(): Set<string> {
@@ -238,38 +124,34 @@ function getExistingSeedIds(): Set<string> {
   return existing;
 }
 
-function readSeedMeta(id: string): SeedIngestMeta | null {
-  const seedPath = path.join(OUTPUT_DIR, `${id}.json`);
-  try {
-    const seed = JSON.parse(fs.readFileSync(seedPath, 'utf-8')) as { _ingest?: SeedIngestMeta };
-    return seed._ingest ?? null;
-  } catch {
-    // Unreadable seed == unstamped seed: it self-heals via refetch_unknown.
-    return null;
-  }
-}
-
 async function sleep(ms: number): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-interface DecidedItem extends WorkItem {
+export interface DecidedItem extends WorkItem {
   decision: ReturnType<typeof decideFetch>;
 }
 
-async function processWorklist(
-  work: DecidedItem[],
-  options: CLIOptions,
-): Promise<RunStats> {
-  const stats: RunStats = {
-    total: work.length,
-    fetched: 0,
-    skipped: 0,
-    failed: [],
-    goneUpstream: [],
-  };
+export interface ProcessDeps {
+  ingestFn?: typeof ingest;
+  seedDir?: string;
+  quarantineDir?: string;
+  sleepFn?: (ms: number) => Promise<void>;
+}
 
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+export async function processWorklist(
+  work: DecidedItem[],
+  options: Pick<CLIOptions, 'dryRun' | 'delayMs'>,
+  stats: RunStats,
+  deps: ProcessDeps = {},
+): Promise<void> {
+  const ingestFn = deps.ingestFn ?? ingest;
+  const seedDir = deps.seedDir ?? OUTPUT_DIR;
+  const quarantineDir = deps.quarantineDir ?? QUARANTINE_DIR;
+  const sleepFn = deps.sleepFn ?? sleep;
+
+  stats.total = work.length;
+  fs.mkdirSync(seedDir, { recursive: true });
 
   for (let i = 0; i < work.length; i++) {
     const item = work[i];
@@ -286,41 +168,53 @@ async function processWorklist(
       continue;
     }
 
-    const outputPath = path.join(OUTPUT_DIR, `${item.id}.json`);
+    const outputPath = path.join(seedDir, `${item.id}.json`);
 
-    await sleep(options.delayMs);
+    // Identity gate expectation: the identity we ALREADY SERVE (the held
+    // seed's id) — never a re-derived format. Pre-1901 statutes legitimately
+    // carry DocumentId-fallback ids (AL000501, CM016392, ...): those are the
+    // prod-stable citation identity and must keep matching. A never-held or
+    // unreadable seed has no held identity: the served id IS the identity.
+    const heldId = item.seedExists ? readHeldSeedId(outputPath) : null;
+
+    await sleepFn(options.delayMs);
     try {
-      const result = await ingest(item.xmlUrl, outputPath);
-      const expectedId = item.id.replace('_', ':');
-      if (result.seedId !== expectedId) {
-        // The URL served a document with a different identity than the URL
-        // claims — record loudly instead of leaving the held seed stale.
-        stats.failed.push({
-          id: item.id,
-          error: `identity mismatch: URL ${item.xmlUrl} served document ${result.seedId}`,
-        });
-        console.error(`${tag} FAIL identity mismatch: served ${result.seedId}`);
-        continue;
-      }
+      const result = await ingestFn(
+        item.xmlUrl,
+        outputPath,
+        heldId !== null ? { expectedId: heldId } : {},
+      );
       console.log(`${tag} OK ${item.decision} status=${result.status}`);
       stats.fetched += 1;
     } catch (error) {
       if (error instanceof GoneUpstreamError) {
-        stats.goneUpstream.push({ id: item.id, httpStatus: error.httpStatus });
-        console.error(`${tag} GONE upstream (HTTP ${error.httpStatus}) — seed kept`);
+        const quarantinedPath = quarantineGoneSeed(outputPath, quarantineDir);
+        stats.goneUpstream.push({
+          id: item.id,
+          httpStatus: error.httpStatus,
+          quarantined: quarantinedPath !== null,
+        });
+        console.error(
+          `${tag} GONE upstream (HTTP ${error.httpStatus})${
+            quarantinedPath !== null
+              ? ` — seed quarantined to ${path.relative(path.dirname(seedDir), quarantinedPath)}`
+              : ' — no held seed'
+          }`,
+        );
         continue;
       }
+      // IdentityMismatchError lands here too: ingest() refused BEFORE any
+      // write, the held seed is untouched, and the message says exactly
+      // which document the URL served.
       const message = error instanceof Error ? error.message : String(error);
       stats.failed.push({ id: item.id, error: message });
       console.error(`${tag} FAIL ${message}`);
     }
   }
-
-  return stats;
 }
 
 async function run(): Promise<void> {
-  const options = parseArgs();
+  const options = parseRefreshArgs(process.argv.slice(2));
   const runStartedAt = new Date().toISOString();
   const today = runStartedAt.slice(0, 10);
 
@@ -334,7 +228,44 @@ async function run(): Promise<void> {
   console.log(`Dry run: ${options.dryRun ? 'YES' : 'NO'}`);
   console.log(`Delay per request: ${options.delayMs} ms\n`);
 
-  const sitemapEntries = await collectSitemapEntries(options);
+  const reportPath = buildReportPath(REPORT_DIR, runStartedAt, options.reportPath);
+
+  // Durable run-start marker: if this run dies without a report, the exact
+  // resume cutoff is recovered from here, not from a maybe-redirected stdout.
+  const markerPath = writeRunMarker(REPORT_DIR, {
+    run_started_at: runStartedAt,
+    mode: options.refresh ? 'refresh' : 'additive',
+    skip_stamped_since: options.skipStampedSince ?? null,
+    report_path: reportPath,
+    resume_command: `--refresh --skip-stamped-since ${runStartedAt}`,
+  });
+  console.log(`Run marker written: ${markerPath}`);
+
+  const stats: RunStats = { total: 0, fetched: 0, skipped: 0, failed: [], goneUpstream: [] };
+  let byDecision = new Map<string, number>();
+
+  const buildPayload = (extra: Record<string, unknown> = {}): Record<string, unknown> => ({
+    run_started_at: runStartedAt,
+    finished_at: new Date().toISOString(),
+    mode: options.refresh ? 'refresh' : 'additive',
+    options: { ...options },
+    decisions: Object.fromEntries(byDecision),
+    stats,
+    ...extra,
+  });
+
+  const onInterrupt = makeInterruptHandler({ reportPath, payload: () => buildPayload() });
+  process.once('SIGINT', () => onInterrupt('SIGINT'));
+  process.once('SIGTERM', () => onInterrupt('SIGTERM'));
+
+  const sitemapEntries = await collectSitemapEntries({
+    indexUrl: SITEMAP_INDEX_URL,
+    fetchText,
+    delayMs: options.delayMs,
+    maxPages: options.maxPages,
+    yearStart: options.yearStart,
+    yearEnd: options.yearEnd,
+  });
   console.log(`\nSitemap documents: ${sitemapEntries.length}`);
 
   const existingIds = getExistingSeedIds();
@@ -356,7 +287,7 @@ async function run(): Promise<void> {
     decision: decideFetch({
       seedExists: item.seedExists,
       refresh: options.refresh,
-      existingMeta: item.seedExists ? readSeedMeta(item.id) : null,
+      existingMeta: item.seedExists ? readSeedMeta(path.join(OUTPUT_DIR, `${item.id}.json`)) : null,
       skipStampedSince: options.skipStampedSince ?? null,
       today,
     }),
@@ -368,18 +299,17 @@ async function run(): Promise<void> {
   const rank = (d: DecidedItem): number => (d.decision === 'fetch_new' ? 0 : 1);
   decided.sort((a, b) => rank(a) - rank(b) || a.id.localeCompare(b.id));
 
-  let queue = decided;
-  if (options.limit && options.limit > 0) {
-    queue = decided.slice(0, options.limit);
-  }
+  // --limit budgets only items that actually fetch: skips pass through free
+  // so chunked resumes advance instead of reprocessing the stamped prefix.
+  const queue = applyLimit(decided, options.limit);
 
-  const byDecision = new Map<string, number>();
+  byDecision = new Map<string, number>();
   for (const item of queue) {
     byDecision.set(item.decision, (byDecision.get(item.decision) ?? 0) + 1);
   }
   console.log(`Worklist: ${queue.length} documents — ${[...byDecision.entries()].map(([k, v]) => `${k}=${v}`).join(', ')}\n`);
 
-  const stats = await processWorklist(queue, options);
+  await processWorklist(queue, options, stats);
   const summary = summarizeRun(stats);
 
   console.log('\n' + '='.repeat(72));
@@ -388,26 +318,7 @@ async function run(): Promise<void> {
   for (const line of summary.lines) console.log(line);
   console.log('='.repeat(72));
 
-  const reportPath = options.reportPath
-    ?? path.join(REPORT_DIR, `ingest-refresh-${runStartedAt.slice(0, 10)}.json`);
-  fs.mkdirSync(path.dirname(reportPath), { recursive: true });
-  fs.writeFileSync(
-    reportPath,
-    `${JSON.stringify(
-      {
-        run_started_at: runStartedAt,
-        finished_at: new Date().toISOString(),
-        mode: options.refresh ? 'refresh' : 'additive',
-        options: { ...options },
-        decisions: Object.fromEntries(byDecision),
-        stats,
-        exit_code: summary.exitCode,
-      },
-      null,
-      2,
-    )}\n`,
-    'utf-8',
-  );
+  writeReport(reportPath, buildPayload({ exit_code: summary.exitCode }));
   console.log(`Report written: ${reportPath}`);
 
   if (!options.dryRun && stats.fetched > 0) {
@@ -417,7 +328,15 @@ async function run(): Promise<void> {
   process.exit(summary.exitCode);
 }
 
-run().catch(error => {
-  console.error('Fatal error:', error instanceof Error ? error.message : String(error));
-  process.exit(1);
-});
+const isDirectRun = (() => {
+  const scriptArg = process.argv[1];
+  if (!scriptArg) return false;
+  return pathToFileURL(path.resolve(scriptArg)).href === import.meta.url;
+})();
+
+if (isDirectRun) {
+  run().catch(error => {
+    console.error('Fatal error:', error instanceof Error ? error.message : String(error));
+    process.exit(1);
+  });
+}

@@ -58,4 +58,28 @@ describe('fetchWithRetry', () => {
     expect(res.status).toBe(404);
     expect(f.calls()).toBe(1);
   });
+
+  it('retries respect a per-upstream pacing floor — backoff below the politeness floor is raised to it (PR #90 round 2)', async () => {
+    // The default backoff ladder starts at 1s; against retsinformation.dk the
+    // promised floor is 2s start-to-start INCLUDING retries. minDelayMs lifts
+    // every inter-attempt sleep to the floor.
+    const starts: number[] = [];
+    let i = 0;
+    const impl = (async () => {
+      starts.push(performance.now());
+      i += 1;
+      return new Response('x', { status: i < 3 ? 503 : 200 });
+    }) as unknown as typeof fetch;
+
+    const res = await fetchWithRetry('https://example.test/doc', {
+      fetchImpl: impl,
+      attempts: 3,
+      backoffMs: [1, 1],
+      minDelayMs: 200,
+    });
+    expect(res.status).toBe(200);
+    expect(starts).toHaveLength(3);
+    expect(starts[1] - starts[0]).toBeGreaterThanOrEqual(190);
+    expect(starts[2] - starts[1]).toBeGreaterThanOrEqual(190);
+  });
 });
