@@ -1,98 +1,85 @@
 #!/usr/bin/env tsx
 /**
- * Automated bulk ingestion of Danish laws from Retsinformation sitemap.
+ * Automated bulk ingestion + corpus refresh for Danish laws from
+ * Retsinformation (issue #89; hardened in PR #90 round 2).
  *
  * Source flow:
- *   sitemap.xml -> /eli/lta/{year}/{number} URLs -> /xml payload -> seed JSON
+ *   sitemap.xml -> /eli/lta/{year}/{number} URLs (UNION with held seeds)
+ *   -> /xml payload -> identity-checked, atomically written, stamped seed
+ *
+ * Modes:
+ *   default      additive: only documents without a seed are fetched
+ *   --refresh    version-keyed refresh: unstamped seeds self-heal
+ *                unconditionally; stamped seeds refetch unless proven
+ *                current (see scripts/lib/refresh-policy.ts)
+ *
+ * Fail-loud contract:
+ *   - transient fetch failures retry with backoff, then count as FAILED —
+ *     never as "document gone"; the run continues and exits 2 at the end.
+ *   - HTTP 404/410 is positive gone-evidence: the held seed is QUARANTINED
+ *     to data/seed-gone/ (rename, never delete — it must not keep flowing
+ *     into builds as current law), enumerated in the report, exit code
+ *     unaffected.
+ *   - identity gate: a held seed is refetched ONLY under its own held id —
+ *     ingest() refuses (no write) if the URL serves a different document.
+ *   - a sitemap yielding zero pages or zero entries FAILS the run instead
+ *     of degrading to a seeds-only sweep.
+ *   - every failed/gone document is enumerated in the run-stamped JSON
+ *     report; a run-start MARKER file is written at startup and a partial
+ *     report is written on SIGINT/SIGTERM, so an interrupted run's
+ *     --skip-stamped-since cutoff is always recoverable.
+ *
+ * Politeness: >= 2s start-to-start pacing against retsinformation.dk
+ * INCLUDING retries; one request in flight at a time. Enforced for
+ * --dry-run too (dry runs still fetch live sitemap pages).
  *
  * Usage:
  *   node --import tsx scripts/auto-ingest-all-statutes.ts
- *   node --import tsx scripts/auto-ingest-all-statutes.ts --limit 500
- *   node --import tsx scripts/auto-ingest-all-statutes.ts --year-start 2015 --year-end 2026
- *   node --import tsx scripts/auto-ingest-all-statutes.ts --dry-run
+ *   node --import tsx scripts/auto-ingest-all-statutes.ts --refresh
+ *   node --import tsx scripts/auto-ingest-all-statutes.ts --refresh \
+ *     --skip-stamped-since 2026-06-11T00:00:00Z   # resume interrupted run
+ *   node --import tsx scripts/auto-ingest-all-statutes.ts --limit 500 --dry-run
+ *
+ * Exit codes: 0 = complete; 1 = fatal; 2 = partial (failures enumerated);
+ * 130/143 = interrupted (SIGINT/SIGTERM, partial report written).
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { fileURLToPath } from 'url';
-import { ingest } from './ingest-retsinformation.js';
+import { fileURLToPath, pathToFileURL } from 'url';
+import { ingest, GoneUpstreamError } from './ingest-retsinformation.js';
+import { decideFetch, type SeedIngestMeta } from './lib/refresh-policy.js';
+import {
+  applyLimit,
+  buildWorklist,
+  quarantineGoneSeed,
+  readHeldSeedId,
+  summarizeRun,
+  type WorkItem,
+  type RunStats,
+} from './lib/refresh-worklist.js';
+import { fetchWithRetry } from './lib/http-retry.js';
+import { parseRefreshArgs, REQUEST_DELAY_MS, type CLIOptions } from './lib/refresh-cli.js';
+import { collectSitemapEntries } from './lib/sitemap.js';
+import {
+  buildReportPath,
+  makeInterruptHandler,
+  writeReport,
+  writeRunMarker,
+} from './lib/run-report.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SITEMAP_INDEX_URL = 'https://www.retsinformation.dk/sitemap.xml';
 const OUTPUT_DIR = path.resolve(__dirname, '../data/seed');
-const REQUEST_DELAY_MS = 350;
+const QUARANTINE_DIR = path.resolve(__dirname, '../data/seed-gone');
+const REPORT_DIR = path.resolve(__dirname, '../reports');
 const USER_AGENT = 'Danish-Law-MCP/1.0.0 (bulk-ingest)';
 
-interface CLIOptions {
-  limit?: number;
-  yearStart?: number;
-  yearEnd?: number;
-  dryRun: boolean;
-  skipExisting: boolean;
-  maxPages?: number;
-  delayMs: number;
-}
-
-interface LawEntry {
-  url: string;
-  year: number;
-  number: number;
-  lastmod?: string;
-}
-
-interface IngestionStats {
-  total: number;
-  skipped: number;
-  succeeded: number;
-  failed: number;
-  errors: Array<{ id: string; error: string }>;
-}
-
-function parseArgs(): CLIOptions {
-  const args = process.argv.slice(2);
-  const options: CLIOptions = {
-    dryRun: false,
-    skipExisting: true,
-    delayMs: REQUEST_DELAY_MS,
-  };
-
-  for (let i = 0; i < args.length; i++) {
-    const arg = args[i];
-
-    switch (arg) {
-      case '--limit':
-        options.limit = Number.parseInt(args[++i], 10);
-        break;
-      case '--year-start':
-        options.yearStart = Number.parseInt(args[++i], 10);
-        break;
-      case '--year-end':
-        options.yearEnd = Number.parseInt(args[++i], 10);
-        break;
-      case '--max-pages':
-        options.maxPages = Number.parseInt(args[++i], 10);
-        break;
-      case '--delay-ms':
-        options.delayMs = Number.parseInt(args[++i], 10);
-        break;
-      case '--dry-run':
-        options.dryRun = true;
-        break;
-      case '--no-skip':
-        options.skipExisting = false;
-        break;
-      default:
-        break;
-    }
-  }
-
-  return options;
-}
-
 async function fetchText(url: string): Promise<string> {
-  const response = await fetch(url, {
+  const response = await fetchWithRetry(url, {
+    minDelayMs: REQUEST_DELAY_MS,
     headers: {
       Accept: 'application/xml,text/xml,*/*',
       'User-Agent': USER_AGENT,
@@ -106,112 +93,14 @@ async function fetchText(url: string): Promise<string> {
   return response.text();
 }
 
-function extractSitemapLocs(xml: string): string[] {
-  const locs: string[] = [];
-  const pattern = /<loc>([^<]+)<\/loc>/g;
-
-  for (const match of xml.matchAll(pattern)) {
-    const url = match[1]?.trim();
-    if (url) locs.push(url);
-  }
-
-  return locs;
-}
-
-function extractUrlEntries(xml: string): Array<{ loc: string; lastmod?: string }> {
-  const entries: Array<{ loc: string; lastmod?: string }> = [];
-  const pattern = /<url>\s*<loc>([^<]+)<\/loc>(?:<lastmod>([^<]+)<\/lastmod>)?<\/url>/g;
-
-  for (const match of xml.matchAll(pattern)) {
-    const loc = match[1]?.trim();
-    if (!loc) continue;
-
-    entries.push({
-      loc,
-      lastmod: match[2]?.trim(),
-    });
-  }
-
-  return entries;
-}
-
-function isLtaUrl(url: string): boolean {
-  return /\/eli\/lta\/\d{4}\/\d+$/u.test(url);
-}
-
-function parseLawIdFromUrl(url: string): { year: number; number: number } | null {
-  const match = url.match(/\/eli\/lta\/(\d{4})\/(\d+)$/u);
-  if (!match) return null;
-
-  const year = Number.parseInt(match[1], 10);
-  const number = Number.parseInt(match[2], 10);
-
-  if (!Number.isFinite(year) || !Number.isFinite(number)) {
+function readSeedMeta(seedPath: string): SeedIngestMeta | null {
+  try {
+    const seed = JSON.parse(fs.readFileSync(seedPath, 'utf-8')) as { _ingest?: SeedIngestMeta };
+    return seed._ingest ?? null;
+  } catch {
+    // Unreadable seed == unstamped seed: it self-heals via refetch_unknown.
     return null;
   }
-
-  return { year, number };
-}
-
-function compareByLastmodDesc(a: LawEntry, b: LawEntry): number {
-  const aDate = a.lastmod ? Date.parse(a.lastmod) : 0;
-  const bDate = b.lastmod ? Date.parse(b.lastmod) : 0;
-
-  if (aDate !== bDate) return bDate - aDate;
-  if (a.year !== b.year) return b.year - a.year;
-  return b.number - a.number;
-}
-
-async function collectLawEntries(options: CLIOptions): Promise<LawEntry[]> {
-  console.log('Fetching sitemap index...');
-  const indexXml = await fetchText(SITEMAP_INDEX_URL);
-  let sitemapPages = extractSitemapLocs(indexXml).filter(url => /sitemap\.xml\?page=\d+$/u.test(url));
-
-  if (options.maxPages && options.maxPages > 0) {
-    sitemapPages = sitemapPages.slice(0, options.maxPages);
-  }
-
-  console.log(`Sitemap pages to scan: ${sitemapPages.length}`);
-
-  const lawMap = new Map<string, LawEntry>();
-
-  for (let i = 0; i < sitemapPages.length; i++) {
-    const pageUrl = sitemapPages[i];
-    console.log(`  [${i + 1}/${sitemapPages.length}] ${pageUrl}`);
-
-    const pageXml = await fetchText(pageUrl);
-    const entries = extractUrlEntries(pageXml);
-
-    for (const entry of entries) {
-      if (!isLtaUrl(entry.loc)) continue;
-
-      const parsed = parseLawIdFromUrl(entry.loc);
-      if (!parsed) continue;
-
-      if (options.yearStart && parsed.year < options.yearStart) continue;
-      if (options.yearEnd && parsed.year > options.yearEnd) continue;
-
-      const existing = lawMap.get(entry.loc);
-      if (!existing || ((entry.lastmod ?? '') > (existing.lastmod ?? ''))) {
-        lawMap.set(entry.loc, {
-          url: entry.loc,
-          year: parsed.year,
-          number: parsed.number,
-          lastmod: entry.lastmod,
-        });
-      }
-    }
-
-    await sleep(200);
-  }
-
-  const laws = [...lawMap.values()].sort(compareByLastmodDesc);
-
-  if (options.limit && options.limit > 0) {
-    return laws.slice(0, options.limit);
-  }
-
-  return laws;
 }
 
 function getExistingSeedIds(): Set<string> {
@@ -228,7 +117,7 @@ function getExistingSeedIds(): Set<string> {
     const year = match[1];
     const number = Number.parseInt(match[2], 10);
     if (Number.isFinite(number) && number > 0) {
-      existing.add(`${year}:${number}`);
+      existing.add(`${year}_${number}`);
     }
   }
 
@@ -239,106 +128,237 @@ async function sleep(ms: number): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function ingestBatch(
-  laws: LawEntry[],
-  options: CLIOptions,
-  existingIds: Set<string>,
-): Promise<IngestionStats> {
-  const stats: IngestionStats = {
-    total: laws.length,
-    skipped: 0,
-    succeeded: 0,
-    failed: 0,
-    errors: [],
-  };
-
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-
-  for (let i = 0; i < laws.length; i++) {
-    const law = laws[i];
-    const id = `${law.year}:${law.number}`;
-
-    if (options.skipExisting && existingIds.has(id)) {
-      console.log(`[${i + 1}/${laws.length}] SKIP ${id} (seed exists)`);
-      stats.skipped++;
-      continue;
-    }
-
-    const outputPath = path.join(OUTPUT_DIR, `${law.year}_${law.number}.json`);
-    const xmlUrl = `${law.url}/xml`;
-
-    if (options.dryRun) {
-      console.log(`[${i + 1}/${laws.length}] DRY RUN ${id} <- ${xmlUrl}`);
-      stats.succeeded++;
-      continue;
-    }
-
-    try {
-      await ingest(xmlUrl, outputPath);
-      console.log(`[${i + 1}/${laws.length}] OK ${id}`);
-      stats.succeeded++;
-      existingIds.add(id);
-    } catch (error) {
-      const message = error instanceof Error ? error.message : String(error);
-      console.error(`[${i + 1}/${laws.length}] FAIL ${id}: ${message}`);
-      stats.failed++;
-      stats.errors.push({ id, error: message });
-    }
-
-    if (options.delayMs > 0) {
-      await sleep(options.delayMs);
-    }
-  }
-
-  return stats;
+export interface DecidedItem extends WorkItem {
+  decision: ReturnType<typeof decideFetch>;
 }
 
-function printSummary(stats: IngestionStats, options: CLIOptions): void {
-  console.log('\n' + '='.repeat(72));
-  console.log('DANISH BULK INGEST SUMMARY');
-  console.log('='.repeat(72));
-  console.log(`Total candidates:        ${stats.total}`);
-  console.log(`Skipped existing:        ${stats.skipped}`);
-  console.log(`Ingested successfully:   ${stats.succeeded}`);
-  console.log(`Failed:                  ${stats.failed}`);
-  console.log(`Dry run:                 ${options.dryRun ? 'YES' : 'NO'}`);
-  console.log('='.repeat(72));
+export interface ProcessDeps {
+  ingestFn?: typeof ingest;
+  seedDir?: string;
+  quarantineDir?: string;
+  sleepFn?: (ms: number) => Promise<void>;
+}
 
-  if (stats.errors.length > 0) {
-    console.log('\nFailed items (first 50):');
-    for (const { id, error } of stats.errors.slice(0, 50)) {
-      console.log(`  - ${id}: ${error}`);
+export async function processWorklist(
+  work: DecidedItem[],
+  options: Pick<CLIOptions, 'dryRun' | 'delayMs'>,
+  stats: RunStats,
+  deps: ProcessDeps = {},
+): Promise<void> {
+  const ingestFn = deps.ingestFn ?? ingest;
+  const seedDir = deps.seedDir ?? OUTPUT_DIR;
+  const quarantineDir = deps.quarantineDir ?? QUARANTINE_DIR;
+  const sleepFn = deps.sleepFn ?? sleep;
+
+  stats.total = work.length;
+  fs.mkdirSync(seedDir, { recursive: true });
+
+  for (let i = 0; i < work.length; i++) {
+    const item = work[i];
+    const tag = `[${i + 1}/${work.length}] ${item.id}`;
+
+    if (item.decision === 'skip_existing' || item.decision === 'skip_current') {
+      stats.skipped += 1;
+      continue;
+    }
+
+    if (options.dryRun) {
+      console.log(`${tag} DRY RUN ${item.decision} <- ${item.xmlUrl}`);
+      stats.fetched += 1;
+      continue;
+    }
+
+    const outputPath = path.join(seedDir, `${item.id}.json`);
+
+    // Identity gate expectation: the identity we ALREADY SERVE (the held
+    // seed's id) — never a re-derived format. Pre-1901 statutes legitimately
+    // carry DocumentId-fallback ids (AL000501, CM016392, ...): those are the
+    // prod-stable citation identity and must keep matching. A never-held or
+    // unreadable seed has no held identity: the served id IS the identity.
+    const heldId = item.seedExists ? readHeldSeedId(outputPath) : null;
+    // No held identity (fetch_new / torn seed): the URL-derived year:number
+    // is a shape-conditional expectation — enforced inside ingest() whenever
+    // the served id is year:number-shaped, so a redirect to a different
+    // modern document can never land under this item's filename (round 3).
+    const gateOpts =
+      heldId !== null ? { expectedId: heldId } : { urlDerivedId: item.id.replace('_', ':') };
+
+    await sleepFn(options.delayMs);
+    try {
+      let result;
+      try {
+        result = await ingestFn(item.xmlUrl, outputPath, gateOpts);
+      } catch (error) {
+        // Quarantine removes law from the served corpus — that demands
+        // removal-grade evidence, not one unretried 404 (round 3):
+        //  - the sitemap LISTING the document contradicts "gone" outright;
+        //  - otherwise a single 404 gets one confirming probe after the
+        //    politeness delay; only a second 404 is gone-evidence.
+        if (error instanceof GoneUpstreamError && item.inSitemap) {
+          throw new Error(
+            `HTTP ${error.httpStatus} but the sitemap lists this document — contradictory evidence, treating as failure, seed kept`,
+          );
+        }
+        if (error instanceof GoneUpstreamError) {
+          await sleepFn(options.delayMs);
+          result = await ingestFn(item.xmlUrl, outputPath, gateOpts);
+        } else {
+          throw error;
+        }
+      }
+      console.log(`${tag} OK ${item.decision} status=${result.status}`);
+      stats.fetched += 1;
+    } catch (error) {
+      if (error instanceof GoneUpstreamError) {
+        const quarantinedPath = quarantineGoneSeed(outputPath, quarantineDir);
+        stats.goneUpstream.push({
+          id: item.id,
+          httpStatus: error.httpStatus,
+          quarantined: quarantinedPath !== null,
+        });
+        console.error(
+          `${tag} GONE upstream (HTTP ${error.httpStatus}, confirmed by second probe)${
+            quarantinedPath !== null
+              ? ` — seed quarantined to ${path.relative(path.dirname(seedDir), quarantinedPath)}`
+              : ' — no held seed'
+          }`,
+        );
+        continue;
+      }
+      // IdentityMismatchError lands here too: ingest() refused BEFORE any
+      // write, the held seed is untouched, and the message says exactly
+      // which document the URL served.
+      const message = error instanceof Error ? error.message : String(error);
+      stats.failed.push({ id: item.id, error: message });
+      console.error(`${tag} FAIL ${message}`);
     }
   }
 }
 
 async function run(): Promise<void> {
-  const options = parseArgs();
+  const options = parseRefreshArgs(process.argv.slice(2));
+  const runStartedAt = new Date().toISOString();
+  const today = runStartedAt.slice(0, 10);
 
   console.log('Automated Danish Law Ingestion');
   console.log('===============================\n');
+  console.log(`Run started: ${runStartedAt}`);
+  console.log(`Mode: ${options.refresh ? 'REFRESH (version-keyed)' : 'additive'}`);
   console.log(`Year range: ${options.yearStart ?? 'all'} -> ${options.yearEnd ?? 'all'}`);
   console.log(`Limit: ${options.limit ?? 'none'}`);
-  console.log(`Max pages: ${options.maxPages ?? 'all'}`);
-  console.log(`Skip existing: ${options.skipExisting ? 'YES' : 'NO'}`);
+  console.log(`Skip stamped since: ${options.skipStampedSince ?? 'n/a'}`);
   console.log(`Dry run: ${options.dryRun ? 'YES' : 'NO'}`);
   console.log(`Delay per request: ${options.delayMs} ms\n`);
 
-  const laws = await collectLawEntries(options);
-  console.log(`\nLaw URLs selected: ${laws.length}`);
+  const reportPath = buildReportPath(REPORT_DIR, runStartedAt, options.reportPath);
 
-  const existing = getExistingSeedIds();
-  console.log(`Existing statute seed files: ${existing.size}\n`);
+  // Durable run-start marker: if this run dies without a report, the exact
+  // resume cutoff is recovered from here, not from a maybe-redirected stdout.
+  const markerPath = writeRunMarker(REPORT_DIR, {
+    run_started_at: runStartedAt,
+    mode: options.refresh ? 'refresh' : 'additive',
+    skip_stamped_since: options.skipStampedSince ?? null,
+    report_path: reportPath,
+    resume_command: `--refresh --skip-stamped-since ${runStartedAt}`,
+  });
+  console.log(`Run marker written: ${markerPath}`);
 
-  const stats = await ingestBatch(laws, options, existing);
-  printSummary(stats, options);
+  const stats: RunStats = { total: 0, fetched: 0, skipped: 0, failed: [], goneUpstream: [] };
+  let byDecision = new Map<string, number>();
 
-  if (!options.dryRun && stats.succeeded > 0) {
+  const buildPayload = (extra: Record<string, unknown> = {}): Record<string, unknown> => ({
+    run_started_at: runStartedAt,
+    finished_at: new Date().toISOString(),
+    mode: options.refresh ? 'refresh' : 'additive',
+    options: { ...options },
+    decisions: Object.fromEntries(byDecision),
+    stats,
+    ...extra,
+  });
+
+  const onInterrupt = makeInterruptHandler({ reportPath, payload: () => buildPayload() });
+  process.once('SIGINT', () => onInterrupt('SIGINT'));
+  process.once('SIGTERM', () => onInterrupt('SIGTERM'));
+
+  const sitemapEntries = await collectSitemapEntries({
+    indexUrl: SITEMAP_INDEX_URL,
+    fetchText,
+    delayMs: options.delayMs,
+    maxPages: options.maxPages,
+    yearStart: options.yearStart,
+    yearEnd: options.yearEnd,
+  });
+  console.log(`\nSitemap documents: ${sitemapEntries.length}`);
+
+  const existingIds = getExistingSeedIds();
+  console.log(`Existing statute seed files: ${existingIds.size}`);
+
+  let worklist = buildWorklist({ sitemapEntries, existingSeedIds: existingIds });
+
+  if (options.yearStart || options.yearEnd) {
+    worklist = worklist.filter(item => {
+      const year = Number.parseInt(item.id.slice(0, 4), 10);
+      if (options.yearStart && year < options.yearStart) return false;
+      if (options.yearEnd && year > options.yearEnd) return false;
+      return true;
+    });
+  }
+
+  const decided: DecidedItem[] = worklist.map(item => ({
+    ...item,
+    decision: decideFetch({
+      seedExists: item.seedExists,
+      refresh: options.refresh,
+      existingMeta: item.seedExists ? readSeedMeta(path.join(OUTPUT_DIR, `${item.id}.json`)) : null,
+      skipStampedSince: options.skipStampedSince ?? null,
+      today,
+    }),
+  }));
+
+  // Deterministic order: new documents (fetch_new) first — they are current
+  // law missing from the corpus, the most dangerous gap — then by id so an
+  // interrupted run + --skip-stamped-since resume converges.
+  const rank = (d: DecidedItem): number => (d.decision === 'fetch_new' ? 0 : 1);
+  decided.sort((a, b) => rank(a) - rank(b) || a.id.localeCompare(b.id));
+
+  // --limit budgets only items that actually fetch: skips pass through free
+  // so chunked resumes advance instead of reprocessing the stamped prefix.
+  const queue = applyLimit(decided, options.limit);
+
+  byDecision = new Map<string, number>();
+  for (const item of queue) {
+    byDecision.set(item.decision, (byDecision.get(item.decision) ?? 0) + 1);
+  }
+  console.log(`Worklist: ${queue.length} documents — ${[...byDecision.entries()].map(([k, v]) => `${k}=${v}`).join(', ')}\n`);
+
+  await processWorklist(queue, options, stats);
+  const summary = summarizeRun(stats);
+
+  console.log('\n' + '='.repeat(72));
+  console.log('DANISH BULK INGEST SUMMARY');
+  console.log('='.repeat(72));
+  for (const line of summary.lines) console.log(line);
+  console.log('='.repeat(72));
+
+  writeReport(reportPath, buildPayload({ exit_code: summary.exitCode }));
+  console.log(`Report written: ${reportPath}`);
+
+  if (!options.dryRun && stats.fetched > 0) {
     console.log('\nNext step: npm run build:db');
   }
+
+  process.exit(summary.exitCode);
 }
 
-run().catch(error => {
-  console.error('Fatal error:', error instanceof Error ? error.message : String(error));
-  process.exit(1);
-});
+const isDirectRun = (() => {
+  const scriptArg = process.argv[1];
+  if (!scriptArg) return false;
+  return pathToFileURL(path.resolve(scriptArg)).href === import.meta.url;
+})();
+
+if (isDirectRun) {
+  run().catch(error => {
+    console.error('Fatal error:', error instanceof Error ? error.message : String(error));
+    process.exit(1);
+  });
+}

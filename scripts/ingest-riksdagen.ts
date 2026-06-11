@@ -440,6 +440,15 @@ export async function ingest(sfsNumber: string, outputPath: string): Promise<voi
 
 const isMainModule = process.argv[1] != null && pathToFileURL(process.argv[1]).href === import.meta.url;
 
+if (isMainModule && process.env.FORCE_LEGACY_INGEST !== '1') {
+  console.error(
+    'DEPRECATED (PR #90 round 3): this is the Swedish Riksdagen template ingester — it writes ' +
+      'unstamped seeds the Danish refresh worklist cannot see (issue #89 class). ' +
+      'Use npm run ingest (retsinformation) instead. Set FORCE_LEGACY_INGEST=1 only if you understand the consequences.',
+  );
+  process.exit(2);
+}
+
 if (isMainModule) {
   const args = process.argv.slice(2);
 
