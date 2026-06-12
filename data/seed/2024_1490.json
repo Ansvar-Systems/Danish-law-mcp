@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-04",
+  "in_force_date": "2024-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1490/xml",
   "description": "Retsinformation source. DocumentId=AN016628; AccessionNumber=B20240149005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse fastsætter nærmere regler om betaling og gyldighedsperiode af rutebilletter. Stk. 2. I denne bekendtgørelse forstås ved rutebillet en elektronisk billet, der skal købes, inden kørsel på det afgiftspålagte vejnet påbegyndes, hvis der ikke til et afgiftspligtigt køretøj er tilknyttet et køretøjsudstyr, eller hvis køretøjsudstyret er uvirksomt, jf. § 8 i lov om vejafgift.",
-      "valid_from": "2024-12-04",
+      "valid_from": "2024-12-11",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. En rutebillet har en gyldighedsperiode i 24 timer fra det på rutebilletten angivne starttidspunkt for kørslen på det afgiftspålagte vejnet.",
-      "valid_from": "2024-12-04",
+      "valid_from": "2024-12-11",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Betaling for køb af rutebillet skal ske på www.vej‍af‍gifter.dk. Stk. 2. Betaling for rutebilletten omfatter alene den i lov om vejafgift fastsatte afgift og ikke andre omkostninger.",
-      "valid_from": "2024-12-04",
+      "valid_from": "2024-12-11",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 18. december 2024.",
-      "valid_from": "2024-12-04",
+      "valid_from": "2024-12-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:42:28.628Z",
+    "accession": "B20240149005",
+    "document_id": "AN016628",
+    "unique_document_id": "246387",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-11",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

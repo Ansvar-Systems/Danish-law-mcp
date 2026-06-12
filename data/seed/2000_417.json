@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om elektroniske signaturer",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/417/xml",
-  "description": "Retsinformation source. DocumentId=AF000162; AccessionNumber=A20000041730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000162; AccessionNumber=A20000041730; Ophævet 2016-06-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:18:31.235Z",
+    "accession": "A20000041730",
+    "document_id": "AF000162",
+    "unique_document_id": "6193",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2026-06-04",
+    "historic_marked": "2016-06-08",
+    "seed_status": "repealed"
+  }
 }

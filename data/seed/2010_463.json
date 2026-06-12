@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2010-04-26",
+  "in_force_date": "2010-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2010/463/xml",
   "description": "Retsinformation source. DocumentId=AI003549; AccessionNumber=B20100046305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Den dokumentation der skal vedlægges ansøgningen om markedsføringstilladelse for et lægemiddel til mennesker skal opfylde kravene i bilag 1 og bilag 2. Stk. 2. Den dokumentation der skal vedlægges ansøgningen om markedsføringstilladelse for et lægemiddel til dyr skal opfylde kravene i bilag 3.",
-      "valid_from": "2010-04-26",
+      "valid_from": "2010-04-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:16:26.387Z",
+    "accession": "B20100046305",
+    "document_id": "AI003549",
+    "unique_document_id": "130864",
+    "upstream_status": "Valid",
+    "start_date": "2010-04-30",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

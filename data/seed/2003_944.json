@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af beløb i henhold til arveloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-11-27",
+  "in_force_date": "2003-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2003/944/xml",
-  "description": "Retsinformation source. DocumentId=AA002295; AccessionNumber=B20030094405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002295; AccessionNumber=B20030094405; Ophævet 2007-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:50:38.982Z",
+    "accession": "B20030094405",
+    "document_id": "AA002295",
+    "unique_document_id": "1690",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-04",
+    "end_date": "2007-07-10",
+    "historic_marked": "2007-06-06",
+    "seed_status": "repealed"
+  }
 }

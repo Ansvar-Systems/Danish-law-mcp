@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om tilskud til efteruddannelse inden for jordbrugserhvervene",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-05-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/283/xml",
-  "description": "Retsinformation source. DocumentId=CM038975; AccessionNumber=A19910028330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038975; AccessionNumber=A19910028330; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:41:45.294Z",
+    "accession": "A19910028330",
+    "document_id": "CM038975",
+    "unique_document_id": "79762",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

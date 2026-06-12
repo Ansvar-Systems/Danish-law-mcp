@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om godskørsel",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-05-06",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/322/xml",
-  "description": "Retsinformation source. DocumentId=CM010019; AccessionNumber=A19920032229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010019; AccessionNumber=A19920032229; Ophævet 1996-03-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:25:45.291Z",
+    "accession": "A19920032229",
+    "document_id": "CM010019",
+    "unique_document_id": "51193",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1996-03-05",
+    "seed_status": "repealed"
+  }
 }

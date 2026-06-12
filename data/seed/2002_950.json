@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fødevarehygiejne for mælk, æg og produkter heraf m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-11-27",
+  "in_force_date": "2002-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2002/950/xml",
-  "description": "Retsinformation source. DocumentId=AH001339; AccessionNumber=B20020095005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001339; AccessionNumber=B20020095005; Ophævet 2004-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:04:47.962Z",
+    "accession": "B20020095005",
+    "document_id": "AH001339",
+    "unique_document_id": "7622",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-05",
+    "end_date": "2023-07-08",
+    "historic_marked": "2004-03-29",
+    "seed_status": "repealed"
+  }
 }

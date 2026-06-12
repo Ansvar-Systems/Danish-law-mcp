@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om sektorforskningsinstitutioner",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-25",
+  "in_force_date": "2012-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2012/687/xml",
-  "description": "Retsinformation source. DocumentId=BR000090; AccessionNumber=B20120068705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BR000090; AccessionNumber=B20120068705; Ophævet 2018-03-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov om sektorforskningsinstitutioner gælder for følgende institutioner: 1) Det Nationale Forskningscenter for Arbejdsmiljø. 2) SFI – Det Nationale Forskningscenter for Velfærd. 3) Statens Serum Institut.",
-      "valid_from": "2012-06-25",
-      "valid_to": null
+      "valid_from": "2012-06-29",
+      "valid_to": "2018-03-15"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2012. Stk. 2. Bekendtgørelse nr. 34 af 18. januar 2011 om sektorforskningsinstitutioner ophæves.",
-      "valid_from": "2012-06-25",
-      "valid_to": null
+      "valid_from": "2012-06-29",
+      "valid_to": "2018-03-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:10:34.597Z",
+    "accession": "B20120068705",
+    "document_id": "BR000090",
+    "unique_document_id": "142352",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2018-03-15",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til investeringer i nye teknologier inden for forarbejdningssektoren",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-05-13",
+  "in_force_date": "2013-05-15",
   "url": "https://www.retsinformation.dk/eli/lta/2013/480/xml",
-  "description": "Retsinformation source. DocumentId=AH004917; AccessionNumber=B20130048005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004917; AccessionNumber=B20130048005; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. NaturErhvervstyrelsen forestår den fysiske og den administrative kontrol, samt den efterfølgende regnskabskontrol i henhold til denne bekendtgørelse. Stk. 2. NaturErhvervstyrelsen kan til brug for kontrollen indhente oplysninger fra andre myndigheder i fornødent omfang i overensstemmelse med landdistriktslovens § 12.",
-      "valid_from": "2013-05-13",
-      "valid_to": null
+      "valid_from": "2013-05-15",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:06:03.775Z",
+    "accession": "B20130048005",
+    "document_id": "AH004917",
+    "unique_document_id": "147698",
+    "upstream_status": "Historic",
+    "start_date": "2013-05-15",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

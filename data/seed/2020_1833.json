@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2020-12-08",
+  "in_force_date": "2020-12-08",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1833/xml",
   "description": "Retsinformation source. DocumentId=DB000240; AccessionNumber=A20200183330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -375,5 +376,16 @@
       "definition": "en forpligtelse til at imødekomme rimelige anmodninger om adgang til og anvendelse af anlægsinfrastruktur, herunder, men ikke begrænset til, bygninger, adgangsveje til bygninger, kabler i bygninger, herunder ledningsnet, antenner, pæle, master, kabelkanaler, ledningskanaler, nedgangsbrønde, mandehuller, skabe og tårne og andre støttekonstrukti‌oner",
       "source_provision": "41a"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:02:01.111Z",
+    "accession": "A20200183330",
+    "document_id": "DB000240",
+    "unique_document_id": "218130",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-08",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

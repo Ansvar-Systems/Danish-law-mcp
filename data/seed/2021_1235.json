@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om afvikling af større menighedsarrangementer i folkekirken og trossamfund uden for folkekirken i forbindelse med håndtering af covid-19",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-06-10",
+  "in_force_date": "2021-06-10",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1235/xml",
-  "description": "Retsinformation source. DocumentId=CD000174; AccessionNumber=B20210123505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CD000174; AccessionNumber=B20210123505; Ophævet 2021-06-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -20,8 +21,19 @@
       "section": "1",
       "content": "§ 1. Der kan efter reglerne i denne bekendtgørelse i lokaler eller på lokaliteter, som folkekirken og trossamfund uden for folkekirken råder over, og hvortil offentligheden har adgang, afvikles følgende indendørs og udendørs menighedsarrangementer i folkekirken og trossamfund uden for folkekirken: 1) Indendørs menighedsarrangementer med siddende deltagere, hvor flere end 100 deltagere er til stede på samme sted samtidig, jf. § 2, stk. 1. 2) Udendørs menighedsarrangementer med siddende publikum, hvor flere end 500 deltagere er tilstede på samme sted samtidig, jf. § 2, stk. 1.",
       "valid_from": "2021-06-10",
-      "valid_to": null
+      "valid_to": "2021-06-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:31:54.056Z",
+    "accession": "B20210123505",
+    "document_id": "CD000174",
+    "unique_document_id": "223946",
+    "upstream_status": "Historic",
+    "start_date": "2021-06-10",
+    "end_date": "2021-06-12",
+    "historic_marked": "2021-06-11",
+    "seed_status": "repealed"
+  }
 }

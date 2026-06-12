@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-05-20",
+  "in_force_date": "2020-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/706/xml",
   "description": "Retsinformation source. DocumentId=CZ000200; AccessionNumber=B20200070605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse på virksomheder, som ønsker at certificere enheder med ansvar for vedligeholdelse af køretøjer i henhold til Kommissionens gennemførelsesforordning 2019/779/EU af 16. maj 2019 om nærmere bestemmelser om en ordning for certificering af enheder med ansvar for vedligeholdelse af køretøjer i henhold til Europa-Parlamentets og Rådets direktiv (EU) 2016/798 og om ophævelse af Kommissionens forordning (EU) nr. 445/2011.",
-      "valid_from": "2020-05-20",
+      "valid_from": "2020-05-30",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Virksomheder, der ønsker at certificere enheder med ansvar for vedligeholdelse af køretøjer i henhold til Kommissionens gennemførelsesforordning nr. 2019/779/EU, skal: 1) opfylde kravene i forordningens bilag I, som er optrykt som bilag 1 til denne bekendtgørelse, og 2) være akkrediteret af Den Danske Akkrediteringsfond (DANAK).",
-      "valid_from": "2020-05-20",
+      "valid_from": "2020-05-30",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 16. juni 2020. Stk. 2. Bekendtgørelse nr. 982 af 8. oktober 2012 om krav til certificerende virksomheder på jernbaneområdet ophæves.",
-      "valid_from": "2020-05-20",
+      "valid_from": "2020-05-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:39:58.817Z",
+    "accession": "B20200070605",
+    "document_id": "CZ000200",
+    "unique_document_id": "214669",
+    "upstream_status": "Valid",
+    "start_date": "2020-05-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

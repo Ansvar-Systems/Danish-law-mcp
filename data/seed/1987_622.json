@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om private registre m.v. (Registerlov)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-10-02",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/622/xml",
-  "description": "Retsinformation source. DocumentId=CM018196; AccessionNumber=A19870062229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018196; AccessionNumber=A19870062229; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:47:17.393Z",
+    "accession": "A19870062229",
+    "document_id": "CM018196",
+    "unique_document_id": "59244",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-19",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

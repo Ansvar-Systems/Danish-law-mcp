@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven (Revision af forsøgsordninger for selvkørende motorkøretøjer og selvkørende enheder og obligatorisk digital selvbetjening ved indberetning af sikkerhedsrådgivere)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-05-27",
+  "in_force_date": "2025-05-27",
   "url": "https://www.retsinformation.dk/eli/lta/2025/566/xml",
-  "description": "Retsinformation source. DocumentId=DG001104; AccessionNumber=A20250056630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG001104; AccessionNumber=A20250056630; Ophævet 2026-01-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "92j",
@@ -20,8 +21,19 @@
       "section": "92j",
       "content": "§ 92 j. Transportministeren fører tilsyn med forsøg med selvkørende motorkøretøjer, der gennemføres i henhold til tilladelse efter § 92 h, stk. 1. Stk. 2. Transportministeren kan kræve, at en tilladelsesindehaver vederlagsfrit udleverer oplysninger og dokumenter, der er nødvendige for udførelse af tilsyn, jf. stk. 1, uanset om de foreligger på papir eller i elektronisk form.",
       "valid_from": "2025-05-27",
-      "valid_to": null
+      "valid_to": "2026-01-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:17:10.566Z",
+    "accession": "A20250056630",
+    "document_id": "DG001104",
+    "unique_document_id": "249851",
+    "upstream_status": "Historic",
+    "start_date": "2025-05-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2026-01-23",
+    "seed_status": "repealed"
+  }
 }

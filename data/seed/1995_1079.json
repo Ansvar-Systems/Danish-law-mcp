@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af retsplejeloven og retsafgiftsloven (Fleksibel udnyttelse af domstolenes ressourcer m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1079/xml",
-  "description": "Retsinformation source. DocumentId=CM018455; AccessionNumber=A19950107930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018455; AccessionNumber=A19950107930; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:21:34.511Z",
+    "accession": "A19950107930",
+    "document_id": "CM018455",
+    "unique_document_id": "59500",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-04-23",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

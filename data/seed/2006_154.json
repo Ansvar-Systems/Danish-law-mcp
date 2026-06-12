@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om arbejdsskadesikring",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-03-07",
+  "in_force_date": "2006-03-16",
   "url": "https://www.retsinformation.dk/eli/lta/2006/154/xml",
-  "description": "Retsinformation source. DocumentId=BE001667; AccessionNumber=A20060015429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001667; AccessionNumber=A20060015429; Ophævet 2009-09-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:04:32.553Z",
+    "accession": "A20060015429",
+    "document_id": "BE001667",
+    "unique_document_id": "30573",
+    "upstream_status": "Historic",
+    "start_date": "2006-03-16",
+    "end_date": "2026-06-12",
+    "historic_marked": "2009-09-11",
+    "seed_status": "repealed"
+  }
 }

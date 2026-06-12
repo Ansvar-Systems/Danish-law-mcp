@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forhåndslån m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-14",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1991/548/xml",
-  "description": "Retsinformation source. DocumentId=CM023839; AccessionNumber=B19910054805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023839; AccessionNumber=B19910054805; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:52:08.202Z",
+    "accession": "B19910054805",
+    "document_id": "CM023839",
+    "unique_document_id": "64787",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

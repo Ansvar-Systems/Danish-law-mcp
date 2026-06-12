@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af våbenloven (knive, slangebøsser m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-12-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/861/xml",
-  "description": "Retsinformation source. DocumentId=CM018444; AccessionNumber=A19870086130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018444; AccessionNumber=A19870086130; Ophævet 1994-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:55:41.434Z",
+    "accession": "A19870086130",
+    "document_id": "CM018444",
+    "unique_document_id": "59489",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1994-09-29",
+    "seed_status": "repealed"
+  }
 }

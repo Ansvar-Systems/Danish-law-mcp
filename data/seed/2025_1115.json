@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-09-19",
+  "in_force_date": "2025-09-22",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1115/xml",
   "description": "Retsinformation source. DocumentId=AA014927; AccessionNumber=B20250111505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Udbydere af elektroniske kommunikationsnet eller -tjenester skal sikre, at medarbejdere eller repræsentanter for udbyderen, der forestår kontakten til politiet i forbindelse med indgreb i meddelelseshemmeligheden, jf. retsplejelovens kapitel 71, sikkerhedsgodkendes af Rigspolitiet til at håndtere klassificerede oplysninger. Stk. 2. De sikkerhedsgodkendte medarbejdere eller repræsentanter for udbyderen skal overholde Rigspolitiets angivelser vedrørende sikkerhedsforskrifter om behandling, opbevaring eller destruktion af klassificerede oplysninger.",
-      "valid_from": "2025-09-19",
+      "valid_from": "2025-09-22",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen finder ikke anvendelse for følgende: 1) Andelsforeninger, ejerforeninger, antenneforeninger og lignende foreninger eller tilsvarende boligfællesskaber, der inden for foreningen eller boligfællesskabet udbyder elektroniske kommunikationsnet eller -tjenester til færre end 100 enheder. 2) Caféer, hoteller, kommuner, regioner, persontransportselskaber (tog, busser, fly og skibe) og lignende, som stiller lokal internetadgang til rådighed for besøgende eller andre midlertidige brugere via radiobaserede lokalnet, RLAN (hotspot), eller kablede lokalnet, LAN.",
-      "valid_from": "2025-09-19",
+      "valid_from": "2025-09-22",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Overtrædelse af § 1 straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2025-09-19",
+      "valid_from": "2025-09-22",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2026. Stk. 2. Bekendtgørelse nr. 1144 af 20. november 2006 om telenet- og teletjenesteudbyderes praktiske bistand til politiet i forbindelse med indgreb i meddelelseshemmeligheden (sikkerhedsgodkendelse af personale i telebranchen) ophæves.",
-      "valid_from": "2025-09-19",
+      "valid_from": "2025-09-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:31:59.596Z",
+    "accession": "B20250111505",
+    "document_id": "AA014927",
+    "unique_document_id": "251471",
+    "upstream_status": "Valid",
+    "start_date": "2025-09-22",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

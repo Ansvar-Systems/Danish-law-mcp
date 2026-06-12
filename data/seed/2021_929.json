@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-05-17",
+  "in_force_date": "2021-05-19",
   "url": "https://www.retsinformation.dk/eli/lta/2021/929/xml",
   "description": "Retsinformation source. DocumentId=DG000085; AccessionNumber=B20210092905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Til brug for administration og drift af statsvejnettet og til varetagelse af trafiksikkerhed og trafikafvikling på statsvejnettet samt planlægning for et kommende statsvejnet, kan Vejdirektoratet indsamle og registrere data om køretøjers vægt, længde og akseltryk m.v., herunder personoplysninger i forbindelse hermed.",
-      "valid_from": "2021-05-17",
+      "valid_from": "2021-05-19",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Vejdirektoratet kan videregive de i § 1 nævnte data til politiet med henblik på politiets kontrol af de gældende bestemmelser om køretøjers vægt, længde og akseltryk m.v.",
-      "valid_from": "2021-05-17",
+      "valid_from": "2021-05-19",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 27. maj 2021.",
-      "valid_from": "2021-05-17",
+      "valid_from": "2021-05-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:58:35.099Z",
+    "accession": "B20210092905",
+    "document_id": "DG000085",
+    "unique_document_id": "223101",
+    "upstream_status": "Valid",
+    "start_date": "2021-05-19",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

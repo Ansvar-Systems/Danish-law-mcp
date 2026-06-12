@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om beregning af dagpengesatsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-07-03",
+  "in_force_date": "2020-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1128/xml",
-  "description": "Retsinformation source. DocumentId=BE008478; AccessionNumber=B20200112805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008478; AccessionNumber=B20200112805; Ophævet 2021-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "16",
@@ -19,9 +20,20 @@
       "provision_ref": "16",
       "section": "16",
       "content": "§ 16. For et medlem, som bliver omfattet af et uddannelsesløft og skal modtage dagpenge efter lovens § 48, sker skift af dagpengesats ved påbegyndelsen eller afslutningen af ud‐ dannelsesløftet med virkning fra den 1. i den efterfølgende måned.",
-      "valid_from": "2020-07-03",
-      "valid_to": null
+      "valid_from": "2020-07-04",
+      "valid_to": "2021-08-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:33:41.471Z",
+    "accession": "B20200112805",
+    "document_id": "BE008478",
+    "unique_document_id": "215719",
+    "upstream_status": "Historic",
+    "start_date": "2020-07-04",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-08-19",
+    "seed_status": "repealed"
+  }
 }

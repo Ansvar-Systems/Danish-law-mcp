@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til børne- og ungdomsaktiviteter i landdistrikterne",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-01-06",
+  "in_force_date": "2011-01-11",
   "url": "https://www.retsinformation.dk/eli/lta/2011/12/xml",
-  "description": "Retsinformation source. DocumentId=AH004114; AccessionNumber=B20110001205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004114; AccessionNumber=B20110001205; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5 a. Uanset § 5, stk. 1, kan ansøgning om tilskud i 2011 først indsendes fra den 1. marts og skal være modtaget i FødevareErhverv senest den 1. maj.",
-      "valid_from": "2011-01-06",
-      "valid_to": null
+      "valid_from": "2011-01-11",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:46:12.957Z",
+    "accession": "B20110001205",
+    "document_id": "AH004114",
+    "unique_document_id": "135350",
+    "upstream_status": "Historic",
+    "start_date": "2011-01-11",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

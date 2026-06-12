@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om erhvervsgrunduddannelse m.v. (Aktivering af unge)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-20",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1126/xml",
-  "description": "Retsinformation source. DocumentId=CM034172; AccessionNumber=A19950112630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034172; AccessionNumber=A19950112630; Ophævet 1995-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:23:27.693Z",
+    "accession": "A19950112630",
+    "document_id": "CM034172",
+    "unique_document_id": "74967",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1995-12-29",
+    "seed_status": "repealed"
+  }
 }

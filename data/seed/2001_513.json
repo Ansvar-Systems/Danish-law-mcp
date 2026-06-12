@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om auktion over tilladelser til 3. generations mobilnet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-06",
+  "in_force_date": "2001-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2001/513/xml",
-  "description": "Retsinformation source. DocumentId=AF000213; AccessionNumber=B20010051305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000213; AccessionNumber=B20010051305; Ophævet 2016-02-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:03:03.810Z",
+    "accession": "B20010051305",
+    "document_id": "AF000213",
+    "unique_document_id": "6232",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-14",
+    "end_date": "2026-06-04",
+    "historic_marked": "2016-02-16",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om udbetaling af dagpenge",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-04-29",
+  "in_force_date": "2021-04-29",
   "url": "https://www.retsinformation.dk/eli/lta/2021/767/xml",
-  "description": "Retsinformation source. DocumentId=BE008890; AccessionNumber=B20210076705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008890; AccessionNumber=B20210076705; Ophævet 2021-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "24a",
@@ -20,8 +21,19 @@
       "section": "24a",
       "content": "§ 24 a. Fradrag for arbejde under midlertidig arbejdsfordeling, jf. lov om adgang til iværksættelse af midlertidig arbejdsfordeling som led i håndteringen af covid-19, kan ske i den måned, hvor lønnen er udbetalt på baggrund af den procentvise arbejdstidsnedsættelse som fastsat af arbejdsgiveren ved anmeldelse af arbejdsfordelingen. Det er en betingelse, at medlemmet modtager fast uge- 14-dages eller månedsløn i ansættelsen uanset arbejdstidens længde i måneden. Hvis arbejdsfordelingen afbrydes før det aftalte sluttidspunkt, skal der ske en opgørelse af fradraget på baggrund af udført arbejde inden for den sidste cyklus i arbejdsfordelingen. Stk. 2. Regulering af dagpenge, jf. stk. 1, 3. pkt., sker i den måned, hvor arbejdsfordelingen afbrydes. § 8, stk. 7 finder tilsvarende anvendelse.",
       "valid_from": "2021-04-29",
-      "valid_to": null
+      "valid_to": "2021-08-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:52:02.794Z",
+    "accession": "B20210076705",
+    "document_id": "BE008890",
+    "unique_document_id": "222658",
+    "upstream_status": "Historic",
+    "start_date": "2021-04-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-08-19",
+    "seed_status": "repealed"
+  }
 }

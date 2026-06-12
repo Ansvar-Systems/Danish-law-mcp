@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2020-12-09",
+  "in_force_date": "2020-12-09",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1853/xml",
   "description": "Retsinformation source. DocumentId=CN001498; AccessionNumber=A20200185330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -347,5 +348,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:02:48.354Z",
+    "accession": "A20200185330",
+    "document_id": "CN001498",
+    "unique_document_id": "218129",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-09",
+    "end_date": "2026-05-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

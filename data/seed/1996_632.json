@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om elforsyning",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-07-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/632/xml",
-  "description": "Retsinformation source. DocumentId=CM041123; AccessionNumber=A19960063229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM041123; AccessionNumber=A19960063229; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:32:35.100Z",
+    "accession": "A19960063229",
+    "document_id": "CM041123",
+    "unique_document_id": "81809",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

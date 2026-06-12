@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-06-02",
+  "in_force_date": "2024-06-03",
   "url": "https://www.retsinformation.dk/eli/lta/2024/592/xml",
   "description": "Retsinformation source. DocumentId=AA014206; AccessionNumber=B20240059205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Justitsministeren antager efter drøftelse med præsidenterne for Østre Landsret og Københavns Byret samt Advokatrådet et antal advokater, der kan beskikkes i sager om leverandørsikkerhed i den kritiske teleinfrastruktur, der er indbragt for domstolene. Stk. 2. Advokaterne skal inden antagelsen sikkerhedsgodkendes efter reglerne i Justitsministeriets sikkerhedscirkulære herom. Stk. 3. Advokaterne antages for 2 år ad gangen.",
-      "valid_from": "2024-06-02",
+      "valid_from": "2024-06-03",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Advokaterne må kun efter særlig godkendelse fra Justitsministeriet få bistand ved deres arbejde med sagerne. Justitsministeriet kan bestemme, at personer, der yder advokaterne bistand, ligeledes skal sikkerhedsgodkendes, jf. § 1, stk. 2. Stk. 2. Advokaterne og de personer, der eventuelt yder dem bistand, skal håndtere sagernes dokumenter og oplysningerne heri i overensstemmelse med reglerne i Justitsministeriets sikkerhedscirkulære herom. Stk. 3. Justitsministeriet og Forsvarsministeriet kan bistå med opbevaring af dokumenter.",
-      "valid_from": "2024-06-02",
+      "valid_from": "2024-06-03",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 6. juni 2024.",
-      "valid_from": "2024-06-02",
+      "valid_from": "2024-06-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:10:44.678Z",
+    "accession": "B20240059205",
+    "document_id": "AA014206",
+    "unique_document_id": "243510",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-03",
+    "end_date": "2024-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for det trykte Statstidende, indrykning og masseudtræk",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-08-24",
+  "in_force_date": "2000-09-04",
   "url": "https://www.retsinformation.dk/eli/lta/2000/798/xml",
-  "description": "Retsinformation source. DocumentId=AF000174; AccessionNumber=B20000079805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000174; AccessionNumber=B20000079805; Ophævet 2005-10-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:33:49.818Z",
+    "accession": "B20000079805",
+    "document_id": "AF000174",
+    "unique_document_id": "6205",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-04",
+    "end_date": "2016-12-22",
+    "historic_marked": "2005-10-13",
+    "seed_status": "repealed"
+  }
 }

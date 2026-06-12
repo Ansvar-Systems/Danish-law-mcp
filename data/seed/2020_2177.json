@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-18",
+  "in_force_date": "2020-12-24",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2177/xml",
-  "description": "Retsinformation source. DocumentId=AA012196; AccessionNumber=B20200217705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA012196; AccessionNumber=B20200217705; Ophævet 2021-09-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "26a",
@@ -19,9 +20,20 @@
       "provision_ref": "26a",
       "section": "26a",
       "content": "§ 26 a. Rigspolitiet kan efter begæring til Familieretshuset til brug for sager om forældremyndighed, barnets bopæl og samvær eller anden kontakt videregive oplysninger fra efterforskningsdelen, som er eller har været optaget i afgørelsesdelen, om idømt ubetinget fængselsstraf eller en anden retsfølge efter §§ 68-70 i straffeloven for overtrædelse af straffelovens § 210, §§ 216-227, §§ 232-237, §§ 245-246, § 245 a eller § 262 a.",
-      "valid_from": "2020-12-18",
-      "valid_to": null
+      "valid_from": "2020-12-24",
+      "valid_to": "2021-09-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:15:45.654Z",
+    "accession": "B20200217705",
+    "document_id": "AA012196",
+    "unique_document_id": "218425",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-24",
+    "end_date": "2021-09-29",
+    "historic_marked": "2021-09-28",
+    "seed_status": "repealed"
+  }
 }

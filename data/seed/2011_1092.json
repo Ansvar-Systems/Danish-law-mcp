@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om asbest",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-11-28",
+  "in_force_date": "2011-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1092/xml",
-  "description": "Retsinformation source. DocumentId=BE004761; AccessionNumber=B20110109205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE004761; AccessionNumber=B20110109205; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "27",
@@ -19,9 +20,20 @@
       "provision_ref": "27",
       "section": "27",
       "content": "§ 27. Personer, beskæftiget med arbejde nævnt i § 26, stk. 1, skal have gennemgået en uddannelse og være i besiddelse af et uddannelsesbevis. Det fremgår af bekendtgørelse om arbejdsmiljøfaglige uddannelser, hvilke kvalifikationer, man skal være i besiddelse af, før der kan udstedes et uddannelsesbevis.",
-      "valid_from": "2011-11-28",
-      "valid_to": null
+      "valid_from": "2011-12-01",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:41:54.215Z",
+    "accession": "B20110109205",
+    "document_id": "BE004761",
+    "unique_document_id": "138885",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

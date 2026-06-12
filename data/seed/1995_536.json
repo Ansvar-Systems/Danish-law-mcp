@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om gymnasiet m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-06-23",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/536/xml",
-  "description": "Retsinformation source. DocumentId=CM033984; AccessionNumber=A19950053629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM033984; AccessionNumber=A19950053629; Ophævet 1996-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:42:39.784Z",
+    "accession": "A19950053629",
+    "document_id": "CM033984",
+    "unique_document_id": "74779",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1996-11-27",
+    "seed_status": "repealed"
+  }
 }

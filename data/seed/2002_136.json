@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om anlæg af rute 26, strækningen Thisted-Nors, m.v. (Nors Omfartsvej)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-03-20",
+  "in_force_date": "2002-03-20",
   "url": "https://www.retsinformation.dk/eli/lta/2002/136/xml",
-  "description": "Retsinformation source. DocumentId=AR000550; AccessionNumber=A20020013630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000550; AccessionNumber=A20020013630; Ophævet 2024-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:32:33.105Z",
+    "accession": "A20020013630",
+    "document_id": "AR000550",
+    "unique_document_id": "22111",
+    "upstream_status": "Historic",
+    "start_date": "2002-03-20",
+    "end_date": "2024-12-11",
+    "historic_marked": "2024-12-10",
+    "seed_status": "repealed"
+  }
 }

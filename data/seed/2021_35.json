@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2021-01-13",
+  "in_force_date": "2021-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2021/35/xml",
   "description": "Retsinformation source. DocumentId=DB000275; AccessionNumber=B20210003505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 12, 15, 17 og 19 i lov nr. 1705 af 23. december 2016 om ændring af lov om fremme af vedvarende energi (Kommunal indsigelsesret, udvidelse af køberetsordningen og den grønne ordning, pristillæg og afregningsvilkår for havvindmølleparkerne Vesterhav Syd, Vesterhav Nord og Kriegers Flak samt midlertidig suspension af støtteordninger og indsættelse af loft for støtte til visse anlæg) sættes i kraft.",
-      "valid_from": "2021-01-13",
+      "valid_from": "2021-01-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 20. januar 2021.",
-      "valid_from": "2021-01-13",
+      "valid_from": "2021-01-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:35:17.499Z",
+    "accession": "B20210003505",
+    "document_id": "DB000275",
+    "unique_document_id": "219150",
+    "upstream_status": "Valid",
+    "start_date": "2021-01-14",
+    "end_date": "2024-09-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

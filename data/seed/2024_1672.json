@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af sundhedsloven (Bemyndigelsesbestemmelser om målrettede påmindelser og sundhedspersoners behandling af helbredsoplysninger m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1672/xml",
-  "description": "Retsinformation source. DocumentId=DI001354; AccessionNumber=A20240167230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI001354; AccessionNumber=A20240167230; Ophævet 2025-03-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "53a",
@@ -20,8 +21,19 @@
       "section": "53a",
       "content": "§ 53 a. Indenrigs- og sundhedsministeren fastsætter regler om sundhedspersoners behandling af helbredsoplysninger og andre fortrolige oplysninger om organdonorer og organmodtagere i forbindelse med et donationsforløb, herunder om, hvornår og hvordan sundhedspersoner kan eller skal videregive oplysninger.",
       "valid_from": "2024-12-30",
-      "valid_to": null
+      "valid_to": "2025-03-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:49:45.569Z",
+    "accession": "A20240167230",
+    "document_id": "DI001354",
+    "unique_document_id": "247479",
+    "upstream_status": "Historic",
+    "start_date": "2024-12-30",
+    "end_date": "2025-03-14",
+    "historic_marked": "2025-03-13",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om social pension",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-01-22",
+  "in_force_date": "1999-02-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/42/xml",
-  "description": "Retsinformation source. DocumentId=AO000211; AccessionNumber=B19990004205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000211; AccessionNumber=B19990004205; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:27:21.578Z",
+    "accession": "B19990004205",
+    "document_id": "AO000211",
+    "unique_document_id": "18482",
+    "upstream_status": "Historic",
+    "start_date": "1999-02-02",
+    "end_date": "2016-12-20",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

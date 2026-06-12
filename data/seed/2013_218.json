@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., lov om social pension og lov om individuel boligstøtte\\n(Frivillig overgang til førtidspension efter lov om social pension)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-03-05",
+  "in_force_date": "2013-03-05",
   "url": "https://www.retsinformation.dk/eli/lta/2013/218/xml",
-  "description": "Retsinformation source. DocumentId=BS000437; AccessionNumber=A20130021830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BS000437; AccessionNumber=A20130021830; Ophævet 2013-10-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -20,8 +21,19 @@
       "section": "4",
       "content": "§ 4 a. Personer, der er tilkendt førtidspension eller invaliditetsydelse, eller for hvem der var påbegyndt en sag herom inden den 1. januar 2003, og som den 1. juni 2013 eller senere vælger at overgå til førtidspension efter lov om social pension, kan modtage boligsikring efter reglerne i denne lov, hvis betingelserne i øvrigt er opfyldt. Stk. 2. Stk. 1 finder anvendelse, uanset om personen har modtaget boligydelse forud for overgangen til før­tids­pen­si‍on efter lov om social pension.",
       "valid_from": "2013-03-05",
-      "valid_to": null
+      "valid_to": "2013-10-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:55:33.847Z",
+    "accession": "A20130021830",
+    "document_id": "BS000437",
+    "unique_document_id": "145701",
+    "upstream_status": "Historic",
+    "start_date": "2013-03-05",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-10-30",
+    "seed_status": "repealed"
+  }
 }

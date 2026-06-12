@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til glarmester",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-06",
+  "in_force_date": "2004-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1181/xml",
-  "description": "Retsinformation source. DocumentId=AT001922; AccessionNumber=B20040118105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001922; AccessionNumber=B20040118105; Ophævet 2008-03-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:00:16.233Z",
+    "accession": "B20040118105",
+    "document_id": "AT001922",
+    "unique_document_id": "24621",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-13",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-03-03",
+    "seed_status": "repealed"
+  }
 }

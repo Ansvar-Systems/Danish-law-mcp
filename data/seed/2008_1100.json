@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om distribution af lægemidler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-11-12",
+  "in_force_date": "2008-11-22",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1100/xml",
-  "description": "Retsinformation source. DocumentId=BK000380; AccessionNumber=B20080110005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000380; AccessionNumber=B20080110005; Ophævet 2012-08-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "26",
@@ -19,9 +20,20 @@
       "provision_ref": "26",
       "section": "26",
       "content": "§ 26 a. Engrosforhandlere og apoteker skal sikre, at lægemidler, der er eller kan være forfalskede, opbevares adskilt fra andre lægemidler. Lægemidlerne skal desuden mærkes, så det er tydeligt, at de ikke er til salg eller udlevering.",
-      "valid_from": "2008-11-12",
-      "valid_to": null
+      "valid_from": "2008-11-22",
+      "valid_to": "2012-08-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:48:57.855Z",
+    "accession": "B20080110005",
+    "document_id": "BK000380",
+    "unique_document_id": "122137",
+    "upstream_status": "Historic",
+    "start_date": "2008-11-22",
+    "end_date": "2022-07-12",
+    "historic_marked": "2012-08-01",
+    "seed_status": "repealed"
+  }
 }

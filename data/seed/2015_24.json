@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af færdselsloven (Indførelse af betinget objektivt ansvar for ejer (bruger) af et motorkøretøj for visse hastighedsovertrædelser)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-01-15",
+  "in_force_date": "2015-01-21",
   "url": "https://www.retsinformation.dk/eli/lta/2015/24/xml",
-  "description": "Retsinformation source. DocumentId=AA008594; AccessionNumber=B20150002405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA008594; AccessionNumber=B20150002405; Ophævet 2017-01-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 372 af 14. april 2014 om ændring af færdselsloven (Indførelse af betinget objektivt ansvar for ejer (bruger) af et motorkøretøj for visse hastighedsovertrædelser) sættes i kraft.",
-      "valid_from": "2015-01-15",
-      "valid_to": null
+      "valid_from": "2015-01-21",
+      "valid_to": "2017-01-06"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2015.",
-      "valid_from": "2015-01-15",
-      "valid_to": null
+      "valid_from": "2015-01-21",
+      "valid_to": "2017-01-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:01:14.903Z",
+    "accession": "B20150002405",
+    "document_id": "AA008594",
+    "unique_document_id": "167506",
+    "upstream_status": "Historic",
+    "start_date": "2015-01-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-01-06",
+    "seed_status": "repealed"
+  }
 }

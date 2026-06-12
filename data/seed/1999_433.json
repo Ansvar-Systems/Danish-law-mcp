@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om grundlagsrente for livsforsikringsvirksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-07",
+  "in_force_date": "1999-06-17",
   "url": "https://www.retsinformation.dk/eli/lta/1999/433/xml",
-  "description": "Retsinformation source. DocumentId=AU000100; AccessionNumber=B19990043305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000100; AccessionNumber=B19990043305; Ophævet 2005-04-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:27:53.798Z",
+    "accession": "B19990043305",
+    "document_id": "AU000100",
+    "unique_document_id": "25588",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-17",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-04-20",
+    "seed_status": "repealed"
+  }
 }

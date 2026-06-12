@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om medicintilskud",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-01-24",
+  "in_force_date": "2000-02-03",
   "url": "https://www.retsinformation.dk/eli/lta/2000/63/xml",
-  "description": "Retsinformation source. DocumentId=AQ000270; AccessionNumber=B20000006305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000270; AccessionNumber=B20000006305; Ophævet 2005-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:27:05.120Z",
+    "accession": "B20000006305",
+    "document_id": "AQ000270",
+    "unique_document_id": "21262",
+    "upstream_status": "Historic",
+    "start_date": "2000-02-03",
+    "end_date": "2022-07-12",
+    "historic_marked": "2005-03-29",
+    "seed_status": "repealed"
+  }
 }

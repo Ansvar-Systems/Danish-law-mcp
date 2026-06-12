@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om takster for lodsninger foretaget af det statslige lodsvæsen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-03-09",
+  "in_force_date": "2011-03-12",
   "url": "https://www.retsinformation.dk/eli/lta/2011/197/xml",
-  "description": "Retsinformation source. DocumentId=AG000453; AccessionNumber=B20110019705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000453; AccessionNumber=B20110019705; Ophævet 2011-11-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For ydelser leveret af det statslige lodsvæsen betales et gebyr. Stk. 2. Gebyrernes størrelse fremgår af takstbogen, der er vedlagt bekendtgørelsen.",
-      "valid_from": "2011-03-09",
-      "valid_to": null
+      "valid_from": "2011-03-12",
+      "valid_to": "2011-11-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Gebyrerne nævnt i denne bekendtgørelse forfalder til betaling 30 dage efter fakturadato. Stk. 2. Hvis betaling ikke sker rettidigt, forrentes det skyldige beløb i perioden fra sidste rettidige betalingsdag til den faktiske betalingsdag med den rentesats, der er fastsat i lov om renter ved forsinket betaling m.v.",
-      "valid_from": "2011-03-09",
-      "valid_to": null
+      "valid_from": "2011-03-12",
+      "valid_to": "2011-11-16"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. marts 2011. Stk. 2. Samtidig ophæves bekendtgørelse nr. 879 af 9. september 2009 om takster for lodsninger foretaget af det statslige lodsvæsen.",
-      "valid_from": "2011-03-09",
-      "valid_to": null
+      "valid_from": "2011-03-12",
+      "valid_to": "2011-11-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:57:32.272Z",
+    "accession": "B20110019705",
+    "document_id": "AG000453",
+    "unique_document_id": "136203",
+    "upstream_status": "Historic",
+    "start_date": "2011-03-12",
+    "end_date": "2026-02-20",
+    "historic_marked": "2011-11-16",
+    "seed_status": "repealed"
+  }
 }

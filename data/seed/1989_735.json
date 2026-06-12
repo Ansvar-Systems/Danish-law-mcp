@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om kundgørelse af love, anordninger og bekendtgørelser på Færøerne",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/735/xml",
-  "description": "Retsinformation source. DocumentId=CM018437; AccessionNumber=A19890073530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018437; AccessionNumber=A19890073530; Ophævet 2016-08-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:54:13.454Z",
+    "accession": "A19890073530",
+    "document_id": "CM018437",
+    "unique_document_id": "59482",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2016-08-12",
+    "historic_marked": "2016-08-11",
+    "seed_status": "repealed"
+  }
 }

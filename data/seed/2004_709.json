@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om midlertidig gratis influenzavaccination til alle over 65 år",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-30",
+  "in_force_date": "2004-07-08",
   "url": "https://www.retsinformation.dk/eli/lta/2004/709/xml",
-  "description": "Retsinformation source. DocumentId=AI001649; AccessionNumber=B20040070905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001649; AccessionNumber=B20040070905; Ophævet 2004-12-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:37:05.411Z",
+    "accession": "B20040070905",
+    "document_id": "AI001649",
+    "unique_document_id": "9921",
+    "upstream_status": "Historic",
+    "start_date": "2004-07-08",
+    "end_date": "2022-07-12",
+    "historic_marked": "2004-12-31",
+    "seed_status": "repealed"
+  }
 }

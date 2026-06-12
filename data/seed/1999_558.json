@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om datanomuddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-07-01",
+  "in_force_date": "1999-07-12",
   "url": "https://www.retsinformation.dk/eli/lta/1999/558/xml",
-  "description": "Retsinformation source. DocumentId=AT000135; AccessionNumber=B19990055805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000135; AccessionNumber=B19990055805; Ophævet 2004-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:32:51.580Z",
+    "accession": "B19990055805",
+    "document_id": "AT000135",
+    "unique_document_id": "23277",
+    "upstream_status": "Historic",
+    "start_date": "1999-07-12",
+    "end_date": "2014-07-02",
+    "historic_marked": "2004-07-01",
+    "seed_status": "repealed"
+  }
 }

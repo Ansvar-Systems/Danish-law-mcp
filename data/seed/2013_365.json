@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om uddannelse af personer der beskæftiger sig med aflivning af dyr og dermed forbundne aktiviteter på slagteri\\n(Midlertidige kompetencebeviser)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-04-08",
+  "in_force_date": "2013-04-11",
   "url": "https://www.retsinformation.dk/eli/lta/2013/365/xml",
-  "description": "Retsinformation source. DocumentId=AH004881; AccessionNumber=B20130036505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004881; AccessionNumber=B20130036505; Ophævet 2015-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12",
@@ -19,9 +20,20 @@
       "provision_ref": "12",
       "section": "12",
       "content": "§ 12 a. Fødevarestyrelsen kan udstede midlertidige kompetencebeviser forudsat at betingelserne i forordningens artikel 21, stk. 5 er opfyldt. Opfyldelse af betingelserne dokumenteres ved ansøgers erklæring herom i ansøgningsskemaet, jf. stk. 2. Stk. 2. Ansøgning om midlertidigt kompetencebevis skal indsendes til Fødevarestyrelsen ved anvendelse af ansøgningsskema, som findes på Fødevarestyrelsens hjemmeside (www.fvst.dk under Selvbetjening/Blanketter).",
-      "valid_from": "2013-04-08",
-      "valid_to": null
+      "valid_from": "2013-04-11",
+      "valid_to": "2015-12-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:01:27.083Z",
+    "accession": "B20130036505",
+    "document_id": "AH004881",
+    "unique_document_id": "145804",
+    "upstream_status": "Historic",
+    "start_date": "2013-04-11",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-04",
+    "seed_status": "repealed"
+  }
 }

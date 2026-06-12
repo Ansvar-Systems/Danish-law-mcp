@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-05-31",
+  "in_force_date": "2024-05-31",
   "url": "https://www.retsinformation.dk/eli/lta/2024/589/xml",
   "description": "Retsinformation source. DocumentId=CE001454; AccessionNumber=B20240058905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -671,5 +672,16 @@
       "definition": "desuden en uddannelse, dele af en uddannelse eller et særligt tilrettelagt forløb, der af uddannelsesstedet udbydes som et samlet forløb, når normeringen i ECTS-point svarer til uddannelsestiden",
       "source_provision": "6:23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:10:35.943Z",
+    "accession": "B20240058905",
+    "document_id": "CE001454",
+    "unique_document_id": "243542",
+    "upstream_status": "Valid",
+    "start_date": "2024-05-31",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

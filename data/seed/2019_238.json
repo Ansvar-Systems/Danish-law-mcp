@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fund af lavpatogen aviær influenza ved Brenderup i Middelfart kommune",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-03-15",
+  "in_force_date": "2019-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/2019/238/xml",
-  "description": "Retsinformation source. DocumentId=CK002015; AccessionNumber=B20190023805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002015; AccessionNumber=B20190023805; Ophævet 2019-04-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -46,7 +47,7 @@
       "section": "1",
       "content": "§ 1. Som følge af fund af lavpatogen aviær influenza i en konsumægsbesætning ved Brenderup i Middelfart kommune, opretter Fødevarestyrelsen med virkning fra i dag en spærrezone, jf. § 12 i bekendtgørelse nr. 1468 af 8. december 2015 om beskyttelsesforanstaltninger ved udbrud af lavpatogen aviær influenza af typerne H5 eller H7 i fjerkræ og andre fugle i fangenskab.",
       "valid_from": "2019-03-15",
-      "valid_to": null
+      "valid_to": "2019-04-05"
     },
     {
       "provision_ref": "1:2",
@@ -54,7 +55,7 @@
       "section": "2",
       "content": "§ 2. Spærrezonen, jf. bilag 1, har en radius på en kilometer omkring den berørte besætning, der er beliggende ved Brenderup i Middelfart kommune.",
       "valid_from": "2019-03-15",
-      "valid_to": null
+      "valid_to": "2019-04-05"
     },
     {
       "provision_ref": "1:3",
@@ -62,7 +63,7 @@
       "section": "3",
       "content": "§ 3. Ejeren eller den ansvarlige af hobbyhold af fjerkræ i spærrezonen skal foretage indberetning om hobbyhold. Registrering af hobbyhold af fjerkræ skal ske til Fødevarestyrelsen via e-mail til 12@fvst.dk senest 8 dage fra spærrezonens oprettelse.",
       "valid_from": "2019-03-15",
-      "valid_to": null
+      "valid_to": "2019-04-05"
     },
     {
       "provision_ref": "1:4",
@@ -70,7 +71,7 @@
       "section": "4",
       "content": "§ 4. Med bøde straffes den, der overtræder § 3. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
       "valid_from": "2019-03-15",
-      "valid_to": null
+      "valid_to": "2019-04-05"
     },
     {
       "provision_ref": "1:5",
@@ -78,8 +79,19 @@
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 15. marts 2019, kl. 13.00.",
       "valid_from": "2019-03-15",
-      "valid_to": null
+      "valid_to": "2019-04-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:57:38.835Z",
+    "accession": "B20190023805",
+    "document_id": "CK002015",
+    "unique_document_id": "208149",
+    "upstream_status": "Historic",
+    "start_date": "2019-03-15",
+    "end_date": "2022-04-09",
+    "historic_marked": "2019-04-05",
+    "seed_status": "repealed"
+  }
 }

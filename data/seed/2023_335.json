@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-03-27",
+  "in_force_date": "2023-03-28",
   "url": "https://www.retsinformation.dk/eli/lta/2023/335/xml",
   "description": "Retsinformation source. DocumentId=CQ002512; AccessionNumber=B20230033505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -51,7 +52,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen fastsætter regler for udstedelse og tilbagekaldelse af kaldesignaler og identifikationsnumre i maritime radiotjenester.",
-      "valid_from": "2023-03-27",
+      "valid_from": "2023-03-28",
       "valid_to": null
     },
     {
@@ -59,7 +60,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Søfartsstyrelsen udsteder efter ansøgning kaldesignalsbeviser, hvor der tildeles kaldesignaler og identifikationsnumre til anvendelse i forbindelse med frekvensanvendelse i maritimt radioudstyr i danske skibe. Stk. 2. Ansøgning om kaldesignalbevis efter stk. 1, sker ved anvendelse af Søfartsstyrelsens system til ansøgning. Stk. 3. Oplysninger om kaldesignal, frekvenser, adresser, telefonnumre m.m. registreres i Søfartsstyrelsen og oplyses til den internationale telekommunikations union (ITU) og relevante redningsmyndigheder.",
-      "valid_from": "2023-03-27",
+      "valid_from": "2023-03-28",
       "valid_to": null
     },
     {
@@ -67,7 +68,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Søfartsstyrelsen kan tilbagekalde et kaldesignal eller identifikationsnummer, der er udstedt i medfør af § 2, hvis indehaveren ikke betaler forfaldne gebyrer, jf. § 4.",
-      "valid_from": "2023-03-27",
+      "valid_from": "2023-03-28",
       "valid_to": null
     },
     {
@@ -75,7 +76,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. For udstedelse af kaldesignal og identifikationsnummer i maritime radiotjenester betales gebyr. Stk. 2. Det til enhver tid gældende gebyr fastsættes efter de af Finansministeriet fastsatte regler om priskalkulation ved gebyrberegning og offentliggøres på Søfartsstyrelsen hjemmeside.",
-      "valid_from": "2023-03-27",
+      "valid_from": "2023-03-28",
       "valid_to": null
     },
     {
@@ -83,7 +84,7 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. juli 2023. Stk. 2. Bekendtgørelse nr. 442 af 7. juni 2005 om udstedelse af kaldesignaler og identifikationsnumre til skibe samt om SRC-radioprøver ophæves. Stk. 3. Gyldige kaldesignaler og identifikationsnumre udstedt af IT- og Telestyrelsen før 1. januar 2005 forbliver i kraft, medmindre de tilbagekaldes af Søfartsstyrelsen. Stk. 4. SRC-certifikater, der er erhvervet, og prøver, der er bestået efter hidtil gældende regler, er fortsat gyldige.",
-      "valid_from": "2023-03-27",
+      "valid_from": "2023-03-28",
       "valid_to": null
     },
     {
@@ -91,9 +92,20 @@
       "chapter": "1",
       "section": "6",
       "content": "§ 6. Bekendtgørelsen gælder ikke for Grønland og Færøerne.",
-      "valid_from": "2023-03-27",
+      "valid_from": "2023-03-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:43:03.718Z",
+    "accession": "B20230033505",
+    "document_id": "CQ002512",
+    "unique_document_id": "235623",
+    "upstream_status": "Valid",
+    "start_date": "2023-03-28",
+    "end_date": "2026-01-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

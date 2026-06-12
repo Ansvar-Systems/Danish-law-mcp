@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Danida Fellowship Centres anvendelse af Statens It",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-07-22",
+  "in_force_date": "2019-07-24",
   "url": "https://www.retsinformation.dk/eli/lta/2019/756/xml",
-  "description": "Retsinformation source. DocumentId=AS001880; AccessionNumber=B20190075605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AS001880; AccessionNumber=B20190075605; Ophævet 2021-10-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Statens It skal for Danida Fellowship Centre varetage alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard-it-arbejdsplads, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift. Stk. 2. Der indgås nærmere aftale mellem ministeren for udviklingssamarbejde og finansministeren om opgavevaretagelsen.",
-      "valid_from": "2019-07-22",
-      "valid_to": null
+      "valid_from": "2019-07-24",
+      "valid_to": "2021-10-05"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 25. juli 2019.",
-      "valid_from": "2019-07-22",
-      "valid_to": null
+      "valid_from": "2019-07-24",
+      "valid_to": "2021-10-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:18:36.953Z",
+    "accession": "B20190075605",
+    "document_id": "AS001880",
+    "unique_document_id": "209063",
+    "upstream_status": "Historic",
+    "start_date": "2019-07-24",
+    "end_date": "2021-10-06",
+    "historic_marked": "2021-10-05",
+    "seed_status": "repealed"
+  }
 }

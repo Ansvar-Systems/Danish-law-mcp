@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af stenkul, brunkul og koks m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-10-30",
+  "in_force_date": "2006-11-09",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1068/xml",
-  "description": "Retsinformation source. DocumentId=AN005548; AccessionNumber=A20060106829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005548; AccessionNumber=A20060106829; Ophævet 2010-11-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:45:34.968Z",
+    "accession": "A20060106829",
+    "document_id": "AN005548",
+    "unique_document_id": "17577",
+    "upstream_status": "Historic",
+    "start_date": "2006-11-09",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-11-26",
+    "seed_status": "repealed"
+  }
 }

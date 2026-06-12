@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for hygiejnekontrol af vegetabilske fødevarer",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-15",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1490/xml",
-  "description": "Retsinformation source. DocumentId=AH004031; AccessionNumber=B20100149005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004031; AccessionNumber=B20100149005; Ophævet 2019-05-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Virksomheder med primærproduktion af vegetabilske fødevarer skal betale gebyr som fastsat i bilag 1 for den kontrol, som Plantedirektoratet udfører i henhold til Europa-Parlamentets og Rådets forordning (EF) nr. 852/2004 af 29. april 2004 om fødevarehygiejne, til dækning af Plantedirektoratets udgifter til administration og kontrol m.m.",
-      "valid_from": "2010-12-15",
-      "valid_to": null
+      "valid_from": "2010-12-21",
+      "valid_to": "2019-05-22"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. For screening for overholdelse af Europa-Parlamentets og Rådets forordning (EF) nr. 852/2004 af 29. april 2004 om fødevarehygiejne, betales gebyr som fastsat i bilag 1, litra A.",
-      "valid_from": "2010-12-15",
-      "valid_to": null
+      "valid_from": "2010-12-21",
+      "valid_to": "2019-05-22"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. For kontrol med overholdelse af Europa-Parlamentets og Rådets forordning (EF) nr. 852/2004 af 29. april 2004 om fødevarehygiejne, der gennemføres som opfølgning på en gennemført screening, betales startgebyr som fastsat i bilag 1, litra B. Virksomhederne betaler herudover for Plantedirektoratets tidsforbrug i forbindelse med den efterfølgende kontrol, herunder opfølgning på denne kontrol efter de i bilag 1, litra C, fastsatte takster.",
-      "valid_from": "2010-12-15",
-      "valid_to": null
+      "valid_from": "2010-12-21",
+      "valid_to": "2019-05-22"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Gebyrer forfalder ved påkrav, og betaling skal ske senest 30 dage efter fakturaens dato. Stk. 2. Betales forfaldne gebyrer ikke rettidigt, skal der betales en årlig rente svarende til renten i henhold til rentelovens § 5. Den tillagte rente udgør dog mindst 50 kr. Stk. 3. For erindringsskrivelser betales et rykkergebyr på 100 kr.",
-      "valid_from": "2010-12-15",
-      "valid_to": null
+      "valid_from": "2010-12-21",
+      "valid_to": "2019-05-22"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft 1. januar 2011. Stk. 2. Bekendtgørelse nr. 564 af 28. maj 2010 om betaling for hygiejnekontrol af vegetabilske fødevarer ophæves.",
-      "valid_from": "2010-12-15",
-      "valid_to": null
+      "valid_from": "2010-12-21",
+      "valid_to": "2019-05-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:54:52.507Z",
+    "accession": "B20100149005",
+    "document_id": "AH004031",
+    "unique_document_id": "133797",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2022-04-09",
+    "historic_marked": "2019-05-22",
+    "seed_status": "repealed"
+  }
 }

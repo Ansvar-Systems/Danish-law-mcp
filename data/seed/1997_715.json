@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om fastsættelse af sommertid for årene 1998-2001(* 1)",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-09-12",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1997/715/xml",
-  "description": "Retsinformation source. DocumentId=CM045344; AccessionNumber=B19970071503; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM045344; AccessionNumber=B19970071503; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:17:00.225Z",
+    "accession": "B19970071503",
+    "document_id": "CM045344",
+    "unique_document_id": "85626",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

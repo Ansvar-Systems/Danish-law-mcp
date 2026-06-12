@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af realkreditlov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-28",
+  "in_force_date": "2001-09-06",
   "url": "https://www.retsinformation.dk/eli/lta/2001/768/xml",
-  "description": "Retsinformation source. DocumentId=AU000316; AccessionNumber=A20010076829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000316; AccessionNumber=A20010076829; Ophævet 2002-07-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:13:11.797Z",
+    "accession": "A20010076829",
+    "document_id": "AU000316",
+    "unique_document_id": "25735",
+    "upstream_status": "Historic",
+    "start_date": "2001-09-06",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-07-22",
+    "seed_status": "repealed"
+  }
 }

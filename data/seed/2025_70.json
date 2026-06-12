@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-01-28",
+  "in_force_date": "2025-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/2025/70/xml",
   "description": "Retsinformation source. DocumentId=AP000396; AccessionNumber=B20250007005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for sager vedrørende strandbeskyttelseslinje overføres fra ministeren for grøn trepart til miljøministeren.",
-      "valid_from": "2025-01-28",
+      "valid_from": "2025-01-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:44.912Z",
+    "accession": "B20250007005",
+    "document_id": "AP000396",
+    "unique_document_id": "247879",
+    "upstream_status": "Valid",
+    "start_date": "2025-01-29",
+    "end_date": "2025-01-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

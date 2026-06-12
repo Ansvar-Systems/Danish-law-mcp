@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for sortslisteoptagelse og plantenyhedsbeskyttelse m.m.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-10",
+  "in_force_date": "2004-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1224/xml",
-  "description": "Retsinformation source. DocumentId=AH002003; AccessionNumber=B20040122405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002003; AccessionNumber=B20040122405; Ophævet 2005-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:02:00.291Z",
+    "accession": "B20040122405",
+    "document_id": "AH002003",
+    "unique_document_id": "8187",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-20",
+    "end_date": "2022-04-08",
+    "historic_marked": "2005-12-22",
+    "seed_status": "repealed"
+  }
 }

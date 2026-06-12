@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2021-05-16",
+  "in_force_date": "2021-05-20",
   "url": "https://www.retsinformation.dk/eli/lta/2021/949/xml",
   "description": "Retsinformation source. DocumentId=CE001087; AccessionNumber=B20210094905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Elever på HF-Søfart og maritim stx, som ikke er omfattet af § 4, kan tilbydes ophold mod betaling for kost og logi, hvis pladsforholdene tillader det. Elevernes betaling for kost og logi beregnes efter reglerne for indtægtsdækket virksomhed.",
-      "valid_from": "2021-05-16",
+      "valid_from": "2021-05-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:59:23.107Z",
+    "accession": "B20210094905",
+    "document_id": "CE001087",
+    "unique_document_id": "223090",
+    "upstream_status": "Valid",
+    "start_date": "2021-05-20",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

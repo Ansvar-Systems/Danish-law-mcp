@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Danmarks Miljøundersøgelser",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-12-18",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1997/1065/xml",
-  "description": "Retsinformation source. DocumentId=CM046119; AccessionNumber=B19970106505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046119; AccessionNumber=B19970106505; Ophævet 2004-05-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:50:02.508Z",
+    "accession": "B19970106505",
+    "document_id": "CM046119",
+    "unique_document_id": "86386",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2022-04-09",
+    "historic_marked": "2004-05-05",
+    "seed_status": "repealed"
+  }
 }

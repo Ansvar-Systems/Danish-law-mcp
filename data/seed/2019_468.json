@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af SU-loven (Tillægsstipendium til uddannelsessøgende med en funktionsnedsættelse i erhvervsuddannelse og forhøjelse af fribeløb)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-04-29",
+  "in_force_date": "2019-04-29",
   "url": "https://www.retsinformation.dk/eli/lta/2019/468/xml",
-  "description": "Retsinformation source. DocumentId=CE000809; AccessionNumber=B20190046805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000809; AccessionNumber=B20190046805; Ophævet 2023-04-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 1, nr. 1-3, i lov nr. 464 af 29. april 2019 om ændring af SU-loven (Tillægsstipendium til uddannelsessøgende med en funktionsnedsættelse i erhvervsuddannelse og forhøjelse af fribeløb) sættes i kraft.",
       "valid_from": "2019-04-29",
-      "valid_to": null
+      "valid_to": "2023-04-20"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2019.",
       "valid_from": "2019-04-29",
-      "valid_to": null
+      "valid_to": "2023-04-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:06:54.962Z",
+    "accession": "B20190046805",
+    "document_id": "CE000809",
+    "unique_document_id": "208623",
+    "upstream_status": "Historic",
+    "start_date": "2019-04-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-04-20",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om råstoffer og lov om miljøbeskyttelse\\n(Flytning af myndighedskompetence fra kommunalbestyrelsen til henholdsvis staten og regionsrådet som opfølgning på evaluering af kommunalreformen)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-04-23",
+  "in_force_date": "2014-04-23",
   "url": "https://www.retsinformation.dk/eli/lta/2014/380/xml",
-  "description": "Retsinformation source. DocumentId=AL002976; AccessionNumber=A20140038030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002976; AccessionNumber=A20140038030; Ophævet 2015-12-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -20,8 +21,19 @@
       "section": "10",
       "content": "§ 10 a. Regionsrådet skal ved fastsættelsen af vilkår om efterbehandling, jf. § 10, stk. 1, høre kommunalbestyrelsen. Høringsfristen er mindst 4 uger.",
       "valid_from": "2014-04-23",
-      "valid_to": null
+      "valid_to": "2015-12-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:00:21.453Z",
+    "accession": "A20140038030",
+    "document_id": "AL002976",
+    "unique_document_id": "162732",
+    "upstream_status": "Historic",
+    "start_date": "2014-04-23",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-15",
+    "seed_status": "repealed"
+  }
 }

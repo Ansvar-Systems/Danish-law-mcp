@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om leje af almene boliger",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-12-17",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1997/968/xml",
-  "description": "Retsinformation source. DocumentId=CM045956; AccessionNumber=A19970096830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM045956; AccessionNumber=A19970096830; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:26:59.618Z",
+    "accession": "A19970096830",
+    "document_id": "CM045956",
+    "unique_document_id": "86229",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2023-04-28",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

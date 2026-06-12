@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af våbenloven\\n(Straf for overtrædelse af knivforbuddet)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-03-27",
+  "in_force_date": "2012-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2012/274/xml",
-  "description": "Retsinformation source. DocumentId=AA006446; AccessionNumber=A20120027430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA006446; AccessionNumber=A20120027430; Ophævet 2012-10-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:53:53.765Z",
+    "accession": "A20120027430",
+    "document_id": "AA006446",
+    "unique_document_id": "141158",
+    "upstream_status": "Historic",
+    "start_date": "2012-03-27",
+    "end_date": "2012-10-26",
+    "historic_marked": "2012-10-25",
+    "seed_status": "repealed"
+  }
 }

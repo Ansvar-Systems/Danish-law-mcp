@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om normalvedtægter for en selvejende almen ungdomsboliginstitution",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-01-21",
+  "in_force_date": "2009-01-24",
   "url": "https://www.retsinformation.dk/eli/lta/2009/26/xml",
-  "description": "Retsinformation source. DocumentId=BI000410; AccessionNumber=B20090002605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BI000410; AccessionNumber=B20090002605; Ophævet 2016-06-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Normalvedtægter for en selvejende almen ungdomsboliginstitution affattes i overensstemmelse med bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2009-01-21",
-      "valid_to": null
+      "valid_from": "2009-01-24",
+      "valid_to": "2016-06-15"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2009.",
-      "valid_from": "2009-01-21",
-      "valid_to": null
+      "valid_from": "2009-01-24",
+      "valid_to": "2016-06-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:04:40.140Z",
+    "accession": "B20090002605",
+    "document_id": "BI000410",
+    "unique_document_id": "122976",
+    "upstream_status": "Historic",
+    "start_date": "2009-01-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "2016-06-15",
+    "seed_status": "repealed"
+  }
 }

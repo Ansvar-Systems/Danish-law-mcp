@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om isbrydningstjenesten",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1965-12-17",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1965/452/xml",
-  "description": "Retsinformation source. DocumentId=CM041850; AccessionNumber=B19650045205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM041850; AccessionNumber=B19650045205; Ophævet 2014-02-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:11:12.968Z",
+    "accession": "B19650045205",
+    "document_id": "CM041850",
+    "unique_document_id": "82502",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-05-26",
+    "historic_marked": "2014-02-12",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2022-09-22",
+  "in_force_date": "2022-09-28",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1336/xml",
   "description": "Retsinformation source. DocumentId=CQ002339; AccessionNumber=B20220133605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "14",
       "section": "14",
       "content": "§ 14. Virksomheden skal senest den 30. november 2022, jf. dog stk. 2, indsende en opgørelse over virksomhedens faktiske omsætning samt virksomhedens faktiske faste omkostninger i kompensationsperioden til Erhvervsstyrelsen.",
-      "valid_from": "2022-09-22",
+      "valid_from": "2022-09-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:15:04.328Z",
+    "accession": "B20220133605",
+    "document_id": "CQ002339",
+    "unique_document_id": "232996",
+    "upstream_status": "Valid",
+    "start_date": "2022-09-28",
+    "end_date": "2022-09-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

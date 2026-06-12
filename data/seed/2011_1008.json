@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fødevarehygiejne",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-10-26",
+  "in_force_date": "2011-10-29",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1008/xml",
-  "description": "Retsinformation source. DocumentId=AH004371; AccessionNumber=B20110100805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004371; AccessionNumber=B20110100805; Ophævet 2016-01-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "45",
@@ -19,9 +20,20 @@
       "provision_ref": "45",
       "section": "45",
       "content": "§ 45 a. Opdrætteren af hjortedyr, opdrættet vildt af svinefamilien, strudsefugle eller bison kan attestere for korrekt udført slagtning og afblødning og for slagtedato og -tidspunkt, når følgende betingelser er opfyldt: 1) Bedriften ligger i Danmark og er ikke underlagt dyresundhedsrestriktioner. 2) Aflivning foretages af en person, som opfylder betingelserne i bekendtgørelse om slagtning og aflivning af dyr.",
-      "valid_from": "2011-10-26",
-      "valid_to": null
+      "valid_from": "2011-10-29",
+      "valid_to": "2016-01-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:38:30.435Z",
+    "accession": "B20110100805",
+    "document_id": "AH004371",
+    "unique_document_id": "138969",
+    "upstream_status": "Historic",
+    "start_date": "2011-10-29",
+    "end_date": "2022-04-09",
+    "historic_marked": "2016-01-08",
+    "seed_status": "repealed"
+  }
 }

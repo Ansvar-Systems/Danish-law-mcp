@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om godskørsel og lov om buskørsel (Ansatte chauffører, ophævelse af chaufførudlånsordningen, aflønning af chaufførvikarer, udvidet anvendelse af overenskomstnævnet, ændring af domstolsprøvelse i visse sager m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-06-01",
+  "in_force_date": "2015-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2015/746/xml",
-  "description": "Retsinformation source. DocumentId=BL001127; AccessionNumber=A20150074630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL001127; AccessionNumber=A20150074630; Ophævet 2023-05-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "6c",
@@ -25,15 +26,26 @@
       "section": "6c",
       "content": "§ 6 c. Transportministeren hører overenskomstparterne til vurdering af, om en tilladelsesindehaver overholder § 6, stk. 3.",
       "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_to": "2023-05-23"
     },
     {
       "provision_ref": "18a",
       "section": "18a",
       "content": "§ 18 a. Transportministeren hører overenskomstparterne til vurdering af, om en tilladelsesindehaver overholder § 18, stk. 2.",
       "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_to": "2023-05-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:21:38.377Z",
+    "accession": "A20150074630",
+    "document_id": "BL001127",
+    "unique_document_id": "172698",
+    "upstream_status": "Historic",
+    "start_date": "2015-06-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-05-23",
+    "seed_status": "repealed"
+  }
 }

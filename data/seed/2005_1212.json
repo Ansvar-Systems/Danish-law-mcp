@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om varenumre til lægemidler",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-07",
+  "in_force_date": "2005-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1212/xml",
-  "description": "Retsinformation source. DocumentId=AI002040; AccessionNumber=B20050121205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI002040; AccessionNumber=B20050121205; Ophævet 2009-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:57:27.155Z",
+    "accession": "B20050121205",
+    "document_id": "AI002040",
+    "unique_document_id": "10149",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-15",
+    "end_date": "2022-07-12",
+    "historic_marked": "2009-07-01",
+    "seed_status": "repealed"
+  }
 }

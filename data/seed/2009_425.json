@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om koncession for Post Danmark A/S",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-05-29",
+  "in_force_date": "2009-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2009/425/xml",
-  "description": "Retsinformation source. DocumentId=BL000187; AccessionNumber=B20090042505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000187; AccessionNumber=B20090042505; Ophævet 2010-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:11:26.880Z",
+    "accession": "B20090042505",
+    "document_id": "BL000187",
+    "unique_document_id": "125211",
+    "upstream_status": "Historic",
+    "start_date": "2009-05-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-12-21",
+    "seed_status": "repealed"
+  }
 }

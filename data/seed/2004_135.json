@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om børnepasningsorlov\\n(Tilmelding til børnepasningsorlov)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-02",
+  "in_force_date": "2004-03-03",
   "url": "https://www.retsinformation.dk/eli/lta/2004/135/xml",
-  "description": "Retsinformation source. DocumentId=BE000950; AccessionNumber=A20040013530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000950; AccessionNumber=A20040013530; Ophævet 2004-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:07:02.699Z",
+    "accession": "A20040013530",
+    "document_id": "BE000950",
+    "unique_document_id": "30039",
+    "upstream_status": "Historic",
+    "start_date": "2004-03-03",
+    "end_date": "2011-09-21",
+    "historic_marked": "2004-04-01",
+    "seed_status": "repealed"
+  }
 }

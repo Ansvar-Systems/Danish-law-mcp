@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-04-21",
+  "in_force_date": "2020-04-23",
   "url": "https://www.retsinformation.dk/eli/lta/2020/482/xml",
   "description": "Retsinformation source. DocumentId=CS000795; AccessionNumber=B20200048205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 61 af 21. januar 2019 om administration af tilskud fra puljer under Styrelsen for International Rekruttering og Integrations område ophæves.",
-      "valid_from": "2020-04-21",
+      "valid_from": "2020-04-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 24. april 2020.",
-      "valid_from": "2020-04-21",
+      "valid_from": "2020-04-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:31:00.894Z",
+    "accession": "B20200048205",
+    "document_id": "CS000795",
+    "unique_document_id": "214049",
+    "upstream_status": "Valid",
+    "start_date": "2020-04-23",
+    "end_date": "2020-04-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

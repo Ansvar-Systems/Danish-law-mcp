@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om GiroBank A/S (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-05-31",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1991/322/xml",
-  "description": "Retsinformation source. DocumentId=CM010184; AccessionNumber=A19910032230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010184; AccessionNumber=A19910032230; Ophævet 2009-03-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:43:16.725Z",
+    "accession": "A19910032230",
+    "document_id": "CM010184",
+    "unique_document_id": "51358",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-04-02",
+    "historic_marked": "2009-03-02",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om indskud på etabeleringskonto",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-02-28",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1980/85/xml",
-  "description": "Retsinformation source. DocumentId=CM021909; AccessionNumber=A19800008529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM021909; AccessionNumber=A19800008529; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:06:22.496Z",
+    "accession": "A19800008529",
+    "document_id": "CM021909",
+    "unique_document_id": "62889",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-01-14",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

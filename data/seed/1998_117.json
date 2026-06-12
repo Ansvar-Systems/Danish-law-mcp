@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Åbent Brev angående udskrivning af nyvalg til Folketinget",
   "short_name": "Åbent brev",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-02-19",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1998/117/xml",
-  "description": "Retsinformation source. DocumentId=CM046633; AccessionNumber=B19980011761; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046633; AccessionNumber=B19980011761; Ophævet 1998-06-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:32:20.754Z",
+    "accession": "B19980011761",
+    "document_id": "CM046633",
+    "unique_document_id": "86859",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "1999-02-20",
+    "historic_marked": "1998-06-08",
+    "seed_status": "repealed"
+  }
 }

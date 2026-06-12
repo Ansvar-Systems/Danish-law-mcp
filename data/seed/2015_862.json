@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om lokomotiver og passagervogne, der anvendes på det danske jernbanenet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-07-07",
+  "in_force_date": "2015-07-09",
   "url": "https://www.retsinformation.dk/eli/lta/2015/862/xml",
-  "description": "Retsinformation source. DocumentId=CH000009; AccessionNumber=B20150086205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CH000009; AccessionNumber=B20150086205; Ophævet 2015-07-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -19,9 +20,20 @@
       "provision_ref": "13",
       "section": "13",
       "content": "§ 13. Afgørelser truffet af Trafik- og Byggestyrelsen efter denne bekendtgørelse kan ikke indbringes for transport- og bygningsministeren eller anden administrativ myndighed.",
-      "valid_from": "2015-07-07",
-      "valid_to": null
+      "valid_from": "2015-07-09",
+      "valid_to": "2015-07-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:26:20.265Z",
+    "accession": "B20150086205",
+    "document_id": "CH000009",
+    "unique_document_id": "173262",
+    "upstream_status": "Historic",
+    "start_date": "2015-07-09",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-07-14",
+    "seed_status": "repealed"
+  }
 }

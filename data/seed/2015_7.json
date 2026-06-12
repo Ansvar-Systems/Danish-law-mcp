@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om skibspassagerers rettigheder",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-01-07",
+  "in_force_date": "2015-01-10",
   "url": "https://www.retsinformation.dk/eli/lta/2015/7/xml",
-  "description": "Retsinformation source. DocumentId=BP001159; AccessionNumber=B20150000705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001159; AccessionNumber=B20150000705; Ophævet 2026-01-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Den, herunder transportører, rejseagenter, rejsearrangører og billetudstedere, der overtræder forordningen, straffes med bøde. Stk. 2. Søfartsstyrelsen kan påbyde at den, herunder transportører, rejseagenter, rejsearrangører og billetudstedere, der overtræder forordningen, bringer forholdet i orden straks eller inden en nærmere angiven frist.",
-      "valid_from": "2015-01-07",
-      "valid_to": null
+      "valid_from": "2015-01-10",
+      "valid_to": "2026-01-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:19:44.537Z",
+    "accession": "B20150000705",
+    "document_id": "BP001159",
+    "unique_document_id": "167379",
+    "upstream_status": "Historic",
+    "start_date": "2015-01-10",
+    "end_date": "2026-01-30",
+    "historic_marked": "2026-01-29",
+    "seed_status": "repealed"
+  }
 }

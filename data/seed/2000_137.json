@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om henstandsordning for kronisk syge",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-25",
+  "in_force_date": "2000-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2000/137/xml",
-  "description": "Retsinformation source. DocumentId=AQ000433; AccessionNumber=B20000013705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000433; AccessionNumber=B20000013705; Ophævet 2001-12-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:05:23.950Z",
+    "accession": "B20000013705",
+    "document_id": "AQ000433",
+    "unique_document_id": "21401",
+    "upstream_status": "Historic",
+    "start_date": "2000-02-28",
+    "end_date": "2022-07-12",
+    "historic_marked": "2001-12-13",
+    "seed_status": "repealed"
+  }
 }

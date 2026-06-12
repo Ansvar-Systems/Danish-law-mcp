@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af momsbekendtgørelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-06-23",
+  "in_force_date": "2022-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2022/982/xml",
-  "description": "Retsinformation source. DocumentId=AN015600; AccessionNumber=B20220098205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN015600; AccessionNumber=B20220098205; Ophævet 2023-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "48a",
@@ -19,9 +20,20 @@
       "provision_ref": "48a",
       "section": "48a",
       "content": "§ 48 a. Ved afgiftsfrit salg efter momslovens § 34, stk. 6, til købere, der ikke har bopæl eller sædvanligt opholdssted i EU eller Norge, skal køberen over for virksomheden dokumentere sin bopæl eller sædvanligt opholdssted ved forevisning af pas, identitetskort eller anden tilsvarende legitimation. Køberen skal dokumentere udrejsen til steder uden for EU ved forevisning af boardingkort. Kopi af den foreviste legitimation og det foreviste boardingkort skal vedlægges virksomhedens regnskab som dokumentation for afgiftsfritagelsen.",
-      "valid_from": "2022-06-23",
-      "valid_to": null
+      "valid_from": "2022-06-24",
+      "valid_to": "2023-12-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:00:54.874Z",
+    "accession": "B20220098205",
+    "document_id": "AN015600",
+    "unique_document_id": "232028",
+    "upstream_status": "Historic",
+    "start_date": "2022-06-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-12-04",
+    "seed_status": "repealed"
+  }
 }

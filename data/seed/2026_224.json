@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2026-01-29",
+  "in_force_date": "2026-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2026/224/xml",
   "description": "Retsinformation source. DocumentId=AA015117; AccessionNumber=B20260022405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Afgørelser om samtykke i medfør af § 2, stk. 2, i lov om international fuldbyrdelse af straf mv. til, at en dansk afgørelse fuldbyrdes i udlandet, træffes af Styrelsen for Danmarks Fængsler, eller den, styrelsen bemyndiger dertil. Stk. 2. Afgørelser, der er truffet i medfør af stk. 1, kan ikke indbringes for højere administrativ myndighed.",
-      "valid_from": "2026-01-29",
+      "valid_from": "2026-01-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2026. Stk. 2. Bekendtgørelsen finder ikke anvendelse på afgørelser, der er truffet før bekendtgørelsens ikrafttræden. For sådanne afgørelser finder de hidtil gældende regler anvendelse.",
-      "valid_from": "2026-01-29",
+      "valid_from": "2026-01-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:39:48.571Z",
+    "accession": "B20260022405",
+    "document_id": "AA015117",
+    "unique_document_id": "255183",
+    "upstream_status": "Valid",
+    "start_date": "2026-01-30",
+    "end_date": "2026-01-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

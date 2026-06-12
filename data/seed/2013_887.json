@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud m.v. til friskoler og private grundskoler m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-27",
+  "in_force_date": "2013-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/2013/887/xml",
-  "description": "Retsinformation source. DocumentId=BN000362; AccessionNumber=B20130088705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BN000362; AccessionNumber=B20130088705; Ophævet 2015-12-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11 a. Ved beregningen af tilskuddet efter lovens § 11 a, stk. 1, 2. pkt., indgår i gennemsnitsudregningen alene skoleår, for hvilke der har fundet tilskudsudbetaling sted. Stk. 2. Ved beregningen af tilskuddet efter lovens § 11 a, stk. 1, 2. pkt., pris- og lønreguleres de for skoleårene 2009-10, 2010-11 og 2011-12 udbetalte tilskud til 2013-niveau, inden gennemsnittet for de tre skoleår udregnes. De udregnede gennemsnit for alle skoler reguleres herefter således, at summen af gennemsnittene bliver 120 mio. kr.",
-      "valid_from": "2013-06-27",
-      "valid_to": null
+      "valid_from": "2013-07-04",
+      "valid_to": "2015-12-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:22:30.696Z",
+    "accession": "B20130088705",
+    "document_id": "BN000362",
+    "unique_document_id": "152781",
+    "upstream_status": "Historic",
+    "start_date": "2013-07-04",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-12-23",
+    "seed_status": "repealed"
+  }
 }

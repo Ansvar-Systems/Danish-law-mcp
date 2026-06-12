@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "International købelov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-12-07",
+  "in_force_date": "2001-02-14",
   "url": "https://www.retsinformation.dk/eli/lta/1988/733/xml",
-  "description": "Retsinformation source. DocumentId=AA001322; AccessionNumber=A19880073330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001322; AccessionNumber=A19880073330; Ophævet 2014-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:22:37.874Z",
+    "accession": "A19880073330",
+    "document_id": "AA001322",
+    "unique_document_id": "976",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-14",
+    "end_date": "2023-01-06",
+    "historic_marked": "2014-11-25",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Statens Kunstfond",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-04-12",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1978/163/xml",
-  "description": "Retsinformation source. DocumentId=CM006548; AccessionNumber=A19780016330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006548; AccessionNumber=A19780016330; Ophævet 1995-10-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:00:28.905Z",
+    "accession": "A19780016330",
+    "document_id": "CM006548",
+    "unique_document_id": "47748",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-12-29",
+    "historic_marked": "1995-10-20",
+    "seed_status": "repealed"
+  }
 }

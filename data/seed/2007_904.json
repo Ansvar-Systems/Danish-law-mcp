@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om meddelelse af opholds- og arbejdstilladelse til studerende",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-07-04",
+  "in_force_date": "2007-07-23",
   "url": "https://www.retsinformation.dk/eli/lta/2007/904/xml",
-  "description": "Retsinformation source. DocumentId=BC000427; AccessionNumber=B20070090405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000427; AccessionNumber=B20070090405; Ophævet 2014-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:40:58.213Z",
+    "accession": "B20070090405",
+    "document_id": "BC000427",
+    "unique_document_id": "29077",
+    "upstream_status": "Historic",
+    "start_date": "2007-07-23",
+    "end_date": "2017-12-12",
+    "historic_marked": "2014-12-29",
+    "seed_status": "repealed"
+  }
 }

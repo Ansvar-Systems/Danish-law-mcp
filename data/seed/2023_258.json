@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af momsbekendtgørelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-03-06",
+  "in_force_date": "2023-03-09",
   "url": "https://www.retsinformation.dk/eli/lta/2023/258/xml",
-  "description": "Retsinformation source. DocumentId=AN015788; AccessionNumber=B20230025805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN015788; AccessionNumber=B20230025805; Ophævet 2023-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:39:56.793Z",
+    "accession": "B20230025805",
+    "document_id": "AN015788",
+    "unique_document_id": "233947",
+    "upstream_status": "Historic",
+    "start_date": "2023-03-09",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-12-04",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om Statens Tekniske Prøvenævn",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-02-04",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1986/40/xml",
-  "description": "Retsinformation source. DocumentId=CM025196; AccessionNumber=A19860004029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025196; AccessionNumber=A19860004029; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:08:36.505Z",
+    "accession": "A19860004029",
+    "document_id": "CM025196",
+    "unique_document_id": "66083",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-27",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

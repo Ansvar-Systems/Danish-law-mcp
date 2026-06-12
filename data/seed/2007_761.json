@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om medicintilskud",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-26",
+  "in_force_date": "2007-07-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/761/xml",
-  "description": "Retsinformation source. DocumentId=AI003423; AccessionNumber=B20070076105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI003423; AccessionNumber=B20070076105; Ophævet 2016-06-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:35:14.972Z",
+    "accession": "B20070076105",
+    "document_id": "AI003423",
+    "unique_document_id": "11400",
+    "upstream_status": "Historic",
+    "start_date": "2007-07-06",
+    "end_date": "2022-07-12",
+    "historic_marked": "2016-06-08",
+    "seed_status": "repealed"
+  }
 }

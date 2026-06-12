@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om statens uddannelsesstøtte (SU-bekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-13",
+  "in_force_date": "2020-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1979/xml",
-  "description": "Retsinformation source. DocumentId=CE001031; AccessionNumber=B20200197905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE001031; AccessionNumber=B20200197905; Ophævet 2021-12-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1a:10a",
@@ -21,9 +22,20 @@
       "chapter": "1a",
       "section": "10a",
       "content": "§ 10 a. Den uddannelsessøgende, der er indskrevet på en støtteberettigende uddannelse, anses for at gennemgå uddannelsen, jf. lovens § 2, stk. 1, nr. 1, med mindre den uddannelsessøgende som følge af uddannelsesinstitutionens sanktion er afskåret fra at deltage i undervisning, eksaminer eller lignende.",
-      "valid_from": "2020-12-13",
-      "valid_to": null
+      "valid_from": "2020-12-17",
+      "valid_to": "2021-12-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:07:47.789Z",
+    "accession": "B20200197905",
+    "document_id": "CE001031",
+    "unique_document_id": "218260",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-12-15",
+    "seed_status": "repealed"
+  }
 }

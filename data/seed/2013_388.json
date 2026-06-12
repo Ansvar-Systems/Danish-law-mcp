@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om jordbrugets anvendelse af gødning og om plantedække\\n(Regulering af kvælstofkvoten og indberetning af plantedække m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-04-22",
+  "in_force_date": "2013-04-22",
   "url": "https://www.retsinformation.dk/eli/lta/2013/388/xml",
-  "description": "Retsinformation source. DocumentId=AH004904; AccessionNumber=A20130038830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004904; AccessionNumber=A20130038830; Ophævet 2013-05-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "21",
@@ -20,8 +21,19 @@
       "section": "21",
       "content": "§ 21 a. Virksomheden skal hvert år indberette virksomhedens samlede areal, hvorpå der er etableret plantedække, efter regler fastsat i medfør af § 18. Stk. 2. Ministeren for fødevarer, landbrug og fiskeri fastsætter nærmere regler om indberetningen, herunder udformning og indhold, og fristen for indberetning.",
       "valid_from": "2013-04-22",
-      "valid_to": null
+      "valid_to": "2013-05-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:02:21.374Z",
+    "accession": "A20130038830",
+    "document_id": "AH004904",
+    "unique_document_id": "146410",
+    "upstream_status": "Historic",
+    "start_date": "2013-04-22",
+    "end_date": "2022-04-08",
+    "historic_marked": "2013-05-22",
+    "seed_status": "repealed"
+  }
 }

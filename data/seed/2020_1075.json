@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-06-30",
+  "in_force_date": "2020-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1075/xml",
   "description": "Retsinformation source. DocumentId=CY000571; AccessionNumber=B20200107505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -137,5 +138,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:31:34.025Z",
+    "accession": "B20200107505",
+    "document_id": "CY000571",
+    "unique_document_id": "215648",
+    "upstream_status": "Valid",
+    "start_date": "2020-06-30",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

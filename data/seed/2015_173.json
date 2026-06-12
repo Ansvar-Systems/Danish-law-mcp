@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om pædagogikum i de gymnasiale uddannelser\\n(Specifik undervisningskompetence i visse gymnasiale fag i eux-forløb)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-02-23",
+  "in_force_date": "2015-02-24",
   "url": "https://www.retsinformation.dk/eli/lta/2015/173/xml",
-  "description": "Retsinformation source. DocumentId=AT005043; AccessionNumber=B20150017305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT005043; AccessionNumber=B20150017305; Ophævet 2018-09-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "28",
@@ -19,9 +20,20 @@
       "provision_ref": "28",
       "section": "28",
       "content": "§ 28 a. Lærere med en afsluttende erhvervsøkonomisk diplomuddannelse (HD 2. del), som har undervisningskompetence til erhvervsuddannelse, men ikke opfylder de almindelige krav i denne bekendtgørelse, kan opnå specifik undervisningskompetence i et eller flere af følgende gymnasiale fag på eux-forløb: 1) Afsætning på B- og A-niveau. 2) Erhvervsøkonomi på C-niveau. 3) Finansiering på B- og C-niveau. 4) Organisation på C-niveau. 5) Virksomhedsøkonomi på B- og A-niveau. Stk. 2. Undervisningskompetence efter stk. 1 forudsætter, at læreren har gennemført en relevant specialisering i HD 2. del samt kursus i fagdidaktik i faget.",
-      "valid_from": "2015-02-23",
-      "valid_to": null
+      "valid_from": "2015-02-24",
+      "valid_to": "2018-09-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:51.738Z",
+    "accession": "B20150017305",
+    "document_id": "AT005043",
+    "unique_document_id": "168391",
+    "upstream_status": "Historic",
+    "start_date": "2015-02-24",
+    "end_date": "2022-11-09",
+    "historic_marked": "2018-09-26",
+    "seed_status": "repealed"
+  }
 }

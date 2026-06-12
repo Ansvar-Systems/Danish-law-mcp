@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om listen over farlige stoffer",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-11-30",
+  "in_force_date": "2000-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1066/xml",
-  "description": "Retsinformation source. DocumentId=AL000569; AccessionNumber=B20000106605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000569; AccessionNumber=B20000106605; Ophævet 2002-06-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:53:09.659Z",
+    "accession": "B20000106605",
+    "document_id": "AL000569",
+    "unique_document_id": "12409",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-15",
+    "end_date": "2023-07-13",
+    "historic_marked": "2002-06-17",
+    "seed_status": "repealed"
+  }
 }

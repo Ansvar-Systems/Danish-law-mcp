@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om en kommunal og amtskommunal ejendomsværdiskat",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-11-29",
+  "in_force_date": "2000-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1051/xml",
-  "description": "Retsinformation source. DocumentId=AN001619; AccessionNumber=A20000105129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001619; AccessionNumber=A20000105129; Ophævet 2002-09-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:52:34.874Z",
+    "accession": "A20000105129",
+    "document_id": "AN001619",
+    "unique_document_id": "14393",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-07",
+    "end_date": "2007-08-30",
+    "historic_marked": "2002-09-19",
+    "seed_status": "repealed"
+  }
 }

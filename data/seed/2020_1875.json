@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godkendte revisorers erklæringer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-08",
+  "in_force_date": "2020-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1875/xml",
-  "description": "Retsinformation source. DocumentId=CQ001503; AccessionNumber=B20200187505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001503; AccessionNumber=B20200187505; Ophævet 2024-05-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8a",
@@ -19,9 +20,20 @@
       "provision_ref": "8a",
       "section": "8a",
       "content": "§ 8 a. Revisionspåtegningen på en årsrapport, der er udarbejdet i henhold til Kommissionens delegerede forordning (EU) 2019/815 af 17. december 2018 om supplerende regler til Europa-Parlamentets og Rådets direktiv 2004/109/EF for så vidt angår reguleringsmæssige tekniske standarder til præcisering af et fælles elektronisk rapporteringsformat, skal indeholde en konklusion om, hvorvidt årsrapporten er udarbejdet i overensstemmelse med forordningens krav og en omtale af grundlaget for den afgivne konklusion. Stk. 2. Konklusionen efter stk. 1 skal gives i et særskilt afsnit med en passende overskrift.",
-      "valid_from": "2020-12-08",
-      "valid_to": null
+      "valid_from": "2020-12-10",
+      "valid_to": "2024-05-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:03:40.096Z",
+    "accession": "B20200187505",
+    "document_id": "CQ001503",
+    "unique_document_id": "218270",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-10",
+    "end_date": "2024-07-11",
+    "historic_marked": "2024-05-28",
+    "seed_status": "repealed"
+  }
 }

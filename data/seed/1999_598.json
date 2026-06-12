@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af landbrugslov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-07-15",
+  "in_force_date": "1999-07-26",
   "url": "https://www.retsinformation.dk/eli/lta/1999/598/xml",
-  "description": "Retsinformation source. DocumentId=AH000302; AccessionNumber=A19990059829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000302; AccessionNumber=A19990059829; Ophævet 2004-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:34:26.664Z",
+    "accession": "A19990059829",
+    "document_id": "AH000302",
+    "unique_document_id": "6730",
+    "upstream_status": "Historic",
+    "start_date": "1999-07-26",
+    "end_date": "2022-04-08",
+    "historic_marked": "2004-06-09",
+    "seed_status": "repealed"
+  }
 }

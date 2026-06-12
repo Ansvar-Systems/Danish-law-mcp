@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om lån til refinansiering i landbrugsejendomme m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-12-05",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1988/727/xml",
-  "description": "Retsinformation source. DocumentId=CM000037; AccessionNumber=B19880072705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000037; AccessionNumber=B19880072705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:22:22.720Z",
+    "accession": "B19880072705",
+    "document_id": "CM000037",
+    "unique_document_id": "41550",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

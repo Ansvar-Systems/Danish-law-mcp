@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af veksellov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-08-25",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/559/xml",
-  "description": "Retsinformation source. DocumentId=CM043784; AccessionNumber=A19860055929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043784; AccessionNumber=A19860055929; Ophævet 2018-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:13:17.197Z",
+    "accession": "A19860055929",
+    "document_id": "CM043784",
+    "unique_document_id": "84352",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2018-12-22",
+    "historic_marked": "2018-12-21",
+    "seed_status": "repealed"
+  }
 }

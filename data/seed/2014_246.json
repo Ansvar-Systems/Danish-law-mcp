@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2014-03-10",
+  "in_force_date": "2014-03-20",
   "url": "https://www.retsinformation.dk/eli/lta/2014/246/xml",
   "description": "Retsinformation source. DocumentId=AE002037; AccessionNumber=A20140024629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Af lån, der af helt eller delvis statsejede aktieselskaber, offentlige erhvervsdrivende fonde og selvstændige offentlige virksomheder er eller vil blive optaget med statsgaranti, betales til statskassen en årlig garantiprovision. Provisionen udgør 0,15 pct. af de pågældende låns restgæld ultimo året før og opkræves for eksisterende låns ved­kom­men­de første gang i 1994 beregnet af ultimorestgæld 1993. Stk. 2. Finansministeren kan fritage lånearrangementer fra forpligtelsen til at betale garantiprovision.",
-      "valid_from": "2014-03-10",
+      "valid_from": "2014-03-20",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Loven træder i kraft den 1. januar 1994.",
-      "valid_from": "2014-03-10",
+      "valid_from": "2014-03-20",
       "valid_to": null
     },
     {
       "provision_ref": "23",
       "section": "23",
       "content": "§ 23. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2. 2) Bekendtgjort i Lovtidende den 2. juli 1998. Stk. 2. (Udelades). Stk. 3. (Udelades).",
-      "valid_from": "2014-03-10",
+      "valid_from": "2014-03-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:54:58.710Z",
+    "accession": "A20140024629",
+    "document_id": "AE002037",
+    "unique_document_id": "162097",
+    "upstream_status": "Valid",
+    "start_date": "2014-03-20",
+    "end_date": "2014-03-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov indeholdende Bestemmelser om Politiet udenfor Kjøbenhavn (* 1) (* 2) (Politiloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1871-02-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1871/21/xml",
-  "description": "Retsinformation source. DocumentId=CM018239; AccessionNumber=A18710002130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018239; AccessionNumber=A18710002130; Ophævet 2004-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:33:31.745Z",
+    "accession": "A18710002130",
+    "document_id": "CM018239",
+    "unique_document_id": "59287",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-01-02",
+    "historic_marked": "2004-06-09",
+    "seed_status": "repealed"
+  }
 }

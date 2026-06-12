@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af retsplejeloven\\n(Dommeres fremtræden i retsmøder)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-12",
+  "in_force_date": "2009-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/495/xml",
-  "description": "Retsinformation source. DocumentId=AA004870; AccessionNumber=A20090049530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA004870; AccessionNumber=A20090049530; Ophævet 2009-11-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "56",
@@ -20,8 +21,19 @@
       "section": "56",
       "content": "§ 56. En dommer må i retsmøder ikke fremtræde på en måde, der er egnet til at blive opfattet som en tilkendegivelse om den pågældendes eventuelle religiøse eller politiske tilhørsforhold eller om den pågældendes holdning til religiøse eller politiske spørgsmål i øvrigt. Stk. 2. Stk. 1 finder tilsvarende anvendelse på fuldmægtige, midlertidigt beskikkede dommere og de personer, der er nævnt i § 19, stk. 3.",
       "valid_from": "2009-06-12",
-      "valid_to": null
+      "valid_to": "2009-11-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:14:16.541Z",
+    "accession": "A20090049530",
+    "document_id": "AA004870",
+    "unique_document_id": "125401",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-12",
+    "end_date": "2012-06-02",
+    "historic_marked": "2009-11-11",
+    "seed_status": "repealed"
+  }
 }

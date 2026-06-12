@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ikke-erhvervsmæssig sejlads på Karup Å med sidevandløb og søer\\n(Tilladelsesordning m.v. – implementering af servicedirektivet)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-04-16",
+  "in_force_date": "2010-04-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/396/xml",
-  "description": "Retsinformation source. DocumentId=AL002194; AccessionNumber=B20100039605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002194; AccessionNumber=B20100039605; Ophævet 2013-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7. De i § 1 nævnte kommuner kan etablere og administrere en tilladelsesordning for udlejningsvirksomhed, der overholder krav fastsat i kap. III, om tilladelser i Europaparlamentets og Rådets Direktiv 2006/123/EF af 12. december 2006 om tjenesteydelser i det indre marked (Servicedirektivet). Stk. 2. Hvis der er etableret en tilladelsesordning, jf. stk. 1, må udlejningsvirksomhed med fartøjer til sejlads kun drives med tilladelse fra de i § 2 nævnte kommunalbestyrelser, som i fællesskab fastsætter vilkårene for udlejning. Stk. 3. Når kommunen modtager en ansøgning om tilladelse til at drive udlejningsvirksomhed, sender kommunen en kvittering til ansøgeren med oplysning om 1) fristen for meddelelse af afgørelse, og 2) klagemuligheder, hvis kommunen ikke overholder fristen.",
-      "valid_from": "2010-04-16",
-      "valid_to": null
+      "valid_from": "2010-04-21",
+      "valid_to": "2013-04-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:13:44.154Z",
+    "accession": "B20100039605",
+    "document_id": "AL002194",
+    "unique_document_id": "131253",
+    "upstream_status": "Historic",
+    "start_date": "2010-04-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-04-29",
+    "seed_status": "repealed"
+  }
 }

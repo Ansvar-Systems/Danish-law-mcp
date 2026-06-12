@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om mærkning m.v. af fødevarer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-12",
+  "in_force_date": "2010-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2010/27/xml",
-  "description": "Retsinformation source. DocumentId=AH003693; AccessionNumber=B20100002705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003693; AccessionNumber=B20100002705; Ophævet 2014-12-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:08:38.678Z",
+    "accession": "B20100002705",
+    "document_id": "AH003693",
+    "unique_document_id": "129803",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-14",
+    "end_date": "2022-04-09",
+    "historic_marked": "2014-12-11",
+    "seed_status": "repealed"
+  }
 }

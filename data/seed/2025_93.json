@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-01-31",
+  "in_force_date": "2025-02-03",
   "url": "https://www.retsinformation.dk/eli/lta/2025/93/xml",
   "description": "Retsinformation source. DocumentId=CS001976; AccessionNumber=B20250009305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. En udlænding, der har eller vil kunne opnå opholdstilladelse efter Ukrainesærloven, kan ikke få færdigbehandlet en ansøgning om opholdstilladelse efter § 7 i udlændingeloven som sat i kraft for Færøerne ved kongelig anordning, så længe den pågældende er berettiget til opholdstilladelse efter Ukrainesærloven.",
-      "valid_from": "2025-01-31",
+      "valid_from": "2025-02-03",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 10. februar 2025.",
-      "valid_from": "2025-01-31",
+      "valid_from": "2025-02-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:31:59.182Z",
+    "accession": "B20250009305",
+    "document_id": "CS001976",
+    "unique_document_id": "247972",
+    "upstream_status": "Valid",
+    "start_date": "2025-02-03",
+    "end_date": "2025-02-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

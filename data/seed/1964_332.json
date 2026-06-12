@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om luftfartøjers luftdygtighed m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1964-11-27",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1964/332/xml",
-  "description": "Retsinformation source. DocumentId=CM008750; AccessionNumber=B19640033205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008750; AccessionNumber=B19640033205; Ophævet 1993-05-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:09:12.697Z",
+    "accession": "B19640033205",
+    "document_id": "CM008750",
+    "unique_document_id": "49936",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1993-05-05",
+    "seed_status": "repealed"
+  }
 }

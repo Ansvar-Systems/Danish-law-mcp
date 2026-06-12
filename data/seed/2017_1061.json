@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 4 og 5, i lov om ændring af lov om social service, lov om retssikkerhed og administration på det sociale område og lov om voksenansvar for anbragte børn og unge",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-09-06",
+  "in_force_date": "2017-09-13",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1061/xml",
-  "description": "Retsinformation source. DocumentId=CT000229; AccessionNumber=B20170106105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CT000229; AccessionNumber=B20170106105; Ophævet 2018-02-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 4 og 5, i lov nr. 1543 af 13. december 2016 om ændring af lov om social service, lov om retssikkerhed og administration på det sociale område og lov om voksenansvar for anbragte børn og unge (Fremtidsfuldmagter på det sociale område m.v.) sættes i kraft.",
-      "valid_from": "2017-09-06",
-      "valid_to": null
+      "valid_from": "2017-09-13",
+      "valid_to": "2018-02-12"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. oktober 2017.",
-      "valid_from": "2017-09-06",
-      "valid_to": null
+      "valid_from": "2017-09-13",
+      "valid_to": "2018-02-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:39:16.577Z",
+    "accession": "B20170106105",
+    "document_id": "CT000229",
+    "unique_document_id": "192698",
+    "upstream_status": "Historic",
+    "start_date": "2017-09-13",
+    "end_date": "2022-07-08",
+    "historic_marked": "2018-02-12",
+    "seed_status": "repealed"
+  }
 }

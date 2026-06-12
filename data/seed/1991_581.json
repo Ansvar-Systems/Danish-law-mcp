@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om en børnefamilieydelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-08-07",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/581/xml",
-  "description": "Retsinformation source. DocumentId=CM022045; AccessionNumber=A19910058129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022045; AccessionNumber=A19910058129; Ophævet 1993-08-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:53:24.541Z",
+    "accession": "A19910058129",
+    "document_id": "CM022045",
+    "unique_document_id": "63025",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-09-14",
+    "historic_marked": "1993-08-26",
+    "seed_status": "repealed"
+  }
 }

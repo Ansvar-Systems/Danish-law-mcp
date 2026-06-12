@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om ferie",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-08-30",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/713/xml",
-  "description": "Retsinformation source. DocumentId=CM028439; AccessionNumber=A19950071329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM028439; AccessionNumber=A19950071329; Ophævet 1997-03-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:49:41.887Z",
+    "accession": "A19950071329",
+    "document_id": "CM028439",
+    "unique_document_id": "69255",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2013-07-12",
+    "historic_marked": "1997-03-06",
+    "seed_status": "repealed"
+  }
 }

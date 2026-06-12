@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indgåelse af ægteskab",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-02",
+  "in_force_date": "2010-03-06",
   "url": "https://www.retsinformation.dk/eli/lta/2010/199/xml",
-  "description": "Retsinformation source. DocumentId=AA005374; AccessionNumber=B20100019905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005374; AccessionNumber=B20100019905; Ophævet 2012-06-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:05:44.803Z",
+    "accession": "B20100019905",
+    "document_id": "AA005374",
+    "unique_document_id": "130566",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-06",
+    "end_date": "2022-07-08",
+    "historic_marked": "2012-06-13",
+    "seed_status": "repealed"
+  }
 }

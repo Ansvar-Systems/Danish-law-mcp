@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 1-3, i lov om ændring af lov om fuldbyrdelse af straf m.v., lov om arbejdsmarkedsuddannelser m.v., lov om åben uddannelse (erhvervsrettet voksenuddannelse) m.v. og retsplejeloven (Udvidet besøgsafskæring m.v., tvungen opsparing, adgang til AMU-kurser, alkoholkontrol, udvidet adgang til konfiskation m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-06-25",
+  "in_force_date": "2018-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2018/898/xml",
-  "description": "Retsinformation source. DocumentId=AA010718; AccessionNumber=B20180089805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA010718; AccessionNumber=B20180089805; Ophævet 2019-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1-3, i lov nr. 713 af 8. juni 2018 om ændring af lov om fuldbyrdelse af straf m.v., lov om arbejdsmarkedsuddannelser m.v., lov om åben uddannelse (erhvervsrettet voksenuddannelse) m.v. og retsplejeloven (Udvidet besøgsafskæring m.v., tvungen opsparing, adgang til AMU-kurser, alkoholkontrol, udvidet adgang til konfiskation m.v.) sættes i kraft.",
-      "valid_from": "2018-06-25",
-      "valid_to": null
+      "valid_from": "2018-06-27",
+      "valid_to": "2019-12-10"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2018.",
-      "valid_from": "2018-06-25",
-      "valid_to": null
+      "valid_from": "2018-06-27",
+      "valid_to": "2019-12-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:24:17.537Z",
+    "accession": "B20180089805",
+    "document_id": "AA010718",
+    "unique_document_id": "202109",
+    "upstream_status": "Historic",
+    "start_date": "2018-06-27",
+    "end_date": "2019-12-11",
+    "historic_marked": "2019-12-10",
+    "seed_status": "repealed"
+  }
 }

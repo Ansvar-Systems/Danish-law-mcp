@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om køb (Købeloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-01-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1980/28/xml",
-  "description": "Retsinformation source. DocumentId=CM018149; AccessionNumber=A19800002829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018149; AccessionNumber=A19800002829; Ophævet 2003-04-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:01:15.144Z",
+    "accession": "A19800002829",
+    "document_id": "CM018149",
+    "unique_document_id": "59197",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2025-02-12",
+    "historic_marked": "2003-04-10",
+    "seed_status": "repealed"
+  }
 }

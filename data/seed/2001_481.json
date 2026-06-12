@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om naturgasforsyning",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/481/xml",
-  "description": "Retsinformation source. DocumentId=AL000682; AccessionNumber=A20010048130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000682; AccessionNumber=A20010048130; Ophævet 2003-03-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:01:44.561Z",
+    "accession": "A20010048130",
+    "document_id": "AL000682",
+    "unique_document_id": "12463",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2021-01-08",
+    "historic_marked": "2003-03-13",
+    "seed_status": "repealed"
+  }
 }

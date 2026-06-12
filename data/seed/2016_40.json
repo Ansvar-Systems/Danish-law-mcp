@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om beskyttelse af dyr under transport (Eksportportalen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-01-12",
+  "in_force_date": "2016-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/2016/40/xml",
-  "description": "Retsinformation source. DocumentId=CK000475; AccessionNumber=B20160004005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK000475; AccessionNumber=B20160004005; Ophævet 2019-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:34a",
@@ -33,25 +34,36 @@
       "chapter": "1",
       "section": "34a",
       "content": "§ 34 a. Organisator skal sikre, at Fødevarestyrelsen modtager logbogens del 1 i henhold til transportforordningens artikel 5, stk. 4, jf. bilag II, pkt. 3, litra b, via Fødevarestyrelsens digitale IT-system, Eksportportalen, på eksportportalen.fvst.dk. Stk. 2. Kopi af den udfyldte logbog og relevante diagramark og print skal forevises Fødevarestyrelsen, jf. transportforordningens artikel 5, stk. 4, jf. bilag II, pkt. 8, stk. 2, via eksportportalen.fvst.dk.",
-      "valid_from": "2016-01-12",
-      "valid_to": null
+      "valid_from": "2016-01-13",
+      "valid_to": "2019-12-18"
     },
     {
       "provision_ref": "1:34b",
       "chapter": "1",
       "section": "34b",
       "content": "§ 34 b. Transportvirksomheder, der skal stille oplysninger fra navigationssystemet, jf. transportforordningens artikel 6, stk. 9, til rådighed for Fødevarestyrelsen, skal gøre det via eksportportalen.fvst.dk.",
-      "valid_from": "2016-01-12",
-      "valid_to": null
+      "valid_from": "2016-01-13",
+      "valid_to": "2019-12-18"
     },
     {
       "provision_ref": "1:34c",
       "chapter": "1",
       "section": "34c",
       "content": "§ 34 c. Transportvirksomheder, der ansøger Fødevarestyrelsen om autorisation til at udføre lange forsendelser, jf. transportforordningens artikel 11, stk. 1, skal fremlægge gyldige godkendelsescertifikater i henhold til artikel 11, stk. 1, litra b, pkt. ii, via eksportportalen.fvst.dk.",
-      "valid_from": "2016-01-12",
-      "valid_to": null
+      "valid_from": "2016-01-13",
+      "valid_to": "2019-12-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:12:40.568Z",
+    "accession": "B20160004005",
+    "document_id": "CK000475",
+    "unique_document_id": "176883",
+    "upstream_status": "Historic",
+    "start_date": "2016-01-13",
+    "end_date": "2022-04-08",
+    "historic_marked": "2019-12-18",
+    "seed_status": "repealed"
+  }
 }

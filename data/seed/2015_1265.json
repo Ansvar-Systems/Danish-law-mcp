@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2015-11-17",
+  "in_force_date": "2015-11-19",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1265/xml",
   "description": "Retsinformation source. DocumentId=CH000041; AccessionNumber=B20150126505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "12",
       "section": "12",
       "content": "§ 12. Afgørelser truffet af Trafik- og Byggestyrelsen efter denne bekendtgørelse kan indbringes for transport- og bygningsministeren.",
-      "valid_from": "2015-11-17",
+      "valid_from": "2015-11-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:33:07.825Z",
+    "accession": "B20150126505",
+    "document_id": "CH000041",
+    "unique_document_id": "173833",
+    "upstream_status": "Valid",
+    "start_date": "2015-11-19",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

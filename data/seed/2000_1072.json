@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om vurdering af landets faste ejendomme",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-05",
+  "in_force_date": "2000-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1072/xml",
-  "description": "Retsinformation source. DocumentId=AN002110; AccessionNumber=B20000107205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002110; AccessionNumber=B20000107205; Ophævet 2002-05-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:53:24.950Z",
+    "accession": "B20000107205",
+    "document_id": "AN002110",
+    "unique_document_id": "14790",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-15",
+    "end_date": "2004-06-17",
+    "historic_marked": "2002-05-15",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod salg til human konsum af visse laks, der er fisket eller fanget i Østersøen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-11-25",
+  "in_force_date": "2004-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1145/xml",
-  "description": "Retsinformation source. DocumentId=BG000055; AccessionNumber=B20040114505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000055; AccessionNumber=B20040114505; Ophævet 2005-09-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:58:49.090Z",
+    "accession": "B20040114505",
+    "document_id": "BG000055",
+    "unique_document_id": "31385",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-02",
+    "end_date": "2022-04-09",
+    "historic_marked": "2005-09-16",
+    "seed_status": "repealed"
+  }
 }

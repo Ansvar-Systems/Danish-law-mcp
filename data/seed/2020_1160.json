@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilsyn med virksomheder med anerkendt arbejdsmiljøcertifikat",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-07-10",
+  "in_force_date": "2020-07-11",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1160/xml",
-  "description": "Retsinformation source. DocumentId=BE008420; AccessionNumber=B20200116005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008420; AccessionNumber=B20200116005; Ophævet 2024-01-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Virksomheder, der har fået udstedt et anerkendt arbejdsmiljøcertifikat efter reglerne i kapitel 11 a i lov om arbejdsmiljø og regler udstedt i medfør heraf, bliver kun underlagt tilsyn, når der er særlig anledning til det.",
-      "valid_from": "2020-07-10",
-      "valid_to": null
+      "valid_from": "2020-07-11",
+      "valid_to": "2024-01-30"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juli 2020. Stk. 2. Bekendtgørelse nr. 1192 af 9. oktober 2013 om undtagelse fra risikobaseret tilsyn for virksomheder med anerkendt arbejdsmiljøcertifikat ophæves.",
-      "valid_from": "2020-07-10",
-      "valid_to": null
+      "valid_from": "2020-07-11",
+      "valid_to": "2024-01-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:34:59.585Z",
+    "accession": "B20200116005",
+    "document_id": "BE008420",
+    "unique_document_id": "214729",
+    "upstream_status": "Historic",
+    "start_date": "2020-07-11",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-01-30",
+    "seed_status": "repealed"
+  }
 }

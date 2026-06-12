@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om fremme af energibesparelser i bygninger\\n(Fremrykning af pligt til energimærkning ved salg ved ejendomsformidler og offentliggørelse af påtaler og advarsler, m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-26",
+  "in_force_date": "2010-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2010/541/xml",
-  "description": "Retsinformation source. DocumentId=BJ000290; AccessionNumber=A20100054130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BJ000290; AccessionNumber=A20100054130; Ophævet 2011-06-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -20,8 +21,19 @@
       "section": "8",
       "content": "§ 8 a. Ved salg ved ejendomsformidler af en ejendom eller ejerlejlighed, jf. § 6, skal sælger forud for annoncering af sælgers ejendom eller ejerlejlighed udlevere energimærkning til ejendomsformidleren.",
       "valid_from": "2010-05-26",
-      "valid_to": null
+      "valid_to": "2011-06-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:19:38.024Z",
+    "accession": "A20100054130",
+    "document_id": "BJ000290",
+    "unique_document_id": "131992",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "2011-06-16",
+    "seed_status": "repealed"
+  }
 }

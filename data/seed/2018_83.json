@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2018-01-31",
+  "in_force_date": "2018-02-02",
   "url": "https://www.retsinformation.dk/eli/lta/2018/83/xml",
   "description": "Retsinformation source. DocumentId=CK001601; AccessionNumber=B20180008305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 9, nr. 2, i lov nr. 427 af 18. maj 2016 om ændring af lov om miljøgodkendelse m.v. af husdyrbrug, lov om planlægning, lov om anvendelse af Danmarks undergrund, lov om fremme af vedvarende energi og forskellige andre love (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)) sættes i kraft.",
-      "valid_from": "2018-01-31",
+      "valid_from": "2018-02-02",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 4. februar 2018.",
-      "valid_from": "2018-01-31",
+      "valid_from": "2018-02-02",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:21:33.885Z",
+    "accession": "B20180008305",
+    "document_id": "CK001601",
+    "unique_document_id": "198250",
+    "upstream_status": "Valid",
+    "start_date": "2018-02-02",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

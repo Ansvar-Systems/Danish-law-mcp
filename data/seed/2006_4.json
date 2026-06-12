@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af repatrieringsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-01-05",
+  "in_force_date": "2006-01-12",
   "url": "https://www.retsinformation.dk/eli/lta/2006/4/xml",
-  "description": "Retsinformation source. DocumentId=BC000324; AccessionNumber=A20060000429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000324; AccessionNumber=A20060000429; Ophævet 2010-04-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:22:20.848Z",
+    "accession": "A20060000429",
+    "document_id": "BC000324",
+    "unique_document_id": "29020",
+    "upstream_status": "Historic",
+    "start_date": "2006-01-12",
+    "end_date": "2017-11-22",
+    "historic_marked": "2010-04-12",
+    "seed_status": "repealed"
+  }
 }

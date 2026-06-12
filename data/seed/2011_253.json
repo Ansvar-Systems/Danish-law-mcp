@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2011-03-30",
+  "in_force_date": "2011-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2011/253/xml",
   "description": "Retsinformation source. DocumentId=AN010740; AccessionNumber=A20110025330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -23,5 +24,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:59:49.282Z",
+    "accession": "A20110025330",
+    "document_id": "AN010740",
+    "unique_document_id": "136381",
+    "upstream_status": "Valid",
+    "start_date": "2011-03-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ankenævn for afgørelser om merit i universitetsuddannelser (meritankenævnsbekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-08-26",
+  "in_force_date": "2019-08-28",
   "url": "https://www.retsinformation.dk/eli/lta/2019/880/xml",
-  "description": "Retsinformation source. DocumentId=CE000856; AccessionNumber=B20190088005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000856; AccessionNumber=B20190088005; Ophævet 2023-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. I henhold til reglerne i bekendtgørelse om bacheloruddannelser, akademiske overbygningsuddannelser og kandidatuddannelser ved universiteterne (uddannelsesbekendtgørelsen) kan universitetet træffe afgørelse om, at 1) allerede beståede uddannelseselementer fra en anden dansk uddannelse på samme niveau kan erstatte dele af den universitetsuddannelse, som den studerende har søgt optagelse på, er optaget på eller er indskrevet ved (merit for danske studieelementer), 2) allerede beståede uddannelseselementer fra en udenlandsk uddannelse på samme niveau kan erstatte dele af den universitetsuddannelse, som den studerende har søgt optagelse på, er optaget på eller er indskrevet ved (merit for udenlandske uddannelseselementer), og 3) planlagte beståede uddannelseselementer fra en anden dansk eller udenlandsk uddannelse på samme niveau kan erstatte dele af den universitetsuddannelse, som den studerende er optaget på og indskrevet ved (forhåndsmerit).",
-      "valid_from": "2019-08-26",
-      "valid_to": null
+      "valid_from": "2019-08-28",
+      "valid_to": "2023-06-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:23:39.557Z",
+    "accession": "B20190088005",
+    "document_id": "CE000856",
+    "unique_document_id": "210088",
+    "upstream_status": "Historic",
+    "start_date": "2019-08-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-06-22",
+    "seed_status": "repealed"
+  }
 }

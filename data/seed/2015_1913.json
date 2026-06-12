@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-15",
+  "in_force_date": "2016-01-09",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1913/xml",
   "description": "Retsinformation source. DocumentId=AG000688; AccessionNumber=B20150191305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Beredskabsstyrelsen fastsætter regler i medfør af beredskabslovens § 33, stk. 1-6, og § 70, stk. 4 og 5.",
-      "valid_from": "2015-12-15",
+      "valid_from": "2016-01-09",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Afgørelser truffet af Beredskabsstyrelsen efter regler fastsat i medfør af beredskabslovens § 33, stk. 1, 4 og 6, § 70, stk. 4 og 5, og § 79, stk. 5, kan ikke påklages til forsvarsministeren.",
-      "valid_from": "2015-12-15",
+      "valid_from": "2016-01-09",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. januar 2016. Stk. 2. Bekendtgørelse nr. 1557 af 11. december 2009 om henlæggelse af beføjelsen til at fastsætte regler til Beredskabsstyrelsen og om klageadgang ophæves.",
-      "valid_from": "2015-12-15",
+      "valid_from": "2016-01-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:59:15.826Z",
+    "accession": "B20150191305",
+    "document_id": "AG000688",
+    "unique_document_id": "176946",
+    "upstream_status": "Valid",
+    "start_date": "2016-01-09",
+    "end_date": "2026-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

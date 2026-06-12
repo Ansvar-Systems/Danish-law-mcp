@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om adgang til kandidatuddannelser ved universiteterne (kandidatadgangsbekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-11-14",
+  "in_force_date": "2014-11-22",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1218/xml",
-  "description": "Retsinformation source. DocumentId=CE000146; AccessionNumber=B20140121805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000146; AccessionNumber=B20140121805; Ophævet 2015-03-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "20",
@@ -19,9 +20,20 @@
       "provision_ref": "20",
       "section": "20",
       "content": "§ 20. Universitetet kan fastsætte regler om, at indskrivningen bringes til ophør for studerende, der ikke har bestået mindst én prøve i en sammenhængende periode på mindst 1 år. Stk. 2. Regler fastsat af universitet om, at studerende skal gennemføre supplerende prøver efter optagelsen på kandidat­uddannelsen, jf. § 5, 2. pkt., og bekendtgørelse om eksamen og censur ved universitetsuddannelser (eksamensbekendtgørelsen), gælder uanset regler fastsat i medfør af stk. 1. Stk. 3. Universitetet kan dispensere fra regler fastsat i medfør af stk. 1, hvis der foreligger usædvanlige forhold.",
-      "valid_from": "2014-11-14",
-      "valid_to": null
+      "valid_from": "2014-11-22",
+      "valid_to": "2015-03-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:35:55.389Z",
+    "accession": "B20140121805",
+    "document_id": "CE000146",
+    "unique_document_id": "165564",
+    "upstream_status": "Historic",
+    "start_date": "2014-11-22",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-03-19",
+    "seed_status": "repealed"
+  }
 }

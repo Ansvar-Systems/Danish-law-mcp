@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om fonde og visse foreninger",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-08-11",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/698/xml",
-  "description": "Retsinformation source. DocumentId=CM018220; AccessionNumber=A19920069829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018220; AccessionNumber=A19920069829; Ophævet 2012-09-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:40:17.035Z",
+    "accession": "A19920069829",
+    "document_id": "CM018220",
+    "unique_document_id": "59268",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2013-10-29",
+    "historic_marked": "2012-09-20",
+    "seed_status": "repealed"
+  }
 }

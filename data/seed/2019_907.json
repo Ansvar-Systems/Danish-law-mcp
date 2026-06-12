@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-08-30",
+  "in_force_date": "2019-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2019/907/xml",
   "description": "Retsinformation source. DocumentId=CK002134; AccessionNumber=B20190090705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 41 af 7. februar 1951 om foranstaltninger til bekæmpelse af San Jose-skjoldlusen. 2) Bekendtgørelse nr. 80 af 1. marts 1976 om bekæmpelse af nellikeviklere.",
-      "valid_from": "2019-08-30",
+      "valid_from": "2019-08-31",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 14. december 2019.",
-      "valid_from": "2019-08-30",
+      "valid_from": "2019-08-31",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:45.304Z",
+    "accession": "B20190090705",
+    "document_id": "CK002134",
+    "unique_document_id": "210103",
+    "upstream_status": "Valid",
+    "start_date": "2019-08-31",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

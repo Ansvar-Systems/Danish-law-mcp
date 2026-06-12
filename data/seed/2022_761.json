@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-05-31",
+  "in_force_date": "2022-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2022/761/xml",
   "description": "Retsinformation source. DocumentId=DC000589; AccessionNumber=B20220076105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 380 af 17. juli 1981 om forlængelse af forædlerbeskyttelsen for visse vegetativt formerede planter ophæves.",
-      "valid_from": "2022-05-31",
+      "valid_from": "2022-06-01",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2022.",
-      "valid_from": "2022-05-31",
+      "valid_from": "2022-06-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:51:59.288Z",
+    "accession": "B20220076105",
+    "document_id": "DC000589",
+    "unique_document_id": "231226",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-01",
+    "end_date": "2022-06-02",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

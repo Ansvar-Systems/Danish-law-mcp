@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om vandløb (Vandløbsloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1982-06-09",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1982/302/xml",
-  "description": "Retsinformation source. DocumentId=CM008172; AccessionNumber=A19820030230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008172; AccessionNumber=A19820030230; Ophævet 1992-05-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:17:07.982Z",
+    "accession": "A19820030230",
+    "document_id": "CM008172",
+    "unique_document_id": "49362",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-02-27",
+    "historic_marked": "1992-05-27",
+    "seed_status": "repealed"
+  }
 }

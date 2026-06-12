@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om registrering af køretøjer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-29",
+  "in_force_date": "2020-12-31",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2297/xml",
-  "description": "Retsinformation source. DocumentId=AN014672; AccessionNumber=B20200229705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN014672; AccessionNumber=B20200229705; Ophævet 2021-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "106a",
@@ -19,9 +20,20 @@
       "provision_ref": "106a",
       "section": "106a",
       "content": "§ 106 a. Køretøjsimportører og -producenter kan over internettet registrere oplysninger fra typeattesten om et fabriksnyt EU-typegodkendt eller dansk godkendt køretøj samt tilhørende oplysninger om andre tekniske og økonomiske forhold. Stk. 2. Registreringen kan ske, hvis følgende identifikationsoplysninger gives: 1) Køretøjets registreringsnummer eller stelnummer. 2) Den digitale signatur, importøren eller producenten har anmeldt over for Skatteforvaltningen til denne brug.",
-      "valid_from": "2020-12-29",
-      "valid_to": null
+      "valid_from": "2020-12-31",
+      "valid_to": "2021-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:20:33.735Z",
+    "accession": "B20200229705",
+    "document_id": "AN014672",
+    "unique_document_id": "217799",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-31",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-12-21",
+    "seed_status": "repealed"
+  }
 }

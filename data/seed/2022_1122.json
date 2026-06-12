@@ -5,6 +5,7 @@
   "short_name": "AND H#LOKDOK07",
   "status": "in_force",
   "issued_date": "2022-06-29",
+  "in_force_date": "2022-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1122/xml",
   "description": "Retsinformation source. DocumentId=CQ002290; AccessionNumber=B20220112203; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. §§ 300-313 i sølov nr. 56 af 1. april 1892, jf. lovbekendtgørelse nr. 141 af 1. april 1985, ophæves.",
-      "valid_from": "2022-06-29",
+      "valid_from": "2022-07-05",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Anordningen træder i kraft den 10. juli 2022.",
-      "valid_from": "2022-06-29",
+      "valid_from": "2022-07-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:06:25.464Z",
+    "accession": "B20220112203",
+    "document_id": "CQ002290",
+    "unique_document_id": "232302",
+    "upstream_status": "Valid",
+    "start_date": "2022-07-05",
+    "end_date": "2022-07-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

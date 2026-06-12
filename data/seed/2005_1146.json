@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af gevinster ved lotterispil m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-02",
+  "in_force_date": "2005-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1146/xml",
-  "description": "Retsinformation source. DocumentId=AN005015; AccessionNumber=A20050114629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005015; AccessionNumber=A20050114629; Ophævet 2012-01-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:54:46.814Z",
+    "accession": "A20050114629",
+    "document_id": "AN005015",
+    "unique_document_id": "17118",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-12",
+    "end_date": "2026-04-10",
+    "historic_marked": "2012-01-10",
+    "seed_status": "repealed"
+  }
 }

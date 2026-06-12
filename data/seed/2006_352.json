@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regnskab og revision efter lov om byfornyelse og udvikling af byer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-04-24",
+  "in_force_date": "2006-05-01",
   "url": "https://www.retsinformation.dk/eli/lta/2006/352/xml",
-  "description": "Retsinformation source. DocumentId=AO002832; AccessionNumber=B20060035205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002832; AccessionNumber=B20060035205; Ophævet 2013-06-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:20:27.754Z",
+    "accession": "B20060035205",
+    "document_id": "AO002832",
+    "unique_document_id": "20493",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-01",
+    "end_date": "2023-04-29",
+    "historic_marked": "2013-06-25",
+    "seed_status": "repealed"
+  }
 }

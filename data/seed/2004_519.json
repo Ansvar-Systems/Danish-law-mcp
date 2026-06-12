@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om buskørsel",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-14",
+  "in_force_date": "2004-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2004/519/xml",
-  "description": "Retsinformation source. DocumentId=AR000831; AccessionNumber=B20040051905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000831; AccessionNumber=B20040051905; Ophævet 2005-01-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:29:24.089Z",
+    "accession": "B20040051905",
+    "document_id": "AR000831",
+    "unique_document_id": "22307",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-21",
+    "end_date": "2022-07-07",
+    "historic_marked": "2005-01-13",
+    "seed_status": "repealed"
+  }
 }

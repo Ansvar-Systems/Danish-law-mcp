@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bunden opsparing",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-07-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1985/331/xml",
-  "description": "Retsinformation source. DocumentId=CM020120; AccessionNumber=B19850033105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020120; AccessionNumber=B19850033105; Ophævet 1990-08-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:52:38.946Z",
+    "accession": "B19850033105",
+    "document_id": "CM020120",
+    "unique_document_id": "61152",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1997-09-25",
+    "historic_marked": "1990-08-22",
+    "seed_status": "repealed"
+  }
 }

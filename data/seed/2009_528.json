@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af tronfølgeloven\\n(Ligestilling mellem kønnene i arvefølgen – fremsat i henhold til proceduren i grundlovens § 88)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-12",
+  "in_force_date": "2009-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/528/xml",
-  "description": "Retsinformation source. DocumentId=AP000218; AccessionNumber=A20090052830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AP000218; AccessionNumber=A20090052830; Ophævet 2009-09-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -20,8 +21,19 @@
       "section": "3",
       "content": "§ 3. Dør en konge eller en regerende dronning uden at efterlade sig til tronen arveberettiget afkom, overgår tronen til den pågældendes broder eller søster. Har kongen eller den regerende dronning flere søskende, eller er nogen af den pågældendes søskende afgået ved døden, finder reglerne i § 2 tilsvarende anvendelse.",
       "valid_from": "2009-06-12",
-      "valid_to": null
+      "valid_to": "2009-09-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:15:37.874Z",
+    "accession": "A20090052830",
+    "document_id": "AP000218",
+    "unique_document_id": "123644",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-12",
+    "end_date": "2020-07-15",
+    "historic_marked": "2009-09-11",
+    "seed_status": "repealed"
+  }
 }

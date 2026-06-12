@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af registreringsafgiftsloven\\n(Opretning af værdigrundlaget for afgiftsberegning og offentliggørelse af afgiftsgrundlag)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-05-11",
+  "in_force_date": "2012-05-11",
   "url": "https://www.retsinformation.dk/eli/lta/2012/411/xml",
-  "description": "Retsinformation source. DocumentId=AN011107; AccessionNumber=A20120041130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011107; AccessionNumber=A20120041130; Ophævet 2012-06-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -20,8 +21,19 @@
       "section": "10",
       "content": "§ 10 a. Ved afgiftsberigtigelse af et køretøj offentliggør told- og skatteforvaltningen afgiftsgrundlaget på internettet. Stk. 2. For hvert køretøj offentliggøres: 1) De oplysninger om køretøjet, der anmeldes til told- og skatteforvaltningen til brug for opgørelse af registreringsafgiften af køretøjet. 2) Det af told- og skatteforvaltningen opgjorte afgiftsgrundlag. 3) Eventuel ændring af afgiftsgrundlaget i forhold til det anmeldte afgiftsgrundlag. Stk. 3. Told- og skatteforvaltningen kan efter anmodning stille oplysningerne til rådighed på anden måde end nævnt i stk. 1. Told- og skatteforvaltningen kan kræve betaling for omkostninger ved at efterkomme en sådan anmodning.",
       "valid_from": "2012-05-11",
-      "valid_to": null
+      "valid_to": "2012-06-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:59:29.359Z",
+    "accession": "A20120041130",
+    "document_id": "AN011107",
+    "unique_document_id": "141794",
+    "upstream_status": "Historic",
+    "start_date": "2012-05-11",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-06-18",
+    "seed_status": "repealed"
+  }
 }

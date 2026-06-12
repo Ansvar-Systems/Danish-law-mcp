@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om karakterskala",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1963-02-04",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1963/32/xml",
-  "description": "Retsinformation source. DocumentId=CM032101; AccessionNumber=B19630003205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032101; AccessionNumber=B19630003205; Ophævet 1989-03-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:07:34.187Z",
+    "accession": "B19630003205",
+    "document_id": "CM032101",
+    "unique_document_id": "72904",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1989-03-06",
+    "seed_status": "repealed"
+  }
 }

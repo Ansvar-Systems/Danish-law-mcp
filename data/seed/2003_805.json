@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af skattestyrelsesloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-09-24",
+  "in_force_date": "2003-10-06",
   "url": "https://www.retsinformation.dk/eli/lta/2003/805/xml",
-  "description": "Retsinformation source. DocumentId=AN003481; AccessionNumber=A20030080529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003481; AccessionNumber=A20030080529; Ophævet 2004-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:45:02.632Z",
+    "accession": "A20030080529",
+    "document_id": "AN003481",
+    "unique_document_id": "15855",
+    "upstream_status": "Historic",
+    "start_date": "2003-10-06",
+    "end_date": "2010-01-20",
+    "historic_marked": "2004-08-30",
+    "seed_status": "repealed"
+  }
 }

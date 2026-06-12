@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til ortopædist",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-18",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1243/xml",
-  "description": "Retsinformation source. DocumentId=AT000625; AccessionNumber=B20000124305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000625; AccessionNumber=B20000124305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:00:16.072Z",
+    "accession": "B20000124305",
+    "document_id": "AT000625",
+    "unique_document_id": "23624",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

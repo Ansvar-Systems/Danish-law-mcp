@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om køretøjer i forsøg med modulvogntog\\n(Totalvægte og kørsel med farligt gods)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-07-01",
+  "in_force_date": "2014-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2014/848/xml",
-  "description": "Retsinformation source. DocumentId=BL000950; AccessionNumber=B20140084805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000950; AccessionNumber=B20140084805; Ophævet 2025-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "18",
@@ -19,9 +20,20 @@
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18. Modulvogntog må anvendes til transport af farligt gods (ADR), såfremt vogntoget opfylder bestemmelserne i ADR-konventionen, samt multilateral aftale 262 eller 263, som dispenserer for kravet om, at der i et vogntog kun må anvendes ét påhængskøretøj.",
-      "valid_from": "2014-07-01",
-      "valid_to": null
+      "valid_from": "2014-07-03",
+      "valid_to": "2025-12-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:19:10.760Z",
+    "accession": "B20140084805",
+    "document_id": "BL000950",
+    "unique_document_id": "164162",
+    "upstream_status": "Historic",
+    "start_date": "2014-07-03",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-12-04",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om offentlige arkiver m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-17",
+  "in_force_date": "2000-08-18",
   "url": "https://www.retsinformation.dk/eli/lta/2000/740/xml",
-  "description": "Retsinformation source. DocumentId=AK000110; AccessionNumber=A20000074029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000110; AccessionNumber=A20000074029; Ophævet 2002-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:31:33.003Z",
+    "accession": "A20000074029",
+    "document_id": "AK000110",
+    "unique_document_id": "11781",
+    "upstream_status": "Historic",
+    "start_date": "2000-08-18",
+    "end_date": "2016-02-03",
+    "historic_marked": "2002-12-17",
+    "seed_status": "repealed"
+  }
 }

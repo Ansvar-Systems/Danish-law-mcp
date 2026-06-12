@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om valg til menighedsråd",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-16",
+  "in_force_date": "2004-03-25",
   "url": "https://www.retsinformation.dk/eli/lta/2004/163/xml",
-  "description": "Retsinformation source. DocumentId=AJ000130; AccessionNumber=A20040016329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AJ000130; AccessionNumber=A20040016329; Ophævet 2007-01-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:15:05.412Z",
+    "accession": "A20040016329",
+    "document_id": "AJ000130",
+    "unique_document_id": "11534",
+    "upstream_status": "Historic",
+    "start_date": "2004-03-25",
+    "end_date": "2014-07-30",
+    "historic_marked": "2007-01-11",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-05-11",
+  "in_force_date": "2018-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2018/464/xml",
   "description": "Retsinformation source. DocumentId=CQ000480; AccessionNumber=B20180046405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ansvarsgrænsen i § 175, stk. 3, i søloven fastsættes til: 1) 775.000 SDR for skibe med en tonnage på 100 tons og derunder. 2) 1 mio. SDR for skibe med en tonnage fra 101 til 299 tons.",
-      "valid_from": "2018-05-11",
+      "valid_from": "2018-05-12",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. maj 2018.",
-      "valid_from": "2018-05-11",
+      "valid_from": "2018-05-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:06:49.215Z",
+    "accession": "B20180046405",
+    "document_id": "CQ000480",
+    "unique_document_id": "200493",
+    "upstream_status": "Valid",
+    "start_date": "2018-05-12",
+    "end_date": "2018-05-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

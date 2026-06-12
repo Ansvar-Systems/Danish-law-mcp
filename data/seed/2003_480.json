@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om feriedagpenge",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-10",
+  "in_force_date": "2003-06-19",
   "url": "https://www.retsinformation.dk/eli/lta/2003/480/xml",
-  "description": "Retsinformation source. DocumentId=BE000644; AccessionNumber=B20030048005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000644; AccessionNumber=B20030048005; Ophævet 2010-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:31:56.245Z",
+    "accession": "B20030048005",
+    "document_id": "BE000644",
+    "unique_document_id": "29793",
+    "upstream_status": "Historic",
+    "start_date": "2003-06-19",
+    "end_date": "2010-03-30",
+    "historic_marked": "2010-03-29",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forretningsorden for Sundhedsvæsenets Patientklagenævn",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-07-05",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1994/631/xml",
-  "description": "Retsinformation source. DocumentId=CM005103; AccessionNumber=B19940063105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005103; AccessionNumber=B19940063105; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:03:45.960Z",
+    "accession": "B19940063105",
+    "document_id": "CM005103",
+    "unique_document_id": "46389",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

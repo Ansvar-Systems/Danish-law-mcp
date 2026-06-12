@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-08",
+  "in_force_date": "2020-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1869/xml",
   "description": "Retsinformation source. DocumentId=CE001030; AccessionNumber=B20200186905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I bilag 1 fastsættes Uddannelses- og Forskningsstyrelsens og uddannelsesstedernes respektive ansvar for overholdelse af forpligtelserne som dataansvarlige i henhold til databeskyttelsesforordningen, jf. kravene til fælles dataansvar i databeskyttelsesforordningens artikel 26.",
-      "valid_from": "2020-12-08",
+      "valid_from": "2020-12-10",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2021.",
-      "valid_from": "2020-12-08",
+      "valid_from": "2020-12-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:03:25.069Z",
+    "accession": "B20200186905",
+    "document_id": "CE001030",
+    "unique_document_id": "218172",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-10",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

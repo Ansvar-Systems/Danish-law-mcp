@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om støtte til køb af bil efter bistandslovens § 58 (Bilbekendtgørelsen)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-12-11",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/886/xml",
-  "description": "Retsinformation source. DocumentId=CM012221; AccessionNumber=B19860088605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012221; AccessionNumber=B19860088605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:24:46.556Z",
+    "accession": "B19860088605",
+    "document_id": "CM012221",
+    "unique_document_id": "53372",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

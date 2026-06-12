@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af selskabsskatteloven og lov om skattefri virksomhedsomdannelse",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-05-12",
+  "in_force_date": "1999-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/1999/285/xml",
-  "description": "Retsinformation source. DocumentId=AN000447; AccessionNumber=A19990028530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000447; AccessionNumber=A19990028530; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:21:58.894Z",
+    "accession": "A19990028530",
+    "document_id": "AN000447",
+    "unique_document_id": "13433",
+    "upstream_status": "Historic",
+    "start_date": "1999-05-12",
+    "end_date": "2005-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2020-05-29",
+  "in_force_date": "2020-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/715/xml",
   "description": "Retsinformation source. DocumentId=AG000927; AccessionNumber=B20200071505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8. Emballager og tanke med brandfarlige væsker må ikke anbringes i bygningers flugtveje. Stk. 2. Der kan dog til brug for hånddesinfektion på stedet anbringes håndspritdispensere med et rumindhold på højst 1 liter pr. dispenser i flugtveje, bortset fra trapperum, hvis der er sundhedsmæssige hensyn, der taler herfor, og dispenserne ikke umiddelbart kan placeres andre steder under hensyn til bygningens anvendelse og indretning. De brandmæssige hensyn skal tilgodeses i videst muligt omfang.",
-      "valid_from": "2020-05-29",
+      "valid_from": "2020-05-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:40:20.498Z",
+    "accession": "B20200071505",
+    "document_id": "AG000927",
+    "unique_document_id": "214788",
+    "upstream_status": "Valid",
+    "start_date": "2020-05-30",
+    "end_date": "2026-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-03-04",
+  "in_force_date": "2025-03-04",
   "url": "https://www.retsinformation.dk/eli/lta/2025/253/xml",
   "description": "Retsinformation source. DocumentId=DI001400; AccessionNumber=B20250025305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -675,5 +676,16 @@
       "definition": "enhver form for opsøgende informationsvirksomhed, kundesøgning eller holdningspåvirkning, der tager sigte på at fremme ordinering, udlevering, salg eller forbrug af lægemidler til mennesker",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:04:33.485Z",
+    "accession": "B20250025305",
+    "document_id": "DI001400",
+    "unique_document_id": "248538",
+    "upstream_status": "Valid",
+    "start_date": "2025-03-04",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

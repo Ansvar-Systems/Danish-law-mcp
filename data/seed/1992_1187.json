@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ambulancer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-12-21",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1992/1187/xml",
-  "description": "Retsinformation source. DocumentId=CM005341; AccessionNumber=B19920118705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005341; AccessionNumber=B19920118705; Ophævet 1994-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:16:04.449Z",
+    "accession": "B19920118705",
+    "document_id": "CM005341",
+    "unique_document_id": "46601",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1994-12-14",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Arbejdsmarkedets Tillægspension, lov om Lønmodtagernes Dyrtidsfond og forskellige andre love",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-05-12",
+  "in_force_date": "1999-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/1999/288/xml",
-  "description": "Retsinformation source. DocumentId=AO000328; AccessionNumber=A19990028830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000328; AccessionNumber=A19990028830; Ophævet 2008-09-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:22:05.299Z",
+    "accession": "A19990028830",
+    "document_id": "AO000328",
+    "unique_document_id": "18567",
+    "upstream_status": "Historic",
+    "start_date": "1999-05-12",
+    "end_date": "2023-07-07",
+    "historic_marked": "2008-09-10",
+    "seed_status": "repealed"
+  }
 }

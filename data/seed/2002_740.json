@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om vurdering af landets faste ejendomme",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-09-03",
+  "in_force_date": "2002-09-12",
   "url": "https://www.retsinformation.dk/eli/lta/2002/740/xml",
-  "description": "Retsinformation source. DocumentId=AN003069; AccessionNumber=A20020074029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003069; AccessionNumber=A20020074029; Ophævet 2013-09-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:56:28.872Z",
+    "accession": "A20020074029",
+    "document_id": "AN003069",
+    "unique_document_id": "15535",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-12",
+    "end_date": "2018-08-02",
+    "historic_marked": "2013-09-04",
+    "seed_status": "repealed"
+  }
 }

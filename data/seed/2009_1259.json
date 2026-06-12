@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om betaling for kontrol m.m. med frø og sædekorn",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-15",
+  "in_force_date": "2009-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1259/xml",
-  "description": "Retsinformation source. DocumentId=AH003576; AccessionNumber=B20090125905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003576; AccessionNumber=B20090125905; Ophævet 2010-01-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "16",
@@ -19,9 +20,20 @@
       "provision_ref": "16",
       "section": "16",
       "content": "§ 16. For kontrol af bejdsekvalitet betales startgebyr som fastsat i bilag 1, II, C. Herudover betales gebyr som fastsat i bilag 2, C og D.",
-      "valid_from": "2009-12-15",
-      "valid_to": null
+      "valid_from": "2009-12-16",
+      "valid_to": "2010-01-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:48:06.305Z",
+    "accession": "B20090125905",
+    "document_id": "AH003576",
+    "unique_document_id": "129310",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-16",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-01-07",
+    "seed_status": "repealed"
+  }
 }

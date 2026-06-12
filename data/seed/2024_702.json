@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om foranstaltninger til forebyggelse af risikoen ved arbejde med kræftfremkaldende, mutagene eller reproduktionstoksiske stoffer og materialer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-06-12",
+  "in_force_date": "2024-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2024/702/xml",
-  "description": "Retsinformation source. DocumentId=BE009945; AccessionNumber=B20240070205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE009945; AccessionNumber=B20240070205; Ophævet 2025-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "33",
@@ -20,8 +21,19 @@
       "section": "33",
       "content": "§ 33. Affald, der indeholder stofferne eller materialerne, skal samles, opbevares og bortskaffes i egnede lukkede beholdere, eller, hvor dette ikke er praktisk muligt, på anden betryggende måde. Beholdere mv. med kræftfremkaldende eller mutagene stoffer eller materialer med indhold af stofferne som angivet i bilag 1 skal være mærket som angivet i bilag 3.",
       "valid_from": "2024-06-12",
-      "valid_to": null
+      "valid_to": "2025-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:15:11.472Z",
+    "accession": "B20240070205",
+    "document_id": "BE009945",
+    "unique_document_id": "244093",
+    "upstream_status": "Historic",
+    "start_date": "2024-06-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-11-25",
+    "seed_status": "repealed"
+  }
 }

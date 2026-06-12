@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven, retsplejeloven, lov om våben og eksplosivstoffer, lov om politiets virksomhed og lov om fuldbyrdelse af straf m.v.\\n(Initiativer mod rocker- og bandekriminalitet m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-06-25",
+  "in_force_date": "2014-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2014/733/xml",
-  "description": "Retsinformation source. DocumentId=AA007990; AccessionNumber=A20140073330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007990; AccessionNumber=A20140073330; Ophævet 2019-09-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "115",
@@ -31,14 +32,14 @@
       "section": "115",
       "content": "§ 115 a. Politiet kan videregive fortrolige oplysninger vedrørende personer, der er fyldt 18 år, til forældre eller andre, herunder familiemedlemmer, der har lignende tætte relationer til den pågældende person, hvis videregivelsen må anses for nødvendig som led i en kriminalitetsforebyggende indsats over for personen.",
       "valid_from": "2014-06-25",
-      "valid_to": null
+      "valid_to": "2019-09-05"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 b. Justitsministeren eller den, ministeren bemyndiger dertil, kan efter ansøgning meddele erhvervsdrivende generel tilladelse til med henblik på erhvervsmæssig handel eller anden erhvervsmæssig virksomhed at erhverve og besidde de i § 1, stk. 1, nr. 1-3 og 7-10, og § 4, stk. 2, nævnte genstande. Stk. 2. Justitsministeren kan fastsætte bestemmelser om vilkår og betingelser for udstedelse og anvendelse af tilladelser efter stk. 1.",
       "valid_from": "2014-06-25",
-      "valid_to": null
+      "valid_to": "2019-09-05"
     },
     {
       "provision_ref": "15:89",
@@ -46,8 +47,19 @@
       "section": "89",
       "content": "§ 89 a. Justitsministeren kan iværksætte en forsøgsordning, hvor det som vilkår for prøveløsladelse eller udgangstilladelse fra en eller flere institutioner kan fastsættes, at den dømte skal undergive sig elektronisk overvågning af sin færden. Stk. 2. Ministeren fastsætter nærmere regler om forsøgsordningen.",
       "valid_from": "2014-06-25",
-      "valid_to": null
+      "valid_to": "2019-09-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:14:35.349Z",
+    "accession": "A20140073330",
+    "document_id": "AA007990",
+    "unique_document_id": "163662",
+    "upstream_status": "Historic",
+    "start_date": "2014-06-25",
+    "end_date": "2019-09-06",
+    "historic_marked": "2019-09-05",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-18",
+  "in_force_date": "1999-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/1999/488/xml",
-  "description": "Retsinformation source. DocumentId=AI000181; AccessionNumber=A19990048829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000181; AccessionNumber=A19990048829; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:30:03.500Z",
+    "accession": "A19990048829",
+    "document_id": "AI000181",
+    "unique_document_id": "8855",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-28",
+    "end_date": "2023-04-29",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

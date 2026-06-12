@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1687/xml",
   "description": "Retsinformation source. DocumentId=DH002290; AccessionNumber=A20240168730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -297,5 +298,16 @@
       "definition": "en aftale, ifølge hvilken en surrogatmor, der ved indgåelsen af surrogataftalen har og de seneste 6 måneder har haft bopæl i udlandet, føder et barn, med henblik på at et tiltænkt forældrepar sammen skal være forældre til barnet i stedet for surrogatmoren, eller at en tiltænkt eneforælder skal være forælder til barnet i stedet for surrogatmoren",
       "source_provision": "5c:30h"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:50:20.182Z",
+    "accession": "A20240168730",
+    "document_id": "DH002290",
+    "unique_document_id": "247515",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-30",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

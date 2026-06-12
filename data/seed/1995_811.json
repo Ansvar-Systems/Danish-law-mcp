@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Den Danske Filmskole",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-10-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/811/xml",
-  "description": "Retsinformation source. DocumentId=CM006182; AccessionNumber=B19950081105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006182; AccessionNumber=B19950081105; Ophævet 2008-07-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:53:30.927Z",
+    "accession": "B19950081105",
+    "document_id": "CM006182",
+    "unique_document_id": "47389",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2013-02-20",
+    "historic_marked": "2008-07-28",
+    "seed_status": "repealed"
+  }
 }

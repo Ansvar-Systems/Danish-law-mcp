@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om delvis ikrafttræden af lov om ændring af lov om skibes besætning, lov om maritime uddannelser og lodslov (Tilpasninger som følge af ressortoverførsler på områderne vedrørende de maritime uddannelser og lodsning)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-09-09",
+  "in_force_date": "2013-09-09",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1085/xml",
-  "description": "Retsinformation source. DocumentId=BP000636; AccessionNumber=B20130108505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000636; AccessionNumber=B20130108505; Ophævet 2016-04-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -25,15 +26,26 @@
       "section": "1",
       "content": "§ 1. 2. pkt. i fodnoten til lovens titel, jf. § 1, nr. 1, i lov nr. 478 af 30. maj 2012 om ændring af lov om skibes besætning, lov om maritime uddannelser og lodslov (Tilpasninger som følge af ressortoverførsler på områderne vedrørende de maritime uddannelser og lodsning), sættes i kraft.",
       "valid_from": "2013-09-09",
-      "valid_to": null
+      "valid_to": "2016-04-19"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 11. september 2013.",
       "valid_from": "2013-09-09",
-      "valid_to": null
+      "valid_to": "2016-04-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:29:41.635Z",
+    "accession": "B20130108505",
+    "document_id": "BP000636",
+    "unique_document_id": "158288",
+    "upstream_status": "Historic",
+    "start_date": "2013-09-09",
+    "end_date": "2026-02-20",
+    "historic_marked": "2016-04-19",
+    "seed_status": "repealed"
+  }
 }

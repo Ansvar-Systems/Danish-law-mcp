@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om isafgift af skibe",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/913/xml",
-  "description": "Retsinformation source. DocumentId=CM041852; AccessionNumber=B19950091305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM041852; AccessionNumber=B19950091305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:57:33.211Z",
+    "accession": "B19950091305",
+    "document_id": "CM041852",
+    "unique_document_id": "82504",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2020-10-13",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til biogas, der sælges til transport, benyttes til procesformål i virksomheder eller anvendes til varmeproduktion",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-26",
+  "in_force_date": "2017-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1748/xml",
-  "description": "Retsinformation source. DocumentId=CI000398; AccessionNumber=B20170174805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000398; AccessionNumber=B20170174805; Ophævet 2020-01-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "19",
@@ -19,9 +20,20 @@
       "provision_ref": "19",
       "section": "19",
       "content": "§ 19. Energistyrelsens afgørelser efter denne bekendtgørelse kan ikke påklages til energi-, forsynings- og klimaministeren, jf. bekendtgørelse om Energistyrelsens opgaver og beføjelser. Afgørelser nævnt i denne bekendtgørelse kan påklages til Energiklagenævnet, jf. § 66 i lov om fremme af vedvarende energi.",
-      "valid_from": "2017-12-26",
-      "valid_to": null
+      "valid_from": "2017-12-29",
+      "valid_to": "2020-01-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:06:52.632Z",
+    "accession": "B20170174805",
+    "document_id": "CI000398",
+    "unique_document_id": "196743",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2020-01-13",
+    "seed_status": "repealed"
+  }
 }

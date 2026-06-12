@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om forskellige forhold vedrørende Statstidende",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-01-13",
+  "in_force_date": "2012-01-24",
   "url": "https://www.retsinformation.dk/eli/lta/2012/42/xml",
-  "description": "Retsinformation source. DocumentId=AE001798; AccessionNumber=B20120004205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001798; AccessionNumber=B20120004205; Ophævet 2014-04-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "18",
@@ -19,9 +20,20 @@
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18. Indrykningsprisen, jf. § 17, stk. 2, nr. 2, fastsættes som en pris pr. indrykket meddelelse afhængigt af meddelelsestype.",
-      "valid_from": "2012-01-13",
-      "valid_to": null
+      "valid_from": "2012-01-24",
+      "valid_to": "2014-04-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:59:48.803Z",
+    "accession": "B20120004205",
+    "document_id": "AE001798",
+    "unique_document_id": "139746",
+    "upstream_status": "Historic",
+    "start_date": "2012-01-24",
+    "end_date": "2016-12-22",
+    "historic_marked": "2014-04-09",
+    "seed_status": "repealed"
+  }
 }

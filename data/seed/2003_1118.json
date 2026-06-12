@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbrugerklager",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-12",
+  "in_force_date": "2003-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1118/xml",
-  "description": "Retsinformation source. DocumentId=AU001367; AccessionNumber=B20030111805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001367; AccessionNumber=B20030111805; Ophævet 2006-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:11:28.760Z",
+    "accession": "B20030111805",
+    "document_id": "AU001367",
+    "unique_document_id": "26480",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-22",
+    "end_date": "2023-07-08",
+    "historic_marked": "2006-06-22",
+    "seed_status": "repealed"
+  }
 }

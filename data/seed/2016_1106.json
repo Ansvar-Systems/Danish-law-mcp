@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-08-17",
+  "in_force_date": "2016-08-18",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1106/xml",
   "description": "Retsinformation source. DocumentId=CK000908; AccessionNumber=B20160110605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1089 af 27. juli 2016 om fund af lavpatogen aviær influenza i Bro ved Brenderup på Fyn ophæves.",
-      "valid_from": "2016-08-17",
+      "valid_from": "2016-08-18",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 19. august 2016.",
-      "valid_from": "2016-08-17",
+      "valid_from": "2016-08-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:36:17.504Z",
+    "accession": "B20160110605",
+    "document_id": "CK000908",
+    "unique_document_id": "183700",
+    "upstream_status": "Valid",
+    "start_date": "2016-08-18",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1 i lov om ændring af lov om politiets virksomhed og toldloven (Politiets anvendelse af databaserede analyseredskaber og adgang til oplysninger om flypassagerer)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-09-20",
+  "in_force_date": "2017-09-20",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1076/xml",
-  "description": "Retsinformation source. DocumentId=AA010305; AccessionNumber=B20170107605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA010305; AccessionNumber=B20170107605; Ophævet 2019-12-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 1 i lov nr. 671 af 8. juni 2017 om ændring af lov om politiets virksomhed og toldloven (Politiets anvendelse af databaserede analyseredskaber og adgang til oplysninger om flypassagerer) sættes i kraft.",
       "valid_from": "2017-09-20",
-      "valid_to": null
+      "valid_to": "2019-12-03"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 22. september 2017.",
       "valid_from": "2017-09-20",
-      "valid_to": null
+      "valid_to": "2019-12-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:39:51.381Z",
+    "accession": "B20170107605",
+    "document_id": "AA010305",
+    "unique_document_id": "192723",
+    "upstream_status": "Historic",
+    "start_date": "2017-09-20",
+    "end_date": "2019-12-04",
+    "historic_marked": "2019-12-03",
+    "seed_status": "repealed"
+  }
 }

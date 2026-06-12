@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om luftfart (Præcisering af rammerne for indskrænkninger i adgangen til luftfart og for tildeling af tilladelse til at udføre ruteflyvning, hjemmel til krav om sikkerhedsgodkendelser m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-14",
+  "in_force_date": "2021-12-14",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2399/xml",
-  "description": "Retsinformation source. DocumentId=DG000282; AccessionNumber=A20210239930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000282; AccessionNumber=A20210239930; Ophævet 2025-05-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -20,8 +21,19 @@
       "section": "3",
       "content": "§ 3. Når hensynet til den offentlige sikkerhed, militære grunde eller særlige omstændigheder kræver det, kan transportministeren fastsætte regler om, at adgangen til luftfart inden for visse områder indskrænkes eller forbydes. Stk. 2. Når den offentlige sikkerhed kræver det eller der ellers foreligger ganske særlige omstændigheder, kan transportministeren fastsætte regler om, at adgangen til luftfart inden for hele eller dele af riget midlertidigt indskrænkes eller forbydes. Ministeren kan herunder fastsætte regler om betingelser for adgangen til luftfart inden for hele eller dele af riget.",
       "valid_from": "2021-12-14",
-      "valid_to": null
+      "valid_to": "2025-05-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:18:44.996Z",
+    "accession": "A20210239930",
+    "document_id": "DG000282",
+    "unique_document_id": "228027",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-14",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-05-27",
+    "seed_status": "repealed"
+  }
 }

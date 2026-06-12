@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af jernbaneloven",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-05-14",
+  "in_force_date": "2020-05-18",
   "url": "https://www.retsinformation.dk/eli/lta/2020/634/xml",
-  "description": "Retsinformation source. DocumentId=CZ000196; AccessionNumber=B20200063405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000196; AccessionNumber=B20200063405; Ophævet 2023-08-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1-7, 9-12, 14-20, 36-38, 40, 41 og 43-46, i lov nr. 510 af 1. maj 2019 om ændring af jernbaneloven (Implementering af dele af den tekniske del af 4. jernbanepakke, herunder nye beføjelser for Den Europæiske Unions Jernbaneagentur, justeringer af den retlige ramme for Havarikommissionen for Civil Luftfart og Jernbanes arbejde m.v.) sættes i kraft.",
-      "valid_from": "2020-05-14",
-      "valid_to": null
+      "valid_from": "2020-05-18",
+      "valid_to": "2023-08-17"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 16. juni 2020.",
-      "valid_from": "2020-05-14",
-      "valid_to": null
+      "valid_from": "2020-05-18",
+      "valid_to": "2023-08-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:37:05.133Z",
+    "accession": "B20200063405",
+    "document_id": "CZ000196",
+    "unique_document_id": "214560",
+    "upstream_status": "Historic",
+    "start_date": "2020-05-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-08-17",
+    "seed_status": "repealed"
+  }
 }

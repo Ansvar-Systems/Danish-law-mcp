@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om pas m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-10-06",
+  "in_force_date": "2006-10-16",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1003/xml",
-  "description": "Retsinformation source. DocumentId=AA003314; AccessionNumber=B20060100305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003314; AccessionNumber=B20060100305; Ophævet 2013-11-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:43:01.058Z",
+    "accession": "B20060100305",
+    "document_id": "AA003314",
+    "unique_document_id": "2404",
+    "upstream_status": "Historic",
+    "start_date": "2006-10-16",
+    "end_date": "2013-11-30",
+    "historic_marked": "2013-11-29",
+    "seed_status": "repealed"
+  }
 }

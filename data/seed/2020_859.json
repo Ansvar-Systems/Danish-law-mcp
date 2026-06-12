@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-06-12",
+  "in_force_date": "2020-06-13",
   "url": "https://www.retsinformation.dk/eli/lta/2020/859/xml",
   "description": "Retsinformation source. DocumentId=CN001286; AccessionNumber=B20200085905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Apotekerne skal anvende enhedstilskudspriser ved beregning af tilskud til dosisdispenserede lægemidler, jf. sundhedslovens § 150, stk. 4., jf. dog § 2. Enhedstilskudspriserne (tilskudspris ved dosisdispensering) offentliggøres af Lægemiddelstyrelsen i Medicinpriser . Stk. 2. For lægemidler, der ikke er optaget i Medicinpriser med en pris, beregnes tilskud ud fra den af apoteket fastsatte enhedspris, jf. dog stk. 3. Stk. 3. For håndkøbslægemidler, som kun er undtaget fra apoteksforbehold i visse pakningsstørrelser, skal apoteket beregne tilskud ud fra den billigste registerpris pr. lægemiddelenhed (enhedsregisterprisen) i en markedsført pakningsstørrelse, der ikke er undtaget fra apoteksforbehold, såfremt denne enhedspris er lavere end den billigste udsalgspris pr. lægemiddelenhed fastsat af det receptekspederende apotek. Enhedsregisterprisen (Pris pr. enhed (D)) offentliggøres af Lægemiddelstyrelsen i Medicinpriser.",
-      "valid_from": "2020-06-12",
+      "valid_from": "2020-06-13",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ved dosisdispensering af et lægemiddel, hvortil Lægemiddelstyrelsen har bevilget forhøjet tilskud, jf. sundhedslovens § 151, 1. pkt., skal apoteket beregne tilskuddet ud fra den billigste registerpris, jf. § 2 i bekendtgørelse om beregning af forbrugerpriser m.v. på lægemidler, pr. lægemiddelenhed i en markedsført pakning af det pågældende lægemiddel (enhedsregisterprisen), selv om den overstiger enhedstilskudsprisen. Enhedsregisterprisen (Pris pr. enhed (D)) offentliggøres af Lægemiddelstyrelsen i Medicinpriser .",
-      "valid_from": "2020-06-12",
+      "valid_from": "2020-06-13",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Hvis dosisdispensering er ordineret af en læge eller, efter bekendtgørelse om behandlerfarmaceuters virksomhedsområde, af en behandlerfarmaceut og omfatter mindst ét tilskudsberettiget lægemiddel, ydes der med den aktuelle tilskudssats for patienten tilskud til apotekets dosisekspeditionsgebyr og dosispakningsgebyr fastsat efter § 12, stk. 1, i bekendtgørelse om forbrugerpriser m.v. på lægemidler.",
-      "valid_from": "2020-06-12",
+      "valid_from": "2020-06-13",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Lægemiddelstyrelsen kan i særlige tilfælde dispensere fra bestemmelserne i denne bekendtgørelse.",
-      "valid_from": "2020-06-12",
+      "valid_from": "2020-06-13",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 15. juni 2020. Stk. 2. Bekendtgørelse nr. 186 af 18. marts 2005 om medicintilskud til dosisdispenserede lægemidler ophæves.",
-      "valid_from": "2020-06-12",
+      "valid_from": "2020-06-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:46:06.691Z",
+    "accession": "B20200085905",
+    "document_id": "CN001286",
+    "unique_document_id": "215048",
+    "upstream_status": "Valid",
+    "start_date": "2020-06-13",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

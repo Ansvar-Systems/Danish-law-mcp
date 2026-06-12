@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Værgemålslov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-06-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/388/xml",
-  "description": "Retsinformation source. DocumentId=CM018390; AccessionNumber=A19950038830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018390; AccessionNumber=A19950038830; Ophævet 2007-08-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:36:47.385Z",
+    "accession": "A19950038830",
+    "document_id": "CM018390",
+    "unique_document_id": "59437",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-19",
+    "historic_marked": "2007-08-27",
+    "seed_status": "repealed"
+  }
 }

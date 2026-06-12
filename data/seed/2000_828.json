@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om dykkerarbejdets sikre udførelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-01",
+  "in_force_date": "2000-09-11",
   "url": "https://www.retsinformation.dk/eli/lta/2000/828/xml",
-  "description": "Retsinformation source. DocumentId=AD000709; AccessionNumber=B20000082805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000709; AccessionNumber=B20000082805; Ophævet 2013-12-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:35:04.153Z",
+    "accession": "B20000082805",
+    "document_id": "AD000709",
+    "unique_document_id": "4779",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-11",
+    "end_date": "2017-12-08",
+    "historic_marked": "2013-12-12",
+    "seed_status": "repealed"
+  }
 }

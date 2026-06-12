@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om samtrafik m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-22",
+  "in_force_date": "2000-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/570/xml",
-  "description": "Retsinformation source. DocumentId=AF000165; AccessionNumber=B20000057005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000165; AccessionNumber=B20000057005; Ophævet 2002-11-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:24:41.971Z",
+    "accession": "B20000057005",
+    "document_id": "AF000165",
+    "unique_document_id": "6196",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-29",
+    "end_date": "2026-06-04",
+    "historic_marked": "2002-11-28",
+    "seed_status": "repealed"
+  }
 }

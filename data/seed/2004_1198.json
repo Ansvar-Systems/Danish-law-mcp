@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kontorserviceuddannelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-07",
+  "in_force_date": "2004-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1198/xml",
-  "description": "Retsinformation source. DocumentId=AT002004; AccessionNumber=B20040119805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002004; AccessionNumber=B20040119805; Ophævet 2008-03-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:00:54.880Z",
+    "accession": "B20040119805",
+    "document_id": "AT002004",
+    "unique_document_id": "24678",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-16",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-03-04",
+    "seed_status": "repealed"
+  }
 }

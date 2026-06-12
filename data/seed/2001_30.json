@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om egenkontrol i fødevarevirksomheder m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-01-19",
+  "in_force_date": "2001-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/2001/30/xml",
-  "description": "Retsinformation source. DocumentId=AH000808; AccessionNumber=B20010003005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000808; AccessionNumber=B20010003005; Ophævet 2002-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:54:27.671Z",
+    "accession": "B20010003005",
+    "document_id": "AH000808",
+    "unique_document_id": "7159",
+    "upstream_status": "Historic",
+    "start_date": "2001-01-29",
+    "end_date": "2022-04-08",
+    "historic_marked": "2002-01-28",
+    "seed_status": "repealed"
+  }
 }

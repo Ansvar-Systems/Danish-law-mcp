@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven (Omlægning af betalinger for køreprøve og kørekort m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-06-11",
+  "in_force_date": "2021-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1187/xml",
-  "description": "Retsinformation source. DocumentId=DG000112; AccessionNumber=A20210118730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000112; AccessionNumber=A20210118730; Ophævet 2021-08-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "124a",
@@ -29,23 +30,34 @@
       "provision_ref": "124a",
       "section": "124a",
       "content": "§ 124 a. Transportministeren kan fastsætte regler om betaling af gebyr for afholdelse af køreprøve, herunder afholdelse af teoriprøve og praktisk prøve, kontrollerende køreprøve, kørelærerprøve, udeblivelse fra teoretisk eller praktisk køreprøve, og hvis en del af prøven ikke bestås.",
-      "valid_from": "2021-06-11",
-      "valid_to": null
+      "valid_from": "2021-06-08",
+      "valid_to": "2021-08-23"
     },
     {
       "provision_ref": "124b",
       "section": "124b",
       "content": "§ 124 b. I tillæg til betaling af gebyr for afholdelse af køreprøve fastsat i medfør af § 124 a, stk. 1, skal ansøger betale en afgift på 200 kr.",
-      "valid_from": "2021-06-11",
-      "valid_to": null
+      "valid_from": "2021-06-08",
+      "valid_to": "2021-08-23"
     },
     {
       "provision_ref": "124c",
       "section": "124c",
       "content": "§ 124 c. For udstedelse af uddannelsesbevis til førere af køretøjer til vejtransport af farligt gods skal ansøger betale en afgift på 290 kr.",
-      "valid_from": "2021-06-11",
-      "valid_to": null
+      "valid_from": "2021-06-08",
+      "valid_to": "2021-08-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:29:56.812Z",
+    "accession": "A20210118730",
+    "document_id": "DG000112",
+    "unique_document_id": "223803",
+    "upstream_status": "Historic",
+    "start_date": "2021-06-08",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-08-23",
+    "seed_status": "repealed"
+  }
 }

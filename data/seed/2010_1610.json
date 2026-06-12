@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om almene boliger m.v.\\n(Stop for anvisning til ghettoområder af visse persongrupper og identifikation af ghettoområder)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-22",
+  "in_force_date": "2010-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1610/xml",
-  "description": "Retsinformation source. DocumentId=AO003697; AccessionNumber=A20100161030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO003697; AccessionNumber=A20100161030; Ophævet 2011-02-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "61",
@@ -20,7 +21,7 @@
       "section": "61",
       "content": "§ 61 a. Ved et ghettoområde forstås en fysisk sammenhængende almen boligafdeling, hvor der bor mindst 1.000 beboere, og som opfylder mindst to af følgende kriterier: 1) Andelen af indvandrere og efterkommere fra ikkevestlige lande overstiger 50 pct. 2) Andelen af beboere i alderen 18-64 år, der er uden tilknytning til arbejdsmarkedet eller uddannelse, overstiger 40 pct. opgjort som gennemsnit over de seneste 4 år. 3) Antal dømte for overtrædelse af straffeloven, våbenloven eller lov om euforiserende stoffer pr. 10.000 beboere på 18 år og derover overstiger 270 personer, opgjort som gennemsnit over de seneste 4 år. Stk. 2. Socialministeren beregner og offentliggør første gang den 1. januar 2011 og herefter hver den 1. oktober, hvilke områder der opfylder betingelserne i stk. 1.",
       "valid_from": "2010-12-22",
-      "valid_to": null
+      "valid_to": "2011-02-15"
     }
   ],
   "definitions": [
@@ -29,5 +30,16 @@
       "definition": "en fysisk sammenhængende almen boligafdeling, hvor der bor mindst 1",
       "source_provision": "61"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:59:49.460Z",
+    "accession": "A20100161030",
+    "document_id": "AO003697",
+    "unique_document_id": "135224",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-22",
+    "end_date": "2023-04-28",
+    "historic_marked": "2011-02-15",
+    "seed_status": "repealed"
+  }
 }

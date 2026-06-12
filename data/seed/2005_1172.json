@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om muslinger m.m.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-08",
+  "in_force_date": "2005-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1172/xml",
-  "description": "Retsinformation source. DocumentId=BG000291; AccessionNumber=B20050117205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000291; AccessionNumber=B20050117205; Ophævet 2006-08-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:55:49.669Z",
+    "accession": "B20050117205",
+    "document_id": "BG000291",
+    "unique_document_id": "31565",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-15",
+    "end_date": "2023-07-13",
+    "historic_marked": "2006-08-03",
+    "seed_status": "repealed"
+  }
 }

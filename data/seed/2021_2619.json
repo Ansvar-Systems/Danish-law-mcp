@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om retssikkerhed og administration på det sociale område og sundhedsloven (Udveksling af visse oplysninger mellem kommuner og sundhedssektoren for at sikre bedre sammenhængende behandling og omsorg for borgerne)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-28",
+  "in_force_date": "2021-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2619/xml",
-  "description": "Retsinformation source. DocumentId=DH000462; AccessionNumber=A20210261930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DH000462; AccessionNumber=A20210261930; Ophævet 2022-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -20,8 +21,19 @@
       "section": "13",
       "content": "§ 13. Til brug for planlægningen af aftaler kan kommunalbestyrelser videregive oplysninger til Sundhedsdatastyrelsen om, hvornår en borger modtager forebyggende hjemmebesøg efter § 79 a i lov om social service og omsorg m.v. efter §§ 83-84 og 86 i lov om social service, med henblik på behandling, herunder opbevaring, i den fælles digitale infrastruktur, jf. § 193 b i sundhedsloven. Videregivelsen kan ske automatisk og uden borgerens samtykke. Stk. 2. En borger kan ved tilkendegivelse frabede sig, at der indhentes oplysninger i den fælles digitale infrastruktur, som er videregivet til Sundhedsdatastyrelsen i medfør af stk. 1, jf. sundhedslovens § 42 a, stk. 5, og § 42 b, stk. 2.",
       "valid_from": "2021-12-28",
-      "valid_to": null
+      "valid_to": "2022-02-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:27:41.863Z",
+    "accession": "A20210261930",
+    "document_id": "DH000462",
+    "unique_document_id": "228508",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-28",
+    "end_date": "2023-01-20",
+    "historic_marked": "2022-02-28",
+    "seed_status": "repealed"
+  }
 }

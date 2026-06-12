@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af ophavsretsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/472/xml",
-  "description": "Retsinformation source. DocumentId=AK000154; AccessionNumber=A20010047230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000154; AccessionNumber=A20010047230; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:01:23.127Z",
+    "accession": "A20010047230",
+    "document_id": "AK000154",
+    "unique_document_id": "11801",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2003-06-18",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

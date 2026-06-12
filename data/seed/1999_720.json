@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af_lov om en arbejdsmarkedsfond",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-09-14",
+  "in_force_date": "1999-09-23",
   "url": "https://www.retsinformation.dk/eli/lta/1999/720/xml",
-  "description": "Retsinformation source. DocumentId=AN000561; AccessionNumber=A19990072029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000561; AccessionNumber=A19990072029; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:39:22.727Z",
+    "accession": "A19990072029",
+    "document_id": "AN000561",
+    "unique_document_id": "13539",
+    "upstream_status": "Historic",
+    "start_date": "1999-09-23",
+    "end_date": "2024-03-01",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

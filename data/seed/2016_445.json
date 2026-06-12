@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om en aktiv beskæftigelsesindsats",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-05-19",
+  "in_force_date": "2016-05-21",
   "url": "https://www.retsinformation.dk/eli/lta/2016/445/xml",
-  "description": "Retsinformation source. DocumentId=BE006801; AccessionNumber=B20160044505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006801; AccessionNumber=B20160044505; Ophævet 2016-11-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "143a",
@@ -24,16 +25,27 @@
       "provision_ref": "143a",
       "section": "143a",
       "content": "§ 143 a. Kommunen har pligt til at behandle arbejdsgiveres ansøgninger, der via den digitale selvbetjeningsløsning VITAS indgives, om følgende: 1) Oprettelse af ansættelse med løntilskud, jf. kapitel 12 i lov om en aktiv beskæftigelsesindsats. 2) Etablering af virksomhedspraktik, jf. kapitel 11 i lov om en aktiv beskæftigelsesindsats. 3) Tilskud til virksomheder, der indgår uddannelsesaftale med voksne i henhold til lov om erhvervsuddannelser eller lov om maritime uddannelser (voksenlærlingepladser), jf. §§ 98 c-98 g i lov om en aktiv beskæftigelsesindsats. Stk. 2. Kommunen kan meddele arbejdsgiveren resultatet af sin behandling af ansøgninger, jf. stk. 1, via VITAS.",
-      "valid_from": "2016-05-19",
-      "valid_to": null
+      "valid_from": "2016-05-21",
+      "valid_to": "2016-11-10"
     },
     {
       "provision_ref": "143b",
       "section": "143b",
       "content": "§ 143 b. Når arbejdsgivere selv logger på VITAS, anvend­es NemID erhverv. Stk. 2. Medarbejderrepræsentanten kan i forbindelse med høringen logge på VITAS med NemID erhverv eller personlig NemID. Medarbejderrepræsentanter ansat hos en kommunal arbejdsgiver kan herudover i forbindelse med høring­en logge på VITAS via kommunens eget netværk. Stk. 3. Når kommunen i forbindelse med medbetjening bistår arbejdsgiveren med at udarbejde ansøgninger, jf. § 143 a, kan arbejdsgiveren og medarbejderrepræsentanten underskrive ansøgningen digitalt på anden måde end ved at logge på med NemId erhverv eller personlig NemId, eller via kommunens netværk, hvis man er kommunal arbejdsgiver. Hvis kommunen samtidig er logget på VITAS og dokument­et præsenteres for arbejdsgiver, er det herunder muligt for arbejdsgiver at underskrive med elektronisk pen. Stk. 4. Når arbejdsgiveren selv er logget på VITAS, kan medarbejderrepræsentanten underskrive ansøgningen digitalt på anden måde end ved at logge på med NemId erhverv eller personlig NemId, herunder med elektronisk pen.",
-      "valid_from": "2016-05-19",
-      "valid_to": null
+      "valid_from": "2016-05-21",
+      "valid_to": "2016-11-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:14:29.404Z",
+    "accession": "B20160044505",
+    "document_id": "BE006801",
+    "unique_document_id": "180145",
+    "upstream_status": "Historic",
+    "start_date": "2016-05-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2016-11-10",
+    "seed_status": "repealed"
+  }
 }

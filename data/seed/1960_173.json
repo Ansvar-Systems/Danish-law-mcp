@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Hanstholm havn",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1960-04-29",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1960/173/xml",
-  "description": "Retsinformation source. DocumentId=CM010106; AccessionNumber=A19600017330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010106; AccessionNumber=A19600017330; Ophævet 2003-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:03:38.151Z",
+    "accession": "A19600017330",
+    "document_id": "CM010106",
+    "unique_document_id": "51280",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2003-12-29",
+    "seed_status": "repealed"
+  }
 }

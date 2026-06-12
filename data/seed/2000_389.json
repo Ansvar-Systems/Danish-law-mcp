@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af realkreditloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-30",
+  "in_force_date": "2000-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2000/389/xml",
-  "description": "Retsinformation source. DocumentId=AU000205; AccessionNumber=A20000038930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000205; AccessionNumber=A20000038930; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:17:21.539Z",
+    "accession": "A20000038930",
+    "document_id": "AU000205",
+    "unique_document_id": "25653",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-30",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

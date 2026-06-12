@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Københavns Fondsbørs",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-09-08",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1988/536/xml",
-  "description": "Retsinformation source. DocumentId=CM025295; AccessionNumber=A19880053629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025295; AccessionNumber=A19880053629; Ophævet 1992-05-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:14:52.852Z",
+    "accession": "A19880053629",
+    "document_id": "CM025295",
+    "unique_document_id": "66181",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-27",
+    "historic_marked": "1992-05-21",
+    "seed_status": "repealed"
+  }
 }

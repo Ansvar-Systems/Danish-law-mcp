@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2012-06-18",
+  "in_force_date": "2012-06-18",
   "url": "https://www.retsinformation.dk/eli/lta/2012/546/xml",
   "description": "Retsinformation source. DocumentId=BP000213; AccessionNumber=A20120054630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -199,5 +200,16 @@
       "definition": "en virksomhed, der er hjemmehørende i Danmark",
       "source_provision": "2:3"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:04:54.095Z",
+    "accession": "A20120054630",
+    "document_id": "BP000213",
+    "unique_document_id": "142515",
+    "upstream_status": "Valid",
+    "start_date": "2012-06-18",
+    "end_date": "2017-12-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

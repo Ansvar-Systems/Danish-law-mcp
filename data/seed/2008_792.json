@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kørekort \\n(Frist for aflæggelse af køreprøve, der kan træde i stedet for kontrollerende køreprøve, særligt hjælpeudstyr i køretøjer til øvelseskørsel og praktisk prøve og henlæggelse af beføjelser til Rigspolitichefen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-07-21",
+  "in_force_date": "2008-07-26",
   "url": "https://www.retsinformation.dk/eli/lta/2008/792/xml",
-  "description": "Retsinformation source. DocumentId=AA004354; AccessionNumber=B20080079205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA004354; AccessionNumber=B20080079205; Ophævet 2009-04-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "23",
@@ -19,9 +20,20 @@
       "provision_ref": "23",
       "section": "23",
       "content": "§ 23 a. Rigspolitichefen kan tillade, at kørekort til langsomtkørende invalidekøretøj udstedes til en person, der er fyldt 15 år.",
-      "valid_from": "2008-07-21",
-      "valid_to": null
+      "valid_from": "2008-07-26",
+      "valid_to": "2009-04-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:29:03.223Z",
+    "accession": "B20080079205",
+    "document_id": "AA004354",
+    "unique_document_id": "116903",
+    "upstream_status": "Historic",
+    "start_date": "2008-07-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2009-04-23",
+    "seed_status": "repealed"
+  }
 }

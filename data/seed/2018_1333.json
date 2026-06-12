@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om identifikation og indberetning af finansielle konti med tilknytning til udlandet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-11-27",
+  "in_force_date": "2018-11-28",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1333/xml",
-  "description": "Retsinformation source. DocumentId=AN013621; AccessionNumber=B20180133305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN013621; AccessionNumber=B20180133305; Ophævet 2020-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10c:108d",
@@ -21,9 +22,20 @@
       "chapter": "10c",
       "section": "108d",
       "content": "§ 108 d. Denne bekendtgørelse skal fortolkes og anvendes i overensstemmelse med OECD’s standard for automatisk udveksling af oplysninger om finansielle konti i skatteforhold (Standard for Automatic Exchange of Financial Account Information in Tax Matters), som inkluderer kommentarerne til standarden.",
-      "valid_from": "2018-11-27",
-      "valid_to": null
+      "valid_from": "2018-11-28",
+      "valid_to": "2020-04-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:36:02.738Z",
+    "accession": "B20180133305",
+    "document_id": "AN013621",
+    "unique_document_id": "205170",
+    "upstream_status": "Historic",
+    "start_date": "2018-11-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-04-01",
+    "seed_status": "repealed"
+  }
 }

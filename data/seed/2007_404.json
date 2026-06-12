@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om føring af logbog mv.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-05-02",
+  "in_force_date": "2007-05-10",
   "url": "https://www.retsinformation.dk/eli/lta/2007/404/xml",
-  "description": "Retsinformation source. DocumentId=AH002574; AccessionNumber=B20070040405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002574; AccessionNumber=B20070040405; Ophævet 2008-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:20:53.271Z",
+    "accession": "B20070040405",
+    "document_id": "AH002574",
+    "unique_document_id": "8679",
+    "upstream_status": "Historic",
+    "start_date": "2007-05-10",
+    "end_date": "2022-04-08",
+    "historic_marked": "2008-12-04",
+    "seed_status": "repealed"
+  }
 }

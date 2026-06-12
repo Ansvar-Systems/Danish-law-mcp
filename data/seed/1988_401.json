@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Arbejdsgivernes Elevrefusion",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-07-07",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1988/401/xml",
-  "description": "Retsinformation source. DocumentId=CM033956; AccessionNumber=A19880040129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM033956; AccessionNumber=A19880040129; Ophævet 1997-08-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:09:39.688Z",
+    "accession": "A19880040129",
+    "document_id": "CM033956",
+    "unique_document_id": "74751",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1997-08-22",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om mærkning af videogrammer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-01-11",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/26/xml",
-  "description": "Retsinformation source. DocumentId=CM005970; AccessionNumber=B19950002605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005970; AccessionNumber=B19950002605; Ophævet 1998-02-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:31:45.822Z",
+    "accession": "B19950002605",
+    "document_id": "CM005970",
+    "unique_document_id": "47181",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2013-02-20",
+    "historic_marked": "1998-02-16",
+    "seed_status": "repealed"
+  }
 }

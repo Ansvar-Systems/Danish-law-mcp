@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om overgangsregler for fredningssager",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-12-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1978/611/xml",
-  "description": "Retsinformation source. DocumentId=CM007404; AccessionNumber=B19780061105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM007404; AccessionNumber=B19780061105; Ophævet 1992-08-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:06:03.272Z",
+    "accession": "B19780061105",
+    "document_id": "CM007404",
+    "unique_document_id": "48601",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1992-08-18",
+    "seed_status": "repealed"
+  }
 }

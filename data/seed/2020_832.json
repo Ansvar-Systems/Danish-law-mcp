@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om inddrivelse af gæld til det offentlige",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-10",
+  "in_force_date": "2020-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2020/832/xml",
-  "description": "Retsinformation source. DocumentId=AN014433; AccessionNumber=B20200083205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN014433; AccessionNumber=B20200083205; Ophævet 2023-03-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -24,16 +25,27 @@
       "provision_ref": "9a",
       "section": "9a",
       "content": "§ 9 a. For fordringer på registreringsafgift, vægtafgift og andre fordringer, der vedrører Skatteforvaltningens køretøjsregister, undlader Skatteforvaltningen, hvis sådanne fordringer er modtaget hos restanceinddrivelsesmyndigheden den 1. maj 2020 eller senere, at beregne og opkræve de opkrævningsrenter, der vil påløbe sådanne fordringer fra dagen for deres modtagelse hos restanceinddrivelsesmyndigheden og indtil den dag, hvor der tilskrives renter efter § 5, stk. 1, i lov om inddrivelse af gæld til det offentlige.",
-      "valid_from": "2020-06-10",
-      "valid_to": null
+      "valid_from": "2020-06-11",
+      "valid_to": "2023-03-28"
     },
     {
       "provision_ref": "32",
       "section": "32",
       "content": "§ 32. Restanceinddrivelsesmyndigheden kan endeligt afskrive eller undlade at afbryde forældelsen af fordringer til det offentlige, inklusive renter, gebyrer og andre omkostninger, hvis det må anses for åbenbart formålsløst eller forbundet med uforholdsmæssige omkostninger at fortsætte inddrivelsen. Stk. 2. Der skal ved vurderingen af, om der kan ske afskrivning, lægges vægt på, om skyldneren har betalingsevne, om skyldneren ejer aktiver, og om der er knyttet særlige inddrivelsesmidler til fordringen.",
-      "valid_from": "2020-06-10",
-      "valid_to": null
+      "valid_from": "2020-06-11",
+      "valid_to": "2023-03-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:45:03.580Z",
+    "accession": "B20200083205",
+    "document_id": "AN014433",
+    "unique_document_id": "215034",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-11",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-28",
+    "seed_status": "repealed"
+  }
 }

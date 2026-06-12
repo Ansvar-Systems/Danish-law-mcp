@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om gasinstallationer og installationer i forbindelse med vandledninger og afløbsledninger",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-06-08",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1978/250/xml",
-  "description": "Retsinformation source. DocumentId=CM014186; AccessionNumber=A19780025030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014186; AccessionNumber=A19780025030; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:01:29.276Z",
+    "accession": "A19780025030",
+    "document_id": "CM014186",
+    "unique_document_id": "55297",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

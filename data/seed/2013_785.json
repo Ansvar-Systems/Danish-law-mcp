@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om vandindvinding og vandforsyning\\n(Forenklet underretningsprocedure)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-21",
+  "in_force_date": "2013-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2013/785/xml",
-  "description": "Retsinformation source. DocumentId=AL002853; AccessionNumber=B20130078505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002853; AccessionNumber=B20130078505; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9",
@@ -19,9 +20,20 @@
       "provision_ref": "9",
       "section": "9",
       "content": "§ 9. Kommunalbestyrelsen indhenter herefter udtalelser om sagen fra andre interesserede myndigheder. Der skal indhentes udtalelser fra andre kommunalbestyrelser, som antages interesseret i indvinding i området, herunder fra kommunalbestyrelser i kommuner, hvortil anlægget skal levere vand. Når vandforsyningen kræver vand af drikkevandskvalitet, kan kommunalbestyrelsen, hvis der er tvivl om den sundhedsmæssige kvalitet af vandet, indhente udtalelse fra Sundhedsstyrelsen.",
-      "valid_from": "2013-06-21",
-      "valid_to": null
+      "valid_from": "2013-06-28",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:18:19.197Z",
+    "accession": "B20130078505",
+    "document_id": "AL002853",
+    "unique_document_id": "152388",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-28",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

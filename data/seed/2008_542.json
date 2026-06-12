@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Post Danmark A/S\\n(Selskabskonstruktion vedrørende Post Danmark A/S og Posten AB)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-06-17",
+  "in_force_date": "2008-06-17",
   "url": "https://www.retsinformation.dk/eli/lta/2008/542/xml",
-  "description": "Retsinformation source. DocumentId=BL000072; AccessionNumber=A20080054230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000072; AccessionNumber=A20080054230; Ophævet 2011-07-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -20,8 +21,19 @@
       "section": "4",
       "content": "§ 4. Transportministeren bemyndiges til at sælge aktier i Post Danmark A/S. Stk. 2. Transportministeren bemyndiges til som led i etableringen af en selskabskon­struk­tion vedrørende Post Danmark A/S og Posten AB at ombytte statens aktier i Post Danmark A/S med aktier i et svensk indregistreret holdingselskab.",
       "valid_from": "2008-06-17",
-      "valid_to": null
+      "valid_to": "2011-07-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:18:51.716Z",
+    "accession": "A20080054230",
+    "document_id": "BL000072",
+    "unique_document_id": "120348",
+    "upstream_status": "Historic",
+    "start_date": "2008-06-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-07-12",
+    "seed_status": "repealed"
+  }
 }

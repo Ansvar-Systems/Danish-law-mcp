@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om hold af dyr (Smittebeskyttelse, forenkling af reglerne om sundhedsrådgivning og påbud om rådgivning om Salmonella Dublin)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-18",
+  "in_force_date": "2018-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1550/xml",
-  "description": "Retsinformation source. DocumentId=CK001884; AccessionNumber=A20180155030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK001884; AccessionNumber=A20180155030; Ophævet 2019-01-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "34d",
@@ -20,8 +21,19 @@
       "section": "34d",
       "content": "§ 34 d. Miljø- og fødevareministeren kan meddele påbud om veterinærfaglig rådgivning om bekæmpelse af Salmonella Dublin til besætningsansvarlige på ejendomme med kvæg, der udgør en Salmonella Dublin-smitterisiko. Stk. 2. Ministeren kan fastsætte nærmere regler om den veterinærfaglige rådgivning, herunder om, at dyrlæger med de fornødne veterinærfaglige kvalifikationer skal godkendes af Fødevarestyrelsen til at foretage den veterinærfaglige rådgivning.",
       "valid_from": "2018-12-18",
-      "valid_to": null
+      "valid_to": "2019-01-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:47.254Z",
+    "accession": "A20180155030",
+    "document_id": "CK001884",
+    "unique_document_id": "205325",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-18",
+    "end_date": "2022-04-09",
+    "historic_marked": "2019-01-03",
+    "seed_status": "repealed"
+  }
 }

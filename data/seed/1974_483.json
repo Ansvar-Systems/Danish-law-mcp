@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om restaurations- og hotellokaler m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1974-09-27",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1974/483/xml",
-  "description": "Retsinformation source. DocumentId=CM023754; AccessionNumber=B19740048305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023754; AccessionNumber=B19740048305; Ophævet 1995-01-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:52:59.211Z",
+    "accession": "B19740048305",
+    "document_id": "CM023754",
+    "unique_document_id": "64706",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1995-01-10",
+    "seed_status": "repealed"
+  }
 }

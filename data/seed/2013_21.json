@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2013-01-16",
+  "in_force_date": "2013-01-18",
   "url": "https://www.retsinformation.dk/eli/lta/2013/21/xml",
   "description": "Retsinformation source. DocumentId=AP000256; AccessionNumber=B20130002105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Fra klima-, energi og bygningsministeren til erhvervs- og vækstministeren overføres ressortansvaret for Nordsøfonden, herunder Nordsøenheden, med den til området hørende lovgivning.",
-      "valid_from": "2013-01-16",
+      "valid_from": "2013-01-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:55:14.332Z",
+    "accession": "B20130002105",
+    "document_id": "AP000256",
+    "unique_document_id": "144402",
+    "upstream_status": "Valid",
+    "start_date": "2013-01-18",
+    "end_date": "2013-01-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

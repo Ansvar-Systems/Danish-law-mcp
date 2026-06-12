@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-06-27",
+  "in_force_date": "2016-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2016/928/xml",
   "description": "Retsinformation source. DocumentId=CK000759; AccessionNumber=B20160092805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Direktørerne for institutioner under Miljø- og Fødevareministeriet bemyndiges til for deres område at udnævne og afskedige tjenestemænd i lønramme 1-34 (incl.). Dog kan uansøgt afsked kun foretages af miljø- og fødevareministeren.",
-      "valid_from": "2016-06-27",
+      "valid_from": "2016-06-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2016. Stk. 2. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 828 af 5. oktober 1995 om udnævnelse og afskedigelse af tjenestemænd i Miljø- og Energiministeriet. 2) Bekendtgørelse nr. 133 af 11. marts 1987 om udnævnelse og afskedigelse af statstjenestemænd ved institutioner under Landbrugsministeriet.",
-      "valid_from": "2016-06-27",
+      "valid_from": "2016-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:33:52.845Z",
+    "accession": "B20160092805",
+    "document_id": "CK000759",
+    "unique_document_id": "182032",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-30",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

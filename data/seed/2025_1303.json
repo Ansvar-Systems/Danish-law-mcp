@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2025-11-13",
+  "in_force_date": "2025-11-17",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1303/xml",
   "description": "Retsinformation source. DocumentId=BE010320; AccessionNumber=B20250130305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "3a",
       "section": "3a",
       "content": "§ 3 a. En selvstændig, som arbejder op til 3,5 timer om ugen i sin virksomhed, kan vælge, at dette ikke skal anses for, at den pågældende har genoptaget arbejdet, jf. lovens § 22, stk. 2.",
-      "valid_from": "2025-11-13",
+      "valid_from": "2025-11-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:39:36.549Z",
+    "accession": "B20250130305",
+    "document_id": "BE010320",
+    "unique_document_id": "252196",
+    "upstream_status": "Valid",
+    "start_date": "2025-11-17",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2006-10-18",
+  "in_force_date": "2006-10-26",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1041/xml",
   "description": "Retsinformation source. DocumentId=AP000127; AccessionNumber=B20060104105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Fra statsministeren til økonomi- og erhvervsministeren overføres ressortansvaret for sager vedrørende lov nr. 28 af 29. januar 1964 om en investeringsfond for Færøerne m.v. med senere ændringer.",
-      "valid_from": "2006-10-18",
+      "valid_from": "2006-10-26",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:44:32.094Z",
+    "accession": "B20060104105",
+    "document_id": "AP000127",
+    "unique_document_id": "20997",
+    "upstream_status": "Valid",
+    "start_date": "2006-10-26",
+    "end_date": "2009-03-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

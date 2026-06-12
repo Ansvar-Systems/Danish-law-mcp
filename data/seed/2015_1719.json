@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-16",
+  "in_force_date": "2015-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1719/xml",
   "description": "Retsinformation source. DocumentId=BE006627; AccessionNumber=B20150171905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 322 af 30. marts 2007 om nedsættelse af faglige rådgivende udvalg under Forebyggelsesfonden ophæves.",
-      "valid_from": "2015-12-16",
+      "valid_from": "2015-12-22",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-12-16",
+      "valid_from": "2015-12-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:25.871Z",
+    "accession": "B20150171905",
+    "document_id": "BE006627",
+    "unique_document_id": "176439",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-22",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

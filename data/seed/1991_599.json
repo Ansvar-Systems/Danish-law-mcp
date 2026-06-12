@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forskudsregistrering for 1992",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-08-16",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/599/xml",
-  "description": "Retsinformation source. DocumentId=CM020342; AccessionNumber=B19910059905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020342; AccessionNumber=B19910059905; Ophævet 1992-08-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:54:05.950Z",
+    "accession": "B19910059905",
+    "document_id": "CM020342",
+    "unique_document_id": "61374",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-13",
+    "historic_marked": "1992-08-31",
+    "seed_status": "repealed"
+  }
 }

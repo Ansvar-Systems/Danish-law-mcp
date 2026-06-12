@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om digital kommunikation mv. i sager om syge- og barseldagpenge",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-16",
+  "in_force_date": "2009-06-19",
   "url": "https://www.retsinformation.dk/eli/lta/2009/547/xml",
-  "description": "Retsinformation source. DocumentId=BE003454; AccessionNumber=B20090054705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE003454; AccessionNumber=B20090054705; Ophævet 2010-06-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3 a. Kommunen skal aflevere sagsbehandlingsresultatet af alle sygedagpengeindberetninger i form af oplysning om det udbetalte beløb eller afslagsårsagen. Stk. 2. Sagsbehandlingsresultatet skal afleveres i OIOXML-meddelelsesformat til automatisk indlæsning i VAS. Stk. 3. Kommunen skal ikke aflevere sagsbehandlingsresultatet af barseldagpengeindberetninger til VAS.",
-      "valid_from": "2009-06-16",
-      "valid_to": null
+      "valid_from": "2009-06-19",
+      "valid_to": "2010-06-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:16:23.952Z",
+    "accession": "B20090054705",
+    "document_id": "BE003454",
+    "unique_document_id": "125557",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-19",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-06-14",
+    "seed_status": "repealed"
+  }
 }

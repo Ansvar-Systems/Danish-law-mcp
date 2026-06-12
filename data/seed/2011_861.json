@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om oprettelse af erhvervsgrunduddannelser\\n(Indberetningsportal for erhvervsgrunduddannelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-07-14",
+  "in_force_date": "2011-07-20",
   "url": "https://www.retsinformation.dk/eli/lta/2011/861/xml",
-  "description": "Retsinformation source. DocumentId=AT004650; AccessionNumber=B20110086105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004650; AccessionNumber=B20110086105; Ophævet 2016-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -19,9 +20,20 @@
       "provision_ref": "9a",
       "section": "9a",
       "content": "§ 9a. Til brug for indberetning og tilrettelæggelse af den enkelte elevs uddannelsesplan, skal kommunalbestyrelsen henholdsvis den tilrettelæggende institution anvende Undervisningsministeriets elektroniske indberetningsportal for erhvervsgrunduddannelsen, Egu-portalen. Stk. 2. Elevens uddannelsesplan skal være indberettet i portalen, inden eleven påbegynder en erhvervsgrunduddannelse. Stk. 3. Ændringer i en indberettet uddannelsesplan skal indberettes i portalen. Stk. 4. Alle oplysninger, som er relevante for den enkelte uddannelsesplan, skal indberettes i portalen. Indberetningen skal altid indeholde følgende oplysninger: 1) Elevens navn og cpr-nummer. 2) Elevens uddannelsesbaggrund og tidligere beskæftigelse. 3) Uddannelsesplanens start- og slutdato. 4) Uddannelsesplanens indhold.",
-      "valid_from": "2011-07-14",
-      "valid_to": null
+      "valid_from": "2011-07-20",
+      "valid_to": "2016-06-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:24:19.771Z",
+    "accession": "B20110086105",
+    "document_id": "AT004650",
+    "unique_document_id": "138058",
+    "upstream_status": "Historic",
+    "start_date": "2011-07-20",
+    "end_date": "2021-01-08",
+    "historic_marked": "2016-06-10",
+    "seed_status": "repealed"
+  }
 }

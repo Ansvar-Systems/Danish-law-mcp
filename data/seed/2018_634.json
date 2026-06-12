@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-05-29",
+  "in_force_date": "2018-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2018/634/xml",
   "description": "Retsinformation source. DocumentId=CQ000551; AccessionNumber=B20180063405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Årsrapporten for en erhvervsdrivende fond skal angive det samlede vederlag m.v. for regnskabsåret til administrator, som omfattet af § 43 i lov om erhvervsdrivende fonde, som sat i kraft for Grønland ved kongelig anordning. Hvis administrator har krav på pensionsbetaling, skal årsrapporten desuden angive de samlede pensionsforpligtelser. Er der fastsat særlige bonusordninger for administrator, skal det oplyses, hvilke ordninger bonussen omfatter, og hvad der er nødvendigt for at kunne vurdere værdien af bonusordningerne. Stk. 2. Oplysninger efter stk. 1, skal desuden angives for det foregående regnskabsår.",
-      "valid_from": "2018-05-29",
+      "valid_from": "2018-06-01",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Er fonden moderfond i en koncern, skal der i årsregnskabet gives oplysninger om det samlede vederlag m.v., som administrator modtager i andre virksomheder i koncernen.",
-      "valid_from": "2018-05-29",
+      "valid_from": "2018-06-01",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2018. Stk. 2. Bekendtgørelsen finder anvendelse for regnskabsår, der begynder den 1. juli 2018 eller senere.",
-      "valid_from": "2018-05-29",
+      "valid_from": "2018-06-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:13:40.377Z",
+    "accession": "B20180063405",
+    "document_id": "CQ000551",
+    "unique_document_id": "201491",
+    "upstream_status": "Valid",
+    "start_date": "2018-06-01",
+    "end_date": "2018-06-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

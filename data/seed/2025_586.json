@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-05-26",
+  "in_force_date": "2025-05-28",
   "url": "https://www.retsinformation.dk/eli/lta/2025/586/xml",
   "description": "Retsinformation source. DocumentId=CQ003226; AccessionNumber=B20250058605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den fastsatte tærskel for indberetning af ledende medarbejderes transaktioner i artikel 19, stk. 8, i Europa-Parlamentets og Rådets forordning (EU) nr. 596/2014 af 16. april 2014 om markedsmisbrug (forordningen om markedsmisbrug) hæves til 50.000 euro.",
-      "valid_from": "2025-05-26",
+      "valid_from": "2025-05-28",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2025. Stk. 2. Bekendtgørelse nr. 580 af 5. maj 2020 om tærskel for indberetning af ledende medarbejderes transaktioner ophæves.",
-      "valid_from": "2025-05-26",
+      "valid_from": "2025-05-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:17:58.284Z",
+    "accession": "B20250058605",
+    "document_id": "CQ003226",
+    "unique_document_id": "249705",
+    "upstream_status": "Valid",
+    "start_date": "2025-05-28",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

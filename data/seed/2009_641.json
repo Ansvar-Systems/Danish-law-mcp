@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om avl af kartofler og om salg af læggekartofler og af spisekartofler af egen avl",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-25",
+  "in_force_date": "2009-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2009/641/xml",
-  "description": "Retsinformation source. DocumentId=AH003398; AccessionNumber=B20090064105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003398; AccessionNumber=B20090064105; Ophævet 2010-06-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10a",
@@ -19,9 +20,20 @@
       "provision_ref": "10a",
       "section": "10a",
       "content": "§ 10a. Erhvervsmæssig avl af læggekartofler af sorter der er optaget på sortslisten som ”bevaringssort,” må kun finde sted i oprindelsesregionen. Stk. 2. Plantedirektoratet meddeler på grundlag af i § 9 anførte indberetninger den mængde kartofler af bevaringssorten virksomheden må bringe i handel i den pågældende sæson. Den samlede mængde der bringes i handel, må ikke overstige det i bilag 9, I, anførte.",
-      "valid_from": "2009-06-25",
-      "valid_to": null
+      "valid_from": "2009-06-30",
+      "valid_to": "2010-06-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:20:12.908Z",
+    "accession": "B20090064105",
+    "document_id": "AH003398",
+    "unique_document_id": "125630",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-30",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-06-25",
+    "seed_status": "repealed"
+  }
 }

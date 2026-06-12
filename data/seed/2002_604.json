@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om erhvervsmæssigt dyrehold, husdyrgødning, ensilage m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-07-15",
+  "in_force_date": "2002-07-25",
   "url": "https://www.retsinformation.dk/eli/lta/2002/604/xml",
-  "description": "Retsinformation source. DocumentId=AL000848; AccessionNumber=B20020060405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000848; AccessionNumber=B20020060405; Ophævet 2006-07-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:51:06.011Z",
+    "accession": "B20020060405",
+    "document_id": "AL000848",
+    "unique_document_id": "12574",
+    "upstream_status": "Historic",
+    "start_date": "2002-07-25",
+    "end_date": "2026-02-25",
+    "historic_marked": "2006-07-24",
+    "seed_status": "repealed"
+  }
 }

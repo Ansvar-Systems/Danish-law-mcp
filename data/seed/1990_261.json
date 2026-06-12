@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om offentlige veje",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-04-25",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/261/xml",
-  "description": "Retsinformation source. DocumentId=CM010014; AccessionNumber=A19900026129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010014; AccessionNumber=A19900026129; Ophævet 1997-04-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:08:31.645Z",
+    "accession": "A19900026129",
+    "document_id": "CM010014",
+    "unique_document_id": "51188",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-01-26",
+    "historic_marked": "1997-04-10",
+    "seed_status": "repealed"
+  }
 }

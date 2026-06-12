@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om EØF-mærkning (e-mærkning) af færdigpakkede varer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-12-06",
+  "in_force_date": "2016-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1493/xml",
-  "description": "Retsinformation source. DocumentId=CQ000014; AccessionNumber=B20160149305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000014; AccessionNumber=B20160149305; Ophævet 2018-05-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8. Den måletekniske kontrol, jf. § 4, stk. 1, nr. 2, der skal foretages hos påfyldningsvirksomheden eller importøren for at sikre forskrifternes overholdelse i virksomheden, herunder dennes egenkontrol, skal udføres af et laboratorium, der: 1) er særligt bemyndiget til at udføre måleteknisk kontrol i henhold til denne bekendtgørelse af Sikkerhedsstyrelsen på baggrund af, at laboratoriet har den fornødne akkreditering fra DANAK Den Danske Akkrediteringsfond eller fra et tilsvarende akkrediteringsorgan, som er medunderskriver af relevante EA eller IAF multilaterale aftaler om gensidig anerkendelse, eller 2) midlertidigt leverer tjenesteydelser i Danmark, og som er lovligt etableret i et andet EU- eller EØS-land, hvor laboratoriet lovligt kan udføre måleteknisk kontrol i henhold til Rådets direktiv 76/211/EØF af 20. januar 1976 om indbyrdes tilnærmelse af medlemsstaternes lovgivning om emballering af visse varer efter vægt eller volumen i færdigpakninger. Stk. 2. Laboratoriet, jf. stk. 1, kan opkræve betaling for udførelse af den måletekniske kontrol.",
-      "valid_from": "2016-12-06",
-      "valid_to": null
+      "valid_from": "2016-12-07",
+      "valid_to": "2018-05-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:51:58.095Z",
+    "accession": "B20160149305",
+    "document_id": "CQ000014",
+    "unique_document_id": "185331",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-07",
+    "end_date": "2018-05-29",
+    "historic_marked": "2018-05-28",
+    "seed_status": "repealed"
+  }
 }

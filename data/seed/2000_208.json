@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forhøjelse af hædersgaver",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-27",
+  "in_force_date": "2000-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2000/208/xml",
-  "description": "Retsinformation source. DocumentId=AO000704; AccessionNumber=A20000020830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000704; AccessionNumber=A20000020830; Ophævet 2004-12-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:10:06.333Z",
+    "accession": "A20000020830",
+    "document_id": "AO000704",
+    "unique_document_id": "18879",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-27",
+    "end_date": "2005-08-03",
+    "historic_marked": "2004-12-26",
+    "seed_status": "repealed"
+  }
 }

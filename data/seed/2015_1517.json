@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til kommunale projekter vedrørende vandløbsrestaurering",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-09",
+  "in_force_date": "2015-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1517/xml",
-  "description": "Retsinformation source. DocumentId=CK000390; AccessionNumber=B20150151705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK000390; AccessionNumber=B20150151705; Ophævet 2015-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Alle ansøgninger om tilskud, projektændringer og udbetalinger efter denne bekendtgørelse skal ske via Tast selv-service. Stk. 2. Al øvrig skriftlig kommunikation med NaturErhvervstyrelsen i forbindelse med tilskud efter denne bekendtgørelse skal ske via e-mail.",
-      "valid_from": "2015-12-09",
-      "valid_to": null
+      "valid_from": "2015-12-12",
+      "valid_to": "2015-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:43:17.643Z",
+    "accession": "B20150151705",
+    "document_id": "CK000390",
+    "unique_document_id": "176216",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-12",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-17",
+    "seed_status": "repealed"
+  }
 }

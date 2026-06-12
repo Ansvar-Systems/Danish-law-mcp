@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om visse brandfarlige virksomheder og oplag",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1982-12-03",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1982/613/xml",
-  "description": "Retsinformation source. DocumentId=CM013642; AccessionNumber=B19820061305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM013642; AccessionNumber=B19820061305; Ophævet 2020-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:22:23.470Z",
+    "accession": "B19820061305",
+    "document_id": "CM013642",
+    "unique_document_id": "54759",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2026-02-20",
+    "historic_marked": "2020-06-30",
+    "seed_status": "repealed"
+  }
 }

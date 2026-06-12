@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om visse spil, lotterier og væddemål",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/456/xml",
-  "description": "Retsinformation source. DocumentId=AN001029; AccessionNumber=A20000045630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001029; AccessionNumber=A20000045630; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:04.587Z",
+    "accession": "A20000045630",
+    "document_id": "AN001029",
+    "unique_document_id": "13823",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2003-05-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

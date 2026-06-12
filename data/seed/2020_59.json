@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om arbejdsløshedsforsikring m.v. (Afskaffelse af opholdskrav for ret til dagpenge m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-01-28",
+  "in_force_date": "2020-01-28",
   "url": "https://www.retsinformation.dk/eli/lta/2020/59/xml",
-  "description": "Retsinformation source. DocumentId=BE008306; AccessionNumber=A20200005930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008306; AccessionNumber=A20200005930; Ophævet 2020-03-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:35:17.572Z",
+    "accession": "A20200005930",
+    "document_id": "BE008306",
+    "unique_document_id": "212653",
+    "upstream_status": "Historic",
+    "start_date": "2020-01-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-03-13",
+    "seed_status": "repealed"
+  }
 }

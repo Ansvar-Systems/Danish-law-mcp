@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om indkomstbeskatning af aktieselskaber m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-10-16",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1980/447/xml",
-  "description": "Retsinformation source. DocumentId=CM021974; AccessionNumber=A19800044729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM021974; AccessionNumber=A19800044729; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:03:28.481Z",
+    "accession": "A19800044729",
+    "document_id": "CM021974",
+    "unique_document_id": "62954",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-13",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2024-06-11",
+  "in_force_date": "2024-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/665/xml",
   "description": "Retsinformation source. DocumentId=AA014239; AccessionNumber=A20240066530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -101,5 +102,16 @@
       "definition": "et forbud mod at færdes og opholde sig i et eller flere nærmere afgrænsede områder, hvor den pågældende lovovertrædelse er begået, eller hvor den gruppe af personer, som den dømte på gerningstidspunktet har tilknytning til, opholder sig",
       "source_provision": "79a"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:13:40.470Z",
+    "accession": "A20240066530",
+    "document_id": "AA014239",
+    "unique_document_id": "244027",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-11",
+    "end_date": "2025-11-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

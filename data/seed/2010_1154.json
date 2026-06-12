@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om stærkstrøm afsnit 6D vedr. installationsstikforbindelser",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-10-06",
+  "in_force_date": "2010-10-07",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1154/xml",
-  "description": "Retsinformation source. DocumentId=AU004177; AccessionNumber=B20100115405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU004177; AccessionNumber=B20100115405; Ophævet 2019-07-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Hermed offentliggøres stærkstrømbekendtgørelsen afsnit 6D vedr. særlige krav til anvendelse af installationsstikforbindelser i installationer.",
-      "valid_from": "2010-10-06",
-      "valid_to": null
+      "valid_from": "2010-10-07",
+      "valid_to": "2019-07-02"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den. 15. oktober 2010.",
-      "valid_from": "2010-10-06",
-      "valid_to": null
+      "valid_from": "2010-10-07",
+      "valid_to": "2019-07-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:41:09.713Z",
+    "accession": "B20100115405",
+    "document_id": "AU004177",
+    "unique_document_id": "133622",
+    "upstream_status": "Historic",
+    "start_date": "2010-10-07",
+    "end_date": "2019-07-03",
+    "historic_marked": "2019-07-02",
+    "seed_status": "repealed"
+  }
 }

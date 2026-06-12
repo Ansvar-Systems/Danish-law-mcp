@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2025-06-17",
+  "in_force_date": "2025-06-18",
   "url": "https://www.retsinformation.dk/eli/lta/2025/674/xml",
   "description": "Retsinformation source. DocumentId=CE001545; AccessionNumber=A20250067430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "39a",
       "section": "39a",
       "content": "§ 39 a. Uddannelses- og forskningsministeren kan fastsætte regler om anvendelse af kunstig intelligens eller lignende digitale løsninger til understøttelse af sagsbehandling efter denne lov, herunder om behandling af personoplysninger i forbindelse hermed.",
-      "valid_from": "2025-06-17",
+      "valid_from": "2025-06-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:21:41.834Z",
+    "accession": "A20250067430",
+    "document_id": "CE001545",
+    "unique_document_id": "249845",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-18",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

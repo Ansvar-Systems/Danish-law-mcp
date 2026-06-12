@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om social service",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-02-17",
+  "in_force_date": "2005-02-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/97/xml",
-  "description": "Retsinformation source. DocumentId=AO002539; AccessionNumber=A20050009729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002539; AccessionNumber=A20050009729; Ophævet 2005-04-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:41:36.757Z",
+    "accession": "A20050009729",
+    "document_id": "AO002539",
+    "unique_document_id": "20283",
+    "upstream_status": "Historic",
+    "start_date": "2005-02-24",
+    "end_date": "2022-07-08",
+    "historic_marked": "2005-04-28",
+    "seed_status": "repealed"
+  }
 }

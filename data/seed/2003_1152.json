@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om merværdiafgiftsloven (momsloven)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-12",
+  "in_force_date": "2003-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1152/xml",
-  "description": "Retsinformation source. DocumentId=AN003949; AccessionNumber=B20030115205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003949; AccessionNumber=B20030115205; Ophævet 2006-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:12:51.940Z",
+    "accession": "B20030115205",
+    "document_id": "AN003949",
+    "unique_document_id": "16279",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-18",
+    "end_date": "2009-12-24",
+    "historic_marked": "2006-06-29",
+    "seed_status": "repealed"
+  }
 }

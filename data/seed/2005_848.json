@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ansvarshavende aktuar",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-08",
+  "in_force_date": "2005-09-19",
   "url": "https://www.retsinformation.dk/eli/lta/2005/848/xml",
-  "description": "Retsinformation source. DocumentId=AU002241; AccessionNumber=B20050084805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002241; AccessionNumber=B20050084805; Ophævet 2008-02-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:36:44.120Z",
+    "accession": "B20050084805",
+    "document_id": "AU002241",
+    "unique_document_id": "27113",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-19",
+    "end_date": "2017-12-08",
+    "historic_marked": "2008-02-11",
+    "seed_status": "repealed"
+  }
 }

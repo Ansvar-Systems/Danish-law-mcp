@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om udgang til indsatte, der udstår fængselsstraf eller forvaring i kriminalforsorgens institutioner (Udgangsbekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-03-13",
+  "in_force_date": "2020-03-13",
   "url": "https://www.retsinformation.dk/eli/lta/2020/202/xml",
-  "description": "Retsinformation source. DocumentId=AA011827; AccessionNumber=B20200020205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA011827; AccessionNumber=B20200020205; Ophævet 2022-02-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "14a:84a",
@@ -22,8 +23,19 @@
       "section": "84a",
       "content": "§ 84 a. Tilladelse til udgang efter denne bekendtgørelses afsnit II kan nægtes, og allerede udstedte tilladelser kan tilbagekaldes, hvis det må antages at kunne bidrage til at forebygge eller inddæmme udbredelse af covid-19 i kriminalforsorgens institutioner.",
       "valid_from": "2020-03-13",
-      "valid_to": null
+      "valid_to": "2022-02-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:29.731Z",
+    "accession": "B20200020205",
+    "document_id": "AA011827",
+    "unique_document_id": "213444",
+    "upstream_status": "Historic",
+    "start_date": "2020-03-13",
+    "end_date": "2022-02-02",
+    "historic_marked": "2022-02-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regnskab og revision af statsanerkendte museer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-11-27",
+  "in_force_date": "2002-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2002/953/xml",
-  "description": "Retsinformation source. DocumentId=AK000227; AccessionNumber=B20020095305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000227; AccessionNumber=B20020095305; Ophævet 2006-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:04:54.392Z",
+    "accession": "B20020095305",
+    "document_id": "AK000227",
+    "unique_document_id": "11845",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-05",
+    "end_date": "2006-12-21",
+    "historic_marked": "2006-12-21",
+    "seed_status": "repealed"
+  }
 }

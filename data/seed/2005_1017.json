@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om tilsyn med firmapensionskasser",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-10-24",
+  "in_force_date": "2005-11-03",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1017/xml",
-  "description": "Retsinformation source. DocumentId=AU002016; AccessionNumber=A20050101729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002016; AccessionNumber=A20050101729; Ophævet 2007-12-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:49:35.683Z",
+    "accession": "A20050101729",
+    "document_id": "AU002016",
+    "unique_document_id": "26952",
+    "upstream_status": "Historic",
+    "start_date": "2005-11-03",
+    "end_date": "2017-12-08",
+    "historic_marked": "2007-12-31",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-06-01",
+  "in_force_date": "2016-06-03",
   "url": "https://www.retsinformation.dk/eli/lta/2016/561/xml",
   "description": "Retsinformation source. DocumentId=BP001671; AccessionNumber=B20160056105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1234 af 22. oktober 2007 om udarbejdelse og udbredelse til offentligheden af visse investeringsanalyser ophæves.",
-      "valid_from": "2016-06-01",
+      "valid_from": "2016-06-03",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 3. juli 2016.",
-      "valid_from": "2016-06-01",
+      "valid_from": "2016-06-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:19:09.120Z",
+    "accession": "B20160056105",
+    "document_id": "BP001671",
+    "unique_document_id": "181683",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-03",
+    "end_date": "2017-12-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

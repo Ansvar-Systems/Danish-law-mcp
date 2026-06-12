@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-05-06",
+  "in_force_date": "2022-05-06",
   "url": "https://www.retsinformation.dk/eli/lta/2022/561/xml",
   "description": "Retsinformation source. DocumentId=DC000567; AccessionNumber=B20220056105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -353,5 +354,16 @@
       "definition": "en person, som lever i et samlivsforhold",
       "source_provision": "7:13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:43:57.337Z",
+    "accession": "B20220056105",
+    "document_id": "DC000567",
+    "unique_document_id": "230664",
+    "upstream_status": "Valid",
+    "start_date": "2022-05-06",
+    "end_date": "2023-04-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

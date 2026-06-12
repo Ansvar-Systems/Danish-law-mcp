@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Dansk Internationalt Skibsregister",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-08-28",
+  "in_force_date": "2018-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1106/xml",
-  "description": "Retsinformation source. DocumentId=CQ000613; AccessionNumber=B20180110605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000613; AccessionNumber=B20180110605; Ophævet 2023-01-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "21a",
@@ -19,9 +20,20 @@
       "provision_ref": "21a",
       "section": "21a",
       "content": "§ 21 a. § 36, stk. 2, i søloven finder tilsvarende anvendelse på skibe registreret i Dansk Internationalt Skibsregister.",
-      "valid_from": "2018-08-28",
-      "valid_to": null
+      "valid_from": "2018-08-31",
+      "valid_to": "2023-01-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:26:47.614Z",
+    "accession": "B20180110605",
+    "document_id": "CQ000613",
+    "unique_document_id": "202444",
+    "upstream_status": "Historic",
+    "start_date": "2018-08-31",
+    "end_date": "2023-01-14",
+    "historic_marked": "2023-01-13",
+    "seed_status": "repealed"
+  }
 }

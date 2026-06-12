@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af visse olieprodukter",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-11-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/725/xml",
-  "description": "Retsinformation source. DocumentId=CM022167; AccessionNumber=A19910072529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022167; AccessionNumber=A19910072529; Ophævet 1993-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:59:13.769Z",
+    "accession": "A19910072529",
+    "document_id": "CM022167",
+    "unique_document_id": "63147",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-17",
+    "historic_marked": "1993-01-28",
+    "seed_status": "repealed"
+  }
 }

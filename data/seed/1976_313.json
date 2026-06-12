@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige lovbestemmelser med 20 års aldersgrænse m.v.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1976-06-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1976/313/xml",
-  "description": "Retsinformation source. DocumentId=CM018340; AccessionNumber=A19760031330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018340; AccessionNumber=A19760031330; Ophævet 1996-06-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:49:25.750Z",
+    "accession": "A19760031330",
+    "document_id": "CM018340",
+    "unique_document_id": "59387",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-05-07",
+    "historic_marked": "1996-06-18",
+    "seed_status": "repealed"
+  }
 }

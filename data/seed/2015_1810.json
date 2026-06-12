@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social pension, lov om arbejdsskadesikring og lov om afgift af bidraget til Arbejdsmarkedets Erhvervssygdomssikring og af arbejdsulykkeserstatninger m.v. (Regulering af folkepensionsalderen, ændring af revisionsbestemmelse m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-23",
+  "in_force_date": "2015-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1810/xml",
-  "description": "Retsinformation source. DocumentId=BE006660; AccessionNumber=A20150181030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006660; AccessionNumber=A20150181030; Ophævet 2020-04-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "89",
@@ -20,8 +21,19 @@
       "section": "89",
       "content": "§ 89. En sikringspligtig forsikringstager kan ikke opsige en forsikring på grund af en forhøjelse af præmien, som alene er begrundet i en forøgelse af udgifterne, der er en følge af denne lov eller lov om social pension eller af ændringer af disse love.",
       "valid_from": "2015-12-23",
-      "valid_to": null
+      "valid_to": "2020-04-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:55:07.038Z",
+    "accession": "A20150181030",
+    "document_id": "BE006660",
+    "unique_document_id": "176727",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-04-06",
+    "seed_status": "repealed"
+  }
 }

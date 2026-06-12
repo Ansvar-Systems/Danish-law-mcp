@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om visse havanlæg",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1981-06-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1981/292/xml",
-  "description": "Retsinformation source. DocumentId=CM008165; AccessionNumber=A19810029230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008165; AccessionNumber=A19810029230; Ophævet 2006-07-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:09:12.908Z",
+    "accession": "A19810029230",
+    "document_id": "CM008165",
+    "unique_document_id": "49355",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2015-06-03",
+    "historic_marked": "2006-07-04",
+    "seed_status": "repealed"
+  }
 }

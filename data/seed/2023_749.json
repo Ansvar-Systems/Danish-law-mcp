@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2023-06-13",
+  "in_force_date": "2023-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2023/749/xml",
   "description": "Retsinformation source. DocumentId=DH001363; AccessionNumber=A20230074930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "9a",
       "section": "9a",
       "content": "§ 9 a. Hvis kommunalbestyrelsen beslutter, at § 83, stk. 1, nr. 3, i lov om social service helt eller delvis ikke skal gælde, kan kommunalbestyrelsen opfylde sin forpligtelse efter § 9, stk. 1, for så vidt angår madservice, ved at stille et tilbud, der træder i stedet for madservice, til rådighed, jf. dog stk. 3.",
-      "valid_from": "2023-06-13",
+      "valid_from": "2023-06-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:59:45.802Z",
+    "accession": "A20230074930",
+    "document_id": "DH001363",
+    "unique_document_id": "238001",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-14",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

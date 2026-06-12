@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om udfærdigelse af Koncession på Anlæg og Drift af Telefoner i Jylland m.m. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1922-03-13",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1922/77/xml",
-  "description": "Retsinformation source. DocumentId=CM003958; AccessionNumber=A19220007730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM003958; AccessionNumber=A19220007730; Ophævet 1995-11-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:40:53.337Z",
+    "accession": "A19220007730",
+    "document_id": "CM003958",
+    "unique_document_id": "45376",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2017-12-09",
+    "historic_marked": "1995-11-13",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Danmarks Journalisthøjskole",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-07-29",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/674/xml",
-  "description": "Retsinformation source. DocumentId=CM034003; AccessionNumber=A19920067429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034003; AccessionNumber=A19920067429; Ophævet 1996-06-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:39:21.575Z",
+    "accession": "A19920067429",
+    "document_id": "CM034003",
+    "unique_document_id": "74798",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-01-11",
+    "historic_marked": "1996-06-12",
+    "seed_status": "repealed"
+  }
 }

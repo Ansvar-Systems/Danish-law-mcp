@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ophævelse af § 23 i lov nr. 209 af 7. juni 1958 om nautiske eksaminer m.m.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-03-11",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1987/112/xml",
-  "description": "Retsinformation source. DocumentId=CM025370; AccessionNumber=A19870011230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025370; AccessionNumber=A19870011230; Ophævet 1989-08-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:28:55.900Z",
+    "accession": "A19870011230",
+    "document_id": "CM025370",
+    "unique_document_id": "66251",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2014-07-02",
+    "historic_marked": "1989-08-01",
+    "seed_status": "repealed"
+  }
 }

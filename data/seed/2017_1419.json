@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-11-30",
+  "in_force_date": "2017-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1419/xml",
   "description": "Retsinformation source. DocumentId=CQ000365; AccessionNumber=B20170141905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse finder anvendelse på følgende typer af betalingsmodtagere: 1) Virksomheder, der er omfattet af §§ 1, 6 og 7 i bekendtgørelse nr. 1356 af 29. november 2017 om apoteker og sygehusapotekers driftsforhold. 2) Virksomheder, der er omfattet af §§ 47-50 i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 990 af 18. august 2017.",
-      "valid_from": "2017-11-30",
+      "valid_from": "2017-12-07",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. En betalingsmodtager, der er omfattet af § 1, og som modtager betalingsinstrumenter omfattet af lov om betalinger, er forpligtet til at modtage kontanter i hele åbningstiden, jf. dog § 5 i lov nr. 651 af 8. juni 2017 om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme. Stk. 2. Stk. 1 finder ikke anvendelse ved fjernsalg eller ved betalingstransaktioner i ubemandede selvbetjeningsmiljøer. Stk. 3. Erhvervsministeren kan dispensere helt eller delvist fra stk. 1, der dermed ikke finder anvendelse på en bestemt betalingsmodtager eller bestemte typer af betalingsmodtagere.",
-      "valid_from": "2017-11-30",
+      "valid_from": "2017-12-07",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Overtrædelse af § 2 straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2017-11-30",
+      "valid_from": "2017-12-07",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2018.",
-      "valid_from": "2017-11-30",
+      "valid_from": "2017-12-07",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:53:37.221Z",
+    "accession": "B20170141905",
+    "document_id": "CQ000365",
+    "unique_document_id": "195194",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-07",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

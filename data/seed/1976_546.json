@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om udbygningen af Odense universitetscenter",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1976-11-17",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1976/546/xml",
-  "description": "Retsinformation source. DocumentId=CM034152; AccessionNumber=A19760054630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034152; AccessionNumber=A19760054630; Ophævet 1992-05-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:51:46.052Z",
+    "accession": "A19760054630",
+    "document_id": "CM034152",
+    "unique_document_id": "74947",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "1992-05-19",
+    "seed_status": "repealed"
+  }
 }

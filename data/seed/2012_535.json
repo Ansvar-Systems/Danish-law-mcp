@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om forskellige rentesatser på studiegældsområdet for andet halvår af 2012",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-11",
+  "in_force_date": "2012-06-13",
   "url": "https://www.retsinformation.dk/eli/lta/2012/535/xml",
-  "description": "Retsinformation source. DocumentId=AN011124; AccessionNumber=B20120053505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011124; AccessionNumber=B20120053505; Ophævet 2012-12-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Misligholdte studielån, slutlån og statslån forrentes med den til enhver tid fastsatte officielle diskonto med et tillæg på 2 procentpoint p.a.",
-      "valid_from": "2012-06-11",
-      "valid_to": null
+      "valid_from": "2012-06-13",
+      "valid_to": "2012-12-11"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Statsgaranterede studielån, som overføres til Økonomistyrelsen, forrentes med en nominel rente på 1,50 pct. p.a. i perioden 1. juli 2012 til 31. december 2012.",
-      "valid_from": "2012-06-11",
-      "valid_to": null
+      "valid_from": "2012-06-13",
+      "valid_to": "2012-12-11"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Indfriede, misligholdte statsgaranterede studielån forrentes med 3,00 pct. p.a. i perioden 1. juli 2012 til 31. december 2012.",
-      "valid_from": "2012-06-11",
-      "valid_to": null
+      "valid_from": "2012-06-13",
+      "valid_to": "2012-12-11"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen har virkning for renter der påløber fra og med den 1. juli 2012.",
-      "valid_from": "2012-06-11",
-      "valid_to": null
+      "valid_from": "2012-06-13",
+      "valid_to": "2012-12-11"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. juli 2012. Samtidig ophæves bekendtgørelse nr. 1294 af 7. december 2011 om forskellige rentesatser på studiegældsområdet for første halvår af 2012.",
-      "valid_from": "2012-06-11",
-      "valid_to": null
+      "valid_from": "2012-06-13",
+      "valid_to": "2012-12-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:04:28.093Z",
+    "accession": "B20120053505",
+    "document_id": "AN011124",
+    "unique_document_id": "142223",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-13",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-12-11",
+    "seed_status": "repealed"
+  }
 }

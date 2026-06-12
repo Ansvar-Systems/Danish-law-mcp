@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Sømandsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-07-18",
+  "in_force_date": "2005-07-28",
   "url": "https://www.retsinformation.dk/eli/lta/2005/742/xml",
-  "description": "Retsinformation source. DocumentId=AU002201; AccessionNumber=A20050074229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002201; AccessionNumber=A20050074229; Ophævet 2013-08-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:32:29.141Z",
+    "accession": "A20050074229",
+    "document_id": "AU002201",
+    "unique_document_id": "27073",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-28",
+    "end_date": "2025-06-25",
+    "historic_marked": "2013-08-20",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om mærkning m.v. af fødevarer",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-07-20",
+  "in_force_date": "2006-07-27",
   "url": "https://www.retsinformation.dk/eli/lta/2006/829/xml",
-  "description": "Retsinformation source. DocumentId=BG000569; AccessionNumber=B20060082905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000569; AccessionNumber=B20060082905; Ophævet 2014-12-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:39:35.950Z",
+    "accession": "B20060082905",
+    "document_id": "BG000569",
+    "unique_document_id": "31803",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-27",
+    "end_date": "2022-04-09",
+    "historic_marked": "2014-12-11",
+    "seed_status": "repealed"
+  }
 }

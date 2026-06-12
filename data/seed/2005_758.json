@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af skatteforvaltningsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-02",
+  "in_force_date": "2005-08-09",
   "url": "https://www.retsinformation.dk/eli/lta/2005/758/xml",
-  "description": "Retsinformation source. DocumentId=AN004753; AccessionNumber=A20050075829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004753; AccessionNumber=A20050075829; Ophævet 2006-09-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:33:06.416Z",
+    "accession": "A20050075829",
+    "document_id": "AN004753",
+    "unique_document_id": "16907",
+    "upstream_status": "Historic",
+    "start_date": "2005-08-09",
+    "end_date": "2026-06-12",
+    "historic_marked": "2006-09-07",
+    "seed_status": "repealed"
+  }
 }

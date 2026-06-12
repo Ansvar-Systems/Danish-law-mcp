@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undervisningsplan for køreuddannelsen til motorcykel (kategori A)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-01-16",
+  "in_force_date": "2009-02-10",
   "url": "https://www.retsinformation.dk/eli/lta/2009/92/xml",
-  "description": "Retsinformation source. DocumentId=AA004684; AccessionNumber=B20090009205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA004684; AccessionNumber=B20090009205; Ophævet 2014-03-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Undervisning af elever med henblik på erhvervelse af kørekort til kategori A skal foregå i overensstemmelse med undervisningsplanen for køreuddannelsen til motorcykel (kategori A), der er optaget som bilag til denne bekendtgørelse.",
-      "valid_from": "2009-01-16",
-      "valid_to": null
+      "valid_from": "2009-02-10",
+      "valid_to": "2014-03-17"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 16. februar 2009. Stk. 2. Samtidig ophæves bekendtgørelse nr. 17614 af 6. juni 1996 om undervisningsplan for køreuddannelsen til motorcykel (kategori A) og bekendtgørelse nr. 735 af 6. august 1996 om undervisningsplan for køreuddannelsen til motorcykel (kategori A). Stk. 3. Elever, der har påbegyndt køreuddannelsen før den 16. februar 2009, kan afslutte uddannelsen og aflægge køreprøve efter de hidtil gældende regler frem til udgangen af juli 2009. Stk. 4. Elever, der før den 16. februar 2009 har påbegyndt uddannelsen som kørelærer i henhold til Justitsministeriets bekendtgørelse nr. 1563 af 20. december 2007 om godkendelse af kørelærere, skal aflægge kørelærerprøvens skriftlige forprøve i februar 2009 efter den hidtil gældende undervisningsplan for køreuddannelsen til kategori A.",
-      "valid_from": "2009-01-16",
-      "valid_to": null
+      "valid_from": "2009-02-10",
+      "valid_to": "2014-03-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:31:34.031Z",
+    "accession": "B20090009205",
+    "document_id": "AA004684",
+    "unique_document_id": "123156",
+    "upstream_status": "Historic",
+    "start_date": "2009-02-10",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-03-17",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om syn og certificering af skibe, der anvender ballastvand, og om ballastvandplaner og -journaler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-09-16",
+  "in_force_date": "2019-09-20",
   "url": "https://www.retsinformation.dk/eli/lta/2019/969/xml",
-  "description": "Retsinformation source. DocumentId=CQ000962; AccessionNumber=B20190096905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000962; AccessionNumber=B20190096905; Ophævet 2021-06-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse fastsætter regler om syn og certificering af skibe, der anvender ballastvand, samt behandling af ballastvand og sedimenter i skibes ballastvandtanke.",
-      "valid_from": "2019-09-16",
-      "valid_to": null
+      "valid_from": "2019-09-20",
+      "valid_to": "2021-06-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:27:14.617Z",
+    "accession": "B20190096905",
+    "document_id": "CQ000962",
+    "unique_document_id": "209854",
+    "upstream_status": "Historic",
+    "start_date": "2019-09-20",
+    "end_date": "2021-06-03",
+    "historic_marked": "2021-06-02",
+    "seed_status": "repealed"
+  }
 }

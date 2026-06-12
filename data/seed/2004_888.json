@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilskud til reduktion af partikeludslip fra tunge køretøjer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-08-24",
+  "in_force_date": "2004-09-02",
   "url": "https://www.retsinformation.dk/eli/lta/2004/888/xml",
-  "description": "Retsinformation source. DocumentId=AL001142; AccessionNumber=B20040088805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001142; AccessionNumber=B20040088805; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:44:18.875Z",
+    "accession": "B20040088805",
+    "document_id": "AL001142",
+    "unique_document_id": "12768",
+    "upstream_status": "Historic",
+    "start_date": "2004-09-02",
+    "end_date": "2022-04-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om nedlæggelse af Skibsgarantiudvalget",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-01-03",
+  "in_force_date": "2002-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/2002/21/xml",
-  "description": "Retsinformation source. DocumentId=AU000410; AccessionNumber=B20020002105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000410; AccessionNumber=B20020002105; Ophævet 2008-03-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:35:29.565Z",
+    "accession": "B20020002105",
+    "document_id": "AU000410",
+    "unique_document_id": "25794",
+    "upstream_status": "Historic",
+    "start_date": "2002-01-29",
+    "end_date": "2017-12-09",
+    "historic_marked": "2008-03-17",
+    "seed_status": "repealed"
+  }
 }

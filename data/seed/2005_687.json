@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udstedelse af fartskriverkort",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-29",
+  "in_force_date": "2005-07-11",
   "url": "https://www.retsinformation.dk/eli/lta/2005/687/xml",
-  "description": "Retsinformation source. DocumentId=AA002965; AccessionNumber=B20050068705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002965; AccessionNumber=B20050068705; Ophævet 2021-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:30:14.355Z",
+    "accession": "B20050068705",
+    "document_id": "AA002965",
+    "unique_document_id": "2130",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-11",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-09-23",
+    "seed_status": "repealed"
+  }
 }

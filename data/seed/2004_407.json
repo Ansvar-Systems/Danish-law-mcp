@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Ferielov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-05-28",
+  "in_force_date": "2004-06-10",
   "url": "https://www.retsinformation.dk/eli/lta/2004/407/xml",
-  "description": "Retsinformation source. DocumentId=BE000995; AccessionNumber=A20040040729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000995; AccessionNumber=A20040040729; Ophævet 2011-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:24:54.767Z",
+    "accession": "A20040040729",
+    "document_id": "BE000995",
+    "unique_document_id": "30062",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-10",
+    "end_date": "2019-08-22",
+    "historic_marked": "2011-06-29",
+    "seed_status": "repealed"
+  }
 }

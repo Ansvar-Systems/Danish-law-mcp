@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anmeldelse og registrering af varemærker",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1960-09-21",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1960/335/xml",
-  "description": "Retsinformation source. DocumentId=CM023593; AccessionNumber=B19600033505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023593; AccessionNumber=B19600033505; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:04:24.130Z",
+    "accession": "B19600033505",
+    "document_id": "CM023593",
+    "unique_document_id": "64553",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om arbejde og indtægter mv. i efterlønsperioden",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-22",
+  "in_force_date": "2000-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/565/xml",
-  "description": "Retsinformation source. DocumentId=AB000641; AccessionNumber=B20000056505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000641; AccessionNumber=B20000056505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:24:28.961Z",
+    "accession": "B20000056505",
+    "document_id": "AB000641",
+    "unique_document_id": "3345",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-29",
+    "end_date": "2004-09-01",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

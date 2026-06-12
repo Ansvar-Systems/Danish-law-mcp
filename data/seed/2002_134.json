@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af udlændingeloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-03-20",
+  "in_force_date": "2002-03-20",
   "url": "https://www.retsinformation.dk/eli/lta/2002/134/xml",
-  "description": "Retsinformation source. DocumentId=BC000043; AccessionNumber=A20020013430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000043; AccessionNumber=A20020013430; Ophævet 2003-07-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:32:28.838Z",
+    "accession": "A20020013430",
+    "document_id": "BC000043",
+    "unique_document_id": "28887",
+    "upstream_status": "Historic",
+    "start_date": "2002-03-20",
+    "end_date": "2024-12-31",
+    "historic_marked": "2003-07-31",
+    "seed_status": "repealed"
+  }
 }

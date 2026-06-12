@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-10-30",
+  "in_force_date": "2015-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1222/xml",
   "description": "Retsinformation source. DocumentId=AK001128; AccessionNumber=B20150122205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse ved ansættelse af videnskabeligt personale med forskningsopgaver ved følgende institutioner: 1) Rigsarkivet. 2) Det Kongelige Bibliotek. 3) Statsbiblioteket. 4) Danmarks Kunstbibliotek. 5) Nationalmuseet. 6) Statens Museum for Kunst. 7) Dansk Landbrugsmuseum. 8) Den Hirschsprungske Samling. 9) Ordrupgaard. 10) Dansk Jagt- og Skovbrugsmuseum. 11) Naturhistorisk Museum i Aarhus. 12) Designmuseum Danmark. 13) Dansk Sprognævn. Stk. 2. Kulturministeren kan bestemme, at andre institutioner under Kulturministeriet omfattes af denne bekendtgørelse.",
-      "valid_from": "2015-10-30",
+      "valid_from": "2015-10-31",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Stillingsstruktur for videnskabeligt personale med forskningsopgaver ved arkiver, biblioteker, museer mv. under Kulturministeriet er fastsat i bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2015-10-30",
+      "valid_from": "2015-10-31",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. november 2015.",
-      "valid_from": "2015-10-30",
+      "valid_from": "2015-10-31",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:31:21.729Z",
+    "accession": "B20150122205",
+    "document_id": "AK001128",
+    "unique_document_id": "174961",
+    "upstream_status": "Valid",
+    "start_date": "2015-10-31",
+    "end_date": "2015-10-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

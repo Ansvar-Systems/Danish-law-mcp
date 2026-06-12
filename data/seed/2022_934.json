@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-06-15",
+  "in_force_date": "2022-06-22",
   "url": "https://www.retsinformation.dk/eli/lta/2022/934/xml",
   "description": "Retsinformation source. DocumentId=DD000190; AccessionNumber=B20220093405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Geologisk lagring af CO 2 under havbunden undtages fra forbuddet mod dumpning i § 25, stk. 1, i lov om beskyttelse af havmiljøet, i de havområder, der er udlagt til CO 2 -lagring i den til enhver tid gældende havplan fastsat i medfør af § 9 i lov om maritim fysisk planlægning. Havplanen kundgøres som en digital bekendtgørelse på havplan.dk, jf. § 13 i lov om maritim fysisk planlægning.",
-      "valid_from": "2022-06-15",
+      "valid_from": "2022-06-22",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Transport af CO 2 til geologisk lagring under havbunden undtages fra forbuddet mod transport af stoffer og materialer til dumpning i § 25, stk. 2, i lov om beskyttelse af havmiljøet.",
-      "valid_from": "2022-06-15",
+      "valid_from": "2022-06-22",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. august 2022.",
-      "valid_from": "2022-06-15",
+      "valid_from": "2022-06-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:58:59.875Z",
+    "accession": "B20220093405",
+    "document_id": "DD000190",
+    "unique_document_id": "230915",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-22",
+    "end_date": "2024-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

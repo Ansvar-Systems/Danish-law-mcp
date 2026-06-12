@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om universiteter m.fl.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-22",
+  "in_force_date": "2000-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1177/xml",
-  "description": "Retsinformation source. DocumentId=AF000115; AccessionNumber=A19990117729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000115; AccessionNumber=A19990117729; Ophævet 2003-05-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:14:39.554Z",
+    "accession": "A19990117729",
+    "document_id": "AF000115",
+    "unique_document_id": "6162",
+    "upstream_status": "Historic",
+    "start_date": "2000-01-13",
+    "end_date": "2014-07-02",
+    "historic_marked": "2003-05-29",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om handel med æg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-10-29",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/720/xml",
-  "description": "Retsinformation source. DocumentId=CM037261; AccessionNumber=B19910072005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM037261; AccessionNumber=B19910072005; Ophævet 1994-12-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:59:02.811Z",
+    "accession": "B19910072005",
+    "document_id": "CM037261",
+    "unique_document_id": "78052",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1994-12-02",
+    "seed_status": "repealed"
+  }
 }

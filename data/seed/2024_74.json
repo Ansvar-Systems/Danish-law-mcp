@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om udskydelse af ophævelse af lov om kommunale særlige grundskoler for børn og unge, der er fordrevet fra Ukraine",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-01-22",
+  "in_force_date": "2024-01-25",
   "url": "https://www.retsinformation.dk/eli/lta/2024/74/xml",
-  "description": "Retsinformation source. DocumentId=DA001241; AccessionNumber=B20240007405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA001241; AccessionNumber=B20240007405; Ophævet 2024-08-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ophævelsen af lov om kommunale særlige grundskoler for børn og unge, der er fordrevet fra Ukraine, jf. lovbekendtgørelse nr. 1169 af 12. august 2022, § 14, stk. 1, 4. pkt., i dagtilbudsloven som affattet ved § 28, nr. 1, i lov om kommunale særlige grundskoler for børn og unge, der er fordrevet fra Ukraine, § 24 c i lov om folkeskolen som affattet ved § 29, nr. 1, i lov om kommunale særlige grundskoler for børn og unge, der er fordrevet fra Ukraine, § 33, stk. 2, 3. pkt., i lov om folkeskolen som affattet ved § 29, nr. 2, i lov om kommunale særlige grundskoler for børn og unge, der er fordrevet fra Ukraine, og § 55 c, 3. pkt., i lov om folkeskolen som affattet ved § 29, nr. 3, i lov om kommunale særlige grundskoler for børn og unge, der er fordrevet fra Ukraine, udskydes til den 1. august 2024.",
-      "valid_from": "2024-01-22",
-      "valid_to": null
+      "valid_from": "2024-01-25",
+      "valid_to": "2024-08-23"
     },
     {
       "provision_ref": "2:2",
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 30. januar 2024.",
-      "valid_from": "2024-01-22",
-      "valid_to": null
+      "valid_from": "2024-01-25",
+      "valid_to": "2024-08-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:16:40.876Z",
+    "accession": "B20240007405",
+    "document_id": "DA001241",
+    "unique_document_id": "241473",
+    "upstream_status": "Historic",
+    "start_date": "2024-01-25",
+    "end_date": "2024-08-24",
+    "historic_marked": "2024-08-23",
+    "seed_status": "repealed"
+  }
 }

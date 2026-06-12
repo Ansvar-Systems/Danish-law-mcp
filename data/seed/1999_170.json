@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om brevstemmeafgivning i vælgerens hjem",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-03-22",
+  "in_force_date": "1999-04-08",
   "url": "https://www.retsinformation.dk/eli/lta/1999/170/xml",
-  "description": "Retsinformation source. DocumentId=AI000078; AccessionNumber=B19990017005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000078; AccessionNumber=B19990017005; Ophævet 2007-07-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:17:26.527Z",
+    "accession": "B19990017005",
+    "document_id": "AI000078",
+    "unique_document_id": "8796",
+    "upstream_status": "Historic",
+    "start_date": "1999-04-08",
+    "end_date": "2023-04-29",
+    "historic_marked": "2007-07-06",
+    "seed_status": "repealed"
+  }
 }

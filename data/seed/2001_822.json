@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om beskatning af fortjeneste ved afståelse af fast ejendom",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-09-18",
+  "in_force_date": "2001-09-27",
   "url": "https://www.retsinformation.dk/eli/lta/2001/822/xml",
-  "description": "Retsinformation source. DocumentId=AN002467; AccessionNumber=A20010082229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002467; AccessionNumber=A20010082229; Ophævet 2002-08-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:15:22.778Z",
+    "accession": "A20010082229",
+    "document_id": "AN002467",
+    "unique_document_id": "15095",
+    "upstream_status": "Historic",
+    "start_date": "2001-09-27",
+    "end_date": "2005-08-03",
+    "historic_marked": "2002-08-29",
+    "seed_status": "repealed"
+  }
 }

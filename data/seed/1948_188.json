@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Velfærdsforanstaltninger for søfarende. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1948-04-30",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1948/188/xml",
-  "description": "Retsinformation source. DocumentId=CM025402; AccessionNumber=A19480018830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025402; AccessionNumber=A19480018830; Ophævet 1996-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:55:18.020Z",
+    "accession": "A19480018830",
+    "document_id": "CM025402",
+    "unique_document_id": "66282",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1996-02-28",
+    "seed_status": "repealed"
+  }
 }

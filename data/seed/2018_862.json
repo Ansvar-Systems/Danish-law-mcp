@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-06-24",
+  "in_force_date": "2018-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2018/862/xml",
   "description": "Retsinformation source. DocumentId=AP000295; AccessionNumber=B20180086205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for markedsovervågning af eksplosivstoffer til civilt brug, jf. bekendtgørelse nr. 1247 af 30. oktober 2013 om eksplosivstoffer, som ændret ved bekendtgørelse nr. 1221 af 29. september 2017, der gennemfører ka‌pitel 6 i Europa-Parlamentets og Rådets direktiv 2014/28/EU af 26. februar 2014 om harmonisering af medlemsstaternes love om tilgængeliggørelse på markedet af og kontrol med eksplosivstoffer til civil brug, overføres fra justitsministeren til erhvervsministeren pr. 1. august 2018.",
-      "valid_from": "2018-06-24",
+      "valid_from": "2018-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:22:52.738Z",
+    "accession": "B20180086205",
+    "document_id": "AP000295",
+    "unique_document_id": "202276",
+    "upstream_status": "Valid",
+    "start_date": "2018-06-27",
+    "end_date": "2018-06-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

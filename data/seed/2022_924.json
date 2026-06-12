@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fiskeri i Københavns Havn",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-06-20",
+  "in_force_date": "2022-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2022/924/xml",
-  "description": "Retsinformation source. DocumentId=DC000610; AccessionNumber=B20220092405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DC000610; AccessionNumber=B20220092405; Ophævet 2025-06-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -39,33 +40,44 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse på fiskeri i Københavns Havn. Stk. 2. Københavns Havn forstås i denne bekendtgørelse som værende det søområde, der afgrænses i den til enhver tid gældende bekendtgørelse om afgrænsning af Københavns Havns søområde.",
-      "valid_from": "2022-06-20",
-      "valid_to": null
+      "valid_from": "2022-06-21",
+      "valid_to": "2025-06-17"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Der er forbud mod hjemtagning af arterne torsk (Gadus morhua), skrubber (Platichthys flesus), sild (Clupea harengus), aborre (Perca fluviatilis) og ål (Anguilla anguilla) fanget i Københavns Havn.",
-      "valid_from": "2022-06-20",
-      "valid_to": null
+      "valid_from": "2022-06-21",
+      "valid_to": "2025-06-17"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Med bøde straffes den, der overtræder § 2. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2022-06-20",
-      "valid_to": null
+      "valid_from": "2022-06-21",
+      "valid_to": "2025-06-17"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. juli 2022. Stk. 2. Bekendtgørelse nr. 416 af 28. maj 2009 om fiskeri i Københavns Havn ophæves.",
-      "valid_from": "2022-06-20",
-      "valid_to": null
+      "valid_from": "2022-06-21",
+      "valid_to": "2025-06-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:58:36.243Z",
+    "accession": "B20220092405",
+    "document_id": "DC000610",
+    "unique_document_id": "231875",
+    "upstream_status": "Historic",
+    "start_date": "2022-06-21",
+    "end_date": "2025-06-18",
+    "historic_marked": "2025-06-17",
+    "seed_status": "repealed"
+  }
 }

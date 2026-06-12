@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social service (Forsikring af frivillige m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-03-15",
+  "in_force_date": "2017-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/2017/237/xml",
-  "description": "Retsinformation source. DocumentId=CT000099; AccessionNumber=A20170023730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CT000099; AccessionNumber=A20170023730; Ophævet 2017-08-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "18a",
@@ -20,8 +21,19 @@
       "section": "18a",
       "content": "§ 18 a. Kommunalbestyrelsen og regionsrådet kan tegne ansvars- og ulykkesforsikringer for borgere, der i tilknytning til løsning af kommunale eller regionale opgaver yder en frivillig indsats i kommunen henholdsvis regionen. De tegnede forsikringer skal tegnes på samme vilkår som forsikringer, der er tegnet af kommunen henholdsvis regionen for borgere, der udfører frivilligt arbejde. Stk. 2. En kommunalbestyrelse eller et regionsråd, som vælger at tegne forsikring efter stk. 1, skal fastsætte retningslinjer for, hvilke frivillige indsatser der skal omfattes af ansvars- og ulykkesforsikringer.",
       "valid_from": "2017-03-15",
-      "valid_to": null
+      "valid_to": "2017-08-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:10:21.923Z",
+    "accession": "A20170023730",
+    "document_id": "CT000099",
+    "unique_document_id": "188224",
+    "upstream_status": "Historic",
+    "start_date": "2017-03-15",
+    "end_date": "2022-07-08",
+    "historic_marked": "2017-08-22",
+    "seed_status": "repealed"
+  }
 }

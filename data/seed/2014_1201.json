@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-11-14",
+  "in_force_date": "2014-11-15",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1201/xml",
   "description": "Retsinformation source. DocumentId=AE002135; AccessionNumber=B20140120105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Rentefoden for konjunkturbestemt rente og ydelse af de statslån og jordfondslån samt den jordrenteforpligtelse, der er nævnt i § 26 i bekendtgørelse nr. 662 af 14. august 1997 om statshusmandsbrug m.m. og jordrente, reguleres i december termin 2014 og juni termin 2015 således: 1) Rentesatser fra 3 pct. til 5 pct. nedsættes med halvdelen. 2) Rentesatser på 5½ pct. og derover nedsættes med 2½ pct.",
-      "valid_from": "2014-11-14",
+      "valid_from": "2014-11-15",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 8. december 2014. Stk. 2. Bekendtgørelse nr. 1296 af 18. november 2013 om størrelsen af jordrente og rente af statslån med konjunkturbestemt rente i husmandsbrug ophæves.",
-      "valid_from": "2014-11-14",
+      "valid_from": "2014-11-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:35:16.470Z",
+    "accession": "B20140120105",
+    "document_id": "AE002135",
+    "unique_document_id": "165896",
+    "upstream_status": "Valid",
+    "start_date": "2014-11-15",
+    "end_date": "2023-07-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

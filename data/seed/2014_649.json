@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indberetningspligter m.v. efter skattekontrolloven",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-06-09",
+  "in_force_date": "2014-06-18",
   "url": "https://www.retsinformation.dk/eli/lta/2014/649/xml",
-  "description": "Retsinformation source. DocumentId=AN011721; AccessionNumber=B20140064905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011721; AccessionNumber=B20140064905; Ophævet 2015-07-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13:34",
@@ -21,9 +22,20 @@
       "chapter": "13",
       "section": "34",
       "content": "§ 34 a. Indberetningspligten efter skattekontrolloven § 8 O påhviler de samme indberetningspligtige som efter skattekontrollovens § 8 P og § 8 Q. Stk. 2. Indberetningen skal omfatte fysiske personer, som har et cpr-nr. Undtaget fra indberetningspligten er: 1) Låneforhold, hvor der er tre eller flere låntagere med hjemsted eller bopæl i Danmark. 2) Veksler. 3) Lån, hvoraf renten efter ligningslovens § 17 A ikke kan fradrages ved opgørelsen af den skattepligtige indkomst. Stk. 3. Indberetningen skal indeholde oplysninger til identifikation af låntager, jf. § 4, og oplysninger om konto- og låneforholdet. Indberetningen skal omfatte de samlede ordinære renteudgifter på lån og pantebreve i depot samt reservefonds- og administrationsbidrag, som er tilskrevet eller opkrævet fra kalenderårets start til udgangen af det kvartal, der indberettes om. Indberetningen skal foretages for hvert låneforhold. Stk. 4. Fristen for indberetning er den sidste hverdag i måneden efter udløbet af kvartalet, men omfatter ikke årets sidste kvartal.",
-      "valid_from": "2014-06-09",
-      "valid_to": null
+      "valid_from": "2014-06-18",
+      "valid_to": "2015-07-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:11:10.918Z",
+    "accession": "B20140064905",
+    "document_id": "AN011721",
+    "unique_document_id": "163513",
+    "upstream_status": "Historic",
+    "start_date": "2014-06-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-07-13",
+    "seed_status": "repealed"
+  }
 }

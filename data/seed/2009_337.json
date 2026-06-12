@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om supplerende bestemmelser for omsætning af klovbærende dyr",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-04-29",
+  "in_force_date": "2009-05-01",
   "url": "https://www.retsinformation.dk/eli/lta/2009/337/xml",
-  "description": "Retsinformation source. DocumentId=AH003340; AccessionNumber=B20090033705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003340; AccessionNumber=B20090033705; Ophævet 2015-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -29,23 +30,34 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Bestemmelsen i § 4, stk. 1, gælder ikke for kvæg, der er genindsat i en besætning direkte efter at have været udstillet på et dyrskue, når fraførelsen sker med henblik på udstilling på et andet dyrskue. Stk. 2. Kvæg der har været udstillet på dyrskue, jf. stk. 1, skal føres direkte tilbage til hjembedriften efter dyrskuet.",
-      "valid_from": "2009-04-29",
-      "valid_to": null
+      "valid_from": "2009-05-01",
+      "valid_to": "2015-12-04"
     },
     {
       "provision_ref": "9",
       "section": "9",
       "content": "§ 9 a. Bestemmelsen i § 8, stk. 1, gælder ikke for får og geder, der er genindsat i en besætning direkte efter at have været udstillet på et dyrskue, når fraførelsen sker med henblik på udstilling på et andet dyrskue. Stk. 2. Får og geder, der har været udstillet på dyrskue, jf. stk. 1, skal føres direkte tilbage til hjembedriften efter dyrskuet.",
-      "valid_from": "2009-04-29",
-      "valid_to": null
+      "valid_from": "2009-05-01",
+      "valid_to": "2015-12-04"
     },
     {
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18. Med bøde straffes den, der overtræder § 3, stk. 1 eller 6, § 4, stk. 1, § 4a, § 5, § 6, stk. 1, § 7, stk. 1 eller 6, § 8, stk. 1 eller §§ 9-15. Stk. 2. Straffen kan stige til fængsel i indtil to år, hvis den ved handlingen eller undladelsen skete overtrædelse er begået med forsæt eller grov uagtsomhed, og der ved overtrædelsen er: 1) Forvoldt skade på menneskers eller dyrs sundhed eller fremkalder fare herfor, eller 2) opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre, herunder ved besparelser. Stk. 3. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens § 5.",
-      "valid_from": "2009-04-29",
-      "valid_to": null
+      "valid_from": "2009-05-01",
+      "valid_to": "2015-12-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:07:49.973Z",
+    "accession": "B20090033705",
+    "document_id": "AH003340",
+    "unique_document_id": "124529",
+    "upstream_status": "Historic",
+    "start_date": "2009-05-01",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-04",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kommunernes indberetning af oplysninger om vurderinger og afgørelser om rådighed, konsekvenser og sanktioner til det fælles datagrundlag",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-09-28",
+  "in_force_date": "2009-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/2009/925/xml",
-  "description": "Retsinformation source. DocumentId=BE003656; AccessionNumber=B20090092505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE003656; AccessionNumber=B20090092505; Ophævet 2011-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:31:47.237Z",
+    "accession": "B20090092505",
+    "document_id": "BE003656",
+    "unique_document_id": "127241",
+    "upstream_status": "Historic",
+    "start_date": "2009-10-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-12-29",
+    "seed_status": "repealed"
+  }
 }

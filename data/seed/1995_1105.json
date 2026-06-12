@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af personskatteloven (Afvikling af formueskatten)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1105/xml",
-  "description": "Retsinformation source. DocumentId=CM022778; AccessionNumber=A19950110530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022778; AccessionNumber=A19950110530; Ophævet 1996-09-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:22:38.614Z",
+    "accession": "A19950110530",
+    "document_id": "CM022778",
+    "unique_document_id": "63758",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-01-14",
+    "historic_marked": "1996-09-11",
+    "seed_status": "repealed"
+  }
 }

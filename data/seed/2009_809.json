@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2010",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-08-24",
+  "in_force_date": "2009-08-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/809/xml",
-  "description": "Retsinformation source. DocumentId=AE001509; AccessionNumber=B20090080905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001509; AccessionNumber=B20090080905; Ophævet 2011-08-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Satsreguleringsprocenten for finansåret 2010 udgør 3,7, jf. § 2 i lov om en satsreguleringsprocent.",
-      "valid_from": "2009-08-24",
-      "valid_to": null
+      "valid_from": "2009-08-28",
+      "valid_to": "2011-08-24"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Tilpasningsprocenten for finansåret 2010 udgør 2,0, jf. § 3 i lov om en satsreguleringsprocent.",
-      "valid_from": "2009-08-24",
-      "valid_to": null
+      "valid_from": "2009-08-28",
+      "valid_to": "2011-08-24"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Satstilpasningsprocenten for finansåret 2010 udgør 1,7, jf. § 4 i lov om en satsreguleringsprocent.",
-      "valid_from": "2009-08-24",
-      "valid_to": null
+      "valid_from": "2009-08-28",
+      "valid_to": "2011-08-24"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Puljebeløbet udgør i finansåret 2010 572,1 mio. kr., jf. § 5 i lov om en satsreguleringsprocent.",
-      "valid_from": "2009-08-24",
-      "valid_to": null
+      "valid_from": "2009-08-28",
+      "valid_to": "2011-08-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:27:03.090Z",
+    "accession": "B20090080905",
+    "document_id": "AE001509",
+    "unique_document_id": "126578",
+    "upstream_status": "Historic",
+    "start_date": "2009-08-28",
+    "end_date": "2011-08-25",
+    "historic_marked": "2011-08-24",
+    "seed_status": "repealed"
+  }
 }

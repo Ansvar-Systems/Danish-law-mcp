@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om varmeforsyning\\n(Ophævelse af krav om tilslutningsredegørelse)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-29",
+  "in_force_date": "2004-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2004/205/xml",
-  "description": "Retsinformation source. DocumentId=AU001585; AccessionNumber=A20040020530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001585; AccessionNumber=A20040020530; Ophævet 2005-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:16:47.720Z",
+    "accession": "A20040020530",
+    "document_id": "AU001585",
+    "unique_document_id": "26628",
+    "upstream_status": "Historic",
+    "start_date": "2004-03-30",
+    "end_date": "2021-01-08",
+    "historic_marked": "2005-05-26",
+    "seed_status": "repealed"
+  }
 }

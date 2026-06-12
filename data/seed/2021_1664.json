@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anvendelse af gødning",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-08-11",
+  "in_force_date": "2021-08-12",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1664/xml",
-  "description": "Retsinformation source. DocumentId=DC000304; AccessionNumber=B20210166405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DC000304; AccessionNumber=B20210166405; Ophævet 2022-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:49:08.777Z",
+    "accession": "B20210166405",
+    "document_id": "DC000304",
+    "unique_document_id": "224651",
+    "upstream_status": "Historic",
+    "start_date": "2021-08-12",
+    "end_date": "2022-07-01",
+    "historic_marked": "2022-06-30",
+    "seed_status": "repealed"
+  }
 }

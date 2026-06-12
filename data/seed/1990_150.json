@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forsikring for private arbejdsgivere",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-03-03",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/150/xml",
-  "description": "Retsinformation source. DocumentId=CM011924; AccessionNumber=B19900015005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011924; AccessionNumber=B19900015005; Ophævet 1995-08-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:04:07.048Z",
+    "accession": "B19900015005",
+    "document_id": "CM011924",
+    "unique_document_id": "53075",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2010-06-30",
+    "historic_marked": "1995-08-16",
+    "seed_status": "repealed"
+  }
 }

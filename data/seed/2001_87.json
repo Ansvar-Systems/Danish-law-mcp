@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om støtteberettigede udgifter til bygningsfornyelse, støttebortfald, tilbagebetaling af erstatning m.v. efter lov om byfornyelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-07",
+  "in_force_date": "2001-02-19",
   "url": "https://www.retsinformation.dk/eli/lta/2001/87/xml",
-  "description": "Retsinformation source. DocumentId=AC000387; AccessionNumber=B20010008705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000387; AccessionNumber=B20010008705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:17:14.090Z",
+    "accession": "B20010008705",
+    "document_id": "AC000387",
+    "unique_document_id": "4179",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-19",
+    "end_date": "2023-04-29",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

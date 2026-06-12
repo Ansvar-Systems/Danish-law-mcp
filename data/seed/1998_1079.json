@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om støtte til almene boliger samt støttede private andelsboliger m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-23",
+  "in_force_date": "1998-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/1998/1079/xml",
-  "description": "Retsinformation source. DocumentId=AC000057; AccessionNumber=B19980107905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000057; AccessionNumber=B19980107905; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:31:24.882Z",
+    "accession": "B19980107905",
+    "document_id": "AC000057",
+    "unique_document_id": "3952",
+    "upstream_status": "Historic",
+    "start_date": "1998-12-30",
+    "end_date": "2023-04-28",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

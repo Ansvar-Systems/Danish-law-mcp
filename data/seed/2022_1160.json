@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2022-08-05",
+  "in_force_date": "2022-08-09",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1160/xml",
   "description": "Retsinformation source. DocumentId=DI000693; AccessionNumber=B20220116005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Kiropraktorer, der opfylder kravene i direktiv fra den Europæiske Union om anerkendelse af erhvervsmæssige kvalifikationer, har tilladelse til selvstændigt virke som kiropraktor.",
-      "valid_from": "2022-08-05",
+      "valid_from": "2022-08-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:07:58.124Z",
+    "accession": "B20220116005",
+    "document_id": "DI000693",
+    "unique_document_id": "232464",
+    "upstream_status": "Valid",
+    "start_date": "2022-08-09",
+    "end_date": "2022-08-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

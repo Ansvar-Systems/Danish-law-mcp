@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-09-06",
+  "in_force_date": "2021-09-08",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1780/xml",
   "description": "Retsinformation source. DocumentId=DE000129; AccessionNumber=B20210178005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1716 af 20. august 2021 om midlertidig fravigelse af byggeloven som led i håndtering af COVID-19, for så vidt angår faciliteter til test og vaccination ophæves.",
-      "valid_from": "2021-09-06",
+      "valid_from": "2021-09-08",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 10. september 2021.",
-      "valid_from": "2021-09-06",
+      "valid_from": "2021-09-08",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:53:47.874Z",
+    "accession": "B20210178005",
+    "document_id": "DE000129",
+    "unique_document_id": "224882",
+    "upstream_status": "Valid",
+    "start_date": "2021-09-08",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

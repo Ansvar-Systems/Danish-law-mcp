@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om en aktiv beskæftigelsesindsats",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-10-28",
+  "in_force_date": "2013-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1234/xml",
-  "description": "Retsinformation source. DocumentId=BE005617; AccessionNumber=B20130123405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005617; AccessionNumber=B20130123405; Ophævet 2013-12-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "81",
@@ -19,9 +20,20 @@
       "provision_ref": "81",
       "section": "81",
       "content": "§ 81 c. Personer, der er omfattet af lov om uddannelsesordning for ledige, som har opbrugt deres dagpengeret, og som deltager i virksomhedspraktik eller er ansat med løntilskud hos en offentlig arbejdsgiver, er omfattet af bestemmelserne i §§ 85 og 87, stk. 2-5, om befordringsgodtgørelse.",
-      "valid_from": "2013-10-28",
-      "valid_to": null
+      "valid_from": "2013-10-31",
+      "valid_to": "2013-12-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:35:44.139Z",
+    "accession": "B20130123405",
+    "document_id": "BE005617",
+    "unique_document_id": "158707",
+    "upstream_status": "Historic",
+    "start_date": "2013-10-31",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-12-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om størrelsen af kontanthjælp efter bistandsloven og størrelsen af den maksimale timeindtægt efter lov om dagpenge ved sygdom eller fødsel pr. 1. januar 1997",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-12-11",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/1085/xml",
-  "description": "Retsinformation source. DocumentId=CM042695; AccessionNumber=B19960108505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM042695; AccessionNumber=B19960108505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:04:25.322Z",
+    "accession": "B19960108505",
+    "document_id": "CM042695",
+    "unique_document_id": "83308",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2011-01-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

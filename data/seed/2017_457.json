@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2017-05-09",
+  "in_force_date": "2017-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2017/457/xml",
   "description": "Retsinformation source. DocumentId=CX000120; AccessionNumber=B20170045705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "2a",
       "section": "2a",
       "content": "§ 2 a. Som led i produkttilsyn efter færdselslovens § 68 a kan Færdselsstyrelsen udtage sikkerhedsudstyr til børn i biler hos den erhvervsdrivende. Stk. 2. Færdselsstyrelsen kan foretage undersøgelser af sikkerhedsudstyr til børn i biler udtaget i medfør af stk. 1. Er det nødvendigt for undersøgelsen, kan Færdselsstyrelsen indhente sagkyndige erklæringer. Stk. 3. I de tilfælde, hvor undersøgelsen viser, at sikkerhedsudstyr til børn i biler ikke er i overensstemmelse med produktkravene, herunder mærkningskravene, refunderer den erhvervsdrivende Færdselsstyrelsens nødvendige udgifter ved prøveudtagning efter stk. 1 og nødvendige udgifter til undersøgelser efter stk. 2.",
-      "valid_from": "2017-05-09",
+      "valid_from": "2017-05-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:19:15.679Z",
+    "accession": "B20170045705",
+    "document_id": "CX000120",
+    "unique_document_id": "190063",
+    "upstream_status": "Valid",
+    "start_date": "2017-05-12",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

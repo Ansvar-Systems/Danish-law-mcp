@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om udleveringsbestemmelser for håndkøbslægemidler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-03-18",
+  "in_force_date": "2020-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2020/232/xml",
-  "description": "Retsinformation source. DocumentId=CN001183; AccessionNumber=B20200023205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN001183; AccessionNumber=B20200023205; Ophævet 2023-09-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -24,16 +25,27 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Lægemidler i udleveringsgruppe ”GHY” må udleveres på apoteker og af de forhandlere, der har modtaget Lægemiddelstyrelsens tilladelse til detailforhandling af gasser til medicinsk brug. Der må højst udleveres 1 pakning pr. kunde pr. dag af lægemidler med indhold af det samme aktive stof, jf. dog § 3 a. Stk. 2. Lægemidler i udleveringsgruppe ”HAY” må udleveres på apoteker. Der må højst udleveres 1 pakning pr. kunde pr. dag af lægemidler med indhold af det samme aktive stof, jf. dog § 3 a. Stk. 3. Lægemidler i udleveringsgruppe ”HA18Y” må udleveres på apoteker. Lægemidlet må kun udleveres til personer på 18 år eller derover, med mindre det er ordineret på recept af en læge eller tandlæge. Der må højst udleveres 1 pakning pr. kunde pr. dag af lægemidler med indhold af det samme aktive stof, jf. dog § 3 a. Stk. 4. Lægemidler i udleveringsgruppe ”HFY” må udleveres på apoteker og af de forhandlere, der har modtaget Lægemiddelstyrelsens tilladelse til detailforhandling af håndkøbslægemidler, uden for apotek. Der må højst udleveres 1 pakning pr. kunde pr. dag af lægemidler med indhold af det samme aktive stof, jf. dog § 3 a. Stk. 5. Lægemidler i udleveringsgruppe ”HPY” må udleveres på de apoteker, der har givet Lægemiddelstyrelsen meddelelse om, at de ønsker at forhandle lægemidler til produktionsdyr til forbrugerne, og af de virksomheder, der har opnået Lægemiddelstyrelsens tilladelse til forhandling til brugerne af lægemidler til produktionsdyr. Der må højst udleveres 1 pakning pr. kunde pr. dag af lægemidler med indhold af det samme aktive stof, jf. dog § 3 a. Stk. 6. Lægemidler i udleveringsgruppe ”HPKY” må udleveres på alle apoteker, hvis det skal anvendes til familiedyr, og på de i stk. 5 nævnte apoteker og virksomheder, hvis det skal anvendes til produktionsdyr. Der må højst udleveres 1 pakning pr. kunde pr. dag af lægemidler med indhold af det samme aktive stof, jf. dog § 3 a. Stk. 7. Lægemidler i udleveringsgruppe ”HVY” må udleveres på apoteker og af de forhandlere, der har modtaget Lægemiddelstyrelsens tilladelse til detailforhandling af V-mærkede lægemidler (lægemidler til dyr). Der må højst udleveres 1 pakning pr. kunde pr. dag af lægemidler med indhold af det samme aktive stof, jf. dog § 3 a.",
-      "valid_from": "2020-03-18",
-      "valid_to": null
+      "valid_from": "2020-03-19",
+      "valid_to": "2023-09-04"
     },
     {
       "provision_ref": "3a",
       "section": "3a",
       "content": "§ 3 a. Lægemiddelstyrelsen kan beslutte, at apotekere i et nærmere angivet omfang må udlevere mere end 1 pakning pr. kunde pr. dag af lægemidler med indhold af det samme aktive stof omfattet af § 3. Stk. 2. Lægemiddelstyrelsen offentliggør beslutninger, jf. stk. 1, på Lægemiddelstyrelsens hjemmeside.",
-      "valid_from": "2020-03-18",
-      "valid_to": null
+      "valid_from": "2020-03-19",
+      "valid_to": "2023-09-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:21:03.835Z",
+    "accession": "B20200023205",
+    "document_id": "CN001183",
+    "unique_document_id": "213530",
+    "upstream_status": "Historic",
+    "start_date": "2020-03-19",
+    "end_date": "2023-09-05",
+    "historic_marked": "2023-09-04",
+    "seed_status": "repealed"
+  }
 }

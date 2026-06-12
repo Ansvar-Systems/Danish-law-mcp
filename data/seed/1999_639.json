@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse aflov om opkrævning af indkomstskat samt kommunal og amtskommunal ejendomsværdiskat for personer m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-08-03",
+  "in_force_date": "1999-08-13",
   "url": "https://www.retsinformation.dk/eli/lta/1999/639/xml",
-  "description": "Retsinformation source. DocumentId=AN000542; AccessionNumber=A19990063929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000542; AccessionNumber=A19990063929; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:36:06.185Z",
+    "accession": "A19990063929",
+    "document_id": "AN000542",
+    "unique_document_id": "13521",
+    "upstream_status": "Historic",
+    "start_date": "1999-08-13",
+    "end_date": "2024-03-01",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

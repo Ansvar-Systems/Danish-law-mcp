@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anvendelse af vejafmærkning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-07-06",
+  "in_force_date": "2006-07-17",
   "url": "https://www.retsinformation.dk/eli/lta/2006/783/xml",
-  "description": "Retsinformation source. DocumentId=AR001217; AccessionNumber=B20060078305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001217; AccessionNumber=B20060078305; Ophævet 2012-07-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:37:45.184Z",
+    "accession": "B20060078305",
+    "document_id": "AR001217",
+    "unique_document_id": "22578",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-07-18",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Banedanmarks opgaver og beføjelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-05",
+  "in_force_date": "2018-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1444/xml",
-  "description": "Retsinformation source. DocumentId=CX000544; AccessionNumber=B20180144405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000544; AccessionNumber=B20180144405; Ophævet 2021-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4a",
@@ -19,9 +20,20 @@
       "provision_ref": "4a",
       "section": "4a",
       "content": "§ 4 a. Banedanmark deltager i det europæiske netværk af infrastrukturforvaltere og samarbejder med de øvrige infrastrukturforvaltere i netværket.",
-      "valid_from": "2018-12-05",
-      "valid_to": null
+      "valid_from": "2018-12-07",
+      "valid_to": "2021-06-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:31.307Z",
+    "accession": "B20180144405",
+    "document_id": "CX000544",
+    "unique_document_id": "205534",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-07",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-06-29",
+    "seed_status": "repealed"
+  }
 }

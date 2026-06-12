@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opdræt af ræve",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-08-21",
+  "in_force_date": "1998-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/1998/624/xml",
-  "description": "Retsinformation source. DocumentId=AH000026; AccessionNumber=B19980062405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000026; AccessionNumber=B19980062405; Ophævet 2007-10-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:52:35.743Z",
+    "accession": "B19980062405",
+    "document_id": "AH000026",
+    "unique_document_id": "6522",
+    "upstream_status": "Historic",
+    "start_date": "1998-08-31",
+    "end_date": "2022-04-09",
+    "historic_marked": "2007-10-05",
+    "seed_status": "repealed"
+  }
 }

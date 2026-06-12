@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-05-23",
+  "in_force_date": "2022-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2022/703/xml",
   "description": "Retsinformation source. DocumentId=CQ002220; AccessionNumber=B20220070305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 514 af 16. oktober 1981 om forskrifter for udførelse af gasinstallationer (Gasreglementet). 2) Bekendtgørelse nr. 4022 af 20. december 1983 om Gasreglementet afsnit B-20. 3) Bekendtgørelse nr. 4043 af 19. august 1991 om Gasreglementets afsnit B-40 Forskrifter for gasturbineinstallationer. 4) Bekendtgørelse nr. 4044 af 19. august 1991 om Gasreglementets afsnit B-41 Forskrifter for gasmotorinstallationer.",
-      "valid_from": "2022-05-23",
+      "valid_from": "2022-05-24",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2022.",
-      "valid_from": "2022-05-23",
+      "valid_from": "2022-05-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:49:38.829Z",
+    "accession": "B20220070305",
+    "document_id": "CQ002220",
+    "unique_document_id": "231248",
+    "upstream_status": "Valid",
+    "start_date": "2022-05-24",
+    "end_date": "2022-05-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

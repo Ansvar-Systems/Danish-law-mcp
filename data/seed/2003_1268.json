@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om finansiel virksomhed",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-19",
+  "in_force_date": "2004-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1268/xml",
-  "description": "Retsinformation source. DocumentId=AU001401; AccessionNumber=A20030126829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001401; AccessionNumber=A20030126829; Ophævet 2004-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:17:33.062Z",
+    "accession": "A20030126829",
+    "document_id": "AU001401",
+    "unique_document_id": "26500",
+    "upstream_status": "Historic",
+    "start_date": "2004-01-14",
+    "end_date": "2023-10-28",
+    "historic_marked": "2004-07-05",
+    "seed_status": "repealed"
+  }
 }

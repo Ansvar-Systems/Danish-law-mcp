@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2019-03-05",
+  "in_force_date": "2019-03-06",
   "url": "https://www.retsinformation.dk/eli/lta/2019/210/xml",
   "description": "Retsinformation source. DocumentId=AA011278; AccessionNumber=B20190021005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 15, nr. 2 og 3, i lov nr. 1711 af 27. december 2018 om ændring af forældreansvarsloven, lov om ægteskabs indgåelse og opløsning og forskellige andre love (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) sættes i kraft.",
-      "valid_from": "2019-03-05",
+      "valid_from": "2019-03-06",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2019.",
-      "valid_from": "2019-03-05",
+      "valid_from": "2019-03-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:33.251Z",
+    "accession": "B20190021005",
+    "document_id": "AA011278",
+    "unique_document_id": "206927",
+    "upstream_status": "Valid",
+    "start_date": "2019-03-06",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

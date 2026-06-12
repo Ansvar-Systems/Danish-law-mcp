@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-03-15",
+  "in_force_date": "2018-03-17",
   "url": "https://www.retsinformation.dk/eli/lta/2018/213/xml",
   "description": "Retsinformation source. DocumentId=AP000287; AccessionNumber=B20180021305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for sekretariatsbetjeningen af Nævnet for Helbredsbedømmelser i Tjenestemandssager overføres fra ministeren for offentlig innovation til erhvervsministeren pr. 1. april 2018.",
-      "valid_from": "2018-03-15",
+      "valid_from": "2018-03-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:56:40.845Z",
+    "accession": "B20180021305",
+    "document_id": "AP000287",
+    "unique_document_id": "200085",
+    "upstream_status": "Valid",
+    "start_date": "2018-03-17",
+    "end_date": "2018-03-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

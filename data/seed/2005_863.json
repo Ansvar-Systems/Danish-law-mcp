@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om en arbejdsmarkedsfond",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-02",
+  "in_force_date": "2005-09-26",
   "url": "https://www.retsinformation.dk/eli/lta/2005/863/xml",
-  "description": "Retsinformation source. DocumentId=AN004838; AccessionNumber=A20050086329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004838; AccessionNumber=A20050086329; Ophævet 2006-10-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:37:20.743Z",
+    "accession": "A20050086329",
+    "document_id": "AN004838",
+    "unique_document_id": "16992",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2006-10-19",
+    "seed_status": "repealed"
+  }
 }

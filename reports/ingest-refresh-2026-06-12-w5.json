@@ -1,0 +1,28 @@
+{
+  "run_started_at": "2026-06-12T05:21:23.892Z",
+  "finished_at": "2026-06-12T07:44:56.973Z",
+  "mode": "refresh",
+  "options": {
+    "dryRun": false,
+    "refresh": true,
+    "delayMs": 2000,
+    "yearStart": 2024,
+    "skipStampedSince": "2026-06-10T20:22:27.000Z",
+    "yearEnd": 2026,
+    "reportPath": "reports/ingest-refresh-2026-06-12-w5.json"
+  },
+  "decisions": {
+    "fetch_new": 3,
+    "refetch_unknown": 3889,
+    "refetch_changed": 5,
+    "skip_current": 232
+  },
+  "stats": {
+    "total": 4129,
+    "fetched": 3897,
+    "skipped": 232,
+    "failed": [],
+    "goneUpstream": []
+  },
+  "exit_code": 0
+}

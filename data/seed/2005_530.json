@@ -5,9 +5,21 @@
   "short_name": "Lov",
   "status": "in_force",
   "issued_date": "2005-06-24",
+  "in_force_date": "2005-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/530/xml",
   "description": "Retsinformation source. DocumentId=AG000247; AccessionNumber=A20050053030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:23:58.048Z",
+    "accession": "A20050053030",
+    "document_id": "AG000247",
+    "unique_document_id": "6435",
+    "upstream_status": "Valid",
+    "start_date": "2005-06-24",
+    "end_date": "2024-12-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

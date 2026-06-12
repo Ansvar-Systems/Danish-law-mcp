@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om åben uddannelse og tilskud til arbejdsmarkedsuddannelser m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1592/xml",
-  "description": "Retsinformation source. DocumentId=AT004423; AccessionNumber=B20100159205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004423; AccessionNumber=B20100159205; Ophævet 2015-08-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7 a. Ved tilmelding til uddannelsesaktiviteter, hvor der opkræves fuld deltagerbetaling af kursister med en videregående uddannelse, jf. ÅU-lovens § 8, stk. 4, skal det oplyses, om den tilmeldte har en videregående uddannelse.",
-      "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_from": "2010-12-22",
+      "valid_to": "2015-08-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:59:03.483Z",
+    "accession": "B20100159205",
+    "document_id": "AT004423",
+    "unique_document_id": "135085",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-22",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-08-24",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v. \\n(Tilskud til særligt tilrettelagte stx- og hf-forløb for elever og kursister med nedsat psykisk funktionsevne)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-17",
+  "in_force_date": "2013-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1467/xml",
-  "description": "Retsinformation source. DocumentId=AT004767; AccessionNumber=A20130146730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004767; AccessionNumber=A20130146730; Ophævet 2015-06-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "33",
@@ -20,8 +21,19 @@
       "section": "33",
       "content": "§ 33 b. Undervisningsministeren kan yde tilskud til institutioner, der udbyder særligt tilrettelagte stx- og hf-forløb for elever og kursister med nedsat psykisk funktionsevne. Tilskuddet fastsættes på grundlag af takster på de årlige finanslove. Stk. 2. Undervisningsministeren kan fastsætte regler om tilskud, herunder om aktivitetsindberetninger og opgørelse af aktivitet.",
       "valid_from": "2013-12-17",
-      "valid_to": null
+      "valid_to": "2015-06-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:04.487Z",
+    "accession": "A20130146730",
+    "document_id": "AT004767",
+    "unique_document_id": "160670",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-17",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-06-12",
+    "seed_status": "repealed"
+  }
 }

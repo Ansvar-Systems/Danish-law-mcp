@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-12-18",
+  "in_force_date": "2019-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1507/xml",
   "description": "Retsinformation source. DocumentId=AA011687; AccessionNumber=B20190150705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Efter arvelovens § 97, stk. 1, reguleres beløbsgrænserne i lovens § 5, stk. 2, og § 11, stk. 2, årligt pr. 1. januar med 2,0 pct. tillagt eller fratrukket tilpasningskvotienten (tilpasningsprocenten) for det pågældende finansår, jf. lov om en satsreguleringsprocent. Reguleringen sker på grundlag af den på reguleringstidspunktet gældende beløbsgrænse før afrunding. Det regulerede beløb afrundes opad til det nærmeste hele kronebeløb, der kan deles med 10.000. Stk. 2. Tilpasningsprocenten for finansåret 2020 udgør 0,2, jf. § 2 i bekendtgørelse nr. 855 af 20. august 2019 om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten for finansåret 2020.",
-      "valid_from": "2019-12-18",
+      "valid_from": "2019-12-19",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Med virkning for perioden 1. januar 2020 - 31. december 2020 udgør det i lovens § 5, stk. 2, nævnte beløb 1.320.000 kr.",
-      "valid_from": "2019-12-18",
+      "valid_from": "2019-12-19",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Med virkning for perioden 1. januar 2020 - 31. december 2020 udgør det i lovens § 11, stk. 2, nævnte beløb 790.000 kr.",
-      "valid_from": "2019-12-18",
+      "valid_from": "2019-12-19",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2020.",
-      "valid_from": "2019-12-18",
+      "valid_from": "2019-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:48:52.224Z",
+    "accession": "B20190150705",
+    "document_id": "AA011687",
+    "unique_document_id": "211818",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-19",
+    "end_date": "2021-06-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

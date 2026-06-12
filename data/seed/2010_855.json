@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indførsel, fremstilling, opbevaring, overdragelse, erhvervelse og anvendelse af fyrværkeri og andre pyrotekniske artikler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-07-02",
+  "in_force_date": "2010-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2010/855/xml",
-  "description": "Retsinformation source. DocumentId=AU004106; AccessionNumber=B20100085505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU004106; AccessionNumber=B20100085505; Ophævet 2021-09-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -24,16 +25,27 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17. Ved enhver form for opbevaring af fyrværkeri og andre pyrotekniske artikler skal der udvises forsigtighed.",
-      "valid_from": "2010-07-02",
-      "valid_to": null
+      "valid_from": "2010-07-03",
+      "valid_to": "2021-09-10"
     },
     {
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18. Opbevaring af fyrværkeri og andre pyrotekniske artikler skal ske i overensstemmelse med reglerne i de tekniske forskrifter i bilag 1, jf. dog stk. 2. Stk. 2. Stk. 1 gælder ikke for opbevaring af højst 5 kg NEM konsumfyrværkeri og andre pyrotekniske artikler, der i henhold til FN’s Anbefalinger for Transport af Farligt Gods er transportklassificeret som 1.3G, 1.4G eller 1.4S. Stk. 3. Sikkerhedsstyrelsen kan dispensere fra reglerne i de tekniske forskrifter i bilag 1, hvis særlige forhold taler herfor, og hvor det skønnes sikkerhedsmæssigt forsvarligt.",
-      "valid_from": "2010-07-02",
-      "valid_to": null
+      "valid_from": "2010-07-03",
+      "valid_to": "2021-09-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:32:16.885Z",
+    "accession": "B20100085505",
+    "document_id": "AU004106",
+    "unique_document_id": "132794",
+    "upstream_status": "Historic",
+    "start_date": "2010-07-03",
+    "end_date": "2021-09-11",
+    "historic_marked": "2021-09-10",
+    "seed_status": "repealed"
+  }
 }

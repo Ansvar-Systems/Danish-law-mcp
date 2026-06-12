@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om bekæmpelse af salmonella i konsumægshønsehold og opdræt hertil",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-03",
+  "in_force_date": "2013-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1353/xml",
-  "description": "Retsinformation source. DocumentId=AH005041; AccessionNumber=B20130135305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005041; AccessionNumber=B20130135305; Ophævet 2015-02-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "16",
@@ -19,9 +20,20 @@
       "provision_ref": "16",
       "section": "16",
       "content": "§ 16. Finder et laboratorium, jf. § 15, stk. 4, salmonellabakterier i materiale indsendt i henhold til § 15, stk. 1 og 3, § 28, eller materiale indsendt i anden anledning, skal ejeren af den indsendende virksomhed omfattet af denne bekendtgørelse sikre, at salmonellaisolatet straks undersøges på et akkrediteret laboratorium med henblik på verifikation samt serotypning, og eventuel fag- eller MLVA typning. Der skal ligeledes foretages resistensbestemmelse. Ejeren skal sikre, at fundet indberettes til Fødevarestyrelsen. Stk. 2. Ejeren af den indsendende virksomhed skal sikre, at laboratoriet foretager resistensbestemmelse med de antimikrobielle stoffer, der fremgår af Kommissionens beslutning 2007/407/EF af 12. juni 2007 om harmoniseret overvågning af antimikrobiel resistens hos salmonella i fjerkræ og svin. Stk. 3. Finder laboratoriet serologisk reaktion mod salmonella i indsendt materiale, skal ejeren af den indsendende virksomhed sikre, at dette straks indberettes til Fødevarestyrelsen.",
-      "valid_from": "2013-12-03",
-      "valid_to": null
+      "valid_from": "2013-12-05",
+      "valid_to": "2015-02-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:31.698Z",
+    "accession": "B20130135305",
+    "document_id": "AH005041",
+    "unique_document_id": "159056",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-05",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-02-23",
+    "seed_status": "repealed"
+  }
 }

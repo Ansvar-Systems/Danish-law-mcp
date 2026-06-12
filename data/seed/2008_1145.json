@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilskud til overvågning af BSE hos kvæg 2007",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-12-01",
+  "in_force_date": "2008-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1145/xml",
-  "description": "Retsinformation source. DocumentId=AH003124; AccessionNumber=B20080114505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003124; AccessionNumber=B20080114505; Ophævet 2010-01-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse fastsætter bestemmelser om tilskud til dækning af udgifter afholdt i forbindelse med overvågning af BSE hos kvæg, jf. bekendtgørelse om overvågning og bekæmpelse af BSE hos kvæg.",
-      "valid_from": "2008-12-01",
-      "valid_to": null
+      "valid_from": "2008-12-04",
+      "valid_to": "2010-01-08"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Fødevarestyrelsen udbetaler følgende tilskud til udgifter afholdt i henhold til bekendtgørelse om overvågning og bekæmpelse af BSE hos kvæg: 1) Et kategori 1-forarbejdningsanlægs udgifter til BSE-undersøgelse af prøver udtaget fra selvdøde kreaturer i alderen fra og med 24 måneder. Tilskuddet pr. dyr udgør 44,61 kr. og udbetales på grundlag af oplysninger registreret i TSE-databasen for perioden fra og med den 1. januar 2007 og til og med den 31. december 2007. 2) Autoriserede virksomheders og kategori 1-forarbejdningsanlægs udgifter til BSE-undersøgelser af slagtekreaturer fra og med 30 måneder. Tilskuddet pr. dyr udgør 44,61 kr. og udbetales på grundlag af oplysninger registreret i TSE-databasen for perioden fra og med den 1. januar 2007 og til og med den 31. december 2007. 3) Der ydes ikke tilskud efter stk. 1 og 2, såfremt undersøgelserne i forvejen finansieres af Fødevarestyrelsen eller finansieres som led i lovgivningen om grønne afgifter.",
-      "valid_from": "2008-12-01",
-      "valid_to": null
+      "valid_from": "2008-12-04",
+      "valid_to": "2010-01-08"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 5. december 2008. Stk. 2. Samtidig ophæves bekendtgørelse nr. 736 af 14. juli 2005 om tilskud til overvågning af BSE hos kvæg.",
-      "valid_from": "2008-12-01",
-      "valid_to": null
+      "valid_from": "2008-12-04",
+      "valid_to": "2010-01-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:50:46.192Z",
+    "accession": "B20080114505",
+    "document_id": "AH003124",
+    "unique_document_id": "122369",
+    "upstream_status": "Historic",
+    "start_date": "2008-12-04",
+    "end_date": "2022-04-09",
+    "historic_marked": "2010-01-08",
+    "seed_status": "repealed"
+  }
 }

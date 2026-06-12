@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-08-25",
+  "in_force_date": "2014-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2014/942/xml",
   "description": "Retsinformation source. DocumentId=AE002104; AccessionNumber=B20140094205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Satsreguleringsprocenten for finansåret 2015 udgør 1,5, jf. § 2 i lov om en satsreguleringsprocent.",
-      "valid_from": "2014-08-25",
+      "valid_from": "2014-08-29",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Tilpasningsprocenten for finansåret 2015 udgør -0,5, jf. § 3 i lov om en satsreguleringsprocent.",
-      "valid_from": "2014-08-25",
+      "valid_from": "2014-08-29",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Satstilpasningsprocenten for finansåret 2015 udgør -0,5, jf. § 4 i lov om en satsreguleringsprocent.",
-      "valid_from": "2014-08-25",
+      "valid_from": "2014-08-29",
       "valid_to": null
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Der anvendes ikke noget puljebeløb i finansåret 2015, jf. § 5 i lov om en satsreguleringsprocent.",
-      "valid_from": "2014-08-25",
+      "valid_from": "2014-08-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:59.627Z",
+    "accession": "B20140094205",
+    "document_id": "AE002104",
+    "unique_document_id": "164566",
+    "upstream_status": "Valid",
+    "start_date": "2014-08-29",
+    "end_date": "2020-03-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

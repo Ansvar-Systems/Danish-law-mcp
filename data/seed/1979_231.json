@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om skove (Skovloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1979-05-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1979/231/xml",
-  "description": "Retsinformation source. DocumentId=CM008058; AccessionNumber=A19790023129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008058; AccessionNumber=A19790023129; Ophævet 1989-07-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:08:55.269Z",
+    "accession": "A19790023129",
+    "document_id": "CM008058",
+    "unique_document_id": "49249",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1989-07-25",
+    "seed_status": "repealed"
+  }
 }

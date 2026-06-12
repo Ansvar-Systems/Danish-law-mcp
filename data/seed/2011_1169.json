@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Midlertidig bevillingslov for finansåret 2012",
   "short_name": "LOV H#LOKDOK01",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-12-14",
+  "in_force_date": "2011-12-14",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1169/xml",
-  "description": "Retsinformation source. DocumentId=AE001793; AccessionNumber=A20110116930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001793; AccessionNumber=A20110116930; Ophævet 2018-05-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -25,15 +26,26 @@
       "section": "1",
       "content": "§ 1. Indtil finansloven for finansåret 2012 er vedtaget, bemyndiges regeringen til at opkræve lovhjemlede skatter og statens øvrige indtægter. Regeringen bemyndiges til i samme tidsrum at afholde de udgifter, der er nødvendige for at opretholde og videreføre ministeriers, styrelsers og øvrige statslige institutioners og virksomheders drift samt andre foranstaltninger iværksat med hjemmel i lov, tidligere bevillingslov eller given bevilling i øvrigt.",
       "valid_from": "2011-12-14",
-      "valid_to": null
+      "valid_to": "2018-05-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Loven træder i kraft den 1. januar 2012.",
       "valid_from": "2011-12-14",
-      "valid_to": null
+      "valid_to": "2018-05-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:44:58.870Z",
+    "accession": "A20110116930",
+    "document_id": "AE001793",
+    "unique_document_id": "139632",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-14",
+    "end_date": "2018-05-17",
+    "historic_marked": "2018-05-16",
+    "seed_status": "repealed"
+  }
 }

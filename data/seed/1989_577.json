@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forskellige forbrugsafgifter",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-08-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/577/xml",
-  "description": "Retsinformation source. DocumentId=CM022041; AccessionNumber=A19890057729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022041; AccessionNumber=A19890057729; Ophævet 1991-11-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:47:51.697Z",
+    "accession": "A19890057729",
+    "document_id": "CM022041",
+    "unique_document_id": "63021",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1991-11-11",
+    "seed_status": "repealed"
+  }
 }

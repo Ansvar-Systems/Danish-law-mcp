@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilskud til certificerede partier af sædekorn og markfrø",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-04-28",
+  "in_force_date": "2008-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2008/289/xml",
-  "description": "Retsinformation source. DocumentId=AH002735; AccessionNumber=B20080028905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002735; AccessionNumber=B20080028905; Ophævet 2008-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Plantedirektoratet kan yde tilskud til landbrugsvirksomheder (bedrifter), som beskæftiger sig med primærproduktion af landbrugsprodukter, til delvis dækning af udgifter til certificering af partier af sædekorn og markfrø. Stk. 2. Tilskud udbetales til certificerede partier, der mindst har den vægt, der er angivet i bilag 1 for den pågældende artsgruppe og kategori. Tilskuddet udgør 430 kr. pr. certificeret parti sædekorn og 590 kr. pr. certificeret parti markfrø.",
-      "valid_from": "2008-04-28",
-      "valid_to": null
+      "valid_from": "2008-04-30",
+      "valid_to": "2008-12-19"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Virksomheder, der er registreret efter bekendtgørelse om sædekorn eller bekendtgørelse om markfrø forestår på Plantedirektoratets vegne udbetaling til de tilskudsberettigede landbrugsvirksomheder. Stk. 2. Den udbetalende virksomhed skal til enhver tid over for Plantedirektoratet kunne dokumentere, at tilskuddet fuldt ud er udbetalt til hel eller delvis dækning af primærproducenternes certificeringsomkostninger i forbindelse med produktion af markfrø og sædekorn. Stk. 3. Overholdes det i stk. 2 nævnte vilkår for tilskuddets udbetaling ikke, kan Plantedirektoratet kræve tilskuddet tilbagebetalt med tillæg af rente. Renten beregnes i overensstemmelse med den i henhold til EU-statsstøttereglerne til enhver tid fastsatte rentesats.",
-      "valid_from": "2008-04-28",
-      "valid_to": null
+      "valid_from": "2008-04-30",
+      "valid_to": "2008-12-19"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3 Bekendtgørelsen træder i kraft den 1. maj 2008, og har virkning for de partier, der certificeres i 2008. Stk. 2. Bekendtgørelse nr. 1717 af 21. december 2006 om tilskud til certificerede partier af sædekorn og markfrø ophæves.",
-      "valid_from": "2008-04-28",
-      "valid_to": null
+      "valid_from": "2008-04-30",
+      "valid_to": "2008-12-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:08:31.065Z",
+    "accession": "B20080028905",
+    "document_id": "AH002735",
+    "unique_document_id": "114383",
+    "upstream_status": "Historic",
+    "start_date": "2008-04-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2008-12-19",
+    "seed_status": "repealed"
+  }
 }

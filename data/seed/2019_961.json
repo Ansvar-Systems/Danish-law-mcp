@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-09-15",
+  "in_force_date": "2019-09-19",
   "url": "https://www.retsinformation.dk/eli/lta/2019/961/xml",
   "description": "Retsinformation source. DocumentId=CY000106; AccessionNumber=B20190096105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Fortegnelsen over Folketingets valgkredse ændres for så vidt angår 1. kreds, Odense Østkredsen, og 2. kreds, Odense Vestkredsen, Fyns Storkreds, som angivet i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2019-09-15",
+      "valid_from": "2019-09-19",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. oktober 2019.",
-      "valid_from": "2019-09-15",
+      "valid_from": "2019-09-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:26:57.214Z",
+    "accession": "B20190096105",
+    "document_id": "CY000106",
+    "unique_document_id": "210270",
+    "upstream_status": "Valid",
+    "start_date": "2019-09-19",
+    "end_date": "2025-09-26",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

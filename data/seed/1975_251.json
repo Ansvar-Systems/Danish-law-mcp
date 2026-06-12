@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om udlevering af lovovertrædere til Finland, Island, Norge og Sverige.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1975-06-12",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1975/251/xml",
-  "description": "Retsinformation source. DocumentId=CM018307; AccessionNumber=A19750025130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018307; AccessionNumber=A19750025130; Ophævet 2007-05-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:55:57.957Z",
+    "accession": "A19750025130",
+    "document_id": "CM018307",
+    "unique_document_id": "59354",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2012-11-16",
+    "historic_marked": "2007-05-01",
+    "seed_status": "repealed"
+  }
 }

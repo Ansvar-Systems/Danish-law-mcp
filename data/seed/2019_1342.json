@@ -5,6 +5,7 @@
   "short_name": "AND H#LOKDOK07",
   "status": "in_force",
   "issued_date": "2019-12-11",
+  "in_force_date": "2019-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1342/xml",
   "description": "Retsinformation source. DocumentId=AK001460; AccessionNumber=B20190134203; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1425,5 +1426,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:12.826Z",
+    "accession": "B20190134203",
+    "document_id": "AK001460",
+    "unique_document_id": "211452",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-11",
+    "end_date": "2023-04-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

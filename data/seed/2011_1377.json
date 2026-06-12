@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kommunal ejendomsskat\\n(Forlængelse af forældelsesfristen for visse krav på tilbagebetaling af grundskyld)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-12-28",
+  "in_force_date": "2011-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1377/xml",
-  "description": "Retsinformation source. DocumentId=BX000027; AccessionNumber=A20110137730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BX000027; AccessionNumber=A20110137730; Ophævet 2013-09-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "31",
@@ -20,8 +21,19 @@
       "section": "31",
       "content": "§ 31. For krav på tilbagebetaling af grundskyld, som støttes på § 1, stk. 4 eller 6, indtræder forældelse uanset § 3, stk. 1, i lov om forældelse af fordringer tidligst den 1. januar 2014.",
       "valid_from": "2011-12-28",
-      "valid_to": null
+      "valid_to": "2013-09-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:53:23.837Z",
+    "accession": "A20110137730",
+    "document_id": "BX000027",
+    "unique_document_id": "139957",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-09-18",
+    "seed_status": "repealed"
+  }
 }

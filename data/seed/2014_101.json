@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til projekter i fiskerihavne og på landingssteder",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-01-28",
+  "in_force_date": "2014-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2014/101/xml",
-  "description": "Retsinformation source. DocumentId=AH005127; AccessionNumber=B20140010105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005127; AccessionNumber=B20140010105; Ophævet 2015-04-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5 a. Uanset § 5, stk. 2, kan der ikke indsendes ansøgninger om tilskud efter den 31. marts 2014.",
-      "valid_from": "2014-01-28",
-      "valid_to": null
+      "valid_from": "2014-01-30",
+      "valid_to": "2015-04-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:27:30.030Z",
+    "accession": "B20140010105",
+    "document_id": "AH005127",
+    "unique_document_id": "161494",
+    "upstream_status": "Historic",
+    "start_date": "2014-01-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-04-17",
+    "seed_status": "repealed"
+  }
 }

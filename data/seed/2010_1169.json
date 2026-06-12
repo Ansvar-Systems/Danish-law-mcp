@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod hel eller delvis fjernelse af hundes stemmebånd",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-10-08",
+  "in_force_date": "2010-10-14",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1169/xml",
-  "description": "Retsinformation source. DocumentId=AA005663; AccessionNumber=B20100116905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005663; AccessionNumber=B20100116905; Ophævet 2020-12-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Hel eller delvis fjernelse af en hunds stemmebånd er ikke tilladt. Stk. 2. Hel eller delvis fjernelse af en hunds stemmebånd må dog foretages, hvis det er påkrævet af veterinære hensyn.",
-      "valid_from": "2010-10-08",
-      "valid_to": null
+      "valid_from": "2010-10-14",
+      "valid_to": "2020-12-01"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Overtrædelse af § 1 straffes med bøde eller fængsel indtil 4 måneder, medmindre højere straf er forskyldt efter den øvrige lovgivning.",
-      "valid_from": "2010-10-08",
-      "valid_to": null
+      "valid_from": "2010-10-14",
+      "valid_to": "2020-12-01"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. oktober 2010.",
-      "valid_from": "2010-10-08",
-      "valid_to": null
+      "valid_from": "2010-10-14",
+      "valid_to": "2020-12-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:41:45.451Z",
+    "accession": "B20100116905",
+    "document_id": "AA005663",
+    "unique_document_id": "133655",
+    "upstream_status": "Historic",
+    "start_date": "2010-10-14",
+    "end_date": "2022-04-08",
+    "historic_marked": "2020-12-01",
+    "seed_status": "repealed"
+  }
 }

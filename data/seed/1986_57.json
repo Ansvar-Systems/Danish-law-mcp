@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om skibsregistrering",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-02-14",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1986/57/xml",
-  "description": "Retsinformation source. DocumentId=CM025201; AccessionNumber=A19860005729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025201; AccessionNumber=A19860005729; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:13:39.025Z",
+    "accession": "A19860005729",
+    "document_id": "CM025201",
+    "unique_document_id": "66088",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

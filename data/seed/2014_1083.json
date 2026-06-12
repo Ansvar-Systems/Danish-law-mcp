@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2014-10-08",
+  "in_force_date": "2014-10-08",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1083/xml",
   "description": "Retsinformation source. DocumentId=CF000241; AccessionNumber=B20140108303; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -347,5 +348,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:30:27.252Z",
+    "accession": "B20140108303",
+    "document_id": "CF000241",
+    "unique_document_id": "164920",
+    "upstream_status": "Valid",
+    "start_date": "2014-10-08",
+    "end_date": "2022-07-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

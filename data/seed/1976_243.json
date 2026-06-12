@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om bygnings- og boliregistrering",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1976-05-12",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1976/243/xml",
-  "description": "Retsinformation source. DocumentId=CM014181; AccessionNumber=A19760024330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014181; AccessionNumber=A19760024330; Ophævet 1991-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:48:40.716Z",
+    "accession": "A19760024330",
+    "document_id": "CM014181",
+    "unique_document_id": "55292",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-07",
+    "historic_marked": "1991-03-08",
+    "seed_status": "repealed"
+  }
 }

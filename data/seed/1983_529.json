@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om motorkædesave",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1983-11-11",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1983/529/xml",
-  "description": "Retsinformation source. DocumentId=CM026562; AccessionNumber=B19830052905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026562; AccessionNumber=B19830052905; Ophævet 1993-02-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:31:53.430Z",
+    "accession": "B19830052905",
+    "document_id": "CM026562",
+    "unique_document_id": "67383",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1993-02-26",
+    "seed_status": "repealed"
+  }
 }

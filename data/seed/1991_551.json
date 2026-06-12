@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af skattekontrolloven (* 1)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-07-09",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/551/xml",
-  "description": "Retsinformation source. DocumentId=CM022017; AccessionNumber=A19910055129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022017; AccessionNumber=A19910055129; Ophævet 1992-09-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:52:16.916Z",
+    "accession": "A19910055129",
+    "document_id": "CM022017",
+    "unique_document_id": "62997",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-19",
+    "historic_marked": "1992-09-07",
+    "seed_status": "repealed"
+  }
 }

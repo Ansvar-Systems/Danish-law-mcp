@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-06-10",
+  "in_force_date": "2021-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1272/xml",
   "description": "Retsinformation source. DocumentId=AN015023; AccessionNumber=B20210127205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 11 b, stk. 3-5, i lov om afgift af elektricitet, finder anvendelse fra den 18. juni 2021 til den 17. juni 2027, jf. Rådets gennemførelsesafgørelse (EU) 2021/922 af 7. juni 2021 om tilladelse til Danmark til at anvende en nedsat afgiftssats på elektricitet, der leveres direkte til fartøjer, som ligger ved kaj i en havn.",
-      "valid_from": "2021-06-10",
+      "valid_from": "2021-06-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 18. juni 2021.",
-      "valid_from": "2021-06-10",
+      "valid_from": "2021-06-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:33:23.657Z",
+    "accession": "B20210127205",
+    "document_id": "AN015023",
+    "unique_document_id": "223968",
+    "upstream_status": "Valid",
+    "start_date": "2021-06-14",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

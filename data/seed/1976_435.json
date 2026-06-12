@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om konsummælkprodukter.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1976-08-25",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1976/435/xml",
-  "description": "Retsinformation source. DocumentId=CM036796; AccessionNumber=B19760043505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM036796; AccessionNumber=B19760043505; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:50:25.737Z",
+    "accession": "B19760043505",
+    "document_id": "CM036796",
+    "unique_document_id": "77587",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

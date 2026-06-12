@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om ægteskabets retsvirkninger",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-03-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/149/xml",
-  "description": "Retsinformation source. DocumentId=CM018156; AccessionNumber=A19910014929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018156; AccessionNumber=A19910014929; Ophævet 1995-02-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:36:28.868Z",
+    "accession": "A19910014929",
+    "document_id": "CM018156",
+    "unique_document_id": "59204",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-08",
+    "historic_marked": "1995-02-16",
+    "seed_status": "repealed"
+  }
 }

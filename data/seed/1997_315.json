@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om en rejsegarantifond",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-05-14",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1997/315/xml",
-  "description": "Retsinformation source. DocumentId=CM044217; AccessionNumber=A19970031530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044217; AccessionNumber=A19970031530; Ophævet 2009-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:01:06.349Z",
+    "accession": "A19970031530",
+    "document_id": "CM044217",
+    "unique_document_id": "84779",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "2009-12-10",
+    "seed_status": "repealed"
+  }
 }

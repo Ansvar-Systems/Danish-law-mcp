@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2015-01-16",
+  "in_force_date": "2015-01-23",
   "url": "https://www.retsinformation.dk/eli/lta/2015/34/xml",
   "description": "Retsinformation source. DocumentId=BP001124; AccessionNumber=B20150003403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,7 +22,7 @@
       "chapter": "20",
       "section": "343",
       "content": "§ 343 q. Ved fælles datacentraler forstås i denne lov virksomheder, hvis væsentligste aktiviteter omfatter it-drifts- eller udviklingsopgaver for flere finansielle virksomheder, finansielle holdingvirksomheder eller sådanne virksomheders dattervirksomheder, og som overvejende er ejet af 1) en eller flere finansielle virksomheder, finansielle holdingvirksomheder eller sådanne virksomheders dattervirksomheder i forening eller 2) en eller flere foreninger, hvis medlemmer overvejende er finansielle virksomheder, finansielle holdingvirksomheder eller sådanne virksomheders dattervirksomheder. Stk. 2. Reglerne i dette kapitel gælder også for datacentraler, der udfører væsentlig it-drift for den fælles betalingsinfrastruktur, såfremt flere finansielle virksomheder har væsentlige ejerandele i den fælles datacentral. Stk. 3. Finanstilsynet kan undtagelsesvis, hvis særlige grunde gør sig gældende, dispensere fra stk. 1 og 2. Dispensationer skal være tidsbegrænsede, men kan fornyes.",
-      "valid_from": "2015-01-16",
+      "valid_from": "2015-01-23",
       "valid_to": null
     }
   ],
@@ -31,5 +32,16 @@
       "definition": "i denne lov virksomheder, hvis væsentligste aktiviteter omfatter it-drifts- eller udviklingsopgaver for flere finansielle virksomheder, finansielle holdingvirksomheder eller sådanne virksomheders dattervirksomheder, og som overvejende er ejet af 1) en eller flere finansielle virksomheder, finansielle holdingvirksomheder eller sådanne virksomheders dattervirksomheder i forening eller 2) en eller flere foreninger, hvis medlemmer overvejende er finansielle virksomheder, finansielle holdingvirksomheder eller sådanne virksomheders dattervirksomheder",
       "source_provision": "20:343"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:05:16.521Z",
+    "accession": "B20150003403",
+    "document_id": "BP001124",
+    "unique_document_id": "166805",
+    "upstream_status": "Valid",
+    "start_date": "2015-01-23",
+    "end_date": "2017-12-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

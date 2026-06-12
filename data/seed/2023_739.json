@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af sundhedsloven og lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed (Rammer for en national kvalitetsplan for det nære sundhedsvæsen, smidiggørelse af regler for etablering og drift af regionsklinikker, mulighed for særligt vederlag til læger i områder med lægemangel og regler om fordeling af uddannelsesforløb i speciallægeuddannelsen)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-06-13",
+  "in_force_date": "2023-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2023/739/xml",
-  "description": "Retsinformation source. DocumentId=DI000862; AccessionNumber=A20230073930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000862; AccessionNumber=A20230073930; Ophævet 2024-07-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "118b",
@@ -19,9 +20,20 @@
       "provision_ref": "118b",
       "section": "118b",
       "content": "§ 118 b. Indenrigs- og sundhedsministeren fastsætter nærmere regler for kommunalbestyrelser og regionsråd om indsatser, herunder om kvalitetskrav til og tilrettelæggelse af indsatserne i henhold til sundhedsydelserne i nærværende afsnit. Stk. 2. Indenrigs- og sundhedsministeren fastsætter nærmere regler for regionsrådenes rådgivning, sparring og vejledning i forhold til kommunernes indsatser efter stk. 1.",
-      "valid_from": "2023-06-13",
-      "valid_to": null
+      "valid_from": "2023-06-14",
+      "valid_to": "2024-07-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:59:22.117Z",
+    "accession": "A20230073930",
+    "document_id": "DI000862",
+    "unique_document_id": "238060",
+    "upstream_status": "Historic",
+    "start_date": "2023-06-14",
+    "end_date": "2024-07-03",
+    "historic_marked": "2024-07-02",
+    "seed_status": "repealed"
+  }
 }

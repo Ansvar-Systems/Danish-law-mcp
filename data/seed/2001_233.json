@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om radiografuddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-30",
+  "in_force_date": "2001-04-09",
   "url": "https://www.retsinformation.dk/eli/lta/2001/233/xml",
-  "description": "Retsinformation source. DocumentId=AT000719; AccessionNumber=B20010023305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000719; AccessionNumber=B20010023305; Ophævet 2006-07-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:51:46.237Z",
+    "accession": "B20010023305",
+    "document_id": "AT000719",
+    "unique_document_id": "23695",
+    "upstream_status": "Historic",
+    "start_date": "2001-04-09",
+    "end_date": "2014-07-02",
+    "historic_marked": "2006-07-20",
+    "seed_status": "repealed"
+  }
 }

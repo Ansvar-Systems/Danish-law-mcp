@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om hold af slagtekyllinger",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-05-16",
+  "in_force_date": "2001-05-16",
   "url": "https://www.retsinformation.dk/eli/lta/2001/336/xml",
-  "description": "Retsinformation source. DocumentId=AA001481; AccessionNumber=A20010033630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001481; AccessionNumber=A20010033630; Ophævet 2011-06-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:55:55.021Z",
+    "accession": "A20010033630",
+    "document_id": "AA001481",
+    "unique_document_id": "1100",
+    "upstream_status": "Historic",
+    "start_date": "2001-05-16",
+    "end_date": "2022-04-08",
+    "historic_marked": "2011-06-24",
+    "seed_status": "repealed"
+  }
 }

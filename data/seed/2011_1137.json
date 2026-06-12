@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om budget- og bevillingsmæssige forhold ved institutioner for almengymnasiale uddannelser og almen voksenuddannelse og institutioner for erhvervsrettet uddannelse",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-12-05",
+  "in_force_date": "2011-12-09",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1137/xml",
-  "description": "Retsinformation source. DocumentId=BN000015; AccessionNumber=B20110113705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BN000015; AccessionNumber=B20110113705; Ophævet 2015-05-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen gælder for: 1) Institutioner for almengymnasiale uddannelser og almen voksenuddannelse. 2) Institutioner for erhvervsrettet uddannelse.",
-      "valid_from": "2011-12-05",
-      "valid_to": null
+      "valid_from": "2011-12-09",
+      "valid_to": "2015-05-27"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Institutionerne i § 1 er omfattet af de statslige budget- og bevillingsregler, som er fastsat i Budgetvejledningen, og som vedrører statsfinansierede selvejende institutioner.",
-      "valid_from": "2011-12-05",
-      "valid_to": null
+      "valid_from": "2011-12-09",
+      "valid_to": "2015-05-27"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2012 og har virkning fra og med finansåret 2012. Stk. 2. I bekendtgørelse nr. 638 af 3. juli 2003 om tilskudsudbetaling m.v. til institutioner for erhvervsrettet uddannelse m.v. ophæves § 14. Stk. 3. I bekendtgørelse nr. 1036 af 23. oktober 2008 om tilskud m.v. til institutioner for almengymnasiale uddannelser og almen voksenuddannelse (AGV-tilskudsbekendtgørelsen) ophæves § 10 med tilhørende overskrift og § 11.",
-      "valid_from": "2011-12-05",
-      "valid_to": null
+      "valid_from": "2011-12-09",
+      "valid_to": "2015-05-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:43:42.479Z",
+    "accession": "B20110113705",
+    "document_id": "BN000015",
+    "unique_document_id": "139602",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-09",
+    "end_date": "2025-08-21",
+    "historic_marked": "2015-05-27",
+    "seed_status": "repealed"
+  }
 }

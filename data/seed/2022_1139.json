@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-07-11",
+  "in_force_date": "2022-07-12",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1139/xml",
   "description": "Retsinformation source. DocumentId=DC000653; AccessionNumber=B20220113905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1451 af 12. december 2019 om overvågning og bekæmpelse af visse smitsomme sygdomme hos akvatiske organismer ophæves.",
-      "valid_from": "2022-07-11",
+      "valid_from": "2022-07-12",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 16. juli 2022.",
-      "valid_from": "2022-07-11",
+      "valid_from": "2022-07-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:07:04.401Z",
+    "accession": "B20220113905",
+    "document_id": "DC000653",
+    "unique_document_id": "232330",
+    "upstream_status": "Valid",
+    "start_date": "2022-07-12",
+    "end_date": "2022-07-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

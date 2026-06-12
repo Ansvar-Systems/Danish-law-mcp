@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-09-10",
+  "in_force_date": "2025-09-12",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1095/xml",
   "description": "Retsinformation source. DocumentId=CS002115; AccessionNumber=B20250109505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. En opholdstilladelse meddelt efter lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine, kan forlænges til 17. marts 2027, medmindre der er grundlag for at inddrage opholdstilladelsen efter lovens § 10. Stk. 2. Udlændingestyrelsen træffer af egen drift afgørelse efter stk. 1. Sager efter stk. 1 tillægges opsættende virkning under Udlændingestyrelsens behandling.",
-      "valid_from": "2025-09-10",
+      "valid_from": "2025-09-12",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Udlændingestyrelsens afgørelser om forlængelse kan påklages til Udlændingenævnet. Stk. 2. I sager om forlængelse finder § 28, stk. 3-5, i lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine tilsvarende anvendelse.",
-      "valid_from": "2025-09-10",
+      "valid_from": "2025-09-12",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Opholdstilladelser meddelt efter bekendtgørelsens ikrafttræden tidsbegrænses til 17. marts 2027.",
-      "valid_from": "2025-09-10",
+      "valid_from": "2025-09-12",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 15. september 2025. Stk. 2. Bekendtgørelse nr. 1268 af 1. november 2023 om forlængelse af opholdsgrundlag efter lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine ophæves.",
-      "valid_from": "2025-09-10",
+      "valid_from": "2025-09-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:31:08.983Z",
+    "accession": "B20250109505",
+    "document_id": "CS002115",
+    "unique_document_id": "251465",
+    "upstream_status": "Valid",
+    "start_date": "2025-09-12",
+    "end_date": "2025-09-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

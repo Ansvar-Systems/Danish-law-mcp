@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om størrelsen af jordrente og rente af statslån med konjunkturbestemt rente i husmandsbrug",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-11-20",
+  "in_force_date": "2007-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1294/xml",
-  "description": "Retsinformation source. DocumentId=AE001267; AccessionNumber=B20070129405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001267; AccessionNumber=B20070129405; Ophævet 2008-11-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Rentefoden for konjunkturbestemt rente og ydelse af de statslån og jordfondslån samt den jordrenteforpligtelse, der er nævnt i § 26 i bekendtgørelse nr. 662 af 14. august 1997 om statshusmandsbrug m.m. og jordrente, reguleres i december termin 2007 og juni termin 2008 således: 1) Rentesatser fra 3 pct. til 5 pct. nedsættes med halvdelen. 2) Rentesatser på 5½ pct. og derover nedsættes med 2½ pct.",
-      "valid_from": "2007-11-20",
-      "valid_to": null
+      "valid_from": "2007-11-30",
+      "valid_to": "2008-11-24"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. december 2007. Stk. 2. Bekendtgørelse nr. 1104 af 9. november 2006 om størrelsen af jordrente og rente af statslån med konjunkturbestemt rente i husmandsbrug (omregningstallet) ophæves.",
-      "valid_from": "2007-11-20",
-      "valid_to": null
+      "valid_from": "2007-11-30",
+      "valid_to": "2008-11-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:58:27.071Z",
+    "accession": "B20070129405",
+    "document_id": "AE001267",
+    "unique_document_id": "113505",
+    "upstream_status": "Historic",
+    "start_date": "2007-11-30",
+    "end_date": "2008-11-25",
+    "historic_marked": "2008-11-24",
+    "seed_status": "repealed"
+  }
 }

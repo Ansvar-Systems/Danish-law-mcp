@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-09-15",
+  "in_force_date": "2015-09-17",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1096/xml",
   "description": "Retsinformation source. DocumentId=CI000013; AccessionNumber=B20150109605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 821 af 27. juni 2014 om elhandelsvirksomheders fakturering af omkostninger over for elforbrugere ophæves.",
-      "valid_from": "2015-09-15",
+      "valid_from": "2015-09-17",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 30. september 2015.",
-      "valid_from": "2015-09-15",
+      "valid_from": "2015-09-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:26:16.244Z",
+    "accession": "B20150109605",
+    "document_id": "CI000013",
+    "unique_document_id": "174275",
+    "upstream_status": "Valid",
+    "start_date": "2015-09-17",
+    "end_date": "2023-10-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

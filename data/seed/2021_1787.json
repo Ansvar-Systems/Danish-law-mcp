@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-08-31",
+  "in_force_date": "2021-09-09",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1787/xml",
   "description": "Retsinformation source. DocumentId=DE000128; AccessionNumber=B20210178705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Beløbsgrænsen i partiregnskabslovens § 2 a, stk. 1, § 2 b, stk. 1 og 2, og § 3, stk. 2, og partistøttelovens § 7 d, stk. 1, § 10 b, stk. 1 og 3, og § 11 d, stk. 1 og 3, for private og anonyme tilskud modtaget i 2022 er 22.200 kr.",
-      "valid_from": "2021-08-31",
+      "valid_from": "2021-09-09",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Tilskud efter partistøttelovens § 2, stk. 1, til et parti, der har deltaget i det senest afholdte folketingsvalg, udgør i 2022 34,75 kr. for hver stemme, partiet har fået ved valget. Stk. 2. Tilskud efter partistøttelovens § 2, stk. 2, til en kandidat, der har opstillet sig uden for partierne ved det senest afholdte folketingsvalg, udgør i 2022 34,75 kr. for hver stemme, kandidaten har fået ved valget.",
-      "valid_from": "2021-08-31",
+      "valid_from": "2021-09-09",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Tilskud efter partistøttelovens § 3, stk. 1, til en kandidatliste, der har deltaget i det senest afholdte regionsrådsvalg, udgør i 2022 5,00 kr. for hver stemme, kandidatlisten har fået ved valget.",
-      "valid_from": "2021-08-31",
+      "valid_from": "2021-09-09",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Tilskud efter partistøttelovens § 4, stk. 1, til en kandidatliste, der har deltaget i det senest afholdte kommunalbestyrelsesvalg, udgør i 2022 7,75 kr. for hver stemme, kandidatlisten har fået ved valget.",
-      "valid_from": "2021-08-31",
+      "valid_from": "2021-09-09",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. januar 2022.",
-      "valid_from": "2021-08-31",
+      "valid_from": "2021-09-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:02.980Z",
+    "accession": "B20210178705",
+    "document_id": "DE000128",
+    "unique_document_id": "224881",
+    "upstream_status": "Valid",
+    "start_date": "2021-09-09",
+    "end_date": "2025-10-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

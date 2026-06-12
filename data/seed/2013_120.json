@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om skibsregistrering",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-02-08",
+  "in_force_date": "2013-02-09",
   "url": "https://www.retsinformation.dk/eli/lta/2013/120/xml",
-  "description": "Retsinformation source. DocumentId=BP000423; AccessionNumber=B20130012005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000423; AccessionNumber=B20130012005; Ophævet 2023-01-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:34:20.953Z",
+    "accession": "B20130012005",
+    "document_id": "BP000423",
+    "unique_document_id": "145425",
+    "upstream_status": "Historic",
+    "start_date": "2013-02-09",
+    "end_date": "2023-01-14",
+    "historic_marked": "2023-01-13",
+    "seed_status": "repealed"
+  }
 }

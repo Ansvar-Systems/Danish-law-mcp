@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om værdipapirhandel m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-11-06",
+  "in_force_date": "1998-11-19",
   "url": "https://www.retsinformation.dk/eli/lta/1998/797/xml",
-  "description": "Retsinformation source. DocumentId=AU000016; AccessionNumber=A19980079729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000016; AccessionNumber=A19980079729; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:59:26.197Z",
+    "accession": "A19980079729",
+    "document_id": "AU000016",
+    "unique_document_id": "25549",
+    "upstream_status": "Historic",
+    "start_date": "1998-11-19",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

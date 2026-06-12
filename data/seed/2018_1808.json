@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om henlæggelse af visse beføjelser efter lov om erhvervsfremme til Erhvervsstyrelsen og afskæring af administrativ rekurs af afgørelser truffet af Erhvervsstyrelsen, Danmarks Erhvervsfremmebestyrelse og bevillingsudvalg nedsat af Danmarks Erhvervsfremmebestyrelse",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-28",
+  "in_force_date": "2019-01-04",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1808/xml",
-  "description": "Retsinformation source. DocumentId=CQ000749; AccessionNumber=B20180180805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000749; AccessionNumber=B20180180805; Ophævet 2023-02-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. De beføjelser, der i henhold til lovens § 2, stk. 1, nr. 1-9, og stk. 2 og 3, § 3, samt § 13, stk. 5, er tillagt erhvervsministeren, henlægges til Erhvervsstyrelsen. Stk. 2. Afgørelser, som Erhvervsstyrelsen træffer i medfør af lovens § 2, stk. 1, nr. 1-9, og stk. 2, kan ikke indbringes for anden administrativ myndighed. Tilsvarende gælder for afgørelser, som Erhvervsstyrelsen træffer i medfør af regler, der er fastsat med hjemmel i lovens § 2, stk. 3, § 3, samt § 13, stk. 5. Stk. 3. Afgørelser, som Danmarks Erhvervsfremmebestyrelse træffer i medfør af lovens § 9, kan ikke indbringes for anden administrativ myndighed. Stk. 4. Afgørelser, som træffes af et bevillingsudvalg nedsat af Danmarks Erhvervsfremmebestyrelse i medfør af lov om erhvervsfremme § 8, stk. 3, kan ikke indbringes for anden administrativ myndighed.",
-      "valid_from": "2018-12-28",
-      "valid_to": null
+      "valid_from": "2019-01-04",
+      "valid_to": "2023-02-02"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 5. januar 2019. Stk. 2. Bekendtgørelse nr. 1283 af 12. december 2005 om henlæggelse af visse beføjelser efter lov om erhvervsfremme til Erhvervs- og Byggestyrelsen ophæves.",
-      "valid_from": "2018-12-28",
-      "valid_to": null
+      "valid_from": "2019-01-04",
+      "valid_to": "2023-02-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:55:13.085Z",
+    "accession": "B20180180805",
+    "document_id": "CQ000749",
+    "unique_document_id": "205720",
+    "upstream_status": "Historic",
+    "start_date": "2019-01-04",
+    "end_date": "2023-02-03",
+    "historic_marked": "2023-02-02",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bemyndigede organer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-30",
+  "in_force_date": "2000-04-06",
   "url": "https://www.retsinformation.dk/eli/lta/2000/237/xml",
-  "description": "Retsinformation source. DocumentId=AF000140; AccessionNumber=B20000023705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000140; AccessionNumber=B20000023705; Ophævet 2016-03-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:11:16.181Z",
+    "accession": "B20000023705",
+    "document_id": "AF000140",
+    "unique_document_id": "6180",
+    "upstream_status": "Historic",
+    "start_date": "2000-04-06",
+    "end_date": "2026-06-04",
+    "historic_marked": "2016-03-21",
+    "seed_status": "repealed"
+  }
 }

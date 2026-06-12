@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om erhvervsuddannelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-04-12",
+  "in_force_date": "2021-04-13",
   "url": "https://www.retsinformation.dk/eli/lta/2021/639/xml",
-  "description": "Retsinformation source. DocumentId=DA000494; AccessionNumber=B20210063905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000494; AccessionNumber=B20210063905; Ophævet 2021-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "58a",
@@ -19,9 +20,20 @@
       "provision_ref": "58a",
       "section": "58a",
       "content": "§ 58 a. Praktikvirksomheder på uddannelserne til social- og sundhedshjælper og social og sundhedsassistent skal til statistisk eller videnskabeligt øjemed, bl.a. i forbindelse med at tilvejebringe et bedre datagrundlag for at analysere årsager til frafald og til belysning af praktikpladssituationen, indberette den konkret afgivne begrundelse for hvert afslag på en elevs ansøgning om praktikplads og den eller de personoplysninger om, hvilken elev afslaget er givet til, og som den digitale indberetning kræver, jf. 2. pkt. Indberetningen skal ske digitalt på praktikpladsen.dk senest to uger efter, at afslaget er meddelt eleven.",
-      "valid_from": "2021-04-12",
-      "valid_to": null
+      "valid_from": "2021-04-13",
+      "valid_to": "2021-12-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:53.063Z",
+    "accession": "B20210063905",
+    "document_id": "DA000494",
+    "unique_document_id": "221898",
+    "upstream_status": "Historic",
+    "start_date": "2021-04-13",
+    "end_date": "2021-12-21",
+    "historic_marked": "2021-12-20",
+    "seed_status": "repealed"
+  }
 }

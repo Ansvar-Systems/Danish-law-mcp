@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-02-01",
+  "in_force_date": "2017-02-02",
   "url": "https://www.retsinformation.dk/eli/lta/2017/137/xml",
   "description": "Retsinformation source. DocumentId=CK001197; AccessionNumber=B20170013705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 218 af 30. marts 2005 om afgitring ved dambrug i ferske vande ophæves.",
-      "valid_from": "2017-02-01",
+      "valid_from": "2017-02-02",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 3. februar 2017.",
-      "valid_from": "2017-02-01",
+      "valid_from": "2017-02-02",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:51:37.080Z",
+    "accession": "B20170013705",
+    "document_id": "CK001197",
+    "unique_document_id": "186530",
+    "upstream_status": "Valid",
+    "start_date": "2017-02-02",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

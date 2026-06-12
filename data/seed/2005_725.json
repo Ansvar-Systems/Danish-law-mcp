@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om ophavsret",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-07-06",
+  "in_force_date": "2005-07-18",
   "url": "https://www.retsinformation.dk/eli/lta/2005/725/xml",
-  "description": "Retsinformation source. DocumentId=AK000419; AccessionNumber=A20050072529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000419; AccessionNumber=A20050072529; Ophævet 2006-07-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:31:47.977Z",
+    "accession": "A20050072529",
+    "document_id": "AK000419",
+    "unique_document_id": "11967",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-18",
+    "end_date": "2006-08-22",
+    "historic_marked": "2006-07-13",
+    "seed_status": "repealed"
+  }
 }

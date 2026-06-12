@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om buejagt",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-11-08",
+  "in_force_date": "2004-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1255/xml",
-  "description": "Retsinformation source. DocumentId=AL001192; AccessionNumber=B20040125505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001192; AccessionNumber=B20040125505; Ophævet 2007-07-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:03:14.532Z",
+    "accession": "B20040125505",
+    "document_id": "AL001192",
+    "unique_document_id": "12800",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-22",
+    "end_date": "2026-02-27",
+    "historic_marked": "2007-07-16",
+    "seed_status": "repealed"
+  }
 }

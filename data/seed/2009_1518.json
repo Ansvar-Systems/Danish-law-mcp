@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2009-12-27",
+  "in_force_date": "2009-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1518/xml",
   "description": "Retsinformation source. DocumentId=AL002120; AccessionNumber=A20090151830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "36",
       "section": "36",
       "content": "§ 36. Bestemmelserne om prisloftreguleringen i kapitel 3 finder anvendelse for prisfastsættelsen fra 2011.",
-      "valid_from": "2009-12-27",
+      "valid_from": "2009-12-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:58:41.853Z",
+    "accession": "A20090151830",
+    "document_id": "AL002120",
+    "unique_document_id": "129375",
+    "upstream_status": "Valid",
+    "start_date": "2009-12-28",
+    "end_date": "2021-01-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

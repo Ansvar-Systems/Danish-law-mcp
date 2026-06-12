@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om adgang til elforsyningsnettet m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-08-28",
+  "in_force_date": "2000-09-08",
   "url": "https://www.retsinformation.dk/eli/lta/2000/814/xml",
-  "description": "Retsinformation source. DocumentId=AL000511; AccessionNumber=B20000081405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000511; AccessionNumber=B20000081405; Ophævet 2007-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:34:31.591Z",
+    "accession": "B20000081405",
+    "document_id": "AL000511",
+    "unique_document_id": "12376",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-08",
+    "end_date": "2021-01-08",
+    "historic_marked": "2007-12-17",
+    "seed_status": "repealed"
+  }
 }

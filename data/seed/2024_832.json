@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-06-25",
+  "in_force_date": "2024-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2024/832/xml",
   "description": "Retsinformation source. DocumentId=DI001114; AccessionNumber=B20240083205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I denne bekendtgørelse forstås ved statsborger i Det Forenede Kongerige: En statsborger i Det Forenede Kongerige Storbritannien og Nordirland som defineret i Erklæring af 13. december 2007 fra Det Forenede Kongerige Storbritannien og Nordirland om definitionen af begrebet ”statsborgere” i traktaten om Den Europæiske Union og traktaten om Den Europæiske Unions funktionsmåde, således som denne var gældende på afgivelsesdatoen.",
-      "valid_from": "2024-06-25",
+      "valid_from": "2024-06-27",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Statsborgere i Det Forenede Kongerige, der er registreret i Det Centrale Personregister (CPR) med britisk statsborgerskab og fast bopæl i Danmark, har valgret og er valgbare til kommunalbestyrelsen og regionsrådet i den kommune henholdsvis region, hvor de har fast bopæl, efter reglerne i lov om kommunale og regionale valg, jf. dog stk. 3. Stk. 2. Statsborgere i Det Forenede Kongerige, der er registreret i Det Centrale Personregister (CPR) med britisk statsborgerskab og fast bopæl i Danmark, har valgret til bindende kommunale folkeafstemninger i den kommune, hvor de har fast bopæl, efter reglerne i lov om kommunale og regionale valg, jf. dog stk. 3. Stk. 3. Uanset § 1, stk. 1, nr. 4, og § 105 b, jf. § 1, stk. 1, nr. 4, i lov om kommunale og regionale valg gælder der intet tidsmæssigt krav til uafbrudt fast bopæl i riget som betingelse for valgret og valgbarhed for herboende statsborgere i Det Forenede Kongerige, der er omfattet af stk. 1 og 2.",
-      "valid_from": "2024-06-25",
+      "valid_from": "2024-06-27",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 24. juli 2024.",
-      "valid_from": "2024-06-25",
+      "valid_from": "2024-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:20:25.634Z",
+    "accession": "B20240083205",
+    "document_id": "DI001114",
+    "unique_document_id": "242304",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-27",
+    "end_date": "2025-09-26",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

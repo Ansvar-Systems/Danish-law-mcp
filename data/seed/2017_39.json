@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-01-06",
+  "in_force_date": "2017-01-10",
   "url": "https://www.retsinformation.dk/eli/lta/2017/39/xml",
   "description": "Retsinformation source. DocumentId=AP000275; AccessionNumber=B20170003905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for den centrale it-drift, herunder opgaver, kontrakter og serviceaftaler vedrørende it-drift af datacentre, netværk, servere og storage, drift af operativsystemer, middleware og fagapplikationer, it-arbejdspladser, servicedesk og brugeradministration samt informationssikkerhedsopgaver vedrørende foranstående, der vedrører Rigsarkivet, overføres fra kulturministeren til ministeren for offentlig innovation pr. 1. januar 2017.",
-      "valid_from": "2017-01-06",
+      "valid_from": "2017-01-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:16:33.769Z",
+    "accession": "B20170003905",
+    "document_id": "AP000275",
+    "unique_document_id": "186128",
+    "upstream_status": "Valid",
+    "start_date": "2017-01-10",
+    "end_date": "2017-01-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

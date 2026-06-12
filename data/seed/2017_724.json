@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2017-06-12",
+  "in_force_date": "2017-06-13",
   "url": "https://www.retsinformation.dk/eli/lta/2017/724/xml",
   "description": "Retsinformation source. DocumentId=CT000170; AccessionNumber=B20170072403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Loven finder anvendelse på ægteskab mellem to personer af forskelligt køn og borgerligt indgået ægteskab mellem to personer af samme køn.",
-      "valid_from": "2017-06-12",
+      "valid_from": "2017-06-13",
       "valid_to": null
     },
     {
       "provision_ref": "1a",
       "section": "1a",
       "content": "§ 1a. Den, som er under 18 år, må ikke indgå ægteskab uden Rigsombudsmandens tilladelse. Rigsombudsmanden kan ved meddelelse af tilladelse til indgåelse af ægteskab til en ung under 18 år fastsætte vilkår om, at den unge trods ægteskabet fortsat er mindreårig og dermed umyndig indtil det fyldte 18. år.",
-      "valid_from": "2017-06-12",
+      "valid_from": "2017-06-13",
       "valid_to": null
     },
     {
       "provision_ref": "66a",
       "section": "66a",
       "content": "§ 66a. Bestemmelser i internationale overenskomster finder ikke anvendelse på ægteskab mellem to personer af samme køn, medmindre medkontrahenterne tilslutter sig dette.",
-      "valid_from": "2017-06-12",
+      "valid_from": "2017-06-13",
       "valid_to": null
     },
     {
       "provision_ref": "53b",
       "section": "53b",
       "content": "§ 53b. Bestemmelser i den for Færøerne gældende lovgivning, der indeholder særlige regler om den ene part i et ægteskab, bestemt ved dennes køn, finder ikke anvendelse på ægteskab mellem to personer af samme køn. Stk. 2. Bestemmelser i internationale traktater finder ikke anvendelse på ægteskab mellem to personer af samme køn, medmindre medkontrahenterne tilslutter sig dette.",
-      "valid_from": "2017-06-12",
+      "valid_from": "2017-06-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:29:58.456Z",
+    "accession": "B20170072403",
+    "document_id": "CT000170",
+    "unique_document_id": "191856",
+    "upstream_status": "Valid",
+    "start_date": "2017-06-13",
+    "end_date": "2022-07-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

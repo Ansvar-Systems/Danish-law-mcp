@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-09-25",
+  "in_force_date": "2025-09-26",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1140/xml",
   "description": "Retsinformation source. DocumentId=DH002721; AccessionNumber=B20250114005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende beføjelser efter akt nr. 332 af 25. september 2025 delegeres fra social- og boligministeren til Social- og Boligstyrelsen: 1) Social- og Boligstyrelsen bemyndiges til at fastsætte regler om anvendelse af bevilling, herunder ansøgningsform, tidsfrister, vilkår for tilskud, udbetaling af tilskud, tilbagebetaling af tilskud og renter, regnskab, revision og rapportering om tilskud samt tilsyn og kontrol. 2) Social- og Boligstyrelsen bemyndiges til at træffe beslutning om ydelse af tilskud, meddelelse om tilskud, afslag på ansøgning om tilskud og genanvendelse af tilbagebetalte tilskud. 3) Administration af tilskud henlægges til Social- og Boligstyrelsen.",
-      "valid_from": "2025-09-25",
+      "valid_from": "2025-09-26",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Social- og boligministeren kan overtage en beføjelse, der efter denne bekendtgørelse skal udøves af Social- og Boligstyrelsen. Stk. 2. Social- og boligministeren kan fastsætte retningslinjer for Social- og Boligstyrelsens udøvelse af beføjelser efter denne bekendtgørelse.",
-      "valid_from": "2025-09-25",
+      "valid_from": "2025-09-26",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 28. september 2025.",
-      "valid_from": "2025-09-25",
+      "valid_from": "2025-09-26",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:00.737Z",
+    "accession": "B20250114005",
+    "document_id": "DH002721",
+    "unique_document_id": "251586",
+    "upstream_status": "Valid",
+    "start_date": "2025-09-26",
+    "end_date": "2025-09-26",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

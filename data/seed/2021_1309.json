@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 30, i lov om ændring af lov om fremme af vedvarende energi, lov om elforsyning, ligningsloven og personskatteloven (Afholdelse af udbud af pristillæg i 2020-2024, ændring af værditabsordning, ophævelse af køberetsordning og oprettelse af salgsoptionsordning, VE-bonusordning, grøn puljeordning m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-06-17",
+  "in_force_date": "2021-06-18",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1309/xml",
-  "description": "Retsinformation source. DocumentId=DB000350; AccessionNumber=B20210130905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000350; AccessionNumber=B20210130905; Ophævet 2021-09-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 30, i lov nr. 738 af 30. maj 2020 om ændring af lov om fremme af vedvarende energi, lov om elforsyning, ligningsloven og personskatteloven (Afholdelse af udbud af pristillæg i 2020-2024, ændring af værditabsordning, ophævelse af køberetsordning og oprettelse af salgsoptionsordning, VE-bonusordning, grøn puljeordning m.v.) sættes i kraft.",
-      "valid_from": "2021-06-17",
-      "valid_to": null
+      "valid_from": "2021-06-18",
+      "valid_to": "2021-09-10"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2021.",
-      "valid_from": "2021-06-17",
-      "valid_to": null
+      "valid_from": "2021-06-18",
+      "valid_to": "2021-09-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:34:53.245Z",
+    "accession": "B20210130905",
+    "document_id": "DB000350",
+    "unique_document_id": "223908",
+    "upstream_status": "Historic",
+    "start_date": "2021-06-18",
+    "end_date": "2021-09-11",
+    "historic_marked": "2021-09-10",
+    "seed_status": "repealed"
+  }
 }

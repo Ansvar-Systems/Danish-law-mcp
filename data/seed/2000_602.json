@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Klagenævnet for Udbud",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-26",
+  "in_force_date": "2000-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2000/602/xml",
-  "description": "Retsinformation source. DocumentId=AD000687; AccessionNumber=B20000060205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000687; AccessionNumber=B20000060205; Ophævet 2011-08-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:26:00.198Z",
+    "accession": "B20000060205",
+    "document_id": "AD000687",
+    "unique_document_id": "4759",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-03",
+    "end_date": "2017-12-08",
+    "historic_marked": "2011-08-12",
+    "seed_status": "repealed"
+  }
 }

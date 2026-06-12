@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2021-10-29",
+  "in_force_date": "2021-11-05",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2011/xml",
   "description": "Retsinformation source. DocumentId=AE002927; AccessionNumber=B20210201105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1-3 og 6, i lov nr. 1941 af 15. december 2020 om ændring af lov om Digital Post fra offentlige afsendere (Hjemtagelse til Digitaliseringsstyrelsen af dataansvar, strategisk ejerskab og beslutningskompetence for Digital Post, etablering af visningsklienter og flytning af borgeres og virksomheders post) sættes i kraft.",
-      "valid_from": "2021-10-29",
+      "valid_from": "2021-11-05",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 25. november 2021.",
-      "valid_from": "2021-10-29",
+      "valid_from": "2021-11-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:03:08.592Z",
+    "accession": "B20210201105",
+    "document_id": "AE002927",
+    "unique_document_id": "225764",
+    "upstream_status": "Valid",
+    "start_date": "2021-11-05",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

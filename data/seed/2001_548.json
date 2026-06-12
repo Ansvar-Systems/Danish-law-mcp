@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indberetning af oplysninger om omsætning m.v. af lægemidler m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-18",
+  "in_force_date": "2001-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2001/548/xml",
-  "description": "Retsinformation source. DocumentId=AQ000805; AccessionNumber=B20010054805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000805; AccessionNumber=B20010054805; Ophævet 2004-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:04:25.418Z",
+    "accession": "B20010054805",
+    "document_id": "AQ000805",
+    "unique_document_id": "21688",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-25",
+    "end_date": "2022-07-12",
+    "historic_marked": "2004-04-29",
+    "seed_status": "repealed"
+  }
 }

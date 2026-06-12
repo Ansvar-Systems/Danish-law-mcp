@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godkendelse og syn af køretøjer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-05-24",
+  "in_force_date": "2013-05-31",
   "url": "https://www.retsinformation.dk/eli/lta/2013/548/xml",
-  "description": "Retsinformation source. DocumentId=BL000801; AccessionNumber=B20130054805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000801; AccessionNumber=B20130054805; Ophævet 2020-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:08:46.852Z",
+    "accession": "B20130054805",
+    "document_id": "BL000801",
+    "unique_document_id": "151929",
+    "upstream_status": "Historic",
+    "start_date": "2013-05-31",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-11-25",
+    "seed_status": "repealed"
+  }
 }

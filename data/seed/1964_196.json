@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om frigørelse for visse tilskudsbestemmelser",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1964-06-04",
+  "in_force_date": "1998-09-21",
   "url": "https://www.retsinformation.dk/eli/lta/1964/196/xml",
-  "description": "Retsinformation source. DocumentId=AC000012; AccessionNumber=A19640019630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000012; AccessionNumber=A19640019630; Ophævet 2009-10-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:08:41.976Z",
+    "accession": "A19640019630",
+    "document_id": "AC000012",
+    "unique_document_id": "3933",
+    "upstream_status": "Historic",
+    "start_date": "1998-09-21",
+    "end_date": "2023-04-29",
+    "historic_marked": "2009-10-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opgørelse af begrænsning af tab på næringsaktier",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-28",
+  "in_force_date": "2001-07-09",
   "url": "https://www.retsinformation.dk/eli/lta/2001/626/xml",
-  "description": "Retsinformation source. DocumentId=AN002385; AccessionNumber=B20010062605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002385; AccessionNumber=B20010062605; Ophævet 2005-10-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:07:32.017Z",
+    "accession": "B20010062605",
+    "document_id": "AN002385",
+    "unique_document_id": "15016",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-09",
+    "end_date": "2006-08-14",
+    "historic_marked": "2005-10-06",
+    "seed_status": "repealed"
+  }
 }

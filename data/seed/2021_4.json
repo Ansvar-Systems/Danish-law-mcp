@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om forbud mod større forsamlinger og mod adgang til og restriktioner for lokaler og lokaliteter i forbindelse med håndtering af covid-19",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-01-05",
+  "in_force_date": "2021-01-06",
   "url": "https://www.retsinformation.dk/eli/lta/2021/4/xml",
-  "description": "Retsinformation source. DocumentId=CN001575; AccessionNumber=B20210000405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN001575; AccessionNumber=B20210000405; Ophævet 2021-01-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1a",
@@ -24,16 +25,27 @@
       "provision_ref": "1a",
       "section": "1a",
       "content": "§ 1 a. § 1, stk. 1, omfatter ikke arrangementer, begivenheder, aktiviteter eller lignende, hvor alene personer fra samme husstand deltager. Det er forbudt at afholde og deltage i arrangementer m.v. nævnt i 1. pkt., hvor der er flere end 10 personer til stede på samme sted samtidig, jf. dog § 1, stk. 5, § 4 og kapitel 4.",
-      "valid_from": "2021-01-05",
-      "valid_to": null
+      "valid_from": "2021-01-06",
+      "valid_to": "2021-01-15"
     },
     {
       "provision_ref": "3a",
       "section": "3a",
       "content": "§ 3 a. § 3 stk. 1, omfatter ikke situationer, hvor alene personer fra samme husstand befinder sig sammen. Befinder flere end 10 personer fra samme husstand sig sammen på et offentligt tilgængeligt sted, uden at forholdet er omfattet af § 1, stk. 1-4, § 1 a og § 2, stk. 1 og 2, på en sådan måde, som efter politiets skøn udgør en særlig fare for smitte med covid-19, kan politiet påbyde personerne at forlade stedet, jf. dog § 4 og kapitel 4.",
-      "valid_from": "2021-01-05",
-      "valid_to": null
+      "valid_from": "2021-01-06",
+      "valid_to": "2021-01-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:37:16.866Z",
+    "accession": "B20210000405",
+    "document_id": "CN001575",
+    "unique_document_id": "219211",
+    "upstream_status": "Historic",
+    "start_date": "2021-01-06",
+    "end_date": "2022-07-12",
+    "historic_marked": "2021-01-15",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om størrelsen af timebanken til tidsubegrænset tolkning til personer med hørehandicap",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-27",
+  "in_force_date": "2009-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1533/xml",
-  "description": "Retsinformation source. DocumentId=BM000291; AccessionNumber=B20090153305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BM000291; AccessionNumber=B20090153305; Ophævet 2013-08-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Timebanken efter lovens § 11 udgør i 2010 7 timer per bruger.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-29",
+      "valid_to": "2013-08-07"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2010",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-29",
+      "valid_to": "2013-08-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:59:19.503Z",
+    "accession": "B20090153305",
+    "document_id": "BM000291",
+    "unique_document_id": "129252",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-29",
+    "end_date": "2022-07-08",
+    "historic_marked": "2013-08-07",
+    "seed_status": "repealed"
+  }
 }

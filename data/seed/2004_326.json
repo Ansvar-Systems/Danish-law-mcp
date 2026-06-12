@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om sektorforskningsinstitutioner",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-05-05",
+  "in_force_date": "2004-05-05",
   "url": "https://www.retsinformation.dk/eli/lta/2004/326/xml",
-  "description": "Retsinformation source. DocumentId=BD000161; AccessionNumber=A20040032630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000161; AccessionNumber=A20040032630; Ophævet 2014-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:21:39.071Z",
+    "accession": "A20040032630",
+    "document_id": "BD000161",
+    "unique_document_id": "29194",
+    "upstream_status": "Historic",
+    "start_date": "2004-05-05",
+    "end_date": "2017-09-21",
+    "historic_marked": "2014-06-10",
+    "seed_status": "repealed"
+  }
 }

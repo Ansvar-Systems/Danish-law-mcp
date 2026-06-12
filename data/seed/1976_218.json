@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om butikstid (lukkeloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1976-04-28",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1976/218/xml",
-  "description": "Retsinformation source. DocumentId=CM025424; AccessionNumber=A19760021830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025424; AccessionNumber=A19760021830; Ophævet 1989-08-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:48:27.848Z",
+    "accession": "A19760021830",
+    "document_id": "CM025424",
+    "unique_document_id": "66303",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1989-08-28",
+    "seed_status": "repealed"
+  }
 }

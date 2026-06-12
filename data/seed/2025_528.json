@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2025-05-21",
+  "in_force_date": "2025-05-23",
   "url": "https://www.retsinformation.dk/eli/lta/2025/528/xml",
   "description": "Retsinformation source. DocumentId=DD000573; AccessionNumber=B20250052805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 3-11, og § 2 i lov nr. 463 af 15. maj 2017 om ændring af lov om beskyttelse af havmiljøet, lov om miljøbeskyttelse og lov om sikkerhed til søs sættes i kraft.",
-      "valid_from": "2025-05-21",
+      "valid_from": "2025-05-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. juni 2025.",
-      "valid_from": "2025-05-21",
+      "valid_from": "2025-05-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:15:39.535Z",
+    "accession": "B20250052805",
+    "document_id": "DD000573",
+    "unique_document_id": "249538",
+    "upstream_status": "Valid",
+    "start_date": "2025-05-23",
+    "end_date": "2025-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om statsanstalten for livsforsikring",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1983-12-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1983/622/xml",
-  "description": "Retsinformation source. DocumentId=CM016011; AccessionNumber=A19830062230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016011; AccessionNumber=A19830062230; Ophævet 1993-10-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:33:13.609Z",
+    "accession": "A19830062230",
+    "document_id": "CM016011",
+    "unique_document_id": "57095",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-01-14",
+    "historic_marked": "1993-10-01",
+    "seed_status": "repealed"
+  }
 }

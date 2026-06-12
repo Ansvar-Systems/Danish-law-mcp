@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om arbejdsløshedsforsikring ved arbejde m.v. inden for EØS, Færøerne og i det øvrige udland",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1773/xml",
-  "description": "Retsinformation source. DocumentId=BE007881; AccessionNumber=B20180177305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007881; AccessionNumber=B20180177305; Ophævet 2021-10-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7a",
@@ -19,9 +20,20 @@
       "provision_ref": "7a",
       "section": "7a",
       "content": "§ 7 a. For et medlem, der skal medregne perioder med ophold i et andet EU/EØS-land eller Schweiz til opgørelsen af opholdskravet, jf. § 53 a i loven, kan dagpenge udbetales i op til 6 måneder, selv om H006 endnu ikke er udstedt, eller a-kassen endnu ikke har modtaget underretning fra den udenlandske myndighed, hvis medlemmet på anden vis har dokumenteret, at opholdskravet er opfyldt. Stk. 2. Hvis H006 ikke er modtaget, når a-kassen har udbetalt dagpenge i 6 måneder, afgør Styrelsen for Arbejdsmarked og Rekruttering, om der fortsat kan udbetales dagpenge.",
-      "valid_from": "2018-12-27",
-      "valid_to": null
+      "valid_from": "2018-12-28",
+      "valid_to": "2021-10-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:53:48.356Z",
+    "accession": "B20180177305",
+    "document_id": "BE007881",
+    "unique_document_id": "206102",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-10-12",
+    "seed_status": "repealed"
+  }
 }

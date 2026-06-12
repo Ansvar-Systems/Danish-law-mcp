@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af skattekontrolloven, kildeskatteloven, kursgevinstloven og aktieavancebeskatningsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/484/xml",
-  "description": "Retsinformation source. DocumentId=AN002366; AccessionNumber=A20010048430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002366; AccessionNumber=A20010048430; Ophævet 2002-08-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:01:51.074Z",
+    "accession": "A20010048430",
+    "document_id": "AN002366",
+    "unique_document_id": "14998",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2006-10-03",
+    "historic_marked": "2002-08-26",
+    "seed_status": "repealed"
+  }
 }

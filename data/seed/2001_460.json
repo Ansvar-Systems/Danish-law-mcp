@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Børnelov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/460/xml",
-  "description": "Retsinformation source. DocumentId=AA001490; AccessionNumber=A20010046030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001490; AccessionNumber=A20010046030; Ophævet 2012-11-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:00:55.212Z",
+    "accession": "A20010046030",
+    "document_id": "AA001490",
+    "unique_document_id": "1109",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2022-07-08",
+    "historic_marked": "2012-11-12",
+    "seed_status": "repealed"
+  }
 }

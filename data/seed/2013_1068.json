@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2013-08-20",
+  "in_force_date": "2013-09-05",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1068/xml",
   "description": "Retsinformation source. DocumentId=BP000630; AccessionNumber=B20130106805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelse bortfalder: 1) Bekendtgørelse nr. 1311 af 26. november 2007 om revisorers, translatører og tolkes samt dispachørers udøvelse af tjenesteydelser i et andet land end etableringslandet.",
-      "valid_from": "2013-08-20",
+      "valid_from": "2013-09-05",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 9. september 2013.",
-      "valid_from": "2013-08-20",
+      "valid_from": "2013-09-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:29:00.191Z",
+    "accession": "B20130106805",
+    "document_id": "BP000630",
+    "unique_document_id": "158157",
+    "upstream_status": "Valid",
+    "start_date": "2013-09-05",
+    "end_date": "2017-12-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

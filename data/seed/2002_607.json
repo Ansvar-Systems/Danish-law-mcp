@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om pelsdyrfarme m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-07-15",
+  "in_force_date": "2002-07-25",
   "url": "https://www.retsinformation.dk/eli/lta/2002/607/xml",
-  "description": "Retsinformation source. DocumentId=AL000851; AccessionNumber=B20020060705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000851; AccessionNumber=B20020060705; Ophævet 2006-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:51:12.443Z",
+    "accession": "B20020060705",
+    "document_id": "AL000851",
+    "unique_document_id": "12577",
+    "upstream_status": "Historic",
+    "start_date": "2002-07-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "2006-12-21",
+    "seed_status": "repealed"
+  }
 }

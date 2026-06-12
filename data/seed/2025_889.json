@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-06-25",
+  "in_force_date": "2025-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2025/889/xml",
   "description": "Retsinformation source. DocumentId=DI001515; AccessionNumber=B20250088905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse regulerer Sundhedsdatastyrelsens videregivelse af oplysninger om patienters demensdiagnoser til Styrelsen for Patientsikkerhed med henblik på Styrelsen for Patientsikkerheds målrettede overvågning af lægers ordinationer af antipsykotiske lægemidler til patienter med demens.",
-      "valid_from": "2025-06-25",
+      "valid_from": "2025-06-27",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Sundhedsdatastyrelsen videregiver til Styrelsen for Patientsikkerhed oplysninger om patienters demensdiagnoser med henblik på Styrelsen for Patientsikkerheds målrettede overvågning af lægers ordinationer af antipsykotiske lægemidler til patienter med demens. Stk. 2. Videregivelsen af de omhandlede oplysninger er begrænset til oplysninger, der er nødvendige for Styrelsen for Patientsikkerheds målrettede overvågning af lægers ordinationer af antipsykotiske lægemidler til patienter med demens. Stk. 3. Sundhedsdatastyrelsen videregiver de omhandlede oplysninger fra Sundhedsdatastyrelsens administrative register for udvalgte kroniske sygdomme og svære psykiske lidelser (RUKS-administrativt).",
-      "valid_from": "2025-06-25",
+      "valid_from": "2025-06-27",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2025.",
-      "valid_from": "2025-06-25",
+      "valid_from": "2025-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:30:19.532Z",
+    "accession": "B20250088905",
+    "document_id": "DI001515",
+    "unique_document_id": "250768",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-27",
+    "end_date": "2025-06-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

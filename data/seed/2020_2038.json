@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-15",
+  "in_force_date": "2020-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2038/xml",
   "description": "Retsinformation source. DocumentId=AA012185; AccessionNumber=B20200203805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Har en person, der efter indkaldelse har afgivet forklaring til politiet, haft udgifter eller tab, der overstiger godtgørelsen til vidner, der afgiver forklaring for retten, jf. § 2, stk. 1, i bekendtgørelse nr. 1953 af 11. december 2020 for Færøerne om ydelser til lægdommere og vidner mv., kan der efter begæring, og hvis omstændighederne taler for det, tillægges personen en særlig godtgørelse herfor.",
-      "valid_from": "2020-12-15",
+      "valid_from": "2020-12-19",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Personer, der efter indkaldelse har afgivet forklaring til politiet, har endvidere efter begæring krav på godtgørelse til hotelophold og befordring efter de for ansatte i staten gældende regler. Stk. 2. Der ydes dog kun befordringsgodtgørelse, hvis den pågældende må rejse mere end 3 kilometer for at afgive forklaring til politiet.",
-      "valid_from": "2020-12-15",
+      "valid_from": "2020-12-19",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2021.",
-      "valid_from": "2020-12-15",
+      "valid_from": "2020-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:10:13.232Z",
+    "accession": "B20200203805",
+    "document_id": "AA012185",
+    "unique_document_id": "218219",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-19",
+    "end_date": "2020-12-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

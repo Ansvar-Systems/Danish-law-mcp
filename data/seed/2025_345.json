@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-03-31",
+  "in_force_date": "2025-04-03",
   "url": "https://www.retsinformation.dk/eli/lta/2025/345/xml",
   "description": "Retsinformation source. DocumentId=DM000073; AccessionNumber=B20250034505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. For arealer med korn og forårssåede afgrøder, der har en højere kvælstofnorm end 0 kg kvælstof pr. ha, og som er nævnt i bilag 1, tabel 1, i bekendtgørelse om jordbrugets anvendelse af gødning i planperioden 2024/2025, skal jordbrugsvirksomheder ved beregningen af den samlede kvote for kvælstof for planperioden anvende de korrektioner, der fremgår af bilag 1.",
-      "valid_from": "2025-03-31",
+      "valid_from": "2025-04-03",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 5. april 2025.",
-      "valid_from": "2025-03-31",
+      "valid_from": "2025-04-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:08:16.520Z",
+    "accession": "B20250034505",
+    "document_id": "DM000073",
+    "unique_document_id": "248818",
+    "upstream_status": "Valid",
+    "start_date": "2025-04-03",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

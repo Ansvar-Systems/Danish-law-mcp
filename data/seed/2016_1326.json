@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-11-15",
+  "in_force_date": "2016-11-17",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1326/xml",
   "description": "Retsinformation source. DocumentId=AN012756; AccessionNumber=B20160132605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Normalhandelsværdier pr. 31. december 2016 fremgår af tabellen i bilag 1.",
-      "valid_from": "2016-11-15",
+      "valid_from": "2016-11-17",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Landbrugere med kalenderårsregnskab skal benytte de værdier, der er fastsat ved kalenderårets udgang. Anvendes et andet indkomstår end kalenderåret (forskudt indkomstår), skal de værdier, der sidst er offentliggjort forud for regnskabsafslutningen, benyttes.",
-      "valid_from": "2016-11-15",
+      "valid_from": "2016-11-17",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 31. december 2016 og har virkning for indkomståret 2016.",
-      "valid_from": "2016-11-15",
+      "valid_from": "2016-11-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:45:08.981Z",
+    "accession": "B20160132605",
+    "document_id": "AN012756",
+    "unique_document_id": "184467",
+    "upstream_status": "Valid",
+    "start_date": "2016-11-17",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

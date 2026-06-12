@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undervisningsplan for køreuddannelsen til stor bus med stort påhængskøretøj (kategori D/E)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-11-27",
+  "in_force_date": "2017-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1303/xml",
-  "description": "Retsinformation source. DocumentId=CX000280; AccessionNumber=B20170130305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000280; AccessionNumber=B20170130305; Ophævet 2020-06-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Undervisning af elever med henblik på erhvervelse af kørekort til kategori D/E skal foregå i overensstemmelse med undervisningsplanen for køreuddannelsen til stor bus med stort påhængskøretøj (kategori D/E), der er optaget som bilag til denne bekendtgørelse.",
-      "valid_from": "2017-11-27",
-      "valid_to": null
+      "valid_from": "2017-12-01",
+      "valid_to": "2020-06-03"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2018. Stk. 2. Bekendtgørelse nr. 750 af 26. maj 2015 om undervisningsplan for køreuddannelsen til stor bus med stort påhængskøretøj (kategori D/E) ophæves. Stk. 3. Elever, der har påbegyndt køreuddannelsen før den 1. januar 2018, kan afslutte uddannelsen og aflægge køreprøve efter de hidtil gældende regler frem til udgangen af juni 2018.",
-      "valid_from": "2017-11-27",
-      "valid_to": null
+      "valid_from": "2017-12-01",
+      "valid_to": "2020-06-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:48:58.699Z",
+    "accession": "B20170130305",
+    "document_id": "CX000280",
+    "unique_document_id": "195122",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-06-03",
+    "seed_status": "repealed"
+  }
 }

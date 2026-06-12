@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om datamatikeruddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-08-14",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1991/591/xml",
-  "description": "Retsinformation source. DocumentId=CM032758; AccessionNumber=B19910059105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032758; AccessionNumber=B19910059105; Ophævet 1996-08-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:53:48.336Z",
+    "accession": "B19910059105",
+    "document_id": "CM032758",
+    "unique_document_id": "73560",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "1996-08-09",
+    "seed_status": "repealed"
+  }
 }

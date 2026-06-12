@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om offentlig elektronisk fiskeauktion",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-10-23",
+  "in_force_date": "2000-10-30",
   "url": "https://www.retsinformation.dk/eli/lta/2000/951/xml",
-  "description": "Retsinformation source. DocumentId=AH000731; AccessionNumber=B20000095105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000731; AccessionNumber=B20000095105; Ophævet 2010-03-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:40:03.571Z",
+    "accession": "B20000095105",
+    "document_id": "AH000731",
+    "unique_document_id": "7092",
+    "upstream_status": "Historic",
+    "start_date": "2000-10-30",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-03-16",
+    "seed_status": "repealed"
+  }
 }

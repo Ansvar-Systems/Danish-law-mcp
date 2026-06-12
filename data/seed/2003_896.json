@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om individuel boligstøtte",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-11-05",
+  "in_force_date": "2003-11-17",
   "url": "https://www.retsinformation.dk/eli/lta/2003/896/xml",
-  "description": "Retsinformation source. DocumentId=AO002012; AccessionNumber=A20030089629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002012; AccessionNumber=A20030089629; Ophævet 2005-02-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:48:41.562Z",
+    "accession": "A20030089629",
+    "document_id": "AO002012",
+    "unique_document_id": "19914",
+    "upstream_status": "Historic",
+    "start_date": "2003-11-17",
+    "end_date": "2019-04-02",
+    "historic_marked": "2005-02-03",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om grundlæggende bærertjenester, tjenester og faciliteter omfattet af samtrafikforpligtelser",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-01-22",
+  "in_force_date": "1999-02-04",
   "url": "https://www.retsinformation.dk/eli/lta/1999/45/xml",
-  "description": "Retsinformation source. DocumentId=AF000030; AccessionNumber=B19990004505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000030; AccessionNumber=B19990004505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:28:32.730Z",
+    "accession": "B19990004505",
+    "document_id": "AF000030",
+    "unique_document_id": "6089",
+    "upstream_status": "Historic",
+    "start_date": "1999-02-04",
+    "end_date": "2026-06-04",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

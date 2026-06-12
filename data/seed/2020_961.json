@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om retssikkerhed og administration på det sociale område (Ankestyrelsens sammensætning og behandling af sager om uenighed mellem kommuner m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-26",
+  "in_force_date": "2020-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2020/961/xml",
-  "description": "Retsinformation source. DocumentId=CY000518; AccessionNumber=A20200096130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CY000518; AccessionNumber=A20200096130; Ophævet 2020-11-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "61",
@@ -20,8 +21,19 @@
       "section": "61",
       "content": "§ 61. Hvis der opstår uenighed mellem kommuner om deres forpligtelser, kan sagen indbringes for Ankestyrelsen, der træffer afgørelse i sagen.",
       "valid_from": "2020-06-26",
-      "valid_to": null
+      "valid_to": "2020-11-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:50:13.632Z",
+    "accession": "A20200096130",
+    "document_id": "CY000518",
+    "unique_document_id": "215318",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-26",
+    "end_date": "2022-12-14",
+    "historic_marked": "2020-11-03",
+    "seed_status": "repealed"
+  }
 }

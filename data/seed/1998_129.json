@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om statstilskud til produktrettede energibesparelser (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-02-25",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1998/129/xml",
-  "description": "Retsinformation source. DocumentId=CM046663; AccessionNumber=A19980012930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046663; AccessionNumber=A19980012930; Ophævet 2020-05-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:32:48.779Z",
+    "accession": "A19980012930",
+    "document_id": "CM046663",
+    "unique_document_id": "86888",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2021-04-16",
+    "historic_marked": "2020-05-30",
+    "seed_status": "repealed"
+  }
 }

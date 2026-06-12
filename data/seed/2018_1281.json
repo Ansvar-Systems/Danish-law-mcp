@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om åben uddannelse på videregående niveau",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-11-12",
+  "in_force_date": "2018-11-16",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1281/xml",
-  "description": "Retsinformation source. DocumentId=CE000726; AccessionNumber=B20180128105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000726; AccessionNumber=B20180128105; Ophævet 2023-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12a",
@@ -19,9 +20,20 @@
       "provision_ref": "12a",
       "section": "12a",
       "content": "§ 12 a. Udenlandske studerende på videregående uddannelser kan kun indgå i beregningen af tilskud, hvis de 1) er meddelt tidsubegrænset opholdstilladelse eller tidsbegrænset opholdstilladelse med mulighed for varigt ophold i Danmark, 2) er udvekslet med danske studerende efter aftale mellem institutionen og en institution i udlandet, 3) efter EU-retten, herunder EØS-aftalen, eller internationale aftaler, som Danmark har indgået, har krav på ligestilling med danske statsborgere, eller 4) har opholdstilladelse efter udlændingelovens § 9 m som medfølgende barn til en udlænding, der har opholdstilladelse på grundlag af beskæftigelse m.v., jf. udlændingelovens § 9 a. Stk. 2. Institutionens udbud af videregående uddannelse til andre udenlandske studerende end dem, der er nævnt i stk. 1, sker mod fuld deltagerbetaling. Dette gælder tillige for udenlandske studerende, der er meddelt tidsbegrænset opholdstilladelse med henblik på midlertidigt ophold i Danmark. Institutionen udarbejder beregningsgrundlag og fastsætter deltagerbetalingen, der mindst skal dække omkostningerne. Stk. 3. En udenlandsk studerende, der er blevet optaget på en uddannelse ved institutionen på baggrund af stk. 1, nr. 4, vil stadig udløse tilskud til færdiggørelsen af den pågældende uddannelse, selv om den studerendes forælders opholdstilladelse efter udlændingelovens § 9 a bortfalder.",
-      "valid_from": "2018-11-12",
-      "valid_to": null
+      "valid_from": "2018-11-16",
+      "valid_to": "2023-12-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:33:55.369Z",
+    "accession": "B20180128105",
+    "document_id": "CE000726",
+    "unique_document_id": "203732",
+    "upstream_status": "Historic",
+    "start_date": "2018-11-16",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-12-29",
+    "seed_status": "repealed"
+  }
 }

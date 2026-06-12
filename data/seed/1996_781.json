@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-08-26",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/781/xml",
-  "description": "Retsinformation source. DocumentId=CM041556; AccessionNumber=A19960078129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM041556; AccessionNumber=A19960078129; Ophævet 2016-03-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:38:44.917Z",
+    "accession": "A19960078129",
+    "document_id": "CM041556",
+    "unique_document_id": "82218",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-19",
+    "historic_marked": "2016-03-04",
+    "seed_status": "repealed"
+  }
 }

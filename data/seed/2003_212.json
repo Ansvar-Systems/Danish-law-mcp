@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bekæmpelse af klassisk svinepest",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-27",
+  "in_force_date": "2003-04-03",
   "url": "https://www.retsinformation.dk/eli/lta/2003/212/xml",
-  "description": "Retsinformation source. DocumentId=AH001492; AccessionNumber=B20030021205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001492; AccessionNumber=B20030021205; Ophævet 2015-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:21:07.845Z",
+    "accession": "B20030021205",
+    "document_id": "AH001492",
+    "unique_document_id": "7746",
+    "upstream_status": "Historic",
+    "start_date": "2003-04-03",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-11-27",
+    "seed_status": "repealed"
+  }
 }

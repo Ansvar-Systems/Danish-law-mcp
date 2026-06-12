@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-11",
+  "in_force_date": "2015-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1560/xml",
   "description": "Retsinformation source. DocumentId=CK000413; AccessionNumber=B20150156005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Levende honningbier og brugt biavlsmateriel og vokstavlebygning må ikke flyttes til Anholt og Samsø. Stk. 2 Levende honningbier, herunder alle udviklingsstadier og kønsprodukter, samt brugt biavlsmateriel og vokstavlebygning må ikke flyttes til Læsø. Stk. 3 Stk. 1 og 2 gælder ikke for vaskede rammer fra et vokssmelteri.",
-      "valid_from": "2015-12-11",
+      "valid_from": "2015-12-15",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Uanset bestemmelserne i § 1, stk. 1, er flytning af levende honningbier og tavler med æg eller andre udviklingsstadier tilladt, hvis en laboratorieundersøgelse af bierne har vist, at de er fri for forekomst af Varroa-mider.",
-      "valid_from": "2015-12-11",
+      "valid_from": "2015-12-15",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Overtrædelse af § 1, stk. 1 og 2, og § 2 straffes med bøde.",
-      "valid_from": "2015-12-11",
+      "valid_from": "2015-12-15",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelse træder i kraft den 1. januar 2016. Stk. 2. Bekendtgørelse nr. 449 af 9. juni 1992 om flytning af honningbier m.v. ophæves.",
-      "valid_from": "2015-12-11",
+      "valid_from": "2015-12-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:02.317Z",
+    "accession": "B20150156005",
+    "document_id": "CK000413",
+    "unique_document_id": "176326",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-15",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

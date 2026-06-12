@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om køb",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-28",
+  "in_force_date": "2003-04-10",
   "url": "https://www.retsinformation.dk/eli/lta/2003/237/xml",
-  "description": "Retsinformation source. DocumentId=AA001908; AccessionNumber=A20030023729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001908; AccessionNumber=A20030023729; Ophævet 2014-02-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:22:08.647Z",
+    "accession": "A20030023729",
+    "document_id": "AA001908",
+    "unique_document_id": "1419",
+    "upstream_status": "Historic",
+    "start_date": "2003-04-10",
+    "end_date": "2014-11-21",
+    "historic_marked": "2014-02-18",
+    "seed_status": "repealed"
+  }
 }

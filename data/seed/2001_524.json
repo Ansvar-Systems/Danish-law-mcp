@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fleksydelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2001/524/xml",
-  "description": "Retsinformation source. DocumentId=AO001248; AccessionNumber=B20010052405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO001248; AccessionNumber=B20010052405; Ophævet 2003-06-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:03:29.591Z",
+    "accession": "B20010052405",
+    "document_id": "AO001248",
+    "unique_document_id": "19337",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-14",
+    "end_date": "2005-11-18",
+    "historic_marked": "2003-06-27",
+    "seed_status": "repealed"
+  }
 }

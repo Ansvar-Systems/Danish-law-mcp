@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Den Grafiske Højskole",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-02-17",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1987/72/xml",
-  "description": "Retsinformation source. DocumentId=CM033934; AccessionNumber=A19870007229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM033934; AccessionNumber=A19870007229; Ophævet 1990-08-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:50:42.598Z",
+    "accession": "A19870007229",
+    "document_id": "CM033934",
+    "unique_document_id": "74729",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "1990-08-02",
+    "seed_status": "repealed"
+  }
 }

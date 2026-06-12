@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-09",
+  "in_force_date": "2020-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1998/xml",
   "description": "Retsinformation source. DocumentId=DB000220; AccessionNumber=B20200199805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den grønlandske frekvensplan fremgår af bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2020-12-09",
+      "valid_from": "2020-12-18",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Forsvaret er undtaget fra krav om tilladelse til frekvensanvendelse, hvor det fremgår af frekvensplanen, at frekvensanvendelsen er militær anvendelse eller militær anvendelse på sekundær basis.",
-      "valid_from": "2020-12-09",
+      "valid_from": "2020-12-18",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2021. Stk. 2. Bekendtgørelse nr. 1135 af 3. december 2012 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer i Grønland (frekvensplan) ophæves.",
-      "valid_from": "2020-12-09",
+      "valid_from": "2020-12-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:08:33.072Z",
+    "accession": "B20200199805",
+    "document_id": "DB000220",
+    "unique_document_id": "217865",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-18",
+    "end_date": "2020-12-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

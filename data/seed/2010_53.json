@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 066 for tjeneste- og teknologineutral frekvensanvendelse i frekvensbåndet 57,0-66,0 GHz",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-15",
+  "in_force_date": "2010-01-20",
   "url": "https://www.retsinformation.dk/eli/lta/2010/53/xml",
-  "description": "Retsinformation source. DocumentId=BD000527; AccessionNumber=B20100005305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000527; AccessionNumber=B20100005305; Ophævet 2018-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For tjeneste- og teknologineutral frekvensanvendelse i frekvensbåndet 57,0-66,0 GHz gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 066 for tjeneste- og teknologineutral frekvensanvendelse i frekvensbåndet 57,0-66,0 GHz.",
-      "valid_from": "2010-01-15",
-      "valid_to": null
+      "valid_from": "2010-01-20",
+      "valid_to": "2018-05-31"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 27. januar 2010.",
-      "valid_from": "2010-01-15",
-      "valid_to": null
+      "valid_from": "2010-01-20",
+      "valid_to": "2018-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:19:10.091Z",
+    "accession": "B20100005305",
+    "document_id": "BD000527",
+    "unique_document_id": "128185",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-20",
+    "end_date": "2026-06-04",
+    "historic_marked": "2018-05-31",
+    "seed_status": "repealed"
+  }
 }

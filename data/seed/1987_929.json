@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Statens Brandinspektion",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-12-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/929/xml",
-  "description": "Retsinformation source. DocumentId=CM011107; AccessionNumber=B19870092905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011107; AccessionNumber=B19870092905; Ophævet 1994-02-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:58:17.764Z",
+    "accession": "B19870092905",
+    "document_id": "CM011107",
+    "unique_document_id": "52277",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-02-20",
+    "historic_marked": "1994-02-25",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Meddelelser fra Søfartsstyrelsen D, teknisk forskrift for skibes bygning og udstyr m.v., passagerskibe i national fart",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-09-28",
+  "in_force_date": "2012-09-29",
   "url": "https://www.retsinformation.dk/eli/lta/2012/968/xml",
-  "description": "Retsinformation source. DocumentId=BP000181; AccessionNumber=B20120096805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000181; AccessionNumber=B20120096805; Ophævet 2021-09-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1a",
@@ -19,9 +20,20 @@
       "provision_ref": "1a",
       "section": "1a",
       "content": "§ 1a. Uanset § 1, stk. 1, skal ethvert passagerskib i national fart være godkendt af Søfartsstyrelsen, inden det går i fart enten som nybygget eller som indkøbt fra udlandet. Søfartsstyrelsen kan som forudsætning for tilladelsen stille krav om, at passagerskibet har et sikkerhedsniveau, som svarer til det i dette eller andre regelværk indeholdte. Stk. 2. Bestemmelserne i stk. 1 finder ikke anvendelse på krigsskibe og troppetransportskibe.",
-      "valid_from": "2012-09-28",
-      "valid_to": null
+      "valid_from": "2012-09-29",
+      "valid_to": "2021-09-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:24:55.822Z",
+    "accession": "B20120096805",
+    "document_id": "BP000181",
+    "unique_document_id": "141861",
+    "upstream_status": "Historic",
+    "start_date": "2012-09-29",
+    "end_date": "2021-09-16",
+    "historic_marked": "2021-09-15",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om forretningsorden for bestyrelsen for Energiteknologisk Udviklings- og Demonstrationsprogram",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-02-27",
+  "in_force_date": "2008-03-01",
   "url": "https://www.retsinformation.dk/eli/lta/2008/132/xml",
-  "description": "Retsinformation source. DocumentId=BJ000037; AccessionNumber=B20080013205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BJ000037; AccessionNumber=B20080013205; Ophævet 2009-01-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bestyrelsen for Energiteknologisk Udviklings- og Demonstrationsprogram (EUDP) har udarbejdet en forretningsorden. Stk. 2. Forretningsordenen for EUDP er godkendt af klima- og energiministeren. Stk. 3. Forretningsordenen for EUDP vedlægges denne bekendtgørelse som bilag 1.",
-      "valid_from": "2008-02-27",
-      "valid_to": null
+      "valid_from": "2008-03-01",
+      "valid_to": "2009-01-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:57:54.737Z",
+    "accession": "B20080013205",
+    "document_id": "BJ000037",
+    "unique_document_id": "115496",
+    "upstream_status": "Historic",
+    "start_date": "2008-03-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "2009-01-20",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om valg til menighedsråd",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-06",
+  "in_force_date": "2007-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2007/610/xml",
-  "description": "Retsinformation source. DocumentId=AJ000326; AccessionNumber=A20070061029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AJ000326; AccessionNumber=A20070061029; Ophævet 2008-03-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:29:12.066Z",
+    "accession": "A20070061029",
+    "document_id": "AJ000326",
+    "unique_document_id": "11708",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-25",
+    "end_date": "2014-07-02",
+    "historic_marked": "2008-03-06",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om unges farlige arbejde",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-02-15",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/103/xml",
-  "description": "Retsinformation source. DocumentId=CM026284; AccessionNumber=B19890010305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026284; AccessionNumber=B19890010305; Ophævet 1992-07-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:28:59.328Z",
+    "accession": "B19890010305",
+    "document_id": "CM026284",
+    "unique_document_id": "67105",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1992-07-22",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af retsplejeloven (Udtagelse af blodprøve, anklagemyndighedens deltagelse i retsmøder via videokommunikation ved fristforlængelser m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-02-27",
+  "in_force_date": "2016-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2016/166/xml",
-  "description": "Retsinformation source. DocumentId=AA009509; AccessionNumber=A20160016630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA009509; AccessionNumber=A20160016630; Ophævet 2016-10-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "719",
@@ -20,8 +21,19 @@
       "section": "719",
       "content": "§ 719. Offentlig påtale tilkommer politidirektøren, medmindre andet følger af denne lov eller regler fastsat i medfør af denne lov. Stk. 2. Statsadvokaten påtaler ankesager ved landsret. Stk. 3. Justitsministeren eller den, som justitsministeren bemyndiger dertil, fastsætter i øvrigt nærmere regler om påtalens fordeling mellem rigsadvokaten, statsadvokaterne og politidirektørerne.",
       "valid_from": "2016-02-27",
-      "valid_to": null
+      "valid_to": "2016-10-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:58:44.932Z",
+    "accession": "A20160016630",
+    "document_id": "AA009509",
+    "unique_document_id": "177553",
+    "upstream_status": "Historic",
+    "start_date": "2016-02-27",
+    "end_date": "2016-10-28",
+    "historic_marked": "2016-10-27",
+    "seed_status": "repealed"
+  }
 }

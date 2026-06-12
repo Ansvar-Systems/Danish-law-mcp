@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om sekretariatsbetjening af Klagenævnet for Specialundervisning",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-27",
+  "in_force_date": "2012-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2012/712/xml",
-  "description": "Retsinformation source. DocumentId=BN000149; AccessionNumber=B20120071205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BN000149; AccessionNumber=B20120071205; Ophævet 2014-09-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Sekretariatsbetjeningen for Klagenævnet for Specialundervisning varetages af Ankestyrelsen under social- og integrationsministeren.",
-      "valid_from": "2012-06-27",
-      "valid_to": null
+      "valid_from": "2012-06-30",
+      "valid_to": "2014-09-18"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2012.",
-      "valid_from": "2012-06-27",
-      "valid_to": null
+      "valid_from": "2012-06-30",
+      "valid_to": "2014-09-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:11:39.173Z",
+    "accession": "B20120071205",
+    "document_id": "BN000149",
+    "unique_document_id": "142692",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-30",
+    "end_date": "2021-01-08",
+    "historic_marked": "2014-09-18",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-06-20",
+  "in_force_date": "2025-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2025/812/xml",
   "description": "Retsinformation source. DocumentId=AK002402; AccessionNumber=B20250081205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Nationalmuseet er kompetent myndighed i henhold til Europa-Parlamentets og Rådets forordning (EU) 2019/880 af 17. april 2019 om indførsel og import af kulturgenstande, jf. forordningens artikel 4, stk. 11.",
-      "valid_from": "2025-06-20",
+      "valid_from": "2025-06-25",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 28. juni 2025.",
-      "valid_from": "2025-06-20",
+      "valid_from": "2025-06-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:27:17.156Z",
+    "accession": "B20250081205",
+    "document_id": "AK002402",
+    "unique_document_id": "250775",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-25",
+    "end_date": "2025-09-26",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

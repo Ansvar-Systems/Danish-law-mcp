@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af selskabsskatteloven og ligningsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1284/xml",
-  "description": "Retsinformation source. DocumentId=AN002149; AccessionNumber=A20000128430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002149; AccessionNumber=A20000128430; Ophævet 2002-09-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:01:53.971Z",
+    "accession": "A20000128430",
+    "document_id": "AN002149",
+    "unique_document_id": "14825",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-20",
+    "end_date": "2005-06-01",
+    "historic_marked": "2002-09-12",
+    "seed_status": "repealed"
+  }
 }

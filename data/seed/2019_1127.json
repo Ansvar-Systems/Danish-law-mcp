@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-11-14",
+  "in_force_date": "2019-11-20",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1127/xml",
   "description": "Retsinformation source. DocumentId=BE008084; AccessionNumber=B20190112705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra private arbejdsgivere fastsættes for 2020 til 400 kr. for hver gang arbejdsgiveren betaler et beløb, der svarer til et fuldt års ATP-bidrag, jf. § 15 i lov om Arbejdsmarkedets Tillægspension.",
-      "valid_from": "2019-11-14",
+      "valid_from": "2019-11-20",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2020. Stk. 2. Det for 2020 fastsatte bidrag opkræves første gang på grundlag af ATP-bidrag, der er modtaget i perioden 2. marts - 1. juni 2020.",
-      "valid_from": "2019-11-14",
+      "valid_from": "2019-11-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:34.509Z",
+    "accession": "B20190112705",
+    "document_id": "BE008084",
+    "unique_document_id": "210845",
+    "upstream_status": "Valid",
+    "start_date": "2019-11-20",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

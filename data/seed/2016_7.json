@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om valg til Folketinget og lov om valg af danske medlemmer til Europa-Parlamentet (Bemyndigelse til digitalisering af proceduren for indsamling af vælgererklæringer m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-01-07",
+  "in_force_date": "2016-01-08",
   "url": "https://www.retsinformation.dk/eli/lta/2016/7/xml",
-  "description": "Retsinformation source. DocumentId=CJ000227; AccessionNumber=B20160000705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CJ000227; AccessionNumber=B20160000705; Ophævet 2018-03-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 312 af 29. marts 2014 om ændring af lov om valg til Folketinget og lov om valg af danske medlemmer til Europa-Parlamentet (Bemyndigelse til digitalisering af proceduren for indsamling af vælgererklæringer m.v.) sættes i kraft.",
-      "valid_from": "2016-01-07",
-      "valid_to": null
+      "valid_from": "2016-01-08",
+      "valid_to": "2018-03-21"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 12. januar 2016.",
-      "valid_from": "2016-01-07",
-      "valid_to": null
+      "valid_from": "2016-01-08",
+      "valid_to": "2018-03-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:40.389Z",
+    "accession": "B20160000705",
+    "document_id": "CJ000227",
+    "unique_document_id": "176848",
+    "upstream_status": "Historic",
+    "start_date": "2016-01-08",
+    "end_date": "2023-04-29",
+    "historic_marked": "2018-03-21",
+    "seed_status": "repealed"
+  }
 }

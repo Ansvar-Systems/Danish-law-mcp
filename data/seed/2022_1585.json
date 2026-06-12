@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-12-22",
+  "in_force_date": "2022-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1585/xml",
   "description": "Retsinformation source. DocumentId=DC000817; AccessionNumber=B20220158505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Indtil den 31. december 2032 og uanset bestemmelserne i fiskerilovens kapitel 4B, har kun EU-fiskerfartøjer, der fører en anden medlemsstats flag, i overensstemmelse med bilag I, pkt. 3, i Europa-Parlamentets og Rådets forordning (EU) nr. 1380/2013 om den fælles fiskeripolitik, adgang til erhvervsmæssigt fiskeri i Danmarks kystfarvande (danske farvande indtil 12 sømil fra basislinjen).",
-      "valid_from": "2022-12-22",
+      "valid_from": "2022-12-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2023. Stk. 2. Bekendtgørelse nr. 205 af 25. februar 2015 om adgang til fiskeri i danske farvande indtil 12 sømil fra basislinjen ophæves.",
-      "valid_from": "2022-12-22",
+      "valid_from": "2022-12-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:05.467Z",
+    "accession": "B20220158505",
+    "document_id": "DC000817",
+    "unique_document_id": "234091",
+    "upstream_status": "Valid",
+    "start_date": "2022-12-23",
+    "end_date": "2023-03-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

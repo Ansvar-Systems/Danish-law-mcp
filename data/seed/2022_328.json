@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Danske Lægemiddelstandarder 2020.6",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-03-10",
+  "in_force_date": "2022-03-16",
   "url": "https://www.retsinformation.dk/eli/lta/2022/328/xml",
-  "description": "Retsinformation source. DocumentId=DI000596; AccessionNumber=B20220032805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000596; AccessionNumber=B20220032805; Ophævet 2022-12-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:34:34.768Z",
+    "accession": "B20220032805",
+    "document_id": "DI000596",
+    "unique_document_id": "229828",
+    "upstream_status": "Historic",
+    "start_date": "2022-03-16",
+    "end_date": "2022-12-02",
+    "historic_marked": "2022-12-01",
+    "seed_status": "repealed"
+  }
 }

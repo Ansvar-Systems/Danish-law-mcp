@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bekæmpelse af rotter m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-23",
+  "in_force_date": "2001-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2001/611/xml",
-  "description": "Retsinformation source. DocumentId=AL000694; AccessionNumber=B20010061105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000694; AccessionNumber=B20010061105; Ophævet 2007-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:06:57.465Z",
+    "accession": "B20010061105",
+    "document_id": "AL000694",
+    "unique_document_id": "12475",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-05",
+    "end_date": "2022-04-09",
+    "historic_marked": "2007-12-20",
+    "seed_status": "repealed"
+  }
 }

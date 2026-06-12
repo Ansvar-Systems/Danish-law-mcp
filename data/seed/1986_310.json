@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om tandpleje m.v. (Tandplejeloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-06-04",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1986/310/xml",
-  "description": "Retsinformation source. DocumentId=CM005684; AccessionNumber=A19860031030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005684; AccessionNumber=A19860031030; Ophævet 1994-06-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:06:34.644Z",
+    "accession": "A19860031030",
+    "document_id": "CM005684",
+    "unique_document_id": "46918",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-12-30",
+    "historic_marked": "1994-06-17",
+    "seed_status": "repealed"
+  }
 }

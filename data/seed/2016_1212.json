@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-09-28",
+  "in_force_date": "2016-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1212/xml",
   "description": "Retsinformation source. DocumentId=AN012719; AccessionNumber=B20160121205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I forbindelse med tilbagebetaling af statsgaranterede studielån, der overføres til Udbetaling Danmark, opkræves følgende gebyrer: 1) Opkrævning af ydelser i henhold til betalingsordninger a) over giro, pr. ordinær ydelse: 10 kr. b) over betalingsservice, netbank eller anden betalingsform, pr. ordinær ydelse: 5 kr. 2) Udsendelse af rykker ved for sen betaling: 60 kr. 3) Fornyet udsendelse af kopi af lånedokument eller gældsbrev: 350 kr. 4) Opsigelse af lån: 150 kr. Stk. 2. Gebyrer efter stk. 1 opkræves sammen med næste ydelse, såfremt der er yderligere ydelser til opkrævning.",
-      "valid_from": "2016-09-28",
+      "valid_from": "2016-09-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. oktober 2016.",
-      "valid_from": "2016-09-28",
+      "valid_from": "2016-09-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:34.857Z",
+    "accession": "B20160121205",
+    "document_id": "AN012719",
+    "unique_document_id": "184073",
+    "upstream_status": "Valid",
+    "start_date": "2016-09-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

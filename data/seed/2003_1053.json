@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om administration m.v. af stærkstrømsloven",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-08",
+  "in_force_date": "2003-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1053/xml",
-  "description": "Retsinformation source. DocumentId=AU001326; AccessionNumber=B20030105305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001326; AccessionNumber=B20030105305; Ophævet 2016-07-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:08:53.765Z",
+    "accession": "B20030105305",
+    "document_id": "AU001326",
+    "unique_document_id": "26441",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-22",
+    "end_date": "2017-12-08",
+    "historic_marked": "2016-07-12",
+    "seed_status": "repealed"
+  }
 }

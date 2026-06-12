@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kildeskat",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-11-25",
+  "in_force_date": "2016-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1412/xml",
-  "description": "Retsinformation source. DocumentId=AN012795; AccessionNumber=B20160141205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN012795; AccessionNumber=B20160141205; Ophævet 2021-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:48:40.921Z",
+    "accession": "B20160141205",
+    "document_id": "AN012795",
+    "unique_document_id": "185082",
+    "upstream_status": "Historic",
+    "start_date": "2016-11-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-11-25",
+    "seed_status": "repealed"
+  }
 }

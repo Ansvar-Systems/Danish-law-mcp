@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om fremme af energibesparelser i bygninger",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-24",
+  "in_force_date": "2005-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/585/xml",
-  "description": "Retsinformation source. DocumentId=AR001039; AccessionNumber=A20050058530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001039; AccessionNumber=A20050058530; Ophævet 2011-06-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:26:08.927Z",
+    "accession": "A20050058530",
+    "document_id": "AR001039",
+    "unique_document_id": "22447",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-24",
+    "end_date": "2023-10-28",
+    "historic_marked": "2011-06-16",
+    "seed_status": "repealed"
+  }
 }

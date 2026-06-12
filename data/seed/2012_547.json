@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2012-06-18",
+  "in_force_date": "2012-06-18",
   "url": "https://www.retsinformation.dk/eli/lta/2012/547/xml",
   "description": "Retsinformation source. DocumentId=AE001873; AccessionNumber=A20120054730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -363,5 +364,16 @@
       "definition": "en øvre grænse for nærmere bestemte faktiske udgifter i finansåret, jf",
       "source_provision": "3:5"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:04:56.261Z",
+    "accession": "A20120054730",
+    "document_id": "AE001873",
+    "unique_document_id": "142466",
+    "upstream_status": "Valid",
+    "start_date": "2012-06-18",
+    "end_date": "2025-02-06",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

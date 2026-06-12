@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-12-14",
+  "in_force_date": "2016-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1590/xml",
   "description": "Retsinformation source. DocumentId=CQ000034; AccessionNumber=B20160159005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 13 af 11. januar 1999 om grænser for anbringelse af bundgarnsstader i Køge Bugt. 2) Bekendtgørelse nr. 772 af 27. november 1991 om grænser for anbringelse af bundgarnsstader ved Jyllands østkyst fra Skagen til Fornæs. 3) Bekendtgørelse nr. 9734 af 28. september 2005, teknisk forskrift om konstruktion af lanterner. 4) Bekendtgørelse nr. 9175 af 3. maj 2002, teknisk forskrift om støj i skibe.",
-      "valid_from": "2016-12-14",
+      "valid_from": "2016-12-16",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2017.",
-      "valid_from": "2016-12-14",
+      "valid_from": "2016-12-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:55:57.078Z",
+    "accession": "B20160159005",
+    "document_id": "CQ000034",
+    "unique_document_id": "185512",
+    "upstream_status": "Valid",
+    "start_date": "2016-12-16",
+    "end_date": "2016-12-16",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sagsudlægning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-02",
+  "in_force_date": "2000-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2000/303/xml",
-  "description": "Retsinformation source. DocumentId=AN000895; AccessionNumber=B20000030305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000895; AccessionNumber=B20000030305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:13:56.861Z",
+    "accession": "B20000030305",
+    "document_id": "AN000895",
+    "unique_document_id": "13728",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-12",
+    "end_date": "2008-02-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

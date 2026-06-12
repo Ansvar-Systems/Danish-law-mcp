@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-07-15",
+  "in_force_date": "2001-07-30",
   "url": "https://www.retsinformation.dk/eli/lta/2001/701/xml",
-  "description": "Retsinformation source. DocumentId=AK000156; AccessionNumber=A20010070129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000156; AccessionNumber=A20010070129; Ophævet 2002-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:10:35.028Z",
+    "accession": "A20010070129",
+    "document_id": "AK000156",
+    "unique_document_id": "11803",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-30",
+    "end_date": "2005-08-03",
+    "historic_marked": "2002-12-17",
+    "seed_status": "repealed"
+  }
 }

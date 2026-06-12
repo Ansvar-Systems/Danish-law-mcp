@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om pligt til at registrere logoplysninger og indsigt i logoplysninger",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-02-07",
+  "in_force_date": "2022-02-08",
   "url": "https://www.retsinformation.dk/eli/lta/2022/200/xml",
-  "description": "Retsinformation source. DocumentId=DI000558; AccessionNumber=B20220020005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000558; AccessionNumber=B20220020005; Ophævet 2024-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -39,33 +40,44 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Regionsrådet skal foretage maskinel registrering (logning) af alle anvendelser af personoplysninger i elektroniske patientjournaler. Stk. 2. Logningsoplysninger skal mindst indeholde følgende oplysninger: 1) Hvem der har foretaget opslag med angivelse af fornavn, efternavn, autorisationsnummer eller CPR-nummer samt titel. 2) Behandlingssted, hvorfra opslaget er foretaget. 3) Tidspunkt for opslaget.",
-      "valid_from": "2022-02-07",
-      "valid_to": null
+      "valid_from": "2022-02-08",
+      "valid_to": "2024-02-28"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Regionsrådet er forpligtet til senest den 1. marts 2024 at sikre, at en patient, der er fyldt 15 år, i en periode på to år fra opslagstidspunktet får adgang til en overskuelig og letforståelig oversigt over oplysninger om fornavn, efternavn og titel på den, der har foretaget opslag i patientens elektroniske patientjournal, behandlingssted, hvorfra opslaget er foretaget, og tidspunkt for opslaget, jf. dog § 3.",
-      "valid_from": "2022-02-07",
-      "valid_to": null
+      "valid_from": "2022-02-08",
+      "valid_to": "2024-02-28"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Regionsrådet kan i særlige tilfælde beslutte, at patienten i stedet for oplysningerne om fornavn og efternavn får adgang til oplysninger om anden entydig identifikation på den person, der har foretaget et opslag. Stk. 2. Behandlingsstedet skal efter anmodning fra patienten udlevere oplysninger om identiteten på personen bag oplysningerne i stk. 1, medmindre der foreligger afgørende hensyn til andres private interesser.",
-      "valid_from": "2022-02-07",
-      "valid_to": null
+      "valid_from": "2022-02-08",
+      "valid_to": "2024-02-28"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. marts 2022.",
-      "valid_from": "2022-02-07",
-      "valid_to": null
+      "valid_from": "2022-02-08",
+      "valid_to": "2024-02-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:29:25.888Z",
+    "accession": "B20220020005",
+    "document_id": "DI000558",
+    "unique_document_id": "229148",
+    "upstream_status": "Historic",
+    "start_date": "2022-02-08",
+    "end_date": "2024-02-29",
+    "historic_marked": "2024-02-28",
+    "seed_status": "repealed"
+  }
 }

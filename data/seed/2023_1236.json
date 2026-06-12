@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-10-11",
+  "in_force_date": "2023-10-13",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1236/xml",
   "description": "Retsinformation source. DocumentId=DI000968; AccessionNumber=B20230123605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. For personer over 18 år udgør tilskuddets størrelse, jf. § 146, stk. 1, i sundhedsloven, i perioden fra den 30. oktober 2023 til og med den 31. december 2023 1) 85 pct. af den del af udgiften, som overstiger 3.795 kr., men ikke 18.870 kr., og 2) 100 pct. af den del af udgiften, som overstiger 18.870 kr.",
-      "valid_from": "2023-10-11",
+      "valid_from": "2023-10-13",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. For personer under 18 år udgør tilskuddets størrelse, jf. § 146, stk. 1, i sundhedsloven, i perioden fra den 30. oktober 2023 til og med den 31. december 2023 1) 85 pct. af den del af udgiften, som overstiger 3.795 kr., men ikke 23.520 kr., og 2) 100 pct. af den del af udgiften, som overstiger 23.520 kr.",
-      "valid_from": "2023-10-11",
+      "valid_from": "2023-10-13",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 30. oktober 2023. Stk. 2. Bekendtgørelse nr. 371 af 2. april 2023 om udgiftsgrænsen for fuldt tilskud til lægemidler ophæves.",
-      "valid_from": "2023-10-11",
+      "valid_from": "2023-10-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:11:10.123Z",
+    "accession": "B20230123605",
+    "document_id": "DI000968",
+    "unique_document_id": "239356",
+    "upstream_status": "Valid",
+    "start_date": "2023-10-13",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

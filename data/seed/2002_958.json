@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af fiskeriet i 2003 og visse vilkår for fiskeriet i følgende år",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-11-29",
+  "in_force_date": "2002-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2002/958/xml",
-  "description": "Retsinformation source. DocumentId=AH001343; AccessionNumber=B20020095805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001343; AccessionNumber=B20020095805; Ophævet 2003-12-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:05:05.087Z",
+    "accession": "B20020095805",
+    "document_id": "AH001343",
+    "unique_document_id": "7626",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "2003-12-12",
+    "seed_status": "repealed"
+  }
 }

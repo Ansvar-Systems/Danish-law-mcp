@@ -5,9 +5,21 @@
   "short_name": "Lovbekendtgørelse",
   "status": "in_force",
   "issued_date": "2006-03-13",
+  "in_force_date": "2006-03-31",
   "url": "https://www.retsinformation.dk/eli/lta/2006/225/xml",
   "description": "Retsinformation source. DocumentId=AG000284; AccessionNumber=A20060022529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:15:20.960Z",
+    "accession": "A20060022529",
+    "document_id": "AG000284",
+    "unique_document_id": "6463",
+    "upstream_status": "Valid",
+    "start_date": "2006-03-31",
+    "end_date": "2026-01-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

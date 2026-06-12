@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-05-09",
+  "in_force_date": "2018-05-10",
   "url": "https://www.retsinformation.dk/eli/lta/2018/457/xml",
   "description": "Retsinformation source. DocumentId=CQ000501; AccessionNumber=B20180045705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse på operatører af markedspladser og centrale modparter (CCP’er), der af Finanstilsynet er udpeget som operatører af væsentlige tjenester, jf. § 58 a i lov om kapitalmarkeder.",
-      "valid_from": "2018-05-09",
+      "valid_from": "2018-05-10",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. En operatør af en markedsplads eller en central modpart (CCP), der af Finanstilsynet er udpeget som operatør af væsentlige tjenester, skal sikre, at Finanstilsynet og Center for Cybersikkerhed hurtigst muligt bliver underrettet om hændelser, som har væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som de leverer. Stk. 2. Underretningen efter stk. 1 skal indeholde oplysninger om 1) antallet af medlemmer og udstedere på markedspladsen eller antallet og størrelsen af direkte og indirekte clearingmedlemmer hos den centrale modpart (CCP’en), der er berørt af hændelsen, 2) hændelsens varighed, 3) det geografiske område, der er berørt af hændelsen, og 4) om eventuelle grænseoverskridende konsekvenser af hændelsen.",
-      "valid_from": "2018-05-09",
+      "valid_from": "2018-05-10",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 10. maj 2018.",
-      "valid_from": "2018-05-09",
+      "valid_from": "2018-05-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:06:32.051Z",
+    "accession": "B20180045705",
+    "document_id": "CQ000501",
+    "unique_document_id": "200991",
+    "upstream_status": "Valid",
+    "start_date": "2018-05-10",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

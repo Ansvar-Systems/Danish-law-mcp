@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om betaling for kontrol af fødevarer og levende dyr m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-02",
+  "in_force_date": "2010-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1334/xml",
-  "description": "Retsinformation source. DocumentId=AH004055; AccessionNumber=B20100133405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004055; AccessionNumber=B20100133405; Ophævet 2012-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 a. Til dækning af omkostningerne ved udstedelse af påbud (gult kort antibiotika) eller påbud om skærpet tilsyn efter bekendtgørelse om særlige foranstaltninger til nedbringelse af antibiotikaforbruget i svinebesætninger betales for et sådant påbud 5.500 kr. Betalingen opkræves i forbindelse med udstedelsen af påbuddet. Stk. 2. For opfølgende kontrol i forbindelse med de i stk. 1 nævnte påbud, betales 2.900 kr. pr. kontrolbesøg.",
-      "valid_from": "2010-12-02",
-      "valid_to": null
+      "valid_from": "2010-12-04",
+      "valid_to": "2012-03-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:48:31.581Z",
+    "accession": "B20100133405",
+    "document_id": "AH004055",
+    "unique_document_id": "134242",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-04",
+    "end_date": "2022-04-08",
+    "historic_marked": "2012-03-29",
+    "seed_status": "repealed"
+  }
 }

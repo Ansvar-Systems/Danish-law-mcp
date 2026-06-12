@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-10-02",
+  "in_force_date": "2025-10-02",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1168/xml",
   "description": "Retsinformation source. DocumentId=DB001230; AccessionNumber=B20250116805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -381,5 +382,16 @@
       "definition": "de kriterier, som et fjernvarme- og fjernkølingssystem skal opfylde for at være effektivt i henhold til bekendtgørelse om godkendelse af projekter for kollektive varmeforsyningsanlæg og bekendtgørelse om godkendelse af projekter for fjernkølingsanlæg",
       "source_provision": "6:20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:34:06.107Z",
+    "accession": "B20250116805",
+    "document_id": "DB001230",
+    "unique_document_id": "251634",
+    "upstream_status": "Valid",
+    "start_date": "2025-10-02",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

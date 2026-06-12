@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2012-12-23",
+  "in_force_date": "2012-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1382/xml",
   "description": "Retsinformation source. DocumentId=BE005351; AccessionNumber=A20120138230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "57",
       "section": "57",
       "content": "§ 57 a. Beskæftigelsesministeren kan fastsætte regler om gebyr, herunder om opkrævning og indbetaling fra arbejdsgivere, til delvis dækning af Arbejdstilsynets omkostninger ved afholdelse af arbejdsmiljøuddannelsen. Stk. 2. Gebyret reguleres årligt i overensstemmelse med stigningen i det generelle pris- og lønindeks på finansloven det pågældende år.",
-      "valid_from": "2012-12-23",
+      "valid_from": "2012-12-27",
       "valid_to": null
     },
     {
       "provision_ref": "68",
       "section": "68",
       "content": "§ 68. Der kan pålægges selskaber m.v. (juridiske personer) et kriminalretligt ansvar efter reglerne i kriminallovens 5. kapitel. § 66, stk. 3, finder tilsvarende anvendelse.",
-      "valid_from": "2012-12-23",
+      "valid_from": "2012-12-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:45:24.835Z",
+    "accession": "A20120138230",
+    "document_id": "BE005351",
+    "unique_document_id": "144946",
+    "upstream_status": "Valid",
+    "start_date": "2012-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forældelse af fordringer (forældelsesloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-06",
+  "in_force_date": "2007-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/522/xml",
-  "description": "Retsinformation source. DocumentId=AA003676; AccessionNumber=A20070052230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003676; AccessionNumber=A20070052230; Ophævet 2013-09-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:25:39.582Z",
+    "accession": "A20070052230",
+    "document_id": "AA003676",
+    "unique_document_id": "2655",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-06",
+    "end_date": "2014-11-21",
+    "historic_marked": "2013-09-02",
+    "seed_status": "repealed"
+  }
 }

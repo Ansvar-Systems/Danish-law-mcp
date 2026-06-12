@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om mikrobiologiske grænseværdier for fødevarer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-02-24",
+  "in_force_date": "2005-03-03",
   "url": "https://www.retsinformation.dk/eli/lta/2005/113/xml",
-  "description": "Retsinformation source. DocumentId=BG000136; AccessionNumber=B20050011305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000136; AccessionNumber=B20050011305; Ophævet 2005-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:54:07.784Z",
+    "accession": "B20050011305",
+    "document_id": "BG000136",
+    "unique_document_id": "31451",
+    "upstream_status": "Historic",
+    "start_date": "2005-03-03",
+    "end_date": "2022-04-09",
+    "historic_marked": "2005-12-22",
+    "seed_status": "repealed"
+  }
 }

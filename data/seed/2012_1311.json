@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2012-12-18",
+  "in_force_date": "2012-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1311/xml",
   "description": "Retsinformation source. DocumentId=AN011348; AccessionNumber=B20120131105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. SKAT kan efter pensionsafkastbeskatningslovens § 31, stk. 2, fritage et penge- eller pensionsinstitut for at indeholde og indbetale pensionsafkastskat for pensionsberettigede, der ikke er skattepligtige efter pensionsafkastbeskatningslovens § 1, stk. 1 og 3. Stk. 2. Den pensionsberettigede skal på vegne af sit penge- eller pensionsinstitut ansøge om fritagelse for indeholdelse og indbetaling af pensionsafkastskat til SKAT på en blanket, som SKAT udarbejder. Stk. 3. Ansøgningen skal vedlægges dokumentation for, at den pensionsberettigede ikke er skattepligtig efter pensionsafkastbeskatningslovens § 1, stk. 1 og 3.",
-      "valid_from": "2012-12-18",
+      "valid_from": "2012-12-20",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. SKAT udsteder en fritagelseserklæring, hvor SKAT godkender, at penge- eller pensionsinstituttet er fritaget for at indeholde og indbetale pensionsafkastskat for den pensionsberettigede af de ordninger, ansøgningen omfatter.",
-      "valid_from": "2012-12-18",
+      "valid_from": "2012-12-20",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. SKAT kan tilbagekalde en fritagelseserklæring, hvis betingelserne ikke længere er opfyldt, eller hvis den pensionsberettigede ikke imødekommer gentagne henvendelser om fornyet dokumentation for, at den pensionsberettigede ikke er skattepligtig efter pensionsafkastbeskatningslovens § 1, stk. 1 og 3.",
-      "valid_from": "2012-12-18",
+      "valid_from": "2012-12-20",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "2",
       "section": "4",
       "content": "§ 4. Med bøde straffes den, der forsætligt eller groft uagtsomt: 1) Afgiver urigtige eller vildledende oplysninger eller fortier oplysninger til brug for skattekontrollen. 2) Undlader at give SKAT og pensionsselskabet besked, hvis personen igen bliver skattepligtig efter pensionsafkastbeskatningslovens § 1, stk. 1 og 3.",
-      "valid_from": "2012-12-18",
+      "valid_from": "2012-12-20",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "3",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. januar 2013. Stk. 2. Samtidig ophæves bekendtgørelse nr. 153 af 25. februar 2008 om fritagelse for indeholdelse og indbetaling af pensionsafkastskat.",
-      "valid_from": "2012-12-18",
+      "valid_from": "2012-12-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:42:35.545Z",
+    "accession": "B20120131105",
+    "document_id": "AN011348",
+    "unique_document_id": "144480",
+    "upstream_status": "Valid",
+    "start_date": "2012-12-20",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

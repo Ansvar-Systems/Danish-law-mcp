@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af udlændingeloven (Ny positivliste for faglærte)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-27",
+  "in_force_date": "2020-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1002/xml",
-  "description": "Retsinformation source. DocumentId=CS000836; AccessionNumber=A20200100230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS000836; AccessionNumber=A20200100230; Ophævet 2020-10-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:28:39.920Z",
+    "accession": "A20200100230",
+    "document_id": "CS000836",
+    "unique_document_id": "215473",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-27",
+    "end_date": "2020-11-10",
+    "historic_marked": "2020-10-26",
+    "seed_status": "repealed"
+  }
 }

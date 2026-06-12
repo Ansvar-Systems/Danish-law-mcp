@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om VækstFonden",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-05-08",
+  "in_force_date": "2002-05-13",
   "url": "https://www.retsinformation.dk/eli/lta/2002/278/xml",
-  "description": "Retsinformation source. DocumentId=AU000551; AccessionNumber=A20020027830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000551; AccessionNumber=A20020027830; Ophævet 2002-07-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:38:10.869Z",
+    "accession": "A20020027830",
+    "document_id": "AU000551",
+    "unique_document_id": "25866",
+    "upstream_status": "Historic",
+    "start_date": "2002-05-13",
+    "end_date": "2017-12-09",
+    "historic_marked": "2002-07-11",
+    "seed_status": "repealed"
+  }
 }

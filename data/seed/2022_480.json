@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven og lov om private fællesveje (Fjernelse af køretøjer, regulering af færdslen ved akutte hændelser, fastsættelse af en lavere hastighedsgrænse for et nærmere afgrænset område uden for tættere bebygget område, forbud mod standsning og parkering i skillerabat m.v. og vintervedligeholdelsesordninger på private fællesveje)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-04-26",
+  "in_force_date": "2022-04-26",
   "url": "https://www.retsinformation.dk/eli/lta/2022/480/xml",
-  "description": "Retsinformation source. DocumentId=DG000391; AccessionNumber=A20220048030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000391; AccessionNumber=A20220048030; Ophævet 2023-04-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "83a",
@@ -20,8 +21,19 @@
       "section": "83a",
       "content": "§ 83 a. Kommunalbestyrelsen kan indgå aftale med grundejerne langs en vejstrækning om, at kommunen udfører de vintervedligeholdelses- og renholdelsesopgaver, der skal udføres efter § 79, stk. 1, for grundejernes regning.",
       "valid_from": "2022-04-26",
-      "valid_to": null
+      "valid_to": "2023-04-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:40:42.578Z",
+    "accession": "A20220048030",
+    "document_id": "DG000391",
+    "unique_document_id": "230497",
+    "upstream_status": "Historic",
+    "start_date": "2022-04-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-04-25",
+    "seed_status": "repealed"
+  }
 }

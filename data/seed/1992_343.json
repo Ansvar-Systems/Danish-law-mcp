@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om kød (kødloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-05-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/343/xml",
-  "description": "Retsinformation source. DocumentId=CM038997; AccessionNumber=A19920034330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038997; AccessionNumber=A19920034330; Ophævet 2005-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:26:32.471Z",
+    "accession": "A19920034330",
+    "document_id": "CM038997",
+    "unique_document_id": "79784",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2025-09-26",
+    "historic_marked": "2005-11-30",
+    "seed_status": "repealed"
+  }
 }

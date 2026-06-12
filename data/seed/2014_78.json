@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af lov om finansiel virksomhed, lov om værdipapirhandel m.v., lov om finansiel stabilitet og lov om tinglysning (Styrkelse af markedet for erhvervsobligationer med indførelse af regler om repræsentanter i forbindelse med obligationsudstedelser og mulighed for, at pengeinstitutter kan oprette refinansieringsregistre, adgang til, at andre end låntagerne i et realkreditaktieselskab kan udøve indflydelse på den forening, der ejer realkreditselskabet, m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-01-23",
+  "in_force_date": "2014-01-27",
   "url": "https://www.retsinformation.dk/eli/lta/2014/78/xml",
-  "description": "Retsinformation source. DocumentId=BP000785; AccessionNumber=B20140007805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000785; AccessionNumber=B20140007805; Ophævet 2018-05-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 3 i lov nr. 1613 af 26. december 2013 om ændring af lov om finansiel virksomhed, lov om værdipapirhandel m.v., lov om finansiel stabilitet og lov om tinglysning (Styrkelse af markedet for erhvervsobligationer med indførelse af regler om repræsentanter i forbindelse med obligationsudstedelser og mulighed for, at pengeinstitutter kan oprette refinansieringsregistre, adgang til, at andre end låntagerne i et realkreditaktieselskab kan udøve indflydelse på den forening, der ejer realkreditselskabet, m.v.) sættes i kraft i Danmark.",
-      "valid_from": "2014-01-23",
-      "valid_to": null
+      "valid_from": "2014-01-27",
+      "valid_to": "2018-05-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2014.",
-      "valid_from": "2014-01-23",
-      "valid_to": null
+      "valid_from": "2014-01-27",
+      "valid_to": "2018-05-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:16:25.776Z",
+    "accession": "B20140007805",
+    "document_id": "BP000785",
+    "unique_document_id": "161401",
+    "upstream_status": "Historic",
+    "start_date": "2014-01-27",
+    "end_date": "2018-05-17",
+    "historic_marked": "2018-05-16",
+    "seed_status": "repealed"
+  }
 }

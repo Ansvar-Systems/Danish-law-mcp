@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af straffeloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-27",
+  "in_force_date": "2005-10-06",
   "url": "https://www.retsinformation.dk/eli/lta/2005/909/xml",
-  "description": "Retsinformation source. DocumentId=AA002970; AccessionNumber=A20050090929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002970; AccessionNumber=A20050090929; Ophævet 2006-10-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:39:11.270Z",
+    "accession": "A20050090929",
+    "document_id": "AA002970",
+    "unique_document_id": "2135",
+    "upstream_status": "Historic",
+    "start_date": "2005-10-06",
+    "end_date": "2025-05-27",
+    "historic_marked": "2006-10-16",
+    "seed_status": "repealed"
+  }
 }

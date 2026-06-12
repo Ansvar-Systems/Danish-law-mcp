@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om retssikkerhed og administration på det sociale område\\n(Børnerådets fortalervirksomhed)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-18",
+  "in_force_date": "2012-06-18",
   "url": "https://www.retsinformation.dk/eli/lta/2012/598/xml",
-  "description": "Retsinformation source. DocumentId=BS000278; AccessionNumber=A20120059830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BS000278; AccessionNumber=A20120059830; Ophævet 2012-09-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "88",
@@ -20,8 +21,19 @@
       "section": "88",
       "content": "§ 88. Social- og integrationsministeren nedsætter et børneråd, som skal virke som fortaler for børn. Rådet er uafhængigt og tværfagligt sammensat. Som led i sin fortalervirksomhed skal rådet informere og rådgive regering og Folketing om børns forhold i samfundet samt arbejde på at sikre børns rettigheder. Rådet har endvidere til opgave at vurdere og informere om børns vilkår i Danmark. Rådet skal inddrage børns synspunkter i sit arbejde og kan som led i sin fortalervirksomhed anmode institutioner, hvor børn opholder sig, om at måtte aflægge dem besøg. Stk. 2. Staten betaler udgifterne ved rådets virksomhed. Social- og integrationsministeren fastsætter regler om rådets sammensætning og opgaver.",
       "valid_from": "2012-06-18",
-      "valid_to": null
+      "valid_to": "2012-09-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:06:58.650Z",
+    "accession": "A20120059830",
+    "document_id": "BS000278",
+    "unique_document_id": "141955",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-18",
+    "end_date": "2022-07-08",
+    "historic_marked": "2012-09-18",
+    "seed_status": "repealed"
+  }
 }

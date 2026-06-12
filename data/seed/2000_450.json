@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om fremme af besparelser i energiforbruget",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/450/xml",
-  "description": "Retsinformation source. DocumentId=AL000464; AccessionNumber=A20000045030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000464; AccessionNumber=A20000045030; Ophævet 2010-12-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:19:51.559Z",
+    "accession": "A20000045030",
+    "document_id": "AL000464",
+    "unique_document_id": "12333",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2023-04-28",
+    "historic_marked": "2010-12-03",
+    "seed_status": "repealed"
+  }
 }

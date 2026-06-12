@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ferie for søfarende",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-04-27",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1992/306/xml",
-  "description": "Retsinformation source. DocumentId=CM023564; AccessionNumber=B19920030605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023564; AccessionNumber=B19920030605; Ophævet 2002-01-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:25:06.595Z",
+    "accession": "B19920030605",
+    "document_id": "CM023564",
+    "unique_document_id": "64525",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "2002-01-17",
+    "seed_status": "repealed"
+  }
 }

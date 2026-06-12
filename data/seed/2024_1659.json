@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1659/xml",
   "description": "Retsinformation source. DocumentId=DA001484; AccessionNumber=A20240165930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -59,5 +60,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:49:13.124Z",
+    "accession": "A20240165930",
+    "document_id": "DA001484",
+    "unique_document_id": "247150",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-30",
+    "end_date": "2026-05-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

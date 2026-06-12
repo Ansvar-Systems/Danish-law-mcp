@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Skatteforvaltningsloven",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-06",
+  "in_force_date": "2005-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2005/427/xml",
-  "description": "Retsinformation source. DocumentId=AN004654; AccessionNumber=A20050042730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004654; AccessionNumber=A20050042730; Ophævet 2005-08-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:19:47.451Z",
+    "accession": "A20050042730",
+    "document_id": "AN004654",
+    "unique_document_id": "16808",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-06",
+    "end_date": "2026-06-12",
+    "historic_marked": "2005-08-08",
+    "seed_status": "repealed"
+  }
 }

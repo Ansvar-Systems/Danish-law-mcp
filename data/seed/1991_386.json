@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Dyreværnslov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/386/xml",
-  "description": "Retsinformation source. DocumentId=CM018386; AccessionNumber=A19910038630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018386; AccessionNumber=A19910038630; Ophævet 2005-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:45:40.179Z",
+    "accession": "A19910038630",
+    "document_id": "CM018386",
+    "unique_document_id": "59433",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2025-10-04",
+    "historic_marked": "2005-05-26",
+    "seed_status": "repealed"
+  }
 }

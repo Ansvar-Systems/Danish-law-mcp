@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om homøopatiske lægemidler m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-13",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1109/xml",
-  "description": "Retsinformation source. DocumentId=AQ000720; AccessionNumber=B20000110905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000720; AccessionNumber=B20000110905; Ophævet 2005-10-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:54:53.730Z",
+    "accession": "B20000110905",
+    "document_id": "AQ000720",
+    "unique_document_id": "21637",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2022-07-12",
+    "historic_marked": "2005-10-27",
+    "seed_status": "repealed"
+  }
 }

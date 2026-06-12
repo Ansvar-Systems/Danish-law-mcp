@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af afskrivningsloven (Nedsættelse af afskrivningssatsen for bygninger m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-12-28",
+  "in_force_date": "2022-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1598/xml",
-  "description": "Retsinformation source. DocumentId=AN015798; AccessionNumber=A20220159830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN015798; AccessionNumber=A20220159830; Ophævet 2025-10-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:36.024Z",
+    "accession": "A20220159830",
+    "document_id": "AN015798",
+    "unique_document_id": "234178",
+    "upstream_status": "Historic",
+    "start_date": "2022-12-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-10-16",
+    "seed_status": "repealed"
+  }
 }

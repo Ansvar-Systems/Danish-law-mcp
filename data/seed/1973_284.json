@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om kapitaltilføjelsesafgift.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1973-05-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1973/284/xml",
-  "description": "Retsinformation source. DocumentId=CM022462; AccessionNumber=A19730028430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022462; AccessionNumber=A19730028430; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:47:13.161Z",
+    "accession": "A19730028430",
+    "document_id": "CM022462",
+    "unique_document_id": "63442",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-17",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-03-24",
+  "in_force_date": "2009-03-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/232/xml",
-  "description": "Retsinformation source. DocumentId=AU003591; AccessionNumber=B20090023205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003591; AccessionNumber=B20090023205; Ophævet 2011-04-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Omsætningsgrænsen i § 5, stk. 1, og bagatelgrænsen i § 5, stk. 4, i lov om detailsalg fra butikker m.v. udgør henholdsvis 30,5 mio. kr. inkl. moms og 13,2 mio. kr. inkl. moms.",
-      "valid_from": "2009-03-24",
-      "valid_to": null
+      "valid_from": "2009-03-28",
+      "valid_to": "2011-04-08"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 31. marts 2009.",
-      "valid_from": "2009-03-24",
-      "valid_to": null
+      "valid_from": "2009-03-28",
+      "valid_to": "2011-04-08"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelse nr. 232 af 7. april 2008 om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v. ophæves.",
-      "valid_from": "2009-03-24",
-      "valid_to": null
+      "valid_from": "2009-03-28",
+      "valid_to": "2011-04-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:03:34.165Z",
+    "accession": "B20090023205",
+    "document_id": "AU003591",
+    "unique_document_id": "124074",
+    "upstream_status": "Historic",
+    "start_date": "2009-03-28",
+    "end_date": "2017-12-09",
+    "historic_marked": "2011-04-08",
+    "seed_status": "repealed"
+  }
 }

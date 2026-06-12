@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af pensionsbeskatningsloven og skattekontrolloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-15",
+  "in_force_date": "2000-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/2000/170/xml",
-  "description": "Retsinformation source. DocumentId=AN000865; AccessionNumber=A20000017030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000865; AccessionNumber=A20000017030; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:08:35.170Z",
+    "accession": "A20000017030",
+    "document_id": "AN000865",
+    "unique_document_id": "13708",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-15",
+    "end_date": "2001-10-11",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

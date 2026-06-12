@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om statens voksenuddannelsesstøtte (SVU)\\n(Forkortelse af perioden med statens voksenuddannelsesstøtte på videregående niveau, afskaffelse af beregningsperioden på 5 år for gentagen ret til statens voksenuddannelsesstøtte til uddannelse på videregående niveau, nedsættelse af støttesatsen på både alment og videregående niveau m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1566/xml",
-  "description": "Retsinformation source. DocumentId=AT004424; AccessionNumber=A20100156630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004424; AccessionNumber=A20100156630; Ophævet 2013-03-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "22",
@@ -20,8 +21,19 @@
       "section": "22",
       "content": "§ 22 a. Undervisningsministeren kan fastsætte regler om digital kommunikation mellem den uddannelsessøgende eller arbejdsgiveren og uddannelsesstedet, arbejdsløshedskassen, restanceinddrivelsesmyndigheden, Undervisningsministeriet eller Styrelsen for Statens Uddannelsesstøtte. Ministeren kan herunder fastsætte regler om, at digital signatur eller anden sikker personidentifikation skal anvendes.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2013-03-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:57:59.185Z",
+    "accession": "A20100156630",
+    "document_id": "AT004424",
+    "unique_document_id": "135166",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-03-01",
+    "seed_status": "repealed"
+  }
 }

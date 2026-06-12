@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om anlæg af fast forbindelse over Øresund",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-28",
+  "in_force_date": "2001-03-28",
   "url": "https://www.retsinformation.dk/eli/lta/2001/217/xml",
-  "description": "Retsinformation source. DocumentId=AR000416; AccessionNumber=A20010021730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000416; AccessionNumber=A20010021730; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:51:07.063Z",
+    "accession": "A20010021730",
+    "document_id": "AR000416",
+    "unique_document_id": "22029",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-28",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

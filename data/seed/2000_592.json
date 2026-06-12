@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indbetaling af ATP-bidrag for medlemmer af arbejdsløshedskasser m.fl.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-22",
+  "in_force_date": "2000-06-23",
   "url": "https://www.retsinformation.dk/eli/lta/2000/592/xml",
-  "description": "Retsinformation source. DocumentId=AB000629; AccessionNumber=B20000059205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000629; AccessionNumber=B20000059205; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:25:34.077Z",
+    "accession": "B20000059205",
+    "document_id": "AB000629",
+    "unique_document_id": "3333",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-23",
+    "end_date": "2004-03-01",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

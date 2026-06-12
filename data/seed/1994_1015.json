@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fri proces",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-12-12",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/1015/xml",
-  "description": "Retsinformation source. DocumentId=CM016786; AccessionNumber=B19940101505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016786; AccessionNumber=B19940101505; Ophævet 1995-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:36:05.891Z",
+    "accession": "B19940101505",
+    "document_id": "CM016786",
+    "unique_document_id": "57858",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1995-12-20",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ligestilling af kvinder og mænd",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-30",
+  "in_force_date": "2000-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2000/388/xml",
-  "description": "Retsinformation source. DocumentId=AC000260; AccessionNumber=A20000038830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000260; AccessionNumber=A20000038830; Ophævet 2002-07-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:17:19.394Z",
+    "accession": "A20000038830",
+    "document_id": "AC000260",
+    "unique_document_id": "4079",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-30",
+    "end_date": "2025-01-30",
+    "historic_marked": "2002-07-11",
+    "seed_status": "repealed"
+  }
 }

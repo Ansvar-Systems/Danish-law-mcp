@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-04-28",
+  "in_force_date": "2021-04-29",
   "url": "https://www.retsinformation.dk/eli/lta/2021/755/xml",
   "description": "Retsinformation source. DocumentId=AN014904; AccessionNumber=B20210075505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Aftalen af 23. april 2021 mellem Kongeriget Danmarks regering og Kongeriget Sveriges regering om grænsetoldsamarbejde vedrørende Øresundsforbindelsen gælder her i landet.",
-      "valid_from": "2021-04-28",
+      "valid_from": "2021-04-29",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bestemmelserne i straffelovens kapitel 14 om for­br‌ydelser mod den offentlige myndighed finder også anvendelse, når forholdet er begået mod toldtjenestemænd fra Sverige under udførelse af toldtjeneste i Danmark efter aftalen om grænsetoldsamarbejde.",
-      "valid_from": "2021-04-28",
+      "valid_from": "2021-04-29",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Forvolder toldtjenestemænd fra Sverige under udførelse af toldtjeneste i Danmark efter aftalen skader, som efter dansk ret medfører erstatningspligt, udbetales erstatningen af skatteministeren efter aftalens artikel 13.",
-      "valid_from": "2021-04-28",
+      "valid_from": "2021-04-29",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. maj 2021. Stk. 2. Bekendtgørelse nr. 610 af 23. juni 2000 om aftale mellem Danmark og Sverige om grænsetoldsamarbejde vedrørende Øresundsforbindelsen ophæves.",
-      "valid_from": "2021-04-28",
+      "valid_from": "2021-04-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:51:34.677Z",
+    "accession": "B20210075505",
+    "document_id": "AN014904",
+    "unique_document_id": "222643",
+    "upstream_status": "Valid",
+    "start_date": "2021-04-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

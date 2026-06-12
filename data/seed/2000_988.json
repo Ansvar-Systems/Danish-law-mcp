@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af betalingsbeløb i henhold til færdselsloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-11-03",
+  "in_force_date": "2000-11-13",
   "url": "https://www.retsinformation.dk/eli/lta/2000/988/xml",
-  "description": "Retsinformation source. DocumentId=AR000352; AccessionNumber=B20000098805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000352; AccessionNumber=B20000098805; Ophævet 2001-11-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:41:30.530Z",
+    "accession": "B20000098805",
+    "document_id": "AR000352",
+    "unique_document_id": "21991",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-13",
+    "end_date": "2022-07-07",
+    "historic_marked": "2001-11-01",
+    "seed_status": "repealed"
+  }
 }

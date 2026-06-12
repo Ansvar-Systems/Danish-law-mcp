@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om pristillæg til elektricitet produceret af andre vedvarende energianlæg end vindmøller",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-28",
+  "in_force_date": "2010-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2010/826/xml",
-  "description": "Retsinformation source. DocumentId=BJ000301; AccessionNumber=B20100082605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BJ000301; AccessionNumber=B20100082605; Ophævet 2013-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9",
@@ -19,9 +20,20 @@
       "provision_ref": "9",
       "section": "9",
       "content": "§ 9 a. Anmodning om tilvalg af pristillæg efter § 45, stk. 3, i lov om fremme af vedvarende energi har virkning fra den første dag i en måned og indgives til Energinet.dk inden den første dag i måneden forud for den pågældende måned. Stk. 2. Anmodning om tilvalg, som påbegyndes i perioden fra den 1. juli 2008 til den 1. august 2010 incl., indgives senest den 31. juli 2010. Stk. 3. Anmodningen skal indgives på skema, som udarbejdes og offentliggøres af Energinet.dk som nævnt i § 9, stk. 6.",
-      "valid_from": "2010-06-28",
-      "valid_to": null
+      "valid_from": "2010-06-30",
+      "valid_to": "2013-12-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:31:07.361Z",
+    "accession": "B20100082605",
+    "document_id": "BJ000301",
+    "unique_document_id": "132737",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-30",
+    "end_date": "2021-01-08",
+    "historic_marked": "2013-12-16",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-06-10",
+  "in_force_date": "2024-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/689/xml",
   "description": "Retsinformation source. DocumentId=DB000891; AccessionNumber=B20240068905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse fastsætter regler for Forsvarets anvendelse af radiofrekvenser, der er afsat til eksklusiv militær anvendelse.",
-      "valid_from": "2024-06-10",
+      "valid_from": "2024-06-11",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Forsvarets anvendelse af radiofrekvenser, der er anført som eksklusivt militære i bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan), skal ske inden for rammerne af frekvensplanen.",
-      "valid_from": "2024-06-10",
+      "valid_from": "2024-06-11",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Forsvarets anvendelse af radiofrekvenser skal ske, så anvendelsen ikke forstyrrer andre brugere af radiofrekvenser uden for de i § 2 nævnte radiofrekvenser. Stk. 2. Forsvarets anvendelse af radiofrekvenser skal ske i overensstemmelse med nationale og internationale forpligtelser på frekvensområdet, herunder aftaler om international frekvenskoordinering.",
-      "valid_from": "2024-06-10",
+      "valid_from": "2024-06-11",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Forsvaret skal indberette ønsker til ændret anvendelse af radiofrekvenser som nævnt i § 2 og ophør af anvendelse af radiofrekvenser til Styrelsen for Dataforsyning og Infrastruktur.",
-      "valid_from": "2024-06-10",
+      "valid_from": "2024-06-11",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. juli 2024. Stk. 2. Bekendtgørelse nr. 874 af 4. oktober 2001 om forsvarets anvendelse af radiofrekvenser ophæves.",
-      "valid_from": "2024-06-10",
+      "valid_from": "2024-06-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:14:36.668Z",
+    "accession": "B20240068905",
+    "document_id": "DB000891",
+    "unique_document_id": "243148",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-11",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

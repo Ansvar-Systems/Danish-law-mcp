@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af sundhedsloven\\n(Udvidet behandlingsret for psykisk syge voksne)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-12",
+  "in_force_date": "2009-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/530/xml",
-  "description": "Retsinformation source. DocumentId=BK000475; AccessionNumber=A20090053030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000475; AccessionNumber=A20090053030; Ophævet 2010-07-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "87",
@@ -20,8 +21,19 @@
       "section": "87",
       "content": "§ 87 f. En person, som er henvist til psykiatrisk behandling, kan vælge at blive behandlet på et af de sygehuse eller en af de klinikker m.v., som har indgået aftale med regionsrådene efter § 87 g, stk. 1 (aftalesygehuse), hvis regionsrådet i bopælsregionen ikke, inden 2 måneder efter at henvisningen er modtaget, kan tilbyde behandling ved egne sygehuse eller et af de i § 79 nævnte sygehuse, som regionsrådet samarbejder med eller sædvanligvis benytter (samarbejdssygehuse). Stk. 2. Retten efter stk. 1 til at vælge at blive behandlet på et aftalesygehus bortfalder, hvis ventetiden til behandling på aftalesygehuset overstiger ventetiden hertil på bopælsregionens sygehuse og samarbejdssygehuse.",
       "valid_from": "2009-06-12",
-      "valid_to": null
+      "valid_to": "2010-07-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:15:44.397Z",
+    "accession": "A20090053030",
+    "document_id": "BK000475",
+    "unique_document_id": "125207",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-12",
+    "end_date": "2022-07-12",
+    "historic_marked": "2010-07-14",
+    "seed_status": "repealed"
+  }
 }

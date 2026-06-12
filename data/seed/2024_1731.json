@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1731/xml",
   "description": "Retsinformation source. DocumentId=DB001045; AccessionNumber=B20240173105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -59,5 +60,16 @@
       "definition": "en naturlig og snæver sammenhæng mellem virksomheden, jf",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:08.724Z",
+    "accession": "B20240173105",
+    "document_id": "DB001045",
+    "unique_document_id": "246530",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-30",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

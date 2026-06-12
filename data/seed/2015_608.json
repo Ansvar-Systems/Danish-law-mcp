@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af uddannelsesbekendtgørelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-03-08",
+  "in_force_date": "2015-05-06",
   "url": "https://www.retsinformation.dk/eli/lta/2015/608/xml",
-  "description": "Retsinformation source. DocumentId=CE000281; AccessionNumber=B20150060805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000281; AccessionNumber=B20150060805; Ophævet 2016-07-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11 a. Universitetet kan tillige udbyde enkeltfag fra en bacheloruddannelse med henblik på at opfylde adgangskrav på kandidatuddannelse, jf. § 10, stk. 2.",
-      "valid_from": "2015-03-08",
-      "valid_to": null
+      "valid_from": "2015-05-06",
+      "valid_to": "2016-07-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:16:04.356Z",
+    "accession": "B20150060805",
+    "document_id": "CE000281",
+    "unique_document_id": "170043",
+    "upstream_status": "Historic",
+    "start_date": "2015-05-06",
+    "end_date": "2026-06-12",
+    "historic_marked": "2016-07-06",
+    "seed_status": "repealed"
+  }
 }

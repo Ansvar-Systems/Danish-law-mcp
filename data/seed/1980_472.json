@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse vedrørende slutligning for 1980",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-10-28",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1980/472/xml",
-  "description": "Retsinformation source. DocumentId=CM020219; AccessionNumber=B19800047205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020219; AccessionNumber=B19800047205; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:03:47.789Z",
+    "accession": "B19800047205",
+    "document_id": "CM020219",
+    "unique_document_id": "61251",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1997-09-25",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

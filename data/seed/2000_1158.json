@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til plastmager",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-14",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1158/xml",
-  "description": "Retsinformation source. DocumentId=AT000569; AccessionNumber=B20000115805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000569; AccessionNumber=B20000115805; Ophævet 2005-07-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:56:49.560Z",
+    "accession": "B20000115805",
+    "document_id": "AT000569",
+    "unique_document_id": "23569",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "2005-07-28",
+    "seed_status": "repealed"
+  }
 }

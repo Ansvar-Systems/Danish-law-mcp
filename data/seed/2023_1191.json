@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-09-24",
+  "in_force_date": "2023-09-27",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1191/xml",
   "description": "Retsinformation source. DocumentId=CE001376; AccessionNumber=B20230119105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Afgørelser om tilskud til forskningsprojekter truffet af Partnerskab for børneforskning og Ph.d.-rådet for uddannelsesforskning ved Aarhus Universitet, jf. allonger til vedtægt for Aarhus Universitet, kan, for så vidt angår retlige spørgsmål, indbringes for Uddannelses- og Forskningsstyrelsen.",
-      "valid_from": "2023-09-24",
+      "valid_from": "2023-09-27",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Klager efter § 1 skal indgives skriftligt til Uddannelses- og Forskningsstyrelsen af den part, som afgørelsen vedrører.",
-      "valid_from": "2023-09-24",
+      "valid_from": "2023-09-27",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. oktober 2023.",
-      "valid_from": "2023-09-24",
+      "valid_from": "2023-09-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:21.402Z",
+    "accession": "B20230119105",
+    "document_id": "CE001376",
+    "unique_document_id": "239008",
+    "upstream_status": "Valid",
+    "start_date": "2023-09-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

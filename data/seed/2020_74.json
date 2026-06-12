@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om midlertidig videreførelse af rettigheder efter lov om kommunale og regionale valg og lov om valg af danske medlemmer til Europa-Parlamentet i forbindelse med Det Forenede Kongeriges udtræden af Den Europæiske Union",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-01-30",
+  "in_force_date": "2020-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/74/xml",
-  "description": "Retsinformation source. DocumentId=CY000156; AccessionNumber=B20200007405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CY000156; AccessionNumber=B20200007405; Ophævet 2023-12-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. Lov nr. 268 af 26. marts 2019 om midlertidig videreførelse af rettigheder efter lov om kommunale og regionale valg og lov om valg af danske medlemmer til Europa-Parlamentet i forbindelse med Det Forenede Kongeriges udtræden af Den Europæiske Union sættes i kraft.",
       "valid_from": "2020-01-30",
-      "valid_to": null
+      "valid_to": "2023-12-28"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2020.",
       "valid_from": "2020-01-30",
-      "valid_to": null
+      "valid_to": "2023-12-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:41:19.126Z",
+    "accession": "B20200007405",
+    "document_id": "CY000156",
+    "unique_document_id": "210912",
+    "upstream_status": "Historic",
+    "start_date": "2020-01-30",
+    "end_date": "2026-01-09",
+    "historic_marked": "2023-12-28",
+    "seed_status": "repealed"
+  }
 }

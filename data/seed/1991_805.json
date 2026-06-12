@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udstykningskontrollen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-12-09",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1991/805/xml",
-  "description": "Retsinformation source. DocumentId=CM013702; AccessionNumber=B19910080505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM013702; AccessionNumber=B19910080505; Ophævet 1992-06-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:02:23.932Z",
+    "accession": "B19910080505",
+    "document_id": "CM013702",
+    "unique_document_id": "54819",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2021-01-08",
+    "historic_marked": "1992-06-17",
+    "seed_status": "repealed"
+  }
 }

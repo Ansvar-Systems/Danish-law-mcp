@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Danmarks Statistik",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-12-19",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/1025/xml",
-  "description": "Retsinformation source. DocumentId=CM000171; AccessionNumber=A19920102530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000171; AccessionNumber=A19920102530; Ophævet 1995-12-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:09:47.475Z",
+    "accession": "A19920102530",
+    "document_id": "CM000171",
+    "unique_document_id": "41679",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2026-06-04",
+    "historic_marked": "1995-12-27",
+    "seed_status": "repealed"
+  }
 }

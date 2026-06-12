@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af næringslov (næringsloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-03-25",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1988/185/xml",
-  "description": "Retsinformation source. DocumentId=CM025246; AccessionNumber=A19880018529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025246; AccessionNumber=A19880018529; Ophævet 2011-06-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:01:30.689Z",
+    "accession": "A19880018529",
+    "document_id": "CM025246",
+    "unique_document_id": "66132",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2019-09-29",
+    "historic_marked": "2011-06-14",
+    "seed_status": "repealed"
+  }
 }

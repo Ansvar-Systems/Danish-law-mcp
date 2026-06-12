@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om kommunal indkomstskat",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1984-09-24",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1984/492/xml",
-  "description": "Retsinformation source. DocumentId=CM011523; AccessionNumber=A19840049229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011523; AccessionNumber=A19840049229; Ophævet 1995-11-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:42:18.163Z",
+    "accession": "A19840049229",
+    "document_id": "CM011523",
+    "unique_document_id": "52687",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2016-12-16",
+    "historic_marked": "1995-11-22",
+    "seed_status": "repealed"
+  }
 }

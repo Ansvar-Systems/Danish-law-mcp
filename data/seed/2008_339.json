@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om biavl på Læsø",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-05-07",
+  "in_force_date": "2008-05-09",
   "url": "https://www.retsinformation.dk/eli/lta/2008/339/xml",
-  "description": "Retsinformation source. DocumentId=AH002908; AccessionNumber=B20080033905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002908; AccessionNumber=B20080033905; Ophævet 2009-02-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:10:35.315Z",
+    "accession": "B20080033905",
+    "document_id": "AH002908",
+    "unique_document_id": "117018",
+    "upstream_status": "Historic",
+    "start_date": "2008-05-09",
+    "end_date": "2022-04-09",
+    "historic_marked": "2009-02-20",
+    "seed_status": "repealed"
+  }
 }

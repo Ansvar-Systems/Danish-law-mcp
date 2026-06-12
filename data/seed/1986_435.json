@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om handelsregistre, firma og prokura",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-06-24",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1986/435/xml",
-  "description": "Retsinformation source. DocumentId=CM025277; AccessionNumber=A19860043529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025277; AccessionNumber=A19860043529; Ophævet 1994-04-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:09:36.308Z",
+    "accession": "A19860043529",
+    "document_id": "CM025277",
+    "unique_document_id": "66163",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1994-04-15",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-03-07",
+  "in_force_date": "2018-03-10",
   "url": "https://www.retsinformation.dk/eli/lta/2018/189/xml",
   "description": "Retsinformation source. DocumentId=AK001326; AccessionNumber=B20180018905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne i denne bekendtgørelse gælder for kommuner og regioners aflevering af papirarkivalier og arkiveringsversioner af digitale arkivalier til Rigsarkivet.",
-      "valid_from": "2018-03-07",
+      "valid_from": "2018-03-10",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Rigsarkivet opkræver vederlag for opbevaring af kommunale og regionale arkivalier. Stk. 2. Vederlaget for opbevaring af papirarkivalier beregnes pr. hyldemeter arkivalier, som afleveres til Rigsarkivet, samt pr. time, anvendt til administration, sagsbehandling og modtagelse i forbindelse med afleveringen. Stk. 3. Vederlaget for opbevaring af arkiveringsversioner af digitale arkivalier beregnes pr. GB data, som afleveres til Rigsarkivet, samt pr. time, anvendt til administration, sagsbehandling og modtagelse, herunder test af arkiveringsversioner i forbindelse med afleveringen.",
-      "valid_from": "2018-03-07",
+      "valid_from": "2018-03-10",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "3",
       "section": "3",
       "content": "§ 3. Vederlaget reguleres årligt. Reguleringen sker efter Danmarks Statistiks nettoprisindeks for september måned. Stk. 2. Første regulering vil finde sted pr. 1. januar 2019.",
-      "valid_from": "2018-03-07",
+      "valid_from": "2018-03-10",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 15. marts 2018 . Stk. 2. Bekendtgørelse nr. 1036 af 22. oktober 2004 om vederlag for opbevaring af kommunale arkivalier i Statens Arkiver ophæves. Stk. 3. For kommunale og regionale arkiveringsversioner, som er afleveret og godkendt før 1. januar 2018, vil der i 2018 blive opkrævet en afsluttende éngangsbetaling.",
-      "valid_from": "2018-03-07",
+      "valid_from": "2018-03-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:55:39.266Z",
+    "accession": "B20180018905",
+    "document_id": "AK001326",
+    "unique_document_id": "199888",
+    "upstream_status": "Valid",
+    "start_date": "2018-03-10",
+    "end_date": "2018-03-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

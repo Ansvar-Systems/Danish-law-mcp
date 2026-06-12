@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om elektronisk afregning med offentlige myndigheder",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-10-07",
+  "in_force_date": "2004-10-08",
   "url": "https://www.retsinformation.dk/eli/lta/2004/991/xml",
-  "description": "Retsinformation source. DocumentId=AE000878; AccessionNumber=B20040099105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000878; AccessionNumber=B20040099105; Ophævet 2011-03-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:48:30.165Z",
+    "accession": "B20040099105",
+    "document_id": "AE000878",
+    "unique_document_id": "5749",
+    "upstream_status": "Historic",
+    "start_date": "2004-10-08",
+    "end_date": "2011-03-16",
+    "historic_marked": "2011-03-15",
+    "seed_status": "repealed"
+  }
 }

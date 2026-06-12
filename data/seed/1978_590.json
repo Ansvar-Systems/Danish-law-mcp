@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om tipning",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-11-29",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1978/590/xml",
-  "description": "Retsinformation source. DocumentId=CM022668; AccessionNumber=A19780059030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022668; AccessionNumber=A19780059030; Ophævet 1989-04-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:05:37.715Z",
+    "accession": "A19780059030",
+    "document_id": "CM022668",
+    "unique_document_id": "63648",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-27",
+    "historic_marked": "1989-04-10",
+    "seed_status": "repealed"
+  }
 }

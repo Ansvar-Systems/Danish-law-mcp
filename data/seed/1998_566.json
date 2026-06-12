@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af visse flyrejser",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-08-03",
+  "in_force_date": "1998-08-14",
   "url": "https://www.retsinformation.dk/eli/lta/1998/566/xml",
-  "description": "Retsinformation source. DocumentId=AN000018; AccessionNumber=A19980056629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000018; AccessionNumber=A19980056629; Ophævet 2005-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:50:16.348Z",
+    "accession": "A19980056629",
+    "document_id": "AN000018",
+    "unique_document_id": "13197",
+    "upstream_status": "Historic",
+    "start_date": "1998-08-14",
+    "end_date": "2023-01-28",
+    "historic_marked": "2005-12-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forsikringsvirksomhed",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-06-16",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1992/511/xml",
-  "description": "Retsinformation source. DocumentId=CM025290; AccessionNumber=A19920051129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025290; AccessionNumber=A19920051129; Ophævet 1993-08-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:33:01.869Z",
+    "accession": "A19920051129",
+    "document_id": "CM025290",
+    "unique_document_id": "66176",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1993-08-20",
+    "seed_status": "repealed"
+  }
 }

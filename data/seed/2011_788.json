@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om betaling for kontrol af foder og foderstofvirksomheder\\n(Gebyrer vedr. auditering ved tredjepart)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-06-28",
+  "in_force_date": "2011-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2011/788/xml",
-  "description": "Retsinformation source. DocumentId=AH004289; AccessionNumber=B20110078805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004289; AccessionNumber=B20110078805; Ophævet 2011-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15",
@@ -19,9 +20,20 @@
       "provision_ref": "15",
       "section": "15",
       "content": "§ 15 a. Akkrediterede kontrolorganer, der efter kapitel 10 i bekendtgørelse om foder og foderstofvirksomheder ansøger Plantedirektoratet om godkendelse til at varetage direktoratets varslede kontrol (audit) af en foderstofvirksomheds kvalitetsstyringssystem, skal betale for Plantedirektoratets tidsforbrug, jf. bilag 1, D, i forbindelse med Plantedirektoratets behandling af ansøgningen.",
-      "valid_from": "2011-06-28",
-      "valid_to": null
+      "valid_from": "2011-06-30",
+      "valid_to": "2011-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:21:21.000Z",
+    "accession": "B20110078805",
+    "document_id": "AH004289",
+    "unique_document_id": "137912",
+    "upstream_status": "Historic",
+    "start_date": "2011-06-30",
+    "end_date": "2022-04-08",
+    "historic_marked": "2011-12-21",
+    "seed_status": "repealed"
+  }
 }

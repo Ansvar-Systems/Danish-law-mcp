@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om straffebestemmelser for overtrædelse af fødevareforordningen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-14",
+  "in_force_date": "2004-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1287/xml",
-  "description": "Retsinformation source. DocumentId=BG000089; AccessionNumber=B20040128705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000089; AccessionNumber=B20040128705; Ophævet 2021-05-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:04:30.283Z",
+    "accession": "B20040128705",
+    "document_id": "BG000089",
+    "unique_document_id": "31411",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-22",
+    "end_date": "2022-04-09",
+    "historic_marked": "2021-05-20",
+    "seed_status": "repealed"
+  }
 }

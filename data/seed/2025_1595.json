@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-12-08",
+  "in_force_date": "2025-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1595/xml",
   "description": "Retsinformation source. DocumentId=CS002155; AccessionNumber=B20250159505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Flygtninge og andre, der har ophold i kommunernes midlertidige indkvarteringer, skal betale leje- og forbrugsudgifter for opholdet. Den maksimale månedlige betaling kan i perioden fra den 1. januar 2026 til den 31. december 2026 højst udgøre følgende beløb: 1) Enlige med og uden børn 2.757 kr. 2) Par uden børn 5.050 kr. 3) Par med et, to eller tre børn 5.509 kr. 4) Par med fire eller flere børn 5.970 kr. Stk. 2. Betalingen forfalder den første dag i måneden. Er denne dag en helligdag eller en lørdag, udskydes forfaldsdagen til den efterfølgende hverdag. Betalingen anses for rettidig, når den sker senest 3. hverdag efter forfaldsdagen. Er denne hverdag en lørdag, er betaling den følgende hverdag rettidig.",
-      "valid_from": "2025-12-08",
+      "valid_from": "2025-12-11",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2026. Stk. 2. Bekendtgørelse nr. 1554 af 5. december 2024 om flygtninge og andres betaling for ophold i midlertidige indkvarteringer og opholdssteder i 2025 ophæves.",
-      "valid_from": "2025-12-08",
+      "valid_from": "2025-12-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:51:25.418Z",
+    "accession": "B20250159505",
+    "document_id": "CS002155",
+    "unique_document_id": "254216",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-11",
+    "end_date": "2026-05-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

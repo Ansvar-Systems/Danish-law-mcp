@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om konkurrence- og forbrugerforhold på telemarkedet",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/418/xml",
-  "description": "Retsinformation source. DocumentId=AF000160; AccessionNumber=A20000041830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000160; AccessionNumber=A20000041830; Ophævet 2003-07-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:18:33.423Z",
+    "accession": "A20000041830",
+    "document_id": "AF000160",
+    "unique_document_id": "6191",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2026-06-04",
+    "historic_marked": "2003-07-21",
+    "seed_status": "repealed"
+  }
 }

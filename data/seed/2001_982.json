@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om værnepligtsorlov og om orlov til FN-tjeneste mv.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-11-20",
+  "in_force_date": "2001-12-03",
   "url": "https://www.retsinformation.dk/eli/lta/2001/982/xml",
-  "description": "Retsinformation source. DocumentId=AB001213; AccessionNumber=A20010098229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001213; AccessionNumber=A20010098229; Ophævet 2011-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:21:42.222Z",
+    "accession": "A20010098229",
+    "document_id": "AB001213",
+    "unique_document_id": "3817",
+    "upstream_status": "Historic",
+    "start_date": "2001-12-03",
+    "end_date": "2011-08-25",
+    "historic_marked": "2011-04-14",
+    "seed_status": "repealed"
+  }
 }

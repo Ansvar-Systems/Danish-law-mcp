@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Det Centrale Virksomhedsregister og data.virk.dk",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-12",
+  "in_force_date": "2019-12-14",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1379/xml",
-  "description": "Retsinformation source. DocumentId=CQ001076; AccessionNumber=B20190137905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001076; AccessionNumber=B20190137905; Ophævet 2020-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11a",
@@ -19,9 +20,20 @@
       "provision_ref": "11a",
       "section": "11a",
       "content": "§ 11 a. Oplysningerne om antallet af ansatte og antal årsværk i Det Centrale Virksomhedsregister og i Erhvervsstyrelsens øvrige distributionsløsninger, som kan tilgås via data.virk.dk, er opgjort månedsvis. Med antal årsværk menes antallet af ansatte opgjort som fuldtidsbeskæftigede i enheden i den givne periode.",
-      "valid_from": "2019-12-12",
-      "valid_to": null
+      "valid_from": "2019-12-14",
+      "valid_to": "2020-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:43:40.448Z",
+    "accession": "B20190137905",
+    "document_id": "CQ001076",
+    "unique_document_id": "211711",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-14",
+    "end_date": "2020-12-22",
+    "historic_marked": "2020-12-21",
+    "seed_status": "repealed"
+  }
 }

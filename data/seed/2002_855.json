@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til teknisk designer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-21",
+  "in_force_date": "2002-10-28",
   "url": "https://www.retsinformation.dk/eli/lta/2002/855/xml",
-  "description": "Retsinformation source. DocumentId=AT001130; AccessionNumber=B20020085505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001130; AccessionNumber=B20020085505; Ophævet 2008-03-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:01:01.487Z",
+    "accession": "B20020085505",
+    "document_id": "AT001130",
+    "unique_document_id": "24004",
+    "upstream_status": "Historic",
+    "start_date": "2002-10-28",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-03-04",
+    "seed_status": "repealed"
+  }
 }

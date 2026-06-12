@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af skattekontrolloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-01-11",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/28/xml",
-  "description": "Retsinformation source. DocumentId=CM021897; AccessionNumber=A19880002829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM021897; AccessionNumber=A19880002829; Ophævet 1990-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:04:59.381Z",
+    "accession": "A19880002829",
+    "document_id": "CM021897",
+    "unique_document_id": "62877",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1990-12-18",
+    "seed_status": "repealed"
+  }
 }

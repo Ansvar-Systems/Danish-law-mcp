@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2021-02-27",
+  "in_force_date": "2021-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2021/285/xml",
   "description": "Retsinformation source. DocumentId=DI000045; AccessionNumber=A20210028530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1039,5 +1040,16 @@
       "definition": "en sygdom eller en tilstand, som er forårsaget af mikroorganismer eller andre smitstoffer, som kan overføres fra, til eller imellem mennesker",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:32:41.010Z",
+    "accession": "A20210028530",
+    "document_id": "DI000045",
+    "unique_document_id": "221207",
+    "upstream_status": "Valid",
+    "start_date": "2021-02-27",
+    "end_date": "2026-05-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

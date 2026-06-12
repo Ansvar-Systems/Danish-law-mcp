@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2009-12-09",
+  "in_force_date": "2009-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1413/xml",
   "description": "Retsinformation source. DocumentId=BM000275; AccessionNumber=B20090141305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. I nye afdelinger træffes afdelingens beslutning i henhold til § 2, stk. 1 og 2, på første afdelingsmøde.",
-      "valid_from": "2009-12-09",
+      "valid_from": "2009-12-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:54:24.690Z",
+    "accession": "B20090141305",
+    "document_id": "BM000275",
+    "unique_document_id": "128943",
+    "upstream_status": "Valid",
+    "start_date": "2009-12-22",
+    "end_date": "2023-04-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

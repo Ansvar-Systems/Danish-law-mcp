@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om politimestrenes og statsadvokaternes adgang til at frafalde tiltale",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-28",
+  "in_force_date": "2013-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2013/861/xml",
-  "description": "Retsinformation source. DocumentId=AA007221; AccessionNumber=B20130086105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007221; AccessionNumber=B20130086105; Ophævet 2016-03-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1 a. Politidirektørerne kan i medfør af retsplejelovens § 722 frafalde tiltale i sager om overtrædelse af straffelovens § 222, stk. 1, 1. pkt., og § 225, jf. § 222, stk. 1, 1. pkt., når det på baggrund af oplysningerne om sigtedes og forurettedes udvikling og alder samt deres indbyrdes aldersforskel må antages, at der har været tale om et fuldt ud frivilligt seksuelt forhold, og forholdet mellem parterne i øvrigt må anses for tilstrækkeligt jævnbyrdigt. Stk. 2. Tiltalefrafald efter stk. 1 kan ikke meddeles, hvis forurettede er under 12 år, eller hvis sigtede er fyldt 22 år.",
-      "valid_from": "2013-06-28",
-      "valid_to": null
+      "valid_from": "2013-06-29",
+      "valid_to": "2016-03-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:21:29.154Z",
+    "accession": "B20130086105",
+    "document_id": "AA007221",
+    "unique_document_id": "152681",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-29",
+    "end_date": "2017-05-19",
+    "historic_marked": "2016-03-18",
+    "seed_status": "repealed"
+  }
 }

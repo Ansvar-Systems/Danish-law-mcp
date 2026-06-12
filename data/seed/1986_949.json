@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om dagpenge ved sygdom eller fødsel",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-12-23",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/949/xml",
-  "description": "Retsinformation source. DocumentId=CM012638; AccessionNumber=A19860094929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012638; AccessionNumber=A19860094929; Ophævet 1989-04-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:26:40.800Z",
+    "accession": "A19860094929",
+    "document_id": "CM012638",
+    "unique_document_id": "53773",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2013-11-20",
+    "historic_marked": "1989-04-11",
+    "seed_status": "repealed"
+  }
 }

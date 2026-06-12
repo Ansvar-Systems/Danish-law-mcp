@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fiskeredskaber (bundgarn mv.) i saltvand",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-29",
+  "in_force_date": "2004-07-08",
   "url": "https://www.retsinformation.dk/eli/lta/2004/706/xml",
-  "description": "Retsinformation source. DocumentId=AH001816; AccessionNumber=B20040070605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001816; AccessionNumber=B20040070605; Ophævet 2015-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:36:58.959Z",
+    "accession": "B20040070605",
+    "document_id": "AH001816",
+    "unique_document_id": "8019",
+    "upstream_status": "Historic",
+    "start_date": "2004-07-08",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-14",
+    "seed_status": "repealed"
+  }
 }

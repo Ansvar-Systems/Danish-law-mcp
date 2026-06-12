@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Familieretshusets behandling af sager om udstedelse af erklæringer vedrørende børne- og ungeydelser",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-12-16",
+  "in_force_date": "2025-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1684/xml",
-  "description": "Retsinformation source. DocumentId=DH002827; AccessionNumber=B20250168405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DH002827; AccessionNumber=B20250168405; Ophævet 2026-02-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ved modtagelse af en anmodning om udstedelse af en erklæring efter § 44 b i forældreansvarsloven anmoder Familieretshuset den anden forældremyndighedsindehaver om at oplyse, om denne er enig i, at barnet aktuelt opholder sig mindst 9 ud af 14 dage hos ansøgeren, eller at barnet aktuelt ikke længere opholder sig mindst 9 ud af 14 dage hos den anden forældremyndighedsindehaver. Familieretshusets anmodning skal indeholde vejledning om betingelserne for at udstede erklæringen. Stk. 2. Hvis den anden forældremyndighedsindehaver ikke svarer på anmodningen, jf. stk. 1, sender Familieretshuset en ny anmodning til denne forældremyndighedsindehaver med tilkendegivelse af, at Familieretshuset agter at udstede erklæringen på det foreliggende grundlag, medmindre forældremyndighedsindehaveren protesterer mod ansøgerens oplysninger om omfanget af barnets ophold hos forældremyndighedsindehaverne. Stk. 3. Svarfristerne i anmodningerne til den anden forældremyndighedsindehaver, jf. stk. 1 og 2, skal være mindst 10 dage. Der fastsættes en længere svarfrist, hvis den anden forældremyndighedsindehaver ikke bor eller opholder sig i Danmark.",
-      "valid_from": "2025-12-16",
-      "valid_to": null
+      "valid_from": "2025-12-17",
+      "valid_to": "2026-02-23"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2026.",
-      "valid_from": "2025-12-16",
-      "valid_to": null
+      "valid_from": "2025-12-17",
+      "valid_to": "2026-02-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:55:40.342Z",
+    "accession": "B20250168405",
+    "document_id": "DH002827",
+    "unique_document_id": "253878",
+    "upstream_status": "Historic",
+    "start_date": "2025-12-17",
+    "end_date": "2026-02-24",
+    "historic_marked": "2026-02-23",
+    "seed_status": "repealed"
+  }
 }

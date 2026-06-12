@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-05-22",
+  "in_force_date": "2017-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2017/535/xml",
   "description": "Retsinformation source. DocumentId=CQ000163; AccessionNumber=B20170053505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 230 af 7. marts 2017 om anvendelse af administrative bødeforlæg ved overtrædelse af markedsføringsloven eller regler i medfør heraf ophæves.",
-      "valid_from": "2017-05-22",
+      "valid_from": "2017-05-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2017.",
-      "valid_from": "2017-05-22",
+      "valid_from": "2017-05-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:22:24.471Z",
+    "accession": "B20170053505",
+    "document_id": "CQ000163",
+    "unique_document_id": "191323",
+    "upstream_status": "Valid",
+    "start_date": "2017-05-30",
+    "end_date": "2017-05-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

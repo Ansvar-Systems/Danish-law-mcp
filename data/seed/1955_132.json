@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om straf for folkedrab.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1955-04-29",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1955/132/xml",
-  "description": "Retsinformation source. DocumentId=CM018258; AccessionNumber=A19550013230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018258; AccessionNumber=A19550013230; Ophævet 2024-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:59:33.103Z",
+    "accession": "A19550013230",
+    "document_id": "CM018258",
+    "unique_document_id": "59306",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2024-12-31",
+    "historic_marked": "2024-12-30",
+    "seed_status": "repealed"
+  }
 }

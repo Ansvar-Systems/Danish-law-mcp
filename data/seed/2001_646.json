@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om godkendelse af listevirksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-29",
+  "in_force_date": "2001-07-12",
   "url": "https://www.retsinformation.dk/eli/lta/2001/646/xml",
-  "description": "Retsinformation source. DocumentId=AL000699; AccessionNumber=B20010064605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000699; AccessionNumber=B20010064605; Ophævet 2003-07-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:08:19.205Z",
+    "accession": "B20010064605",
+    "document_id": "AL000699",
+    "unique_document_id": "12480",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-12",
+    "end_date": "2022-04-09",
+    "historic_marked": "2003-07-17",
+    "seed_status": "repealed"
+  }
 }

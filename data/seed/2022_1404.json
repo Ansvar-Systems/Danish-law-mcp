@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2022-10-03",
+  "in_force_date": "2022-10-12",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1404/xml",
   "description": "Retsinformation source. DocumentId=AK002062; AccessionNumber=B20220140405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "16",
       "section": "16",
       "content": "§ 16. Slots- og Kulturstyrelsens afgørelser i henhold til denne bekendtgørelse kan påklages til Kulturministeriet.",
-      "valid_from": "2022-10-03",
+      "valid_from": "2022-10-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:17:49.409Z",
+    "accession": "B20220140405",
+    "document_id": "AK002062",
+    "unique_document_id": "233360",
+    "upstream_status": "Valid",
+    "start_date": "2022-10-12",
+    "end_date": "2022-10-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

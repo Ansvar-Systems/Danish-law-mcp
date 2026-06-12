@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om køb på kredit (Kreditkøbsloven)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-10-17",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/687/xml",
-  "description": "Retsinformation source. DocumentId=CM018432; AccessionNumber=A19860068730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018432; AccessionNumber=A19860068730; Ophævet 1990-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:17:56.228Z",
+    "accession": "A19860068730",
+    "document_id": "CM018432",
+    "unique_document_id": "59478",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1990-08-30",
+    "seed_status": "repealed"
+  }
 }

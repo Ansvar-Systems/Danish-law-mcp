@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forurenet jord",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/370/xml",
-  "description": "Retsinformation source. DocumentId=AL000224; AccessionNumber=A19990037030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000224; AccessionNumber=A19990037030; Ophævet 2007-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:25:22.780Z",
+    "accession": "A19990037030",
+    "document_id": "AL000224",
+    "unique_document_id": "12195",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "2007-03-29",
+    "seed_status": "repealed"
+  }
 }

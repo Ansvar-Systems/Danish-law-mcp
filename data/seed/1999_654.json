@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om beskatningen af pensionsordninger",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-08-12",
+  "in_force_date": "1999-08-23",
   "url": "https://www.retsinformation.dk/eli/lta/1999/654/xml",
-  "description": "Retsinformation source. DocumentId=AN000493; AccessionNumber=B19990065405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000493; AccessionNumber=B19990065405; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:36:43.091Z",
+    "accession": "B19990065405",
+    "document_id": "AN000493",
+    "unique_document_id": "13475",
+    "upstream_status": "Historic",
+    "start_date": "1999-08-23",
+    "end_date": "2001-10-11",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

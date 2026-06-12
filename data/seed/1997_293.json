@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om overdragelse af Aalborg og Odense Lufthavne",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-04-28",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1997/293/xml",
-  "description": "Retsinformation source. DocumentId=CM043992; AccessionNumber=A19970029330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043992; AccessionNumber=A19970029330; Ophævet 2025-06-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:00:12.775Z",
+    "accession": "A19970029330",
+    "document_id": "CM043992",
+    "unique_document_id": "84558",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-06-05",
+    "historic_marked": "2025-06-04",
+    "seed_status": "repealed"
+  }
 }

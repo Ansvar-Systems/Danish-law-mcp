@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-06-06",
+  "in_force_date": "2018-06-13",
   "url": "https://www.retsinformation.dk/eli/lta/2018/766/xml",
   "description": "Retsinformation source. DocumentId=CT000404; AccessionNumber=B20180076605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Aftale mellem Færøernes landsstyre og Danmarks regering om samarbejde om adoption, jf. bilag 1, gælder her i landet.",
-      "valid_from": "2018-06-06",
+      "valid_from": "2018-06-13",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 29. juli 2018.",
-      "valid_from": "2018-06-06",
+      "valid_from": "2018-06-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:18:58.971Z",
+    "accession": "B20180076605",
+    "document_id": "CT000404",
+    "unique_document_id": "201611",
+    "upstream_status": "Valid",
+    "start_date": "2018-06-13",
+    "end_date": "2024-05-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

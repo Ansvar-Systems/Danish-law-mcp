@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2024-03-18",
+  "in_force_date": "2024-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2024/267/xml",
   "description": "Retsinformation source. DocumentId=AA014130; AccessionNumber=B20240026705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. §§ 1-3 i lov nr. 1553 af 12. december 2023 om ændring af selskabsloven, lov om skifte af dødsboer, værgemålsloven, retsplejeloven og forskellige andre love (Digital behandling af tvangsopløsningssager og dødsboskiftesager, øget antal byretsdommere, anerkendelse af juridiske eksamener fra Det Forenede Kongerige Storbritannien og Nor‍dirland, terminaladgang til indkomstregisteret for Familier‍etshuset i værgemålssager m.v.) sættes i kraft.",
-      "valid_from": "2024-03-18",
+      "valid_from": "2024-03-19",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 17. april 2024.",
-      "valid_from": "2024-03-18",
+      "valid_from": "2024-03-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:57:39.520Z",
+    "accession": "B20240026705",
+    "document_id": "AA014130",
+    "unique_document_id": "242398",
+    "upstream_status": "Valid",
+    "start_date": "2024-03-19",
+    "end_date": "2025-04-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

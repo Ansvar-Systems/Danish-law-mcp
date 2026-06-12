@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven (* 1) (* 2) (Periodisk syn af almindelige personbiler)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-05-18",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1994/382/xml",
-  "description": "Retsinformation source. DocumentId=CM010194; AccessionNumber=A19940038230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010194; AccessionNumber=A19940038230; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:53:35.323Z",
+    "accession": "A19940038230",
+    "document_id": "CM010194",
+    "unique_document_id": "51368",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Københavns Fondsbørs (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-06-04",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1986/316/xml",
-  "description": "Retsinformation source. DocumentId=CM025470; AccessionNumber=A19860031630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025470; AccessionNumber=A19860031630; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:06:41.095Z",
+    "accession": "A19860031630",
+    "document_id": "CM025470",
+    "unique_document_id": "66347",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-28",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

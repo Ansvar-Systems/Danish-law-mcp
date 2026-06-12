@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 064 for tjeneste- og teknologineutrale elektroniske kommunikationstjenester i frekvensbåndet 3400-3800 MHz",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-15",
+  "in_force_date": "2010-01-20",
   "url": "https://www.retsinformation.dk/eli/lta/2010/55/xml",
-  "description": "Retsinformation source. DocumentId=BD000530; AccessionNumber=B20100005505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000530; AccessionNumber=B20100005505; Ophævet 2015-06-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For tjeneste- og teknologineutrale elektroniske kommunikationstjenester i frekvensbåndet 3400-3800 MHz gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 064 for tjeneste- og teknologineutrale elektroniske kommunikationstjenester i frekvensbåndet 3400-3800 MHz.",
-      "valid_from": "2010-01-15",
-      "valid_to": null
+      "valid_from": "2010-01-20",
+      "valid_to": "2015-06-03"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 27. januar 2010.",
-      "valid_from": "2010-01-15",
-      "valid_to": null
+      "valid_from": "2010-01-20",
+      "valid_to": "2015-06-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:19:57.378Z",
+    "accession": "B20100005505",
+    "document_id": "BD000530",
+    "unique_document_id": "128225",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-20",
+    "end_date": "2026-06-04",
+    "historic_marked": "2015-06-03",
+    "seed_status": "repealed"
+  }
 }

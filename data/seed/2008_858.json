@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om klageadgang efter lov om forskningsrådgivning m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-08-25",
+  "in_force_date": "2008-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2008/858/xml",
-  "description": "Retsinformation source. DocumentId=BD000446; AccessionNumber=B20080085805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000446; AccessionNumber=B20080085805; Ophævet 2013-02-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Kun klager over retlige spørgsmål i forbindelse med afgørelser truffet af de faglige forskningsråd, af programkomiteer, af Kommissionen for Videnskabelige Undersøgelser i Grønland eller af den instans, som forskningsrådene eller programkomiteerne har delegeret bevillingskompetencen til, kan indbringes for ministeren for videnskab, teknologi og udvikling af den, som afgørelsen vedrører. Stk. 2. Klagen indgives til ministeren senest 4 uger efter, at afgørelsen er meddelt den pågældende.",
-      "valid_from": "2008-08-25",
-      "valid_to": null
+      "valid_from": "2008-08-29",
+      "valid_to": "2013-02-07"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. september 2008.",
-      "valid_from": "2008-08-25",
-      "valid_to": null
+      "valid_from": "2008-08-29",
+      "valid_to": "2013-02-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:31:43.943Z",
+    "accession": "B20080085805",
+    "document_id": "BD000446",
+    "unique_document_id": "121093",
+    "upstream_status": "Historic",
+    "start_date": "2008-08-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-02-07",
+    "seed_status": "repealed"
+  }
 }

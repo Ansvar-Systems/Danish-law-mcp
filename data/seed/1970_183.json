@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om ejendomsskyld til staten.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1970-04-30",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1970/183/xml",
-  "description": "Retsinformation source. DocumentId=CM021922; AccessionNumber=A19700018329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM021922; AccessionNumber=A19700018329; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:19:17.911Z",
+    "accession": "A19700018329",
+    "document_id": "CM021922",
+    "unique_document_id": "62902",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1997-09-25",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -5,9 +5,21 @@
   "short_name": "Lov",
   "status": "in_force",
   "issued_date": "1999-04-07",
+  "in_force_date": "1999-04-07",
   "url": "https://www.retsinformation.dk/eli/lta/1999/199/xml",
   "description": "Retsinformation source. DocumentId=AH000214; AccessionNumber=A19990019930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:18:33.102Z",
+    "accession": "A19990019930",
+    "document_id": "AH000214",
+    "unique_document_id": "6655",
+    "upstream_status": "Valid",
+    "start_date": "1999-04-07",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

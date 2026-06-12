@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om offentlig fiskeauktion",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-09",
+  "in_force_date": "2009-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1191/xml",
-  "description": "Retsinformation source. DocumentId=AH003531; AccessionNumber=B20090119105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003531; AccessionNumber=B20090119105; Ophævet 2015-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3 a. Fiskeridirektoratet træffer afgørelse om bevilling til afholdelse af offentlig fiskeauktion senest 4 uger efter modtagelse af ansøgningen og al nødvendig dokumentation, jf. dog stk. 2. Stk. 2. Fristen kan forlænges én gang, hvis sagens kompleksitet berettiger det. Fiskeridirektoratet begrunder forlængelsen og varigheden af forlængelsen og meddeler dette til ansøgeren inden udløbet af fristen i stk. 1. Stk. 3. Afholdelse af offentlig fiskeauktion må ikke påbegyndes, før der er modtaget bevilling hertil fra Fiskeridirektoratet. Stk. 4. Når Fiskeridirektoratet har modtaget en ansøgning om bevilling til afholdelse af offentlig fiskeauktion, sender direktoratet en kvittering til ansøgeren med oplysning om 1) sagsbehandlingsfristen, 2) at ansøgeren ikke må afholde offentlig fiskeauktion, før der er modtaget bevilling hertil fra Fiskeridirektoratet og 3) klagemuligheder.",
-      "valid_from": "2009-12-09",
-      "valid_to": null
+      "valid_from": "2009-12-10",
+      "valid_to": "2015-12-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:45:20.744Z",
+    "accession": "B20090119105",
+    "document_id": "AH003531",
+    "unique_document_id": "128729",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-10",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-14",
+    "seed_status": "repealed"
+  }
 }

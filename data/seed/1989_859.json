@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Statens Uddannelsesstøtte",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-20",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/859/xml",
-  "description": "Retsinformation source. DocumentId=CM034163; AccessionNumber=A19890085930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034163; AccessionNumber=A19890085930; Ophævet 1990-02-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:59:04.975Z",
+    "accession": "A19890085930",
+    "document_id": "CM034163",
+    "unique_document_id": "74958",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "1990-02-20",
+    "seed_status": "repealed"
+  }
 }

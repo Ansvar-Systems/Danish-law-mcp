@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om udstedelse af lodscertifikat og lodsfritagelsesbevis",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-19",
+  "in_force_date": "2010-03-24",
   "url": "https://www.retsinformation.dk/eli/lta/2010/252/xml",
-  "description": "Retsinformation source. DocumentId=AG000418; AccessionNumber=B20100025205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000418; AccessionNumber=B20100025205; Ophævet 2012-11-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "26",
@@ -19,9 +20,20 @@
       "provision_ref": "26",
       "section": "26",
       "content": "§ 26 b. Lodstilsynet træffer afgørelse om udstedelse af lodscertifikat senest 14 dage efter modtagelsen af ansøgningen og alle nødvendige dokumenter, jf. dog stk. 2. Stk. 2. Fristen i stk. 1 kan forlænges én gang, hvis sagens kompleksitet berettiger til det. Lodstilsynet begrunder forlængelsen og varigheden af forlængelsen og meddeler dette til ansøgeren inden udløbet af fristen i stk. 1. Stk. 3. Ansøgeren må ikke udføre opgaver eller agere som lods, før Lodstilsynet har udstedt lodscertifikat til vedkommende. Stk. 4. Når Lodstilsynet modtager en ansøgning om lodscertifikat, sendes en kvittering til ansøgeren med oplysninger om sagsbehandlingsfristen jf. stk. 1, om at ansøgeren ikke kan betragte tilladelsen til at agere som lods som givet, før lodscertifikatet er udstedt jf. stk. 3, og om klagemuligheder.",
-      "valid_from": "2010-03-19",
-      "valid_to": null
+      "valid_from": "2010-03-24",
+      "valid_to": "2012-11-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:07:55.874Z",
+    "accession": "B20100025205",
+    "document_id": "AG000418",
+    "unique_document_id": "130731",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-24",
+    "end_date": "2026-02-20",
+    "historic_marked": "2012-11-22",
+    "seed_status": "repealed"
+  }
 }

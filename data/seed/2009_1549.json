@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om virksomheder, der foretager omsyn af køretøjer (Omsynsvirksomheder)\\n(Indsættelse af bestemmelser om oplysningspligt, sagsbehandlingstider og kvittering med henblik på gennemførelse af servicedirektivet)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-18",
+  "in_force_date": "2010-01-05",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1549/xml",
-  "description": "Retsinformation source. DocumentId=BL000251; AccessionNumber=B20090154905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000251; AccessionNumber=B20090154905; Ophævet 2013-05-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3 b. Færdselsstyrelsen skal hurtigst muligt kvittere for modtagelsen af en ansøgning om tilladelse til at foretage omsyn af køretøjer. Kvitteringen skal indeholde følgende oplysninger: 1) Den offentliggjorte frist for behandlingen af den pågældende ansøgning og muligheden for, at fristen kan blive forlænget én gang, jf. § 3 a, stk. 1 og stk. 2, 2) oplysning om de administrative klagemuligheder for den pågældende afgørelse.",
-      "valid_from": "2009-12-18",
-      "valid_to": null
+      "valid_from": "2010-01-05",
+      "valid_to": "2013-05-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:59:58.720Z",
+    "accession": "B20090154905",
+    "document_id": "BL000251",
+    "unique_document_id": "129551",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-05",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-05-08",
+    "seed_status": "repealed"
+  }
 }

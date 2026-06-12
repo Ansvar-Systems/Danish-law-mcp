@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om social pension",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-12-15",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/901/xml",
-  "description": "Retsinformation source. DocumentId=CM012632; AccessionNumber=A19860090129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012632; AccessionNumber=A19860090129; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:25:19.426Z",
+    "accession": "A19860090129",
+    "document_id": "CM012632",
+    "unique_document_id": "53767",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-12-14",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

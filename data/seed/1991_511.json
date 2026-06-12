@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Statens Uddannelsesstøtte",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-28",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1991/511/xml",
-  "description": "Retsinformation source. DocumentId=CM033976; AccessionNumber=A19910051129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM033976; AccessionNumber=A19910051129; Ophævet 1992-01-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:50:41.046Z",
+    "accession": "A19910051129",
+    "document_id": "CM033976",
+    "unique_document_id": "74771",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "1992-01-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sagsudlægning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-06-17",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/527/xml",
-  "description": "Retsinformation source. DocumentId=CM040973; AccessionNumber=B19960052705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040973; AccessionNumber=B19960052705; Ophævet 1997-08-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:28:22.418Z",
+    "accession": "B19960052705",
+    "document_id": "CM040973",
+    "unique_document_id": "81667",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-04-23",
+    "historic_marked": "1997-08-18",
+    "seed_status": "repealed"
+  }
 }

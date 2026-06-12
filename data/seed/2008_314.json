@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forbud mod erhvervsmæssig indførsel og produktion af samt handel med skind og skindprodukter fra hunde og katte\\n(Straf for overtrædelse af EU-regler om forbud mod markedsføring m.v. af pelsskind fra hunde og katte)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-04-30",
+  "in_force_date": "2008-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2008/314/xml",
-  "description": "Retsinformation source. DocumentId=AA004328; AccessionNumber=A20080031430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA004328; AccessionNumber=A20080031430; Ophævet 2013-03-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -20,8 +21,19 @@
       "section": "2",
       "content": "§ 2. Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der overtræder: 1) § 1, stk. 1, eller 2) artikel 3 i Europa-Parlamentets og Rådets forordning om forbud mod markedsføring og indførsel i og udførsel fra Fællesskabet af pelsskind fra hunde og katte samt produkter, hvori sådanne pelsskind indgår. Stk. 2. Forsøg på overtrædelser omfattet af stk. 1 kan straffes. Stk. 3. Er overtrædelsen begået forsætligt eller groft uagtsomt, kan straffen under skærpende omstændigheder stige til fængsel i 4 måneder. Stk. 4. I forskrifter, der udstedes i medfør af § 1, stk. 2, kan der fastsættes straf af bøde eller, under skærpende omstændigheder og når overtrædelsen er begået forsætligt eller groft uagtsomt, fængsel indtil 4 måneder. Stk. 5. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
       "valid_from": "2008-04-30",
-      "valid_to": null
+      "valid_to": "2013-03-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:09:34.932Z",
+    "accession": "A20080031430",
+    "document_id": "AA004328",
+    "unique_document_id": "116348",
+    "upstream_status": "Historic",
+    "start_date": "2008-04-30",
+    "end_date": "2022-04-08",
+    "historic_marked": "2013-03-14",
+    "seed_status": "repealed"
+  }
 }

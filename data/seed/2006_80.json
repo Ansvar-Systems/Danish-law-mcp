@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om økologiske fødevarer mv.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-09",
+  "in_force_date": "2006-02-20",
   "url": "https://www.retsinformation.dk/eli/lta/2006/80/xml",
-  "description": "Retsinformation source. DocumentId=BG000357; AccessionNumber=B20060008005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000357; AccessionNumber=B20060008005; Ophævet 2006-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:38:26.448Z",
+    "accession": "B20060008005",
+    "document_id": "BG000357",
+    "unique_document_id": "31617",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-20",
+    "end_date": "2022-04-08",
+    "historic_marked": "2006-06-22",
+    "seed_status": "repealed"
+  }
 }

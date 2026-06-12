@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om gældssanering",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-22",
+  "in_force_date": "2005-09-29",
   "url": "https://www.retsinformation.dk/eli/lta/2005/894/xml",
-  "description": "Retsinformation source. DocumentId=AA003038; AccessionNumber=B20050089405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003038; AccessionNumber=B20050089405; Ophævet 2008-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:38:34.611Z",
+    "accession": "B20050089405",
+    "document_id": "AA003038",
+    "unique_document_id": "2200",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-29",
+    "end_date": "2008-12-20",
+    "historic_marked": "2008-12-19",
+    "seed_status": "repealed"
+  }
 }

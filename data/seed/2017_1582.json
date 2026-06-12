@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2017-12-19",
+  "in_force_date": "2017-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1582/xml",
   "description": "Retsinformation source. DocumentId=CQ000382; AccessionNumber=B20170158203; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "77e",
       "section": "77e",
       "content": "§ 77 e. Ansatte hos en værdipapirhandler, der ved direkte kundekontakt sælger eller rådgiver om finansielle instrumenter omfattet af bilag 5 samt instrumenter og kontrakter omfattet af regler udstedt i medfør af § 17, må ikke modtage variable løndele, der er afhængige af opnåelse af et salgsmål for den ansatte, som angiver en salgsmængde af finansielle instrumenter, som skal være opnået i forhold til kunder, der ikke er professionelle kunder eller godkendte modparter.",
-      "valid_from": "2017-12-19",
+      "valid_from": "2017-12-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:00:11.329Z",
+    "accession": "B20170158203",
+    "document_id": "CQ000382",
+    "unique_document_id": "196553",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-20",
+    "end_date": "2017-12-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ophævelse af lov om foranstaltninger til sikring af Limfjordstangerne, Thyborøn havn og Thyborøn kanal",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1970-12-09",
+  "in_force_date": "2000-11-14",
   "url": "https://www.retsinformation.dk/eli/lta/1970/477/xml",
-  "description": "Retsinformation source. DocumentId=AR000363; AccessionNumber=A19700047730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000363; AccessionNumber=A19700047730; Ophævet 2025-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:20:38.475Z",
+    "accession": "A19700047730",
+    "document_id": "AR000363",
+    "unique_document_id": "21996",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-14",
+    "end_date": "2025-04-02",
+    "historic_marked": "2025-04-01",
+    "seed_status": "repealed"
+  }
 }

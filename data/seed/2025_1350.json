@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-11-25",
+  "in_force_date": "2025-11-25",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1350/xml",
   "description": "Retsinformation source. DocumentId=DM000153; AccessionNumber=B20250135005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -815,5 +816,16 @@
       "definition": "et landområde på over 0,5 ha bevokset med træer af en højde på over 5 m og med en kronedækningsgrad på mindst 10 pct",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:29.758Z",
+    "accession": "B20250135005",
+    "document_id": "DM000153",
+    "unique_document_id": "253732",
+    "upstream_status": "Valid",
+    "start_date": "2025-11-25",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

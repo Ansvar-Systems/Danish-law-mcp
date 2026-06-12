@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2017-12-19",
+  "in_force_date": "2017-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1534/xml",
   "description": "Retsinformation source. DocumentId=CK001565; AccessionNumber=A20170153430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -770,5 +771,16 @@
       "definition": "i denne lov: 1) Afløbsstoffer og andet affald fra enhver form for toiletter og urinaler",
       "source_provision": "7:18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:58:17.475Z",
+    "accession": "A20170153430",
+    "document_id": "CK001565",
+    "unique_document_id": "196421",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-19",
+    "end_date": "2025-06-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

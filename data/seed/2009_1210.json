@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for tilsyn med spildevandsslam m.m. til jordbrugsformål",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-11",
+  "in_force_date": "2009-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1210/xml",
-  "description": "Retsinformation source. DocumentId=AH003518; AccessionNumber=B20090121005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003518; AccessionNumber=B20090121005; Ophævet 2011-12-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Producenter af produkter omfattet af bekendtgørelse om tilsyn med spildevandsslam m.m. til jordbrugsformål skal betale gebyr pr. indsendt analyserapport til dækning af Plantedirektoratets udgifter til administration og kontrol m.m. i henhold til den nævnte bekendtgørelse. Stk. 2. Gebyret er fastsat til 263,00 kr. pr. indsendt analyserapport.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2009-12-12",
+      "valid_to": "2011-12-13"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Producenter nævnt i § 1, stk. 1, skal hvert år efter anmodning fra Plantedirektoratet, og inden en frist direktoratet fastsætter, meddele direktoratet de oplysninger om produktion og afhændelse af spildevandsslam til jordbrugsformål i den senest afsluttede planperiode (1. august – 31. juli), der er nødvendige for kontrollen af antallet af analyserapporter. Stk. 2. For producenter, der afmelder deres produkter, beregnes antallet af analyserapporter på grundlag af virksomhedens oplysninger om produktion og afhændelse i den forløbne del af planperioden. Stk. 3. Undlader en producent at meddele direktoratet de nødvendige oplysninger inden den fastsatte frist, fastsætter direktoratet beregningsgrundlaget for gebyrerne skønsmæssigt.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2009-12-12",
+      "valid_to": "2011-12-13"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Gebyrer forfalder ved påkrav, og betaling skal ske senest 30 dage efter fakturaens dato. Stk. 2. Betales forfaldne gebyrer ikke rettidigt, skal der betales en årlig rente svarende til renten i henhold til rentelovens § 5. Den tillagte rente udgør dog mindst 50 kr. Stk. 3. For erindringsskrivelser betales et rykkergebyr på 100 kr.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2009-12-12",
+      "valid_to": "2011-12-13"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2010. Stk. 2. Bekendtgørelse nr. 1238 af 15. december 2008 om betaling for tilsyn med spildevandsslam m.m. til jordbrugsformål ophæves.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2009-12-12",
+      "valid_to": "2011-12-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:46:09.665Z",
+    "accession": "B20090121005",
+    "document_id": "AH003518",
+    "unique_document_id": "128358",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-12",
+    "end_date": "2022-04-09",
+    "historic_marked": "2011-12-13",
+    "seed_status": "repealed"
+  }
 }

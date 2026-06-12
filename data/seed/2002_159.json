@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forarbejdning og bortskaffelse af specificeret risikomateriale",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-03-20",
+  "in_force_date": "2002-03-26",
   "url": "https://www.retsinformation.dk/eli/lta/2002/159/xml",
-  "description": "Retsinformation source. DocumentId=AH001146; AccessionNumber=B20020015905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001146; AccessionNumber=B20020015905; Ophævet 2003-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:33:26.984Z",
+    "accession": "B20020015905",
+    "document_id": "AH001146",
+    "unique_document_id": "7448",
+    "upstream_status": "Historic",
+    "start_date": "2002-03-26",
+    "end_date": "2022-04-09",
+    "historic_marked": "2003-05-26",
+    "seed_status": "repealed"
+  }
 }

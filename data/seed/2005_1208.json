@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om erhvervsfremme",
   "short_name": "Ikrafttræd. bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-12",
+  "in_force_date": "2005-12-14",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1208/xml",
-  "description": "Retsinformation source. DocumentId=AU002320; AccessionNumber=B20050120805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002320; AccessionNumber=B20050120805; Ophævet 2019-01-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:57:16.300Z",
+    "accession": "B20050120805",
+    "document_id": "AU002320",
+    "unique_document_id": "27151",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-14",
+    "end_date": "2019-01-04",
+    "historic_marked": "2019-01-03",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2011-11-24",
+  "in_force_date": "2011-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1083/xml",
   "description": "Retsinformation source. DocumentId=AE001792; AccessionNumber=B20110108305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 695 af 25. juni 2010 om Danske Spil A/S træder i kraft den 1. januar 2012, jf. dog stk. 2. Stk. 2. Lovens § 3 træder i kraft den 1. december 2011.",
-      "valid_from": "2011-11-24",
+      "valid_from": "2011-11-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:41:32.702Z",
+    "accession": "B20110108305",
+    "document_id": "AE001792",
+    "unique_document_id": "139407",
+    "upstream_status": "Valid",
+    "start_date": "2011-11-30",
+    "end_date": "2021-05-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

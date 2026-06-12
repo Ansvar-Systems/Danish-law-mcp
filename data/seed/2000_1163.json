@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om arbejde og indtægter mv. i efterlønsperioden",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-15",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1163/xml",
-  "description": "Retsinformation source. DocumentId=AB000833; AccessionNumber=B20000116305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000833; AccessionNumber=B20000116305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:57:02.381Z",
+    "accession": "B20000116305",
+    "document_id": "AB000833",
+    "unique_document_id": "3484",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2005-08-03",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

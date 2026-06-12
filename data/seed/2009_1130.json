@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om det frekvenspolitiske rammemandat",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-01",
+  "in_force_date": "2009-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1130/xml",
-  "description": "Retsinformation source. DocumentId=BD000521; AccessionNumber=B20090113005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000521; AccessionNumber=B20090113005; Ophævet 2010-10-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. IT- og Telestyrelsen prioriterer og administrerer den danske frekvensanvendelse inden for rammerne af det frekvenspolitiske rammemandat, jf. bilag 1.",
-      "valid_from": "2009-12-01",
-      "valid_to": null
+      "valid_from": "2009-12-04",
+      "valid_to": "2010-10-20"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Ministeren for videnskab, teknologi og udvikling træffer i tilfælde af frekvensknaphed, jf. § 7, stk. 6, i lov om radiofrekvenser, beslutning om tildelingsmetode, jf. lovens § 9, stk. 1, hvor de væsentlige samfundsmæssige hensyn, som er anført i bilag 2, skal varetages.",
-      "valid_from": "2009-12-01",
-      "valid_to": null
+      "valid_from": "2009-12-04",
+      "valid_to": "2010-10-20"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2010. Stk. 2. Bekendtgørelse nr. 272 af 23. april 2008 om det frekvenspolitiske rammemandat ophæves.",
-      "valid_from": "2009-12-01",
-      "valid_to": null
+      "valid_from": "2009-12-04",
+      "valid_to": "2010-10-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:42:53.760Z",
+    "accession": "B20090113005",
+    "document_id": "BD000521",
+    "unique_document_id": "127820",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-04",
+    "end_date": "2026-06-04",
+    "historic_marked": "2010-10-20",
+    "seed_status": "repealed"
+  }
 }

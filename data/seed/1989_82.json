@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om boligbyggeri",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-02-02",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/82/xml",
-  "description": "Retsinformation source. DocumentId=CM014087; AccessionNumber=A19890008229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014087; AccessionNumber=A19890008229; Ophævet 1997-01-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:57:32.083Z",
+    "accession": "A19890008229",
+    "document_id": "CM014087",
+    "unique_document_id": "55198",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "1997-01-23",
+    "seed_status": "repealed"
+  }
 }

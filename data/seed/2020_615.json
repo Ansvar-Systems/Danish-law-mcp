@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om socialtilsyn (Ændring af formålsbestemmelser i vedtægter for fonde, krav om indhentelse af straffeattest og præcisering af rækkevidden af socialtilsynets godkendelse og tilsyn)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-05-14",
+  "in_force_date": "2020-05-14",
   "url": "https://www.retsinformation.dk/eli/lta/2020/615/xml",
-  "description": "Retsinformation source. DocumentId=CY000468; AccessionNumber=A20200061530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CY000468; AccessionNumber=A20200061530; Ophævet 2020-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12a",
@@ -20,8 +21,19 @@
       "section": "12a",
       "content": "§ 12 a. Tilbud omfattet af § 4, stk. 1, nr. 2-4, der søger om godkendelse, eller som er godkendt af socialtilsynet efter § 5, skal, inden de ansætter personale og ledere, indhente straffeattest for disse personer. Indhentelse af straffeattest efter 1. pkt. gælder også ved ansættelse af vikarer, medmindre der foreligger helt særlige omstændigheder.",
       "valid_from": "2020-05-14",
-      "valid_to": null
+      "valid_to": "2020-09-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:36:19.922Z",
+    "accession": "A20200061530",
+    "document_id": "CY000468",
+    "unique_document_id": "214386",
+    "upstream_status": "Historic",
+    "start_date": "2020-05-14",
+    "end_date": "2022-07-08",
+    "historic_marked": "2020-09-21",
+    "seed_status": "repealed"
+  }
 }

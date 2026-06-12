@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om landbrugsfællesskaber",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-22",
+  "in_force_date": "2000-03-02",
   "url": "https://www.retsinformation.dk/eli/lta/2000/127/xml",
-  "description": "Retsinformation source. DocumentId=AH000534; AccessionNumber=B20000012705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000534; AccessionNumber=B20000012705; Ophævet 2004-08-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:01:19.488Z",
+    "accession": "B20000012705",
+    "document_id": "AH000534",
+    "unique_document_id": "6926",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "2004-08-26",
+    "seed_status": "repealed"
+  }
 }

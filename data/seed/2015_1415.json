@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-01",
+  "in_force_date": "2015-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1415/xml",
   "description": "Retsinformation source. DocumentId=AA009323; AccessionNumber=B20150141505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Klage over en bobestyrer skal udfærdiges på Domstolsstyrelsens klageblanket. Stk. 2. Skifteretten afviser en klage, som ikke er indleveret på den i stk. 1 omtalte blanket.",
-      "valid_from": "2015-12-01",
+      "valid_from": "2015-12-05",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-12-01",
+      "valid_from": "2015-12-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:39:12.200Z",
+    "accession": "B20150141505",
+    "document_id": "AA009323",
+    "unique_document_id": "175447",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-05",
+    "end_date": "2021-09-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

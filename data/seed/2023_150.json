@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-02-10",
+  "in_force_date": "2023-02-10",
   "url": "https://www.retsinformation.dk/eli/lta/2023/150/xml",
   "description": "Retsinformation source. DocumentId=AN015844; AccessionNumber=B20230015005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -759,5 +760,16 @@
       "definition": "rester af tobaksblade samt biprodukter, der hidrører fra tobaksforarbejdning eller fremstilling af tobaksvarer",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:21:46.994Z",
+    "accession": "B20230015005",
+    "document_id": "AN015844",
+    "unique_document_id": "234674",
+    "upstream_status": "Valid",
+    "start_date": "2023-02-10",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

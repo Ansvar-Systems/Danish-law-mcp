@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om toldbehandling",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-11-20",
+  "in_force_date": "2008-11-29",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1136/xml",
-  "description": "Retsinformation source. DocumentId=AN009455; AccessionNumber=B20080113605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN009455; AccessionNumber=B20080113605; Ophævet 2010-04-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "118",
@@ -19,9 +20,20 @@
       "provision_ref": "118",
       "section": "118",
       "content": "§ 118. Afgiftsfri indførsel af spiritus, tobak, hedvin, bordvin og øl fra tredjelande kan kun foretages af personer, der er fyldt 17 år. Afgiftsfri indførsel af tobaksvarer fra andre EU-lande kan kun foretages af personer, der er fyldt 18 år. Afgiftsfri indførsel af spiritus, hedvin og bordvin fra andre EU-lande kan kun foretages af personer, der er fyldt 16 år . 1) Jf. Bekendtgørelse af lov nr. 1020 af 21. oktober 2008 om forbud mod salg af tobak til personer under 18 år og salg af alkohol til personer under 16 år",
-      "valid_from": "2008-11-20",
-      "valid_to": null
+      "valid_from": "2008-11-29",
+      "valid_to": "2010-04-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:50:24.089Z",
+    "accession": "B20080113605",
+    "document_id": "AN009455",
+    "unique_document_id": "122126",
+    "upstream_status": "Historic",
+    "start_date": "2008-11-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-04-09",
+    "seed_status": "repealed"
+  }
 }

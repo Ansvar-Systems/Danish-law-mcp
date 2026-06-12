@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om miljøbeskyttelse\\n(Udvidelse af miljøzoneordningen, krav om miljøzonemærker for udenlandske køretøjer, mulighed for tilbageholdelse af transportmidler m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-15",
+  "in_force_date": "2010-06-15",
   "url": "https://www.retsinformation.dk/eli/lta/2010/653/xml",
-  "description": "Retsinformation source. DocumentId=AL002237; AccessionNumber=A20100065330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002237; AccessionNumber=A20100065330; Ophævet 2015-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "111",
@@ -20,8 +21,19 @@
       "section": "111",
       "content": "§ 111 b. Politiet kan tilbageholde transportmidler i sager om 1) overtrædelse af § 15 b, stk. 2, og regler udstedt i medfør af § 15 b, stk. 5, og § 15 e og 2) affaldstransporter, der foretages i strid med lovgivningen om overførsel af affald og Europa-Parlamentets og Rådets forordning om overførsel af affald. Stk. 2. Tilbageholdelse kan ske, hvis det er nødvendigt for at sikre et krav på betaling af bøde, sagsomkostninger eller konfiskation, herunder værdikonfiskation, dog kun, indtil de nævnte beløb er betalt eller der er stillet sikkerhed herfor. Sker dette ikke inden for 2 måneder efter sagens endelige afgørelse, kan der søges fyldestgørelse i transportmidlet. Tilbageholdelse kan dog ikke ske, hvis den, der havde rådighed over transportmidlet, da overtrædelsen fandt sted, var uberettiget i besiddelse af dette. Stk. 3. Med hensyn til iværksættelse af tilbageholdelsen finder bestemmelser i retsplejeloven om beslaglæggelse med henblik på konfiskation tilsvarende anvendelse med de ændringer, der følger af stk. 2.",
       "valid_from": "2010-06-15",
-      "valid_to": null
+      "valid_to": "2015-11-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:24:06.547Z",
+    "accession": "A20100065330",
+    "document_id": "AL002237",
+    "unique_document_id": "132432",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-15",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-11-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Patentloven (* 8)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-09-13",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1996/824/xml",
-  "description": "Retsinformation source. DocumentId=CM041835; AccessionNumber=A19960082429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM041835; AccessionNumber=A19960082429; Ophævet 1998-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:40:26.936Z",
+    "accession": "A19960082429",
+    "document_id": "CM041835",
+    "unique_document_id": "82487",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1998-07-01",
+    "seed_status": "repealed"
+  }
 }

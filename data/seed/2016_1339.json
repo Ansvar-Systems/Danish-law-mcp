@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-11-21",
+  "in_force_date": "2016-11-23",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1339/xml",
   "description": "Retsinformation source. DocumentId=BP001750; AccessionNumber=B20160133905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse finder anvendelse for søfarende og skibsførere om bord på danske skibe, jf. § 1, stk. 1, samt § 49 i lov om søfarendes ansættelsesforhold m.v., uanset skibenes anvendelse og fartsområder, med undtagelse af fiskeskibe og fritidsfartøjer.",
-      "valid_from": "2016-11-21",
+      "valid_from": "2016-11-23",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Til bekræftelse af beskyttelsen af de søfarende og skibsføreren efter lov om arbejdsskadesikring, skal den som bilag 1 vedhæftede erklæring være tilgængelig for de søfarende om bord på skibet. Stk. 2. Erklæringen skal være på skibets arbejdssprog eller engelsk. Såfremt skibet går i international fart, skal den være affattet på engelsk eller vedhæftet en oversættelse til engelsk.",
-      "valid_from": "2016-11-21",
+      "valid_from": "2016-11-23",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Overtrædelse af denne bekendtgørelse straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2016-11-21",
+      "valid_from": "2016-11-23",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2017.",
-      "valid_from": "2016-11-21",
+      "valid_from": "2016-11-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:45:39.277Z",
+    "accession": "B20160133905",
+    "document_id": "BP001750",
+    "unique_document_id": "184180",
+    "upstream_status": "Valid",
+    "start_date": "2016-11-23",
+    "end_date": "2024-04-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

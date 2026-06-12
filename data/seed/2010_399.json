@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2010-04-21",
+  "in_force_date": "2010-04-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/399/xml",
   "description": "Retsinformation source. DocumentId=AU004014; AccessionNumber=A20100039930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -316,5 +317,16 @@
       "definition": "finansiering af terrorisme som defineret i § 30 i kriminallov for Grønland, for så vidt angår handlinger omfattet af samme lovs § 28",
       "source_provision": "2:7"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:13:50.649Z",
+    "accession": "A20100039930",
+    "document_id": "AU004014",
+    "unique_document_id": "131525",
+    "upstream_status": "Valid",
+    "start_date": "2010-04-21",
+    "end_date": "2017-12-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

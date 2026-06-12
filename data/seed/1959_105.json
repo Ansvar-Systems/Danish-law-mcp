@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om udvandring",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1959-03-25",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1959/105/xml",
-  "description": "Retsinformation source. DocumentId=CM028450; AccessionNumber=A19590010530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM028450; AccessionNumber=A19590010530; Ophævet 1994-01-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:02:10.640Z",
+    "accession": "A19590010530",
+    "document_id": "CM028450",
+    "unique_document_id": "69266",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1994-01-05",
+    "seed_status": "repealed"
+  }
 }

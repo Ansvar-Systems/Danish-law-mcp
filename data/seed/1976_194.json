@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om energipolitiske foranstaltninger",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1976-04-28",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1976/194/xml",
-  "description": "Retsinformation source. DocumentId=CM008129; AccessionNumber=A19760019430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008129; AccessionNumber=A19760019430; Ophævet 1994-12-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:48:06.449Z",
+    "accession": "A19760019430",
+    "document_id": "CM008129",
+    "unique_document_id": "49320",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-10",
+    "historic_marked": "1994-12-07",
+    "seed_status": "repealed"
+  }
 }

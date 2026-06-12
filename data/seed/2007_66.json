@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om miljøzoner",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-01-22",
+  "in_force_date": "2007-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/2007/66/xml",
-  "description": "Retsinformation source. DocumentId=AL001564; AccessionNumber=B20070006605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001564; AccessionNumber=B20070006605; Ophævet 2011-06-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:31:09.619Z",
+    "accession": "B20070006605",
+    "document_id": "AL001564",
+    "unique_document_id": "13076",
+    "upstream_status": "Historic",
+    "start_date": "2007-01-29",
+    "end_date": "2022-04-09",
+    "historic_marked": "2011-06-27",
+    "seed_status": "repealed"
+  }
 }

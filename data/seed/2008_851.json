@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2009",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-08-21",
+  "in_force_date": "2008-08-27",
   "url": "https://www.retsinformation.dk/eli/lta/2008/851/xml",
-  "description": "Retsinformation source. DocumentId=AE001357; AccessionNumber=B20080085105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001357; AccessionNumber=B20080085105; Ophævet 2013-01-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Satsreguleringsprocenten for finansåret 2009 udgør 3,1, jf. § 2 i lov om en satsreguleringsprocent.",
-      "valid_from": "2008-08-21",
-      "valid_to": null
+      "valid_from": "2008-08-27",
+      "valid_to": "2013-01-09"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Tilpasningsprocenten for finansåret 2009 udgør 1,4, jf. § 3 i lov om en satsreguleringsprocent.",
-      "valid_from": "2008-08-21",
-      "valid_to": null
+      "valid_from": "2008-08-27",
+      "valid_to": "2013-01-09"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Satstilpasningsprocenten for finansåret 2009 udgør 1,1, jf. § 4 i lov om en satsreguleringsprocent.",
-      "valid_from": "2008-08-21",
-      "valid_to": null
+      "valid_from": "2008-08-27",
+      "valid_to": "2013-01-09"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Puljebeløbet udgør i finansåret 2009 569,9 mio. kr., jf. § 5 i lov om en satsreguleringsprocent.",
-      "valid_from": "2008-08-21",
-      "valid_to": null
+      "valid_from": "2008-08-27",
+      "valid_to": "2013-01-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:31:28.708Z",
+    "accession": "B20080085105",
+    "document_id": "AE001357",
+    "unique_document_id": "121122",
+    "upstream_status": "Historic",
+    "start_date": "2008-08-27",
+    "end_date": "2013-01-10",
+    "historic_marked": "2013-01-09",
+    "seed_status": "repealed"
+  }
 }

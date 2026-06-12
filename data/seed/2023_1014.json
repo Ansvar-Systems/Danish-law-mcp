@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-06-05",
+  "in_force_date": "2023-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1014/xml",
   "description": "Retsinformation source. DocumentId=DI000903; AccessionNumber=B20230101405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Formålet med bekendtgørelsen er at fastsætte nærmere regler for, hvornår en sygdom kategoriseres som en smitsom sygdom i henhold til lov om epidemier m.v.",
-      "valid_from": "2023-06-05",
+      "valid_from": "2023-06-30",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Sundhedsstyrelsen vurderer, om en sygdom kategoriseres som en smitsom sygdom og kan fastsætte nærmere regler herom.",
-      "valid_from": "2023-06-05",
+      "valid_from": "2023-06-30",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Kategoriseringen af en smitsom sygdom foretages på baggrund af en sundhedsfaglig vurdering.",
-      "valid_from": "2023-06-05",
+      "valid_from": "2023-06-30",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. En smitsom sygdom er en sygdom eller tilstand, som er forårsaget af mikroorganismer eller andre smitstoffer, som kan overføres fra, til eller imellem mennesker. Stk. 2. Ved tilstand forstås, at den smittede person kan være bærer af smitte uden at have egentlige symptomer og tegn på sygdom. Stk. 3. Ved mikroorganismer forstås organismer, der består af en eller få celler eller ikke-cellulære organismer, som ikke kan ses med det blotte øje, og som omfatter blandt andet vira, bakterier, svampe og parasitter. Stk. 4. Ved andre smitstoffer forstås substanser, der kan overføre smitte eller sygdom, uden at der er tale om egentlige mikroorganismer, herunder infektiøse partikler, sygdomsfremkaldende større parasitter m.v. Stk. 5. Ved overføres forstås, at sygdommen eller tilstanden kan overføres fra menneske til menneske, fra menneske til dyr, fra dyr til menneske (zoonose) eller fra det omgivende miljø til et menneske.",
-      "valid_from": "2023-06-05",
+      "valid_from": "2023-06-30",
       "valid_to": null
     },
     {
@@ -77,7 +78,7 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 2. juli 2023.",
-      "valid_from": "2023-06-05",
+      "valid_from": "2023-06-30",
       "valid_to": null
     }
   ],
@@ -87,5 +88,16 @@
       "definition": "organismer, der består af en eller få celler eller ikke-cellulære organismer, som ikke kan ses med det blotte øje, og som omfatter blandt andet vira, bakterier, svampe og parasitter",
       "source_provision": "1:4"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:02:14.785Z",
+    "accession": "B20230101405",
+    "document_id": "DI000903",
+    "unique_document_id": "238514",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-30",
+    "end_date": "2023-07-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

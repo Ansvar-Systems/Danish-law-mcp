@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om satser pr. 1. januar 2003 efter lov om sikring mod følger af arbejdsskade",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-24",
+  "in_force_date": "2002-11-04",
   "url": "https://www.retsinformation.dk/eli/lta/2002/880/xml",
-  "description": "Retsinformation source. DocumentId=BE000317; AccessionNumber=B20020088005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000317; AccessionNumber=B20020088005; Ophævet 2003-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:02:01.301Z",
+    "accession": "B20020088005",
+    "document_id": "BE000317",
+    "unique_document_id": "29556",
+    "upstream_status": "Historic",
+    "start_date": "2002-11-04",
+    "end_date": "2006-03-16",
+    "historic_marked": "2003-06-10",
+    "seed_status": "repealed"
+  }
 }

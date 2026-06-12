@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2013-10-28",
+  "in_force_date": "2013-10-30",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1230/xml",
   "description": "Retsinformation source. DocumentId=BP000676; AccessionNumber=B20130123005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 3, nr. 2, i lov nr. 618 af 12. juni 2013 om ændring af søloven og forskellige andre love (Skærpede sejladssikkerhedsmæssige krav i arktiske farvande, styrkelse af søfarendes retsstilling ved sørøveri, justering af skibsregistreringsreglerne, gennemførelse af konventionen om aftaler for international transport af gods helt eller delvis til søs, gennemførelse af ændringsprotokol til konventionen om ansvar for forureningsskade opstået i forbindelse med søtransport af farlige og forurenende stoffer og nedlæggelse af Dykkerrådet) sættes i kraft.",
-      "valid_from": "2013-10-28",
+      "valid_from": "2013-10-30",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. november 2013.",
-      "valid_from": "2013-10-28",
+      "valid_from": "2013-10-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:35:35.465Z",
+    "accession": "B20130123005",
+    "document_id": "BP000676",
+    "unique_document_id": "158779",
+    "upstream_status": "Valid",
+    "start_date": "2013-10-30",
+    "end_date": "2022-02-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

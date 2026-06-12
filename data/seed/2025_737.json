@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om varmeforsyning (Opgavebortfald på varmeforsyningsområdet)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-06-20",
+  "in_force_date": "2025-06-20",
   "url": "https://www.retsinformation.dk/eli/lta/2025/737/xml",
-  "description": "Retsinformation source. DocumentId=DB001191; AccessionNumber=A20250073730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB001191; AccessionNumber=A20250073730; Ophævet 2026-05-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:14.336Z",
+    "accession": "A20250073730",
+    "document_id": "DB001191",
+    "unique_document_id": "250314",
+    "upstream_status": "Historic",
+    "start_date": "2025-06-20",
+    "end_date": "2026-05-20",
+    "historic_marked": "2026-05-19",
+    "seed_status": "repealed"
+  }
 }

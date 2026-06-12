@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om patientsikkerhed i sundhedsvæsenet",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-10",
+  "in_force_date": "2003-06-10",
   "url": "https://www.retsinformation.dk/eli/lta/2003/429/xml",
-  "description": "Retsinformation source. DocumentId=AI001380; AccessionNumber=A20030042930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001380; AccessionNumber=A20030042930; Ophævet 2005-06-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:29:52.807Z",
+    "accession": "A20030042930",
+    "document_id": "AI001380",
+    "unique_document_id": "9736",
+    "upstream_status": "Historic",
+    "start_date": "2003-06-10",
+    "end_date": "2022-07-12",
+    "historic_marked": "2005-06-24",
+    "seed_status": "repealed"
+  }
 }

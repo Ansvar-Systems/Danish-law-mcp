@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige lovbestemmelser om klageadgang og kompetence m.v. på det familieretlige område (Ankestyrelsen som familieretlig klagemyndighed m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-22",
+  "in_force_date": "2015-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1741/xml",
-  "description": "Retsinformation source. DocumentId=CJ000197; AccessionNumber=A20150174130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CJ000197; AccessionNumber=A20150174130; Ophævet 2016-11-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "29d",
@@ -35,29 +36,40 @@
       "section": "29d",
       "content": "§ 29 d. Ved Ankestyrelsens behandling af sager efter denne lov finder kapitel 9 og §§ 68 og 70 i lov om retssikkerhed og administration på det sociale område anvendelse.",
       "valid_from": "2015-12-22",
-      "valid_to": null
+      "valid_to": "2016-11-24"
     },
     {
       "provision_ref": "41a",
       "section": "41a",
       "content": "§ 41 a. Ved Ankestyrelsens behandling af sager efter denne lov finder kapitel 9 og §§ 68 og 70 i lov om retssikkerhed og administration på det sociale område anvendelse.",
       "valid_from": "2015-12-22",
-      "valid_to": null
+      "valid_to": "2016-11-24"
     },
     {
       "provision_ref": "58e",
       "section": "58e",
       "content": "§ 58 e. Ved Ankestyrelsens behandling af sager efter denne lov finder kapitel 9 og §§ 68 og 70 i lov om retssikkerhed og administration på det sociale område anvendelse.",
       "valid_from": "2015-12-22",
-      "valid_to": null
+      "valid_to": "2016-11-24"
     },
     {
       "provision_ref": "78",
       "section": "78",
       "content": "§ 78. Social- og Indenrigsministeriet kan anmode Ankestyrelsen om at gennemgå de afgørelser, som kommunerne, statsforvaltningen eller personregisterførerne har truffet efter adoptionsloven, børneloven, forældreansvarsloven, lov om børns forsørgelse, § 2, 2. pkt., og § 20 i lov om opkrævning af underholdsbidrag, lov om ægteskabets retsvirkninger, lov om ægteskabs indgåelse og opløsning, navneloven og § 56 a, stk. 1 og 3, i udlændingeloven.",
       "valid_from": "2015-12-22",
-      "valid_to": null
+      "valid_to": "2016-11-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:19.975Z",
+    "accession": "A20150174130",
+    "document_id": "CJ000197",
+    "unique_document_id": "176681",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-22",
+    "end_date": "2023-04-29",
+    "historic_marked": "2016-11-24",
+    "seed_status": "repealed"
+  }
 }

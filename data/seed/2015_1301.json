@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af lov om fremme af vedvarende energi, lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk, i lov om ændring af lov om fremme af vedvarende energi, lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser og lov om elforsyning og i lov om statstilskud til elintensive virksomheder",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-11-20",
+  "in_force_date": "2015-11-26",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1301/xml",
-  "description": "Retsinformation source. DocumentId=CI000043; AccessionNumber=B20150130105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000043; AccessionNumber=B20150130105; Ophævet 2017-01-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -39,33 +40,44 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 2, nr. 2, i lov nr. 576 af 18. juni 2012 om ændring af lov om fremme af vedvarende energi, lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk (Støtte til vindmøller på land, biogas og eksisterende industrielle kraft-varme-værker samt forlængelse af puljen til nye VE-teknologier m.v.) sættes i kraft.",
-      "valid_from": "2015-11-20",
-      "valid_to": null
+      "valid_from": "2015-11-26",
+      "valid_to": "2017-01-27"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. § 3, nr. 12, 18 og 20, og § 6 i lov nr. 744 af 1. juni 2015 om ændring af lov om fremme af vedvarende energi, lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser og lov om elforsyning (Ny ansøgningsprocedure og grænse på 500 kW for støtte til bl.a. solcelleanlæg og husstandsvindmøller, investeringstilskud og driftsstøtte til kraft-varme-værker, afregningsvilkår for Horns Rev 3 og ophævelse af treledstariffen m.v.) sættes i kraft.",
-      "valid_from": "2015-11-20",
-      "valid_to": null
+      "valid_from": "2015-11-26",
+      "valid_to": "2017-01-27"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. § 17, nr. 5, i lov nr. 574 af 4. maj 2015 om statstilskud til elintensive virksomheder sættes i kraft.",
-      "valid_from": "2015-11-20",
-      "valid_to": null
+      "valid_from": "2015-11-26",
+      "valid_to": "2017-01-27"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 28. november 2015.",
-      "valid_from": "2015-11-20",
-      "valid_to": null
+      "valid_from": "2015-11-26",
+      "valid_to": "2017-01-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:34:37.371Z",
+    "accession": "B20150130105",
+    "document_id": "CI000043",
+    "unique_document_id": "175278",
+    "upstream_status": "Historic",
+    "start_date": "2015-11-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "2017-01-27",
+    "seed_status": "repealed"
+  }
 }

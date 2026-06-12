@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af bekæmpelsesmidler",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-11-09",
+  "in_force_date": "1998-11-19",
   "url": "https://www.retsinformation.dk/eli/lta/1998/798/xml",
-  "description": "Retsinformation source. DocumentId=AN000105; AccessionNumber=A19980079829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000105; AccessionNumber=A19980079829; Ophævet 2008-02-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:59:28.346Z",
+    "accession": "A19980079829",
+    "document_id": "AN000105",
+    "unique_document_id": "13268",
+    "upstream_status": "Historic",
+    "start_date": "1998-11-19",
+    "end_date": "2014-10-21",
+    "historic_marked": "2008-02-07",
+    "seed_status": "repealed"
+  }
 }

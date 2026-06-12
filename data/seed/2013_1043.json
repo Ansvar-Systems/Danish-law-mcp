@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om sideaktiviteter i almene boligorganisationer m.v.\\n(Anlæg til forsyning med el baseret på vedvarende energikilder)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-08-27",
+  "in_force_date": "2013-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1043/xml",
-  "description": "Retsinformation source. DocumentId=BV000125; AccessionNumber=B20130104305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BV000125; AccessionNumber=B20130104305; Ophævet 2013-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9",
@@ -19,9 +20,20 @@
       "provision_ref": "9",
       "section": "9",
       "content": "§ 9 a. En afdeling kan eje anlæg til elforsyning, som er baseret på vedvarende energikilder omfattet af lov om fremme af vedvarende energi, jf. dog stk. 2. Det er en forudsætning, 1) at el, som anlægget producerer, alene anvendes til forbrug i afdelingen eller leveres til det kollektive elforsyningsnet, og 2) at anlægget sammen med eventuelle andre elforsyningsanlæg i afdelingen maksimalt har en installeret effekt på 6 kW pr. bolig- og erhvervsenhed. Stk. 2. En afdeling kan kun eje vindmøller, der har en installeret effekt på 25 kW eller derunder og er tilsluttet i egen forbrugsinstallation. Stk. 3. Boligorganisationen kan administrere etablering og drift af anlæg, som er nævnt i stk. 1.",
-      "valid_from": "2013-08-27",
-      "valid_to": null
+      "valid_from": "2013-08-29",
+      "valid_to": "2013-12-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:28:01.377Z",
+    "accession": "B20130104305",
+    "document_id": "BV000125",
+    "unique_document_id": "158193",
+    "upstream_status": "Historic",
+    "start_date": "2013-08-29",
+    "end_date": "2023-04-28",
+    "historic_marked": "2013-12-19",
+    "seed_status": "repealed"
+  }
 }

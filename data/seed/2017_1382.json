@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-12-01",
+  "in_force_date": "2017-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1382/xml",
   "description": "Retsinformation source. DocumentId=BE007430; AccessionNumber=B20170138205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra de private arbejdsgivere for 2018 fastsættes til 103 kr. pr. fuldtidsansat lønmodtager.",
-      "valid_from": "2017-12-01",
+      "valid_from": "2017-12-05",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2018. Stk. 2. Bidraget opkræves første gang på grundlag af ATP-bidrag modtaget i perioden fra den 2. marts 2018 til og med den 1. juni 2018.",
-      "valid_from": "2017-12-01",
+      "valid_from": "2017-12-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:52:07.611Z",
+    "accession": "B20170138205",
+    "document_id": "BE007430",
+    "unique_document_id": "194908",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-05",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

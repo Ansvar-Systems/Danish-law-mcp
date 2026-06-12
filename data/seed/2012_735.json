@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om besøgsrejser og ophold i Danmark eller Grønland i tilbud i boformer\\n(Indførelse af underretningspligt mellem Danmark og Grønland)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-27",
+  "in_force_date": "2012-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2012/735/xml",
-  "description": "Retsinformation source. DocumentId=BS000305; AccessionNumber=B20120073505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BS000305; AccessionNumber=B20120073505; Ophævet 2017-06-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1 a. Hvis en familie med et eller flere børn under 18 år eller vordende forældre flytter mellem Danmark og Grønland, og den danske fraflytningskommune finder, at et eller flere børn eller de vordende forældre har behov for særlig støtte af hensyn til barnets eventuelle særlige behov for støtte efter fødslen, skal fraflytningskommunen underrette den grønlandske tilflytningskommune herom. Stk. 2. I forbindelse med en underretning efter stk. 1, skal fraflytningskommunen oversende nødvendigt sagsmateriale, herunder en opsummering af relevante vurderinger, som fraflytningskommunen har foretaget i sagen.",
-      "valid_from": "2012-06-27",
-      "valid_to": null
+      "valid_from": "2012-06-30",
+      "valid_to": "2017-06-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:12:34.032Z",
+    "accession": "B20120073505",
+    "document_id": "BS000305",
+    "unique_document_id": "142696",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-30",
+    "end_date": "2022-07-08",
+    "historic_marked": "2017-06-07",
+    "seed_status": "repealed"
+  }
 }

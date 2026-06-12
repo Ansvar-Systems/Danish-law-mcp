@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2022-03-17",
+  "in_force_date": "2022-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2022/355/xml",
   "description": "Retsinformation source. DocumentId=AK001989; AccessionNumber=B20220035505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "6a",
       "section": "6a",
       "content": "§ 6 a. Uanset om disse var underlagt foranstaltninger, som var nødvendige for at forebygge eller inddæmme udbredelsen af covid-19, på afviklingstidspunktet, kompenseres følgende arrangementer med op til € 2,3 mio. indtil den 30. juni 2022, jf. § 6, stk. 10, 2. pkt.: 1) Mindre spillesteders indendørs arrangementer med 51 til 349 siddende deltagere, der afvikles i perioden fra og med den 10. december 2021 til og med den 18. december 2021, som er aflyst, udskudt eller væsentligt ændret som følge af foranstaltninger, som var nødvendige for at forebygge eller inddæmme udbredelsen af covid-19. 2) Arrangementer, der afvikles i perioden fra og med den 16. januar 2022 til og med den 31. januar 2022, som er aflyst, udskudt eller væsentlig ændret som følge af foranstaltninger, som var nødvendige for at forebygge eller inddæmme udbredelsen af covid-19, gældende i perioden fra og med den 19. december 2021 til og med den 15. januar 2022.",
-      "valid_from": "2022-03-17",
+      "valid_from": "2022-03-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:35:40.162Z",
+    "accession": "B20220035505",
+    "document_id": "AK001989",
+    "unique_document_id": "230013",
+    "upstream_status": "Valid",
+    "start_date": "2022-03-22",
+    "end_date": "2022-03-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

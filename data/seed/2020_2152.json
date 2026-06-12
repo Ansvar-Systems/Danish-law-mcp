@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anvendelse af vejafmærkning",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-21",
+  "in_force_date": "2020-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2152/xml",
-  "description": "Retsinformation source. DocumentId=CZ000468; AccessionNumber=B20200215205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000468; AccessionNumber=B20200215205; Ophævet 2021-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "189a",
@@ -19,9 +20,20 @@
       "provision_ref": "189a",
       "section": "189a",
       "content": "§ 189 a. S 20 må ikke etableres, hvor der er vognbane eller særlige vognbaner, cykelsti eller cykelbane, i midterrabat, i skillerabat eller hvor løbehjulsboksen i øvrigt er til ulempe for færdslen. Stk. 2. Løbehjulsboks skal afmærkes med smal ubrudt linje, så løbehjulsboksen fremtræder som et felt. Stk. 3. V 20 Motoriseret løbehjulssymbol (elektrisk løbehjul) skal altid afmærkes i løbehjulsboksen i selve feltet",
-      "valid_from": "2020-12-21",
-      "valid_to": null
+      "valid_from": "2020-12-23",
+      "valid_to": "2021-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:14:47.393Z",
+    "accession": "B20200215205",
+    "document_id": "CZ000468",
+    "unique_document_id": "218662",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-12-21",
+    "seed_status": "repealed"
+  }
 }

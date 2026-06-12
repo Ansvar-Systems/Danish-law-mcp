@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-12-27",
+  "in_force_date": "2021-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2630/xml",
   "description": "Retsinformation source. DocumentId=AE002952; AccessionNumber=B20210263005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Uanset § 9, stk. 2, i budgetloven omfatter det stats­li‍ge delloft for driftsudgifter ikke udgifter, der er opført på følgende konti på finansloven: 1) § 29.25.09. Tilskud til opgradering eller rensning af bio­gas. 2) § 29.25.22. Tilskud vedrørende havvind. 3) § 29.25.23. Tilskud vedrørende landvind. 4) § 29.25.24. Tilskud vedrørende vind diverse. 5) § 29.25.25. Tilskud vedrørende solceller. 6) § 29.25.26. Tilskud vedrørende biomasse. 7) § 29.25.27. Tilskud vedrørende biogas. 8) § 29.25.28. Tilskud vedrørende teknologineutrale udbud. 9) § 29.25.29. Tilskud vedrørende decentral kraftvarme. 10) § 29.25.30. Tilskud vedrørende øvrige kategorier. 11) § 29.25.31. ELFORSK.",
-      "valid_from": "2021-12-27",
+      "valid_from": "2021-12-28",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2022. Stk. 2. Bekendtgørelse nr. 1525 af 8. december 2016 om undtagelse af PSO-udgifter fra delloftet for driftsudgifter ophæves.",
-      "valid_from": "2021-12-27",
+      "valid_from": "2021-12-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:28:10.213Z",
+    "accession": "B20210263005",
+    "document_id": "AE002952",
+    "unique_document_id": "228548",
+    "upstream_status": "Valid",
+    "start_date": "2021-12-28",
+    "end_date": "2021-12-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

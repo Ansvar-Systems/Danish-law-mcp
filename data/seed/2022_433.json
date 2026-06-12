@@ -5,6 +5,7 @@
   "short_name": "AND H#LOKDOK07",
   "status": "in_force",
   "issued_date": "2022-04-08",
+  "in_force_date": "2022-04-08",
   "url": "https://www.retsinformation.dk/eli/lta/2022/433/xml",
   "description": "Retsinformation source. DocumentId=CS001247; AccessionNumber=B20220043303; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -501,5 +502,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:38:49.737Z",
+    "accession": "B20220043303",
+    "document_id": "CS001247",
+    "unique_document_id": "230345",
+    "upstream_status": "Valid",
+    "start_date": "2022-04-08",
+    "end_date": "2023-04-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

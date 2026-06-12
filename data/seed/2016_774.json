@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om vandplanlægning",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-06-24",
+  "in_force_date": "2016-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2016/774/xml",
-  "description": "Retsinformation source. DocumentId=CK000754; AccessionNumber=B20160077405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK000754; AccessionNumber=B20160077405; Ophævet 2017-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 41, nr. 1-4 og 7-11, og § 42 i lov nr. 1606 af 26. december 2013 om vandplanlægning sættes i kraft.",
       "valid_from": "2016-06-24",
-      "valid_to": null
+      "valid_to": "2017-01-31"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2016.",
       "valid_from": "2016-06-24",
-      "valid_to": null
+      "valid_to": "2017-01-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:27:40.603Z",
+    "accession": "B20160077405",
+    "document_id": "CK000754",
+    "unique_document_id": "182011",
+    "upstream_status": "Historic",
+    "start_date": "2016-06-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-01-31",
+    "seed_status": "repealed"
+  }
 }

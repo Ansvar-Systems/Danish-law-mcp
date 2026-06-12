@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastsættelse af bidrag for 2014 fra private arbejdsgivere til finansiering af kommunernes indbetaling af ATP-bidrag ved udbetaling af sygedagpenge og barseldagpenge",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-27",
+  "in_force_date": "2013-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1648/xml",
-  "description": "Retsinformation source. DocumentId=BE005698; AccessionNumber=B20130164805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005698; AccessionNumber=B20130164805; Ophævet 2014-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra de private arbejdsgivere for 2014 til finansiering af kommunernes indbetaling af ATP-bidrag ved udbetaling af sygedagpenge fastsættes til 129 kr. pr. fuldtidsansat lønmodtager. Stk. 2. Bidraget fra de private arbejdsgivere for 2014 til finansiering af kommunernes indbetaling af ATP-bidrag ved udbetaling af barseldagpenge fastsættes til 52 kr. pr. fuldtidsansat lønmodtager. Stk. 3. Bidragene efter stk. 1 og 2 opkræves og indbetales som et samlet beløb. Det samlede beløb udgør for 2014 på årsbasis 181 kr. pr. fuldtidsansat lønmodtager.",
-      "valid_from": "2013-12-27",
-      "valid_to": null
+      "valid_from": "2013-12-28",
+      "valid_to": "2014-12-18"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2014. Stk. 2. Bidraget opkræves første gang på grundlag af ATP-bidrag modtaget i perioden 2. marts 2014 - 1. juni 2014.",
-      "valid_from": "2013-12-27",
-      "valid_to": null
+      "valid_from": "2013-12-28",
+      "valid_to": "2014-12-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:19.044Z",
+    "accession": "B20130164805",
+    "document_id": "BE005698",
+    "unique_document_id": "160735",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-12-18",
+    "seed_status": "repealed"
+  }
 }

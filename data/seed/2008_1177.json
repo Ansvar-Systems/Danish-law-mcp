@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om anvendelse af visse regler i udlændingeloven over for Schweiz (Eurodac-forordningen og Dublinforordningen)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-12-09",
+  "in_force_date": "2008-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1177/xml",
-  "description": "Retsinformation source. DocumentId=BC000514; AccessionNumber=B20080117705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000514; AccessionNumber=B20080117705; Ophævet 2012-01-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Udlændingelovens §§ 29 a, stk. 1, 40 a, stk. 1, nr. 2, og stk. 2, nr. 1, 58 c, 58 i, stk. 1, og 58 j, skal også anvendes over for Schweiz.",
-      "valid_from": "2008-12-09",
-      "valid_to": null
+      "valid_from": "2008-12-11",
+      "valid_to": "2012-01-03"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 12. december 2008.",
-      "valid_from": "2008-12-09",
-      "valid_to": null
+      "valid_from": "2008-12-11",
+      "valid_to": "2012-01-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:52:03.302Z",
+    "accession": "B20080117705",
+    "document_id": "BC000514",
+    "unique_document_id": "122542",
+    "upstream_status": "Historic",
+    "start_date": "2008-12-11",
+    "end_date": "2017-12-12",
+    "historic_marked": "2012-01-03",
+    "seed_status": "repealed"
+  }
 }

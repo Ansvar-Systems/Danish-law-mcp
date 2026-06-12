@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-02-04",
+  "in_force_date": "2020-02-05",
   "url": "https://www.retsinformation.dk/eli/lta/2020/110/xml",
   "description": "Retsinformation source. DocumentId=AP000319; AccessionNumber=B20200011005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører Den Uafhængige Politiklagemyndighed og Civilstyrelsen, i henhold til nærmere aftale mellem justitsministeren og finansministeren overføres fra justitsministeren til finansministeren pr. 1. februar 2020.",
-      "valid_from": "2020-02-04",
+      "valid_from": "2020-02-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:32:34.557Z",
+    "accession": "B20200011005",
+    "document_id": "AP000319",
+    "unique_document_id": "212804",
+    "upstream_status": "Valid",
+    "start_date": "2020-02-05",
+    "end_date": "2020-02-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

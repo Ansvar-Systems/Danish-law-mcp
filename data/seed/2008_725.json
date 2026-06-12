@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om interoperabilitet mellem elektroniske bompengesystemer i Fællesskabet",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-07-03",
+  "in_force_date": "2008-07-08",
   "url": "https://www.retsinformation.dk/eli/lta/2008/725/xml",
-  "description": "Retsinformation source. DocumentId=BL000080; AccessionNumber=B20080072505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000080; AccessionNumber=B20080072505; Ophævet 2021-09-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Europa-Parlamentets og Rådets direktiv 2004/52/EF af 29. april 2004 om interoperabilitet mellem elektroniske bompengesystemer i Fællesskabet gennemføres ved denne bekendtgørelse i dansk ret Stk. 2. Direktivet er optaget som bilag til denne bekendtgørelse.",
-      "valid_from": "2008-07-03",
-      "valid_to": null
+      "valid_from": "2008-07-08",
+      "valid_to": "2021-09-28"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Operatører og udbydere af elektroniske bompengesystemer skal overholde direktivets bestemmelser, herunder tilbyde deres kunder den i artikel 3, stk. 4 nævnte europæiske elektroniske bompengetjeneste.",
-      "valid_from": "2008-07-03",
-      "valid_to": null
+      "valid_from": "2008-07-08",
+      "valid_to": "2021-09-28"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 9. juli 2008.",
-      "valid_from": "2008-07-03",
-      "valid_to": null
+      "valid_from": "2008-07-08",
+      "valid_to": "2021-09-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:26:20.095Z",
+    "accession": "B20080072505",
+    "document_id": "BL000080",
+    "unique_document_id": "120602",
+    "upstream_status": "Historic",
+    "start_date": "2008-07-08",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-09-28",
+    "seed_status": "repealed"
+  }
 }

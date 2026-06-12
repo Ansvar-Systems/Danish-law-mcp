@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om menighedsråd",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-01-03",
+  "in_force_date": "2007-01-11",
   "url": "https://www.retsinformation.dk/eli/lta/2007/9/xml",
-  "description": "Retsinformation source. DocumentId=AJ000270; AccessionNumber=A20070000929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AJ000270; AccessionNumber=A20070000929; Ophævet 2007-06-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:40:45.124Z",
+    "accession": "A20070000929",
+    "document_id": "AJ000270",
+    "unique_document_id": "11657",
+    "upstream_status": "Historic",
+    "start_date": "2007-01-11",
+    "end_date": "2014-07-02",
+    "historic_marked": "2007-06-25",
+    "seed_status": "repealed"
+  }
 }

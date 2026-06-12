@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om nationalparker",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-06",
+  "in_force_date": "2007-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/533/xml",
-  "description": "Retsinformation source. DocumentId=AL001640; AccessionNumber=A20070053330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001640; AccessionNumber=A20070053330; Ophævet 2013-07-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:26:05.398Z",
+    "accession": "A20070053330",
+    "document_id": "AL001640",
+    "unique_document_id": "13117",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-06",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-07-11",
+    "seed_status": "repealed"
+  }
 }

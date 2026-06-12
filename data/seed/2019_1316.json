@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-12-04",
+  "in_force_date": "2019-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1316/xml",
   "description": "Retsinformation source. DocumentId=BE008220; AccessionNumber=B20190131605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra arbejdsgivere, der indbetaler ATP-bidrag for deres ansatte til Arbejdsmarkedets Tillægspension, fastsættes for 2020 til 28 kr. for hver gang arbejdsgiveren betaler et beløb, der svarer til et fuldt års ATP-bidrag, jf. § 15 i lov om Arbejdsmarkedets Tillægspension.",
-      "valid_from": "2019-12-04",
+      "valid_from": "2019-12-10",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2020. Stk. 2. Det for 2020 fastsatte bidrag opkræves første gang på grundlag af ATP-bidrag, der er modtaget i perioden 2. marts til 1. juni 2020.",
-      "valid_from": "2019-12-04",
+      "valid_from": "2019-12-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:09.946Z",
+    "accession": "B20190131605",
+    "document_id": "BE008220",
+    "unique_document_id": "211717",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-10",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

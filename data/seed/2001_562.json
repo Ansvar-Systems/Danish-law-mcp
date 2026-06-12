@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om leje af almene boliger",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-19",
+  "in_force_date": "2001-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2001/562/xml",
-  "description": "Retsinformation source. DocumentId=AC000433; AccessionNumber=A20010056229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000433; AccessionNumber=A20010056229; Ophævet 2004-09-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:04:59.681Z",
+    "accession": "A20010056229",
+    "document_id": "AC000433",
+    "unique_document_id": "4212",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-28",
+    "end_date": "2023-04-28",
+    "historic_marked": "2004-09-20",
+    "seed_status": "repealed"
+  }
 }

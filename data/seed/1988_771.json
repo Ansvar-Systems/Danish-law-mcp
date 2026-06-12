@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indkomstgrundlaget i en række love",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-12-12",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/771/xml",
-  "description": "Retsinformation source. DocumentId=CM020449; AccessionNumber=B19880077105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020449; AccessionNumber=B19880077105; Ophævet 1991-09-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:24:03.483Z",
+    "accession": "B19880077105",
+    "document_id": "CM020449",
+    "unique_document_id": "61480",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-08",
+    "historic_marked": "1991-09-12",
+    "seed_status": "repealed"
+  }
 }

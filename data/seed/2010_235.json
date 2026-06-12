@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om kvælstofprognosen for planperioden 2009/2010",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-17",
+  "in_force_date": "2010-03-18",
   "url": "https://www.retsinformation.dk/eli/lta/2010/235/xml",
-  "description": "Retsinformation source. DocumentId=AH003788; AccessionNumber=B20100023505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003788; AccessionNumber=B20100023505; Ophævet 2010-09-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For arealer med korn og forårssåede afgrøder, der har en højere kvælstofkvote end 0 kg N pr. ha, og som er nævnt i bilag 1, tabel 1, til bekendtgørelse om jordbrugets anvendelse af gødning og om plantedække i planperioden 2009/2010, skal jordbrugsvirksomheder ved beregningen af den samlede kvote for planperioden anvende de korrektioner, som fremgår af bilag 1. Stk. 2. Afgrænsningen af de enkelte områder sker kommunevis. Af bilag 2 fremgår, til hvilket område den enkelte kommune skal henføres. Korrektionerne for jordbrugsvirksomheden skal fastlægges ud fra den kommune, hvor hovedparten af virksomheden er beliggende.",
-      "valid_from": "2010-03-17",
-      "valid_to": null
+      "valid_from": "2010-03-18",
+      "valid_to": "2010-09-28"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 19. marts 2010.",
-      "valid_from": "2010-03-17",
-      "valid_to": null
+      "valid_from": "2010-03-18",
+      "valid_to": "2010-09-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:07:14.390Z",
+    "accession": "B20100023505",
+    "document_id": "AH003788",
+    "unique_document_id": "130847",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-18",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-09-28",
+    "seed_status": "repealed"
+  }
 }

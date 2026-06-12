@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2014-07-04",
+  "in_force_date": "2014-07-08",
   "url": "https://www.retsinformation.dk/eli/lta/2014/878/xml",
   "description": "Retsinformation source. DocumentId=AA008050; AccessionNumber=B20140087805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 22, i lov nr. 1338 af 19. december 2008 om ændring af lov om registrering af køretøjer, færdselsloven, registreringsafgiftsloven og andre love (Justeringer vedrørende digital motorregistrering, registreringsafgift af motorcykler, godtgørelse af afgift ved eksport af køretøjer og kontrol af registreringsafgift samt krav om syn ved eksport af køretøjer) for så vidt angår § 18 i lov om registrering af køretøjer sættes i kraft.",
-      "valid_from": "2014-07-04",
+      "valid_from": "2014-07-08",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2014.",
-      "valid_from": "2014-07-04",
+      "valid_from": "2014-07-08",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:20:23.332Z",
+    "accession": "B20140087805",
+    "document_id": "AA008050",
+    "unique_document_id": "164108",
+    "upstream_status": "Valid",
+    "start_date": "2014-07-08",
+    "end_date": "2023-02-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

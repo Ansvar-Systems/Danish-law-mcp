@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Fællesskabsinitiativet LEADER+",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-10-31",
+  "in_force_date": "2001-11-08",
   "url": "https://www.retsinformation.dk/eli/lta/2001/951/xml",
-  "description": "Retsinformation source. DocumentId=AH001039; AccessionNumber=B20010095105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001039; AccessionNumber=B20010095105; Ophævet 2006-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:20:29.306Z",
+    "accession": "B20010095105",
+    "document_id": "AH001039",
+    "unique_document_id": "7365",
+    "upstream_status": "Historic",
+    "start_date": "2001-11-08",
+    "end_date": "2022-04-09",
+    "historic_marked": "2006-12-21",
+    "seed_status": "repealed"
+  }
 }

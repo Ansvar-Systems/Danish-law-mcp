@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om asbest",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-03-23",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1987/139/xml",
-  "description": "Retsinformation source. DocumentId=CM026313; AccessionNumber=B19870013905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026313; AccessionNumber=B19870013905; Ophævet 2004-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:29:54.678Z",
+    "accession": "B19870013905",
+    "document_id": "CM026313",
+    "unique_document_id": "67134",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2005-08-03",
+    "historic_marked": "2004-12-29",
+    "seed_status": "repealed"
+  }
 }

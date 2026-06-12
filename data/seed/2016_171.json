@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social service (Værdighedspolitikker for ældreplejen)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-02-27",
+  "in_force_date": "2016-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2016/171/xml",
-  "description": "Retsinformation source. DocumentId=CN000125; AccessionNumber=A20160017130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000125; AccessionNumber=A20160017130; Ophævet 2016-10-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "81a",
@@ -20,8 +21,19 @@
       "section": "81a",
       "content": "§ 81 a. Kommunalbestyrelsen skal i et møde træffe beslutning om samt offentliggøre en værdighedspolitik, der beskriver de overordnede værdier og prioriteringer for personlig hjælp, omsorg og pleje m.v., som ydes efter lov om social service til personer over folkepensionsalderen, jf. § 1 a i lov om social pension. Stk. 2. Sundheds- og ældreministeren fastsætter nærmere regler om kommunalbestyrelsens forpligtelser efter stk. 1.",
       "valid_from": "2016-02-27",
-      "valid_to": null
+      "valid_to": "2016-10-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:00:46.681Z",
+    "accession": "A20160017130",
+    "document_id": "CN000125",
+    "unique_document_id": "177733",
+    "upstream_status": "Historic",
+    "start_date": "2016-02-27",
+    "end_date": "2022-07-12",
+    "historic_marked": "2016-10-31",
+    "seed_status": "repealed"
+  }
 }

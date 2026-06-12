@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om grundlagsrente for livsforsikringsvirksomhed (* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-12",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/963/xml",
-  "description": "Retsinformation source. DocumentId=CM043761; AccessionNumber=B19950096305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043761; AccessionNumber=B19950096305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:59:32.309Z",
+    "accession": "B19950096305",
+    "document_id": "CM043761",
+    "unique_document_id": "84329",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

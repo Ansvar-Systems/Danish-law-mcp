@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-02-29",
+  "in_force_date": "2024-03-01",
   "url": "https://www.retsinformation.dk/eli/lta/2024/206/xml",
   "description": "Retsinformation source. DocumentId=DC001530; AccessionNumber=B20240020605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 82 af 28. januar 2024 om fund af højpatogen aviær influenza ved Lundby i Slagelse Kommune ophæves.",
-      "valid_from": "2024-02-29",
+      "valid_from": "2024-03-01",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 4. marts 2024.",
-      "valid_from": "2024-02-29",
+      "valid_from": "2024-03-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:55:13.579Z",
+    "accession": "B20240020605",
+    "document_id": "DC001530",
+    "unique_document_id": "242109",
+    "upstream_status": "Valid",
+    "start_date": "2024-03-01",
+    "end_date": "2024-03-02",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

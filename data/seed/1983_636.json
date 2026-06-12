@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om biblioteksafgift",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1983-12-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1983/636/xml",
-  "description": "Retsinformation source. DocumentId=CM006148; AccessionNumber=B19830063605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006148; AccessionNumber=B19830063605; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:33:35.112Z",
+    "accession": "B19830063605",
+    "document_id": "CM006148",
+    "unique_document_id": "47357",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-01-22",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om hemmelige patenter. (* 1)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-10-25",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1978/547/xml",
-  "description": "Retsinformation source. DocumentId=CM025297; AccessionNumber=A19780054729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025297; AccessionNumber=A19780054729; Ophævet 1989-12-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:05:01.235Z",
+    "accession": "A19780054729",
+    "document_id": "CM025297",
+    "unique_document_id": "66183",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1989-12-12",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om krav om mundbind m.v. i kollektiv trafik m.v. i forbindelse med håndtering af covid-19",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-06-01",
+  "in_force_date": "2021-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1085/xml",
-  "description": "Retsinformation source. DocumentId=DG000105; AccessionNumber=B20210108505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000105; AccessionNumber=B20210108505; Ophævet 2021-06-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7a",
@@ -20,8 +21,19 @@
       "section": "7a",
       "content": "§ 7 a. Uanset §§ 1 og 2 er det tilladt for deltagere i studenterkørselsarrangementer at køre uden mundbind og visir i bus under fejring af endt gymnasial uddannelse (studenterkørsel).",
       "valid_from": "2021-06-01",
-      "valid_to": null
+      "valid_to": "2021-06-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:25:50.056Z",
+    "accession": "B20210108505",
+    "document_id": "DG000105",
+    "unique_document_id": "223535",
+    "upstream_status": "Historic",
+    "start_date": "2021-06-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-06-16",
+    "seed_status": "repealed"
+  }
 }

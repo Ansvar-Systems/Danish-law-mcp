@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-02-07",
+  "in_force_date": "2022-02-08",
   "url": "https://www.retsinformation.dk/eli/lta/2022/201/xml",
   "description": "Retsinformation source. DocumentId=DI000560; AccessionNumber=B20220020105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1228 af 7. december 2005 om indførsel af visse foderlægemidler til dyr og fisk ophæves.",
-      "valid_from": "2022-02-07",
+      "valid_from": "2022-02-08",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 10. februar 2022.",
-      "valid_from": "2022-02-07",
+      "valid_from": "2022-02-08",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:29:28.048Z",
+    "accession": "B20220020105",
+    "document_id": "DI000560",
+    "unique_document_id": "229170",
+    "upstream_status": "Valid",
+    "start_date": "2022-02-08",
+    "end_date": "2022-02-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

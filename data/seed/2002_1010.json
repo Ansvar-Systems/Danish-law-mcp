@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om det kommunale redningsberedskabs dimensionering m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-11",
+  "in_force_date": "2002-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1010/xml",
-  "description": "Retsinformation source. DocumentId=AI001046; AccessionNumber=B20020101005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001046; AccessionNumber=B20020101005; Ophævet 2007-08-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:22:52.693Z",
+    "accession": "B20020101005",
+    "document_id": "AI001046",
+    "unique_document_id": "9451",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-20",
+    "end_date": "2026-02-20",
+    "historic_marked": "2007-08-31",
+    "seed_status": "repealed"
+  }
 }

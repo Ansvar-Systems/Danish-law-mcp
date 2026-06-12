@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kommunal ejendomsskat og lov om vurdering af landets faste ejendomme (Fritagelse for grundskyld for ejendomme ramt af kystnedbrydning og vurdering af visse ejendomme med hjemfaldspligt)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-29",
+  "in_force_date": "2015-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1887/xml",
-  "description": "Retsinformation source. DocumentId=AN012393; AccessionNumber=A20150188730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN012393; AccessionNumber=A20150188730; Ophævet 2020-10-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7A",
@@ -30,22 +31,33 @@
       "section": "7A",
       "content": "§ 7 A. Kommunalbestyrelsen skal meddele hel eller delvis fritagelse for grundskyld af ejendomme, hvor grunden er ramt af kystnedbrydning. Fritagelsen gælder alene, indtil en ny ansættelse kan lægges til grund ved opgørelsen af det afgiftspligtige grundlag, jf. § 26, stk. 2.",
       "valid_from": "2015-12-29",
-      "valid_to": null
+      "valid_to": "2020-10-12"
     },
     {
       "provision_ref": "12A",
       "section": "12A",
       "content": "§ 12 A. Hvis ejeren over for told- og skatteforvaltningen godtgør, at der på ejendommen senest den 31. december 2015 er tinglyst en hjemfaldspligt, hvor der på vurderingstidspunktet er 10 år eller mindre til det tidspunkt, hvor kommunen tidligst kan udnytte hjemfaldspligten, skal der ved ansættelsen ikke tages hensyn til ændrede planforhold.",
       "valid_from": "2015-12-29",
-      "valid_to": null
+      "valid_to": "2020-10-12"
     },
     {
       "provision_ref": "13A",
       "section": "13A",
       "content": "§ 13 A. Hvis ejeren over for told- og skatteforvaltningen godtgør, at der på ejendommen senest den 31. december 2015 er tinglyst en hjemfaldspligt, hvor der på vurderingstidspunktet er 10 år eller mindre til det tidspunkt, hvor kommunen tidligst kan udnytte hjemfaldspligten, skal der ved ansættelsen ikke tages hensyn til ændrede planforhold.",
       "valid_from": "2015-12-29",
-      "valid_to": null
+      "valid_to": "2020-10-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:58:10.572Z",
+    "accession": "A20150188730",
+    "document_id": "AN012393",
+    "unique_document_id": "176792",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-10-12",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forældremyndighed og samværsret",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-09-18",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1990/649/xml",
-  "description": "Retsinformation source. DocumentId=CM016664; AccessionNumber=B19900064905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016664; AccessionNumber=B19900064905; Ophævet 1996-03-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:24:04.209Z",
+    "accession": "B19900064905",
+    "document_id": "CM016664",
+    "unique_document_id": "57736",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-08",
+    "historic_marked": "1996-03-21",
+    "seed_status": "repealed"
+  }
 }

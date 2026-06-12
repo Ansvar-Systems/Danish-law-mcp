@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kommunernes styrelse",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-05-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/259/xml",
-  "description": "Retsinformation source. DocumentId=CM011596; AccessionNumber=A19930025930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011596; AccessionNumber=A19930025930; Ophævet 1994-03-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:06:05.881Z",
+    "accession": "A19930025930",
+    "document_id": "CM011596",
+    "unique_document_id": "52760",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-04-29",
+    "historic_marked": "1994-03-23",
+    "seed_status": "repealed"
+  }
 }

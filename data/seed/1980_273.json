@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om kapitalindskud i Det Danske Stålvalseværk A/S (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-06-16",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1980/273/xml",
-  "description": "Retsinformation source. DocumentId=CM025451; AccessionNumber=A19800027330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025451; AccessionNumber=A19800027330; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:01:06.519Z",
+    "accession": "A19800027330",
+    "document_id": "CM025451",
+    "unique_document_id": "66328",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2025-02-12",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 060 for mobilkommunikation ombord på fly (MCA) i frekvensbåndene 1710-1785 MHz/1805-1880 MHz og 1920-1980 MHz/2110-2170 MHz",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-05-20",
+  "in_force_date": "2014-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2014/495/xml",
-  "description": "Retsinformation source. DocumentId=BP000857; AccessionNumber=B20140049505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000857; AccessionNumber=B20140049505; Ophævet 2017-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For mobilkommunikation ombord på fly (MCA) i frekvensbåndene 1710-1785 MHz/1805-1880 MHz og 1920-1980 MHz/2110-2170 MHz gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 060 for mobilkommunikation ombord på fly (MCA) i frekvensbåndene 1710-1785 MHz/1805-1880 MHz og 1920-1980 MHz/2110-2170 MHz.",
-      "valid_from": "2014-05-20",
-      "valid_to": null
+      "valid_from": "2014-05-24",
+      "valid_to": "2017-05-26"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juni 2014. Stk. 2. Bekendtgørelse nr. 1177 af 12. oktober 2010 om Dansk radiogrænseflade nr. 00 060 for mobilkommunikation ombord på fly (MCA) i frekvensbåndene 1710-1785 MHz og 1805-1880 MHz ophæves.",
-      "valid_from": "2014-05-20",
-      "valid_to": null
+      "valid_from": "2014-05-24",
+      "valid_to": "2017-05-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:04:58.222Z",
+    "accession": "B20140049505",
+    "document_id": "BP000857",
+    "unique_document_id": "162262",
+    "upstream_status": "Historic",
+    "start_date": "2014-05-24",
+    "end_date": "2026-06-04",
+    "historic_marked": "2017-05-26",
+    "seed_status": "repealed"
+  }
 }

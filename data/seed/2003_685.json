@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af udlændingeloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-07-24",
+  "in_force_date": "2003-07-31",
   "url": "https://www.retsinformation.dk/eli/lta/2003/685/xml",
-  "description": "Retsinformation source. DocumentId=BC000146; AccessionNumber=A20030068529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000146; AccessionNumber=A20030068529; Ophævet 2004-07-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:40:12.468Z",
+    "accession": "A20030068529",
+    "document_id": "BC000146",
+    "unique_document_id": "28944",
+    "upstream_status": "Historic",
+    "start_date": "2003-07-31",
+    "end_date": "2017-12-12",
+    "historic_marked": "2004-07-26",
+    "seed_status": "repealed"
+  }
 }

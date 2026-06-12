@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social service og lov om retssikkerhed og administration på det sociale område (Klage over afgørelser om personlig og praktisk hjælp m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-06-26",
+  "in_force_date": "1998-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/1998/410/xml",
-  "description": "Retsinformation source. DocumentId=CM047395; AccessionNumber=A19980041030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047395; AccessionNumber=A19980041030; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:44:05.523Z",
+    "accession": "A19980041030",
+    "document_id": "CM047395",
+    "unique_document_id": "87568",
+    "upstream_status": "Historic",
+    "start_date": "1998-06-30",
+    "end_date": "2022-07-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

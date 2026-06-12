@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om materialer og genstande bestemt til kontakt med fødevarer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-19",
+  "in_force_date": "2005-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2005/802/xml",
-  "description": "Retsinformation source. DocumentId=BG000217; AccessionNumber=B20050080205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000217; AccessionNumber=B20050080205; Ophævet 2006-05-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:34:55.701Z",
+    "accession": "B20050080205",
+    "document_id": "BG000217",
+    "unique_document_id": "31504",
+    "upstream_status": "Historic",
+    "start_date": "2005-08-29",
+    "end_date": "2022-04-09",
+    "historic_marked": "2006-05-18",
+    "seed_status": "repealed"
+  }
 }

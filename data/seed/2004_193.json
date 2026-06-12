@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om børnepasningsorlov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-23",
+  "in_force_date": "2004-04-01",
   "url": "https://www.retsinformation.dk/eli/lta/2004/193/xml",
-  "description": "Retsinformation source. DocumentId=BE000958; AccessionNumber=A20040019329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000958; AccessionNumber=A20040019329; Ophævet 2011-09-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:16:17.513Z",
+    "accession": "A20040019329",
+    "document_id": "BE000958",
+    "unique_document_id": "30047",
+    "upstream_status": "Historic",
+    "start_date": "2004-04-01",
+    "end_date": "2014-12-04",
+    "historic_marked": "2011-09-19",
+    "seed_status": "repealed"
+  }
 }

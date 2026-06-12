@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om mindsterenten for perioden 1. januar 2006 30. juni 2006",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-20",
+  "in_force_date": "2005-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1443/xml",
-  "description": "Retsinformation source. DocumentId=AN005047; AccessionNumber=B20050144305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005047; AccessionNumber=B20050144305; Ophævet 2006-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:06:45.134Z",
+    "accession": "B20050144305",
+    "document_id": "AN005047",
+    "unique_document_id": "17143",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-22",
+    "end_date": "2007-01-02",
+    "historic_marked": "2006-06-29",
+    "seed_status": "repealed"
+  }
 }

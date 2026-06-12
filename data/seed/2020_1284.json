@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godkendelse og syn af køretøjer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-08-28",
+  "in_force_date": "2020-09-01",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1284/xml",
-  "description": "Retsinformation source. DocumentId=CZ000299; AccessionNumber=B20200128405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000299; AccessionNumber=B20200128405; Ophævet 2020-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7. Færdselsstyrelsen udsteder EU-typegodkendelser af ubegrænsede og små serier af nye køretøjer, national typegodkendelse af små serier af nye køretøjer og individuelle EU-godkendelser af visse nye køretøjer i henhold til følgende bekendtgørelser: 1) Bekendtgørelse om godkendelse af nye motorkøretøjer m.v. 2) Bekendtgørelse om godkendelse af nye to- eller trehjulede køretøjer m.v. 3) Bekendtgørelse om godkendelse af nye landbrugs- og skovbrugstraktorer m.v. Stk. 2. Et nyt registreringspligtigt køretøj, som omfattet af stk. 1, kan tages i brug uden syn på grundlag af den tilhørende typeattest for komplet eller færdiggjort komplet køretøj eller den individuelle EU-godkendelse. Stk. 3. Færdselsstyrelsen udsteder desuden godkendelseserklæringer, der omfatter et enkelt køretøj eller chassis, hvor det færdigopbyggede køretøj skal synes inden ibrugtagning.",
-      "valid_from": "2020-08-28",
-      "valid_to": null
+      "valid_from": "2020-09-01",
+      "valid_to": "2020-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:39:58.117Z",
+    "accession": "B20200128405",
+    "document_id": "CZ000299",
+    "unique_document_id": "216145",
+    "upstream_status": "Historic",
+    "start_date": "2020-09-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-11-25",
+    "seed_status": "repealed"
+  }
 }

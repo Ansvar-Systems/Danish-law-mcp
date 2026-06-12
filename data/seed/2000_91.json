@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af teaterlov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-07",
+  "in_force_date": "2000-02-14",
   "url": "https://www.retsinformation.dk/eli/lta/2000/91/xml",
-  "description": "Retsinformation source. DocumentId=AK000080; AccessionNumber=A20000009129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000080; AccessionNumber=A20000009129; Ophævet 2003-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:38:23.249Z",
+    "accession": "A20000009129",
+    "document_id": "AK000080",
+    "unique_document_id": "11764",
+    "upstream_status": "Historic",
+    "start_date": "2000-02-14",
+    "end_date": "2015-12-18",
+    "historic_marked": "2003-12-18",
+    "seed_status": "repealed"
+  }
 }

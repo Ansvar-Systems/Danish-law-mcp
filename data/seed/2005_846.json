@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om huseftersynsordningen",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-08",
+  "in_force_date": "2005-09-15",
   "url": "https://www.retsinformation.dk/eli/lta/2005/846/xml",
-  "description": "Retsinformation source. DocumentId=AU002218; AccessionNumber=B20050084605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002218; AccessionNumber=B20050084605; Ophævet 2005-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:36:39.820Z",
+    "accession": "B20050084605",
+    "document_id": "AU002218",
+    "unique_document_id": "27090",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-15",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-12-22",
+    "seed_status": "repealed"
+  }
 }

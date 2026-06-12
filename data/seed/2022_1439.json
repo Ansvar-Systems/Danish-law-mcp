@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-11-11",
+  "in_force_date": "2022-11-11",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1439/xml",
   "description": "Retsinformation source. DocumentId=DC000753; AccessionNumber=B20220143905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -353,5 +354,16 @@
       "definition": "sikker digital kommunikation til og fra Fiskeristyrelsen via f",
       "source_provision": "2:3"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:19:11.987Z",
+    "accession": "B20220143905",
+    "document_id": "DC000753",
+    "unique_document_id": "233616",
+    "upstream_status": "Valid",
+    "start_date": "2022-11-11",
+    "end_date": "2023-10-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

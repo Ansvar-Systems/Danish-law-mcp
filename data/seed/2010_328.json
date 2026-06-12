@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om udsætning af vildt, jagtmåder og jagtredskaber\\n(Sagsbehandlingsregler mv. – implementering af servicedirektiv)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-22",
+  "in_force_date": "2010-03-31",
   "url": "https://www.retsinformation.dk/eli/lta/2010/328/xml",
-  "description": "Retsinformation source. DocumentId=AL002179; AccessionNumber=B20100032805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002179; AccessionNumber=B20100032805; Ophævet 2014-03-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12",
@@ -19,8 +20,8 @@
       "provision_ref": "12",
       "section": "12",
       "content": "§ 12 a. En person eller juridisk person som er godkendt af Skov- og Naturstyrelsen til at afholde fugleudsætningskursus betragtes som tjenesteudbyder. Ved tjenestemodtager forstås enhver som deltager i eller ønsker at deltage i et fugleudsætningskursus omfattet af § 12, stk. 5. Stk. 2. Udbyderen af fugleudsætningskurser skal oplyse tjenestemodtagere om kontaktoplysninger til Skov- og Naturstyrelsen eller til Økonomi- og Erhvervsministeriets elektroniske kontaktpunkt (kvikskranke), jf. § 16 i lov om tjenes­te­ydel­ser i det indre marked. Stk. 3. Oplysningerne skal gøres tilgængelige eller meddeles klart og entydigt og i god tid inden kontraktens indgåelse eller inden udførelse af tjenesteydelsen, hvis der ikke foreligger en skriftlig aftale.",
-      "valid_from": "2010-03-22",
-      "valid_to": null
+      "valid_from": "2010-03-31",
+      "valid_to": "2014-03-25"
     }
   ],
   "definitions": [
@@ -29,5 +30,16 @@
       "definition": "enhver som deltager i eller ønsker at deltage i et fugleudsætningskursus omfattet af § 12, stk",
       "source_provision": "12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:10:59.924Z",
+    "accession": "B20100032805",
+    "document_id": "AL002179",
+    "unique_document_id": "130945",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-31",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-03-25",
+    "seed_status": "repealed"
+  }
 }

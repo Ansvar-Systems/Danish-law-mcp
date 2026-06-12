@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2020-06-04",
+  "in_force_date": "2020-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2020/822/xml",
   "description": "Retsinformation source. DocumentId=CN001287; AccessionNumber=B20200082205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1-7 og 9-49, § 2, nr. 1, og §§ 4 og 5 i lov nr. 1436 af 17. december 2019 om ændring af lov om videnskabsetisk behandling af sundhedsvidenskabelige forskningsprojekter, sundhedsloven, lov om klage- og erstatningsadgang inden for sundhedsvæsenet og lægemiddelloven (Styrkelse af borgernes tryghed og tillid til sundhedsforskning samt forbedrede rammer for sundhedsforskning) sættes i kraft.",
-      "valid_from": "2020-06-04",
+      "valid_from": "2020-06-09",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juni 2020.",
-      "valid_from": "2020-06-04",
+      "valid_from": "2020-06-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:44:38.709Z",
+    "accession": "B20200082205",
+    "document_id": "CN001287",
+    "unique_document_id": "215050",
+    "upstream_status": "Valid",
+    "start_date": "2020-06-09",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

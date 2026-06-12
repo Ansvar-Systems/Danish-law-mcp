@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-04-28",
+  "in_force_date": "2020-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/549/xml",
   "description": "Retsinformation source. DocumentId=DB000130; AccessionNumber=B20200054905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Klima-, energi- og forsyningsministeren bestemmer, at følgende beføjelser i lov om stedbestemt information, som sat i kraft for Færøerne ved kongelig anordning nr. 189 af 12. februar 2019, i forhold til varetagelse af opgaver vedrørende udenrigs-, sikkerheds- og forsvarspolitik, jf. § 1, stk. 2, nr. 4, i lov nr. 578 af 24. juni 2005 om de færøske myndigheders overtagelse af sager og sagsområder, udøves af Styrelsen for Dataforsyning og Effektivisering: 1) Beføjelsen i lovens § 2, stk. 1, om geodætiske infrastrukturer. 2) Beføjelsen i lovens § 3, stk. 1, om erhvervelse af arealer til fikspunkter og installationer. 3) Beføjelsen i lovens § 4, stk. 1, om landkortlægning og hertil hørende data, registre og kortværk. 4) Beføjelsen i lovens § 15 om adgang til udendørs lokaliteter.",
-      "valid_from": "2020-04-28",
+      "valid_from": "2020-04-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2020.",
-      "valid_from": "2020-04-28",
+      "valid_from": "2020-04-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:33:39.977Z",
+    "accession": "B20200054905",
+    "document_id": "DB000130",
+    "unique_document_id": "213975",
+    "upstream_status": "Valid",
+    "start_date": "2020-04-30",
+    "end_date": "2020-04-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

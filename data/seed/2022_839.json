@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2022-06-09",
+  "in_force_date": "2022-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2022/839/xml",
   "description": "Retsinformation source. DocumentId=CE001241; AccessionNumber=B20220083905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "3a",
       "section": "3a",
       "content": "§ 3 a. En ph.d.-studerende er enlig forsørger, jf. lovens § 51, stk. 2, 2. pkt., når den ph.d.-studerende har ret til og modtager ekstra børnetilskud efter lov om børnetilskud og forskudsvis udbetaling af børnebidrag 1) i det kvartal, hvor fødslen eller adoptionen finder sted, 2) i det kvartal, der følger efter kvartalet, hvor fødslen eller adoptionen finder sted, eller 3) i det 2. kvartal efter det kvartal, hvor fødslen finder sted, hvis fødslen eller adoptionen er sket i den sidste måned i kvartalet. Stk. 2. Stipendiegiver kan bestemme, at der tildeles supplerende ph.d.-stipendier, jf. stk. 1, til enlige forsørgere, der ikke har ret til ekstra børnetilskud efter lov om børnetilskud, men som på anden vis kan dokumentere, at de er enlige forsørgere.",
-      "valid_from": "2022-06-09",
+      "valid_from": "2022-06-14",
       "valid_to": null
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Supplerende stipendierater, der overføres efter lovens § 51, stk. 3, kan ikke udbetales sammen med den modtagende forælders egne supplerende stipendierater eller sammen med andre stipendierater efter lovens §§ 50 og 51, stk. 1.",
-      "valid_from": "2022-06-09",
+      "valid_from": "2022-06-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:55:09.651Z",
+    "accession": "B20220083905",
+    "document_id": "CE001241",
+    "unique_document_id": "231625",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-14",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

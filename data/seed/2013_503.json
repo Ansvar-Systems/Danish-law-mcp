@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om vedtægter for Arbejdsmarkedets Feriefond",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-05-13",
+  "in_force_date": "2013-05-23",
   "url": "https://www.retsinformation.dk/eli/lta/2013/503/xml",
-  "description": "Retsinformation source. DocumentId=BE005472; AccessionNumber=B20130050305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005472; AccessionNumber=B20130050305; Ophævet 2014-06-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8 a. Arbejdsmarkedets Feriefond kan ikke overdrage krav på feriepenge, der efter ferieloven tilfalder fonden.",
-      "valid_from": "2013-05-13",
-      "valid_to": null
+      "valid_from": "2013-05-23",
+      "valid_to": "2014-06-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:07:00.176Z",
+    "accession": "B20130050305",
+    "document_id": "BE005472",
+    "unique_document_id": "146429",
+    "upstream_status": "Historic",
+    "start_date": "2013-05-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-06-23",
+    "seed_status": "repealed"
+  }
 }

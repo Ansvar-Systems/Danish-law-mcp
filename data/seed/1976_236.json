@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Energistyrelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1976-05-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1976/236/xml",
-  "description": "Retsinformation source. DocumentId=CM007039; AccessionNumber=B19760023605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM007039; AccessionNumber=B19760023605; Ophævet 1994-12-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:48:36.438Z",
+    "accession": "B19760023605",
+    "document_id": "CM007039",
+    "unique_document_id": "48236",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1994-12-07",
+    "seed_status": "repealed"
+  }
 }

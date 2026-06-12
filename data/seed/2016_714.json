@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om særtransport",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-06-13",
+  "in_force_date": "2016-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2016/714/xml",
-  "description": "Retsinformation source. DocumentId=CH000228; AccessionNumber=B20160071405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CH000228; AccessionNumber=B20160071405; Ophævet 2021-09-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:17.215Z",
+    "accession": "B20160071405",
+    "document_id": "CH000228",
+    "unique_document_id": "180277",
+    "upstream_status": "Historic",
+    "start_date": "2016-06-14",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-09-30",
+    "seed_status": "repealed"
+  }
 }

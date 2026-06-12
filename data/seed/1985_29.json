@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilkaldelse af lods m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-01-30",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1985/29/xml",
-  "description": "Retsinformation source. DocumentId=CM000300; AccessionNumber=B19850002905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000300; AccessionNumber=B19850002905; Ophævet 2002-07-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:51:36.452Z",
+    "accession": "B19850002905",
+    "document_id": "CM000300",
+    "unique_document_id": "41804",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-02-20",
+    "historic_marked": "2002-07-11",
+    "seed_status": "repealed"
+  }
 }

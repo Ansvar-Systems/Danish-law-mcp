@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om aktieselskaber (Aktieselskabsloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-09-25",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1991/659/xml",
-  "description": "Retsinformation source. DocumentId=CM025329; AccessionNumber=A19910065929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025329; AccessionNumber=A19910065929; Ophævet 1993-07-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:56:32.601Z",
+    "accession": "A19910065929",
+    "document_id": "CM025329",
+    "unique_document_id": "66212",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1993-07-30",
+    "seed_status": "repealed"
+  }
 }

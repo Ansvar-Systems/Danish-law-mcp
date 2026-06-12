@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af den fortegnelse over valgkredse, der indeholdes i lov om folketingsvalg i Grønland",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-23",
+  "in_force_date": "2018-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2018/517/xml",
-  "description": "Retsinformation source. DocumentId=CR000660; AccessionNumber=B20180051705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CR000660; AccessionNumber=B20180051705; Ophævet 2018-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Fortegnelsen over valgkredse i Grønland affattes som angivet i bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2018-05-23",
-      "valid_to": null
+      "valid_from": "2018-05-24",
+      "valid_to": "2018-06-28"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juni 2018. Stk. 2. Bekendtgørelse nr. 476 af 17. maj 2011 om ændring af den fortegnelse over valgkredse, der indeholdes i lov om folketingsvalg i Grønland, ophæves.",
-      "valid_from": "2018-05-23",
-      "valid_to": null
+      "valid_from": "2018-05-24",
+      "valid_to": "2018-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:08:57.698Z",
+    "accession": "B20180051705",
+    "document_id": "CR000660",
+    "unique_document_id": "198393",
+    "upstream_status": "Historic",
+    "start_date": "2018-05-24",
+    "end_date": "2023-04-29",
+    "historic_marked": "2018-06-28",
+    "seed_status": "repealed"
+  }
 }

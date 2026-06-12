@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2013-02-12",
+  "in_force_date": "2013-02-20",
   "url": "https://www.retsinformation.dk/eli/lta/2013/154/xml",
   "description": "Retsinformation source. DocumentId=AG000524; AccessionNumber=B20130015405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. I det statslige regionale redningsberedskab er tjenestetiden 9 måneder for værnepligtige menige. Stk. 2. For værnepligtige, der udtages til uddannelse som værnepligtige mellemledere eller gennemgår uddannelse som befalingsmand af reserven, er tjenestetiden indtil 18 måneder. Stk. 3. Beredskabsstyrelsen kan pålægge en værnepligtig, der på grund af forsømmelighed eller andre lignende årsager, afgår fra uddannelsen som mellemleder, en samlet tjenestetid på indtil 12 måneder. Stk. 4. En værnepligtig kan genindkaldes til tjeneste af i alt 1 måneds varighed.",
-      "valid_from": "2013-02-12",
+      "valid_from": "2013-02-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:47:59.421Z",
+    "accession": "B20130015405",
+    "document_id": "AG000524",
+    "unique_document_id": "145455",
+    "upstream_status": "Valid",
+    "start_date": "2013-02-20",
+    "end_date": "2026-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

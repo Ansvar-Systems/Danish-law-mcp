@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 5 i lov om betalingskonti",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-18",
+  "in_force_date": "2018-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1574/xml",
-  "description": "Retsinformation source. DocumentId=CQ000719; AccessionNumber=B20180157405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000719; AccessionNumber=B20180157405; Ophævet 2019-01-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 5 i lov nr. 375 af 27. april 2016 om betalingskonti sættes i kraft.",
       "valid_from": "2018-12-18",
-      "valid_to": null
+      "valid_to": "2019-01-03"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2019.",
       "valid_from": "2018-12-18",
-      "valid_to": null
+      "valid_to": "2019-01-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:43.289Z",
+    "accession": "B20180157405",
+    "document_id": "CQ000719",
+    "unique_document_id": "205335",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-18",
+    "end_date": "2019-01-04",
+    "historic_marked": "2019-01-03",
+    "seed_status": "repealed"
+  }
 }

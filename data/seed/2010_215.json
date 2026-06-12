@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om formidling, udbud og rådgivning ved omsætning af fast ejendom (Formidlingsbekendtgørelsen)\\n(Implementering af Servicedirektivet)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-09",
+  "in_force_date": "2010-03-11",
   "url": "https://www.retsinformation.dk/eli/lta/2010/215/xml",
-  "description": "Retsinformation source. DocumentId=AU003949; AccessionNumber=B20100021505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003949; AccessionNumber=B20100021505; Ophævet 2014-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3 a. Formidleren skal oplyse forbrugeren om: 1) kontaktoplysninger til Erhvervs- og Byggestyrelsen, 2) de faglige organisationer, som formidleren er medlem af, 3) sin faglige titel og hvilket EU-land, der har udstedt titlen, og 4) erhvervsansvarsforsikringer og garantier, som formidleren har tegnet samt kontaktoplysninger på forsikringsselskabet og oplysning om, hvor forsikringen dækker geografisk. Stk. 2. Hvis forbrugeren anmoder om det, skal formidleren oplyse om de faglige regler, der gælder i det land, hvor formidleren er etableret, og hvordan forbrugeren får adgang til dem.",
-      "valid_from": "2010-03-09",
-      "valid_to": null
+      "valid_from": "2010-03-11",
+      "valid_to": "2014-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:06:26.160Z",
+    "accession": "B20100021505",
+    "document_id": "AU003949",
+    "unique_document_id": "130715",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-11",
+    "end_date": "2017-12-08",
+    "historic_marked": "2014-11-25",
+    "seed_status": "repealed"
+  }
 }

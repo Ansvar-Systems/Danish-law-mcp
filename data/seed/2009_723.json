@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om selvforskyldt ledighed",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-07-03",
+  "in_force_date": "2009-07-10",
   "url": "https://www.retsinformation.dk/eli/lta/2009/723/xml",
-  "description": "Retsinformation source. DocumentId=BE003455; AccessionNumber=B20090072305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE003455; AccessionNumber=B20090072305; Ophævet 2012-01-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -24,16 +25,27 @@
       "provision_ref": "13",
       "section": "13",
       "content": "§ 13 a. Et medlem er selvforskyldt ledig, hvis medlemmet uden en gyldig grund afslår at medvirke til eller følge op på et uddannelsespålæg eller udebliver fra, afslår eller ophører i en uddannelse på baggrund af et uddannelsespålæg.",
-      "valid_from": "2009-07-03",
-      "valid_to": null
+      "valid_from": "2009-07-10",
+      "valid_to": "2012-01-26"
     },
     {
       "provision_ref": "31",
       "section": "31",
       "content": "§ 31. Et medlem kan ophøre i et tilbud eller en aktivitet, hvis det skyldes, at medlemmet skal overtage et arbejde, som a-kassen eller jobcenteret har henvist til.",
-      "valid_from": "2009-07-03",
-      "valid_to": null
+      "valid_from": "2009-07-10",
+      "valid_to": "2012-01-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:23:32.830Z",
+    "accession": "B20090072305",
+    "document_id": "BE003455",
+    "unique_document_id": "125563",
+    "upstream_status": "Historic",
+    "start_date": "2009-07-10",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-01-26",
+    "seed_status": "repealed"
+  }
 }

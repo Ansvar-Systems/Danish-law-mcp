@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om miljøstøtte",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-12-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1980/607/xml",
-  "description": "Retsinformation source. DocumentId=CM007401; AccessionNumber=B19800060705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM007401; AccessionNumber=B19800060705; Ophævet 2015-02-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:05:35.165Z",
+    "accession": "B19800060705",
+    "document_id": "CM007401",
+    "unique_document_id": "48598",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-02-24",
+    "seed_status": "repealed"
+  }
 }

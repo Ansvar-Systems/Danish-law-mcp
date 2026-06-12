@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Det Økonomiske Råd og Det Miljøøkonomiske Råd (Formandskabets vurdering af produktivitetsudviklingen, sammensætningen af rådene, lovfæstelse af følg eller forklar-princippet m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-12-27",
+  "in_force_date": "2016-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1751/xml",
-  "description": "Retsinformation source. DocumentId=CR000011; AccessionNumber=A20160175130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CR000011; AccessionNumber=A20160175130; Ophævet 2017-02-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3a",
@@ -20,8 +21,19 @@
       "section": "3a",
       "content": "§ 3 a. Tages formandskabets vurderinger efter § 3, stk. 5, for så vidt angår budgetlovens korrektionsmekanisme og bestemmelser om exceptionelle omstændigheder, ikke til følge, skal finansministeren offentligt redegøre herfor.",
       "valid_from": "2016-12-27",
-      "valid_to": null
+      "valid_to": "2017-02-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:02:27.532Z",
+    "accession": "A20160175130",
+    "document_id": "CR000011",
+    "unique_document_id": "186020",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-02-23",
+    "seed_status": "repealed"
+  }
 }

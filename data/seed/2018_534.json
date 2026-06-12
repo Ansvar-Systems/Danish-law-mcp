@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-05-25",
+  "in_force_date": "2018-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2018/534/xml",
   "description": "Retsinformation source. DocumentId=CK001701; AccessionNumber=B20180053405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen vedrører udtagning af prøver i forbindelse med overvågning af husdyr-MRSA hos svin, kvæg, fjerkræ, heste og mink. Stk. 2. Prøveudtagningsfrekvensen for de i stk. 1 nævnte dyrearter fremgår af Fødevarestyrelsens hjemmeside på www.fvst.dk. Stk. 3. Ved husdyr-MRSA forstås Methicillin resistente Staphylococcus aureus fundet hos et husdyr uanset typen.",
-      "valid_from": "2018-05-25",
+      "valid_from": "2018-05-26",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ejeren eller brugeren af et dyrehold, som består af en eller flere af de i § 1, stk. 1, nævnte dyrearter, skal på Fødevarestyrelsens anmodning, lade Fødevarestyrelsen udtage og indsende prøver af relevant materiale fra dyrene til undersøgelse for husdyr-MRSA. Stk. 2. Fødevarestyrelsen kan lade prøver udtaget i anden anledning undersøge for husdyr-MRSA.",
-      "valid_from": "2018-05-25",
+      "valid_from": "2018-05-26",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Resultaterne fra undersøgelserne vil blive benyttet til at kortlægge udbredelsen af husdyr-MRSA i de i § 1, stk. 1 nævnte dyrearter. Stk. 2. De i stk. 1, nævnte prøver fra de forskellige dyrearter kan indgå i forskningsprojekter vedrørende husdyr-MRSA.",
-      "valid_from": "2018-05-25",
+      "valid_from": "2018-05-26",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Fødevarestyrelsen afholder udgifterne til: 1) Udtagelse, indsendelse og undersøgelse af de i § 2, stk. 1, nævnte prøver. 2) Undersøgelse af de i § 2, stk. 2, nævnte prøver. Stk. 2. Alle andre udgifter end de i stk. 1 nævnte er Fødevarestyrelsen uvedkommende.",
-      "valid_from": "2018-05-25",
+      "valid_from": "2018-05-26",
       "valid_to": null
     },
     {
@@ -77,7 +78,7 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. juli 2018.",
-      "valid_from": "2018-05-25",
+      "valid_from": "2018-05-26",
       "valid_to": null
     }
   ],
@@ -87,5 +88,16 @@
       "definition": "Methicillin resistente Staphylococcus aureus fundet hos et husdyr uanset typen",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:09:38.847Z",
+    "accession": "B20180053405",
+    "document_id": "CK001701",
+    "unique_document_id": "201551",
+    "upstream_status": "Valid",
+    "start_date": "2018-05-26",
+    "end_date": "2024-01-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

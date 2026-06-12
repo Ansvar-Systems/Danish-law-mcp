@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om arbejdsmiljø",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-06-13",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1990/380/xml",
-  "description": "Retsinformation source. DocumentId=CM028512; AccessionNumber=A19900038030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM028512; AccessionNumber=A19900038030; Ophævet 1995-10-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:13:15.988Z",
+    "accession": "A19900038030",
+    "document_id": "CM028512",
+    "unique_document_id": "69328",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1995-10-26",
+    "seed_status": "repealed"
+  }
 }

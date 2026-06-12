@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om privates indførsel af lægemidler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-07",
+  "in_force_date": "2005-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1224/xml",
-  "description": "Retsinformation source. DocumentId=AI002056; AccessionNumber=B20050122405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI002056; AccessionNumber=B20050122405; Ophævet 2018-04-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:57:55.445Z",
+    "accession": "B20050122405",
+    "document_id": "AI002056",
+    "unique_document_id": "10165",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-15",
+    "end_date": "2022-07-12",
+    "historic_marked": "2018-04-26",
+    "seed_status": "repealed"
+  }
 }

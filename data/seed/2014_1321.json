@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2014-12-02",
+  "in_force_date": "2014-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1321/xml",
   "description": "Retsinformation source. DocumentId=BK001628; AccessionNumber=B20140132103; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3 a. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i den for Færøerne gældende straffelovs 5. kapitel.",
-      "valid_from": "2014-12-02",
+      "valid_from": "2014-12-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:05.288Z",
+    "accession": "B20140132103",
+    "document_id": "BK001628",
+    "unique_document_id": "163887",
+    "upstream_status": "Valid",
+    "start_date": "2014-12-11",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

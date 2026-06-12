@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2016-06-17",
+  "in_force_date": "2016-06-20",
   "url": "https://www.retsinformation.dk/eli/lta/2016/737/xml",
   "description": "Retsinformation source. DocumentId=BE006840; AccessionNumber=B20160073705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 16 a, stk. 7 og 8, i lov om en aktiv beskæftigelsesindsats, som affattet ved § 1, nr. 12, og § 2, nr. 11 og 12, i lov nr. 1486 af 23. december 2014 om ændring af lov om en aktiv beskæftigelsesindsats, lov om arbejdsløshedsforsikring m.v. og forskellige andre love (Reform af beskæftigelsesindsatsen, et fælles og intensiveret kontaktforløb, uddannelsesløft, styrket rådighed og målretning af virksomhedsrettede tilbud m.v.) sættes i kraft.",
-      "valid_from": "2016-06-17",
+      "valid_from": "2016-06-20",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. september 2016.",
-      "valid_from": "2016-06-17",
+      "valid_from": "2016-06-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:26:11.292Z",
+    "accession": "B20160073705",
+    "document_id": "BE006840",
+    "unique_document_id": "181928",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-20",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af love om ændring af færdselsloven",
   "short_name": "Ikrafttræd. bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-10-17",
+  "in_force_date": "2001-10-19",
   "url": "https://www.retsinformation.dk/eli/lta/2001/907/xml",
-  "description": "Retsinformation source. DocumentId=AR000480; AccessionNumber=B20010090705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000480; AccessionNumber=B20010090705; Ophævet 2001-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:18:44.157Z",
+    "accession": "B20010090705",
+    "document_id": "AR000480",
+    "unique_document_id": "22079",
+    "upstream_status": "Historic",
+    "start_date": "2001-10-19",
+    "end_date": "2022-07-07",
+    "historic_marked": "2001-12-18",
+    "seed_status": "repealed"
+  }
 }

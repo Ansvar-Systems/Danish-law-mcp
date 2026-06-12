@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven og retsplejeloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/441/xml",
-  "description": "Retsinformation source. DocumentId=AA001112; AccessionNumber=A20000044130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001112; AccessionNumber=A20000044130; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:19:29.647Z",
+    "accession": "A20000044130",
+    "document_id": "AA001112",
+    "unique_document_id": "838",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2002-09-27",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

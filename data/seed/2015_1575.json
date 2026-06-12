@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af udlændingeloven (Gennemførelse af den reviderede Eurodac-forordning)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-15",
+  "in_force_date": "2015-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1575/xml",
-  "description": "Retsinformation source. DocumentId=CG000099; AccessionNumber=A20150157530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CG000099; AccessionNumber=A20150157530; Ophævet 2016-05-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:37.613Z",
+    "accession": "A20150157530",
+    "document_id": "CG000099",
+    "unique_document_id": "176321",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-15",
+    "end_date": "2020-07-15",
+    "historic_marked": "2016-05-11",
+    "seed_status": "repealed"
+  }
 }

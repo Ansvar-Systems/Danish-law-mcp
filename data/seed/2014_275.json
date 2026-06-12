@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af værdigrænse i lov om sikring af kulturværdier i Danmark",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-03-17",
+  "in_force_date": "2014-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2014/275/xml",
-  "description": "Retsinformation source. DocumentId=AK001022; AccessionNumber=B20140027505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK001022; AccessionNumber=B20140027505; Ophævet 2015-03-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Værdigrænsen for kulturgenstande i § 2, stk. 1, nr. 2, i lov om sikring af kulturværdier i Danmark reguleres, jf. lovens § 2, stk. 5, efter udviklingen i det af Danmarks Statistik offentliggjorte forbrugerprisindeks for 2013 til følgende beløb: 163.000 kr.",
-      "valid_from": "2014-03-17",
-      "valid_to": null
+      "valid_from": "2014-03-27",
+      "valid_to": "2015-03-06"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2014 og har virkning fra den 1. januar 2014. Stk. 2. Bekendtgørelse nr. 441 af 29. april 2013 om regulering af værdigrænse i lov om sikring af kulturværdier i Danmark ophæves.",
-      "valid_from": "2014-03-17",
-      "valid_to": null
+      "valid_from": "2014-03-27",
+      "valid_to": "2015-03-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:07.993Z",
+    "accession": "B20140027505",
+    "document_id": "AK001022",
+    "unique_document_id": "162294",
+    "upstream_status": "Historic",
+    "start_date": "2014-03-27",
+    "end_date": "2015-03-07",
+    "historic_marked": "2015-03-06",
+    "seed_status": "repealed"
+  }
 }

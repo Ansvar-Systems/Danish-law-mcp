@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om krav om coronapas på uddannelsesinstitutioner på Udlændinge- og Integrationsministeriets område i forbindelse med håndtering af covid-19",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-01-07",
+  "in_force_date": "2022-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2022/46/xml",
-  "description": "Retsinformation source. DocumentId=CS001187; AccessionNumber=B20220004605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS001187; AccessionNumber=B20220004605; Ophævet 2022-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Ved et coronapas forstås dokumentation for",
-      "valid_from": "2022-01-07",
-      "valid_to": null
+      "valid_from": "2022-01-14",
+      "valid_to": "2022-01-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:39:53.089Z",
+    "accession": "B20220004605",
+    "document_id": "CS001187",
+    "unique_document_id": "228764",
+    "upstream_status": "Historic",
+    "start_date": "2022-01-14",
+    "end_date": "2022-02-01",
+    "historic_marked": "2022-01-31",
+    "seed_status": "repealed"
+  }
 }

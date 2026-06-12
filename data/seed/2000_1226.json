@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kørekort",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-18",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1226/xml",
-  "description": "Retsinformation source. DocumentId=AR000375; AccessionNumber=B20000122605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000375; AccessionNumber=B20000122605; Ophævet 2002-02-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:59:34.854Z",
+    "accession": "B20000122605",
+    "document_id": "AR000375",
+    "unique_document_id": "22002",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2022-07-07",
+    "historic_marked": "2002-02-27",
+    "seed_status": "repealed"
+  }
 }

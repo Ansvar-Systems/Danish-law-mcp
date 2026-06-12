@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om avl m.v. af kartofler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-18",
+  "in_force_date": "2012-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2012/630/xml",
-  "description": "Retsinformation source. DocumentId=AH004625; AccessionNumber=B20120063005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004625; AccessionNumber=B20120063005; Ophævet 2013-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "22",
@@ -19,9 +20,20 @@
       "provision_ref": "22",
       "section": "22",
       "content": "§ 22. Basisavlere uden opformering må kun anvende læggemateriale af klassen MP/MK, S/SE eller E af dansk avl fra læggekartoffelavlere autoriseret i henhold til § 5, stk. 1, nr. 1) og nr. 2) eller af udenlandsk avl, der i henhold til EU-mærkningsregler for læggekartofler er sidestillet hermed.",
-      "valid_from": "2012-06-18",
-      "valid_to": null
+      "valid_from": "2012-06-21",
+      "valid_to": "2013-06-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:08:19.255Z",
+    "accession": "B20120063005",
+    "document_id": "AH004625",
+    "unique_document_id": "142526",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-21",
+    "end_date": "2022-04-08",
+    "historic_marked": "2013-06-10",
+    "seed_status": "repealed"
+  }
 }

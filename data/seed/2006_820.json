@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om gevinstgivende spilleautomater",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-26",
+  "in_force_date": "2006-07-27",
   "url": "https://www.retsinformation.dk/eli/lta/2006/820/xml",
-  "description": "Retsinformation source. DocumentId=AN005242; AccessionNumber=A20060082029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005242; AccessionNumber=A20060082029; Ophævet 2012-04-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:39:16.421Z",
+    "accession": "A20060082029",
+    "document_id": "AN005242",
+    "unique_document_id": "17281",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-04-24",
+    "seed_status": "repealed"
+  }
 }

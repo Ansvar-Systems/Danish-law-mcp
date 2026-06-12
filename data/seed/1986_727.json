@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om uddannelsesopsparing",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-10-29",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/727/xml",
-  "description": "Retsinformation source. DocumentId=CM034154; AccessionNumber=A19860072730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034154; AccessionNumber=A19860072730; Ophævet 1993-09-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:19:08.249Z",
+    "accession": "A19860072730",
+    "document_id": "CM034154",
+    "unique_document_id": "74949",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-01-14",
+    "historic_marked": "1993-09-27",
+    "seed_status": "repealed"
+  }
 }

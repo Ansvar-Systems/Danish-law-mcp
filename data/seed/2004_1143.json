@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til pottemager",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-11-23",
+  "in_force_date": "2004-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1143/xml",
-  "description": "Retsinformation source. DocumentId=AT002020; AccessionNumber=B20040114305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002020; AccessionNumber=B20040114305; Ophævet 2006-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:58:44.719Z",
+    "accession": "B20040114305",
+    "document_id": "AT002020",
+    "unique_document_id": "24691",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-02",
+    "end_date": "2021-01-08",
+    "historic_marked": "2006-07-10",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 2 i lov om ændring af lov om finansiel virksomhed, lov om finansiel stabilitet, lov om en garantifond for indskydere og investorer, lov om værdipapirhandel m.v. og ligningsloven (Gennemførelse af direktiv om genopretning og afvikling af kreditinstitutter og investeringsselskaber (BRRD) og direktiv om indskudsgarantiordninger (DGSD))",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-05-22",
+  "in_force_date": "2015-05-22",
   "url": "https://www.retsinformation.dk/eli/lta/2015/671/xml",
-  "description": "Retsinformation source. DocumentId=BP001319; AccessionNumber=B20150067105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001319; AccessionNumber=B20150067105; Ophævet 2018-09-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 2 i lov nr. 334 af 31. marts 2015 om ændring af lov om finansiel virksomhed, lov om finansiel stabilitet, lov om en garantifond for indskydere og investorer, lov om værdipapirhandel m.v. og ligningsloven (Gennemførelse af direktiv om genopretning og afvikling af kreditinstitutter og investeringsselskaber (BRRD) og direktiv om indskudsgarantiordninger (DGSD)) sættes i kraft for Danmark.",
       "valid_from": "2015-05-22",
-      "valid_to": null
+      "valid_to": "2018-09-24"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juni 2015.",
       "valid_from": "2015-05-22",
-      "valid_to": null
+      "valid_to": "2018-09-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:18:37.311Z",
+    "accession": "B20150067105",
+    "document_id": "BP001319",
+    "unique_document_id": "170651",
+    "upstream_status": "Historic",
+    "start_date": "2015-05-22",
+    "end_date": "2018-09-25",
+    "historic_marked": "2018-09-24",
+    "seed_status": "repealed"
+  }
 }

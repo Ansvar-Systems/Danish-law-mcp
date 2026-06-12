@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kosmetiske produkter",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-05-04",
+  "in_force_date": "2006-05-18",
   "url": "https://www.retsinformation.dk/eli/lta/2006/422/xml",
-  "description": "Retsinformation source. DocumentId=AL001388; AccessionNumber=B20060042205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001388; AccessionNumber=B20060042205; Ophævet 2013-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:23:17.428Z",
+    "accession": "B20060042205",
+    "document_id": "AL001388",
+    "unique_document_id": "12915",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-18",
+    "end_date": "2022-04-09",
+    "historic_marked": "2013-06-28",
+    "seed_status": "repealed"
+  }
 }

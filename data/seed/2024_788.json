@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-06-24",
+  "in_force_date": "2024-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2024/788/xml",
   "description": "Retsinformation source. DocumentId=AA014271; AccessionNumber=B20240078805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -549,5 +550,16 @@
       "definition": "i denne bekendtgørelse den beregnede dato for prøveløsladelse eller den dag, hvor løsladelse efter endt strafudståelse skal finde sted, jf",
       "source_provision": "2:19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:18:36.053Z",
+    "accession": "B20240078805",
+    "document_id": "AA014271",
+    "unique_document_id": "244264",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-24",
+    "end_date": "2024-06-26",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

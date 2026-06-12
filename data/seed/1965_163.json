@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om slagtning, forhandling, udførsel og indførsel af kaniner.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1965-05-12",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1965/163/xml",
-  "description": "Retsinformation source. DocumentId=CM038927; AccessionNumber=A19650016330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038927; AccessionNumber=A19650016330; Ophævet 1989-03-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:09:30.375Z",
+    "accession": "A19650016330",
+    "document_id": "CM038927",
+    "unique_document_id": "79714",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-17",
+    "historic_marked": "1989-03-13",
+    "seed_status": "repealed"
+  }
 }

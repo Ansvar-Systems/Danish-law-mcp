@@ -5,9 +5,21 @@
   "short_name": "Lov",
   "status": "in_force",
   "issued_date": "1900-04-27",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1900/89/xml",
   "description": "Retsinformation source. DocumentId=CM010067; AccessionNumber=A19000008930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:36:08.236Z",
+    "accession": "A19000008930",
+    "document_id": "CM010067",
+    "unique_document_id": "51241",
+    "upstream_status": "Valid",
+    "start_date": "1997-10-01",
+    "end_date": "2025-12-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

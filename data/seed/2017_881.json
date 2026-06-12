@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om takster for vederlag til offentlige forsvarere, visse beskikkede advokater m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-06-28",
+  "in_force_date": "2017-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2017/881/xml",
-  "description": "Retsinformation source. DocumentId=AA010232; AccessionNumber=B20170088105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA010232; AccessionNumber=B20170088105; Ophævet 2017-11-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Fastsættelse af vederlag til offentlige forsvarere og salær til beskikkede advokater i ægteskabs-, forældemyndigheds- og børnefjernelsessager samt advokater, der er beskikket for forurettede i straffesager (bistandsadvokater), skal ske på baggrund af en grundtakst pr. time på 1.690 kr.",
-      "valid_from": "2017-06-28",
-      "valid_to": null
+      "valid_from": "2017-06-30",
+      "valid_to": "2017-11-20"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2017.",
-      "valid_from": "2017-06-28",
-      "valid_to": null
+      "valid_from": "2017-06-30",
+      "valid_to": "2017-11-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:36:16.407Z",
+    "accession": "B20170088105",
+    "document_id": "AA010232",
+    "unique_document_id": "192114",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-30",
+    "end_date": "2017-11-21",
+    "historic_marked": "2017-11-20",
+    "seed_status": "repealed"
+  }
 }

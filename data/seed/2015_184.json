@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-02-19",
+  "in_force_date": "2015-02-25",
   "url": "https://www.retsinformation.dk/eli/lta/2015/184/xml",
   "description": "Retsinformation source. DocumentId=BP001199; AccessionNumber=B20150018405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 250 af 23. marts 2006 om opbevaring af regnskabsmateriale i udlandet ophæves. ‍",
-      "valid_from": "2015-02-19",
+      "valid_from": "2015-02-25",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. marts 2015.",
-      "valid_from": "2015-02-19",
+      "valid_from": "2015-02-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:56:17.031Z",
+    "accession": "B20150018405",
+    "document_id": "BP001199",
+    "unique_document_id": "168094",
+    "upstream_status": "Valid",
+    "start_date": "2015-02-25",
+    "end_date": "2017-12-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

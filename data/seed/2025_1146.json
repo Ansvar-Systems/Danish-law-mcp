@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-09-29",
+  "in_force_date": "2025-09-29",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1146/xml",
   "description": "Retsinformation source. DocumentId=DD000610; AccessionNumber=B20250114605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1711,5 +1712,16 @@
       "definition": "alle genstande af en hvilken som helst art og materiale, som anvendes til pakning, beskyttelse, håndtering, levering fra producenten til brugeren eller forbrugeren og præsentation af varer, det være sig råvarer eller forarbejdede varer",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:13.725Z",
+    "accession": "B20250114605",
+    "document_id": "DD000610",
+    "unique_document_id": "251445",
+    "upstream_status": "Valid",
+    "start_date": "2025-09-29",
+    "end_date": "2025-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

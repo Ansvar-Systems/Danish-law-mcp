@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anerkendelse af udenlandske beviser til tjeneste i handelsskibe",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-01",
+  "in_force_date": "2001-02-12",
   "url": "https://www.retsinformation.dk/eli/lta/2001/71/xml",
-  "description": "Retsinformation source. DocumentId=AD000865; AccessionNumber=B20010007105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000865; AccessionNumber=B20010007105; Ophævet 2005-06-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:10:54.421Z",
+    "accession": "B20010007105",
+    "document_id": "AD000865",
+    "unique_document_id": "4884",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-12",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-06-20",
+    "seed_status": "repealed"
+  }
 }

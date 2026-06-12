@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om beskatning ved dødsfald",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-01-19",
+  "in_force_date": "2000-01-31",
   "url": "https://www.retsinformation.dk/eli/lta/2000/47/xml",
-  "description": "Retsinformation source. DocumentId=AN000816; AccessionNumber=A20000004729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000816; AccessionNumber=A20000004729; Ophævet 2002-09-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:37.236Z",
+    "accession": "A20000004729",
+    "document_id": "AN000816",
+    "unique_document_id": "13673",
+    "upstream_status": "Historic",
+    "start_date": "2000-01-31",
+    "end_date": "2014-10-21",
+    "historic_marked": "2002-09-19",
+    "seed_status": "repealed"
+  }
 }

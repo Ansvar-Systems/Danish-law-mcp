@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om traktorer. (Traktorbekendtgørelsen)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1975-08-08",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1975/406/xml",
-  "description": "Retsinformation source. DocumentId=CM026478; AccessionNumber=B19750040605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026478; AccessionNumber=B19750040605; Ophævet 1989-03-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:45:00.525Z",
+    "accession": "B19750040605",
+    "document_id": "CM026478",
+    "unique_document_id": "67299",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1989-03-07",
+    "seed_status": "repealed"
+  }
 }

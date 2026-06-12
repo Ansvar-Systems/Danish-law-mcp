@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om forsøg på beskæftigelsesområdet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-04-29",
+  "in_force_date": "2019-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2019/484/xml",
-  "description": "Retsinformation source. DocumentId=BE007987; AccessionNumber=B20190048405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007987; AccessionNumber=B20190048405; Ophævet 2019-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11a",
@@ -19,9 +20,20 @@
       "provision_ref": "11a",
       "section": "11a",
       "content": "§ 11 a. Beskæftigelsesministeren har givet tilladelse til, at Københavns Kommune og Aarhus Kommune gennemfører forsøg med en integreret beskæftigelses- og sundhedsunderstøttende indsats (IBBIS II). Det er en forudsætning, at kommunerne indgår en samarbejdsaftale med regionen om levering af den sundhedsunderstøttende indsats, jf. stk. 7.",
-      "valid_from": "2019-04-29",
-      "valid_to": null
+      "valid_from": "2019-04-30",
+      "valid_to": "2019-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:07:36.440Z",
+    "accession": "B20190048405",
+    "document_id": "BE007987",
+    "unique_document_id": "208983",
+    "upstream_status": "Historic",
+    "start_date": "2019-04-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-12-17",
+    "seed_status": "repealed"
+  }
 }

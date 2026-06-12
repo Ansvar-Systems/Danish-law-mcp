@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om røgfri miljøer",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-06",
+  "in_force_date": "2007-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/512/xml",
-  "description": "Retsinformation source. DocumentId=AI003411; AccessionNumber=A20070051230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI003411; AccessionNumber=A20070051230; Ophævet 2019-09-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:25:15.515Z",
+    "accession": "A20070051230",
+    "document_id": "AI003411",
+    "unique_document_id": "11388",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-06",
+    "end_date": "2022-07-12",
+    "historic_marked": "2019-09-19",
+    "seed_status": "repealed"
+  }
 }

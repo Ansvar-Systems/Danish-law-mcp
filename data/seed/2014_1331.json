@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om affald",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-04",
+  "in_force_date": "2014-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1331/xml",
-  "description": "Retsinformation source. DocumentId=AL003076; AccessionNumber=B20140133105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL003076; AccessionNumber=B20140133105; Ophævet 2018-12-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "63",
@@ -19,9 +20,20 @@
       "provision_ref": "63",
       "section": "63",
       "content": "§ 63 a. Virksomheder, som producerer et produkt på eller importerer et produkt til det danske marked, kan, jf. dog §§ 63 b-f, etablere en tilbagetagningsordning for produktet, for produktet og dets emballage eller for produktets emballage, når det er blevet til affald. Stk. 2. Virksomheder, som markedsfører et produkt på det danske marked, uden samtidig at være producent eller importør af produktet, kan ligeledes etablere en tilbagetagningsordning, jf. stk. 1. Det er dog en betingelse for etableringen, at den, der markedsfører produktet, har indgået en aftale med producenten eller importøren herom.",
-      "valid_from": "2014-12-04",
-      "valid_to": null
+      "valid_from": "2014-12-13",
+      "valid_to": "2018-12-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:28.897Z",
+    "accession": "B20140133105",
+    "document_id": "AL003076",
+    "unique_document_id": "166275",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-13",
+    "end_date": "2022-04-09",
+    "historic_marked": "2018-12-27",
+    "seed_status": "repealed"
+  }
 }

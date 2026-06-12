@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om merkonomkursus",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-10-16",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1987/666/xml",
-  "description": "Retsinformation source. DocumentId=CM032854; AccessionNumber=B19870066605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032854; AccessionNumber=B19870066605; Ophævet 1992-08-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:48:51.292Z",
+    "accession": "B19870066605",
+    "document_id": "CM032854",
+    "unique_document_id": "73656",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "1992-08-28",
+    "seed_status": "repealed"
+  }
 }

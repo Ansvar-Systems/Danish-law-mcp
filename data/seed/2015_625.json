@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om unges arbejde (Gennemførelse af direktiv 2014/27/EU m.m.)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-05-04",
+  "in_force_date": "2015-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2015/625/xml",
-  "description": "Retsinformation source. DocumentId=BE006257; AccessionNumber=B20150062505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006257; AccessionNumber=B20150062505; Ophævet 2021-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "54",
@@ -19,9 +20,20 @@
       "provision_ref": "54",
       "section": "54",
       "content": "§ 54. Arbejdstilsynets afgørelser truffet efter denne bekendtgørelse kan påklages efter § 81 i lov om arbejdsmiljø.",
-      "valid_from": "2015-05-04",
-      "valid_to": null
+      "valid_from": "2015-05-12",
+      "valid_to": "2021-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:16:45.606Z",
+    "accession": "B20150062505",
+    "document_id": "BE006257",
+    "unique_document_id": "169926",
+    "upstream_status": "Historic",
+    "start_date": "2015-05-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-05-31",
+    "seed_status": "repealed"
+  }
 }

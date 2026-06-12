@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om realkreditinstitutters værdiansættelse og låneudmåling",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-01-08",
+  "in_force_date": "2004-01-19",
   "url": "https://www.retsinformation.dk/eli/lta/2004/9/xml",
-  "description": "Retsinformation source. DocumentId=AU001404; AccessionNumber=B20040000905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001404; AccessionNumber=B20040000905; Ophævet 2004-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:44:47.150Z",
+    "accession": "B20040000905",
+    "document_id": "AU001404",
+    "unique_document_id": "26503",
+    "upstream_status": "Historic",
+    "start_date": "2004-01-19",
+    "end_date": "2017-12-08",
+    "historic_marked": "2004-07-01",
+    "seed_status": "repealed"
+  }
 }

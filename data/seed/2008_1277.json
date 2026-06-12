@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fleksibel efterløn",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-12-15",
+  "in_force_date": "2008-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1277/xml",
-  "description": "Retsinformation source. DocumentId=BE003161; AccessionNumber=B20080127705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE003161; AccessionNumber=B20080127705; Ophævet 2011-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "37",
@@ -19,9 +20,20 @@
       "provision_ref": "37",
       "section": "37",
       "content": "§ 37. Feriepenge optjent efter ferieloven, efter andre feriebestemmelser eller efter tilsvarende udenlandsk lovgivning, der udbetales i efterlønsperioden eller inden for 3 måneder før overgangen til efterløn, uden at ferien holdes, medfører fradrag i efterlønnen. Stk. 2. Fradraget efter stk. 1 skal ske fra og med den uge, medlemmet får udbetalt feriepengene. Hvis fradraget ikke kan ske i udbetalingsugen, skal det ske i den førstkommende udbetaling af efterløn inden for 12 måneder fra tidspunktet for udbetalingen af feriepengene. Stk. 3. Feriepengene medfører fradrag for det antal feriedage, der udbetales. Feriedage, der er optjent i en 6 dages uge, ganges med 5/6. Hver feriedag medfører fradrag med 7,4 timer. Der belægges med timer fra feriepengene op til 37 timer pr. uge. Stk. 4. Hvis feriepengenes bruttobeløb pr. time er mindre end efterlønnen pr. time, kan medlemmet få udbetalt differencen som efterløn. Stk. 5. Et medlem, som i det optjeningsår forud for overgangen til efterløn, der danner grundlag for de udbetalte feriepenge, har været ansat på nedsat tid, kan få omregnet feriepengene pr. dag for det pågældende optjeningsår til timer. Omregningen sker ved at dele feriepengenes bruttobeløb pr. dag med den seneste timeløn, medlemmet havde før overgang til efterløn. Det beregnede timetal skal fradrages i efterlønnen. Stk. 6. For deltidsforsikrede medlemmer skal fradraget efter stk. 5 ske i forhold til den gennemsnitlige ugentlige arbejdstid, som medlemmets efterlønssats er beregnet på grundlag af.",
-      "valid_from": "2008-12-15",
-      "valid_to": null
+      "valid_from": "2008-12-18",
+      "valid_to": "2011-12-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:56:08.566Z",
+    "accession": "B20080127705",
+    "document_id": "BE003161",
+    "unique_document_id": "122537",
+    "upstream_status": "Historic",
+    "start_date": "2008-12-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-12-29",
+    "seed_status": "repealed"
+  }
 }

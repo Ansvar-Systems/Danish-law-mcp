@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2011-02-18",
+  "in_force_date": "2011-02-23",
   "url": "https://www.retsinformation.dk/eli/lta/2011/117/xml",
   "description": "Retsinformation source. DocumentId=BE004547; AccessionNumber=B20110011705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 5 i lov 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven, træder i kraft den 1. september 2011.",
-      "valid_from": "2011-02-18",
+      "valid_from": "2011-02-23",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. § 38, stk. 4 – 6, § 40, stk. 2 – 3, § 43, stk. 3, og § 59, stk. 7 – 9 i lov om sygedagpenge, jf. lovbekendtgørelse nr. 85 af 7. februar 2011, som affattet ved § 18 i lov nr. 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven, træder i kraft den 1. september 2011.",
-      "valid_from": "2011-02-18",
+      "valid_from": "2011-02-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:45:01.011Z",
+    "accession": "B20110011705",
+    "document_id": "BE004547",
+    "unique_document_id": "135881",
+    "upstream_status": "Valid",
+    "start_date": "2011-02-23",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undervisningsplan for køreuddannelsen til lastbil (kategori C)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-05-01",
+  "in_force_date": "2009-05-06",
   "url": "https://www.retsinformation.dk/eli/lta/2009/341/xml",
-  "description": "Retsinformation source. DocumentId=AA004789; AccessionNumber=B20090034105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA004789; AccessionNumber=B20090034105; Ophævet 2014-12-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Undervisning af elever med henblik på erhvervelse af kørekort til kategori C skal foregå i overensstemmelse med undervisningsplanen for køreuddannelsen til kategori C (lastbil), der er optaget som bilag til denne bekendtgørelse.",
-      "valid_from": "2009-05-01",
-      "valid_to": null
+      "valid_from": "2009-05-06",
+      "valid_to": "2014-12-11"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. maj 2009. Stk. 2. Samtidig ophæves bekendtgørelse nr. 734 af 6. august 1996 om undervisningsplan for køreuddannelsen til lastbil (kategori C) og stor personbil (kategori D) samt bekendtgørelse af 11. juni 1996 om undervisningsplan for køreuddannelsen til lastbil (kategori C). Stk. 3. Elever, der har påbegyndt køreuddannelsen før den 15. maj 2009, kan afslutte uddannelsen og aflægge køreprøve efter de hidtil gældende regler frem til udgangen af september 2009.",
-      "valid_from": "2009-05-01",
-      "valid_to": null
+      "valid_from": "2009-05-06",
+      "valid_to": "2014-12-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:08:01.149Z",
+    "accession": "B20090034105",
+    "document_id": "AA004789",
+    "unique_document_id": "124410",
+    "upstream_status": "Historic",
+    "start_date": "2009-05-06",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-12-11",
+    "seed_status": "repealed"
+  }
 }

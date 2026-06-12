@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forskningsrådgivning m.v. og lov om Danmarks Grundforskningsfond\\n(Styrkelse af Danmarks Forskningspolitiske Råd, nedlæggelse af Koordinationsudvalget, præcisering af formål, ansvar og opgavefordeling for forskningsråd m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-25",
+  "in_force_date": "2010-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2010/729/xml",
-  "description": "Retsinformation source. DocumentId=BD000581; AccessionNumber=A20100072930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000581; AccessionNumber=A20100072930; Ophævet 2014-04-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "21",
@@ -20,8 +21,19 @@
       "section": "21",
       "content": "§ 21 b. Alle medlemmer af en programkomité skal være anerkendte forskere. Medlemmerne af en programkomité skal tilsammen have kompetence til at vurdere kvalitet, effekt og relevans af forskningsaktiviteter. Stk. 2. Medlemmerne udpeges af bestyrelsen for Det Strategiske Forskningsråd.",
       "valid_from": "2010-06-25",
-      "valid_to": null
+      "valid_to": "2014-04-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:27:11.952Z",
+    "accession": "A20100072930",
+    "document_id": "BD000581",
+    "unique_document_id": "132418",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-25",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-04-11",
+    "seed_status": "repealed"
+  }
 }

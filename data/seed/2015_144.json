@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af gebyr for optagelse af digitalt fingeraftryk i forbindelse med udstedelse af pas",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-02-05",
+  "in_force_date": "2015-02-13",
   "url": "https://www.retsinformation.dk/eli/lta/2015/144/xml",
-  "description": "Retsinformation source. DocumentId=AA008662; AccessionNumber=B20150014405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA008662; AccessionNumber=B20150014405; Ophævet 2015-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. I medfør af § 4 b, stk. 2, i lov om pas til danske statsborgere m.v. reguleres det i lovens § 4 b, stk. 1, nævnte beløb en gang årligt den 1. januar med den af Finansministeriet fastsatte sats for det generelle pris- og lønindeks. Det herefter fremkomne beløb afrundes til nærmeste kronebeløb. Align Stk. 2. Satsen for det generelle pris- og lønindeks for finansåret 2015 udgør 1,0 procent inklusiv niveaukorrektion for finansåret 2014. Align",
-      "valid_from": "2015-02-05",
-      "valid_to": null
+      "valid_from": "2015-02-13",
+      "valid_to": "2015-12-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Det i lovens § 4 b, stk. 1, nævnte beløb udgør 26 kr. Align",
-      "valid_from": "2015-02-05",
-      "valid_to": null
+      "valid_from": "2015-02-13",
+      "valid_to": "2015-12-16"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 16. februar 2015. Align Stk. 2. Bekendtgørelse nr. 1551 af 17. december 2013 om regulering af gebyr for optagelse af digitalt fingeraftryk i forbindelse med udstedelse af pas ophæves samtidig. Align",
-      "valid_from": "2015-02-05",
-      "valid_to": null
+      "valid_from": "2015-02-13",
+      "valid_to": "2015-12-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:11.011Z",
+    "accession": "B20150014405",
+    "document_id": "AA008662",
+    "unique_document_id": "168093",
+    "upstream_status": "Historic",
+    "start_date": "2015-02-13",
+    "end_date": "2015-12-17",
+    "historic_marked": "2015-12-16",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om servicejob",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1249/xml",
-  "description": "Retsinformation source. DocumentId=AB000873; AccessionNumber=A20000124930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000873; AccessionNumber=A20000124930; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:00:29.208Z",
+    "accession": "A20000124930",
+    "document_id": "AB000873",
+    "unique_document_id": "3523",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-20",
+    "end_date": "2002-03-25",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

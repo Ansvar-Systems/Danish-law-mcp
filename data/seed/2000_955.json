@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om satser pr. 1. januar 2001 efter lov om sikring mod følger af arbejdsskade",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-10-24",
+  "in_force_date": "2000-10-30",
   "url": "https://www.retsinformation.dk/eli/lta/2000/955/xml",
-  "description": "Retsinformation source. DocumentId=AO000924; AccessionNumber=B20000095505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000924; AccessionNumber=B20000095505; Ophævet 2001-10-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:40:12.393Z",
+    "accession": "B20000095505",
+    "document_id": "AO000924",
+    "unique_document_id": "19076",
+    "upstream_status": "Historic",
+    "start_date": "2000-10-30",
+    "end_date": "2010-07-02",
+    "historic_marked": "2001-10-25",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indkomstbeskatning af aktieselskaber m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-12-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/983/xml",
-  "description": "Retsinformation source. DocumentId=CM020519; AccessionNumber=B19940098305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020519; AccessionNumber=B19940098305; Ophævet 2005-10-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:17:45.665Z",
+    "accession": "B19940098305",
+    "document_id": "CM020519",
+    "unique_document_id": "61549",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2010-01-16",
+    "historic_marked": "2005-10-13",
+    "seed_status": "repealed"
+  }
 }

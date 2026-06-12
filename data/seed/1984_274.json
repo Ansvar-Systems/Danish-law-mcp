@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven (Befordringsfradrag)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1984-06-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1984/274/xml",
-  "description": "Retsinformation source. DocumentId=CM022455; AccessionNumber=A19840027430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022455; AccessionNumber=A19840027430; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:38:11.803Z",
+    "accession": "A19840027430",
+    "document_id": "CM022455",
+    "unique_document_id": "63435",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-19",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

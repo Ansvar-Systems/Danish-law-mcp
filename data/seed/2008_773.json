@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af beløb for elevers deltagerbetaling ved ekskursioner m.v. på ungdomsuddannelserne",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-07-17",
+  "in_force_date": "2008-07-19",
   "url": "https://www.retsinformation.dk/eli/lta/2008/773/xml",
-  "description": "Retsinformation source. DocumentId=AT003474; AccessionNumber=B20080077305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT003474; AccessionNumber=B20080077305; Ophævet 2014-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Beløbet på 50 kr. (1998-niveau) i § 19 a, stk. 3 og 4, i lov om erhvervsuddannelser og i § 46, stk. 4 og 5, i lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., reguleres pr. 1. august 2008 til 70 kr.",
-      "valid_from": "2008-07-17",
-      "valid_to": null
+      "valid_from": "2008-07-19",
+      "valid_to": "2014-04-01"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2008. Stk. 2. Bekendtgørelse nr. 348 af 14. maj 2004 om regulering af beløb vedrørende elevers deltagerbetaling ved ekskursioner m.v. på ungdomsuddannelserne ophæves.",
-      "valid_from": "2008-07-17",
-      "valid_to": null
+      "valid_from": "2008-07-19",
+      "valid_to": "2014-04-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:28:17.243Z",
+    "accession": "B20080077305",
+    "document_id": "AT003474",
+    "unique_document_id": "120745",
+    "upstream_status": "Historic",
+    "start_date": "2008-07-19",
+    "end_date": "2021-01-08",
+    "historic_marked": "2014-04-01",
+    "seed_status": "repealed"
+  }
 }

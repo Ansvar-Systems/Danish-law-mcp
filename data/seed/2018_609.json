@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af lov om fremme af vedvarende energi, lov om elforsyning og lov om Energinet",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-30",
+  "in_force_date": "2018-05-31",
   "url": "https://www.retsinformation.dk/eli/lta/2018/609/xml",
-  "description": "Retsinformation source. DocumentId=CI000460; AccessionNumber=B20180060905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000460; AccessionNumber=B20180060905; Ophævet 2024-02-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -33,25 +34,36 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 35 c i lov om fremme af vedvarende energi, som affattet ved § 1, nr. 51, i lov nr. 504 af 23. maj 2018 om ændring af lov om fremme af vedvarende energi, lov om elforsyning og lov om Energinet (Afholdelse af udbud af pristillæg, særordning for forsøgsmøller og overgangsordning for landmøller samt udvidelse af værditabsordningen, køberetsordningen og garantifonden for visse solcelleanlæg m.v.) sættes i kraft.",
-      "valid_from": "2018-05-30",
-      "valid_to": null
+      "valid_from": "2018-05-31",
+      "valid_to": "2024-02-13"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2 . § 1, nr. 52, 54, 55, 57 og 58, i lov nr. 504 af 23. maj 2018 om ændring af lov om fremme af vedvarende energi, lov om elforsyning og lov om Energinet (Afholdelse af udbud af pristillæg, særordning for forsøgsmøller og overgangsordning for landmøller samt udvidelse af værditabsordningen, køberetsordningen og garantifonden for visse solcelleanlæg m.v.) sættes i kraft. 1) I de bestemmelser, som sættes i kraft i lov om fremme af vedvarende energi, henvises til §§ 35 a-35 f i lov om fremme af vedvarende energi. §§ 35 d, 35 e og 35 f er ikke sat i kraft.",
-      "valid_from": "2018-05-30",
-      "valid_to": null
+      "valid_from": "2018-05-31",
+      "valid_to": "2024-02-13"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2018.",
-      "valid_from": "2018-05-30",
-      "valid_to": null
+      "valid_from": "2018-05-31",
+      "valid_to": "2024-02-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:39.804Z",
+    "accession": "B20180060905",
+    "document_id": "CI000460",
+    "unique_document_id": "201564",
+    "upstream_status": "Historic",
+    "start_date": "2018-05-31",
+    "end_date": "2024-02-14",
+    "historic_marked": "2024-02-13",
+    "seed_status": "repealed"
+  }
 }

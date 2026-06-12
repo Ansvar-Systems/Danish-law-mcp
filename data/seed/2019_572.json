@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Åbent brev angående udskrivning af nyvalg til Folketinget",
   "short_name": "ÅBR#LOKDOK10",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-05-07",
+  "in_force_date": "2019-05-08",
   "url": "https://www.retsinformation.dk/eli/lta/2019/572/xml",
-  "description": "Retsinformation source. DocumentId=AP000305; AccessionNumber=B20190057261; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AP000305; AccessionNumber=B20190057261; Ophævet 2022-10-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:11:12.145Z",
+    "accession": "B20190057261",
+    "document_id": "AP000305",
+    "unique_document_id": "209225",
+    "upstream_status": "Historic",
+    "start_date": "2019-05-08",
+    "end_date": "2022-10-07",
+    "historic_marked": "2022-10-06",
+    "seed_status": "repealed"
+  }
 }

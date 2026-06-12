@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om anvendelse af tvang i psykiatrien m.v. og sundhedsloven (Notatpligt for den faste vagt for bæltefikserede patienter, interval mellem lægelige vurderinger m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-28",
+  "in_force_date": "2021-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2617/xml",
-  "description": "Retsinformation source. DocumentId=DI000498; AccessionNumber=A20210261730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000498; AccessionNumber=A20210261730; Ophævet 2022-02-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "212c",
@@ -20,8 +21,19 @@
       "section": "212c",
       "content": "§ 212 c. Styrelsen for Patientklager foretager efter anmodning fra et udvalg, der er nedsat af Folketinget, en vurdering af lægeerklæringer, som er udfærdiget til brug for behandlingen af sager om naturalisation. Anmodningen om vurdering fremsendes gennem Udlændinge- og Integrationsministeriet. Stk. 2. Styrelsen for Patientklager kan af sundhedspersoner, af private og af myndigheder afkræve enhver oplysning, som er nødvendig for styrelsens vurdering efter stk. 1. Stk. 3. Styrelsen for Patientklager kan videregive sin vurdering efter stk. 1 til Styrelsen for Patientsikkerhed, som kan anvende den modtagne vurdering til brug for sit tilsyn med sundhedspersoner og behandlingssteder.",
       "valid_from": "2021-12-28",
-      "valid_to": null
+      "valid_to": "2022-02-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:27:37.517Z",
+    "accession": "A20210261730",
+    "document_id": "DI000498",
+    "unique_document_id": "228494",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-28",
+    "end_date": "2024-06-01",
+    "historic_marked": "2022-02-10",
+    "seed_status": "repealed"
+  }
 }

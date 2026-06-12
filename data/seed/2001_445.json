@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om lige løn til mænd og kvinder",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/445/xml",
-  "description": "Retsinformation source. DocumentId=AB001124; AccessionNumber=A20010044530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001124; AccessionNumber=A20010044530; Ophævet 2001-12-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:00:18.554Z",
+    "accession": "A20010044530",
+    "document_id": "AB001124",
+    "unique_document_id": "3732",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2003-09-23",
+    "historic_marked": "2001-12-03",
+    "seed_status": "repealed"
+  }
 }

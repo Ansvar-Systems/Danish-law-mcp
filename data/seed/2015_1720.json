@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-16",
+  "in_force_date": "2015-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1720/xml",
   "description": "Retsinformation source. DocumentId=BE006628; AccessionNumber=B20150172005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1164 af 8. oktober 2007 om revision af regnskaber for projekttilskud fra Forebyggelsesfonden ophæves.",
-      "valid_from": "2015-12-16",
+      "valid_from": "2015-12-22",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-12-16",
+      "valid_from": "2015-12-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:30.209Z",
+    "accession": "B20150172005",
+    "document_id": "BE006628",
+    "unique_document_id": "176440",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-22",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om arbejdsmarkedsuddannelser",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-29",
+  "in_force_date": "1999-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1079/xml",
-  "description": "Retsinformation source. DocumentId=AB000449; AccessionNumber=A19990107930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000449; AccessionNumber=A19990107930; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:10:45.479Z",
+    "accession": "A19990107930",
+    "document_id": "AB000449",
+    "unique_document_id": "3190",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-29",
+    "end_date": "2001-11-30",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

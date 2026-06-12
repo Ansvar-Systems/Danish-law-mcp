@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om erhvervsuddannelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-02-07",
+  "in_force_date": "2019-02-09",
   "url": "https://www.retsinformation.dk/eli/lta/2019/136/xml",
-  "description": "Retsinformation source. DocumentId=CU000552; AccessionNumber=B20190013605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CU000552; AccessionNumber=B20190013605; Ophævet 2019-05-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:54.368Z",
+    "accession": "B20190013605",
+    "document_id": "CU000552",
+    "unique_document_id": "207025",
+    "upstream_status": "Historic",
+    "start_date": "2019-02-09",
+    "end_date": "2021-01-08",
+    "historic_marked": "2019-05-07",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-11-29",
+  "in_force_date": "2024-11-29",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1297/xml",
   "description": "Retsinformation source. DocumentId=DM000034; AccessionNumber=B20240129705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -853,5 +854,16 @@
       "definition": "alle former for aktiviteter tilknyttet etablering og vedligeholdelse af solcelleanlæg",
       "source_provision": "27:42"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:34:29.969Z",
+    "accession": "B20240129705",
+    "document_id": "DM000034",
+    "unique_document_id": "246600",
+    "upstream_status": "Valid",
+    "start_date": "2024-11-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

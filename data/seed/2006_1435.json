@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Depotrådets sammensætning og virksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-12-13",
+  "in_force_date": "2006-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1435/xml",
-  "description": "Retsinformation source. DocumentId=AL001516; AccessionNumber=B20060143505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001516; AccessionNumber=B20060143505; Ophævet 2015-09-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:00:19.316Z",
+    "accession": "B20060143505",
+    "document_id": "AL001516",
+    "unique_document_id": "13031",
+    "upstream_status": "Historic",
+    "start_date": "2006-12-21",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-09-16",
+    "seed_status": "repealed"
+  }
 }

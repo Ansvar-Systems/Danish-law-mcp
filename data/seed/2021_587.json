@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om midlertidig forlængelse af fristen for aflevering af forbrugsregnskaber for erhvervslejemål som led i håndteringen af covid-19",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-04-06",
+  "in_force_date": "2021-04-09",
   "url": "https://www.retsinformation.dk/eli/lta/2021/587/xml",
-  "description": "Retsinformation source. DocumentId=CQ001681; AccessionNumber=B20210058705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001681; AccessionNumber=B20210058705; Ophævet 2022-03-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Fristen i erhvervslejelovens § 49, stk. 1, 1. pkt., forlænges midlertidigt, således at forbrugsregnskaber, der efter § 49, stk. 1, 1. pkt., skulle være kommet frem til lejerne i perioden fra den 10. februar 2021 til den 9. oktober 2021, først skal være kommet frem til lejerne senest den 10. oktober 2021. Fristforlængelsen gælder alene i de tilfælde, hvor aflæggelse af forbrugsregnskab forudsætter fysisk måleraflæsning i lejemålet.",
-      "valid_from": "2021-04-06",
-      "valid_to": null
+      "valid_from": "2021-04-09",
+      "valid_to": "2022-03-30"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 10. april 2021. Stk. 2. Bekendtgørelsen har virkning fra den 10. februar 2021. Stk. 3. Bekendtgørelsen ophæves den 31. marts 2022.",
-      "valid_from": "2021-04-06",
-      "valid_to": null
+      "valid_from": "2021-04-09",
+      "valid_to": "2022-03-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:44:47.380Z",
+    "accession": "B20210058705",
+    "document_id": "CQ001681",
+    "unique_document_id": "222073",
+    "upstream_status": "Historic",
+    "start_date": "2021-04-09",
+    "end_date": "2022-03-31",
+    "historic_marked": "2022-03-30",
+    "seed_status": "repealed"
+  }
 }

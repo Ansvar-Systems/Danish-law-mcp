@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af §§ 4-7 i lov om inddrivelse af gæld til det offentlige og visse bestemmelser i lov om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-07-04",
+  "in_force_date": "2013-07-10",
   "url": "https://www.retsinformation.dk/eli/lta/2013/937/xml",
-  "description": "Retsinformation source. DocumentId=AN011587; AccessionNumber=B20130093705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011587; AccessionNumber=B20130093705; Ophævet 2023-03-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. §§ 4-7 i lov nr. 1333 af 19. december 2008 om inddrivelse af gæld til det offentlige sættes i kraft.",
-      "valid_from": "2013-07-04",
-      "valid_to": null
+      "valid_from": "2013-07-10",
+      "valid_to": "2023-03-28"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. § 9, § 103, § 109, nr. 5, § 144, nr. 1 og 2, § 148, nr. 2 og § 149, nr. 2, i lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) sættes i kraft.",
-      "valid_from": "2013-07-04",
-      "valid_to": null
+      "valid_from": "2013-07-10",
+      "valid_to": "2023-03-28"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. august 2013.",
-      "valid_from": "2013-07-04",
-      "valid_to": null
+      "valid_from": "2013-07-10",
+      "valid_to": "2023-03-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:24:31.951Z",
+    "accession": "B20130093705",
+    "document_id": "AN011587",
+    "unique_document_id": "152791",
+    "upstream_status": "Historic",
+    "start_date": "2013-07-10",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-28",
+    "seed_status": "repealed"
+  }
 }

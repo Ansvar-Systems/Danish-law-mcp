@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 10, i lov om ændring af lov om kemikalier (Opbevaring af bekæmpelsesmidler ved salg, autorisationsordning for forhandlere, erhvervsmæssige brugere og rådgivere vedrørende bekæmpelsesmidler samt bødeskærpelse)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-19",
+  "in_force_date": "2013-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2013/793/xml",
-  "description": "Retsinformation source. DocumentId=AL002850; AccessionNumber=B20130079305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002850; AccessionNumber=B20130079305; Ophævet 2014-07-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 10, i lov nr. 489 af 21. maj 2013 om ændring af lov om kemikalier (Opbevaring af bekæmpelsesmidler ved salg, autorisationsordning for forhandlere, erhvervsmæssige brugere og rådgivere vedrørende bekæmpelsesmidler samt bødeskærpelse) sættes i kraft.",
-      "valid_from": "2013-06-19",
-      "valid_to": null
+      "valid_from": "2013-06-28",
+      "valid_to": "2014-07-03"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2013.",
-      "valid_from": "2013-06-19",
-      "valid_to": null
+      "valid_from": "2013-06-28",
+      "valid_to": "2014-07-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:18:43.964Z",
+    "accession": "B20130079305",
+    "document_id": "AL002850",
+    "unique_document_id": "152373",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-28",
+    "end_date": "2022-04-09",
+    "historic_marked": "2014-07-03",
+    "seed_status": "repealed"
+  }
 }

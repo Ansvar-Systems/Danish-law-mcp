@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-12-09",
+  "in_force_date": "2019-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1362/xml",
   "description": "Retsinformation source. DocumentId=AN014153; AccessionNumber=B20190136205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Statsgaranterede studielån, der overføres til Udbetaling Danmark, forrentes med en nominel rente p.a., der fastsættes for hvert halve kalenderår efter beregningsmetoden i § 2. Stk. 2. Den rentesats, der fastsættes for det første halvår i et kalenderår, har virkning for renter, der påløber i perioden fra og med den 1. januar til og med den 30. juni. Stk. 3. Den rentesats, der fastsættes for det andet halvår i et kalenderår, har virkning for renter, der påløber i perioden fra og med den 1. juli til og med den 31. december.",
-      "valid_from": "2019-12-09",
+      "valid_from": "2019-12-13",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Rentesatsen efter § 1 beregnes ud fra CIBOR (Copenhagen Inter Bank Offered Rate) for udlån over en 6 måneders periode med tillæg på 0,2 procentpoint til dækning af omkostningerne ved administration af lånene samt oprunding til den nærmeste kvarte procent. Stk. 2. Til brug for beregning af rentesatsen for det første halvår i et kalenderår, jf. § 1, stk. 2, anvendes den gennemsnitlige CIBOR-rente for perioden fra og med den 1. juni i det forudgående kalenderår til og med den 30. november i det forudgående kalenderår. Stk. 3. Til brug for beregning af rentesatsen for det andet halvår i et kalenderår, jf. § 1, stk. 3, anvendes den gennemsnitlige CIBOR-rente for perioden fra og med den 1. december i det forudgående kalenderår til og med den 31. maj i indeværende kalenderår.",
-      "valid_from": "2019-12-09",
+      "valid_from": "2019-12-13",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Rentesatsen for statsgaranterede studielån, jf. § 1, offentliggøres på Skatteforvaltningens hjemmeside.",
-      "valid_from": "2019-12-09",
+      "valid_from": "2019-12-13",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2020. Stk. 2. Bekendtgørelse nr. 635 af 25. juni 2019 om rentesats for statsgaranterede studielån, der overføres til Udbetaling Danmark, for andet halvår af 2019 ophæves.",
-      "valid_from": "2019-12-09",
+      "valid_from": "2019-12-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:43:00.873Z",
+    "accession": "B20190136205",
+    "document_id": "AN014153",
+    "unique_document_id": "211772",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-13",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

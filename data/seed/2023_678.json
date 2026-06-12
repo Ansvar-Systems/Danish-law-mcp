@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2023-06-03",
+  "in_force_date": "2023-06-03",
   "url": "https://www.retsinformation.dk/eli/lta/2023/678/xml",
   "description": "Retsinformation source. DocumentId=AN015993; AccessionNumber=A20230067830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1201,5 +1202,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:56:53.867Z",
+    "accession": "A20230067830",
+    "document_id": "AN015993",
+    "unique_document_id": "237881",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-03",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

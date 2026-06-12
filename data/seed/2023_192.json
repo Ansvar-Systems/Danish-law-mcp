@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2023-02-28",
+  "in_force_date": "2023-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2023/192/xml",
   "description": "Retsinformation source. DocumentId=DC000946; AccessionNumber=A20230019230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -339,5 +340,16 @@
       "definition": "i denne lov alle fødevarer, der er fremstillet af planter samt spiselige svampe, alger og gavnlige mikroorganismer, herunder både uforarbejdede og forarbejdede råvarer og ingredienser, herunder i kombination med enzymer og andre ikkeanimalske ingredienser, der er egnet til fødevarefremstilling",
       "source_provision": "1:3"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:37:18.040Z",
+    "accession": "A20230019230",
+    "document_id": "DC000946",
+    "unique_document_id": "234981",
+    "upstream_status": "Valid",
+    "start_date": "2023-02-28",
+    "end_date": "2026-01-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

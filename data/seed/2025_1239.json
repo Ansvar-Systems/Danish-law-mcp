@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-10-28",
+  "in_force_date": "2025-10-28",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1239/xml",
   "description": "Retsinformation source. DocumentId=BE010310; AccessionNumber=B20250123905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -185,5 +186,16 @@
       "definition": "indtægten i den seneste kalendermåned før den oprindelige ændring, der førte til behov for hjælp, jf",
       "source_provision": "3:6"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:36:58.368Z",
+    "accession": "B20250123905",
+    "document_id": "BE010310",
+    "unique_document_id": "252046",
+    "upstream_status": "Valid",
+    "start_date": "2025-10-28",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

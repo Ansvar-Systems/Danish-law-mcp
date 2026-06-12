@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Konkursskatteloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-10-04",
+  "in_force_date": "2006-10-19",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1011/xml",
-  "description": "Retsinformation source. DocumentId=AN005539; AccessionNumber=A20060101129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005539; AccessionNumber=A20060101129; Ophævet 2010-11-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:43:20.598Z",
+    "accession": "A20060101129",
+    "document_id": "AN005539",
+    "unique_document_id": "17569",
+    "upstream_status": "Historic",
+    "start_date": "2006-10-19",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-11-10",
+    "seed_status": "repealed"
+  }
 }

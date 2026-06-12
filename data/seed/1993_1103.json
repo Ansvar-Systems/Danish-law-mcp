@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Statens Kunstfond",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-12-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/1103/xml",
-  "description": "Retsinformation source. DocumentId=CM006621; AccessionNumber=A19930110330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006621; AccessionNumber=A19930110330; Ophævet 1994-05-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:56:16.380Z",
+    "accession": "A19930110330",
+    "document_id": "CM006621",
+    "unique_document_id": "47820",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-12-29",
+    "historic_marked": "1994-05-20",
+    "seed_status": "repealed"
+  }
 }

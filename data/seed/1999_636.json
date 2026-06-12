@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om mærkning af fisk og fiskevarer",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-07-29",
+  "in_force_date": "1999-08-13",
   "url": "https://www.retsinformation.dk/eli/lta/1999/636/xml",
-  "description": "Retsinformation source. DocumentId=AH000346; AccessionNumber=B19990063605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000346; AccessionNumber=B19990063605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:35:59.648Z",
+    "accession": "B19990063605",
+    "document_id": "AH000346",
+    "unique_document_id": "6767",
+    "upstream_status": "Historic",
+    "start_date": "1999-08-13",
+    "end_date": "2022-04-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

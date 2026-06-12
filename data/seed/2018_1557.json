@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om lægemidler (Flytning af inspektionsopgaver fra Lægemiddelstyrelsen til Sikkerhedsstyrelsen)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-18",
+  "in_force_date": "2018-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1557/xml",
-  "description": "Retsinformation source. DocumentId=CN000834; AccessionNumber=A20180155730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000834; AccessionNumber=A20180155730; Ophævet 2023-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13a:102a",
@@ -27,15 +28,26 @@
       "section": "102a",
       "content": "§ 102 a. Sundhedsministeren kan fastsætte regler om, at ansøgninger, anmeldelser, underretninger m.v., som efter denne lov eller bestemmelser udfærdiget i medfør heraf indgives til Lægemiddelstyrelsen, skal indgives ved anvendelse af den digitale løsning, som Lægemiddelstyrelsen anviser (digital selvbetjening), og at kommunikation til og fra Lægemiddelstyrelsen i den forbindelse skal foregå digitalt. Stk. 2. Erhvervsministeren kan fastsætte regler om, at inspektionsvarsler, afgørelser, inspektionsrapporter, klager over afgørelser og anden kommunikation mellem Sikkerhedsstyrelsen og virksomheder i forbindelse med Sikkerhedsstyrelsens tilsynsopgaver i medfør af denne lov skal foregå digitalt, herunder om anvendelse af bestemte digitale løsninger, som Sikkerhedsstyrelsen anviser (digital selvbetjening). Stk. 3. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.",
       "valid_from": "2018-12-18",
-      "valid_to": null
+      "valid_to": "2023-03-29"
     },
     {
       "provision_ref": "103d",
       "section": "103d",
       "content": "§ 103 d. Sikkerhedsstyrelsens afgørelser truffet efter denne lov eller regler fastsat i medfør af denne lov kan ikke påklages til Erhvervsministeriet, for så vidt angår de materielle forhold.",
       "valid_from": "2018-12-18",
-      "valid_to": null
+      "valid_to": "2023-03-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:02.402Z",
+    "accession": "A20180155730",
+    "document_id": "CN000834",
+    "unique_document_id": "205283",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-18",
+    "end_date": "2023-07-01",
+    "historic_marked": "2023-03-29",
+    "seed_status": "repealed"
+  }
 }

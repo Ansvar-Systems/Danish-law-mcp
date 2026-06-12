@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om social pension",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-07",
+  "in_force_date": "2004-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1219/xml",
-  "description": "Retsinformation source. DocumentId=AO002454; AccessionNumber=A20040121929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002454; AccessionNumber=A20040121929; Ophævet 2005-08-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:01:47.340Z",
+    "accession": "A20040121929",
+    "document_id": "AO002454",
+    "unique_document_id": "20216",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-20",
+    "end_date": "2025-10-21",
+    "historic_marked": "2005-08-08",
+    "seed_status": "repealed"
+  }
 }

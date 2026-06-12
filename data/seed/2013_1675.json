@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om gebyr for redningsberedskabets udrykning til blinde alarmer",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-20",
+  "in_force_date": "2014-01-09",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1675/xml",
-  "description": "Retsinformation source. DocumentId=AG000550; AccessionNumber=B20130167505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000550; AccessionNumber=B20130167505; Ophævet 2014-06-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,15 +25,15 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Kommunalbestyrelsen kan for redningsberedskabets udrykning til blinde alarmer fra lovpligtige automatiske brandsikringsanlæg opkræve et gebyr fra anlægsejeren til dækning af udgifter i forbindelse med udrykningen. Gebyret fastsættes til 5.050 kr. pr. udrykning (2014-niveau). Stk. 2. Ved en blind alarm fra et automatisk brandsikringsanlæg forstås en automatisk tilkaldelse af redningsberedskabet, uden at der er brand eller overhængende fare for brand. Stk. 3. Beredskabsstyrelsen regulerer grundbeløbet, jf. stk. 1, én gang årligt med satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. Det regulerede beløb afrundes til det nærmeste med 5 delelige beløb.",
-      "valid_from": "2013-12-20",
-      "valid_to": null
+      "valid_from": "2014-01-09",
+      "valid_to": "2014-06-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. januar 2014. Stk. 2. Bekendtgørelse nr. 1556 af 7. december 2009 om gebyr for redningsberedskabets udrykning til blinde alarmer ophæves.",
-      "valid_from": "2013-12-20",
-      "valid_to": null
+      "valid_from": "2014-01-09",
+      "valid_to": "2014-06-16"
     }
   ],
   "definitions": [
@@ -41,5 +42,16 @@
       "definition": "en automatisk tilkaldelse af redningsberedskabet, uden at der er brand eller overhængende fare for brand",
       "source_provision": "1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:53:23.945Z",
+    "accession": "B20130167505",
+    "document_id": "AG000550",
+    "unique_document_id": "161263",
+    "upstream_status": "Historic",
+    "start_date": "2014-01-09",
+    "end_date": "2026-02-20",
+    "historic_marked": "2014-06-16",
+    "seed_status": "repealed"
+  }
 }

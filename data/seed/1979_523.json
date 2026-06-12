@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om skoleskibsafgift",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1979-12-27",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1979/523/xml",
-  "description": "Retsinformation source. DocumentId=CM025531; AccessionNumber=A19790052330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025531; AccessionNumber=A19790052330; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:58:05.696Z",
+    "accession": "A19790052330",
+    "document_id": "CM025531",
+    "unique_document_id": "66406",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-07",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

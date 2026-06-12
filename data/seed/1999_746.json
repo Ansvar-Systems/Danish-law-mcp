@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilsætningsstoffer til foderstoffer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-09-30",
+  "in_force_date": "1999-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1999/746/xml",
-  "description": "Retsinformation source. DocumentId=AH000386; AccessionNumber=B19990074605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000386; AccessionNumber=B19990074605; Ophævet 2004-10-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:40:22.930Z",
+    "accession": "B19990074605",
+    "document_id": "AH000386",
+    "unique_document_id": "6799",
+    "upstream_status": "Historic",
+    "start_date": "1999-09-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2004-10-18",
+    "seed_status": "repealed"
+  }
 }

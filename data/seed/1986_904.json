@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om arbejdsskadeforsikring",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-12-15",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/904/xml",
-  "description": "Retsinformation source. DocumentId=CM012633; AccessionNumber=A19860090429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012633; AccessionNumber=A19860090429; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:25:26.184Z",
+    "accession": "A19860090429",
+    "document_id": "CM012633",
+    "unique_document_id": "53768",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2011-01-12",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

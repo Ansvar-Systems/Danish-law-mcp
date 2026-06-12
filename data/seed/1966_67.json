@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om frigivelse af indskud på etableringskonto.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1966-02-28",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1966/67/xml",
-  "description": "Retsinformation source. DocumentId=CM019965; AccessionNumber=B19660006705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM019965; AccessionNumber=B19660006705; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:13:03.611Z",
+    "accession": "B19660006705",
+    "document_id": "CM019965",
+    "unique_document_id": "60998",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1997-09-25",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

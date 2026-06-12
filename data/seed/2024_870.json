@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om lægemidler omfattet af pligtmæssige lagre og indberetningspligt for kritiske lægemidler",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-06-26",
+  "in_force_date": "2024-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2024/870/xml",
-  "description": "Retsinformation source. DocumentId=DI001169; AccessionNumber=B20240087005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI001169; AccessionNumber=B20240087005; Ophævet 2024-12-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I bekendtgørelsens bilag 1 oplistes de lægemidler (ATC-kode, formulering og styrke), som er omfattet af begrebet kritiske lægemidler til mennesker i bekendtgørelse om pligtmæssige lagre og indberetningspligt for kritiske lægemidler.",
-      "valid_from": "2024-06-26",
-      "valid_to": null
+      "valid_from": "2024-06-28",
+      "valid_to": "2024-12-09"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2024.",
-      "valid_from": "2024-06-26",
-      "valid_to": null
+      "valid_from": "2024-06-28",
+      "valid_to": "2024-12-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:21:57.137Z",
+    "accession": "B20240087005",
+    "document_id": "DI001169",
+    "unique_document_id": "243933",
+    "upstream_status": "Historic",
+    "start_date": "2024-06-28",
+    "end_date": "2024-12-10",
+    "historic_marked": "2024-12-09",
+    "seed_status": "repealed"
+  }
 }

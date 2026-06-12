@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2011-12-16",
+  "in_force_date": "2011-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1241/xml",
   "description": "Retsinformation source. DocumentId=BX000023; AccessionNumber=B20110124105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Landets inddeling i kommuner og regioner er ændret som angivet i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2011-12-16",
+      "valid_from": "2011-12-20",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2012.",
-      "valid_from": "2011-12-16",
+      "valid_from": "2011-12-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:47:54.543Z",
+    "accession": "B20110124105",
+    "document_id": "BX000023",
+    "unique_document_id": "139801",
+    "upstream_status": "Valid",
+    "start_date": "2011-12-20",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

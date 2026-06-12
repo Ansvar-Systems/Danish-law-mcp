@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om åben uddannelse og tilskud til arbejdsmarkedsuddannelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-05-26",
+  "in_force_date": "2011-05-27",
   "url": "https://www.retsinformation.dk/eli/lta/2011/502/xml",
-  "description": "Retsinformation source. DocumentId=AT004622; AccessionNumber=B20110050205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004622; AccessionNumber=B20110050205; Ophævet 2015-08-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7 a. Ved tilmelding til uddannelsesaktiviteter, hvor der opkræves fuld deltagerbetaling eller forhøjet deltagerbetaling, jf. ÅU-lovens § 8, stk. 4 og stk. 6, skal kursisterne oplyse, om de har en videregående uddannelse og om de modtager efterløn eller en aldersbetinget pension. Stk. 2. Kursister, der modtager efterløn eller en aldersbetinget pension, skal oplyse om omfanget af kursistens tilknytning til arbejdsmarkedet.",
-      "valid_from": "2011-05-26",
-      "valid_to": null
+      "valid_from": "2011-05-27",
+      "valid_to": "2015-08-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:09:52.411Z",
+    "accession": "B20110050205",
+    "document_id": "AT004622",
+    "unique_document_id": "137425",
+    "upstream_status": "Historic",
+    "start_date": "2011-05-27",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-08-24",
+    "seed_status": "repealed"
+  }
 }

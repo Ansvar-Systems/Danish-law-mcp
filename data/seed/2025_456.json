@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-05-09",
+  "in_force_date": "2025-05-09",
   "url": "https://www.retsinformation.dk/eli/lta/2025/456/xml",
   "description": "Retsinformation source. DocumentId=AN016789; AccessionNumber=B20250045605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1651,5 +1652,16 @@
       "definition": "varernes detailpris på indkøbsstedet, inklusive sådanne skatter og afgifter, som i indkøbslandet er pålagt varer af den pågældende art, når de omsættes i sædvanlig detailhandel",
       "source_provision": "10:93"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:12:44.972Z",
+    "accession": "B20250045605",
+    "document_id": "AN016789",
+    "unique_document_id": "249407",
+    "upstream_status": "Valid",
+    "start_date": "2025-05-09",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

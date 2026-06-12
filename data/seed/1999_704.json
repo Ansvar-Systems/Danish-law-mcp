@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af _lov om erhvervsskoler",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-09-03",
+  "in_force_date": "1999-09-17",
   "url": "https://www.retsinformation.dk/eli/lta/1999/704/xml",
-  "description": "Retsinformation source. DocumentId=AT000212; AccessionNumber=A19990070429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000212; AccessionNumber=A19990070429; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:38:43.602Z",
+    "accession": "A19990070429",
+    "document_id": "AT000212",
+    "unique_document_id": "23346",
+    "upstream_status": "Historic",
+    "start_date": "1999-09-17",
+    "end_date": "2021-01-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

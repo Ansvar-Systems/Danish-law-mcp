@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2024-12-16",
+  "in_force_date": "2024-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1548/xml",
   "description": "Retsinformation source. DocumentId=DI001286; AccessionNumber=B20240154803; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -227,5 +228,16 @@
       "definition": "i denne lov enhver aktivitet, der tager sigte på at fremme valg på Færøerne af en eller flere kandidater eller fremme et bestemt resultat af en folkeafstemning på Færøerne ved 1) at udbrede kendskabet til bestemte politiske synspunkter, 2) at etablere og drive organisationer, 3) at samarbejde med andre organisationer eller 4) på anden måde",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:46.912Z",
+    "accession": "B20240154803",
+    "document_id": "DI001286",
+    "unique_document_id": "245982",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-16",
+    "end_date": "2024-12-16",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

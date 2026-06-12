@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 4, nr. 1, i lov om ændring af lov om Arbejdsmarkedets Tillægspension og forskellige andre love (Indførelse af obligatorisk pensionsordning for overførselsindkomstmodtagere og tillæg til refusion til arbejdsgivere samt ændring af satsregulering af forskellige overførselsindkomster)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-06-25",
+  "in_force_date": "2021-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1408/xml",
-  "description": "Retsinformation source. DocumentId=BE008949; AccessionNumber=B20210140805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008949; AccessionNumber=B20210140805; Ophævet 2024-11-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 4, nr. 1, i lov nr. 339 af 2. april 2019 om ændring af lov om Arbejdsmarkedets Tillægspension og forskellige andre love (Indførelse af obligatorisk pensionsordning for overførselsindkomstmodtagere og tillæg til refusion til arbejdsgivere samt ændring af satsregulering af forskellige overførselsindkomster) sættes i kraft.",
-      "valid_from": "2021-06-25",
-      "valid_to": null
+      "valid_from": "2021-06-28",
+      "valid_to": "2024-11-07"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 14. august 2021.",
-      "valid_from": "2021-06-25",
-      "valid_to": null
+      "valid_from": "2021-06-28",
+      "valid_to": "2024-11-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:38:52.648Z",
+    "accession": "B20210140805",
+    "document_id": "BE008949",
+    "unique_document_id": "223970",
+    "upstream_status": "Historic",
+    "start_date": "2021-06-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-11-07",
+    "seed_status": "repealed"
+  }
 }

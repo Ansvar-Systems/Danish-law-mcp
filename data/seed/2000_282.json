@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilsætningsstoffer til fødevarer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-04-19",
+  "in_force_date": "2000-05-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/282/xml",
-  "description": "Retsinformation source. DocumentId=AH000582; AccessionNumber=B20000028205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000582; AccessionNumber=B20000028205; Ophævet 2005-01-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:13:04.820Z",
+    "accession": "B20000028205",
+    "document_id": "AH000582",
+    "unique_document_id": "6964",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-01",
+    "end_date": "2022-04-09",
+    "historic_marked": "2005-01-20",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om gevinstopsparing",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-05-16",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/321/xml",
-  "description": "Retsinformation source. DocumentId=CM000150; AccessionNumber=A19900032130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000150; AccessionNumber=A19900032130; Ophævet 2018-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:10:56.642Z",
+    "accession": "A19900032130",
+    "document_id": "CM000150",
+    "unique_document_id": "41659",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2020-06-18",
+    "historic_marked": "2018-12-18",
+    "seed_status": "repealed"
+  }
 }

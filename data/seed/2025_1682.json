@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-12-16",
+  "in_force_date": "2025-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1682/xml",
   "description": "Retsinformation source. DocumentId=DA001671; AccessionNumber=B20250168205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 271 af 28. februar 2022 om folkeskolens pædagogiske læringscentre ophæves.",
-      "valid_from": "2025-12-16",
+      "valid_from": "2025-12-17",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2026.",
-      "valid_from": "2025-12-16",
+      "valid_from": "2025-12-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:55:31.464Z",
+    "accession": "B20250168205",
+    "document_id": "DA001671",
+    "unique_document_id": "254233",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

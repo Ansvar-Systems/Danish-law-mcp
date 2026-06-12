@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-01-11",
+  "in_force_date": "2023-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/2023/31/xml",
   "description": "Retsinformation source. DocumentId=DA001010; AccessionNumber=B20230003105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Skolens leder gennemfører den årlige måling af elevernes trivsel i undervisningstiden fra den 20. januar til den 20. marts. Stk. 2. Skolens leder orienterer skriftligt senest to uger forud for skolens gennemførelse af målingen forældremyndighedens indehaver om, hvornår skolen gennemfører målingen. Skolens leder sørger ligeledes for senest to uger forud for skolens gennemførelse af målingen, at eleverne orienteres om, hvornår skolen gennemfører målingen. Stk. 3. Samtidig med orienteringen efter stk. 2 videregiver skolens leder det informationsmateriale, som lederen har modtaget fra Styrelsen for It og Læring med henblik på videregivelse til elever og forældremyndighedens indehaver til oplysning om styrelsens behandling af de personoplysninger, som eleverne giver ved deres deltagelse i målingen. Videregivelsen til forældremyndighedens indehaver af informationsmaterialet sker via en sikker kommunikationskanal, fx e-boks. Stk. 4. Skolens leder giver elever, der har været forhindret i at gennemføre målingen, mulighed for at gennemføre målingen, hvis det kan ske på et andet tidspunkt inden for den i stk. 1 nævnte periode. Stk. 5. Elevens brug af Undervisningsministeriets Trivselsværktøj sker via elevens UNI-login med brug af elevens personnummer som identifikation.",
-      "valid_from": "2023-01-11",
+      "valid_from": "2023-01-13",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. De spørgsmål med tilhørende svarmuligheder om elevernes trivsel, som er rammen for målingen af elevernes trivsel, fremgår af bilagene.",
-      "valid_from": "2023-01-11",
+      "valid_from": "2023-01-13",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 17. januar 2023. Stk. 2. Bekendtgørelse nr. 525 af 1. maj 2019 om måling af elevers trivsel i folkeskolen ophæves.",
-      "valid_from": "2023-01-11",
+      "valid_from": "2023-01-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:42:02.858Z",
+    "accession": "B20230003105",
+    "document_id": "DA001010",
+    "unique_document_id": "234273",
+    "upstream_status": "Valid",
+    "start_date": "2023-01-13",
+    "end_date": "2025-09-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

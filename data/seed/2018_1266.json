@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-11-12",
+  "in_force_date": "2018-11-14",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1266/xml",
   "description": "Retsinformation source. DocumentId=AK001389; AccessionNumber=B20180126605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 546 af 19. april 2015 om udnyttelse af tv-rettigheder til begivenheder af væsentlig samfundsmæssig interesse ophæves.",
-      "valid_from": "2018-11-12",
+      "valid_from": "2018-11-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2019.",
-      "valid_from": "2018-11-12",
+      "valid_from": "2018-11-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:33:18.387Z",
+    "accession": "B20180126605",
+    "document_id": "AK001389",
+    "unique_document_id": "203793",
+    "upstream_status": "Valid",
+    "start_date": "2018-11-14",
+    "end_date": "2018-11-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

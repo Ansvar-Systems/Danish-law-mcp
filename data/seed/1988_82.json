@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om fremme af byggeriets udvikling",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-02-17",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1988/82/xml",
-  "description": "Retsinformation source. DocumentId=CM014156; AccessionNumber=A19880008230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014156; AccessionNumber=A19880008230; Ophævet 2002-05-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:26:00.851Z",
+    "accession": "A19880008230",
+    "document_id": "CM014156",
+    "unique_document_id": "55267",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "2002-05-22",
+    "seed_status": "repealed"
+  }
 }

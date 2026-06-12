@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastsættelse af tidspunkt for digital udstedelse af beviser og genberegning af adgangsgivende eksamensresultat",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-10",
+  "in_force_date": "2020-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1922/xml",
-  "description": "Retsinformation source. DocumentId=DA000405; AccessionNumber=B20200192205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000405; AccessionNumber=B20200192205; Ophævet 2021-04-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Tidspunktet for digital udstedelser af de i §§ 49-51 nævnte beviser og genberegning af det adgangsgivende eksamensresultat, jf. § 54 i lov om de gymnasiale uddannelser, fastsættes til den 1. maj 2021.",
-      "valid_from": "2020-12-10",
-      "valid_to": null
+      "valid_from": "2020-12-15",
+      "valid_to": "2021-04-27"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2021.",
-      "valid_from": "2020-12-10",
-      "valid_to": null
+      "valid_from": "2020-12-15",
+      "valid_to": "2021-04-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:05:34.147Z",
+    "accession": "B20200192205",
+    "document_id": "DA000405",
+    "unique_document_id": "218523",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-15",
+    "end_date": "2021-04-28",
+    "historic_marked": "2021-04-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om retssikkerhed og administration på det sociale område",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-23",
+  "in_force_date": "2006-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2006/702/xml",
-  "description": "Retsinformation source. DocumentId=AO002976; AccessionNumber=A20060070229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002976; AccessionNumber=A20060070229; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:34:32.053Z",
+    "accession": "A20060070229",
+    "document_id": "AO002976",
+    "unique_document_id": "20609",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-03",
+    "end_date": "2022-12-24",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

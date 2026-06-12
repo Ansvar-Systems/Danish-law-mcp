@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anmeldelse af ulykker og sygdomme, der rammer værnepligtige m.fl.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-11-26",
+  "in_force_date": "2003-12-08",
   "url": "https://www.retsinformation.dk/eli/lta/2003/952/xml",
-  "description": "Retsinformation source. DocumentId=BE000821; AccessionNumber=B20030095205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000821; AccessionNumber=B20030095205; Ophævet 2010-06-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:50:58.736Z",
+    "accession": "B20030095205",
+    "document_id": "BE000821",
+    "unique_document_id": "29940",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-08",
+    "end_date": "2010-06-26",
+    "historic_marked": "2010-06-25",
+    "seed_status": "repealed"
+  }
 }

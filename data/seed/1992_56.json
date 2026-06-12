@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af realkreditlov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-01-24",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/56/xml",
-  "description": "Retsinformation source. DocumentId=CM000122; AccessionNumber=A19920005629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000122; AccessionNumber=A19920005629; Ophævet 1994-11-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:34:55.102Z",
+    "accession": "A19920005629",
+    "document_id": "CM000122",
+    "unique_document_id": "41631",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2017-12-08",
+    "historic_marked": "1994-11-10",
+    "seed_status": "repealed"
+  }
 }

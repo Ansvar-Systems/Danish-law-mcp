@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forældremyndighed og samvær m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-24",
+  "in_force_date": "2002-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2002/874/xml",
-  "description": "Retsinformation source. DocumentId=AA001963; AccessionNumber=B20020087405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001963; AccessionNumber=B20020087405; Ophævet 2006-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:01:46.383Z",
+    "accession": "B20020087405",
+    "document_id": "AA001963",
+    "unique_document_id": "1459",
+    "upstream_status": "Historic",
+    "start_date": "2002-10-31",
+    "end_date": "2022-07-08",
+    "historic_marked": "2006-12-14",
+    "seed_status": "repealed"
+  }
 }

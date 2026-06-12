@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om hjemmeværnet",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-20",
+  "in_force_date": "2001-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/2001/803/xml",
-  "description": "Retsinformation source. DocumentId=AG000083; AccessionNumber=A20010080329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000083; AccessionNumber=A20010080329; Ophævet 2004-02-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:14:37.753Z",
+    "accession": "A20010080329",
+    "document_id": "AG000083",
+    "unique_document_id": "6310",
+    "upstream_status": "Historic",
+    "start_date": "2001-09-24",
+    "end_date": "2007-03-12",
+    "historic_marked": "2004-02-19",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om betalingskort m.v. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1984-06-06",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1984/284/xml",
-  "description": "Retsinformation source. DocumentId=CM025455; AccessionNumber=A19840028430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025455; AccessionNumber=A19840028430; Ophævet 1992-06-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:38:22.654Z",
+    "accession": "A19840028430",
+    "document_id": "CM025455",
+    "unique_document_id": "66332",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1992-06-25",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om bekæmpelsesmidler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-06-23",
+  "in_force_date": "2014-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2014/761/xml",
-  "description": "Retsinformation source. DocumentId=AL002994; AccessionNumber=B20140076105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002994; AccessionNumber=B20140076105; Ophævet 2015-11-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "40",
@@ -19,9 +20,20 @@
       "provision_ref": "40",
       "section": "40",
       "content": "§ 40 a. På rekreative græsarealer med offentlig adgang må der, for at sikre særligt børn mod uacceptabel eksponering, kun anvendes plantebeskyttelsesmidler, der ifølge etiketteksten er godkendt til netop denne anvendelse, jf. dog stk. 2. Stk. 2. På golfbaner, må der kun anvendes midler godkendt til rekreative græsarealer med offentlig adgang eller midler godkendt specifikt til brug på golfbaner.",
-      "valid_from": "2014-06-23",
-      "valid_to": null
+      "valid_from": "2014-06-26",
+      "valid_to": "2015-11-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:15:42.190Z",
+    "accession": "B20140076105",
+    "document_id": "AL002994",
+    "unique_document_id": "163503",
+    "upstream_status": "Historic",
+    "start_date": "2014-06-26",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-11-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af affaldsaktørbekendtgørelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-06-08",
+  "in_force_date": "2023-06-22",
   "url": "https://www.retsinformation.dk/eli/lta/2023/875/xml",
-  "description": "Retsinformation source. DocumentId=DB000701; AccessionNumber=B20230087505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000701; AccessionNumber=B20230087505; Ophævet 2024-05-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "34a",
@@ -19,9 +20,20 @@
       "provision_ref": "34a",
       "section": "34a",
       "content": "§ 34 a. Indtil den 1. juli 2024 kan kommunalbestyrelsen i forbindelse med behandling af haveaffald, der er indsamlet på genbrugspladser i kommunen, kompostere på genbrugspladser i kommunen. Indtil den 1. juli 2024 kan kommunalbestyrelsen i forbindelse med kompostering af haveaffald på genbrugspladser udføre forbehandlingsaktiviteter, herunder neddeling, der er nødvendige for komposteringen.",
-      "valid_from": "2023-06-08",
-      "valid_to": null
+      "valid_from": "2023-06-22",
+      "valid_to": "2024-05-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:05:02.963Z",
+    "accession": "B20230087505",
+    "document_id": "DB000701",
+    "unique_document_id": "237437",
+    "upstream_status": "Historic",
+    "start_date": "2023-06-22",
+    "end_date": "2024-05-30",
+    "historic_marked": "2024-05-29",
+    "seed_status": "repealed"
+  }
 }

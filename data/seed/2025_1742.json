@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2025-12-22",
+  "in_force_date": "2025-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1742/xml",
   "description": "Retsinformation source. DocumentId=DD000646; AccessionNumber=A20250174229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -3957,5 +3958,16 @@
       "definition": "jord, der på grund af menneskelig påvirkning kan have skadelig virkning på grundvand, menneskers sundhed og miljøet i øvrigt",
       "source_provision": "10:83c"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:58:06.972Z",
+    "accession": "A20250174229",
+    "document_id": "DD000646",
+    "unique_document_id": "253968",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-22",
+    "end_date": "2026-05-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

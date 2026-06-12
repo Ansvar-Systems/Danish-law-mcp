@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lodslov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1979-03-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1979/116/xml",
-  "description": "Retsinformation source. DocumentId=CM000924; AccessionNumber=A19790011630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000924; AccessionNumber=A19790011630; Ophævet 1990-09-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:07:36.816Z",
+    "accession": "A19790011630",
+    "document_id": "CM000924",
+    "unique_document_id": "42424",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-02-20",
+    "historic_marked": "1990-09-07",
+    "seed_status": "repealed"
+  }
 }

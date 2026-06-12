@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-01-08",
+  "in_force_date": "2019-01-10",
   "url": "https://www.retsinformation.dk/eli/lta/2019/22/xml",
   "description": "Retsinformation source. DocumentId=AN013697; AccessionNumber=B20190002205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Skatteforvaltningen afskriver endeligt opkrævningsrenter, der fra og med den 1. marts 2016 er påløbet og til og med den 28. februar 2019 vil påløbe registreringsafgift, vægtafgift og andre fordringer, der vedrører Skatteforvaltningens køretøjsregister (Det Digitale MotorRegister, DMR). Afskrivningen gennemføres, ved at Skatteforvaltningen undlader at beregne og opkræve de nævnte opkrævningsrenter.",
-      "valid_from": "2019-01-08",
+      "valid_from": "2019-01-10",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. januar 2019.",
-      "valid_from": "2019-01-08",
+      "valid_from": "2019-01-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:55.006Z",
+    "accession": "B20190002205",
+    "document_id": "AN013697",
+    "unique_document_id": "206371",
+    "upstream_status": "Valid",
+    "start_date": "2019-01-10",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-06-28",
+  "in_force_date": "2022-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1100/xml",
   "description": "Retsinformation source. DocumentId=DA000959; AccessionNumber=B20220110005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen gælder for elever, kursister og deltagere på Børne- og Undervisningsministeriets område, som har midlertidig opholdstilladelse i medfør af lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine, og som har modtaget undervisning, hvor undervisningssproget var ukrainsk eller engelsk i medfør af § 31 b i lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine.",
-      "valid_from": "2022-06-28",
+      "valid_from": "2022-06-30",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Uanset de regler, som er fastsat i medfør af lovgivningen på Børne- og Undervisningsministeriets område, om, at prøver afholdes på det sprog, der er undervist på, afholder skolen eller institutionen prøver på dansk. Dette gælder, uanset om der i den undervisning, som er givet som grundlag for prøven, er anvendt ukrainsk eller engelsk som undervisningssprog. Stk. 2. Hvor institutionen i medfør af lovgivningen kan tillade, at prøver afholdes på et andet sprog end undervisningssproget, kan institutionen tillade, at en prøve afholdes på engelsk, hvis de almene betingelser for en tilladelse er opfyldt. Stk. 3. Bestemmelserne i stk. 1 og 2 gælder ikke prøver, hvis formål det er at dokumentere kompetencer i et fremmedsprog.",
-      "valid_from": "2022-06-28",
+      "valid_from": "2022-06-30",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 6. juli 2022.",
-      "valid_from": "2022-06-28",
+      "valid_from": "2022-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:05:33.215Z",
+    "accession": "B20220110005",
+    "document_id": "DA000959",
+    "unique_document_id": "232244",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-30",
+    "end_date": "2026-04-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

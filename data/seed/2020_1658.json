@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2020-11-20",
+  "in_force_date": "2020-11-20",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1658/xml",
   "description": "Retsinformation source. DocumentId=AG000957; AccessionNumber=B20200165803; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -515,5 +516,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:54:57.406Z",
+    "accession": "B20200165803",
+    "document_id": "AG000957",
+    "unique_document_id": "217543",
+    "upstream_status": "Valid",
+    "start_date": "2020-11-20",
+    "end_date": "2020-11-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

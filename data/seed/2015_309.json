@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af varemærkeloven, designloven, patentloven og lov om brugsmodeller (Styrket indsats mod piratkopiering ved etablering af en håndhævelsesenhed m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-03-28",
+  "in_force_date": "2015-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2015/309/xml",
-  "description": "Retsinformation source. DocumentId=BP001249; AccessionNumber=A20150030930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001249; AccessionNumber=A20150030930; Ophævet 2017-03-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "45b",
@@ -34,30 +35,41 @@
       "provision_ref": "45b",
       "section": "45b",
       "content": "§ 45 b. Patent- og Varemærkestyrelsens opgaver vedrørende håndhævelse af varemærkerettigheder varetages af en særlig håndhævelsesenhed, hvortil forbrugere, virksomheder og myndigheder kan henvende sig og modtage information og vejledning om håndhævelse og konkrete sager om piratkopiering. Stk. 2. Håndhævelsesenheden kan afgive en skriftlig vejledende udtalelse om konkrete sager om piratkopiering. Enheden afgiver ikke en skriftlig vejledende udtalelse i tilfælde, hvor en sag er indbragt for domstolene. Stk. 3. Håndhævelsesenheden bistår politi og anklagemyndighed i deres indsats mod piratkopiering.",
-      "valid_from": "2015-03-28",
-      "valid_to": null
+      "valid_from": "2015-03-30",
+      "valid_to": "2017-03-07"
     },
     {
       "provision_ref": "41b",
       "section": "41b",
       "content": "§ 41 b. Patent- og Varemærkestyrelsens opgaver vedrørende håndhævelse af designrettigheder varetages af en særlig håndhævelsesenhed, hvortil forbrugere, virksomheder og myndigheder kan henvende sig og modtage information og vejledning om håndhævelse og konkrete sager om piratkopiering. Stk. 2. Håndhævelsesenheden kan afgive en skriftlig vejledende udtalelse om konkrete sager om piratkopiering. Enheden afgiver ikke en skriftlig vejledende udtalelse i tilfælde, hvor en sag er indbragt for domstolene. Stk. 3. Håndhævelsesenheden bistår politi og anklagemyndighed i deres indsats mod piratkopiering.",
-      "valid_from": "2015-03-28",
-      "valid_to": null
+      "valid_from": "2015-03-30",
+      "valid_to": "2017-03-07"
     },
     {
       "provision_ref": "65b",
       "section": "65b",
       "content": "§ 65 b. Patent- og Varemærkestyrelsens opgaver vedrørende håndhævelse af patentrettigheder varetages af en særlig håndhævelsesenhed, hvortil forbrugere, virksomheder og myndigheder kan henvende sig og modtage information og vejledning om håndhævelse og konkrete sager om piratkopiering. Stk. 2. Håndhævelsesenheden kan afgive en skriftlig vejledende udtalelse om konkrete sager om piratkopiering. Enheden afgiver ikke en skriftlig vejledende udtalelse i tilfælde, hvor en sag er indbragt for domstolene. Stk. 3. Håndhævelsesenheden bistår politi og anklagemyndighed i deres indsats mod piratkopiering.",
-      "valid_from": "2015-03-28",
-      "valid_to": null
+      "valid_from": "2015-03-30",
+      "valid_to": "2017-03-07"
     },
     {
       "provision_ref": "61b",
       "section": "61b",
       "content": "§ 61 b. Patent- og Varemærkestyrelsens opgaver vedrørende håndhævelse af brugsmodelrettigheder varetages af en særlig håndhævelsesenhed, hvortil forbrugere, virksomheder og myndigheder kan henvende sig og modtage information og vejledning om håndhævelse og konkrete sager om piratkopiering. Stk. 2. Håndhævelsesenheden kan afgive en skriftlig vejledende udtalelse om konkrete sager om piratkopiering. Enheden afgiver ikke en skriftlig vejledende udtalelse i tilfælde, hvor en sag er indbragt for domstolene. Stk. 3. Håndhævelsesenheden bistår politi og anklagemyndighed i deres indsats mod piratkopiering.",
-      "valid_from": "2015-03-28",
-      "valid_to": null
+      "valid_from": "2015-03-30",
+      "valid_to": "2017-03-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:04:02.552Z",
+    "accession": "A20150030930",
+    "document_id": "BP001249",
+    "unique_document_id": "169159",
+    "upstream_status": "Historic",
+    "start_date": "2015-03-30",
+    "end_date": "2020-07-15",
+    "historic_marked": "2017-03-07",
+    "seed_status": "repealed"
+  }
 }

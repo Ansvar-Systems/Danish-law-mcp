@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af sundhedsloven\\n(Udvidet adgang til offentlige registre og elektroniske patientjournaler m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-06-14",
+  "in_force_date": "2011-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2011/605/xml",
-  "description": "Retsinformation source. DocumentId=AI003839; AccessionNumber=A20110060530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI003839; AccessionNumber=A20110060530; Ophævet 2014-11-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "193",
@@ -26,7 +27,7 @@
       "section": "193",
       "content": "§ 193 a. Indenrigs- og sundhedsministeren kan fastsætte krav til it-anvendelsen på sundhedsområdet, herunder krav til elektroniske patientjournaler og til anvendelsen af standarder. Stk. 2. Indenrigs- og sundhedsministeren kan fastsætte regler om, at private sygehuse og klinikker m.v. skal overholde krav fastsat i medfør af stk. 1.",
       "valid_from": "2011-06-14",
-      "valid_to": null
+      "valid_to": "2014-11-18"
     },
     {
       "provision_ref": "60:197",
@@ -34,8 +35,19 @@
       "section": "197",
       "content": "§ 197. Regionsrådene kan til brug for tilrettelæggelse og planlægning af den regionale indsats på sundhedsområdet efter regler fastsat i medfør af stk. 3 indhente og behandle personoplysninger fra offentlige registre om patienters modtagelse af sundhedsydelser. Stk. 2. Kommunalbestyrelserne kan til brug for tilrettelæggelse og planlægning af den kommunale indsats på sundhedsområdet efter regler fastsat i medfør af stk. 3 indhente og behandle personoplysninger fra offentlige registre om pa­tienters modtagelse af sundhedsydelser. Stk. 3. Indenrigs- og sundhedsministeren fastsætter regler om, hvilke registre og personoplysninger regionsrådene og kommunalbestyrelserne kan få adgang til efter stk. 1 og 2, og om behandlingen af disse oplysninger.",
       "valid_from": "2011-06-14",
-      "valid_to": null
+      "valid_to": "2014-11-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:14:01.176Z",
+    "accession": "A20110060530",
+    "document_id": "AI003839",
+    "unique_document_id": "137609",
+    "upstream_status": "Historic",
+    "start_date": "2011-06-14",
+    "end_date": "2022-07-12",
+    "historic_marked": "2014-11-18",
+    "seed_status": "repealed"
+  }
 }

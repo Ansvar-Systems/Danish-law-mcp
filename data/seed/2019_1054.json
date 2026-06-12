@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om særtransport",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-10-23",
+  "in_force_date": "2019-10-24",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1054/xml",
-  "description": "Retsinformation source. DocumentId=CZ000048; AccessionNumber=B20190105405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000048; AccessionNumber=B20190105405; Ophævet 2021-09-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "25a",
@@ -19,9 +20,20 @@
       "provision_ref": "25a",
       "section": "25a",
       "content": "§ 25 a. Armeringsnet med stor bredde må transporteres vandret liggende uden tilladelse på lastbil og vogntog bestående af lastbil og påhængs-/sættevogn, såfremt bredden af transporten ikke overskrider 3,30 m.",
-      "valid_from": "2019-10-23",
-      "valid_to": null
+      "valid_from": "2019-10-24",
+      "valid_to": "2021-09-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:30:38.284Z",
+    "accession": "B20190105405",
+    "document_id": "CZ000048",
+    "unique_document_id": "210749",
+    "upstream_status": "Historic",
+    "start_date": "2019-10-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-09-30",
+    "seed_status": "repealed"
+  }
 }

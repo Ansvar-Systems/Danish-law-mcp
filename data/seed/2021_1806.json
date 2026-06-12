@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 9, i lov om ændring af lov om godkendelse og syn af køretøjer (Gebyr og tilsyn med toldsyn, øgede beføjelser ved vejsidesyn m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-09-09",
+  "in_force_date": "2021-09-13",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1806/xml",
-  "description": "Retsinformation source. DocumentId=DG000169; AccessionNumber=B20210180605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000169; AccessionNumber=B20210180605; Ophævet 2023-03-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 9, i lov nr. 1437 af 17. december 2019 om ændring af lov om godkendelse og syn af køretøjer (Gebyr og tilsyn med toldsyn, øgede beføjelser ved vejsidesyn m.v.), sættes i kraft.",
-      "valid_from": "2021-09-09",
-      "valid_to": null
+      "valid_from": "2021-09-13",
+      "valid_to": "2023-03-16"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. september 2021.",
-      "valid_from": "2021-09-09",
-      "valid_to": null
+      "valid_from": "2021-09-13",
+      "valid_to": "2023-03-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:50.603Z",
+    "accession": "B20210180605",
+    "document_id": "DG000169",
+    "unique_document_id": "224954",
+    "upstream_status": "Historic",
+    "start_date": "2021-09-13",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-16",
+    "seed_status": "repealed"
+  }
 }

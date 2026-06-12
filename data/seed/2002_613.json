@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Danmarks eksklusive økonomiske zone",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-07-19",
+  "in_force_date": "2002-07-29",
   "url": "https://www.retsinformation.dk/eli/lta/2002/613/xml",
-  "description": "Retsinformation source. DocumentId=AS000483; AccessionNumber=B20020061305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AS000483; AccessionNumber=B20020061305; Ophævet 2020-11-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:51:27.314Z",
+    "accession": "B20020061305",
+    "document_id": "AS000483",
+    "unique_document_id": "22973",
+    "upstream_status": "Historic",
+    "start_date": "2002-07-29",
+    "end_date": "2020-11-21",
+    "historic_marked": "2020-11-20",
+    "seed_status": "repealed"
+  }
 }

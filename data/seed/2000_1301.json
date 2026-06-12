@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af arbejdsmarkedsfondsloven, ligningsloven og skattekontrolloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1301/xml",
-  "description": "Retsinformation source. DocumentId=AN002152; AccessionNumber=A20000130130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002152; AccessionNumber=A20000130130; Ophævet 2001-10-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:02:37.618Z",
+    "accession": "A20000130130",
+    "document_id": "AN002152",
+    "unique_document_id": "14828",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2006-06-16",
+    "historic_marked": "2001-10-18",
+    "seed_status": "repealed"
+  }
 }

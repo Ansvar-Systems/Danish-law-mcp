@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kommunernes opkrævning af afgift af ledningsført vand m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-01",
+  "in_force_date": "2002-12-09",
   "url": "https://www.retsinformation.dk/eli/lta/2002/962/xml",
-  "description": "Retsinformation source. DocumentId=AN003200; AccessionNumber=B20020096205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003200; AccessionNumber=B20020096205; Ophævet 2005-10-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:05:15.779Z",
+    "accession": "B20020096205",
+    "document_id": "AN003200",
+    "unique_document_id": "15614",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-09",
+    "end_date": "2006-02-20",
+    "historic_marked": "2005-10-27",
+    "seed_status": "repealed"
+  }
 }

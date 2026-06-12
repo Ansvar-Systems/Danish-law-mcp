@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 062 for radioanlæg til intelligente transport systemer (ITS) i frekvensbåndet 63-64 GHz",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-15",
+  "in_force_date": "2010-01-20",
   "url": "https://www.retsinformation.dk/eli/lta/2010/54/xml",
-  "description": "Retsinformation source. DocumentId=BD000529; AccessionNumber=B20100005405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000529; AccessionNumber=B20100005405; Ophævet 2016-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For radioanlæg til intelligente transport systemer (ITS) i frekvensbåndet 63-64 GHz gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 062 for radioanlæg til intelligente transport systemer (ITS) i frekvensbåndet 63-64 GHz.",
-      "valid_from": "2010-01-15",
-      "valid_to": null
+      "valid_from": "2010-01-20",
+      "valid_to": "2016-11-25"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 27. januar 2010.",
-      "valid_from": "2010-01-15",
-      "valid_to": null
+      "valid_from": "2010-01-20",
+      "valid_to": "2016-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:19:33.736Z",
+    "accession": "B20100005405",
+    "document_id": "BD000529",
+    "unique_document_id": "128224",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-20",
+    "end_date": "2026-06-04",
+    "historic_marked": "2016-11-25",
+    "seed_status": "repealed"
+  }
 }

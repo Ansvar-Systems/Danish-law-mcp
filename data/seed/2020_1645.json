@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fund af højpatogen aviær influenza i Nordfriesland i det nordlige Tyskland",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-11-19",
+  "in_force_date": "2020-11-19",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1645/xml",
-  "description": "Retsinformation source. DocumentId=CK002741; AccessionNumber=B20200164505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002741; AccessionNumber=B20200164505; Ophævet 2020-11-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -34,7 +35,7 @@
       "section": "1",
       "content": "§ 1. Som følge af udbrud af højpatogen aviær influenza i en fjerkræbesætning i Nordfriesland i det nordlige Tyskland opretter Fødevarestyrelsen med virkning fra i dag en overvågningszone i den sydvestlige del af Sønderjylland, jf. § 27 i bekendtgørelse nr. 1444 af 12. december 2019 om bekæmpelse af højpatogen aviær influenza.",
       "valid_from": "2020-11-19",
-      "valid_to": null
+      "valid_to": "2020-11-20"
     },
     {
       "provision_ref": "1:2",
@@ -42,7 +43,7 @@
       "section": "2",
       "content": "§ 2. Overvågningszonen, jf. bilag 1, har en radius på 10 kilometer omkring den berørte bedrift, der er beliggende i Nordfriesland i det nordlige Tyskland. Stk. 2. Overvågningszonen i Sønderjylland fremgår af bilag 1.",
       "valid_from": "2020-11-19",
-      "valid_to": null
+      "valid_to": "2020-11-20"
     },
     {
       "provision_ref": "1:3",
@@ -50,8 +51,19 @@
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 19. november 2020, kl. 18.00.",
       "valid_from": "2020-11-19",
-      "valid_to": null
+      "valid_to": "2020-11-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:54:27.047Z",
+    "accession": "B20200164505",
+    "document_id": "CK002741",
+    "unique_document_id": "217643",
+    "upstream_status": "Historic",
+    "start_date": "2020-11-19",
+    "end_date": "2022-04-09",
+    "historic_marked": "2020-11-20",
+    "seed_status": "repealed"
+  }
 }

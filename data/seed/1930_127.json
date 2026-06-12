@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ikrafttræden af borgerlig straffelov m.m.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1930-04-15",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1930/127/xml",
-  "description": "Retsinformation source. DocumentId=CM018256; AccessionNumber=A19300012730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018256; AccessionNumber=A19300012730; Ophævet 1998-03-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:44:49.487Z",
+    "accession": "A19300012730",
+    "document_id": "CM018256",
+    "unique_document_id": "59304",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-19",
+    "historic_marked": "1998-03-18",
+    "seed_status": "repealed"
+  }
 }

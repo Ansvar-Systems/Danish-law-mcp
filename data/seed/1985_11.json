@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om handelsmedhjælpereksamen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-01-14",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1985/11/xml",
-  "description": "Retsinformation source. DocumentId=CM032065; AccessionNumber=B19850001105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032065; AccessionNumber=B19850001105; Ophævet 1996-07-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:47:20.647Z",
+    "accession": "B19850001105",
+    "document_id": "CM032065",
+    "unique_document_id": "72868",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1996-07-02",
+    "seed_status": "repealed"
+  }
 }

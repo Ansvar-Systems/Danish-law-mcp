@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2025-06-03",
+  "in_force_date": "2025-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2025/630/xml",
   "description": "Retsinformation source. DocumentId=DG001122; AccessionNumber=B20250063005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 2 i lov nr. 802 af 7. juni 2022 om udvikling af statsvejnettet sættes i kraft.",
-      "valid_from": "2025-06-03",
+      "valid_from": "2025-06-04",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 16. juni 2025.",
-      "valid_from": "2025-06-03",
+      "valid_from": "2025-06-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:19:47.801Z",
+    "accession": "B20250063005",
+    "document_id": "DG001122",
+    "unique_document_id": "250282",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-04",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

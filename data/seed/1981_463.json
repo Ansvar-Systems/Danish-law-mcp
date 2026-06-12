@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anmeldelser til forsikringsregisteret m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1981-09-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1981/463/xml",
-  "description": "Retsinformation source. DocumentId=CM023724; AccessionNumber=B19810046305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023724; AccessionNumber=B19810046305; Ophævet 1990-03-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:11:57.207Z",
+    "accession": "B19810046305",
+    "document_id": "CM023724",
+    "unique_document_id": "64676",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1990-03-02",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-15",
+  "in_force_date": "2015-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1603/xml",
   "description": "Retsinformation source. DocumentId=CI000046; AccessionNumber=B20150160305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1104 af 20. september 2007 om eftersyn af ventilations- og klimaanlæg i bygninger ophæves.",
-      "valid_from": "2015-12-15",
+      "valid_from": "2015-12-16",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-12-15",
+      "valid_from": "2015-12-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:46:47.949Z",
+    "accession": "B20150160305",
+    "document_id": "CI000046",
+    "unique_document_id": "175336",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-16",
+    "end_date": "2025-11-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

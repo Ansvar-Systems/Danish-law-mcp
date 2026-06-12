@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om lægeundersøgelse af søfarende og fiskere",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-12-16",
+  "in_force_date": "2011-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1360/xml",
-  "description": "Retsinformation source. DocumentId=BP000058; AccessionNumber=B20110136005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000058; AccessionNumber=B20110136005; Ophævet 2013-06-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "14",
@@ -19,9 +20,20 @@
       "provision_ref": "14",
       "section": "14",
       "content": "§ 14. Hvis en frist efter § 8 for foretagelse af en undersøgelse udløber under en rejse, bevarer den i sundhedsbeviset angivne påtegning sin gyldighed indtil første anløb af en havn, hvor undersøgelse kan finde sted uden unødigt ophold. Dog bevarer påtegningen ikke sin gyldighed i længere end 3 måneder.",
-      "valid_from": "2011-12-16",
-      "valid_to": null
+      "valid_from": "2011-12-28",
+      "valid_to": "2013-06-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:52:44.495Z",
+    "accession": "B20110136005",
+    "document_id": "BP000058",
+    "unique_document_id": "139833",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-28",
+    "end_date": "2017-12-08",
+    "historic_marked": "2013-06-25",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om anlæg af Ringbanen mellem Hellerup og Ny Ellebjerg",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/476/xml",
-  "description": "Retsinformation source. DocumentId=AR000323; AccessionNumber=A20000047630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000323; AccessionNumber=A20000047630; Ophævet 2024-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:52.382Z",
+    "accession": "A20000047630",
+    "document_id": "AR000323",
+    "unique_document_id": "21966",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2024-12-11",
+    "historic_marked": "2024-12-10",
+    "seed_status": "repealed"
+  }
 }

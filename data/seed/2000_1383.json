@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fersk kød m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-28",
+  "in_force_date": "2000-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1383/xml",
-  "description": "Retsinformation source. DocumentId=AH000787; AccessionNumber=B20000138305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000787; AccessionNumber=B20000138305; Ophævet 2002-03-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:05:56.765Z",
+    "accession": "B20000138305",
+    "document_id": "AH000787",
+    "unique_document_id": "7139",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-29",
+    "end_date": "2022-04-09",
+    "historic_marked": "2002-03-25",
+    "seed_status": "repealed"
+  }
 }

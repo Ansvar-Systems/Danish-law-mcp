@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2011-04-27",
+  "in_force_date": "2011-04-29",
   "url": "https://www.retsinformation.dk/eli/lta/2011/354/xml",
   "description": "Retsinformation source. DocumentId=AU004400; AccessionNumber=B20110035405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 5, i lov nr. 599 af 24. juni 2005 om ændring af søloven træder i kraft den 30. april 2011.",
-      "valid_from": "2011-04-27",
+      "valid_from": "2011-04-29",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. § 13, nr. 1, i lov nr. 1563 af 20. december 2006 om Bruxelles I-forordningen m.v. træder i kraft den 30. april 2011.",
-      "valid_from": "2011-04-27",
+      "valid_from": "2011-04-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:03:55.121Z",
+    "accession": "B20110035405",
+    "document_id": "AU004400",
+    "unique_document_id": "136944",
+    "upstream_status": "Valid",
+    "start_date": "2011-04-29",
+    "end_date": "2025-06-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

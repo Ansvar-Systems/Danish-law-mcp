@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om skolepraktikydelse og skoleydelse til elever i fgu-baseret erhvervsuddannelse",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-11-09",
+  "in_force_date": "2021-11-16",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2059/xml",
-  "description": "Retsinformation source. DocumentId=DA000684; AccessionNumber=B20210205905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000684; AccessionNumber=B20210205905; Ophævet 2023-12-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Størrelsen af de i §§ 1 og 2 nævnte ydelser fastsættes på de årlige finanslove.",
-      "valid_from": "2021-11-09",
-      "valid_to": null
+      "valid_from": "2021-11-16",
+      "valid_to": "2023-12-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:05:01.666Z",
+    "accession": "B20210205905",
+    "document_id": "DA000684",
+    "unique_document_id": "226067",
+    "upstream_status": "Historic",
+    "start_date": "2021-11-16",
+    "end_date": "2023-12-08",
+    "historic_marked": "2023-12-07",
+    "seed_status": "repealed"
+  }
 }

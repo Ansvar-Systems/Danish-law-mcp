@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af §§ 8, 11-14, 16, 18 og 19 i lov om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-18",
+  "in_force_date": "2017-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1509/xml",
-  "description": "Retsinformation source. DocumentId=BE007490; AccessionNumber=B20170150905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007490; AccessionNumber=B20170150905; Ophævet 2021-02-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. §§ 8, 11-14, 16, 18 og 19 i lov om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne sættes i kraft.",
       "valid_from": "2017-12-18",
-      "valid_to": null
+      "valid_to": "2021-02-18"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 31. december 2017.",
       "valid_from": "2017-12-18",
-      "valid_to": null
+      "valid_to": "2021-02-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:57:14.927Z",
+    "accession": "B20170150905",
+    "document_id": "BE007490",
+    "unique_document_id": "196774",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-02-18",
+    "seed_status": "repealed"
+  }
 }

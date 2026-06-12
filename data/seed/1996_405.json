@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social bistand (Støtte- og kontaktpersonordning for sindslidende)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-05-22",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/405/xml",
-  "description": "Retsinformation source. DocumentId=CM040701; AccessionNumber=A19960040530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040701; AccessionNumber=A19960040530; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:23:30.644Z",
+    "accession": "A19960040530",
+    "document_id": "CM040701",
+    "unique_document_id": "81408",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

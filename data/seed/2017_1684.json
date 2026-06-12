@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven (Udvidelse af fradragsretten for erhvervsmæssige lønudgifter m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-26",
+  "in_force_date": "2017-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1684/xml",
-  "description": "Retsinformation source. DocumentId=AN013250; AccessionNumber=A20170168430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN013250; AccessionNumber=A20170168430; Ophævet 2019-01-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8N",
@@ -19,9 +20,20 @@
       "provision_ref": "8N",
       "section": "8N",
       "content": "§ 8 N. Ved opgørelsen af den skattepligtige indkomst kan fradrages erhvervsmæssige lønudgifter til personer i ansættelsesforhold, bestyrelseshonorarer og erhvervsmæssige udgifter tilknyttet ansættelsesforholdet eller bestyrelseshvervet. Stk. 2. Betaling for erhvervsmæssige udgifter omfattet af stk. 1 kan fradrages ved opgørelsen af den skattepligtige indkomst hos det betalende selskab, hvis det betalende og det modtagende selskab er sambeskattet efter selskabsskattelovens §§ 31 eller 31 A.",
-      "valid_from": "2017-12-26",
-      "valid_to": null
+      "valid_from": "2017-12-27",
+      "valid_to": "2019-01-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:04:16.778Z",
+    "accession": "A20170168430",
+    "document_id": "AN013250",
+    "unique_document_id": "196907",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-01-25",
+    "seed_status": "repealed"
+  }
 }

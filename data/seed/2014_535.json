@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-05-28",
+  "in_force_date": "2014-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2014/535/xml",
   "description": "Retsinformation source. DocumentId=BP000930; AccessionNumber=B20140053505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 490 af 21. maj 2014 om ikrafttræden af visse bestemmelser i lov om ændring af lov om finansiel virksomhed, lov om værdipapirhandel m.v., lov om betalingstjenester og elektroniske penge og forskellige andre love (videregivelse af oplysninger til anklagemyndighed og politi, oprettelse af Det Systemiske Risikoråd, sammenlægning af Det Finansielle Virksomhedsråd og Fondsrådet, shortselling, ny tilgang til håndhævelse af solvenskrav og etablering af tilsyn med referencerenter m.v.) ophæves.",
-      "valid_from": "2014-05-28",
+      "valid_from": "2014-05-29",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 29. maj 2014.",
-      "valid_from": "2014-05-28",
+      "valid_from": "2014-05-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:06:36.303Z",
+    "accession": "B20140053505",
+    "document_id": "BP000930",
+    "unique_document_id": "163409",
+    "upstream_status": "Valid",
+    "start_date": "2014-05-29",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

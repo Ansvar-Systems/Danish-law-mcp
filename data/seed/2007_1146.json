@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kunstig sædoverføring på heste",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-10-03",
+  "in_force_date": "2007-10-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1146/xml",
-  "description": "Retsinformation source. DocumentId=BG000897; AccessionNumber=B20070114605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000897; AccessionNumber=B20070114605; Ophævet 2010-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,15 +25,15 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Inseminering på heste må kun foretages af autoriserede dyrlæger og af hesteinseminører. Stk. 2. Ved hesteinseminør forstås en person, som: 1) af Fødevarestyrelsen har fået tilladelse til at foretage inseminering på heste på grundlag af at have fulgt et kursus og bestået en prøve, der er godkendte af Fødevarestyrelsen, 2) med henblik på etablering i Danmark som hesteinseminør har fået Fødevarestyrelsens fulde anerkendelse af sine erhvervsmæssige kvalifikationer efter reglerne i direktiv 2005/36/EF om anerkendelse af erhvervsmæssige kvalifikationer, jf. bekendtgørelse nr. 1143 af 3. oktober 2007 om adgang for inseminører fra visse lande til at inseminere husdyr, eller 3) til Fødevarestyrelsen har anmeldt, at den pågældende midlertidigt eller lejlighedsvist agter at inseminere heste i Danmark, og som opfylder kravene hertil i direktiv 2005/36/EF om anerkendelse af erhvervsmæssige kvalifikationer, jf. bekendtgørelse nr. 1143 af 3. oktober 2007 om adgang for inseminører fra visse lande til at inseminere husdyr.",
-      "valid_from": "2007-10-03",
-      "valid_to": null
+      "valid_from": "2007-10-06",
+      "valid_to": "2010-01-28"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Med bøde straffes den, der overtræder § 1, stk. 1 eller 3, § 2 eller § 3. Stk. 2. Straffen kan stige til fængsel i indtil 2 år, hvis den ved handlingen eller undladelsen skete overtrædelse er begået forsætligt eller groft uagtsomt, og hvis der ved overtrædelsen er 1) forvoldt skade på menneskers eller dyrs sundhed eller fremkaldt fare herfor, eller 2) opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre, herunder ved besparelser. Stk. 3. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2007-10-03",
-      "valid_to": null
+      "valid_from": "2007-10-06",
+      "valid_to": "2010-01-28"
     }
   ],
   "definitions": [
@@ -41,5 +42,16 @@
       "definition": "en person, som: 1) af Fødevarestyrelsen har fået tilladelse til at foretage inseminering på heste på grundlag af at have fulgt et kursus og bestået en prøve, der er godkendte af Fødevarestyrelsen, 2) med henblik på etablering i Danmark som hesteinseminør har fået Fødevarestyrelsens fulde anerkendelse af sine erhvervsmæssige kvalifikationer efter reglerne i direktiv 2005/36/EF om anerkendelse af erhvervsmæssige kvalifikationer, jf",
       "source_provision": "1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:52:26.786Z",
+    "accession": "B20070114605",
+    "document_id": "BG000897",
+    "unique_document_id": "105113",
+    "upstream_status": "Historic",
+    "start_date": "2007-10-06",
+    "end_date": "2022-04-09",
+    "historic_marked": "2010-01-28",
+    "seed_status": "repealed"
+  }
 }

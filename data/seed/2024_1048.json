@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-09-18",
+  "in_force_date": "2024-09-19",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1048/xml",
   "description": "Retsinformation source. DocumentId=AN016450; AccessionNumber=B20240104805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 18 a, stk. 3, i lov om inddrivelse af gæld til det offentlige som affattet ved § 1, nr. 25, i lov nr. 1565 af 12. december 2023 om ændring af lov om inddrivelse af gæld til det offentlige, kildeskatteloven, opkrævningsloven og skatteforvaltningsloven (Gennemførelse af aftale om initiativer til effektiv opkrævning og gældsinddrivelse i skattevæsenet m.v.) finder fra og med den 26. september 2024 anvendelse for fordringer under inddrivelse i restanceinddrivelsesmyndighedens inddrivelsessystem PSRM.",
-      "valid_from": "2024-09-18",
+      "valid_from": "2024-09-19",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. september 2024.",
-      "valid_from": "2024-09-18",
+      "valid_from": "2024-09-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:24:27.256Z",
+    "accession": "B20240104805",
+    "document_id": "AN016450",
+    "unique_document_id": "244888",
+    "upstream_status": "Valid",
+    "start_date": "2024-09-19",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

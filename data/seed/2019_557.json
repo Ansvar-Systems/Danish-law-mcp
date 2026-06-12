@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af taxiloven (Reservation af 50 tilladelser til nulemissionsbiler pr. kvartal i overgangsperioden)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-05-07",
+  "in_force_date": "2019-05-07",
   "url": "https://www.retsinformation.dk/eli/lta/2019/557/xml",
-  "description": "Retsinformation source. DocumentId=CX000666; AccessionNumber=A20190055730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000666; AccessionNumber=A20190055730; Ophævet 2023-04-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:10:34.888Z",
+    "accession": "A20190055730",
+    "document_id": "CX000666",
+    "unique_document_id": "209152",
+    "upstream_status": "Historic",
+    "start_date": "2019-05-07",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-04-27",
+    "seed_status": "repealed"
+  }
 }

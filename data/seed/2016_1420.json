@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 7 og 24, i lov om ændring af lov om finansiel virksomhed, lov om værdipapirhandel m.v., lov om betalingstjenester og elektroniske penge og forskellige andre love (Erstatningsansvar ved handlinger i strid med god skik-reglerne, forbrugerbeskyttelse ved kaution, krav om grundkursus til bestyrelsesmedlemmer, brugerbeskyttelse ved udbud af betalingstjenester og udstedelse af elektroniske penge m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-11-22",
+  "in_force_date": "2016-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1420/xml",
-  "description": "Retsinformation source. DocumentId=CQ000012; AccessionNumber=B20160142005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000012; AccessionNumber=B20160142005; Ophævet 2025-01-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 7 og 24, i lov nr. 1490 af 23. december 2014 om ændring af lov om finansiel virksomhed, lov om værdipapirhandel m.v., lov om betalingstjenester og elektroniske penge og forskellige andre love (Erstatningsansvar ved handlinger i strid med god skik-reglerne, forbrugerbeskyttelse ved kaution, krav om grundkursus til bestyrelsesmedlemmer, brugerbeskyttelse ved udbud af betalingstjenester og udstedelse af elektroniske penge m.v.) sættes i kraft.",
-      "valid_from": "2016-11-22",
-      "valid_to": null
+      "valid_from": "2016-12-01",
+      "valid_to": "2025-01-14"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2017.",
-      "valid_from": "2016-11-22",
-      "valid_to": null
+      "valid_from": "2016-12-01",
+      "valid_to": "2025-01-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:49:00.707Z",
+    "accession": "B20160142005",
+    "document_id": "CQ000012",
+    "unique_document_id": "185269",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-01",
+    "end_date": "2025-01-15",
+    "historic_marked": "2025-01-14",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod erhvervsmæssigt fiskeri af ål i saltvand fra 1. november 2018 til og med 31. januar 2019",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-10-05",
+  "in_force_date": "2018-10-09",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1205/xml",
-  "description": "Retsinformation source. DocumentId=AS001801; AccessionNumber=B20180120505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AS001801; AccessionNumber=B20180120505; Ophævet 2019-02-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -45,41 +46,52 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Erhvervsmæssigt fiskeri af ål i saltvand er ikke tilladt i perioden fra den 1. november 2018 til og med den 31. januar 2019.",
-      "valid_from": "2018-10-05",
-      "valid_to": null
+      "valid_from": "2018-10-09",
+      "valid_to": "2019-02-22"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ruser, bundgarn og bundgarnslignende redskaber må i den i § 1 nævnte periode anvendes til andet end ålefiskeri, hvis betingelserne i § 7, stk. 2-5, i bekendtgørelse nr. 1551 af 11. december 2015 om betingelserne for erhvervsmæssigt fiskeri af ål i saltvand og ferskvand er opfyldt. Stk. 2. Hvis ål fanges i de i stk. 1 nævnte redskaber i den i § 1 nævnte periode skal disse straks genudsættes.",
-      "valid_from": "2018-10-05",
-      "valid_to": null
+      "valid_from": "2018-10-09",
+      "valid_to": "2019-02-22"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Det er tilladt i den i § 1 nævnte periode at opbevare, lande og sælge ål fanget ved erhvervsmæssigt fiskeri af ål i saltvand inden den 1. november 2018. Stk. 2. Fiskere, der opbevarer levende ål i hyttefade, opbevaringsruser eller lignende, skal mærke hvert af disse med navn, adresse og ålebedriftsnummer eller nummer tildelt af Fiskeristyrelsen, jf. § 16, stk. 3 i bekendtgørelse nr. 1551 af 11. december 2015 om betingelserne for erhvervsmæssigt fiskeri af ål i saltvand og ferskvand. Mærkningen skal være vandfast, synlig og let læselig. Stk. 3. Fiskeren skal indsende lagerliste over opbevarede ål pr. 31. oktober 2018. Lagerlisten skal indeholde oplysninger om indholdet af levende ål i det enkelte hyttefad, den enkelte opbevaringsruse eller lignende. Stk. 4. Fiskeren skal senest den 2. november 2018 sende lagerlisten til Fiskeristyrelsen på e-mail: aal@fiskeristyrelsen.dk #Afs1 . Skabelon til brug for udarbejdelse af lagerliste findes på Fiskeristyrelsens hjemmeside www.fiskeristyrelsen.dk #Afs1 . Stk. 5. Fiskeren skal til hver en tid kunne oplyse indholdet af det enkelte hyttefad, den enkelte opbevaringsruse eller lignende til Fiskeristyrelsen og fiskeren skal ved hver ændring opdatere lagerlisten.",
-      "valid_from": "2018-10-05",
-      "valid_to": null
+      "valid_from": "2018-10-09",
+      "valid_to": "2019-02-22"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Med bøde straffes den, der overtræder eller forsøger at overtræde § 1-3. Stk. 2. Der kan pålægges selskaber mv. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2018-10-05",
-      "valid_to": null
+      "valid_from": "2018-10-09",
+      "valid_to": "2019-02-22"
     },
     {
       "provision_ref": "1:5",
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 29. oktober 2018 og ophæves automatisk den 1. februar 2019.",
-      "valid_from": "2018-10-05",
-      "valid_to": null
+      "valid_from": "2018-10-09",
+      "valid_to": "2019-02-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:30:51.737Z",
+    "accession": "B20180120505",
+    "document_id": "AS001801",
+    "unique_document_id": "203194",
+    "upstream_status": "Historic",
+    "start_date": "2018-10-09",
+    "end_date": "2022-04-08",
+    "historic_marked": "2019-02-22",
+    "seed_status": "repealed"
+  }
 }

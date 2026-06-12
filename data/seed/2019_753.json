@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-07-19",
+  "in_force_date": "2019-07-20",
   "url": "https://www.retsinformation.dk/eli/lta/2019/753/xml",
   "description": "Retsinformation source. DocumentId=CK002105; AccessionNumber=B20190075305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 643 af 28. juni 2019 om fund af lavpatogen aviær influenza ved Fuglebjerg i Næstved Kommune ophæves.",
-      "valid_from": "2019-07-19",
+      "valid_from": "2019-07-20",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 23. juli 2019.",
-      "valid_from": "2019-07-19",
+      "valid_from": "2019-07-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:18:30.480Z",
+    "accession": "B20190075305",
+    "document_id": "CK002105",
+    "unique_document_id": "209897",
+    "upstream_status": "Valid",
+    "start_date": "2019-07-20",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om postbefordring",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-09",
+  "in_force_date": "2004-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2004/472/xml",
-  "description": "Retsinformation source. DocumentId=AR000822; AccessionNumber=A20040047230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000822; AccessionNumber=A20040047230; Ophævet 2010-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:27:31.445Z",
+    "accession": "A20040047230",
+    "document_id": "AR000822",
+    "unique_document_id": "22298",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-09",
+    "end_date": "2022-07-07",
+    "historic_marked": "2010-12-21",
+    "seed_status": "repealed"
+  }
 }

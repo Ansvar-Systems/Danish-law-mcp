@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling af gebyrer i forbindelse med visse tilladelser efter lov om anvendelse af Danmarks undergrund",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-02",
+  "in_force_date": "2005-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2005/419/xml",
-  "description": "Retsinformation source. DocumentId=AR001030; AccessionNumber=B20050041905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001030; AccessionNumber=B20050041905; Ophævet 2025-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:19:27.941Z",
+    "accession": "B20050041905",
+    "document_id": "AR001030",
+    "unique_document_id": "22439",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-09",
+    "end_date": "2025-12-30",
+    "historic_marked": "2025-12-29",
+    "seed_status": "repealed"
+  }
 }

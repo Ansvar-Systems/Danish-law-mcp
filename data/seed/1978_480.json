@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om vejafmærkning. (* 1)",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-09-22",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1978/480/xml",
-  "description": "Retsinformation source. DocumentId=CM008828; AccessionNumber=B19780048005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008828; AccessionNumber=B19780048005; Ophævet 1994-03-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:04:05.413Z",
+    "accession": "B19780048005",
+    "document_id": "CM008828",
+    "unique_document_id": "50013",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1994-03-23",
+    "seed_status": "repealed"
+  }
 }

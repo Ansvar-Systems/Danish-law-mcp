@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af skattekontrolloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1979-12-07",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1979/548/xml",
-  "description": "Retsinformation source. DocumentId=CM022013; AccessionNumber=A19790054829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022013; AccessionNumber=A19790054829; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:58:22.916Z",
+    "accession": "A19790054829",
+    "document_id": "CM022013",
+    "unique_document_id": "62993",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-17",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

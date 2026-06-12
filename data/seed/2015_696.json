@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-05-22",
+  "in_force_date": "2015-05-28",
   "url": "https://www.retsinformation.dk/eli/lta/2015/696/xml",
   "description": "Retsinformation source. DocumentId=AL003174; AccessionNumber=B20150069605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1444 af 11. december 2007 om typegodkendelsesordning for minirenseanlæg ophæves.",
-      "valid_from": "2015-05-22",
+      "valid_from": "2015-05-28",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juni 2015.",
-      "valid_from": "2015-05-22",
+      "valid_from": "2015-05-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:19:35.829Z",
+    "accession": "B20150069605",
+    "document_id": "AL003174",
+    "unique_document_id": "170697",
+    "upstream_status": "Valid",
+    "start_date": "2015-05-28",
+    "end_date": "2025-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om private registre m.v. (Registerlov)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-06-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1978/293/xml",
-  "description": "Retsinformation source. DocumentId=CM018334; AccessionNumber=A19780029330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018334; AccessionNumber=A19780029330; Ophævet 1996-01-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:01:40.011Z",
+    "accession": "A19780029330",
+    "document_id": "CM018334",
+    "unique_document_id": "59381",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-19",
+    "historic_marked": "1996-01-12",
+    "seed_status": "repealed"
+  }
 }

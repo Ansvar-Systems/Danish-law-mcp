@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Hovedstadens Teater",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-04-26",
+  "in_force_date": "2006-05-04",
   "url": "https://www.retsinformation.dk/eli/lta/2006/367/xml",
-  "description": "Retsinformation source. DocumentId=AK000476; AccessionNumber=B20060036705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000476; AccessionNumber=B20060036705; Ophævet 2012-06-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:21:02.162Z",
+    "accession": "B20060036705",
+    "document_id": "AK000476",
+    "unique_document_id": "11999",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-04",
+    "end_date": "2012-06-20",
+    "historic_marked": "2012-06-19",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ydelse af fremstillingspræmie til kartoffelstivelse og støtte til stivelseskartofler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-01-13",
+  "in_force_date": "2009-01-15",
   "url": "https://www.retsinformation.dk/eli/lta/2009/16/xml",
-  "description": "Retsinformation source. DocumentId=AH003196; AccessionNumber=B20090001605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003196; AccessionNumber=B20090001605; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Hvis en bedrift overdrages i sin helhed, inden ansøger har opfyldt samtlige betingelser for udbetaling af den ansøgte støtte til stivelseskartofler, skal der indsendes en producentskifteerklæring til FødevareErhverv. Indsendelse af erklæringen er en betingelse for ydelse af støtte. I erklæringen påtager erhverver sig det fulde ansvar for overholdelse af de i 1. punktum nævnte betingelser. Producentskifteerklæringen skal indgives på en særlig blanket, der fås via FødevareErhvervs hjemmeside eller ved henvendelse til FødevareErhverv. Producentskifteerklæringen skal være direktoratet i hænde senest 8 uger efter producentskiftet. Stk. 2. Hvis en bedrift overdrages i sin helhed, inden den ansøgte støtte er udbetalt, vil støtten uanset overdragelsen blive udbetalt til overdrageren, medmindre overdrageren ved en transport overfører støtten til erhververen.",
-      "valid_from": "2009-01-13",
-      "valid_to": null
+      "valid_from": "2009-01-15",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:00:32.211Z",
+    "accession": "B20090001605",
+    "document_id": "AH003196",
+    "unique_document_id": "123011",
+    "upstream_status": "Historic",
+    "start_date": "2009-01-15",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

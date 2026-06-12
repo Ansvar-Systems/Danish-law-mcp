@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om forbud mod større forsamlinger og mod adgang til og restriktioner for lokaler og lokaliteter i forbindelse med håndtering af covid-19",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-02-26",
+  "in_force_date": "2021-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/307/xml",
-  "description": "Retsinformation source. DocumentId=DI000058; AccessionNumber=B20210030705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000058; AccessionNumber=B20210030705; Ophævet 2021-05-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -19,9 +20,20 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17. Fødevarestyrelsen, Sikkerhedsstyrelsen og Arbejdstilsynet kan påse, at reglerne i §§ 9 og 10 overholdes, herunder vejlede om reglerne. § 11 finder ikke anvendelse.",
-      "valid_from": "2021-02-26",
-      "valid_to": null
+      "valid_from": "2021-02-28",
+      "valid_to": "2021-05-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:35.381Z",
+    "accession": "B20210030705",
+    "document_id": "DI000058",
+    "unique_document_id": "221298",
+    "upstream_status": "Historic",
+    "start_date": "2021-02-28",
+    "end_date": "2021-05-06",
+    "historic_marked": "2021-05-05",
+    "seed_status": "repealed"
+  }
 }

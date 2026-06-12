@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2023-12-12",
+  "in_force_date": "2023-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1532/xml",
   "description": "Retsinformation source. DocumentId=DA001206; AccessionNumber=A20230153230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -319,5 +320,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:23:05.474Z",
+    "accession": "A20230153230",
+    "document_id": "DA001206",
+    "unique_document_id": "240496",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-12",
+    "end_date": "2025-09-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

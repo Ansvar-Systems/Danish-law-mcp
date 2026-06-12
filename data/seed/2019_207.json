@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om trafikselskaber (Forenkling af afstandskrav til fjernbuskørsel m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-03-05",
+  "in_force_date": "2019-03-05",
   "url": "https://www.retsinformation.dk/eli/lta/2019/207/xml",
-  "description": "Retsinformation source. DocumentId=CX000627; AccessionNumber=A20190020730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000627; AccessionNumber=A20190020730; Ophævet 2023-03-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "23",
@@ -20,8 +21,19 @@
       "section": "23",
       "content": "§ 23. Transport-, bygnings- og boligministeren fastsætter regler om, hvilke oplysninger en indehaver af en tilladelse skal afgive om buskørslens omfang og udøvelse, herunder om antal afgange og antal passagerer, og om tilladelsesindehavers varsel om ophør af en rute før tilladelsesperiodens udløb.",
       "valid_from": "2019-03-05",
-      "valid_to": null
+      "valid_to": "2023-03-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:24.677Z",
+    "accession": "A20190020730",
+    "document_id": "CX000627",
+    "unique_document_id": "207587",
+    "upstream_status": "Historic",
+    "start_date": "2019-03-05",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-06",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om erhvervsmæssig konservering af visse dyrearter\\n(Sagsbehandlingsregler mv. – implementering af servicedirektiv)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-22",
+  "in_force_date": "2010-03-31",
   "url": "https://www.retsinformation.dk/eli/lta/2010/330/xml",
-  "description": "Retsinformation source. DocumentId=AL002188; AccessionNumber=B20100033005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002188; AccessionNumber=B20100033005; Ophævet 2013-03-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,8 +20,8 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8 a. En konservator betragtes som en tjenesteudbyder. Ved tjenestemodtager forstås enhver fysisk eller juridisk person som anvender eller ønsker at anvende konservatoren til erhvervsmæssig konservering af dyrearter omfattet af § 1. Stk. 2. Konservator skal oplyse tjenestemodtagere om kontaktoplysninger til Skov- og Naturstyrelsen eller til Økonomi- og Erhvervsministeriets elektroniske kontaktpunkt (kvikskranke), jf. § 16 i lov om tjenesteydelser i det indre marked. Stk. 3. Oplysningerne skal gøres tilgængelige eller meddeles klart og entydigt og i god tid inden kontraktens indgåelse eller inden udførelse af tjenesteydelsen, hvis der ikke foreligger en skriftlig aftale.",
-      "valid_from": "2010-03-22",
-      "valid_to": null
+      "valid_from": "2010-03-31",
+      "valid_to": "2013-03-25"
     }
   ],
   "definitions": [
@@ -29,5 +30,16 @@
       "definition": "enhver fysisk eller juridisk person som anvender eller ønsker at anvende konservatoren til erhvervsmæssig konservering af dyrearter omfattet af § 1",
       "source_provision": "8"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:11:06.387Z",
+    "accession": "B20100033005",
+    "document_id": "AL002188",
+    "unique_document_id": "131031",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-31",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-03-25",
+    "seed_status": "repealed"
+  }
 }

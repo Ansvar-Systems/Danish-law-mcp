@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om ikrafttræden for Grønland af lov om fødevarer m.m.",
   "short_name": "Ikrafttræd. anordning (GL og FO)",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-08",
+  "in_force_date": "2004-06-16",
   "url": "https://www.retsinformation.dk/eli/lta/2004/523/xml",
-  "description": "Retsinformation source. DocumentId=AH001683; AccessionNumber=B20040052303; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001683; AccessionNumber=B20040052303; Ophævet 2005-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:29:34.944Z",
+    "accession": "B20040052303",
+    "document_id": "AH001683",
+    "unique_document_id": "7908",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-16",
+    "end_date": "2023-07-11",
+    "historic_marked": "2005-11-30",
+    "seed_status": "repealed"
+  }
 }

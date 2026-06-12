@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om bæredygtig produktion af biogas",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-05-20",
+  "in_force_date": "2016-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2016/448/xml",
-  "description": "Retsinformation source. DocumentId=CI000127; AccessionNumber=B20160044805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000127; AccessionNumber=B20160044805; Ophævet 2021-06-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3a",
@@ -19,9 +20,20 @@
       "provision_ref": "3a",
       "section": "3a",
       "content": "§ 3 a. Biogas, som sælges til transport, og som modtager tilskud i medfør af § 43 b i lov om fremme af vedvarende energi, må ikke være produceret af korn, majs, roer eller jordskokker.",
-      "valid_from": "2016-05-20",
-      "valid_to": null
+      "valid_from": "2016-05-24",
+      "valid_to": "2021-06-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:14:35.898Z",
+    "accession": "B20160044805",
+    "document_id": "CI000127",
+    "unique_document_id": "180212",
+    "upstream_status": "Historic",
+    "start_date": "2016-05-24",
+    "end_date": "2021-06-19",
+    "historic_marked": "2021-06-18",
+    "seed_status": "repealed"
+  }
 }

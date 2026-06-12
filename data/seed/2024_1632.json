@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-19",
+  "in_force_date": "2024-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1632/xml",
   "description": "Retsinformation source. DocumentId=AA014564; AccessionNumber=B20240163205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -63,7 +64,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Advokatrådet kan beslutte, at en advokat eller en af de personer, der i medfør af retsplejelovens § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab (partnere), skal indkaldes til en samtale med Advokatrådets kontaktpersoner, hvis det må antages, at den pågældende har tilsidesat de pligter, som stillingen medfører. Stk. 2. Samtalen afholdes af Advokatrådets kontaktpersoner fra en anden retskreds end den, hvor advokaten har sin virksomhed. Stk. 3. Der skal i samtalen deltage mindst to af Advokatrådets kontaktpersoner samt en medarbejder fra Advokatrådets sekretariat.",
-      "valid_from": "2024-12-19",
+      "valid_from": "2024-12-20",
       "valid_to": null
     },
     {
@@ -71,7 +72,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Advokatrådet kan indkalde en advokat eller partner til en samtale med Advokatrådets kontaktpersoner, uanset at der allerede verserer en sag i Advokatnævnet mod den pågældende.",
-      "valid_from": "2024-12-19",
+      "valid_from": "2024-12-20",
       "valid_to": null
     },
     {
@@ -79,7 +80,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Indkaldelse af en advokat eller partner til en samtale i medfør af § 1 skal ske med mindst 7 dages varsel. Indkaldelsen skal indeholde en begrundelse for Advokatrådets beslutning om at afholde samtalen. Stk. 2. Samtalen finder sted i advokatvirksomhedens kontorlokaler, medmindre Advokatrådets kontaktpersoner i samråd med Advokatrådet træffer anden beslutning. Stk. 3. Den indkaldte kan tage en bisidder med til samtalen.",
-      "valid_from": "2024-12-19",
+      "valid_from": "2024-12-20",
       "valid_to": null
     },
     {
@@ -87,7 +88,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Den, der er indkaldt til en samtale i medfør af § 1, har pligt til at deltage i samtalen på det sted og på det tidspunkt, der er fastsat af Advokatrådet og Advokatrådets kontaktpersoner. Dette gælder dog ikke, hvis den pågældende på grund af sygdom eller andre særlige omstændigheder må anses for at have lovligt forfald. Advokatrådet kan kræve dokumentation, f.eks. i form af en lægeerklæring, for, at den pågældendes udeblivelse fra samtalen skyldes lovligt forfald.",
-      "valid_from": "2024-12-19",
+      "valid_from": "2024-12-20",
       "valid_to": null
     },
     {
@@ -95,7 +96,7 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. I forbindelse med en samtale efter § 1 kan Advokatrådets kontaktpersoner og medarbejderen fra Advokatrådets sekretariat bl.a. indgå aftale med den pågældende advokat eller partner om ændringer i den pågældendes forretningsgange, hvis det findes hensigtsmæssigt for at undgå, at den pågældende tilsidesætter pligterne som advokat m.v.",
-      "valid_from": "2024-12-19",
+      "valid_from": "2024-12-20",
       "valid_to": null
     },
     {
@@ -103,7 +104,7 @@
       "chapter": "1",
       "section": "6",
       "content": "§ 6. Efter samtalen udfærdiger Advokatrådets kontaktpersoner et udkast til rapport, som fremsendes til den advokat eller partner, som har deltaget i samtalen, med en frist til at fremkomme med bemærkninger. Når Advokatrådets kontaktpersoner har modtaget den pågældendes eventuelle bemærkninger, udfærdiges en endelig rapport, som fremsendes til Advokatrådet. Stk. 2. Rapporten skal indeholde kontaktpersonernes indstilling om det videre forløb, herunder om der er behov for en revisorundersøgelse, og om der er grundlag for at indbringe sagen for Advokatnævnet.",
-      "valid_from": "2024-12-19",
+      "valid_from": "2024-12-20",
       "valid_to": null
     },
     {
@@ -111,7 +112,7 @@
       "chapter": "1",
       "section": "7",
       "content": "§ 7. Advokatrådet afholder rimelige rejse- og opholdsudgifter for de personer, der deltager som Advokatrådets kontaktpersoner.",
-      "valid_from": "2024-12-19",
+      "valid_from": "2024-12-20",
       "valid_to": null
     },
     {
@@ -119,9 +120,20 @@
       "chapter": "1",
       "section": "8",
       "content": "§ 8. Bekendtgørelsen træder i kraft den 1. januar 2025. Stk. 2. Bekendtgørelse nr. 1423 af 11. december 2007 om indkaldelse af advokater m.v. til en samtale med kredsbestyrelsen ophæves.",
-      "valid_from": "2024-12-19",
+      "valid_from": "2024-12-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:48:10.164Z",
+    "accession": "B20240163205",
+    "document_id": "AA014564",
+    "unique_document_id": "247397",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-20",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

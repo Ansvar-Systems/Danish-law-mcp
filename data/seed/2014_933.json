@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anmeldelse, registrering, gebyr samt offentliggørelse m.v. i Erhvervsstyrelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-08-21",
+  "in_force_date": "2014-08-23",
   "url": "https://www.retsinformation.dk/eli/lta/2014/933/xml",
-  "description": "Retsinformation source. DocumentId=BP001003; AccessionNumber=B20140093305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001003; AccessionNumber=B20140093305; Ophævet 2015-03-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "70",
@@ -19,9 +20,20 @@
       "provision_ref": "70",
       "section": "70",
       "content": "§ 70 a. Anmeldelse, jf. § 70, stk. 1, kan foretages i Erhvervsstyrelsens selvregistreringsløsning på www.virk.dk »Start virksomhed« eller på Erhvervsstyrelsens anmeldelsesblanket. For følgende virksomheder m.v. kan anmeldelsen dog alene foretages i selvregistreringsløsningen: 1) Enkeltmandsvirksomheder. 2) Interessentskaber med personlig hæftelse. 3) Kommanditselskaber med personlig hæftelse. 4) Partrederier. 5) Andelsboligforeninger A/B. 6) Ikke-erhvervsdrivende fonde. 7) Selvejende institutioner. 8) Folkekirkelige institutioner. Stk. 2. Ændres anmeldte forhold, jf. § 70, stk. 3, kan ændringerne registreres i Erhvervsstyrelsens selvregistreringsløsning på www.virk.dk ”Ændre virksomhed”. Er der tale om lukning af virksomheden, kan dette registreres i Erhvervsstyrelsens selvregistreringsløsning på www.virk.dk »Luk virksomhed«.",
-      "valid_from": "2014-08-21",
-      "valid_to": null
+      "valid_from": "2014-08-23",
+      "valid_to": "2015-03-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:38.096Z",
+    "accession": "B20140093305",
+    "document_id": "BP001003",
+    "unique_document_id": "164538",
+    "upstream_status": "Historic",
+    "start_date": "2014-08-23",
+    "end_date": "2017-12-08",
+    "historic_marked": "2015-03-13",
+    "seed_status": "repealed"
+  }
 }

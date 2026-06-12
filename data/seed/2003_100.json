@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse for Grønland om registrering af aktiver i livsforsikringsselskaber m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-02-17",
+  "in_force_date": "2003-02-25",
   "url": "https://www.retsinformation.dk/eli/lta/2003/100/xml",
-  "description": "Retsinformation source. DocumentId=AU000926; AccessionNumber=B20030010005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000926; AccessionNumber=B20030010005; Ophævet 2003-04-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:06:47.448Z",
+    "accession": "B20030010005",
+    "document_id": "AU000926",
+    "unique_document_id": "26174",
+    "upstream_status": "Historic",
+    "start_date": "2003-02-25",
+    "end_date": "2010-09-07",
+    "historic_marked": "2003-04-25",
+    "seed_status": "repealed"
+  }
 }

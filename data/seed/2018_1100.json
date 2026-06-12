@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om våben og ammunition m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-08-21",
+  "in_force_date": "2018-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1100/xml",
-  "description": "Retsinformation source. DocumentId=AA011002; AccessionNumber=B20180110005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA011002; AccessionNumber=B20180110005; Ophævet 2021-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:26:34.637Z",
+    "accession": "B20180110005",
+    "document_id": "AA011002",
+    "unique_document_id": "202876",
+    "upstream_status": "Historic",
+    "start_date": "2018-08-31",
+    "end_date": "2021-12-23",
+    "historic_marked": "2021-12-22",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om film (Bemyndigelse til at fastsætte regler om kommunalt tilskud til biografvirksomhed)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-06-09",
+  "in_force_date": "2014-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2014/753/xml",
-  "description": "Retsinformation source. DocumentId=AK001040; AccessionNumber=B20140075305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK001040; AccessionNumber=B20140075305; Ophævet 2020-09-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 1627 af 26. december 2013 om ændring af lov om film (Bemyndigelse til at fastsætte regler om kommunalt tilskud til biografvirksomhed) sættes i kraft.",
-      "valid_from": "2014-06-09",
-      "valid_to": null
+      "valid_from": "2014-06-25",
+      "valid_to": "2020-09-15"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2015.",
-      "valid_from": "2014-06-09",
-      "valid_to": null
+      "valid_from": "2014-06-25",
+      "valid_to": "2020-09-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:15:22.898Z",
+    "accession": "B20140075305",
+    "document_id": "AK001040",
+    "unique_document_id": "163619",
+    "upstream_status": "Historic",
+    "start_date": "2014-06-25",
+    "end_date": "2020-09-16",
+    "historic_marked": "2020-09-15",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Fællesmærkelov(* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-06",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1991/342/xml",
-  "description": "Retsinformation source. DocumentId=CM025480; AccessionNumber=A19910034230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025480; AccessionNumber=A19910034230; Ophævet 2012-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:43:56.048Z",
+    "accession": "A19910034230",
+    "document_id": "CM025480",
+    "unique_document_id": "66357",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "2012-01-31",
+    "seed_status": "repealed"
+  }
 }

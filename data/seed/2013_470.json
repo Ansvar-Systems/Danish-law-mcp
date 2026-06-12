@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indberetning af på- og afmønstring af søfarende og om søfartsbøger",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-05-07",
+  "in_force_date": "2013-05-11",
   "url": "https://www.retsinformation.dk/eli/lta/2013/470/xml",
-  "description": "Retsinformation source. DocumentId=BP000502; AccessionNumber=B20130047005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000502; AccessionNumber=B20130047005; Ophævet 2014-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7. Anmodning om udstedelse af søfartsbog sker ved anvendelse af Søfartsstyrelsens system til digital ansøgning om udstedelse af søfartsbog. Stk. 2. Ansøgningen skal vedhæftes en indscannet kopi af billedside i pas, kørekort eller udskrevne søfartsbog samt et vellignende billede. Stk. 3. Søfartsbogen skal være forsynet med et vellignende foto af indehaveren.",
-      "valid_from": "2013-05-07",
-      "valid_to": null
+      "valid_from": "2013-05-11",
+      "valid_to": "2014-04-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:05:39.996Z",
+    "accession": "B20130047005",
+    "document_id": "BP000502",
+    "unique_document_id": "148254",
+    "upstream_status": "Historic",
+    "start_date": "2013-05-11",
+    "end_date": "2017-12-08",
+    "historic_marked": "2014-04-29",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-12-02",
+  "in_force_date": "2025-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1513/xml",
   "description": "Retsinformation source. DocumentId=DI001661; AccessionNumber=B20250151305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse indeholder i bilagene 1-8 Danske Lægemiddelstandarder 2026.1.",
-      "valid_from": "2025-12-02",
+      "valid_from": "2025-12-05",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Den 12. udgave af den Europæiske Farmakopé (European Pharmacopoeia, Ph. Eur.), som udarbejdet under Europarådet, gælder i Danmark med de eventuelle opdaterede versioner, der fremgår oplistet i bekendtgørelsens bilag 1.",
-      "valid_from": "2025-12-02",
+      "valid_from": "2025-12-05",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2026. Stk. 2. Bekendtgørelse nr. 659 af 30. maj 2023 om Danske Lægemiddelstandarder 2023.8 ophæves.",
-      "valid_from": "2025-12-02",
+      "valid_from": "2025-12-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:48:06.708Z",
+    "accession": "B20250151305",
+    "document_id": "DI001661",
+    "unique_document_id": "253950",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-05",
+    "end_date": "2026-05-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

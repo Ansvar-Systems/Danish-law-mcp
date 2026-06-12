@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Sølov (* 1) (* 2)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-03-16",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1994/170/xml",
-  "description": "Retsinformation source. DocumentId=CM025394; AccessionNumber=A19940017030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025394; AccessionNumber=A19940017030; Ophævet 1998-01-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:45:07.656Z",
+    "accession": "A19940017030",
+    "document_id": "CM025394",
+    "unique_document_id": "66274",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-28",
+    "historic_marked": "1998-01-30",
+    "seed_status": "repealed"
+  }
 }

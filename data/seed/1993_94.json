@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fondsbeskatning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-02-26",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/94/xml",
-  "description": "Retsinformation source. DocumentId=CM019987; AccessionNumber=B19930009405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM019987; AccessionNumber=B19930009405; Ophævet 1994-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:33:05.508Z",
+    "accession": "B19930009405",
+    "document_id": "CM019987",
+    "unique_document_id": "61020",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-10-05",
+    "historic_marked": "1994-12-14",
+    "seed_status": "repealed"
+  }
 }

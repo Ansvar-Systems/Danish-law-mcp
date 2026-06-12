@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godkendelse og syn af køretøjer\\n(EF-typegodkendelse af biler og påhængskøretøjer dertil)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-04-27",
+  "in_force_date": "2009-04-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/310/xml",
-  "description": "Retsinformation source. DocumentId=BL000179; AccessionNumber=B20090031005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000179; AccessionNumber=B20090031005; Ophævet 2012-06-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "14",
@@ -19,9 +20,20 @@
       "provision_ref": "14",
       "section": "14",
       "content": "§ 14. Følgende køretøjer kan standardtypegodkendes: 1) el-drevne personbiler til højst 9 personer, føreren medregnet, jf. dog stk. 6 og 9, 2) personbiler til flere end 9 personer, føreren medregnet, jf. dog stk. 9, 3) varebiler (tilladt totalvægt på højst 3.500 kg), jf. dog stk. 6 og 9, 4) lastbiler (tilladt totalvægt på mere end 3.500 kg), jf. dog stk. 9, 5) traktorer, jf. dog stk. 7, 6) invalideknallerter, 7) påhængsvogne til biler, hvis påhængsvognene er forsynet med påløbsbremser, trykluft-mekaniske bremser eller ikke er forsynet med bremser, jf. dog stk. 9, 8) campingvogne, som er forsynet med påløbsbremser eller ikke er forsynet med bremser, jf. dog stk. 9, 9) andre registreringspligtige påhængsredskaber til biler, hvis påhængsredskaberne er forsynet med påløbsbremser eller ikke er forsynet med bremser, jf. dog stk. 9, og 10) sættevogne med trykluft-mekaniske bremser, jf. dog stk. 9.",
-      "valid_from": "2009-04-27",
-      "valid_to": null
+      "valid_from": "2009-04-28",
+      "valid_to": "2012-06-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:06:46.081Z",
+    "accession": "B20090031005",
+    "document_id": "BL000179",
+    "unique_document_id": "124609",
+    "upstream_status": "Historic",
+    "start_date": "2009-04-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-06-04",
+    "seed_status": "repealed"
+  }
 }

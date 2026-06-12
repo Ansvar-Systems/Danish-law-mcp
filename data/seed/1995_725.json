@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Konkursskatteloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-09-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/725/xml",
-  "description": "Retsinformation source. DocumentId=CM022168; AccessionNumber=A19950072529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022168; AccessionNumber=A19950072529; Ophævet 1997-02-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:50:09.802Z",
+    "accession": "A19950072529",
+    "document_id": "CM022168",
+    "unique_document_id": "63148",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2006-04-03",
+    "historic_marked": "1997-02-13",
+    "seed_status": "repealed"
+  }
 }

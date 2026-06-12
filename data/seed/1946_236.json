@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Lægeundersøgelse af Børn. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1946-04-30",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1946/236/xml",
-  "description": "Retsinformation source. DocumentId=CM005665; AccessionNumber=A19460023630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005665; AccessionNumber=A19460023630; Ophævet 1995-06-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:54:14.637Z",
+    "accession": "A19460023630",
+    "document_id": "CM005665",
+    "unique_document_id": "46900",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2023-07-08",
+    "historic_marked": "1995-06-16",
+    "seed_status": "repealed"
+  }
 }

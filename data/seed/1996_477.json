@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om litteratur",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-06-12",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/477/xml",
-  "description": "Retsinformation source. DocumentId=CM040871; AccessionNumber=A19960047730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040871; AccessionNumber=A19960047730; Ophævet 2003-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:26:21.545Z",
+    "accession": "A19960047730",
+    "document_id": "CM040871",
+    "unique_document_id": "81568",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-12-18",
+    "historic_marked": "2003-12-18",
+    "seed_status": "repealed"
+  }
 }

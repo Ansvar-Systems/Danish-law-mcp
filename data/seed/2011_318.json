@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2011-04-11",
+  "in_force_date": "2011-04-15",
   "url": "https://www.retsinformation.dk/eli/lta/2011/318/xml",
   "description": "Retsinformation source. DocumentId=BJ000395; AccessionNumber=B20110031805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bestyrelsen for Energiteknologisk Udviklings- og Demonstrationsprogram (EUDP) og Green Labs DK-programmet har udarbejdet en forretningsorden. Stk. 2. Forretningsordenen er godkendt af klima- og energiministeren. Stk. 3. Forretningsordenen vedlægges denne bekendtgørelse som bilag 1.",
-      "valid_from": "2011-04-11",
+      "valid_from": "2011-04-15",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. april 2011. Stk. 2. Bekendtgørelse nr. 21 af 18. januar 2009 om forretningsorden for bestyrelsen for Energiteknologisk Udviklings- og Demonstrationsprogram ophæves.",
-      "valid_from": "2011-04-11",
+      "valid_from": "2011-04-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:02:26.868Z",
+    "accession": "B20110031805",
+    "document_id": "BJ000395",
+    "unique_document_id": "136561",
+    "upstream_status": "Valid",
+    "start_date": "2011-04-15",
+    "end_date": "2025-11-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

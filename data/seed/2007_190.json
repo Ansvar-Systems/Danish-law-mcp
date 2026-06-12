@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om tilbageholdelse af stofmisbrugere i behandling",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-02-27",
+  "in_force_date": "2007-03-08",
   "url": "https://www.retsinformation.dk/eli/lta/2007/190/xml",
-  "description": "Retsinformation source. DocumentId=AO003047; AccessionNumber=A20070019029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO003047; AccessionNumber=A20070019029; Ophævet 2010-02-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:12:16.456Z",
+    "accession": "A20070019029",
+    "document_id": "AO003047",
+    "unique_document_id": "20677",
+    "upstream_status": "Historic",
+    "start_date": "2007-03-08",
+    "end_date": "2022-12-31",
+    "historic_marked": "2010-02-23",
+    "seed_status": "repealed"
+  }
 }

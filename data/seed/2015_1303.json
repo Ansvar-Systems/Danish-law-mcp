@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-11-19",
+  "in_force_date": "2015-11-27",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1303/xml",
   "description": "Retsinformation source. DocumentId=CD000041; AccessionNumber=B20150130305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Inden der gives separation eller skilsmisse, kan der, hvis begge parter ønsker det, ske mægling ved en præst.",
-      "valid_from": "2015-11-19",
+      "valid_from": "2015-11-27",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Er ægtefællerne medlemmer af folkekirken, sker mægling ved præsten i det sogn, hvor ægtefællerne eller en af dem bor eller opholder sig. Stk. 2. Tilhører ægtefællerne eller en af dem en anden folkekirkelig menighed end sognemenigheden, kan mægling dog foretages af præsten for denne anden menighed. Stk. 3. En præst i folkekirken kan undlade mægling, hvis præsten ikke ville have været forpligtet til at vie ægtefællerne.",
-      "valid_from": "2015-11-19",
+      "valid_from": "2015-11-27",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Tilhører ægtefællerne eller en af dem et trossamfund uden for folkekirken, kan mægling foretages af præsten for den menighed, som ægtefællerne eller en af dem tilhører.",
-      "valid_from": "2015-11-19",
+      "valid_from": "2015-11-27",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. december 2015. Stk. 2. Bekendtgørelse nr. 16 af 15. januar 1990 om mægling i sager om separation og skilsmisse ophæves.",
-      "valid_from": "2015-11-19",
+      "valid_from": "2015-11-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:34:41.671Z",
+    "accession": "B20150130305",
+    "document_id": "CD000041",
+    "unique_document_id": "175662",
+    "upstream_status": "Valid",
+    "start_date": "2015-11-27",
+    "end_date": "2023-08-16",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

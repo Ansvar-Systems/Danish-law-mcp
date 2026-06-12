@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse af teknisk forskrift om ændring af teknisk forskrift om havnestatskontrol af skibsfart",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-11-18",
+  "in_force_date": "2008-11-20",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1089/xml",
-  "description": "Retsinformation source. DocumentId=AU003459; AccessionNumber=B20080108905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003459; AccessionNumber=B20080108905; Ophævet 2010-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Havnemyndigheder skal sende Søfartsstyrelsen en oversigt over ro-ro passagerskibe i fast rutefart på deres havne senest seks måneder efter denne forskrifts ikrafttræden og derefter hver gang, der indtræffer ændringer.",
-      "valid_from": "2008-11-18",
-      "valid_to": null
+      "valid_from": "2008-11-20",
+      "valid_to": "2010-09-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:48:27.194Z",
+    "accession": "B20080108905",
+    "document_id": "AU003459",
+    "unique_document_id": "122122",
+    "upstream_status": "Historic",
+    "start_date": "2008-11-20",
+    "end_date": "2017-12-08",
+    "historic_marked": "2010-09-29",
+    "seed_status": "repealed"
+  }
 }

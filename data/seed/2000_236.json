@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om radio- og teleterminaludstyr og elektromagnetiske forhold",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-30",
+  "in_force_date": "2000-04-06",
   "url": "https://www.retsinformation.dk/eli/lta/2000/236/xml",
-  "description": "Retsinformation source. DocumentId=AF000139; AccessionNumber=B20000023605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000139; AccessionNumber=B20000023605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:11:14.023Z",
+    "accession": "B20000023605",
+    "document_id": "AF000139",
+    "unique_document_id": "6179",
+    "upstream_status": "Historic",
+    "start_date": "2000-04-06",
+    "end_date": "2026-06-04",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

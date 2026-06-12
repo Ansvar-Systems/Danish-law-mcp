@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ejendomsformidling",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-22",
+  "in_force_date": "2005-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2005/816/xml",
-  "description": "Retsinformation source. DocumentId=AU002234; AccessionNumber=B20050081605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002234; AccessionNumber=B20050081605; Ophævet 2006-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:35:28.257Z",
+    "accession": "B20050081605",
+    "document_id": "AU002234",
+    "unique_document_id": "27106",
+    "upstream_status": "Historic",
+    "start_date": "2005-08-29",
+    "end_date": "2017-12-08",
+    "historic_marked": "2006-06-29",
+    "seed_status": "repealed"
+  }
 }

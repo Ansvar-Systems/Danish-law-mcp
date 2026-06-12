@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om aktiveringsordning for ledige på Bornholm (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-06-24",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1992/470/xml",
-  "description": "Retsinformation source. DocumentId=CM028534; AccessionNumber=A19920047030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM028534; AccessionNumber=A19920047030; Ophævet 1997-08-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:31:23.682Z",
+    "accession": "A19920047030",
+    "document_id": "CM028534",
+    "unique_document_id": "69350",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2024-11-16",
+    "historic_marked": "1997-08-04",
+    "seed_status": "repealed"
+  }
 }

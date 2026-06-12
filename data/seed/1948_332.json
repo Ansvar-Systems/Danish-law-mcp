@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Markedsordningen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1948-07-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1948/332/xml",
-  "description": "Retsinformation source. DocumentId=CM036615; AccessionNumber=B19480033205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM036615; AccessionNumber=B19480033205; Ophævet 1990-06-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:55:31.019Z",
+    "accession": "B19480033205",
+    "document_id": "CM036615",
+    "unique_document_id": "77406",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1990-06-20",
+    "seed_status": "repealed"
+  }
 }

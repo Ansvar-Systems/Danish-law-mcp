@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om arbejdsløshedsforsikring m.v., lov om børnepasningsorlov og lov om befordringsrabat til efterlønsmodtagere m.fl.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/446/xml",
-  "description": "Retsinformation source. DocumentId=AB001125; AccessionNumber=A20010044630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001125; AccessionNumber=A20010044630; Ophævet 2005-11-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:00:20.701Z",
+    "accession": "A20010044630",
+    "document_id": "AB001125",
+    "unique_document_id": "3733",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2011-09-21",
+    "historic_marked": "2005-11-24",
+    "seed_status": "repealed"
+  }
 }

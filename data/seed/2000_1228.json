@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om grundforløb i erhvervsuddannelserne",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-18",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1228/xml",
-  "description": "Retsinformation source. DocumentId=AT000448; AccessionNumber=B20000122805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000448; AccessionNumber=B20000122805; Ophævet 2004-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:59:39.177Z",
+    "accession": "B20000122805",
+    "document_id": "AT000448",
+    "unique_document_id": "23482",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "2004-07-05",
+    "seed_status": "repealed"
+  }
 }

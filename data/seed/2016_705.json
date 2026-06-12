@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2016-05-26",
+  "in_force_date": "2016-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2016/705/xml",
   "description": "Retsinformation source. DocumentId=CH000229; AccessionNumber=B20160070505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "12",
       "section": "12",
       "content": "§ 12. Færdselsstyrelsens afgørelser efter denne bekendtgørelse kan påklages til Transport- og Bygningsministeriet.",
-      "valid_from": "2016-05-26",
+      "valid_from": "2016-06-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:55.530Z",
+    "accession": "B20160070505",
+    "document_id": "CH000229",
+    "unique_document_id": "180279",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-11",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

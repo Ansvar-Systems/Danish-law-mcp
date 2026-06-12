@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2024-03-20",
+  "in_force_date": "2024-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2024/296/xml",
   "description": "Retsinformation source. DocumentId=DC001552; AccessionNumber=B20240029605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "9",
       "section": "9",
       "content": "§ 9. Projektperioden for projekter omfattet af § 1, stk. 2, nr. 1, løber fra ansøgning om tilsagn om tilskud er modtaget i Landbrugsstyrelsen og til og med den 30. juni 2025. Stk. 2. Projektperioden for projekter omfattet af § 1, stk. 2, nr. 2-10, er på 1 år, og løber fra ansøgning om tilsagn om tilskud er modtaget i Landbrugsstyrelsen.",
-      "valid_from": "2024-03-20",
+      "valid_from": "2024-03-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:58:49.297Z",
+    "accession": "B20240029605",
+    "document_id": "DC001552",
+    "unique_document_id": "242477",
+    "upstream_status": "Valid",
+    "start_date": "2024-03-21",
+    "end_date": "2024-03-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bekæmpelsesmidler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-18",
+  "in_force_date": "2003-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2003/533/xml",
-  "description": "Retsinformation source. DocumentId=AL000984; AccessionNumber=B20030053305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000984; AccessionNumber=B20030053305; Ophævet 2011-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:34:04.970Z",
+    "accession": "B20030053305",
+    "document_id": "AL000984",
+    "unique_document_id": "12666",
+    "upstream_status": "Historic",
+    "start_date": "2003-06-26",
+    "end_date": "2023-11-08",
+    "historic_marked": "2011-03-29",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om lægemidler til dyr",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-06",
+  "in_force_date": "2003-03-13",
   "url": "https://www.retsinformation.dk/eli/lta/2003/134/xml",
-  "description": "Retsinformation source. DocumentId=AH001446; AccessionNumber=B20030013405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001446; AccessionNumber=B20030013405; Ophævet 2006-09-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:17:57.444Z",
+    "accession": "B20030013405",
+    "document_id": "AH001446",
+    "unique_document_id": "7709",
+    "upstream_status": "Historic",
+    "start_date": "2003-03-13",
+    "end_date": "2023-07-11",
+    "historic_marked": "2006-09-07",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om smedeuddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-10-28",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/880/xml",
-  "description": "Retsinformation source. DocumentId=CM033024; AccessionNumber=B19920088005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM033024; AccessionNumber=B19920088005; Ophævet 1994-08-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:47:30.118Z",
+    "accession": "B19920088005",
+    "document_id": "CM033024",
+    "unique_document_id": "73826",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1994-08-08",
+    "seed_status": "repealed"
+  }
 }

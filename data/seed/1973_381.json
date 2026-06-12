@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om embedslægeinstitutioner m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1973-06-13",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1973/381/xml",
-  "description": "Retsinformation source. DocumentId=CM005700; AccessionNumber=A19730038130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005700; AccessionNumber=A19730038130; Ophævet 2001-09-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:47:43.200Z",
+    "accession": "A19730038130",
+    "document_id": "CM005700",
+    "unique_document_id": "46932",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "2001-09-24",
+    "seed_status": "repealed"
+  }
 }

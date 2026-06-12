@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-08-13",
+  "in_force_date": "2021-08-13",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1675/xml",
   "description": "Retsinformation source. DocumentId=CS001104; AccessionNumber=B20210167505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -213,5 +214,16 @@
       "definition": "den person, til hvem den tilbagebetalingspligtige hjælp til repatriering er udbetalt",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:49:34.616Z",
+    "accession": "B20210167505",
+    "document_id": "CS001104",
+    "unique_document_id": "224707",
+    "upstream_status": "Valid",
+    "start_date": "2021-08-13",
+    "end_date": "2024-09-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

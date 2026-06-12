@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2013-11-29",
+  "in_force_date": "2013-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1349/xml",
   "description": "Retsinformation source. DocumentId=BP000747; AccessionNumber=B20130134905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 12, i lov nr. 1347 af 3. december 2013 om ændring af fusionsskatteloven, selskabsskatteloven, ejendomsværdiskatteloven og forskellige andre love (Skattefri omstrukturering med deltagelse af selskaber hjemmehørende i EØS-lande, skattefri sammenlægning af vandforsyninger og nedslag i ejendomsværdiskatten m.v.) for så vidt angår § 15 c, stk. 10, i fusionsskatteloven, sættes i kraft.",
-      "valid_from": "2013-11-29",
+      "valid_from": "2013-12-04",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. december 2013.",
-      "valid_from": "2013-11-29",
+      "valid_from": "2013-12-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:20.853Z",
+    "accession": "B20130134905",
+    "document_id": "BP000747",
+    "unique_document_id": "160462",
+    "upstream_status": "Valid",
+    "start_date": "2013-12-04",
+    "end_date": "2025-05-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

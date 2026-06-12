@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 025 for radiobaserede trådløse mikrofonanlæg, inkl. in-ear monitoring systemer",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-07-08",
+  "in_force_date": "2010-07-10",
   "url": "https://www.retsinformation.dk/eli/lta/2010/894/xml",
-  "description": "Retsinformation source. DocumentId=BD000592; AccessionNumber=B20100089405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000592; AccessionNumber=B20100089405; Ophævet 2010-10-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For radiobaserede trådløse mikrofonanlæg, inkl. in-ear monitoring systemer, gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 025 for radiobaserede trådløse mikrofonanlæg, inkl. in-ear monitoring systemer.",
-      "valid_from": "2010-07-08",
-      "valid_to": null
+      "valid_from": "2010-07-10",
+      "valid_to": "2010-10-15"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juli 2010.",
-      "valid_from": "2010-07-08",
-      "valid_to": null
+      "valid_from": "2010-07-10",
+      "valid_to": "2010-10-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:33:51.145Z",
+    "accession": "B20100089405",
+    "document_id": "BD000592",
+    "unique_document_id": "132722",
+    "upstream_status": "Historic",
+    "start_date": "2010-07-10",
+    "end_date": "2026-06-04",
+    "historic_marked": "2010-10-15",
+    "seed_status": "repealed"
+  }
 }

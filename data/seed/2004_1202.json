@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opløsning af ægteskab",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-08",
+  "in_force_date": "2004-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1202/xml",
-  "description": "Retsinformation source. DocumentId=BG000087; AccessionNumber=B20040120205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000087; AccessionNumber=B20040120205; Ophævet 2006-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:01:07.840Z",
+    "accession": "B20040120205",
+    "document_id": "BG000087",
+    "unique_document_id": "31409",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-16",
+    "end_date": "2022-07-08",
+    "historic_marked": "2006-12-14",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om vægtafgift af motorkøretøjer m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-04",
+  "in_force_date": "2003-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2003/978/xml",
-  "description": "Retsinformation source. DocumentId=AN003484; AccessionNumber=A20030097829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003484; AccessionNumber=A20030097829; Ophævet 2008-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:52:00.874Z",
+    "accession": "A20030097829",
+    "document_id": "AN003484",
+    "unique_document_id": "15858",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-15",
+    "end_date": "2016-04-05",
+    "historic_marked": "2008-09-23",
+    "seed_status": "repealed"
+  }
 }

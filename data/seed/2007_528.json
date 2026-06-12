@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om hold af heste",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-06",
+  "in_force_date": "2007-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/528/xml",
-  "description": "Retsinformation source. DocumentId=AA003682; AccessionNumber=A20070052830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003682; AccessionNumber=A20070052830; Ophævet 2013-03-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:25:52.484Z",
+    "accession": "A20070052830",
+    "document_id": "AA003682",
+    "unique_document_id": "2661",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-06",
+    "end_date": "2022-04-08",
+    "historic_marked": "2013-03-14",
+    "seed_status": "repealed"
+  }
 }

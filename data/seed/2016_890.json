@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 3, stk. 1-3, i lov om Arbejdsmarkedets Fond for Udstationerede",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-06-29",
+  "in_force_date": "2016-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2016/890/xml",
-  "description": "Retsinformation source. DocumentId=BE006920; AccessionNumber=B20160089005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006920; AccessionNumber=B20160089005; Ophævet 2024-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 3, stk. 1-3, i lov nr. 613 af 8. juni 2016 om Arbejdsmarkedets Fond for Udstationerede sættes i kraft.",
       "valid_from": "2016-06-29",
-      "valid_to": null
+      "valid_to": "2024-07-05"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2016.",
       "valid_from": "2016-06-29",
-      "valid_to": null
+      "valid_to": "2024-07-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:32:21.987Z",
+    "accession": "B20160089005",
+    "document_id": "BE006920",
+    "unique_document_id": "183409",
+    "upstream_status": "Historic",
+    "start_date": "2016-06-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-07-05",
+    "seed_status": "repealed"
+  }
 }

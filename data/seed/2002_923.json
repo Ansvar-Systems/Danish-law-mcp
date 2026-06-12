@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om modeldambrug",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-11-08",
+  "in_force_date": "2002-11-28",
   "url": "https://www.retsinformation.dk/eli/lta/2002/923/xml",
-  "description": "Retsinformation source. DocumentId=AL000876; AccessionNumber=B20020092305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000876; AccessionNumber=B20020092305; Ophævet 2006-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:03:43.797Z",
+    "accession": "B20020092305",
+    "document_id": "AL000876",
+    "unique_document_id": "12596",
+    "upstream_status": "Historic",
+    "start_date": "2002-11-28",
+    "end_date": "2022-04-09",
+    "historic_marked": "2006-12-21",
+    "seed_status": "repealed"
+  }
 }

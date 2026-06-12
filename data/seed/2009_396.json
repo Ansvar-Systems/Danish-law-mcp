@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om infrastruktur for geografisk information",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-05-15",
+  "in_force_date": "2009-05-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/396/xml",
-  "description": "Retsinformation source. DocumentId=AL001976; AccessionNumber=B20090039605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001976; AccessionNumber=B20090039605; Ophævet 2010-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Geodatasæt og geodatatjenester, som vedrører et eller flere af de temaer, der er nævnt i bilag 1, 2 og 3, er omfattet af lov om infrastruktur for geografisk information.",
-      "valid_from": "2009-05-15",
-      "valid_to": null
+      "valid_from": "2009-05-28",
+      "valid_to": "2010-03-29"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Offentlige myndigheder, som besidder geodatasæt eller geodatatjenester, som vedrører et eller flere temaer som nævnt i bilag 1 og 2, fremstiller metadata for disse senest den 15. december 2010. Stk. 2. Offentlige myndigheder, som besidder geodatasæt eller geodatatjenester, som vedrører et eller flere temaer som nævnt i bilag 3, fremstiller metadata for disse senest den 15. december 2013.",
-      "valid_from": "2009-05-15",
-      "valid_to": null
+      "valid_from": "2009-05-28",
+      "valid_to": "2010-03-29"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 29. maj 2009.",
-      "valid_from": "2009-05-15",
-      "valid_to": null
+      "valid_from": "2009-05-28",
+      "valid_to": "2010-03-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:10:14.213Z",
+    "accession": "B20090039605",
+    "document_id": "AL001976",
+    "unique_document_id": "124721",
+    "upstream_status": "Historic",
+    "start_date": "2009-05-28",
+    "end_date": "2021-01-08",
+    "historic_marked": "2010-03-29",
+    "seed_status": "repealed"
+  }
 }

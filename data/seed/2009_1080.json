@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2009-11-17",
+  "in_force_date": "2009-11-21",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1080/xml",
   "description": "Retsinformation source. DocumentId=AP000234; AccessionNumber=B20090108005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver vedrørende lønadministration, herunder alle lønudbetalinger og korrektioner, opgaver forbundet med ferie og fravær, administrationen af løn- og uddannelsesrelaterede refusioner samt lønsupport, overføres pr. 1. november 2009 fra undervisningsministeren til finansministeren. Stk. 2. Ressortansvaret for alle opgaver vedrørende bogholderi og regnskab, herunder kreditor- og debitoradministration, udarbejdelse (ej godkendelse) af perioderegnskab, administration af kasse og likviditet, anlægsadministration, regnskabsmæssig registrering af tilskud i Navision Stat, vedligeholdelse af registreringsramme i regnskabssystemet, bogføring af rejseafregning samt udarbejdelse af standard ledelsesinformation til understøttelse af institutionernes styringsbehov, overføres pr. 1. november 2009 fra undervisningsministeren til finansministeren.",
-      "valid_from": "2009-11-17",
+      "valid_from": "2009-11-21",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Ressortansvaret for alle opgaver vedrørende lønadministration, herunder alle lønudbetalinger og korrektioner, opgaver forbundet med ferie og fravær, administrationen af løn- og uddannelsesrelaterede refusioner samt lønsupport, der vedrører Kirkeministeriets departement, overføres pr. 1. november 2009 fra kirkeministeren til finansministeren.",
-      "valid_from": "2009-11-17",
+      "valid_from": "2009-11-21",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Ressortansvaret for alle opgaver vedrørende lønadministration, herunder alle lønudbetalinger og korrektioner, opgaver forbundet med ferie og fravær, administrationen af løn- og uddannelsesrelaterede refusioner samt lønsupport, overføres pr. 1. december 2009 fra ministeren for fødevarer, landbrug og fiskeri til finansministeren. Stk. 2. Ressortansvaret for alle opgaver vedrørende bogholderi og regnskab, herunder kreditor- og debitoradministration, udarbejdelse (ej godkendelse) af perioderegnskab, administration af kasse og likviditet, anlægsadministration, regnskabsmæssig registrering af tilskud i Navision Stat, vedligeholdelse af registreringsramme i regnskabssystemet, bogføring af rejseafregning samt udarbejdelse af standard ledelsesinformation til understøttelse af institutionernes styringsbehov, overføres pr. 1. december 2009 fra ministeren for fødevarer, landbrug og fiskeri til finansministeren.",
-      "valid_from": "2009-11-17",
+      "valid_from": "2009-11-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:40:51.057Z",
+    "accession": "B20090108005",
+    "document_id": "AP000234",
+    "unique_document_id": "128304",
+    "upstream_status": "Valid",
+    "start_date": "2009-11-21",
+    "end_date": "2009-11-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

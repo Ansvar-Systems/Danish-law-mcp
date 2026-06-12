@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om danskuddannelse til voksne udlændinge m.fl.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-11-03",
+  "in_force_date": "2009-11-14",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1063/xml",
-  "description": "Retsinformation source. DocumentId=BC000563; AccessionNumber=B20090106305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000563; AccessionNumber=B20090106305; Ophævet 2010-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "19",
@@ -19,9 +20,20 @@
       "provision_ref": "19",
       "section": "19",
       "content": "§ 19. Ministeren for flygtninge, indvandrere og integration kan dispensere fra bekendtgørelsens regler som led i forsøgs- og udviklingsarbejde inden for lovens område.",
-      "valid_from": "2009-11-03",
-      "valid_to": null
+      "valid_from": "2009-11-14",
+      "valid_to": "2010-06-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:40:09.104Z",
+    "accession": "B20090106305",
+    "document_id": "BC000563",
+    "unique_document_id": "127925",
+    "upstream_status": "Historic",
+    "start_date": "2009-11-14",
+    "end_date": "2017-12-12",
+    "historic_marked": "2010-06-30",
+    "seed_status": "repealed"
+  }
 }

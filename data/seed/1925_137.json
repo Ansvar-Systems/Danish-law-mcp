@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Afvanding af Marsken ved Tønder (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1925-04-18",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1925/137/xml",
-  "description": "Retsinformation source. DocumentId=CM038917; AccessionNumber=A19250013730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038917; AccessionNumber=A19250013730; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:42:16.906Z",
+    "accession": "A19250013730",
+    "document_id": "CM038917",
+    "unique_document_id": "79704",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-26",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

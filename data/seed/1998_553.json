@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om registrering og syn af køretøjer m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-07-27",
+  "in_force_date": "1998-08-03",
   "url": "https://www.retsinformation.dk/eli/lta/1998/553/xml",
-  "description": "Retsinformation source. DocumentId=CM047631; AccessionNumber=B19980055305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047631; AccessionNumber=B19980055305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:49:45.996Z",
+    "accession": "B19980055305",
+    "document_id": "CM047631",
+    "unique_document_id": "87791",
+    "upstream_status": "Historic",
+    "start_date": "1998-08-03",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

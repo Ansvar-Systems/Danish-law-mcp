@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om udstedere af elektroniske penge",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-08-07",
+  "in_force_date": "2002-08-15",
   "url": "https://www.retsinformation.dk/eli/lta/2002/661/xml",
-  "description": "Retsinformation source. DocumentId=AU000655; AccessionNumber=A20020066129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000655; AccessionNumber=A20020066129; Ophævet 2003-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:53:20.547Z",
+    "accession": "A20020066129",
+    "document_id": "AU000655",
+    "unique_document_id": "25965",
+    "upstream_status": "Historic",
+    "start_date": "2002-08-15",
+    "end_date": "2017-12-08",
+    "historic_marked": "2003-06-10",
+    "seed_status": "repealed"
+  }
 }

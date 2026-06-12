@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om dykkerarbejde og dykkermateriel m.v. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-05-17",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/307/xml",
-  "description": "Retsinformation source. DocumentId=CM025466; AccessionNumber=A19950030730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025466; AccessionNumber=A19950030730; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:33:39.287Z",
+    "accession": "A19950030730",
+    "document_id": "CM025466",
+    "unique_document_id": "66343",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

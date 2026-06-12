@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om adgang til at klage over de faglige forskningsråds afgørelser efter lov om forskningsrådgivning m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-03-30",
+  "in_force_date": "2014-04-01",
   "url": "https://www.retsinformation.dk/eli/lta/2014/321/xml",
-  "description": "Retsinformation source. DocumentId=CE000019; AccessionNumber=B20140032105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000019; AccessionNumber=B20140032105; Ophævet 2017-04-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Den, som et fagligt forskningsråds afgørelse vedrører, kan klage til uddannelses- og forskningsministeren over afgørelsen. Stk. 2. Der kan klages over: 1) Retlige spørgsmål i forbindelse med afgørelser truffet af et fagligt forskningsråd efter § 7 i lov om forskningsrådgivning m.v. 2) Retlige spørgsmål i forbindelse med afgørelser truffet af et fagligt forskningsråd efter regler udstedt i medfør af § 15 i lov om forskningsrådgivning m.v. Stk. 3. Klagen over afgørelsen skal være modtaget af Uddannelses- og Forskningsministeriet senest 4 uger efter, at afgørelsen er meddelt den pågældende.",
-      "valid_from": "2014-03-30",
-      "valid_to": null
+      "valid_from": "2014-04-01",
+      "valid_to": "2017-04-26"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2014. Stk. 2. Bekendtgørelse nr. 111 af 5. februar 2013 om klageadgang efter lov om forskningsrådgivning m.v. ophæves. Stk. 3. Klager over afgørelser truffet af programkomiteer under Det Strategiske Forskningsråd, som er indgivet før bekendtgørelsens ikrafttræden, afgøres efter de hidtil gældende regler.",
-      "valid_from": "2014-03-30",
-      "valid_to": null
+      "valid_from": "2014-04-01",
+      "valid_to": "2017-04-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:58:00.607Z",
+    "accession": "B20140032105",
+    "document_id": "CE000019",
+    "unique_document_id": "162129",
+    "upstream_status": "Historic",
+    "start_date": "2014-04-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-04-26",
+    "seed_status": "repealed"
+  }
 }

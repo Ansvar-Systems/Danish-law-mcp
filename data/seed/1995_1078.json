@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kommunal indkomstskat, selskabsskatteloven, fondsbeskatningsloven, lov om beskatningen af pensionsordninger m.v. og ligningsloven (Statens afregning af selskabsskat m.v. til kommunerne)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1078/xml",
-  "description": "Retsinformation source. DocumentId=CM011685; AccessionNumber=A19950107830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011685; AccessionNumber=A19950107830; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:21:32.273Z",
+    "accession": "A19950107830",
+    "document_id": "CM011685",
+    "unique_document_id": "52849",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2016-12-16",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

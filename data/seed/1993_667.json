@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Københavns Fondsbørs",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-08-17",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1993/667/xml",
-  "description": "Retsinformation source. DocumentId=CM023992; AccessionNumber=B19930066705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023992; AccessionNumber=B19930066705; Ophævet 1997-04-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:22:14.047Z",
+    "accession": "B19930066705",
+    "document_id": "CM023992",
+    "unique_document_id": "64928",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1997-04-16",
+    "seed_status": "repealed"
+  }
 }

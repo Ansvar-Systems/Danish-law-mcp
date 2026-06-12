@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om jordbrugets anvendelse af gødning og om næringsstofreducerende tiltag og lov om Landdistriktsfonden (Frivillig ordning om kvælstofreducerende virkemidler og kriterier for anvendelse af brødhvedenormen)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-27",
+  "in_force_date": "2019-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1569/xml",
-  "description": "Retsinformation source. DocumentId=CK002342; AccessionNumber=A20190156930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002342; AccessionNumber=A20190156930; Ophævet 2023-07-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "39a",
@@ -20,8 +21,19 @@
       "section": "39a",
       "content": "§ 39 a. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler for en frivillig ordning om kvælstofreducerende virkemidler i særlige områder, herunder om virkemidler, der er omfattet af ordningen, om krav til og betingelser for anvendelse af virkemidler og omregningsfaktorer, samt om ansøgning om deltagelse i ordningen og særlige frister herfor.",
       "valid_from": "2019-12-27",
-      "valid_to": null
+      "valid_to": "2023-07-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:51:21.237Z",
+    "accession": "A20190156930",
+    "document_id": "CK002342",
+    "unique_document_id": "212332",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-27",
+    "end_date": "2023-07-13",
+    "historic_marked": "2023-07-12",
+    "seed_status": "repealed"
+  }
 }

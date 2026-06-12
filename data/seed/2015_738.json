@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2015-06-01",
+  "in_force_date": "2015-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2015/738/xml",
   "description": "Retsinformation source. DocumentId=BP001317; AccessionNumber=A20150073830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -401,5 +402,16 @@
       "definition": "meget små virksomheder omfattet af regnskabsklasse B, der i 2 på hinanden følgende regnskabsår på balancetidspunktet ikke overskrider to af følgende størrelser: 1) En balancesum på 2",
       "source_provision": "22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:21:18.615Z",
+    "accession": "A20150073830",
+    "document_id": "BP001317",
+    "unique_document_id": "170627",
+    "upstream_status": "Valid",
+    "start_date": "2015-06-01",
+    "end_date": "2023-11-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

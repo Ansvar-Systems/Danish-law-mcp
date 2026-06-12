@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om rettens pleje (Retsplejeloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-09-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/567/xml",
-  "description": "Retsinformation source. DocumentId=CM018175; AccessionNumber=A19860056729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018175; AccessionNumber=A19860056729; Ophævet 1992-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:13:34.702Z",
+    "accession": "A19860056729",
+    "document_id": "CM018175",
+    "unique_document_id": "59223",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2009-03-31",
+    "historic_marked": "1992-12-16",
+    "seed_status": "repealed"
+  }
 }

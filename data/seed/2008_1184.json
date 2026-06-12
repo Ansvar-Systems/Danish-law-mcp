@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om markfrø",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-12-09",
+  "in_force_date": "2008-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1184/xml",
-  "description": "Retsinformation source. DocumentId=AH003142; AccessionNumber=B20080118405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003142; AccessionNumber=B20080118405; Ophævet 2010-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -24,16 +25,27 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. En virksomhed, der producerer og udvejer frø her i landet til såning eller fører frø til såning ind i landet med henblik på salg skal være registreret i Plantedirektoratet.",
-      "valid_from": "2008-12-09",
-      "valid_to": null
+      "valid_from": "2008-12-11",
+      "valid_to": "2010-06-22"
     },
     {
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17. Et parti præ-basisfrø eller basisfrø må sælges indtil udløbet af den sæson (1. juli – 30. juni), der følger efter den sæson, hvor partiet er prøvetaget første gang med henblik på at undersøge, om normen for spireevne i bilag 5 er overholdt. Stk. 2. Et parti certificeret frø må sælges i et år efter den dato, hvor partiet er prøvetaget første gang med henblik på at undersøge, om normen for spireevne i bilag 5 er overholdt.",
-      "valid_from": "2008-12-09",
-      "valid_to": null
+      "valid_from": "2008-12-11",
+      "valid_to": "2010-06-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:52:21.093Z",
+    "accession": "B20080118405",
+    "document_id": "AH003142",
+    "unique_document_id": "122625",
+    "upstream_status": "Historic",
+    "start_date": "2008-12-11",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-06-22",
+    "seed_status": "repealed"
+  }
 }

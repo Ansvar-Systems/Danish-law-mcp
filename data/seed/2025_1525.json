@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-12-04",
+  "in_force_date": "2025-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1525/xml",
   "description": "Retsinformation source. DocumentId=CQ003450; AccessionNumber=B20250152505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Beføjelser, som efter lov om CO 2 -kvoter er tillagt erhvervsministeren, udøves af Erhvervsstyrelsen, jf. dog stk. 2. Stk. 2. Erhvervsministeren udøver fortsat hjemlen til at delegere beføjelser til andre offentlige myndigheder, jf. lovens § 20, stk. 3.",
-      "valid_from": "2025-12-04",
+      "valid_from": "2025-12-05",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Erhvervsstyrelsen administrerer danske kvotekonti i det elektroniske EU-register og et elektronisk Kyotoregister.",
-      "valid_from": "2025-12-04",
+      "valid_from": "2025-12-05",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Afgørelser, som Erhvervsstyrelsen træffer i medfør af lov om CO 2 -kvoter eller EU-retsakter om forhold omfattet af loven, kan ikke indbringes for erhvervsministeren.",
-      "valid_from": "2025-12-04",
+      "valid_from": "2025-12-05",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2026. Stk. 2. Bekendtgørelse nr. 1357 af 17. december 2012 om henlæggelse af visse beføjelser i lov om CO 2 -kvoter til Erhvervsstyrelsen ophæves.",
-      "valid_from": "2025-12-04",
+      "valid_from": "2025-12-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:48:35.821Z",
+    "accession": "B20250152505",
+    "document_id": "CQ003450",
+    "unique_document_id": "254165",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-05",
+    "end_date": "2025-12-06",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

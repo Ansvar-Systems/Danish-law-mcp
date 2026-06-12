@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om midlertidig regulering af boligforholdene",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-08-29",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/710/xml",
-  "description": "Retsinformation source. DocumentId=CM014135; AccessionNumber=A19950071029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014135; AccessionNumber=A19950071029; Ophævet 1996-10-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:49:35.496Z",
+    "accession": "A19950071029",
+    "document_id": "CM014135",
+    "unique_document_id": "55246",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "1996-10-23",
+    "seed_status": "repealed"
+  }
 }

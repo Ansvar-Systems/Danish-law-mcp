@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af momsbekendtgørelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-06-01",
+  "in_force_date": "2017-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/2017/609/xml",
-  "description": "Retsinformation source. DocumentId=AN013000; AccessionNumber=B20170060905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN013000; AccessionNumber=B20170060905; Ophævet 2021-12-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "60a",
@@ -24,16 +25,27 @@
       "provision_ref": "60a",
       "section": "60a",
       "content": "§ 60 a. Ved leveringer omfattet af momslovens § 46 b skal fogedretten eller den autoriserede auktionsleder udstede en faktura efter § 58 i denne bekendtgørelse på vegne af den afgiftspligtige tvangsauktionssælger.",
-      "valid_from": "2017-06-01",
-      "valid_to": null
+      "valid_from": "2017-06-02",
+      "valid_to": "2021-12-02"
     },
     {
       "provision_ref": "96a",
       "section": "96a",
       "content": "§ 96 a. Fogedretter og autoriserede auktionsledere skal indberette følgende oplysninger elektronisk til SKAT om tvangsauktioner, der er omfattet af momslovens § 46 b, stk. 1: 1) Den registrerede virksomheds registreringsnummer (CVR- eller SE-nummer). 2) Afgiftsbeløbet. 3) Datoen for auktionens afslutning.",
-      "valid_from": "2017-06-01",
-      "valid_to": null
+      "valid_from": "2017-06-02",
+      "valid_to": "2021-12-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:25:22.736Z",
+    "accession": "B20170060905",
+    "document_id": "AN013000",
+    "unique_document_id": "191341",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-02",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-12-02",
+    "seed_status": "repealed"
+  }
 }

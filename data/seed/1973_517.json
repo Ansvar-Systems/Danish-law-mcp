@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilskud og lån til teknologisk service",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1973-09-24",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1973/517/xml",
-  "description": "Retsinformation source. DocumentId=CM023788; AccessionNumber=B19730051705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023788; AccessionNumber=B19730051705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:48:37.702Z",
+    "accession": "B19730051705",
+    "document_id": "CM023788",
+    "unique_document_id": "64738",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

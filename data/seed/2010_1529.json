@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om tilskud til Færøernes hjemmestyre for 2011",
   "short_name": "LOV H#LOKDOK01",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1529/xml",
-  "description": "Retsinformation source. DocumentId=AE001677; AccessionNumber=A20100152930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001677; AccessionNumber=A20100152930; Ophævet 2018-05-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -30,22 +31,33 @@
       "section": "1",
       "content": "§ 1. Staten yder for 2011 et tilskud på 615,5 mio. kr. til Færøernes hjemmestyre.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2018-05-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Tilskuddet udbetales forskudsvis i lige store rater hver måned. Finansministeren kan dog efter aftale med Færøernes landsstyre fastsætte regler om ændrede udbetalingsterminer.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2018-05-16"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Loven træder i kraft den 1. januar 2011.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2018-05-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:56:28.466Z",
+    "accession": "A20100152930",
+    "document_id": "AE001677",
+    "unique_document_id": "135202",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2018-05-17",
+    "historic_marked": "2018-05-16",
+    "seed_status": "repealed"
+  }
 }

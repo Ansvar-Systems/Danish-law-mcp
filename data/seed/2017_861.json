@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-06-13",
+  "in_force_date": "2017-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2017/861/xml",
   "description": "Retsinformation source. DocumentId=CN000428; AccessionNumber=B20170086105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -51,7 +52,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Kiropraktorvirksomhed omfatter diagnostik, forebyggelse og kiropraktisk behandling af biomekaniske funktionsforstyrrelser i rygsøjle, bækken og ekstremiteter.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-30",
       "valid_to": null
     },
     {
@@ -59,7 +60,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. En kiropraktor skal tilrettelægge sin udredning og behandling på baggrund af den bedste tilgængelige viden, kiropraktorens kliniske erfaring, og patientens ønsker.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-30",
       "valid_to": null
     },
     {
@@ -67,7 +68,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. En kiropraktor skal foretage en samlet klinisk vurdering af patienten på baggrund af dennes somatiske, medicinske og psykosociale forhold, herunder optage en relevant sygehistorie, foretage relevante undersøgelser af patienten, foretage eller foranstalte relevante parakliniske undersøgelser af patienten og henvise til yderligere udredning ved uafklaret diagnostik.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-30",
       "valid_to": null
     },
     {
@@ -75,7 +76,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. En kiropraktor kan i diagnostisk øjemed foretage rønt­genundersøgelse.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-30",
       "valid_to": null
     },
     {
@@ -83,7 +84,7 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. En kiropraktor skal være opmærksom på komorbiditet og foretage en vurdering af relevansen heraf, og om den kiropraktiske behandling er forenelig hermed. Stk. 2. Bliver en kiropraktor i sin virksomhed bekendt med eller får mistanke om, at en patient har sygdomme, sygdomstilstande eller andet, som kontraindicerer kiropraktisk behandling, skal behandlingen afbrydes og patienten henvises til at søge læge.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-30",
       "valid_to": null
     },
     {
@@ -91,9 +92,20 @@
       "chapter": "1",
       "section": "6",
       "content": "§ 6. Bekendtgørelsen træder i kraft den 1. juli 2017. Stk. 2. Bekendtgørelse nr. 520 af 30. juni 1993 om kiropraktorvirksomhed ophæves.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:35:28.314Z",
+    "accession": "B20170086105",
+    "document_id": "CN000428",
+    "unique_document_id": "192022",
+    "upstream_status": "Valid",
+    "start_date": "2017-06-30",
+    "end_date": "2024-09-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

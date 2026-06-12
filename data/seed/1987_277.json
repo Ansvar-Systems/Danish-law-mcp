@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om erstatning til besættelsestidens ofre",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-05-13",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1987/277/xml",
-  "description": "Retsinformation source. DocumentId=CM012671; AccessionNumber=A19870027730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012671; AccessionNumber=A19870027730; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:34:48.235Z",
+    "accession": "A19870027730",
+    "document_id": "CM012671",
+    "unique_document_id": "53806",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2013-03-16",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

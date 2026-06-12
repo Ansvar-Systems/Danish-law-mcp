@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2025-06-23",
+  "in_force_date": "2025-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2025/853/xml",
   "description": "Retsinformation source. DocumentId=AG001190; AccessionNumber=B20250085305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. §§ 1-14, §§ 16-23 og § 25 i lov nr. 698 af 20. juni 2025 om forsvarssamarbejde mellem Danmark og Amerikas Forenede Stater m.v. sættes i kraft.",
-      "valid_from": "2025-06-23",
+      "valid_from": "2025-06-27",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. § 34, stk. 2, i lov nr. 774 af 20. juni 2025 om godkendelse og syn af køretøjer sættes i kraft.",
-      "valid_from": "2025-06-23",
+      "valid_from": "2025-06-27",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2025.",
-      "valid_from": "2025-06-23",
+      "valid_from": "2025-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:28:54.533Z",
+    "accession": "B20250085305",
+    "document_id": "AG001190",
+    "unique_document_id": "250870",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-27",
+    "end_date": "2026-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

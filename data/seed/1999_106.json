@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Fiskeridirektoratets opgaver og beføjelser",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-02-17",
+  "in_force_date": "1999-03-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/106/xml",
-  "description": "Retsinformation source. DocumentId=AH000187; AccessionNumber=B19990010605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000187; AccessionNumber=B19990010605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:10:00.294Z",
+    "accession": "B19990010605",
+    "document_id": "AH000187",
+    "unique_document_id": "6631",
+    "upstream_status": "Historic",
+    "start_date": "1999-03-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

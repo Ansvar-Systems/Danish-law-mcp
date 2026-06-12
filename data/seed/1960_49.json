@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af skatteopkrævningen i Frederiksberg kommune.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1960-02-24",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1960/49/xml",
-  "description": "Retsinformation source. DocumentId=CM022262; AccessionNumber=A19600004930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022262; AccessionNumber=A19600004930; Ophævet 1995-11-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:04:45.953Z",
+    "accession": "A19600004930",
+    "document_id": "CM022262",
+    "unique_document_id": "63242",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1997-09-25",
+    "historic_marked": "1995-11-13",
+    "seed_status": "repealed"
+  }
 }

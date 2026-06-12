@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-01-12",
+  "in_force_date": "2005-01-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/31/xml",
-  "description": "Retsinformation source. DocumentId=BE001193; AccessionNumber=A20050003129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001193; AccessionNumber=A20050003129; Ophævet 2008-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:15:03.314Z",
+    "accession": "A20050003129",
+    "document_id": "BE001193",
+    "unique_document_id": "30199",
+    "upstream_status": "Historic",
+    "start_date": "2005-01-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2008-12-19",
+    "seed_status": "repealed"
+  }
 }

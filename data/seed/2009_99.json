@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om brug m.v. af radioaktive stoffer og lov om udlevering af lovovertrædere\\n(Gennemførelse af ændringskonvention af 8. juli 2005 til Det Internationale Atomenergiagenturs konvention om fysisk beskyttelse af nukleare materialer)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-02-10",
+  "in_force_date": "2009-02-10",
   "url": "https://www.retsinformation.dk/eli/lta/2009/99/xml",
-  "description": "Retsinformation source. DocumentId=BK000431; AccessionNumber=A20090009930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000431; AccessionNumber=A20090009930; Ophævet 2024-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -20,8 +21,19 @@
       "section": "5",
       "content": "§ 5. Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der overtræder bestemmelserne i denne lov. Forsøg kan straffes. Stk. 2. I forskrifter, der udfærdiges i medfør af loven, kan fastsættes straf af bøde for overtrædelse af bestemmelserne i forskrifterne. Forsøg kan straffes. Stk. 3. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens kapitel 5.",
       "valid_from": "2009-02-10",
-      "valid_to": null
+      "valid_to": "2024-04-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:34:23.844Z",
+    "accession": "A20090009930",
+    "document_id": "BK000431",
+    "unique_document_id": "123410",
+    "upstream_status": "Historic",
+    "start_date": "2009-02-10",
+    "end_date": "2024-04-30",
+    "historic_marked": "2024-04-29",
+    "seed_status": "repealed"
+  }
 }

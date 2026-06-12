@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bedriftssundhedstjeneste",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-24",
+  "in_force_date": "2001-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2001/750/xml",
-  "description": "Retsinformation source. DocumentId=AB001207; AccessionNumber=B20010075005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001207; AccessionNumber=B20010075005; Ophævet 2009-01-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:12:30.922Z",
+    "accession": "B20010075005",
+    "document_id": "AB001207",
+    "unique_document_id": "3812",
+    "upstream_status": "Historic",
+    "start_date": "2001-08-30",
+    "end_date": "2009-01-21",
+    "historic_marked": "2009-01-20",
+    "seed_status": "repealed"
+  }
 }

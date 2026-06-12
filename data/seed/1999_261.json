@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om frø, kartofler og planter",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-04-26",
+  "in_force_date": "1999-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/1999/261/xml",
-  "description": "Retsinformation source. DocumentId=AH000244; AccessionNumber=A19990026129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000244; AccessionNumber=A19990026129; Ophævet 2009-03-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:21:03.222Z",
+    "accession": "A19990026129",
+    "document_id": "AH000244",
+    "unique_document_id": "6682",
+    "upstream_status": "Historic",
+    "start_date": "1999-05-12",
+    "end_date": "2023-11-08",
+    "historic_marked": "2009-03-18",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om feriedagpenge",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-22",
+  "in_force_date": "2009-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2009/570/xml",
-  "description": "Retsinformation source. DocumentId=BE003447; AccessionNumber=B20090057005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE003447; AccessionNumber=B20090057005; Ophævet 2010-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Man kan få feriedagpenge, hvis man 1) har bopæl i Danmark og vender tilbage til Danmark fra et ophold i udlandet, eller 2) har bopæl i et andet EØS-land, er omfattet af artikel 71 i forordning (EØF) nr. 1408/71 og er i Danmark, når ferien begynder. Man skal opholde sig i Danmark, når ferien begynder, og man skal kunne dokumentere det.",
-      "valid_from": "2009-06-22",
-      "valid_to": null
+      "valid_from": "2009-06-24",
+      "valid_to": "2010-03-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:17:21.687Z",
+    "accession": "B20090057005",
+    "document_id": "BE003447",
+    "unique_document_id": "125522",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-03-29",
+    "seed_status": "repealed"
+  }
 }

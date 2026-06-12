@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undervisningsplan for køreuddannelsen til almindelig bil (kategori B)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-11-27",
+  "in_force_date": "2017-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1294/xml",
-  "description": "Retsinformation source. DocumentId=CX000271; AccessionNumber=B20170129405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000271; AccessionNumber=B20170129405; Ophævet 2020-06-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Undervisning af elever med henblik på erhvervelse af kørekort til kategori B skal foregå i overensstemmelse med undervisningsplanen for køreuddannelsen til almindelig bil (kategori B), der er optaget som bilag til denne bekendtgørelse.",
-      "valid_from": "2017-11-27",
-      "valid_to": null
+      "valid_from": "2017-12-01",
+      "valid_to": "2020-06-02"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2018. Stk. 2. Bekendtgørelse nr. 198 af 26. februar 2014 om undervisningsplan for køreuddannelsen til almindelig bil (kategori B) ophæves. Stk. 3. Elever, der har påbegyndt køreuddannelsen før den 1. januar 2018, kan afslutte uddannelsen og aflægge køreprøve efter de hidtil gældende regler frem til udgangen af juni 2018.",
-      "valid_from": "2017-11-27",
-      "valid_to": null
+      "valid_from": "2017-12-01",
+      "valid_to": "2020-06-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:48:34.501Z",
+    "accession": "B20170129405",
+    "document_id": "CX000271",
+    "unique_document_id": "195079",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-06-02",
+    "seed_status": "repealed"
+  }
 }

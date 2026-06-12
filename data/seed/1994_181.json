@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om toldbehandling",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-03-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/181/xml",
-  "description": "Retsinformation source. DocumentId=CM020040; AccessionNumber=B19940018105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020040; AccessionNumber=B19940018105; Ophævet 1994-12-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:45:33.749Z",
+    "accession": "B19940018105",
+    "document_id": "CM020040",
+    "unique_document_id": "61072",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-01-14",
+    "historic_marked": "1994-12-27",
+    "seed_status": "repealed"
+  }
 }

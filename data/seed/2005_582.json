@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om trafikselskaber",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-24",
+  "in_force_date": "2005-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/582/xml",
-  "description": "Retsinformation source. DocumentId=AR001046; AccessionNumber=A20050058230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001046; AccessionNumber=A20050058230; Ophævet 2010-09-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:26:02.371Z",
+    "accession": "A20050058230",
+    "document_id": "AR001046",
+    "unique_document_id": "22454",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-09-22",
+    "seed_status": "repealed"
+  }
 }

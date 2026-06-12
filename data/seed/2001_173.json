@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om udendørs hold af svin",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-19",
+  "in_force_date": "2001-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2001/173/xml",
-  "description": "Retsinformation source. DocumentId=AA001349; AccessionNumber=A20010017330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001349; AccessionNumber=A20010017330; Ophævet 2013-07-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:49:20.359Z",
+    "accession": "A20010017330",
+    "document_id": "AA001349",
+    "unique_document_id": "994",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-19",
+    "end_date": "2022-04-08",
+    "historic_marked": "2013-07-02",
+    "seed_status": "repealed"
+  }
 }

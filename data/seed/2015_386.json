@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Danske Lægemiddelstandarder 2015.0",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-04-07",
+  "in_force_date": "2015-04-11",
   "url": "https://www.retsinformation.dk/eli/lta/2015/386/xml",
-  "description": "Retsinformation source. DocumentId=BK001744; AccessionNumber=B20150038605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001744; AccessionNumber=B20150038605; Ophævet 2015-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:07:07.432Z",
+    "accession": "B20150038605",
+    "document_id": "BK001744",
+    "unique_document_id": "169158",
+    "upstream_status": "Historic",
+    "start_date": "2015-04-11",
+    "end_date": "2022-07-12",
+    "historic_marked": "2015-06-26",
+    "seed_status": "repealed"
+  }
 }

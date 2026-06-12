@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om projektopgaven i 9. klasse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-13",
+  "in_force_date": "2004-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1248/xml",
-  "description": "Retsinformation source. DocumentId=AT001973; AccessionNumber=B20040124805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001973; AccessionNumber=B20040124805; Ophævet 2006-06-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:02:56.999Z",
+    "accession": "B20040124805",
+    "document_id": "AT001973",
+    "unique_document_id": "24651",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-20",
+    "end_date": "2021-01-08",
+    "historic_marked": "2006-06-15",
+    "seed_status": "repealed"
+  }
 }

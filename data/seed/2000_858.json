@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af skattekontrolloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-13",
+  "in_force_date": "2000-09-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/858/xml",
-  "description": "Retsinformation source. DocumentId=AN001159; AccessionNumber=A20000085829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001159; AccessionNumber=A20000085829; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:36:16.859Z",
+    "accession": "A20000085829",
+    "document_id": "AN001159",
+    "unique_document_id": "13952",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-21",
+    "end_date": "2014-10-21",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

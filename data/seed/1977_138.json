@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om vejafmærkning. (* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1977-04-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1977/138/xml",
-  "description": "Retsinformation source. DocumentId=CM016363; AccessionNumber=B19770013805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016363; AccessionNumber=B19770013805; Ophævet 1995-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:53:29.655Z",
+    "accession": "B19770013805",
+    "document_id": "CM016363",
+    "unique_document_id": "57436",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-07",
+    "historic_marked": "1995-12-08",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om almene boliger m.v., lov om leje af almene boliger og lov om friplejeboliger (Effektivisering af den almene boligsektors drift, forsøg med varmeregnskaber m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-12-13",
+  "in_force_date": "2016-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1559/xml",
-  "description": "Retsinformation source. DocumentId=CX000031; AccessionNumber=A20160155930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000031; AccessionNumber=A20160155930; Ophævet 2019-09-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "6a",
@@ -25,15 +26,26 @@
       "section": "6a",
       "content": "§ 6 a. Boligorganisationen skal sikre en forsvarlig og effektiv drift af boligorganisationen og dens afdelinger, herunder udøve god økonomistyring og egenkontrol og løbende fremme kvalitet og effektivitet.",
       "valid_from": "2016-12-13",
-      "valid_to": null
+      "valid_to": "2019-09-10"
     },
     {
       "provision_ref": "14b",
       "section": "14b",
       "content": "§ 14 b. Boligorganisationens bestyrelse har den overordnede ledelse af boligorganisationen og dens afdelinger. Stk. 2. Boligorganisationens bestyrelse har ansvar for driften af boligorganisationen og dens afdelinger og skal sikre, at den organiseres og tilrettelægges effektivt. Stk. 3. Boligorganisationens bestyrelse har ansvar for vedligeholdelsen af afdelingernes bygninger m.v. og for, at der i afdelingernes budgetter henlægges de nødvendige midler hertil. Stk. 4. Boligorganisationens bestyrelse skal opstille og implementere mål for forbedring af effektivitet, såfremt effektivitetstal og analyser peger på forbedringsområder. Mål og initiativer skal fremgå af styringsrapporten.",
       "valid_from": "2016-12-13",
-      "valid_to": null
+      "valid_to": "2019-09-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:54:40.227Z",
+    "accession": "A20160155930",
+    "document_id": "CX000031",
+    "unique_document_id": "185390",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-13",
+    "end_date": "2023-04-28",
+    "historic_marked": "2019-09-10",
+    "seed_status": "repealed"
+  }
 }

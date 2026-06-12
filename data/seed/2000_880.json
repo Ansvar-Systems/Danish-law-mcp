@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anmeldelse af offentlig støtte",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-21",
+  "in_force_date": "2000-09-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/880/xml",
-  "description": "Retsinformation source. DocumentId=AD000727; AccessionNumber=B20000088005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000727; AccessionNumber=B20000088005; Ophævet 2005-06-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:37:11.335Z",
+    "accession": "B20000088005",
+    "document_id": "AD000727",
+    "unique_document_id": "4797",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-29",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-06-23",
+    "seed_status": "repealed"
+  }
 }

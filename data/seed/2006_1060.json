@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om kommunernes styrelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-10-24",
+  "in_force_date": "2006-11-02",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1060/xml",
-  "description": "Retsinformation source. DocumentId=AI002299; AccessionNumber=A20060106029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI002299; AccessionNumber=A20060106029; Ophævet 2008-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:45:17.663Z",
+    "accession": "A20060106029",
+    "document_id": "AI002299",
+    "unique_document_id": "10330",
+    "upstream_status": "Historic",
+    "start_date": "2006-11-02",
+    "end_date": "2025-10-02",
+    "historic_marked": "2008-06-30",
+    "seed_status": "repealed"
+  }
 }

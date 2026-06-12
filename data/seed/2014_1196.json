@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-11-13",
+  "in_force_date": "2014-11-14",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1196/xml",
   "description": "Retsinformation source. DocumentId=AH005392; AccessionNumber=B20140119605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 519 af 16. oktober 1978 om betegnelse m.v. af færdigpakkede ærter og færdigpakkede levnedsmidler, hvori ærter udgør en betydende del af varen ophæves.",
-      "valid_from": "2014-11-13",
+      "valid_from": "2014-11-14",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 22. november 2014.",
-      "valid_from": "2014-11-13",
+      "valid_from": "2014-11-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:35:01.375Z",
+    "accession": "B20140119605",
+    "document_id": "AH005392",
+    "unique_document_id": "165798",
+    "upstream_status": "Valid",
+    "start_date": "2014-11-14",
+    "end_date": "2025-01-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

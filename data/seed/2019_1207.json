@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Nemrefusion",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-11-25",
+  "in_force_date": "2019-11-27",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1207/xml",
-  "description": "Retsinformation source. DocumentId=BE008124; AccessionNumber=B20190120705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008124; AccessionNumber=B20190120705; Ophævet 2024-05-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:36:47.891Z",
+    "accession": "B20190120705",
+    "document_id": "BE008124",
+    "unique_document_id": "211106",
+    "upstream_status": "Historic",
+    "start_date": "2019-11-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-05-27",
+    "seed_status": "repealed"
+  }
 }

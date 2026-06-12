@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om frikommuner",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-05-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/337/xml",
-  "description": "Retsinformation source. DocumentId=CM011510; AccessionNumber=A19870033729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011510; AccessionNumber=A19870033729; Ophævet 1991-05-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:36:55.735Z",
+    "accession": "A19870033729",
+    "document_id": "CM011510",
+    "unique_document_id": "52674",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-04-28",
+    "historic_marked": "1991-05-06",
+    "seed_status": "repealed"
+  }
 }

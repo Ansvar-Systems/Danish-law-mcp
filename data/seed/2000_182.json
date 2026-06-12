@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om jagtmåder og jagtredskaber",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-11",
+  "in_force_date": "2000-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2000/182/xml",
-  "description": "Retsinformation source. DocumentId=AL000402; AccessionNumber=B20000018205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000402; AccessionNumber=B20000018205; Ophævet 2001-09-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:09:03.241Z",
+    "accession": "B20000018205",
+    "document_id": "AL000402",
+    "unique_document_id": "12302",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-27",
+    "end_date": "2026-02-27",
+    "historic_marked": "2001-09-27",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-12-13",
+  "in_force_date": "2017-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1484/xml",
   "description": "Retsinformation source. DocumentId=CQ000327; AccessionNumber=B20170148405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Beføjelser, som efter lov om markedsføring er tillagt erhvervsministeren, udøves af Konkurrence- og Forbrugerstyrelsen. Dette gælder dog ikke for beføjelser i henhold til § 25, stk. 5.",
-      "valid_from": "2017-12-13",
+      "valid_from": "2017-12-15",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2018. Stk. 2. Bekendtgørelse nr. 889 af 26. oktober 1994 om henlæggelse af visse beføjelser til Forbrugerstyrelsen ophæves.",
-      "valid_from": "2017-12-13",
+      "valid_from": "2017-12-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:56:14.394Z",
+    "accession": "B20170148405",
+    "document_id": "CQ000327",
+    "unique_document_id": "194674",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-15",
+    "end_date": "2024-12-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

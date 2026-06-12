@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-02-28",
+  "in_force_date": "2022-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2022/268/xml",
   "description": "Retsinformation source. DocumentId=DH000547; AccessionNumber=B20220026805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -549,5 +550,16 @@
       "definition": "udgifter, der er nødvendige for at gennemføre projektet",
       "source_provision": "6:12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:32:06.750Z",
+    "accession": "B20220026805",
+    "document_id": "DH000547",
+    "unique_document_id": "229550",
+    "upstream_status": "Valid",
+    "start_date": "2022-02-28",
+    "end_date": "2025-08-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

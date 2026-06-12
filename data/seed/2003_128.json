@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om, hvilke af landets faste ejendomme der vurderes i ulige år, og hvilke der vurderes i lige år",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-03",
+  "in_force_date": "2003-03-10",
   "url": "https://www.retsinformation.dk/eli/lta/2003/128/xml",
-  "description": "Retsinformation source. DocumentId=AN003286; AccessionNumber=B20030012805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003286; AccessionNumber=B20030012805; Ophævet 2007-07-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:17:41.944Z",
+    "accession": "B20030012805",
+    "document_id": "AN003286",
+    "unique_document_id": "15682",
+    "upstream_status": "Historic",
+    "start_date": "2003-03-10",
+    "end_date": "2019-03-26",
+    "historic_marked": "2007-07-12",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om investeringsforeninger (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1982-05-26",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1982/229/xml",
-  "description": "Retsinformation source. DocumentId=CM025431; AccessionNumber=A19820022930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025431; AccessionNumber=A19820022930; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:16:24.770Z",
+    "accession": "A19820022930",
+    "document_id": "CM025431",
+    "unique_document_id": "66309",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

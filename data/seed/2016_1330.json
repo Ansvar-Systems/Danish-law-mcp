@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-11-15",
+  "in_force_date": "2016-11-18",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1330/xml",
   "description": "Retsinformation source. DocumentId=BE007004; AccessionNumber=B20160133005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra private arbejdsgivere fastsættes for 2017 til 200 kr. for hver gang arbejdsgiveren betaler et beløb, der svarer til et fuldt års ATP-bidrag, jf. § 15 i lov om Arbejdsmarkedets Tillægspension.",
-      "valid_from": "2016-11-15",
+      "valid_from": "2016-11-18",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2017. Stk. 2. Det for 2017 fastsatte bidrag opkræves første gang på grundlag af ATP-bidrag, der er modtaget i perioden 2. marts - 1. juni 2017.",
-      "valid_from": "2016-11-15",
+      "valid_from": "2016-11-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:45:19.756Z",
+    "accession": "B20160133005",
+    "document_id": "BE007004",
+    "unique_document_id": "184514",
+    "upstream_status": "Valid",
+    "start_date": "2016-11-18",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

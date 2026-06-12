@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-02-22",
+  "in_force_date": "2017-03-01",
   "url": "https://www.retsinformation.dk/eli/lta/2017/206/xml",
   "description": "Retsinformation source. DocumentId=CN000360; AccessionNumber=B20170020605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1129 af 13. december 2002 om embedslægeinstitutionernes virksomhed ophæves.",
-      "valid_from": "2017-02-22",
+      "valid_from": "2017-03-01",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. marts 2017.",
-      "valid_from": "2017-02-22",
+      "valid_from": "2017-03-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:07.428Z",
+    "accession": "B20170020605",
+    "document_id": "CN000360",
+    "unique_document_id": "186871",
+    "upstream_status": "Valid",
+    "start_date": "2017-03-01",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

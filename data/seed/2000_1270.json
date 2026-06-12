@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om beskatning til kommunerne af faste ejendomme",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1270/xml",
-  "description": "Retsinformation source. DocumentId=AI000425; AccessionNumber=A20000127030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000425; AccessionNumber=A20000127030; Ophævet 2003-09-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:01:21.653Z",
+    "accession": "A20000127030",
+    "document_id": "AI000425",
+    "unique_document_id": "9002",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-20",
+    "end_date": "2016-12-16",
+    "historic_marked": "2003-09-15",
+    "seed_status": "repealed"
+  }
 }

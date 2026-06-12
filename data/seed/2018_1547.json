@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om folkehøjskoler (Tilladelse til at fravige lovens krav om gennemførelse af lange kurser (seniorhøjskoler) m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-18",
+  "in_force_date": "2018-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1547/xml",
-  "description": "Retsinformation source. DocumentId=AK001396; AccessionNumber=A20180154730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK001396; AccessionNumber=A20180154730; Ophævet 2019-03-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -25,15 +26,26 @@
       "section": "9a",
       "content": "§ 9 a. Kulturministeren kan give op til fem folkehøjskoler tilladelse til at fravige kravet i § 9, stk. 5. Skoler, der opnår tilladelsen, kan alene opnå tilskud til kurser af op til 4 ugers varighed. Stk. 2. Kulturministeren træffer beslutning om udbud af tilladelser efter stk. 1. Stk. 3. Ved udbud af tilladelser træffer kulturministeren nærmere beslutning om gennemførelse af udbuddet. Beslutningen skal omfatte 1) antallet af tilladelser, der udbydes, 2) processen for udbuddet, 3) de udvælgelseskriterier, der tillægges vægt ved vurderingen af de indkomne ansøgninger i forbindelse med udbuddet, og 4) de tilsynskriterier, skolerne, der opnår tilladelsen, skal efterleve.",
       "valid_from": "2018-12-18",
-      "valid_to": null
+      "valid_to": "2019-03-26"
     },
     {
       "provision_ref": "35a",
       "section": "35a",
       "content": "§ 35 a. Kulturministeren kan bemyndige en styrelse under Kulturministeriet til at udøve de beføjelser, der i denne lov er tillagt ministeren. Stk. 2. Har kulturministeren bemyndiget en styrelse under Kulturministeriet til at udøve de beføjelser, der i denne lov er tillagt ministeren, kan ministeren fastsætte regler om fremgangsmåden ved og adgangen til at klage over afgørelser, der er truffet i henhold til bemyndigelsen, herunder fastsætte regler om, at afgørelser ikke kan indbringes for ministeren.",
       "valid_from": "2018-12-18",
-      "valid_to": null
+      "valid_to": "2019-03-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:38.435Z",
+    "accession": "A20180154730",
+    "document_id": "AK001396",
+    "unique_document_id": "205456",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-18",
+    "end_date": "2019-03-27",
+    "historic_marked": "2019-03-26",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2019-12-05",
+  "in_force_date": "2019-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1295/xml",
   "description": "Retsinformation source. DocumentId=AN014143; AccessionNumber=A20190129530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -113,5 +114,16 @@
       "definition": "hele det beløb, som en kunde i samme omsætningsled som det, hvori leveringen af varer og ydelser finder sted, under frie konkurrencevilkår skulle have betalt på tidspunktet for leveringen af de pågældende varer eller ydelser til en selvstændig leverandør her i landet",
       "source_provision": "28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:17.965Z",
+    "accession": "A20190129530",
+    "document_id": "AN014143",
+    "unique_document_id": "211570",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-05",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

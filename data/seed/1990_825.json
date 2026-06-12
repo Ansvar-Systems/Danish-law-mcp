@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forsvarets organisation m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-12-07",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1990/825/xml",
-  "description": "Retsinformation source. DocumentId=CM000921; AccessionNumber=A19900082529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000921; AccessionNumber=A19900082529; Ophævet 1994-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:31:03.717Z",
+    "accession": "A19900082529",
+    "document_id": "CM000921",
+    "unique_document_id": "42421",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-10",
+    "historic_marked": "1994-02-28",
+    "seed_status": "repealed"
+  }
 }

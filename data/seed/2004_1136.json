@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Patentloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-11-16",
+  "in_force_date": "2004-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1136/xml",
-  "description": "Retsinformation source. DocumentId=AU001520; AccessionNumber=A20040113629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001520; AccessionNumber=A20040113629; Ophævet 2009-02-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:58:27.452Z",
+    "accession": "A20040113629",
+    "document_id": "AU001520",
+    "unique_document_id": "26593",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-02",
+    "end_date": "2017-12-08",
+    "historic_marked": "2009-02-09",
+    "seed_status": "repealed"
+  }
 }

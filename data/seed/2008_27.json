@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af visse bekendtgørelser om ændring af bekendtgørelser udstedt i medfør af landdistriktsloven",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-01-25",
+  "in_force_date": "2008-01-26",
   "url": "https://www.retsinformation.dk/eli/lta/2008/27/xml",
-  "description": "Retsinformation source. DocumentId=AH002757; AccessionNumber=B20080002705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002757; AccessionNumber=B20080002705; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:07:44.275Z",
+    "accession": "B20080002705",
+    "document_id": "AH002757",
+    "unique_document_id": "114648",
+    "upstream_status": "Historic",
+    "start_date": "2008-01-26",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

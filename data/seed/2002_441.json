@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om advokatselskaber",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-06-07",
+  "in_force_date": "2002-06-17",
   "url": "https://www.retsinformation.dk/eli/lta/2002/441/xml",
-  "description": "Retsinformation source. DocumentId=AA001828; AccessionNumber=B20020044105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001828; AccessionNumber=B20020044105; Ophævet 2009-12-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:44:38.264Z",
+    "accession": "B20020044105",
+    "document_id": "AA001828",
+    "unique_document_id": "1339",
+    "upstream_status": "Historic",
+    "start_date": "2002-06-17",
+    "end_date": "2009-12-16",
+    "historic_marked": "2009-12-15",
+    "seed_status": "repealed"
+  }
 }

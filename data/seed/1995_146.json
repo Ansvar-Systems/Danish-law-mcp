@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om rådighed og selvforskyldt ledighed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-03-07",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/146/xml",
-  "description": "Retsinformation source. DocumentId=CM026316; AccessionNumber=B19950014605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026316; AccessionNumber=B19950014605; Ophævet 1996-02-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:27:18.549Z",
+    "accession": "B19950014605",
+    "document_id": "CM026316",
+    "unique_document_id": "67137",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1996-02-15",
+    "seed_status": "repealed"
+  }
 }

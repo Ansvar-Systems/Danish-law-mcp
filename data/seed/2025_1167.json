@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-10-02",
+  "in_force_date": "2025-10-02",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1167/xml",
   "description": "Retsinformation source. DocumentId=DB001229; AccessionNumber=B20250116705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -143,5 +144,16 @@
       "definition": "den efterspørgsel, der ikke overstiger behovet for opvarmning eller køling, og som ellers ville kunne imødekommes på markedets betingelser gennem andre energiproduktionsprocesser end kraftvarmeproduktion",
       "source_provision": "2:3"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:34:03.964Z",
+    "accession": "B20250116705",
+    "document_id": "DB001229",
+    "unique_document_id": "251633",
+    "upstream_status": "Valid",
+    "start_date": "2025-10-02",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

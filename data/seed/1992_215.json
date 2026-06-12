@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om størrelsen af ydelser efter børnetilskudsloven pr. 1. juli 1992",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-03-26",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/215/xml",
-  "description": "Retsinformation source. DocumentId=CM011957; AccessionNumber=B19920021505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011957; AccessionNumber=B19920021505; Ophævet 1993-03-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:21:32.292Z",
+    "accession": "B19920021505",
+    "document_id": "CM011957",
+    "unique_document_id": "53108",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2016-12-22",
+    "historic_marked": "1993-03-16",
+    "seed_status": "repealed"
+  }
 }

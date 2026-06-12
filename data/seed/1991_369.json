@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om sundhedsvæsenet i Grønland",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-06",
+  "in_force_date": "1999-05-19",
   "url": "https://www.retsinformation.dk/eli/lta/1991/369/xml",
-  "description": "Retsinformation source. DocumentId=AQ000120; AccessionNumber=A19910036930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000120; AccessionNumber=A19910036930; Ophævet 2009-06-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:44:58.814Z",
+    "accession": "A19910036930",
+    "document_id": "AQ000120",
+    "unique_document_id": "21132",
+    "upstream_status": "Historic",
+    "start_date": "1999-05-19",
+    "end_date": "2022-07-12",
+    "historic_marked": "2009-06-12",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om forbrugerklagenævnet",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-02-28",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1986/105/xml",
-  "description": "Retsinformation source. DocumentId=CM025217; AccessionNumber=A19860010529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025217; AccessionNumber=A19860010529; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:01:22.711Z",
+    "accession": "A19860010529",
+    "document_id": "CM025217",
+    "unique_document_id": "66103",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2025-03-15",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

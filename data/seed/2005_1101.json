@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om kontinentalsoklen",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-11-18",
+  "in_force_date": "2005-11-28",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1101/xml",
-  "description": "Retsinformation source. DocumentId=AR001112; AccessionNumber=A20050110129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001112; AccessionNumber=A20050110129; Ophævet 2018-09-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:53:00.298Z",
+    "accession": "A20050110129",
+    "document_id": "AR001112",
+    "unique_document_id": "22501",
+    "upstream_status": "Historic",
+    "start_date": "2005-11-28",
+    "end_date": "2025-10-21",
+    "historic_marked": "2018-09-27",
+    "seed_status": "repealed"
+  }
 }

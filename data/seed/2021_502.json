@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2021-03-22",
+  "in_force_date": "2021-03-25",
   "url": "https://www.retsinformation.dk/eli/lta/2021/502/xml",
   "description": "Retsinformation source. DocumentId=AN014870; AccessionNumber=B20210050205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Skatteforvaltningen kan behandle anmodninger om lån, der modtages efter anmodningsfristen efter § 4, stk. 1, i lov om rentefrie lån svarende til indberettet A-skat og arbejdsmarkedsbidrag i forbindelse med covid-19, hvis overskridelsen af anmodningsfristen skyldes pludseligt opståede hændelser, som virksomheden ikke har haft indflydelse på og ikke har kunnet forudse, og virksomheden straks efter hindringens ophør indgiver en anmodning.",
-      "valid_from": "2021-03-22",
+      "valid_from": "2021-03-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:26.182Z",
+    "accession": "B20210050205",
+    "document_id": "AN014870",
+    "unique_document_id": "221951",
+    "upstream_status": "Valid",
+    "start_date": "2021-03-25",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

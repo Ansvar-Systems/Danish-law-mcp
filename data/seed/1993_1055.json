@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ejendomsformidling",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-12-17",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1993/1055/xml",
-  "description": "Retsinformation source. DocumentId=CM024261; AccessionNumber=B19930105505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM024261; AccessionNumber=B19930105505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:54:22.939Z",
+    "accession": "B19930105505",
+    "document_id": "CM024261",
+    "unique_document_id": "65168",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

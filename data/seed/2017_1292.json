@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-11-27",
+  "in_force_date": "2017-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1292/xml",
   "description": "Retsinformation source. DocumentId=CN000490; AccessionNumber=B20170129205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen regulerer regionsrådets indhentning af oplysninger om indsatte implantater, regionrådet har indberettet til Landspatientsregistret, og Sundhedsdatastyrelsens videregivelse af øvrige oplysninger om indsatte implantater til regionsrådet fra Landspatientregisteret til statistiske eller videnskabelige formål.",
-      "valid_from": "2017-11-27",
+      "valid_from": "2017-12-01",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Regionsrådet kan indhente oplysninger, som regionsrådet har indberettet, og Sundhedsdatastyrelsen kan videregive øvrige oplysninger til regionsrådet om indsatte implantater, herunder oplysninger, der identificerer patienten ved CPR-nummer eller andre patienthenførbare oplysninger, til brug for statistiske eller videnskabelige undersøgelser af væsentlig samfundsmæssig betydning, jf. stk. 2. Stk. 2. Indhentning og videregivelse af oplysninger efter stk. 1 må alene vedrøre patienter med bopæl registeret i CPR i den pågældende region. Stk. 3. Indhentning og videregivelse af oplysninger efter bestemmelserne i bekendtgørelsen må alene ske, med henblik på at udføre statistiske eller videnskabelige undersøgelser af væsentlig samfundsmæssig betydning, og når indhentningen eller videregivelsen er nødvendig, og oplysningerne er relevante for udførelsen af undersøgelserne.",
-      "valid_from": "2017-11-27",
+      "valid_from": "2017-12-01",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2018.",
-      "valid_from": "2017-11-27",
+      "valid_from": "2017-12-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:48:30.178Z",
+    "accession": "B20170129205",
+    "document_id": "CN000490",
+    "unique_document_id": "194963",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-01",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-06-25",
+  "in_force_date": "2025-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2025/893/xml",
   "description": "Retsinformation source. DocumentId=DI001525; AccessionNumber=B20250089305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Oplysninger om personer i offentligt finansieret alkoholbehandling i henhold til sundhedslovens § 141, stk. 1, og om patienter i integreret behandling af en psykisk lidelse og en samtidig rusmiddelproblematik i henhold til sundhedslovens § 82 c, stk. 1, skal indberettes til Sundhedsdatastyrelsen (Det Nationale Alkoholbehandlingsregister (NAB)) og Landspatientregistret (LPR) efter reglerne i denne bekendtgørelse. Stk. 2. Indberetningen skal for kommunerne indeholde de oplysninger, som fremgår af gældende »Vejledning/Fællesindhold for Indberetning af oplysninger om personer i alkoholbehandling«, og for regionerne indeholde de oplysninger, som fremgår af gældende »Indberetningsvejledning til LPR«, som begge udfærdiges af Sundhedsdatastyrelsen, og som er tilgængelig på Sundhedsdatastyrelsens hjemmeside. Stk. 3. Indberetningen skal for kommunerne ske elektronisk i overensstemmelse med »Vejledning/Fællesindhold for Indberetning af oplysninger om personer i alkoholbehandling«, og for regionerne ske i overensstemmelse med »Indberetningsvejledning til LPR«, som begge udfærdiges af Sundhedsdatastyrelsen, og som er tilgængelig på Sundhedsdatastyrelsens hjemmeside.",
-      "valid_from": "2025-06-25",
+      "valid_from": "2025-06-27",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Kommunalbestyrelsen og regionsrådet er ansvarlige for, at indberetning sker i overensstemmelse med reglerne i denne bekendtgørelse. Stk. 2. Kommunalbestyrelsen kan overlade indberetningen af oplysninger til de institutioner, hvorpå alkoholbehandling i henhold til sundhedslovens § 141, stk. 1, finder sted. Stk. 3. Regionsrådet kan overlade indberetningen af oplysninger til de institutioner, hvorpå integreret behandling af en psykisk lidelse og en samtidig rusmiddelproblematik i henhold til sundhedslovens § 82 c, stk. 1, finder sted.",
-      "valid_from": "2025-06-25",
+      "valid_from": "2025-06-27",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2025. Stk. 2. Bekendtgørelse nr. 257 af 15. april 2008 om alkoholbehandlingsinstitutioners indberetning af alkoholbehandling til Sundhedsstyrelsen ophæves.",
-      "valid_from": "2025-06-25",
+      "valid_from": "2025-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:30:30.277Z",
+    "accession": "B20250089305",
+    "document_id": "DI001525",
+    "unique_document_id": "250832",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-27",
+    "end_date": "2025-06-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

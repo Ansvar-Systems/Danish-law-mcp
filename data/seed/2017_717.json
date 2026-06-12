@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-06-05",
+  "in_force_date": "2017-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2017/717/xml",
   "description": "Retsinformation source. DocumentId=CK001322; AccessionNumber=B20170071705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 571 af 29. november 1984 om anvendelse af driv- og opløsningsmidler i aerosolbeholdere ophæves.",
-      "valid_from": "2017-06-05",
+      "valid_from": "2017-06-09",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2017.",
-      "valid_from": "2017-06-05",
+      "valid_from": "2017-06-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:29:41.156Z",
+    "accession": "B20170071705",
+    "document_id": "CK001322",
+    "unique_document_id": "191704",
+    "upstream_status": "Valid",
+    "start_date": "2017-06-09",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

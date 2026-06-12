@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om dansk indfødsret",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-17",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/457/xml",
-  "description": "Retsinformation source. DocumentId=CM018166; AccessionNumber=A19910045729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018166; AccessionNumber=A19910045729; Ophævet 1995-10-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:48:29.153Z",
+    "accession": "A19910045729",
+    "document_id": "CM018166",
+    "unique_document_id": "59214",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-06",
+    "historic_marked": "1995-10-25",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-12-21",
+  "in_force_date": "2021-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2557/xml",
   "description": "Retsinformation source. DocumentId=CS001182; AccessionNumber=B20210255705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 2350 af 10. december 2021 om i visse tilfælde at fravige retten til at indrejse i Danmark for visse udlændinge som følge af Covid-19 ophæves.",
-      "valid_from": "2021-12-21",
+      "valid_from": "2021-12-22",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 23. december 2021.",
-      "valid_from": "2021-12-21",
+      "valid_from": "2021-12-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:25:10.966Z",
+    "accession": "B20210255705",
+    "document_id": "CS001182",
+    "unique_document_id": "228523",
+    "upstream_status": "Valid",
+    "start_date": "2021-12-22",
+    "end_date": "2021-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

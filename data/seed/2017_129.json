@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-01-23",
+  "in_force_date": "2017-02-01",
   "url": "https://www.retsinformation.dk/eli/lta/2017/129/xml",
   "description": "Retsinformation source. DocumentId=CN000346; AccessionNumber=B20170012905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 835 af 27. juni 2014 om registrering af og tilsyn med visse private sygehuse, klinikker og praksis ophæves.",
-      "valid_from": "2017-01-23",
+      "valid_from": "2017-02-01",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 2. februar 2017.",
-      "valid_from": "2017-01-23",
+      "valid_from": "2017-02-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:48:23.732Z",
+    "accession": "B20170012905",
+    "document_id": "CN000346",
+    "unique_document_id": "186321",
+    "upstream_status": "Valid",
+    "start_date": "2017-02-01",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

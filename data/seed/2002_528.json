@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om merværdiafgiftsloven (momsloven)",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-06-25",
+  "in_force_date": "2002-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/2002/528/xml",
-  "description": "Retsinformation source. DocumentId=AN003051; AccessionNumber=B20020052805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003051; AccessionNumber=B20020052805; Ophævet 2003-11-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:48:04.452Z",
+    "accession": "B20020052805",
+    "document_id": "AN003051",
+    "unique_document_id": "15517",
+    "upstream_status": "Historic",
+    "start_date": "2002-07-04",
+    "end_date": "2005-08-03",
+    "historic_marked": "2003-11-17",
+    "seed_status": "repealed"
+  }
 }

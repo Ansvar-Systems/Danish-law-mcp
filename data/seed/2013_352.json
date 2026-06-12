@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af udlændingeloven (Videregivelse af oplysninger til anklagemyndigheden, gennemførelse af SIS II-forordningen m.v.) og i lov om ændring af udlændingeloven (Gennemførelse af forordning om en fællesskabskodeks for visa (visumkodeks), bemyndigelse til at fastsætte regler om studieaktivitet m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-04-05",
+  "in_force_date": "2013-04-05",
   "url": "https://www.retsinformation.dk/eli/lta/2013/352/xml",
-  "description": "Retsinformation source. DocumentId=AA007051; AccessionNumber=B20130035205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007051; AccessionNumber=B20130035205; Ophævet 2013-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -30,22 +31,33 @@
       "section": "1",
       "content": "§ 1. § 2, nr. 4-7, 9-11, 13-15 og 20, i lov nr. 1398 af 27. ‍‍december 2008 om ændring af udlændingeloven (Videregivelse af oplysninger til anklagemyndigheden, gennemførelse af SIS II-forordningen m.v.) sættes i kraft.",
       "valid_from": "2013-04-05",
-      "valid_to": null
+      "valid_to": "2013-07-01"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. § 3, nr. 3 og 25-26, i lov nr. 1511 af 27. december 2009 om ændring af udlændingeloven (Gennemførelse af forordning om en fællesskabskodeks for visa (visumkodeks), bemyndigelse til at fastsætte regler om studieaktivitet m.v.) sættes i kraft.",
       "valid_from": "2013-04-05",
-      "valid_to": null
+      "valid_to": "2013-07-01"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 9. april 2013.",
       "valid_from": "2013-04-05",
-      "valid_to": null
+      "valid_to": "2013-07-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:56.859Z",
+    "accession": "B20130035205",
+    "document_id": "AA007051",
+    "unique_document_id": "146265",
+    "upstream_status": "Historic",
+    "start_date": "2013-04-05",
+    "end_date": "2017-12-12",
+    "historic_marked": "2013-07-01",
+    "seed_status": "repealed"
+  }
 }

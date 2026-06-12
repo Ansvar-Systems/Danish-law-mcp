@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om leje",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-05-14",
+  "in_force_date": "2001-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2001/347/xml",
-  "description": "Retsinformation source. DocumentId=AC000418; AccessionNumber=A20010034729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000418; AccessionNumber=A20010034729; Ophævet 2004-09-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:56:21.339Z",
+    "accession": "A20010034729",
+    "document_id": "AC000418",
+    "unique_document_id": "4200",
+    "upstream_status": "Historic",
+    "start_date": "2001-05-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "2004-09-20",
+    "seed_status": "repealed"
+  }
 }

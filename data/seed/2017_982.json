@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-08-15",
+  "in_force_date": "2017-08-19",
   "url": "https://www.retsinformation.dk/eli/lta/2017/982/xml",
   "description": "Retsinformation source. DocumentId=AP000279; AccessionNumber=B20170098205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for sager vedrørende fiskeri, bortset fra sager om akvakultur, overføres fra Miljø- og Fødevareministeriet til Udenrigsministeriet, og henlægges til ministeren for fiskeri og ligestilling, således at den departementale ekspedition af sager vedrørende disse forretningsområder sker i Udenrigsministeriet under ledelse af ministeren for fiskeri og ligestilling og på dennes ansvar.",
-      "valid_from": "2017-08-15",
+      "valid_from": "2017-08-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:40:19.988Z",
+    "accession": "B20170098205",
+    "document_id": "AP000279",
+    "unique_document_id": "192429",
+    "upstream_status": "Valid",
+    "start_date": "2017-08-19",
+    "end_date": "2017-08-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

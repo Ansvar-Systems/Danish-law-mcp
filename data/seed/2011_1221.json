@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om kommunal medfinansiering, overførsel af uforbrugte midler og deponering af overførte midler fra kvalitetsfonden i 2011",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-12-15",
+  "in_force_date": "2011-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1221/xml",
-  "description": "Retsinformation source. DocumentId=BX000021; AccessionNumber=B20110122105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BX000021; AccessionNumber=B20110122105; Ophævet 2012-02-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Anvendelsen af tilskud fra staten fra kvalitetsfonden i 2011 til anlægsinvesteringer inden for de borgernære serviceområder i medfør af stk. 1 og 2 i tekstanmærkning nr. 121 ad. § 16.91.50 på finansloven for finansåret 2011 forudsætter, at den enkelte kommune bidrager med en tilsvarende finansiering til investeringsprojekterne.",
-      "valid_from": "2011-12-15",
-      "valid_to": null
+      "valid_from": "2011-12-17",
+      "valid_to": "2012-02-09"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. De borgernære serviceområder omfatter anlægsinvesteringer på dagtilbudsområdet, i folkeskolen, til idrætsfaciliteter målrettet børn og unge samt på ældreområdet.",
-      "valid_from": "2011-12-15",
-      "valid_to": null
+      "valid_from": "2011-12-17",
+      "valid_to": "2012-02-09"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Uforbrugte midler fra kvalitetsfonden i 2011 og eventuelle uforbrugte midler i 2010 og 2009 kan overføres til anvendelse i efterfølgende år.",
-      "valid_from": "2011-12-15",
-      "valid_to": null
+      "valid_from": "2011-12-17",
+      "valid_to": "2012-02-09"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Uforbrugte midler deponeres på en særskilt konto i et pengeinstitut og registreres efter reglerne i det kommunale budget- og regnskabssystem.",
-      "valid_from": "2011-12-15",
-      "valid_to": null
+      "valid_from": "2011-12-17",
+      "valid_to": "2012-02-09"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 19. december 2011 og har virkning for regnskabsåret 2011.",
-      "valid_from": "2011-12-15",
-      "valid_to": null
+      "valid_from": "2011-12-17",
+      "valid_to": "2012-02-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:47:06.813Z",
+    "accession": "B20110122105",
+    "document_id": "BX000021",
+    "unique_document_id": "139741",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-17",
+    "end_date": "2023-04-29",
+    "historic_marked": "2012-02-09",
+    "seed_status": "repealed"
+  }
 }

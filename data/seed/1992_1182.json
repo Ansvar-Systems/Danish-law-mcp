@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om arbejdets udførelse (* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-12-18",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1992/1182/xml",
-  "description": "Retsinformation source. DocumentId=CM026906; AccessionNumber=B19920118205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026906; AccessionNumber=B19920118205; Ophævet 1995-01-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:15:53.746Z",
+    "accession": "B19920118205",
+    "document_id": "CM026906",
+    "unique_document_id": "67727",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1995-01-05",
+    "seed_status": "repealed"
+  }
 }

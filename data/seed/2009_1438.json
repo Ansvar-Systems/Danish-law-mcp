@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om varetagelsen af told- og skatteforvaltningens opgaver",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-14",
+  "in_force_date": "2009-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1438/xml",
-  "description": "Retsinformation source. DocumentId=AN010214; AccessionNumber=B20090143805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN010214; AccessionNumber=B20090143805; Ophævet 2010-08-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. De opgaver, der ved skatteforvaltningslovens § 1 er tillagt told- og skatteforvaltningen, varetages af Skatteministeriet. Ved denne opgavevaretagelse kan der fortsat gøres brug af betegnelsen SKAT.",
-      "valid_from": "2009-12-14",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-08-13"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2010. Stk. 2. Bekendtgørelse nr. 976 af 17. oktober 2005 om oprettelse af SKAT ophæves den 1. januar 2010.",
-      "valid_from": "2009-12-14",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-08-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:55:23.776Z",
+    "accession": "B20090143805",
+    "document_id": "AN010214",
+    "unique_document_id": "128952",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-08-13",
+    "seed_status": "repealed"
+  }
 }

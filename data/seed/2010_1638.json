@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om merværdiafgiftsloven (momsloven)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-15",
+  "in_force_date": "2010-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1638/xml",
-  "description": "Retsinformation source. DocumentId=AN010583; AccessionNumber=B20100163805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN010583; AccessionNumber=B20100163805; Ophævet 2013-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "73",
@@ -19,9 +20,20 @@
       "provision_ref": "73",
       "section": "73",
       "content": "§ 73 a. En importør skal for at opnå fritagelse for afgift ved indførsel af varer her i landet efter lovens § 36, stk. 1, nr. 5, senest på indførselstidspunktet for varerne oplyse told- og skatteforvaltningen om 1) importørens eget registreringsnummer, der er udstedt her i landet efter lovens § 47, stk. 1, eller registreringsnummeret, hvorunder importørens herboende repræsentant foretager transaktioner efter § 69, og 2) momsregistreringsnummeret, der er udstedt i et andet EU-land, for virksomheden, som får leveret varerne efter lovens § 34, stk. 1, nr. 1-3, eller 3) momsregistreringsnummeret, der er udstedt i et andet EU-land, for en herværende virksomheds faste forretningssted m.v., som får overført varerne efter lovens § 34, stk. 1, nr. 4. Stk. 2. Told- og skatteforvaltningen kan endvidere bestemme, at en importør for at opnå fritagelse for afgift ved indførsel af varer her i landet efter lovens § 36, stk. 1, nr. 5, senest på indførselstidspunktet for varerne skal dokumentere, at de indførte varer er bestemt til at blive leveret i et andet EU-land.",
-      "valid_from": "2010-12-15",
-      "valid_to": null
+      "valid_from": "2010-12-23",
+      "valid_to": "2013-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:00:54.939Z",
+    "accession": "B20100163805",
+    "document_id": "AN010583",
+    "unique_document_id": "134948",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-06-28",
+    "seed_status": "repealed"
+  }
 }

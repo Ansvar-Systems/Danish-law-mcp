@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-11-28",
+  "in_force_date": "2008-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1162/xml",
-  "description": "Retsinformation source. DocumentId=BD000470; AccessionNumber=B20080116205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000470; AccessionNumber=B20080116205; Ophævet 2009-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Den danske frekvensplan fremgår af bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2008-11-28",
-      "valid_to": null
+      "valid_from": "2008-12-10",
+      "valid_to": "2009-12-10"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2009. Stk. 2. Bekendtgørelse nr. 562 af 11. juni 2008 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer ophæves.",
-      "valid_from": "2008-11-28",
-      "valid_to": null
+      "valid_from": "2008-12-10",
+      "valid_to": "2009-12-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:51:27.872Z",
+    "accession": "B20080116205",
+    "document_id": "BD000470",
+    "unique_document_id": "122187",
+    "upstream_status": "Historic",
+    "start_date": "2008-12-10",
+    "end_date": "2026-06-04",
+    "historic_marked": "2009-12-10",
+    "seed_status": "repealed"
+  }
 }

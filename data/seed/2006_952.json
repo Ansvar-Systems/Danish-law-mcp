@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kundgørelse af forskrifter udstedt efter lov om sikkerhed til søs",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-09-14",
+  "in_force_date": "2006-09-21",
   "url": "https://www.retsinformation.dk/eli/lta/2006/952/xml",
-  "description": "Retsinformation source. DocumentId=AU002579; AccessionNumber=B20060095205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002579; AccessionNumber=B20060095205; Ophævet 2008-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:44:34.069Z",
+    "accession": "B20060095205",
+    "document_id": "AU002579",
+    "unique_document_id": "27364",
+    "upstream_status": "Historic",
+    "start_date": "2006-09-21",
+    "end_date": "2017-12-08",
+    "historic_marked": "2008-11-27",
+    "seed_status": "repealed"
+  }
 }

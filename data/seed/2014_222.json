@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om adgang til bacheloruddannelser ved universiteterne (bacheloradgangsbekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-03-08",
+  "in_force_date": "2014-03-12",
   "url": "https://www.retsinformation.dk/eli/lta/2014/222/xml",
-  "description": "Retsinformation source. DocumentId=CE000009; AccessionNumber=B20140022205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000009; AccessionNumber=B20140022205; Ophævet 2015-03-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "19",
@@ -19,9 +20,20 @@
       "provision_ref": "19",
       "section": "19",
       "content": "§ 19 a. Universitetet optager grønlandske ansøgere uden om adgangsbegrænsningen efter ansøgning herom, når ansøgeren dokumenterer, at kriterierne for optagelse er opfyldt. Kriterierne fastsættes af Styrelsen for Videregående Uddannelser efter indstilling fra Grønlands Selvstyre og fremgår af Uddannelses- og Forskningsministeriets hjemmeside.",
-      "valid_from": "2014-03-08",
-      "valid_to": null
+      "valid_from": "2014-03-12",
+      "valid_to": "2015-03-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:53:59.709Z",
+    "accession": "B20140022205",
+    "document_id": "CE000009",
+    "unique_document_id": "162053",
+    "upstream_status": "Historic",
+    "start_date": "2014-03-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-03-19",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af bekendtgørelse om majsrodbillen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-03-17",
+  "in_force_date": "2014-03-20",
   "url": "https://www.retsinformation.dk/eli/lta/2014/248/xml",
-  "description": "Retsinformation source. DocumentId=AH005173; AccessionNumber=B20140024805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005173; AccessionNumber=B20140024805; Ophævet 2020-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 859 af 16. august 2004 om majsrodbillen ophæves.",
-      "valid_from": "2014-03-17",
-      "valid_to": null
+      "valid_from": "2014-03-20",
+      "valid_to": "2020-01-28"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft 21. marts 2014.",
-      "valid_from": "2014-03-17",
-      "valid_to": null
+      "valid_from": "2014-03-20",
+      "valid_to": "2020-01-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:55:02.980Z",
+    "accession": "B20140024805",
+    "document_id": "AH005173",
+    "unique_document_id": "162265",
+    "upstream_status": "Historic",
+    "start_date": "2014-03-20",
+    "end_date": "2022-04-08",
+    "historic_marked": "2020-01-28",
+    "seed_status": "repealed"
+  }
 }

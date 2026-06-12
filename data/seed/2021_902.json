@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om forsøg på beskæftigelsesområdet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-05-12",
+  "in_force_date": "2021-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2021/902/xml",
-  "description": "Retsinformation source. DocumentId=BE008899; AccessionNumber=B20210090205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008899; AccessionNumber=B20210090205; Ophævet 2021-08-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -20,8 +21,19 @@
       "section": "9a",
       "content": "§ 9 a. Beskæftigelsesministeren har givet tilladelse til, at der gennemføres forsøg i alle jobcentre, hvorefter jobcenteret kan give tilbud om virksomhedspraktik med en varighed på op til 8 uger til personer, der modtager dagpenge på dimittendvilkår, jf. § 54 i lov om arbejdsløshedsforsikring m.v. Det er en forudsætning, at",
       "valid_from": "2021-05-12",
-      "valid_to": null
+      "valid_to": "2021-08-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:57:32.304Z",
+    "accession": "B20210090205",
+    "document_id": "BE008899",
+    "unique_document_id": "222886",
+    "upstream_status": "Historic",
+    "start_date": "2021-05-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-08-31",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om retskrivning (* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1955-02-08",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1955/19/xml",
-  "description": "Retsinformation source. DocumentId=CM032076; AccessionNumber=B19550001905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032076; AccessionNumber=B19550001905; Ophævet 1997-05-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:59:37.404Z",
+    "accession": "B19550001905",
+    "document_id": "CM032076",
+    "unique_document_id": "72879",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-02-01",
+    "historic_marked": "1997-05-15",
+    "seed_status": "repealed"
+  }
 }

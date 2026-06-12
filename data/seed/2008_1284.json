@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til projekter vedrørende etablering af nye arbejdspladser i landdistrikterne",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-12-15",
+  "in_force_date": "2008-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1284/xml",
-  "description": "Retsinformation source. DocumentId=AH003161; AccessionNumber=B20080128405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003161; AccessionNumber=B20080128405; Ophævet 2009-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5 a. Uanset §§ 4-5 kan der fra den 1. januar 2009 ikke indgives ansøgning om tilskud.",
-      "valid_from": "2008-12-15",
-      "valid_to": null
+      "valid_from": "2008-12-18",
+      "valid_to": "2009-04-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:56:26.365Z",
+    "accession": "B20080128405",
+    "document_id": "AH003161",
+    "unique_document_id": "122696",
+    "upstream_status": "Historic",
+    "start_date": "2008-12-18",
+    "end_date": "2023-04-28",
+    "historic_marked": "2009-04-01",
+    "seed_status": "repealed"
+  }
 }

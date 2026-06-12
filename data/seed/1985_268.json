@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ungdomsvejledning og visse uddannelsesforanstaltninger",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-06-06",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1985/268/xml",
-  "description": "Retsinformation source. DocumentId=CM034078; AccessionNumber=A19850026830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034078; AccessionNumber=A19850026830; Ophævet 1993-07-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:51:02.851Z",
+    "accession": "A19850026830",
+    "document_id": "CM034078",
+    "unique_document_id": "74873",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1993-07-08",
+    "seed_status": "repealed"
+  }
 }

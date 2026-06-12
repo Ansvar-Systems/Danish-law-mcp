@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om leje af almene boliger, lov om leje og forskellige andre love\\n(Initiativer for at forhindre udsættelser af lejere som følge af manglende betaling af husleje m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-04-15",
+  "in_force_date": "2009-04-15",
   "url": "https://www.retsinformation.dk/eli/lta/2009/286/xml",
-  "description": "Retsinformation source. DocumentId=BM000005; AccessionNumber=A20090028630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BM000005; AccessionNumber=A20090028630; Ophævet 2011-06-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "90",
@@ -20,8 +21,19 @@
       "section": "90",
       "content": "§ 90. Kommunen kan undtagelsesvis udbetale hjælpen på anden måde, herunder for kortere perioder, hvis 1) en person uanset vejledning efter § 7 ikke skønnes selv at kunne administrere kontante beløb, 2) en person gentagne gange har misligholdt huslejebetalingen eller 3) en persons udlejer har indgivet anmodning til fogedretten om pågældendes udsættelse af et beboelseslejemål på grund af betalingsmisligholdelse.",
       "valid_from": "2009-04-15",
-      "valid_to": null
+      "valid_to": "2011-06-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:05:44.022Z",
+    "accession": "A20090028630",
+    "document_id": "BM000005",
+    "unique_document_id": "124455",
+    "upstream_status": "Historic",
+    "start_date": "2009-04-15",
+    "end_date": "2023-04-28",
+    "historic_marked": "2011-06-20",
+    "seed_status": "repealed"
+  }
 }

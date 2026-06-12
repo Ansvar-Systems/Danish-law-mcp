@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forsikring mod følger af arbejdsskade (Almindelig lovrevision)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-06-12",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/493/xml",
-  "description": "Retsinformation source. DocumentId=CM040905; AccessionNumber=A19960049330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040905; AccessionNumber=A19960049330; Ophævet 1996-09-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:27:00.324Z",
+    "accession": "A19960049330",
+    "document_id": "CM040905",
+    "unique_document_id": "81602",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-07-07",
+    "historic_marked": "1996-09-09",
+    "seed_status": "repealed"
+  }
 }

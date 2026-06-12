@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om eliteidræt",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-04-26",
+  "in_force_date": "2004-04-27",
   "url": "https://www.retsinformation.dk/eli/lta/2004/288/xml",
-  "description": "Retsinformation source. DocumentId=AK000343; AccessionNumber=A20040028830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000343; AccessionNumber=A20040028830; Ophævet 2007-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:20:05.595Z",
+    "accession": "A20040028830",
+    "document_id": "AK000343",
+    "unique_document_id": "11925",
+    "upstream_status": "Historic",
+    "start_date": "2004-04-27",
+    "end_date": "2018-08-06",
+    "historic_marked": "2007-12-10",
+    "seed_status": "repealed"
+  }
 }

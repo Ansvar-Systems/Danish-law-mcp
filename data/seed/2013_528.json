@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om udendørs hold af svin\\n(Ændring af revisionsbestemmelse m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-05-28",
+  "in_force_date": "2013-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2013/528/xml",
-  "description": "Retsinformation source. DocumentId=AH004916; AccessionNumber=A20130052830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004916; AccessionNumber=A20130052830; Ophævet 2025-10-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12",
@@ -19,9 +20,20 @@
       "provision_ref": "12",
       "section": "12",
       "content": "§ 12. Alle svin på over 2 uger skal have permanent adgang til frisk vand i tilstrækkelig mængde.",
-      "valid_from": "2013-05-28",
-      "valid_to": null
+      "valid_from": "2013-05-29",
+      "valid_to": "2025-10-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:07:58.965Z",
+    "accession": "A20130052830",
+    "document_id": "AH004916",
+    "unique_document_id": "146904",
+    "upstream_status": "Historic",
+    "start_date": "2013-05-29",
+    "end_date": "2025-10-28",
+    "historic_marked": "2025-10-27",
+    "seed_status": "repealed"
+  }
 }

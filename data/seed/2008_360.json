@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2008-05-19",
+  "in_force_date": "2008-05-20",
   "url": "https://www.retsinformation.dk/eli/lta/2008/360/xml",
   "description": "Retsinformation source. DocumentId=BC000479; AccessionNumber=A20080036030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Der meddeles dansk indfødsret til: Marie Agathe Odile Cavallier, født i Frankrig.",
-      "valid_from": "2008-05-19",
+      "valid_from": "2008-05-20",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Loven har virkning fra den 24. maj 2008.",
-      "valid_from": "2008-05-19",
+      "valid_from": "2008-05-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:11:27.895Z",
+    "accession": "A20080036030",
+    "document_id": "BC000479",
+    "unique_document_id": "117207",
+    "upstream_status": "Valid",
+    "start_date": "2008-05-20",
+    "end_date": "2017-12-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

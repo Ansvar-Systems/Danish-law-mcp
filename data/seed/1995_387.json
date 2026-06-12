@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forældremyndighed og samvær",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-06-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/387/xml",
-  "description": "Retsinformation source. DocumentId=CM018389; AccessionNumber=A19950038730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018389; AccessionNumber=A19950038730; Ophævet 2007-01-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:36:45.226Z",
+    "accession": "A19950038730",
+    "document_id": "CM018389",
+    "unique_document_id": "59436",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-08",
+    "historic_marked": "2007-01-25",
+    "seed_status": "repealed"
+  }
 }

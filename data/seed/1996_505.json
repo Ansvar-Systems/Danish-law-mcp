@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Danmarks Journalisthøjskole",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-06-12",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/505/xml",
-  "description": "Retsinformation source. DocumentId=CM040919; AccessionNumber=A19960050530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040919; AccessionNumber=A19960050530; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:27:30.720Z",
+    "accession": "A19960050530",
+    "document_id": "CM040919",
+    "unique_document_id": "81615",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-01-11",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

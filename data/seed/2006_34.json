@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om auktionspligt mv. for torsk",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-01-23",
+  "in_force_date": "2006-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2006/34/xml",
-  "description": "Retsinformation source. DocumentId=AH002262; AccessionNumber=B20060003405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002262; AccessionNumber=B20060003405; Ophævet 2009-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:19:57.043Z",
+    "accession": "B20060003405",
+    "document_id": "AH002262",
+    "unique_document_id": "8408",
+    "upstream_status": "Historic",
+    "start_date": "2006-01-30",
+    "end_date": "2022-04-08",
+    "historic_marked": "2009-07-10",
+    "seed_status": "repealed"
+  }
 }

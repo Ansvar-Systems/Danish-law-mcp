@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-03-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/148/xml",
-  "description": "Retsinformation source. DocumentId=CM018155; AccessionNumber=A19910014829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018155; AccessionNumber=A19910014829; Ophævet 2007-03-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:36:26.713Z",
+    "accession": "A19910014829",
+    "document_id": "CM018155",
+    "unique_document_id": "59203",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-09",
+    "historic_marked": "2007-03-02",
+    "seed_status": "repealed"
+  }
 }

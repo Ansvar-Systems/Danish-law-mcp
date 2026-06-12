@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om landets inddeling i retskredse m.v. (Retten på Frederiksberg)",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-01-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/37/xml",
-  "description": "Retsinformation source. DocumentId=CM016274; AccessionNumber=B19870003705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016274; AccessionNumber=B19870003705; Ophævet 1989-02-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:38:07.512Z",
+    "accession": "B19870003705",
+    "document_id": "CM016274",
+    "unique_document_id": "57347",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2005-08-03",
+    "historic_marked": "1989-02-17",
+    "seed_status": "repealed"
+  }
 }

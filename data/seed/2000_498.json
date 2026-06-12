@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om matrikulære arbejder",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-06",
+  "in_force_date": "2000-06-15",
   "url": "https://www.retsinformation.dk/eli/lta/2000/498/xml",
-  "description": "Retsinformation source. DocumentId=AC000245; AccessionNumber=B20000049805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000245; AccessionNumber=B20000049805; Ophævet 2003-07-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:21:44.841Z",
+    "accession": "B20000049805",
+    "document_id": "AC000245",
+    "unique_document_id": "4071",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-15",
+    "end_date": "2021-01-08",
+    "historic_marked": "2003-07-14",
+    "seed_status": "repealed"
+  }
 }

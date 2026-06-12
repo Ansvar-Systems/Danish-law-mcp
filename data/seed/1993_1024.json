@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tinglysning i tingbogen (fast ejendom)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-12-15",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/1024/xml",
-  "description": "Retsinformation source. DocumentId=CM016787; AccessionNumber=B19930102405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016787; AccessionNumber=B19930102405; Ophævet 2009-07-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:53:12.436Z",
+    "accession": "B19930102405",
+    "document_id": "CM016787",
+    "unique_document_id": "57859",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2009-07-23",
+    "historic_marked": "2009-07-22",
+    "seed_status": "repealed"
+  }
 }

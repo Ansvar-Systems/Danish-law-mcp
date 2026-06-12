@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om bygnings- og boligregistrering, lov om offentlige veje og lov om private fællesveje",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-19",
+  "in_force_date": "2001-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2001/172/xml",
-  "description": "Retsinformation source. DocumentId=AC000397; AccessionNumber=A20010017230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000397; AccessionNumber=A20010017230; Ophævet 2008-06-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:49:18.105Z",
+    "accession": "A20010017230",
+    "document_id": "AC000397",
+    "unique_document_id": "4188",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-19",
+    "end_date": "2016-12-17",
+    "historic_marked": "2008-06-02",
+    "seed_status": "repealed"
+  }
 }

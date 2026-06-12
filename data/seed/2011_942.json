@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2011-08-30",
+  "in_force_date": "2011-09-01",
   "url": "https://www.retsinformation.dk/eli/lta/2011/942/xml",
   "description": "Retsinformation source. DocumentId=AU004547; AccessionNumber=B20110094205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Som tjenestemandslignende ansat anses enhver, der senest den 2. september 2011 er ansat ved godkendte maskinmesterskoler og værkstedsskoler efter reglerne i denne bekendtgørelse. Stk. 2. Personale omfattet af denne bekendtgørelse betegnes i det følgende som ansatte.",
-      "valid_from": "2011-08-30",
+      "valid_from": "2011-09-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:27:39.222Z",
+    "accession": "B20110094205",
+    "document_id": "AU004547",
+    "unique_document_id": "138578",
+    "upstream_status": "Valid",
+    "start_date": "2011-09-01",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

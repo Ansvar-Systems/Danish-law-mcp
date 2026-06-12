@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-06-01",
+  "in_force_date": "2016-06-03",
   "url": "https://www.retsinformation.dk/eli/lta/2016/568/xml",
   "description": "Retsinformation source. DocumentId=AG000723; AccessionNumber=B20160056805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1382 af 15. december 2014 om brandværnsforanstaltninger for forsamlingstelte, salgsområder og campingområder, der ikke er omfattet af campingreglementet, ophæves.",
-      "valid_from": "2016-06-01",
+      "valid_from": "2016-06-03",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2016.",
-      "valid_from": "2016-06-01",
+      "valid_from": "2016-06-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:19:24.187Z",
+    "accession": "B20160056805",
+    "document_id": "AG000723",
+    "unique_document_id": "181544",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-03",
+    "end_date": "2026-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

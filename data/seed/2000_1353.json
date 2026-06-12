@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om rådighed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1353/xml",
-  "description": "Retsinformation source. DocumentId=AB000800; AccessionNumber=B20000135305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000800; AccessionNumber=B20000135305; Ophævet 2003-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:04:44.796Z",
+    "accession": "B20000135305",
+    "document_id": "AB000800",
+    "unique_document_id": "3453",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-22",
+    "end_date": "2008-03-27",
+    "historic_marked": "2003-06-26",
+    "seed_status": "repealed"
+  }
 }

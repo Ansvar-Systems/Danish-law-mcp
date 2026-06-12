@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om det europæiske selskab",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-05-19",
+  "in_force_date": "2004-05-20",
   "url": "https://www.retsinformation.dk/eli/lta/2004/363/xml",
-  "description": "Retsinformation source. DocumentId=AU001621; AccessionNumber=A20040036330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001621; AccessionNumber=A20040036330; Ophævet 2006-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:23:08.253Z",
+    "accession": "A20040036330",
+    "document_id": "AU001621",
+    "unique_document_id": "26646",
+    "upstream_status": "Historic",
+    "start_date": "2004-05-20",
+    "end_date": "2017-12-09",
+    "historic_marked": "2006-06-26",
+    "seed_status": "repealed"
+  }
 }

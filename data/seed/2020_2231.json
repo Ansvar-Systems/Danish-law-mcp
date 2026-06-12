@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af økologiloven (Justering af regler vedrørende økologiforordningen, sanktionsskærpelse, indhentning af oplysninger fra andre myndigheder med henblik på udarbejdelse af bedre risikovurdering m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-29",
+  "in_force_date": "2020-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2231/xml",
-  "description": "Retsinformation source. DocumentId=DC000082; AccessionNumber=B20200223105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DC000082; AccessionNumber=B20200223105; Ophævet 2022-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 1, nr. 2, 3, 21, 22, 25-27 og 29, i lov nr. 2193 af 29. december 2020 om ændring af økologiloven (Justering af regler vedrørende økologiforordningen, sanktionsskærpelse, indhentning af oplysninger fra andre myndigheder med henblik på udarbejdelse af bedre risikovurdering m.v.) sættes i kraft.",
       "valid_from": "2020-12-29",
-      "valid_to": null
+      "valid_to": "2022-08-30"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2021.",
       "valid_from": "2020-12-29",
-      "valid_to": null
+      "valid_to": "2022-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:17:58.194Z",
+    "accession": "B20200223105",
+    "document_id": "DC000082",
+    "unique_document_id": "218966",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-29",
+    "end_date": "2022-08-31",
+    "historic_marked": "2022-08-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Geodætisk Institut (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1928-03-31",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1928/82/xml",
-  "description": "Retsinformation source. DocumentId=CM014155; AccessionNumber=A19280008230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014155; AccessionNumber=A19280008230; Ophævet 1989-09-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:44:06.045Z",
+    "accession": "A19280008230",
+    "document_id": "CM014155",
+    "unique_document_id": "55266",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2022-04-09",
+    "historic_marked": "1989-09-04",
+    "seed_status": "repealed"
+  }
 }

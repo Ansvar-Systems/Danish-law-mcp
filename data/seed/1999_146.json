@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om taxikørsel m.v.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-03-17",
+  "in_force_date": "1999-03-18",
   "url": "https://www.retsinformation.dk/eli/lta/1999/146/xml",
-  "description": "Retsinformation source. DocumentId=AR000116; AccessionNumber=A19990014630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000116; AccessionNumber=A19990014630; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:16:28.816Z",
+    "accession": "A19990014630",
+    "document_id": "AR000116",
+    "unique_document_id": "21818",
+    "upstream_status": "Historic",
+    "start_date": "1999-03-18",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Det Centrale Virksomhedsregister og www.cvr.dk",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-12-11",
+  "in_force_date": "2012-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1275/xml",
-  "description": "Retsinformation source. DocumentId=BP000353; AccessionNumber=B20120127505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000353; AccessionNumber=B20120127505; Ophævet 2014-08-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9",
@@ -19,9 +20,20 @@
       "provision_ref": "9",
       "section": "9",
       "content": "§ 9. Det Centrale Virksomhedsregister kan meddele oplysninger om enkelte enheder, om grupper af enheder og om samtlige enheder optaget i registret med de begrænsninger, der følger af anvendelsen af Erhvervsstyrelsens IT-system. Det fremgår af Erhvervsstyrelsens hjemmeside www.cvr.dk, hvorledes oplysningerne kan tilgås, og hvilke produkter der stilles til rådighed. Stk. 2. Ved videregivelse af oplysninger fra Det Centrale Virksomhedsregister om grupper af enheder til private, må der alene videregives oplysninger, der kan meddeles de pågældende brugere i overensstemmelse med § 8. Stk. 3. Oplysninger fra registret leveres digitalt. Stk. 4. Ved tilladelse til online-adgang til registrets oplysninger tildeles den enkelte bruger en personlig, fortrolig adgangskode, og det fastlægges, hvilke oplysninger den pågældende bruger kan få adgang til.",
-      "valid_from": "2012-12-11",
-      "valid_to": null
+      "valid_from": "2012-12-19",
+      "valid_to": "2014-08-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:41:06.497Z",
+    "accession": "B20120127505",
+    "document_id": "BP000353",
+    "unique_document_id": "144535",
+    "upstream_status": "Historic",
+    "start_date": "2012-12-19",
+    "end_date": "2017-12-08",
+    "historic_marked": "2014-08-22",
+    "seed_status": "repealed"
+  }
 }

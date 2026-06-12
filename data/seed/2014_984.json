@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 1, 3 og 4, i lov om ændring af lov om afgift af spildevand og forskellige andre love (Forhøjelse af spildevandsafgiften og afgiften af HFC-gasser m.fl., nedsættelse af afgiften på emballage til vin og spiritus m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-09-08",
+  "in_force_date": "2014-09-12",
   "url": "https://www.retsinformation.dk/eli/lta/2014/984/xml",
-  "description": "Retsinformation source. DocumentId=AN011755; AccessionNumber=B20140098405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011755; AccessionNumber=B20140098405; Ophævet 2017-01-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1, 3 og 4, i lov nr. 522 af 12. juni 2009 om ændring af lov om afgift af spildevand og forskellige andre love (Forhøjelse af spildevandsafgiften og afgiften af HFC-gasser m.fl., nedsættelse af afgiften på emballage til vin og spiritus m.v.) sættes i kraft.",
-      "valid_from": "2014-09-08",
-      "valid_to": null
+      "valid_from": "2014-09-12",
+      "valid_to": "2017-01-18"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. oktober 2014.",
-      "valid_from": "2014-09-08",
-      "valid_to": null
+      "valid_from": "2014-09-12",
+      "valid_to": "2017-01-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:39.752Z",
+    "accession": "B20140098405",
+    "document_id": "AN011755",
+    "unique_document_id": "164683",
+    "upstream_status": "Historic",
+    "start_date": "2014-09-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-01-18",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-08-15",
+  "in_force_date": "2022-08-16",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1176/xml",
   "description": "Retsinformation source. DocumentId=DC000687; AccessionNumber=B20220117605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1151 af 22. juli 2022 om fund af højpatogen aviær influenza i Slesvig-Flensborg i det nordlige Tyskland ophæves.",
-      "valid_from": "2022-08-15",
+      "valid_from": "2022-08-16",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 19. august 2022.",
-      "valid_from": "2022-08-15",
+      "valid_from": "2022-08-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:08:35.076Z",
+    "accession": "B20220117605",
+    "document_id": "DC000687",
+    "unique_document_id": "232493",
+    "upstream_status": "Valid",
+    "start_date": "2022-08-16",
+    "end_date": "2022-08-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

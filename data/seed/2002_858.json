@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om planter",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-22",
+  "in_force_date": "2002-10-28",
   "url": "https://www.retsinformation.dk/eli/lta/2002/858/xml",
-  "description": "Retsinformation source. DocumentId=AH001317; AccessionNumber=B20020085805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001317; AccessionNumber=B20020085805; Ophævet 2007-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:01:07.859Z",
+    "accession": "B20020085805",
+    "document_id": "AH001317",
+    "unique_document_id": "7603",
+    "upstream_status": "Historic",
+    "start_date": "2002-10-28",
+    "end_date": "2022-04-08",
+    "historic_marked": "2007-06-28",
+    "seed_status": "repealed"
+  }
 }

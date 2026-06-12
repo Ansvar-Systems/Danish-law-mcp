@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om visse selskabers aflæggelse af årsregnskab m.v. (* 2)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1981-06-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1981/284/xml",
-  "description": "Retsinformation source. DocumentId=CM025454; AccessionNumber=A19810028430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025454; AccessionNumber=A19810028430; Ophævet 1989-07-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:09:06.485Z",
+    "accession": "A19810028430",
+    "document_id": "CM025454",
+    "unique_document_id": "66331",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1989-07-14",
+    "seed_status": "repealed"
+  }
 }

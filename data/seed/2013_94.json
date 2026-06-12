@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til projekter i fiskerihavne og på landingssteder",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-01-29",
+  "in_force_date": "2013-01-31",
   "url": "https://www.retsinformation.dk/eli/lta/2013/94/xml",
-  "description": "Retsinformation source. DocumentId=AH004830; AccessionNumber=B20130009405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004830; AccessionNumber=B20130009405; Ophævet 2015-04-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -24,16 +25,27 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5 a. Uanset § 5, stk. 2, 1. pkt., kan der ikke indsendes ansøgninger om tilskud i perioden den 1. februar til den 15. maj 2013.",
-      "valid_from": "2013-01-29",
-      "valid_to": null
+      "valid_from": "2013-01-31",
+      "valid_to": "2015-04-17"
     },
     {
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7 a. Uanset § 7 kan NaturErhvervstyrelsen træffe afgørelse om afslag eller delvist afslag for ansøgninger, hvis NaturErhvervstyrelsen vurderer, at 1) de samlede anslåede udgifter eller enkeltstående udgifter ikke er rimelige, 2) udgifterne ikke er tilskudsberettigede, jf. § 13, 3) ansøgningen ikke er tilstrækkeligt oplyst, 4) effekten af det ansøgte projekt ikke i tilstrækkeligt omfang bidrager til at opfylde formålet med ordningen, eller 5) effekten af det ansøgte projekt ikke står i rimeligt forhold til projektets samlede anslåede udgifter.",
-      "valid_from": "2013-01-29",
-      "valid_to": null
+      "valid_from": "2013-01-31",
+      "valid_to": "2015-04-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:24:38.414Z",
+    "accession": "B20130009405",
+    "document_id": "AH004830",
+    "unique_document_id": "145223",
+    "upstream_status": "Historic",
+    "start_date": "2013-01-31",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-04-17",
+    "seed_status": "repealed"
+  }
 }

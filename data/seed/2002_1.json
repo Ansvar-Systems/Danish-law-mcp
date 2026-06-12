@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om indkomstbeskatning af selvstændige erhvervsdrivende",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-01-02",
+  "in_force_date": "2002-01-18",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1/xml",
-  "description": "Retsinformation source. DocumentId=AN002505; AccessionNumber=A20020000129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002505; AccessionNumber=A20020000129; Ophævet 2003-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:22:22.826Z",
+    "accession": "A20020000129",
+    "document_id": "AN002505",
+    "unique_document_id": "15129",
+    "upstream_status": "Historic",
+    "start_date": "2002-01-18",
+    "end_date": "2007-06-14",
+    "historic_marked": "2003-12-22",
+    "seed_status": "repealed"
+  }
 }

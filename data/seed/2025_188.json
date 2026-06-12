@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-02-18",
+  "in_force_date": "2025-02-21",
   "url": "https://www.retsinformation.dk/eli/lta/2025/188/xml",
   "description": "Retsinformation source. DocumentId=CQ003137; AccessionNumber=B20250018805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1746 af 11. december 2023 om den statslige garantiordning i Danmarks Eksport- og Investeringsfond til aktører på el- og gasmarkedet ophæves.",
-      "valid_from": "2025-02-18",
+      "valid_from": "2025-02-21",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. marts 2025.",
-      "valid_from": "2025-02-18",
+      "valid_from": "2025-02-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:01:54.624Z",
+    "accession": "B20250018805",
+    "document_id": "CQ003137",
+    "unique_document_id": "248139",
+    "upstream_status": "Valid",
+    "start_date": "2025-02-21",
+    "end_date": "2025-02-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

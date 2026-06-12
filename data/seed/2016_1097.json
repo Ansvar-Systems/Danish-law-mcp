@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2016-08-10",
+  "in_force_date": "2016-08-12",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1097/xml",
   "description": "Retsinformation source. DocumentId=AA006740; AccessionNumber=A20160109729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Love, anordninger og bekendtgørelser, der gælder på Færøerne, skal kundgøres i landsstyrets kundgørelsestidende for Færøerne, Kunngerdabladid. Stk. 2. Anordninger og bekendtgørelser, der er undtaget fra kundgørelse i Lovtidende, skal ikke kundgøres i Kunngerdabladid.",
-      "valid_from": "2016-08-10",
+      "valid_from": "2016-08-12",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Love, anordninger og bekendtgørelser, der ikke indeholder bestemmelser om ikrafttrædelsen, træder i kraft på Færøerne ved begyndelsen af det døgn, der følger efter det døgn, hvori den pågældende retsforskrift er indført i Kunngerdabladid.",
-      "valid_from": "2016-08-10",
+      "valid_from": "2016-08-12",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Loven træder i kraft den 1. januar 1990. Stk. 2. Lov nr. 51 af 1. april 1896 om kundgørelse af love og anordninger på Færøerne ophæves.",
-      "valid_from": "2016-08-10",
+      "valid_from": "2016-08-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:35:53.532Z",
+    "accession": "A20160109729",
+    "document_id": "AA006740",
+    "unique_document_id": "143543",
+    "upstream_status": "Valid",
+    "start_date": "2016-08-12",
+    "end_date": "2016-08-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

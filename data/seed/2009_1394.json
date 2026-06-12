@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastsættelse af bidrag for 2010 fra private arbejdsgivere til finansiering af ATP-bidraget for modtagere af forskellige arbejdsmarkedsydelser",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-11",
+  "in_force_date": "2009-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1394/xml",
-  "description": "Retsinformation source. DocumentId=BE003837; AccessionNumber=B20090139405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE003837; AccessionNumber=B20090139405; Ophævet 2010-06-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra de private arbejdsgivere for 2010 fastsættes til 181 kr. pr. fuldtidsansat lønmodtager.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2009-12-22",
+      "valid_to": "2010-06-14"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2010. Stk. 2. Bidraget opkræves første gang på grundlag af ATP-bidrag modtaget i perioden 2. marts 2010 - 1. juni 2010.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2009-12-22",
+      "valid_to": "2010-06-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:53:35.944Z",
+    "accession": "B20090139405",
+    "document_id": "BE003837",
+    "unique_document_id": "128820",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-22",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-06-14",
+    "seed_status": "repealed"
+  }
 }

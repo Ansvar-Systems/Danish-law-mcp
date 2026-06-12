@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilskud mv. til lægemidler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-15",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1024/xml",
-  "description": "Retsinformation source. DocumentId=CM005309; AccessionNumber=B19950102405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005309; AccessionNumber=B19950102405; Ophævet 1997-01-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:19:26.091Z",
+    "accession": "B19950102405",
+    "document_id": "CM005309",
+    "unique_document_id": "46575",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1997-01-06",
+    "seed_status": "repealed"
+  }
 }

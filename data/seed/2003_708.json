@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-08-13",
+  "in_force_date": "2003-08-21",
   "url": "https://www.retsinformation.dk/eli/lta/2003/708/xml",
-  "description": "Retsinformation source. DocumentId=BE000704; AccessionNumber=A20030070829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000704; AccessionNumber=A20030070829; Ophævet 2005-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:41:08.734Z",
+    "accession": "A20030070829",
+    "document_id": "BE000704",
+    "unique_document_id": "29853",
+    "upstream_status": "Historic",
+    "start_date": "2003-08-21",
+    "end_date": "2024-03-27",
+    "historic_marked": "2005-09-29",
+    "seed_status": "repealed"
+  }
 }

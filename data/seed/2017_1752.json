@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om distribution af lægemidler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-26",
+  "in_force_date": "2017-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1752/xml",
-  "description": "Retsinformation source. DocumentId=CN000530; AccessionNumber=B20170175205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000530; AccessionNumber=B20170175205; Ophævet 2018-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse omfatter engrosforhandling af lægemidler og cannabismellemprodukter samt detailforhandling af lægemidler og cannabisslutprodukter fra apotek, herunder modtagelse og lagerhold af lægemidler og cannabisprodukter, jf. dog stk. 2.",
-      "valid_from": "2017-12-26",
-      "valid_to": null
+      "valid_from": "2017-12-29",
+      "valid_to": "2018-12-21"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen gælder for virksomheder og personer, der har modtaget Lægemiddelstyrelsens tilladelse til engrosforhandling af lægemidler efter § 39, stk. 1, i lov om lægemidler, for ansøgere til en sådan tilladelse, hvor dette udtrykkeligt fremgår af de enkelte bestemmelser, for virksomheder, der har modtaget Lægemiddelstyrelsens tilladelse til import eller fremstilling af et cannabisudgangsprodukt og fremstilling af et cannabismellemprodukt efter § 9, stk. 1, i lov om forsøgsordning med medicinsk cannabis, og for apoteker, herunder sygehusapoteker.",
-      "valid_from": "2017-12-26",
-      "valid_to": null
+      "valid_from": "2017-12-29",
+      "valid_to": "2018-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:07:03.504Z",
+    "accession": "B20170175205",
+    "document_id": "CN000530",
+    "unique_document_id": "196662",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-29",
+    "end_date": "2022-07-12",
+    "historic_marked": "2018-12-21",
+    "seed_status": "repealed"
+  }
 }

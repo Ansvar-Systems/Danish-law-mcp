@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af retsplejeloven og lov om elektroniske kommunikationsnet og -tjenester (Revision af reglerne om registrering og opbevaring af oplysninger om teletrafik (logning) m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-03-23",
+  "in_force_date": "2022-03-25",
   "url": "https://www.retsinformation.dk/eli/lta/2022/365/xml",
-  "description": "Retsinformation source. DocumentId=AA013035; AccessionNumber=B20220036505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA013035; AccessionNumber=B20220036505; Ophævet 2023-01-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 291 af 8. marts 2022 om ændring af retsplejeloven og lov om elektroniske kommunikationsnet og -tjenester (Revision af reglerne om registrering og opbevaring af oplysninger om teletrafik (logning) m.v.) sættes i kraft.",
-      "valid_from": "2022-03-23",
-      "valid_to": null
+      "valid_from": "2022-03-25",
+      "valid_to": "2023-01-04"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 30. marts 2022, klokken 12.00.",
-      "valid_from": "2022-03-23",
-      "valid_to": null
+      "valid_from": "2022-03-25",
+      "valid_to": "2023-01-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:36:04.125Z",
+    "accession": "B20220036505",
+    "document_id": "AA013035",
+    "unique_document_id": "230095",
+    "upstream_status": "Historic",
+    "start_date": "2022-03-25",
+    "end_date": "2023-01-05",
+    "historic_marked": "2023-01-04",
+    "seed_status": "repealed"
+  }
 }

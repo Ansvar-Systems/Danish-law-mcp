@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om adgang til udøvelse af virksomhed som dyrlæge i Danmark for EU- og EØS-statsborgere samt borgere i et land, som EU har indgået aftale med herom",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-15",
+  "in_force_date": "2009-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1328/xml",
-  "description": "Retsinformation source. DocumentId=AH003583; AccessionNumber=B20090132805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003583; AccessionNumber=B20090132805; Ophævet 2015-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 b. Dyrlæger skal oplyse tjenestemodtager om: 1) erhvervsmæssig titel og EU/EØS-landet, hvor tilladelsen til anvendelsen af titlen er givet, 2) de brancheorganisationer, som dyrlægen eventuelt er medlem af, 3) eventuelle erhvervsforsikringer, herunder kontaktoplysninger på forsikringsselskabet og oplysning om forsikringens geografiske dækning, og 4) kontaktoplysninger til Fødevarestyrelsen. Stk. 2. Hvis tjenestemodtager anmoder dyrlægen om det, skal denne oplyse om de regler, der gælder for udførelsen af erhvervet, og hvordan dyrlægen får adgang hertil.",
-      "valid_from": "2009-12-15",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2015-12-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:50:55.785Z",
+    "accession": "B20090132805",
+    "document_id": "AH003583",
+    "unique_document_id": "129323",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-18",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-04",
+    "seed_status": "repealed"
+  }
 }

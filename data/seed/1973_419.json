@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om landscentral for undervisningsmidler",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1973-06-13",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1973/419/xml",
-  "description": "Retsinformation source. DocumentId=CM034116; AccessionNumber=A19730041930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034116; AccessionNumber=A19730041930; Ophævet 1991-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:47:58.342Z",
+    "accession": "A19730041930",
+    "document_id": "CM034116",
+    "unique_document_id": "74911",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1991-03-08",
+    "seed_status": "repealed"
+  }
 }

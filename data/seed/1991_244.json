@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om recepter og receptpligt m.m.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-04-18",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1991/244/xml",
-  "description": "Retsinformation source. DocumentId=CM004889; AccessionNumber=B19910024405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM004889; AccessionNumber=B19910024405; Ophævet 1993-09-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:40:16.603Z",
+    "accession": "B19910024405",
+    "document_id": "CM004889",
+    "unique_document_id": "46221",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1993-09-02",
+    "seed_status": "repealed"
+  }
 }

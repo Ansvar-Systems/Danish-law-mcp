@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om toldbehandling",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-07",
+  "in_force_date": "2005-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1186/xml",
-  "description": "Retsinformation source. DocumentId=AN005010; AccessionNumber=B20050118605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005010; AccessionNumber=B20050118605; Ophævet 2007-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:56:22.232Z",
+    "accession": "B20050118605",
+    "document_id": "AN005010",
+    "unique_document_id": "17113",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-19",
+    "end_date": "2023-11-08",
+    "historic_marked": "2007-06-28",
+    "seed_status": "repealed"
+  }
 }

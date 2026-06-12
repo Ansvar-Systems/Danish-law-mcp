@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om pensioner i anledning af tronskiftet den 14. januar 1972",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1972-04-26",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1972/139/xml",
-  "description": "Retsinformation source. DocumentId=CM016048; AccessionNumber=A19720013930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016048; AccessionNumber=A19720013930; Ophævet 2024-06-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:24:10.241Z",
+    "accession": "A19720013930",
+    "document_id": "CM016048",
+    "unique_document_id": "57125",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2024-06-12",
+    "historic_marked": "2024-06-11",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om krydsoverensstemmelse",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-09-11",
+  "in_force_date": "2019-09-12",
   "url": "https://www.retsinformation.dk/eli/lta/2019/934/xml",
-  "description": "Retsinformation source. DocumentId=CK002147; AccessionNumber=B20190093405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002147; AccessionNumber=B20190093405; Ophævet 2019-11-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:50.805Z",
+    "accession": "B20190093405",
+    "document_id": "CK002147",
+    "unique_document_id": "210211",
+    "upstream_status": "Historic",
+    "start_date": "2019-09-12",
+    "end_date": "2022-04-08",
+    "historic_marked": "2019-11-12",
+    "seed_status": "repealed"
+  }
 }

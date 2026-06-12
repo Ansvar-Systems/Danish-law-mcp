@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kvælstofprognosen for 2005",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-03-17",
+  "in_force_date": "2005-03-25",
   "url": "https://www.retsinformation.dk/eli/lta/2005/168/xml",
-  "description": "Retsinformation source. DocumentId=AH002091; AccessionNumber=B20050016805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002091; AccessionNumber=B20050016805; Ophævet 2015-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:09:17.201Z",
+    "accession": "B20050016805",
+    "document_id": "AH002091",
+    "unique_document_id": "8259",
+    "upstream_status": "Historic",
+    "start_date": "2005-03-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse for Grønland om visse forureninger i fødevarer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-22",
+  "in_force_date": "2005-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/2005/891/xml",
-  "description": "Retsinformation source. DocumentId=BG000248; AccessionNumber=B20050089105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000248; AccessionNumber=B20050089105; Ophævet 2010-05-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:38:28.059Z",
+    "accession": "B20050089105",
+    "document_id": "BG000248",
+    "unique_document_id": "31531",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-30",
+    "end_date": "2010-09-07",
+    "historic_marked": "2010-05-07",
+    "seed_status": "repealed"
+  }
 }

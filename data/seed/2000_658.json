@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om specialundervisning for voksne",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-03",
+  "in_force_date": "2000-07-13",
   "url": "https://www.retsinformation.dk/eli/lta/2000/658/xml",
-  "description": "Retsinformation source. DocumentId=AT000431; AccessionNumber=A20000065829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000431; AccessionNumber=A20000065829; Ophævet 2011-08-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:28:12.715Z",
+    "accession": "A20000065829",
+    "document_id": "AT000431",
+    "unique_document_id": "23466",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-13",
+    "end_date": "2025-10-01",
+    "historic_marked": "2011-08-29",
+    "seed_status": "repealed"
+  }
 }

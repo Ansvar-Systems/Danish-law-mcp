@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2008-07-28",
+  "in_force_date": "2008-07-30",
   "url": "https://www.retsinformation.dk/eli/lta/2008/795/xml",
   "description": "Retsinformation source. DocumentId=AU003365; AccessionNumber=B20080079505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Ved opgørelsen af erhvervelser efter aktieselskabslovens § 20 e, stk. 1 og 2, som sat i kraft for Grønland ved kongelig anordning, medregnes udelukkende aktier og stemmerettigheder, tilbudsgiveren ejer. Stk. 2. Ejer selskabet egne aktier, medregnes disse ikke i selskabets aktiekapital ved opgørelsen efter stk. 1.",
-      "valid_from": "2008-07-28",
+      "valid_from": "2008-07-30",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2008.",
-      "valid_from": "2008-07-28",
+      "valid_from": "2008-07-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:29:09.859Z",
+    "accession": "B20080079505",
+    "document_id": "AU003365",
+    "unique_document_id": "120667",
+    "upstream_status": "Valid",
+    "start_date": "2008-07-30",
+    "end_date": "2018-06-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

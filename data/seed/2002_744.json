@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om skibsbøger og tilsynsbog",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-09-04",
+  "in_force_date": "2002-09-12",
   "url": "https://www.retsinformation.dk/eli/lta/2002/744/xml",
-  "description": "Retsinformation source. DocumentId=AU000720; AccessionNumber=B20020074405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000720; AccessionNumber=B20020074405; Ophævet 2005-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:56:37.449Z",
+    "accession": "B20020074405",
+    "document_id": "AU000720",
+    "unique_document_id": "26029",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-12",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-02-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-05-26",
+  "in_force_date": "2021-05-27",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1019/xml",
-  "description": "Retsinformation source. DocumentId=DB000331; AccessionNumber=B20210101905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000331; AccessionNumber=B20210101905; Ophævet 2021-12-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den danske frekvensplan fremgår af bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2021-05-26",
-      "valid_to": null
+      "valid_from": "2021-05-27",
+      "valid_to": "2021-12-01"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2021. Stk. 2. Bekendtgørelse nr. 1703 af 26. november 2020 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan) ophæves.",
-      "valid_from": "2021-05-26",
-      "valid_to": null
+      "valid_from": "2021-05-27",
+      "valid_to": "2021-12-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:23:10.676Z",
+    "accession": "B20210101905",
+    "document_id": "DB000331",
+    "unique_document_id": "223315",
+    "upstream_status": "Historic",
+    "start_date": "2021-05-27",
+    "end_date": "2026-06-04",
+    "historic_marked": "2021-12-01",
+    "seed_status": "repealed"
+  }
 }

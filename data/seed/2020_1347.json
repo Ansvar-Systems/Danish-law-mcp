@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om rådighed",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-09-11",
+  "in_force_date": "2020-09-12",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1347/xml",
-  "description": "Retsinformation source. DocumentId=BE008536; AccessionNumber=B20200134705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008536; AccessionNumber=B20200134705; Ophævet 2021-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:42:29.796Z",
+    "accession": "B20200134705",
+    "document_id": "BE008536",
+    "unique_document_id": "216264",
+    "upstream_status": "Historic",
+    "start_date": "2020-09-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-08-19",
+    "seed_status": "repealed"
+  }
 }

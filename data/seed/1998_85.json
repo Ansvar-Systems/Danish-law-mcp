@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af medieansvarsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-02-09",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1998/85/xml",
-  "description": "Retsinformation source. DocumentId=CM046635; AccessionNumber=A19980008529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046635; AccessionNumber=A19980008529; Ophævet 2014-08-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:01:33.478Z",
+    "accession": "A19980008529",
+    "document_id": "CM046635",
+    "unique_document_id": "86861",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2014-08-14",
+    "historic_marked": "2014-08-13",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kvalitetssikring af byggearbejder",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-15",
+  "in_force_date": "2004-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2004/169/xml",
-  "description": "Retsinformation source. DocumentId=AU001543; AccessionNumber=B20040016905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001543; AccessionNumber=B20040016905; Ophævet 2010-09-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:15:18.417Z",
+    "accession": "B20040016905",
+    "document_id": "AU001543",
+    "unique_document_id": "26612",
+    "upstream_status": "Historic",
+    "start_date": "2004-03-29",
+    "end_date": "2023-04-29",
+    "historic_marked": "2010-09-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om visse kreditinstitutter",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-12-14",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1990/856/xml",
-  "description": "Retsinformation source. DocumentId=CM024150; AccessionNumber=B19900085605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM024150; AccessionNumber=B19900085605; Ophævet 1997-04-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:32:17.264Z",
+    "accession": "B19900085605",
+    "document_id": "CM024150",
+    "unique_document_id": "65072",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1997-04-16",
+    "seed_status": "repealed"
+  }
 }

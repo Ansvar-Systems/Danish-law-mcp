@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om det digitale planregister Plandata.dk",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-04-24",
+  "in_force_date": "2024-04-26",
   "url": "https://www.retsinformation.dk/eli/lta/2024/431/xml",
-  "description": "Retsinformation source. DocumentId=CD000322; AccessionNumber=B20240043105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CD000322; AccessionNumber=B20240043105; Ophævet 2025-05-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:04:16.892Z",
+    "accession": "B20240043105",
+    "document_id": "CD000322",
+    "unique_document_id": "243024",
+    "upstream_status": "Historic",
+    "start_date": "2024-04-26",
+    "end_date": "2025-05-21",
+    "historic_marked": "2025-05-20",
+    "seed_status": "repealed"
+  }
 }

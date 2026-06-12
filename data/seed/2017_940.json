@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-06-26",
+  "in_force_date": "2017-07-06",
   "url": "https://www.retsinformation.dk/eli/lta/2017/940/xml",
   "description": "Retsinformation source. DocumentId=CQ000224; AccessionNumber=B20170094005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Kommunalbestyrelsen kan ved udlægning af arealer til byvækst, omfordele allerede udlagte arealer til byvækst, jf. lovens § 11 a, stk. 6. Stk. 2. Kommunalbestyrelsen kan udlægge nye arealer til byvækst for at dække det forventede behov i en periode på 12 år, jf. lovens § 11 a, stk. 12. Stk. 3. Ved kommunalbestyrelsens opgørelse af det forventede behov for at udlægge nye arealer til byvækst, jf. stk. 2, skal den metode, der fremgår af bilag 1, benyttes.",
-      "valid_from": "2017-06-26",
+      "valid_from": "2017-07-06",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 7. juli 2017.",
-      "valid_from": "2017-06-26",
+      "valid_from": "2017-07-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:38:39.619Z",
+    "accession": "B20170094005",
+    "document_id": "CQ000224",
+    "unique_document_id": "192263",
+    "upstream_status": "Valid",
+    "start_date": "2017-07-06",
+    "end_date": "2024-06-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

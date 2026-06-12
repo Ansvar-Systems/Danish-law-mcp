@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om eksplosivstoffer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-07-09",
+  "in_force_date": "2015-07-10",
   "url": "https://www.retsinformation.dk/eli/lta/2015/872/xml",
-  "description": "Retsinformation source. DocumentId=AA008990; AccessionNumber=B20150087205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA008990; AccessionNumber=B20150087205; Ophævet 2025-10-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13b",
@@ -19,9 +20,20 @@
       "provision_ref": "13b",
       "section": "13b",
       "content": "§ 13 b. Politiet er tilsynsmyndighed for så vidt angår tilladelser udstedt i medfør af denne bekendtgørelse.",
-      "valid_from": "2015-07-09",
-      "valid_to": null
+      "valid_from": "2015-07-10",
+      "valid_to": "2025-10-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:26:44.174Z",
+    "accession": "B20150087205",
+    "document_id": "AA008990",
+    "unique_document_id": "170552",
+    "upstream_status": "Historic",
+    "start_date": "2015-07-10",
+    "end_date": "2025-10-31",
+    "historic_marked": "2025-10-30",
+    "seed_status": "repealed"
+  }
 }

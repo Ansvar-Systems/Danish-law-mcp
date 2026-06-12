@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2015-12-15",
+  "in_force_date": "2015-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1566/xml",
   "description": "Retsinformation source. DocumentId=BP001515; AccessionNumber=A20150156630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -81,5 +82,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:15.466Z",
+    "accession": "A20150156630",
+    "document_id": "BP001515",
+    "unique_document_id": "176156",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-15",
+    "end_date": "2025-12-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

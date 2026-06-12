@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om danske Skibes Sejlads under Krigsforhold.",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1940-02-21",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1940/47/xml",
-  "description": "Retsinformation source. DocumentId=CM023089; AccessionNumber=B19400004703; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023089; AccessionNumber=B19400004703; Ophævet 2013-09-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:52:10.219Z",
+    "accession": "B19400004703",
+    "document_id": "CM023089",
+    "unique_document_id": "64066",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "2013-09-09",
+    "seed_status": "repealed"
+  }
 }

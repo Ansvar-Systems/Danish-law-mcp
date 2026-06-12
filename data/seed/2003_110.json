@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilskud til maritime uddannelsesinstitutioner",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-02-19",
+  "in_force_date": "2003-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2003/110/xml",
-  "description": "Retsinformation source. DocumentId=AU000923; AccessionNumber=B20030011005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000923; AccessionNumber=B20030011005; Ophævet 2013-07-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:10:45.752Z",
+    "accession": "B20030011005",
+    "document_id": "AU000923",
+    "unique_document_id": "26171",
+    "upstream_status": "Historic",
+    "start_date": "2003-02-27",
+    "end_date": "2014-07-02",
+    "historic_marked": "2013-07-04",
+    "seed_status": "repealed"
+  }
 }

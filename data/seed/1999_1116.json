@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social pension og lov om skifte af dødsboer",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-29",
+  "in_force_date": "1999-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1116/xml",
-  "description": "Retsinformation source. DocumentId=AO000604; AccessionNumber=A19990111630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000604; AccessionNumber=A19990111630; Ophævet 2015-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:12:16.216Z",
+    "accession": "A19990111630",
+    "document_id": "AO000604",
+    "unique_document_id": "18802",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-30",
+    "end_date": "2016-12-20",
+    "historic_marked": "2015-11-30",
+    "seed_status": "repealed"
+  }
 }

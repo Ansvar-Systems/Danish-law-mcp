@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2022-05-02",
+  "in_force_date": "2022-05-02",
   "url": "https://www.retsinformation.dk/eli/lta/2022/537/xml",
   "description": "Retsinformation source. DocumentId=DA000830; AccessionNumber=A20220053729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -221,5 +222,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:42:58.848Z",
+    "accession": "A20220053729",
+    "document_id": "DA000830",
+    "unique_document_id": "230541",
+    "upstream_status": "Valid",
+    "start_date": "2022-05-02",
+    "end_date": "2026-05-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

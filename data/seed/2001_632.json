@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om vandløb",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-23",
+  "in_force_date": "2001-07-12",
   "url": "https://www.retsinformation.dk/eli/lta/2001/632/xml",
-  "description": "Retsinformation source. DocumentId=AL000713; AccessionNumber=A20010063229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000713; AccessionNumber=A20010063229; Ophævet 2004-09-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:07:47.025Z",
+    "accession": "A20010063229",
+    "document_id": "AL000713",
+    "unique_document_id": "12494",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-12",
+    "end_date": "2026-02-27",
+    "historic_marked": "2004-09-02",
+    "seed_status": "repealed"
+  }
 }

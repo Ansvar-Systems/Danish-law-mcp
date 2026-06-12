@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om dyrlæger (Afgift til finansiering af drift af medicinregisteret VetStat m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-17",
+  "in_force_date": "2019-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1431/xml",
-  "description": "Retsinformation source. DocumentId=CK002249; AccessionNumber=A20190143130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002249; AccessionNumber=A20190143130; Ophævet 2020-10-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "36b",
@@ -20,8 +21,19 @@
       "section": "36b",
       "content": "§ 36 b. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om betaling af omkostninger ved ekstra kontrol, som udføres, efter at der er påvist manglende overholdelse af loven eller regler fastsat i medfør af loven eller af Den Europæiske Unions forordninger.",
       "valid_from": "2019-12-17",
-      "valid_to": null
+      "valid_to": "2020-10-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:45:48.514Z",
+    "accession": "A20190143130",
+    "document_id": "CK002249",
+    "unique_document_id": "211507",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-17",
+    "end_date": "2022-12-31",
+    "historic_marked": "2020-10-28",
+    "seed_status": "repealed"
+  }
 }

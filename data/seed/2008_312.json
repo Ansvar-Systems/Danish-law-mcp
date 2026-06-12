@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer\\n(Administrative lettelser på funktionærrettens område)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-04-30",
+  "in_force_date": "2008-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2008/312/xml",
-  "description": "Retsinformation source. DocumentId=BE002797; AccessionNumber=A20080031230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE002797; AccessionNumber=A20080031230; Ophævet 2009-02-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -20,8 +21,19 @@
       "section": "13",
       "content": "§ 13. Undladelse af at give møde for mæglingsmanden straffes med bøde, der tilfalder statskassen.",
       "valid_from": "2008-04-30",
-      "valid_to": null
+      "valid_to": "2009-02-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:09:30.657Z",
+    "accession": "A20080031230",
+    "document_id": "BE002797",
+    "unique_document_id": "116330",
+    "upstream_status": "Historic",
+    "start_date": "2008-04-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2009-02-05",
+    "seed_status": "repealed"
+  }
 }

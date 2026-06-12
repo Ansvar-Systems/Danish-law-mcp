@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om kundgørelse af love, anordninger og bekendtgørelser på Færøerne (Ændringer i forbindelse med overgang til elektronisk kundgørelse af retsforskrifter på Færøerne)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-03-11",
+  "in_force_date": "2013-03-12",
   "url": "https://www.retsinformation.dk/eli/lta/2013/237/xml",
-  "description": "Retsinformation source. DocumentId=AA006940; AccessionNumber=B20130023705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA006940; AccessionNumber=B20130023705; Ophævet 2016-08-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 157 af 20. februar 2013 om ændring af lov om kundgørelse af love, anordninger og bekendtgørelser på Færøerne (Ændringer i forbindelse med overgang til elektronisk kundgørelse af retsforskrifter på Færøerne) sættes i kraft.",
-      "valid_from": "2013-03-11",
-      "valid_to": null
+      "valid_from": "2013-03-12",
+      "valid_to": "2016-08-11"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2013.",
-      "valid_from": "2013-03-11",
-      "valid_to": null
+      "valid_from": "2013-03-12",
+      "valid_to": "2016-08-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:56:19.439Z",
+    "accession": "B20130023705",
+    "document_id": "AA006940",
+    "unique_document_id": "145229",
+    "upstream_status": "Historic",
+    "start_date": "2013-03-12",
+    "end_date": "2016-08-12",
+    "historic_marked": "2016-08-11",
+    "seed_status": "repealed"
+  }
 }

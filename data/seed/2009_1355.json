@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2009-12-15",
+  "in_force_date": "2009-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1355/xml",
   "description": "Retsinformation source. DocumentId=AA005263; AccessionNumber=B20090135505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Politiet underretter kommunen om sagen, når en sigtet under 18 år skal afhøres, og sigtelsen angår 1) overtrædelse af kriminalloven, eller 2) forhold, der efter loven kan medføre anstaltsanbringelse. Stk. 2. Underretning kan dog undlades om afhøringer, der foretages i direkte forbindelse med, at sigtede af politiet træffes under eller i umiddelbar tilknytning til udøvelsen af et strafbart forhold, for hvilket der ikke bliver spørgsmål om strengere foranstaltning end bøde.",
-      "valid_from": "2009-12-15",
+      "valid_from": "2009-12-19",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Underretning sker til kommunen på sigtedes hjemsted. Er hjemstedet ikke oplyst, eller kan der på grund af afstanden ikke gives møde herfra, underrettes den stedlige kommune.",
-      "valid_from": "2009-12-15",
+      "valid_from": "2009-12-19",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. En repræsentant for kommunen skal så vidt muligt have adgang til at overvære afhøringer som nævnt i § 1, der foretages af politiet eller i retten.",
-      "valid_from": "2009-12-15",
+      "valid_from": "2009-12-19",
       "valid_to": null
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2010.",
-      "valid_from": "2009-12-15",
+      "valid_from": "2009-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:52:01.411Z",
+    "accession": "B20090135505",
+    "document_id": "AA005263",
+    "unique_document_id": "129172",
+    "upstream_status": "Valid",
+    "start_date": "2009-12-19",
+    "end_date": "2016-12-16",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

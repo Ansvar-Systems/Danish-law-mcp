@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2017-03-29",
+  "in_force_date": "2017-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2017/286/xml",
   "description": "Retsinformation source. DocumentId=AN012928; AccessionNumber=B20170028605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,5 +40,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:12:20.395Z",
+    "accession": "B20170028605",
+    "document_id": "AN012928",
+    "unique_document_id": "188330",
+    "upstream_status": "Valid",
+    "start_date": "2017-03-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om CO2-kvoter",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-09",
+  "in_force_date": "2004-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2004/493/xml",
-  "description": "Retsinformation source. DocumentId=AU001646; AccessionNumber=A20040049330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001646; AccessionNumber=A20040049330; Ophævet 2008-05-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:28:21.213Z",
+    "accession": "A20040049330",
+    "document_id": "AU001646",
+    "unique_document_id": "26669",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-09",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-05-14",
+    "seed_status": "repealed"
+  }
 }

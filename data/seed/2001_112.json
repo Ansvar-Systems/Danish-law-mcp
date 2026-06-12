@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om social pension",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-19",
+  "in_force_date": "2001-02-26",
   "url": "https://www.retsinformation.dk/eli/lta/2001/112/xml",
-  "description": "Retsinformation source. DocumentId=AO001140; AccessionNumber=B20010011205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO001140; AccessionNumber=B20010011205; Ophævet 2003-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:46:52.488Z",
+    "accession": "B20010011205",
+    "document_id": "AO001140",
+    "unique_document_id": "19244",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-26",
+    "end_date": "2016-12-20",
+    "historic_marked": "2003-12-22",
+    "seed_status": "repealed"
+  }
 }

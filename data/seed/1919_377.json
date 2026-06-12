@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om udfærdigelse af nye Telefonkoncessioner m.m. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1919-06-30",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1919/377/xml",
-  "description": "Retsinformation source. DocumentId=CM003975; AccessionNumber=A19190037730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM003975; AccessionNumber=A19190037730; Ophævet 1996-02-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:39:40.854Z",
+    "accession": "A19190037730",
+    "document_id": "CM003975",
+    "unique_document_id": "45393",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2017-12-09",
+    "historic_marked": "1996-02-15",
+    "seed_status": "repealed"
+  }
 }

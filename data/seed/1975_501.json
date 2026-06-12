@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om statens skoleskib",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1975-09-22",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1975/501/xml",
-  "description": "Retsinformation source. DocumentId=CM023768; AccessionNumber=B19750050105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023768; AccessionNumber=B19750050105; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:45:39.016Z",
+    "accession": "B19750050105",
+    "document_id": "CM023768",
+    "unique_document_id": "64719",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2014-07-02",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om okker (Okkerloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-21",
+  "in_force_date": "2007-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2007/786/xml",
-  "description": "Retsinformation source. DocumentId=AL001659; AccessionNumber=A20070078629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001659; AccessionNumber=A20070078629; Ophævet 2008-10-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:36:13.339Z",
+    "accession": "A20070078629",
+    "document_id": "AL001659",
+    "unique_document_id": "13136",
+    "upstream_status": "Historic",
+    "start_date": "2007-07-05",
+    "end_date": "2026-06-12",
+    "historic_marked": "2008-10-28",
+    "seed_status": "repealed"
+  }
 }

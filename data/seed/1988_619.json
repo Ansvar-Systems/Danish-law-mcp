@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af sukker m.m.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-10-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/619/xml",
-  "description": "Retsinformation source. DocumentId=CM022081; AccessionNumber=A19880061929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022081; AccessionNumber=A19880061929; Ophævet 1991-02-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:18:08.934Z",
+    "accession": "A19880061929",
+    "document_id": "CM022081",
+    "unique_document_id": "63061",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-17",
+    "historic_marked": "1991-02-19",
+    "seed_status": "repealed"
+  }
 }

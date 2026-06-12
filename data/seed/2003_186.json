@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om planteskadegørere",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-20",
+  "in_force_date": "2003-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2003/186/xml",
-  "description": "Retsinformation source. DocumentId=AH001471; AccessionNumber=B20030018605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001471; AccessionNumber=B20030018605; Ophævet 2009-01-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:20:03.275Z",
+    "accession": "B20030018605",
+    "document_id": "AH001471",
+    "unique_document_id": "7731",
+    "upstream_status": "Historic",
+    "start_date": "2003-03-27",
+    "end_date": "2022-04-08",
+    "historic_marked": "2009-01-26",
+    "seed_status": "repealed"
+  }
 }

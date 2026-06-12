@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om virkning af visse bestemmelser i lov om ændring af lov om vægtafgift af motorkøretøjer m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-09-10",
+  "in_force_date": "2002-09-23",
   "url": "https://www.retsinformation.dk/eli/lta/2002/768/xml",
-  "description": "Retsinformation source. DocumentId=AN003101; AccessionNumber=B20020076805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003101; AccessionNumber=B20020076805; Ophævet 2002-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:57:33.454Z",
+    "accession": "B20020076805",
+    "document_id": "AN003101",
+    "unique_document_id": "15565",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-23",
+    "end_date": "2003-12-15",
+    "historic_marked": "2002-12-22",
+    "seed_status": "repealed"
+  }
 }

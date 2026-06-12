@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om beskatningen af pensionsordninger m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1984-02-07",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1984/39/xml",
-  "description": "Retsinformation source. DocumentId=CM019949; AccessionNumber=B19840003905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM019949; AccessionNumber=B19840003905; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:40:18.869Z",
+    "accession": "B19840003905",
+    "document_id": "CM019949",
+    "unique_document_id": "60982",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-04-23",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

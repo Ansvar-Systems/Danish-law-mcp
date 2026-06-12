@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2020-11-26",
+  "in_force_date": "2020-11-28",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1712/xml",
   "description": "Retsinformation source. DocumentId=CY000819; AccessionNumber=B20200171205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "2a",
       "section": "2a",
       "content": "§ 2 a. Følgende beføjelser efter akt nr. 49 af 26. november 2020 delegeres fra social- og indenrigsministeren til Socialstyrelsen:",
-      "valid_from": "2020-11-26",
+      "valid_from": "2020-11-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:57:11.347Z",
+    "accession": "B20200171205",
+    "document_id": "CY000819",
+    "unique_document_id": "217881",
+    "upstream_status": "Valid",
+    "start_date": "2020-11-28",
+    "end_date": "2022-07-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

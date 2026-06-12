@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om statens uddannelsesstøtte",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-22",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/917/xml",
-  "description": "Retsinformation source. DocumentId=CM034035; AccessionNumber=A19890091729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034035; AccessionNumber=A19890091729; Ophævet 1990-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:01:26.800Z",
+    "accession": "A19890091729",
+    "document_id": "CM034035",
+    "unique_document_id": "74830",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "1990-07-05",
+    "seed_status": "repealed"
+  }
 }

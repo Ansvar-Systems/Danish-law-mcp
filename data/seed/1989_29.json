@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om fastsættelse af sommertid for årene 1990-1992",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-01-16",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/29/xml",
-  "description": "Retsinformation source. DocumentId=CM044622; AccessionNumber=B19890002903; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044622; AccessionNumber=B19890002903; Ophævet 1997-06-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:35:51.808Z",
+    "accession": "B19890002903",
+    "document_id": "CM044622",
+    "unique_document_id": "85164",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1997-06-23",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ydelser til nordiske vidner m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1983-08-16",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1983/405/xml",
-  "description": "Retsinformation source. DocumentId=CM016517; AccessionNumber=B19830040505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016517; AccessionNumber=B19830040505; Ophævet 1997-10-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:29:11.845Z",
+    "accession": "B19830040505",
+    "document_id": "CM016517",
+    "unique_document_id": "57589",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-02-20",
+    "historic_marked": "1997-10-02",
+    "seed_status": "repealed"
+  }
 }

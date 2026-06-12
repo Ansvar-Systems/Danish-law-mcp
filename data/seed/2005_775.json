@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Danmarks Evalueringsinstitut",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-10",
+  "in_force_date": "2005-08-22",
   "url": "https://www.retsinformation.dk/eli/lta/2005/775/xml",
-  "description": "Retsinformation source. DocumentId=AT002292; AccessionNumber=A20050077529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002292; AccessionNumber=A20050077529; Ophævet 2010-09-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:33:48.196Z",
+    "accession": "A20050077529",
+    "document_id": "AT002292",
+    "unique_document_id": "24894",
+    "upstream_status": "Historic",
+    "start_date": "2005-08-22",
+    "end_date": "2021-01-08",
+    "historic_marked": "2010-09-17",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om faste arbejdssteders indretning.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-22",
+  "in_force_date": "2006-07-06",
   "url": "https://www.retsinformation.dk/eli/lta/2006/721/xml",
-  "description": "Retsinformation source. DocumentId=BE001702; AccessionNumber=B20060072105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001702; AccessionNumber=B20060072105; Ophævet 2023-06-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:35:17.416Z",
+    "accession": "B20060072105",
+    "document_id": "BE001702",
+    "unique_document_id": "30604",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-06",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-06-20",
+    "seed_status": "repealed"
+  }
 }

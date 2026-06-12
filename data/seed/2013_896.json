@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om elektroniske kommunikationsnet og -tjenester\\n(Kommunal udlejning af arealer m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-07-04",
+  "in_force_date": "2013-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/2013/896/xml",
-  "description": "Retsinformation source. DocumentId=BP000574; AccessionNumber=A20130089630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000574; AccessionNumber=A20130089630; Ophævet 2014-02-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "21:60",
@@ -22,8 +23,19 @@
       "section": "60",
       "content": "§ 60 a. Kommunalbestyrelsen henholdsvis regionsrådet kan indgå aftaler på markedsvilkår med udbydere af elektroniske kommunikationsnet om udlejning af arealer, bygninger, høje konstruktioner, master m.v. med henblik på udbygning af radiokommunikationsnettet.",
       "valid_from": "2013-07-04",
-      "valid_to": null
+      "valid_to": "2014-02-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:22:52.221Z",
+    "accession": "A20130089630",
+    "document_id": "BP000574",
+    "unique_document_id": "152749",
+    "upstream_status": "Historic",
+    "start_date": "2013-07-04",
+    "end_date": "2026-06-04",
+    "historic_marked": "2014-02-11",
+    "seed_status": "repealed"
+  }
 }

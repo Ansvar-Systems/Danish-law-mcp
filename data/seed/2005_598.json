@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om internetdomæner, der særligt tildeles Danmark",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-24",
+  "in_force_date": "2005-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/598/xml",
-  "description": "Retsinformation source. DocumentId=BD000225; AccessionNumber=A20050059830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000225; AccessionNumber=A20050059830; Ophævet 2014-02-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:26:39.338Z",
+    "accession": "A20050059830",
+    "document_id": "BD000225",
+    "unique_document_id": "29237",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-24",
+    "end_date": "2026-06-04",
+    "historic_marked": "2014-02-26",
+    "seed_status": "repealed"
+  }
 }

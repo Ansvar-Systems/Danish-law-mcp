@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-12-05",
+  "in_force_date": "2023-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1477/xml",
   "description": "Retsinformation source. DocumentId=CQ002731; AccessionNumber=B20230147705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov om sikkerhed til søs, som sat i kraft ved kongelig anordning og de i medfør af denne for Grønland gældende forskrifter finder anvendelse på udenlandske skibe i grønlandsk havn eller på grønlandsk søterritorium, i det omfang det er foreneligt med international ret. Loven, som sat i kraft ved kongelig anordning, og de i medfør af denne for Grønland gældende forskrifter finder endvidere anvendelse på udenlandske skibe i de eksklusive økonomiske zoner, i det omfang det er foreneligt med international ret. Stk. 2. Søfartsstyrelsen kan fravige bestemmelsen i stk. 1, for udenlandske skibe, der opfylder internationale forskrifter vedrørende skibes bygning, udstyr og drift m.v.",
-      "valid_from": "2023-12-05",
+      "valid_from": "2023-12-07",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024.",
-      "valid_from": "2023-12-05",
+      "valid_from": "2023-12-07",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:20:50.884Z",
+    "accession": "B20230147705",
+    "document_id": "CQ002731",
+    "unique_document_id": "240677",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-07",
+    "end_date": "2023-12-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

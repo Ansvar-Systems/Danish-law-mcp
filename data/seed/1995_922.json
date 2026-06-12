@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tinglysning i tingbogen",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/922/xml",
-  "description": "Retsinformation source. DocumentId=CM016756; AccessionNumber=B19950092205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016756; AccessionNumber=B19950092205; Ophævet 2009-07-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:57:54.738Z",
+    "accession": "B19950092205",
+    "document_id": "CM016756",
+    "unique_document_id": "57828",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2009-07-23",
+    "historic_marked": "2009-07-22",
+    "seed_status": "repealed"
+  }
 }

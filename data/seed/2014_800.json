@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-06-26",
+  "in_force_date": "2014-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2014/800/xml",
   "description": "Retsinformation source. DocumentId=AA008023; AccessionNumber=B20140080005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse gælder for personer, der er indlagt på psykiatrisk afdeling i Grønland i henhold til en retsafgørelse, som er truffet i medfør af § 157 i kriminallov for Grønland eller § 361 eller § 436, stk. 3, i retsplejelov for Grønland.",
-      "valid_from": "2014-06-26",
+      "valid_from": "2014-06-28",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bestemmelserne i Inatsisartutlov om frihedsberøvelse og anden tvang i psykiatrien og de i medfør af loven udfærdigede forskrifter finder tilsvarende anvendelse på de i § 1 nævnte personer. Det gælder dog ikke lovens §§ 5-11, § 17, § 18, § 31, stk. 2 og 3, og bestemmelserne i kapitel 11 om klageadgang og domstolsprøvelse med hensyn til afgørelser om tvangsindlæggelse, tvangstilbageholdelse, tilbageførsel og tvungen opfølgning efter udskrivning. Stk. 2. Bestemmelserne i lovens kapitel 9 om patientrådgivere gælder kun i tilfælde, hvor den pågældende ikke har en bistandsværge efter § 163 i kriminallov for Grønland.",
-      "valid_from": "2014-06-26",
+      "valid_from": "2014-06-28",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2014.",
-      "valid_from": "2014-06-26",
+      "valid_from": "2014-06-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:17:17.490Z",
+    "accession": "B20140080005",
+    "document_id": "AA008023",
+    "unique_document_id": "163985",
+    "upstream_status": "Valid",
+    "start_date": "2014-06-28",
+    "end_date": "2014-06-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

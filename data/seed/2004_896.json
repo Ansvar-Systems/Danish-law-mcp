@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om gennemførelse af dele af arbejdstidsdirektivet",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-08-24",
+  "in_force_date": "2004-09-06",
   "url": "https://www.retsinformation.dk/eli/lta/2004/896/xml",
-  "description": "Retsinformation source. DocumentId=BE001028; AccessionNumber=A20040089629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001028; AccessionNumber=A20040089629; Ophævet 2024-08-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:44:38.330Z",
+    "accession": "A20040089629",
+    "document_id": "BE001028",
+    "unique_document_id": "30093",
+    "upstream_status": "Historic",
+    "start_date": "2004-09-06",
+    "end_date": "2024-08-28",
+    "historic_marked": "2024-08-27",
+    "seed_status": "repealed"
+  }
 }

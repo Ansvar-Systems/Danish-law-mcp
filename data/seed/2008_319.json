@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af sundhedsloven\\n(Ændring af beløbsgrænserne i medicintilskudssystemet, reguleringsmekanismen og reglerne om tilskud til vacciner)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-04-30",
+  "in_force_date": "2008-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2008/319/xml",
-  "description": "Retsinformation source. DocumentId=BK000288; AccessionNumber=A20080031930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000288; AccessionNumber=A20080031930; Ophævet 2010-07-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "149",
@@ -20,8 +21,19 @@
       "section": "149",
       "content": "§ 149 a. En gang årligt den 1. januar reguleres de beløb, der er nævnt i § 146, stk. 2 og 3, og § 147, med satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. Stk. 2. Beløbsgrænserne afrundes nedad til nærmeste hele kronebeløb, der kan deles med fem.",
       "valid_from": "2008-04-30",
-      "valid_to": null
+      "valid_to": "2010-07-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:09:45.805Z",
+    "accession": "A20080031930",
+    "document_id": "BK000288",
+    "unique_document_id": "116751",
+    "upstream_status": "Historic",
+    "start_date": "2008-04-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "2010-07-14",
+    "seed_status": "repealed"
+  }
 }

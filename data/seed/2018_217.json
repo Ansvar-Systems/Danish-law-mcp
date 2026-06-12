@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om afgrænsning af oplande til nitratfølsomme habitatnaturtyper i Natura 2000-områder",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-02-28",
+  "in_force_date": "2018-03-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/217/xml",
-  "description": "Retsinformation source. DocumentId=CK001630; AccessionNumber=B20180021705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK001630; AccessionNumber=B20180021705; Ophævet 2022-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsens bilag 1 fastlægger, ved angivelse af koordinater, grænserne for oplande til nitratfølsomme habitatnaturtyper i Natura 2000-områder. De afgrænsede oplan‌de omfatter oplande til marine nitratfølsomme habitatnaturtyper samt overfladevandspåvirkede nitratfølsomme habitatnaturtyper med et selvstændigt opland over 100 ha, der ligger uden for oplande til de marine habitatnaturtyper. Koordinaterne i bilag 1 illustreres visuelt i en digital kortudgave på MiljøGIS på Miljø- og Fødevareministeriets hjemmeside, http://miljoegis.mim.dk/. Stk. 2. Afgrænsningen i bilag 1 fastlægger inden for hvilke områder, udviklingen i mængden af udbragt organisk gødning bliver opgjort. En stigning i mængden af udbragt organisk gødning i oplandet medfører krav om, at der skal etableres husdyrefterafgrøder med henblik på begrænsning af merudvaskning af nitrat fra organisk gødning, jf. bekendtgørelse om erhvervsmæssigt dyrehold, husdyrgødning, ensilage m.v.",
-      "valid_from": "2018-02-28",
-      "valid_to": null
+      "valid_from": "2018-03-18",
+      "valid_to": "2022-05-31"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2018. Stk. 2. Bekendtgørelse nr. 375 af 19. april 2017 om kort over oplande til nitratfølsomme habitatnaturtyper i Natura 2000-områder ophæves.",
-      "valid_from": "2018-02-28",
-      "valid_to": null
+      "valid_from": "2018-03-18",
+      "valid_to": "2022-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:56:52.145Z",
+    "accession": "B20180021705",
+    "document_id": "CK001630",
+    "unique_document_id": "199868",
+    "upstream_status": "Historic",
+    "start_date": "2018-03-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2022-05-31",
+    "seed_status": "repealed"
+  }
 }

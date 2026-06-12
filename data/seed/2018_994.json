@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2018-07-02",
+  "in_force_date": "2018-07-02",
   "url": "https://www.retsinformation.dk/eli/lta/2018/994/xml",
   "description": "Retsinformation source. DocumentId=CN000716; AccessionNumber=B20180099403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -347,5 +348,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:28:10.129Z",
+    "accession": "B20180099403",
+    "document_id": "CN000716",
+    "unique_document_id": "202060",
+    "upstream_status": "Valid",
+    "start_date": "2018-07-02",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

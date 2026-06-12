@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændringer i konfiskationsloven (* 1)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1959-05-13",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1959/146/xml",
-  "description": "Retsinformation source. DocumentId=CM025383; AccessionNumber=A19590014630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025383; AccessionNumber=A19590014630; Ophævet 1990-05-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:02:14.971Z",
+    "accession": "A19590014630",
+    "document_id": "CM025383",
+    "unique_document_id": "66263",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2025-02-12",
+    "historic_marked": "1990-05-04",
+    "seed_status": "repealed"
+  }
 }

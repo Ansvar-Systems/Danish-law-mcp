@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om forsøg på beskæftigelsesområdet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-05-30",
+  "in_force_date": "2022-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2022/732/xml",
-  "description": "Retsinformation source. DocumentId=BE009330; AccessionNumber=B20220073205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE009330; AccessionNumber=B20220073205; Ophævet 2022-12-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12b",
@@ -30,22 +31,33 @@
       "section": "12b",
       "content": "§ 12 b. Beskæftigelsesministeren har givet tilladelse til, at Sønderborg Kommune gennemfører forsøg, hvor kommunen kan forelægge en sag for rehabiliteringsteamet uden at rekvirere en attest med praktiserende læges vurdering af borgerens helbredsmæssige situation i forhold til at kunne arbejde, hvis de øvrige helbredsoplysninger, der foreligger hos kommunen, efter kommunens vurdering kan danne grundlag for rehabiliteringsteamets vurdering af sagen. Stk. 2. Forsøgstilladelsen indebærer en fravigelse af § 44, stk. 1, i lov om en aktiv beskæftigelsesindsats og § 4, stk. 1, i bekendtgørelse om rehabiliteringsplan og rehabiliteringsteamets indstilling om ressourceforløb, fleksjob, førtidspension m.v., for så vidt angår kravet om, at rehabiliteringsplanens forberedende del skal indeholde den praktiserende læges vurdering af borgerens helbredsmæssige situation i forhold til at kunne arbejde. Stk. 3. Forsøgsperioden løber fra den 1. februar 2020 til den 31. december 2021 og fra den 1. juni 2022 til og med den 31. december 2022.",
       "valid_from": "2022-05-30",
-      "valid_to": null
+      "valid_to": "2022-12-23"
     },
     {
       "provision_ref": "12c",
       "section": "12c",
       "content": "§ 12 c. Beskæftigelsesministeren har givet tilladelse til, at Solrød Kommune gennemfører forsøg, hvor der kan benyttes videosamtaler i de første 6 måneder i kontaktforløbet for personer, der er omfattet af § 6, nr. 2-5 og 7-9, i lov om en aktiv beskæftigelsesindsats. Det er en betingelse, at første samtale afholdes ved personligt fremmøde på jobcenteret. Personen har ret til, at samtalerne afholdes ved personligt fremmøde, hvis pågældende anmoder om det. Stk. 2. Forsøgstilladelsen indebærer en fravigelse af § 31 a, stk. 1 og stk. 4, og § 121, stk. 1, 4. pkt., i lov om en aktiv beskæftigelsesindsats. Stk. 3. Forsøgsperioden løber fra den 1. november 2018 til den 31. december 2021 og fra den 1. juni 2022 til og med den 31. december 2022.",
       "valid_from": "2022-05-30",
-      "valid_to": null
+      "valid_to": "2022-12-23"
     },
     {
       "provision_ref": "12d",
       "section": "12d",
       "content": "§ 12 d. Beskæftigelsesministeren har givet tilladelse til, at Solrød Kommune gennemfører forsøg, hvor der kan benyttes videosamtaler i de første 6 måneder i sygedagpengeopfølgningen efter kapitel 6 i lov om sygedagpenge. Det er en betingelse, at første samtale afholdes ved personligt fremmøde på jobcenteret. Personen har ret til, at samtalerne afholdes ved personligt fremmøde, hvis pågældende anmoder om det. Stk. 2. Forsøgstilladelsen indebærer en fravigelse af § 13 b, stk. 1, 6. pkt., i lov om sygedagpenge. Stk. 3. Forsøgsperioden løber fra den 1. november 2018 til den 31. december 2021 og fra den 1. juni 2022 til og med den 31. december 2022.",
       "valid_from": "2022-05-30",
-      "valid_to": null
+      "valid_to": "2022-12-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:50:47.809Z",
+    "accession": "B20220073205",
+    "document_id": "BE009330",
+    "unique_document_id": "231249",
+    "upstream_status": "Historic",
+    "start_date": "2022-05-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2022-12-23",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-10-04",
+  "in_force_date": "2021-10-05",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1899/xml",
   "description": "Retsinformation source. DocumentId=DD000110; AccessionNumber=B20210189905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Miljøministeriet og dets institutioner udfører de opgaver, som tildeles de kompetente myndigheder i medlemsstaterne i henhold til Rådets forordning (EF) nr. 648/2004 af 31. marts 2004 om vaske- og rengøringsmidler med senere ændringer (detergentforordningen), jf. forordningens artikel 8, stk. 1.",
-      "valid_from": "2021-10-04",
+      "valid_from": "2021-10-05",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Miljøstyrelsen fører tilsyn og kontrol med overholdelsen af reglerne i detergentforordningen i overensstemmelse med reglerne i loven og detergentforordningen. Miljøstyrelsen fungerer i den forbindelse som markedsovervågningsmyndighed i overensstemmelse med Europa-Parlamentets og Rådets forordning (EU) nr. 2019/1020 af 20. juni 2019 om markedsovervågning og produktoverensstemmelse og om ændring af direktiv 2004/42/EF og forordning (EF) nr. 765/2008 og (EU) nr. 305/2011. Stk. 2. Miljøstyrelsens afgørelser efter stk. 1 kan ikke påklages til anden administrativ myndighed.",
-      "valid_from": "2021-10-04",
+      "valid_from": "2021-10-05",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. november 2021. Stk. 2. Bekendtgørelse nr. 284 af 3. april 2006 om henlæggelse til Miljøstyrelsen af opgaver og beføjelser vedrørende vaske- og rengøringsmidler ophæves.",
-      "valid_from": "2021-10-04",
+      "valid_from": "2021-10-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:58:32.705Z",
+    "accession": "B20210189905",
+    "document_id": "DD000110",
+    "unique_document_id": "225191",
+    "upstream_status": "Valid",
+    "start_date": "2021-10-05",
+    "end_date": "2025-10-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om valg til menighedsråd",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1983-12-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1983/616/xml",
-  "description": "Retsinformation source. DocumentId=CM031894; AccessionNumber=A19830061630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031894; AccessionNumber=A19830061630; Ophævet 1990-02-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:33:07.054Z",
+    "accession": "A19830061630",
+    "document_id": "CM031894",
+    "unique_document_id": "72698",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-24",
+    "historic_marked": "1990-02-13",
+    "seed_status": "repealed"
+  }
 }

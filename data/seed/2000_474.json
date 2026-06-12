@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Københavns Havn A/S",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/474/xml",
-  "description": "Retsinformation source. DocumentId=AR000320; AccessionNumber=A20000047430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000320; AccessionNumber=A20000047430; Ophævet 2007-10-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:48.056Z",
+    "accession": "A20000047430",
+    "document_id": "AR000320",
+    "unique_document_id": "21963",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2007-10-15",
+    "seed_status": "repealed"
+  }
 }

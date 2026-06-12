@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om lige løn til mænd og kvinder",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-08-21",
+  "in_force_date": "2003-09-01",
   "url": "https://www.retsinformation.dk/eli/lta/2003/756/xml",
-  "description": "Retsinformation source. DocumentId=BE000279; AccessionNumber=A20030075629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000279; AccessionNumber=A20030075629; Ophævet 2006-09-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:43:03.306Z",
+    "accession": "A20030075629",
+    "document_id": "BE000279",
+    "unique_document_id": "29526",
+    "upstream_status": "Historic",
+    "start_date": "2003-09-01",
+    "end_date": "2006-09-07",
+    "historic_marked": "2006-09-07",
+    "seed_status": "repealed"
+  }
 }

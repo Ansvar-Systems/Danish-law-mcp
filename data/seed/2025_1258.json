@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om beregning af dagpengesatsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-10-31",
+  "in_force_date": "2025-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1258/xml",
-  "description": "Retsinformation source. DocumentId=BE010314; AccessionNumber=B20250125805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE010314; AccessionNumber=B20250125805; Ophævet 2026-01-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:37:44.833Z",
+    "accession": "B20250125805",
+    "document_id": "BE010314",
+    "unique_document_id": "252117",
+    "upstream_status": "Historic",
+    "start_date": "2025-10-31",
+    "end_date": "2026-06-12",
+    "historic_marked": "2026-01-15",
+    "seed_status": "repealed"
+  }
 }

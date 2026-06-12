@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indretningskrav til eksisterende elevatorer, der ikke er CE-mærket",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-08-26",
+  "in_force_date": "2015-08-27",
   "url": "https://www.retsinformation.dk/eli/lta/2015/966/xml",
-  "description": "Retsinformation source. DocumentId=BE006401; AccessionNumber=B20150096605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006401; AccessionNumber=B20150096605; Ophævet 2016-05-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "141",
@@ -19,9 +20,20 @@
       "provision_ref": "141",
       "section": "141",
       "content": "§ 141. Bekendtgørelsen træder i kraft den 1. juli 2016.",
-      "valid_from": "2015-08-26",
-      "valid_to": null
+      "valid_from": "2015-08-27",
+      "valid_to": "2016-05-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:30:34.877Z",
+    "accession": "B20150096605",
+    "document_id": "BE006401",
+    "unique_document_id": "173809",
+    "upstream_status": "Historic",
+    "start_date": "2015-08-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2016-05-25",
+    "seed_status": "repealed"
+  }
 }

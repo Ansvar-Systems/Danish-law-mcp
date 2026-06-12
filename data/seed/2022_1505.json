@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-12-09",
+  "in_force_date": "2022-12-09",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1505/xml",
   "description": "Retsinformation source. DocumentId=DC000783; AccessionNumber=B20220150505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -395,5 +396,16 @@
       "definition": "ejerskab eller rådighed over stemmerettigheder, således at der direkte eller indirekte ejes mere end 50 % af selskabskapitalen, eller rådes over mere end 50 % af stemmerne",
       "source_provision": "2:4"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:21:54.102Z",
+    "accession": "B20220150505",
+    "document_id": "DC000783",
+    "unique_document_id": "233806",
+    "upstream_status": "Valid",
+    "start_date": "2022-12-09",
+    "end_date": "2022-12-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

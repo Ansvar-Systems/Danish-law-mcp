@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om vandindvinding og vandforsyning\\n(Digital annoncering)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-12-21",
+  "in_force_date": "2011-12-24",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1336/xml",
-  "description": "Retsinformation source. DocumentId=AL002518; AccessionNumber=B20110133605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002518; AccessionNumber=B20110133605; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "30",
@@ -19,9 +20,20 @@
       "provision_ref": "30",
       "section": "30",
       "content": "§ 30 a. Annoncering i henhold til § 10, stk. 1, § 23 eller § 28, stk. 4, kan ske udelukkende på kommunens hjemmeside.",
-      "valid_from": "2011-12-21",
-      "valid_to": null
+      "valid_from": "2011-12-24",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:51:45.326Z",
+    "accession": "B20110133605",
+    "document_id": "AL002518",
+    "unique_document_id": "139373",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-24",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

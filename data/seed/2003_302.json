@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om statsautoriserede og registrerede revisorer",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-04-30",
+  "in_force_date": "2003-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2003/302/xml",
-  "description": "Retsinformation source. DocumentId=AU001050; AccessionNumber=A20030030230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001050; AccessionNumber=A20030030230; Ophævet 2008-06-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:24:46.869Z",
+    "accession": "A20030030230",
+    "document_id": "AU001050",
+    "unique_document_id": "26249",
+    "upstream_status": "Historic",
+    "start_date": "2003-04-30",
+    "end_date": "2017-12-08",
+    "historic_marked": "2008-06-17",
+    "seed_status": "repealed"
+  }
 }

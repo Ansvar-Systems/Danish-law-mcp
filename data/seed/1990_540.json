@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bygningsdrift",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-07-18",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1990/540/xml",
-  "description": "Retsinformation source. DocumentId=CM013623; AccessionNumber=B19900054005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM013623; AccessionNumber=B19900054005; Ophævet 2005-07-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:19:43.595Z",
+    "accession": "B19900054005",
+    "document_id": "CM013623",
+    "unique_document_id": "54740",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "2005-07-04",
+    "seed_status": "repealed"
+  }
 }

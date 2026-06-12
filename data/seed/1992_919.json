@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om indkomststøtte til landbrugere",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-11-25",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/919/xml",
-  "description": "Retsinformation source. DocumentId=CM039066; AccessionNumber=A19920091930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM039066; AccessionNumber=A19920091930; Ophævet 1996-12-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:48:59.909Z",
+    "accession": "A19920091930",
+    "document_id": "CM039066",
+    "unique_document_id": "79853",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1996-12-03",
+    "seed_status": "repealed"
+  }
 }

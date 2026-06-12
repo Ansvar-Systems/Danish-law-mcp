@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om statstilskud til elintensive virksomheder",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-12-15",
+  "in_force_date": "2016-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1602/xml",
-  "description": "Retsinformation source. DocumentId=CI000230; AccessionNumber=B20160160205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000230; AccessionNumber=B20160160205; Ophævet 2017-01-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1 i lov nr. 510 af 31. maj 2016 om ændring af lov om statstilskud til elintensive virksomheder sættes i kraft.",
-      "valid_from": "2016-12-15",
-      "valid_to": null
+      "valid_from": "2016-12-16",
+      "valid_to": "2017-01-27"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 18. december 2016 og har virkning fra og med den 1. juni 2016.",
-      "valid_from": "2016-12-15",
-      "valid_to": null
+      "valid_from": "2016-12-16",
+      "valid_to": "2017-01-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:27.786Z",
+    "accession": "B20160160205",
+    "document_id": "CI000230",
+    "unique_document_id": "185381",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-16",
+    "end_date": "2021-01-08",
+    "historic_marked": "2017-01-27",
+    "seed_status": "repealed"
+  }
 }

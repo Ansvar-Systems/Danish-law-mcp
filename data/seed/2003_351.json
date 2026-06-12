@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forsøgsordninger efter lov om social service",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-05-14",
+  "in_force_date": "2003-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2003/351/xml",
-  "description": "Retsinformation source. DocumentId=AO001936; AccessionNumber=B20030035105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO001936; AccessionNumber=B20030035105; Ophævet 2004-04-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:26:44.917Z",
+    "accession": "B20030035105",
+    "document_id": "AO001936",
+    "unique_document_id": "19854",
+    "upstream_status": "Historic",
+    "start_date": "2003-05-26",
+    "end_date": "2022-07-08",
+    "historic_marked": "2004-04-13",
+    "seed_status": "repealed"
+  }
 }

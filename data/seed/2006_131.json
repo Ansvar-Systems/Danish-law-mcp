@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ansøgning om medicintilskud",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-28",
+  "in_force_date": "2006-03-09",
   "url": "https://www.retsinformation.dk/eli/lta/2006/131/xml",
-  "description": "Retsinformation source. DocumentId=AI002150; AccessionNumber=B20060013105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI002150; AccessionNumber=B20060013105; Ophævet 2014-05-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:55:18.044Z",
+    "accession": "B20060013105",
+    "document_id": "AI002150",
+    "unique_document_id": "10231",
+    "upstream_status": "Historic",
+    "start_date": "2006-03-09",
+    "end_date": "2022-07-12",
+    "historic_marked": "2014-05-14",
+    "seed_status": "repealed"
+  }
 }

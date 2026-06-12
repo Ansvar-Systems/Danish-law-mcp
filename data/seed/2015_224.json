@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om almene boliger m.v.\\n(Sociale klausuler om uddannelses- og praktikaftaler)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-03-03",
+  "in_force_date": "2015-03-03",
   "url": "https://www.retsinformation.dk/eli/lta/2015/224/xml",
-  "description": "Retsinformation source. DocumentId=BV000232; AccessionNumber=A20150022430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BV000232; AccessionNumber=A20150022430; Ophævet 2015-11-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "107",
@@ -20,8 +21,19 @@
       "section": "107",
       "content": "§ 107 a. Almene boligorganisationer kan i forbindelse med udbud af bygge- og anlægsarbejder og tjenesteydelser anvende sociale klausuler om uddannelses- og praktikaftaler.",
       "valid_from": "2015-03-03",
-      "valid_to": null
+      "valid_to": "2015-11-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:38.256Z",
+    "accession": "A20150022430",
+    "document_id": "BV000232",
+    "unique_document_id": "168605",
+    "upstream_status": "Historic",
+    "start_date": "2015-03-03",
+    "end_date": "2023-04-28",
+    "historic_marked": "2015-11-23",
+    "seed_status": "repealed"
+  }
 }

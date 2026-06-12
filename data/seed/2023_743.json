@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2023-06-13",
+  "in_force_date": "2023-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2023/743/xml",
   "description": "Retsinformation source. DocumentId=AA013651; AccessionNumber=A20230074330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "13a",
       "section": "13a",
       "content": "§ 13 a. Søgsmål til prøvelse af afgørelser efter denne lov skal være anlagt, inden 6 måneder efter at afgørelsen er meddelt.",
-      "valid_from": "2023-06-13",
+      "valid_from": "2023-06-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:59:32.932Z",
+    "accession": "A20230074330",
+    "document_id": "AA013651",
+    "unique_document_id": "238026",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-14",
+    "end_date": "2023-06-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

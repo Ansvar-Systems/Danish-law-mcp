@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om priser m.v. på Lovtidende og Ministerialtidende",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-10-12",
+  "in_force_date": "2001-10-22",
   "url": "https://www.retsinformation.dk/eli/lta/2001/902/xml",
-  "description": "Retsinformation source. DocumentId=AA001543; AccessionNumber=B20010090205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001543; AccessionNumber=B20010090205; Ophævet 2007-12-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:18:33.468Z",
+    "accession": "B20010090205",
+    "document_id": "AA001543",
+    "unique_document_id": "1157",
+    "upstream_status": "Historic",
+    "start_date": "2001-10-22",
+    "end_date": "2012-12-15",
+    "historic_marked": "2007-12-13",
+    "seed_status": "repealed"
+  }
 }

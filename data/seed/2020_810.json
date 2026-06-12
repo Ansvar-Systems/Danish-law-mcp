@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2020-06-09",
+  "in_force_date": "2020-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2020/810/xml",
   "description": "Retsinformation source. DocumentId=AN014427; AccessionNumber=A20200081030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -332,5 +333,16 @@
       "definition": "ved: 1) En afgiftspligtig person, der ikke er etableret i EU: En afgiftspligtig person, som hverken har etableret hjemstedet for sin økonomiske virksomhed eller har et fast forretningssted i EU",
       "source_provision": "66m"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:44:10.504Z",
+    "accession": "A20200081030",
+    "document_id": "AN014427",
+    "unique_document_id": "214935",
+    "upstream_status": "Valid",
+    "start_date": "2020-06-09",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

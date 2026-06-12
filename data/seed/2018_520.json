@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om revision af de anerkendte a-kasser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-23",
+  "in_force_date": "2018-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2018/520/xml",
-  "description": "Retsinformation source. DocumentId=BE007611; AccessionNumber=B20180052005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007611; AccessionNumber=B20180052005; Ophævet 2021-04-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "18",
@@ -19,9 +20,20 @@
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18. Hvis dele af a-kassens it-anvendelse varetages af andre a-kasser eller af tredjepart skal revisor til sikring af, at Europa-Parlementets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesforordningen) og databeskyttelsesloven overholdes, påse, at a-kassen har indhentet revisorattesterede tredjepartserklæringer efter den aktuelt gældende revisionsstandard ISAE 3000 med sikkerhed om beskrivelsen af kontroller rettet mod databeskyttelse og behandling af personoplysninger, der dækker hele regnskabsåret og udarbejdes med høj grad af sikkerhed.",
-      "valid_from": "2018-05-23",
-      "valid_to": null
+      "valid_from": "2018-05-24",
+      "valid_to": "2021-04-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:09:06.403Z",
+    "accession": "B20180052005",
+    "document_id": "BE007611",
+    "unique_document_id": "201442",
+    "upstream_status": "Historic",
+    "start_date": "2018-05-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-04-15",
+    "seed_status": "repealed"
+  }
 }

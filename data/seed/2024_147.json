@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2024-02-19",
+  "in_force_date": "2024-02-19",
   "url": "https://www.retsinformation.dk/eli/lta/2024/147/xml",
   "description": "Retsinformation source. DocumentId=DD000351; AccessionNumber=A20240014729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1642,5 +1643,16 @@
       "definition": "den ansvarlige for driften af et skib, et luftfartøj, en platform eller en rørledning, i det omfang der er tale om en erhvervsmæssig aktivitet",
       "source_provision": "14a:47b"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:41:29.812Z",
+    "accession": "A20240014729",
+    "document_id": "DD000351",
+    "unique_document_id": "241367",
+    "upstream_status": "Valid",
+    "start_date": "2024-02-19",
+    "end_date": "2025-11-06",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

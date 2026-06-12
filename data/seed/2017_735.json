@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-06-13",
+  "in_force_date": "2017-06-15",
   "url": "https://www.retsinformation.dk/eli/lta/2017/735/xml",
   "description": "Retsinformation source. DocumentId=CQ000208; AccessionNumber=B20170073505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Erhvervsstyrelsen forestår førstegangsregistrering af oplysninger til brug for vurderingsmyndighedens ejendomsvurdering om anvendelses- og udnyttelsesmuligheder i gældende rammer for lokalplanlægning i kommuneplaner, jf. lovens § 11 b, lokalplaner, jf. lovens § 15 og tilladelser meddelt efter lovens § 35, stk. 1. Stk. 2. Kommunalbestyrelsen skal afklare tvivlsspørgsmål om oplysninger i de i stk. 1 nævnte planer og tilladelser, såfremt Erhvervsstyrelsen anmoder om det.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-15",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Kommunalbestyrelsen skal senest den 1. september 2017 indberette tilladelser meddelt efter lovens § 35, stk. 1, som er meddelt efter 1. september 2014 og som er gældende pr. 31. august 2017, til Erhvervsstyrelsen. Stk. 2. Kommunalbestyrelsen skal til Erhvervsstyrelsen indberette tilladelser efter lovens § 35, stk. 1, som meddeleles i perioden 1. september 2017 til 31. december 2017, senest 14 dage efter klagefristens udløb. Påklages tilladelsen skal denne dog indberettes senest 14 efter Planklagenævnets afgørelse om opretholdelse af tilladelsen er meddelt adressaten. Stk. 3. Kommunalbestyrelsens indberetning af tilladelser efter § 35, stk. 1, skal ske via en af Erhvervsstyrelsen opsat FTP-server og i et læsbart pdf-format.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-15",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 16. juni 2017.",
-      "valid_from": "2017-06-13",
+      "valid_from": "2017-06-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:30:24.395Z",
+    "accession": "B20170073505",
+    "document_id": "CQ000208",
+    "unique_document_id": "191963",
+    "upstream_status": "Valid",
+    "start_date": "2017-06-15",
+    "end_date": "2024-06-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

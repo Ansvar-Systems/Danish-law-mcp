@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om statsrefusion efter lov om byfornyelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-07",
+  "in_force_date": "2001-02-19",
   "url": "https://www.retsinformation.dk/eli/lta/2001/85/xml",
-  "description": "Retsinformation source. DocumentId=AC000379; AccessionNumber=B20010008505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000379; AccessionNumber=B20010008505; Ophævet 2005-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:16:26.999Z",
+    "accession": "B20010008505",
+    "document_id": "AC000379",
+    "unique_document_id": "4172",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-19",
+    "end_date": "2023-04-29",
+    "historic_marked": "2005-09-21",
+    "seed_status": "repealed"
+  }
 }

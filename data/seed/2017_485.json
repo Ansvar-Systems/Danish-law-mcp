@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af selskabsloven, lov om visse erhvervsdrivende virksomheder, lov om erhvervsdrivende fonde og forskellige andre love (Indførelse af register over reelle ejere)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-05-18",
+  "in_force_date": "2017-05-19",
   "url": "https://www.retsinformation.dk/eli/lta/2017/485/xml",
-  "description": "Retsinformation source. DocumentId=CQ000129; AccessionNumber=B20170048505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000129; AccessionNumber=B20170048505; Ophævet 2020-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 262 af 16. marts 2016 om ændring af selskabsloven, lov om visse erhvervsdrivende virksomheder, lov om erhvervsdrivende fonde og forskellige andre love (Indførelse af register over reelle ejere) sættes i kraft.",
-      "valid_from": "2017-05-18",
-      "valid_to": null
+      "valid_from": "2017-05-19",
+      "valid_to": "2020-12-18"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 23. maj 2017.",
-      "valid_from": "2017-05-18",
-      "valid_to": null
+      "valid_from": "2017-05-19",
+      "valid_to": "2020-12-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:20:22.800Z",
+    "accession": "B20170048505",
+    "document_id": "CQ000129",
+    "unique_document_id": "189885",
+    "upstream_status": "Historic",
+    "start_date": "2017-05-19",
+    "end_date": "2020-12-19",
+    "historic_marked": "2020-12-18",
+    "seed_status": "repealed"
+  }
 }

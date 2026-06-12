@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-02-27",
+  "in_force_date": "2017-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2017/198/xml",
   "description": "Retsinformation source. DocumentId=CQ000040; AccessionNumber=B20170019805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ansvarsgrænsen i § 175, stk. 3, i søloven, som sat i kraft for Færøerne ved kongelig anordning nr. 187 af 8. februar 2017, fastsættes til 1) 775.000 SDR for skibe med en tonnage på 100 tons og derunder, og 2) 1 mio. SDR for skibe med en tonnage fra 101 til 299 tons.",
-      "valid_from": "2017-02-27",
+      "valid_from": "2017-02-28",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. marts 2017.",
-      "valid_from": "2017-02-27",
+      "valid_from": "2017-02-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:08:45.667Z",
+    "accession": "B20170019805",
+    "document_id": "CQ000040",
+    "unique_document_id": "185520",
+    "upstream_status": "Valid",
+    "start_date": "2017-02-28",
+    "end_date": "2017-02-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

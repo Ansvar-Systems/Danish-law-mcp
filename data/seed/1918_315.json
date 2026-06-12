@@ -5,9 +5,21 @@
   "short_name": "Lov",
   "status": "in_force",
   "issued_date": "1918-05-25",
+  "in_force_date": "2000-04-12",
   "url": "https://www.retsinformation.dk/eli/lta/1918/315/xml",
   "description": "Retsinformation source. DocumentId=AL000401; AccessionNumber=A19180031530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:39:21.171Z",
+    "accession": "A19180031530",
+    "document_id": "AL000401",
+    "unique_document_id": "12301",
+    "upstream_status": "Valid",
+    "start_date": "2000-04-12",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

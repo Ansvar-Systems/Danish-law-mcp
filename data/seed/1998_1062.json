@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anvendelse af jordkøbsloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-21",
+  "in_force_date": "1999-01-04",
   "url": "https://www.retsinformation.dk/eli/lta/1998/1062/xml",
-  "description": "Retsinformation source. DocumentId=AH000110; AccessionNumber=B19980106205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000110; AccessionNumber=B19980106205; Ophævet 2006-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:30:46.011Z",
+    "accession": "B19980106205",
+    "document_id": "AH000110",
+    "unique_document_id": "6576",
+    "upstream_status": "Historic",
+    "start_date": "1999-01-04",
+    "end_date": "2022-04-08",
+    "historic_marked": "2006-12-18",
+    "seed_status": "repealed"
+  }
 }

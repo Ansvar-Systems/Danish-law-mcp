@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om opkrævning af skatter og afgifter m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-15",
+  "in_force_date": "2000-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/2000/169/xml",
-  "description": "Retsinformation source. DocumentId=AN000864; AccessionNumber=A20000016930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000864; AccessionNumber=A20000016930; Ophævet 2003-05-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:08:30.900Z",
+    "accession": "A20000016930",
+    "document_id": "AN000864",
+    "unique_document_id": "13707",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-15",
+    "end_date": "2014-10-21",
+    "historic_marked": "2003-05-05",
+    "seed_status": "repealed"
+  }
 }

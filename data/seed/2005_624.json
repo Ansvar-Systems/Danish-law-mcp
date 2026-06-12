@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om skadedækning fra Byggeskadefonden",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-23",
+  "in_force_date": "2005-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/2005/624/xml",
-  "description": "Retsinformation source. DocumentId=AO002681; AccessionNumber=B20050062405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002681; AccessionNumber=B20050062405; Ophævet 2011-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:27:44.261Z",
+    "accession": "B20050062405",
+    "document_id": "AO002681",
+    "unique_document_id": "20381",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-04",
+    "end_date": "2023-04-28",
+    "historic_marked": "2011-06-28",
+    "seed_status": "repealed"
+  }
 }

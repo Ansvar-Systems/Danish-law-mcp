@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Det Økonomiske Råd og Det Miljøøkonomiske Råd (Formandskabets vurdering af adfærdsforudsætninger og ændret sammensætning af Det Økonomiske Råd og Det Miljøøkonomiske Råd m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-03-16",
+  "in_force_date": "2021-03-16",
   "url": "https://www.retsinformation.dk/eli/lta/2021/428/xml",
-  "description": "Retsinformation source. DocumentId=AE002866; AccessionNumber=A20210042830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE002866; AccessionNumber=A20210042830; Ophævet 2021-09-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3b",
@@ -20,8 +21,19 @@
       "section": "3b",
       "content": "§ 3 b. Følges formandskabets anbefalinger efter § 3, stk. 7, 1. pkt., ikke, skal finansministeren offentligt redegøre herfor.",
       "valid_from": "2021-03-16",
-      "valid_to": null
+      "valid_to": "2021-09-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:38:25.935Z",
+    "accession": "A20210042830",
+    "document_id": "AE002866",
+    "unique_document_id": "221373",
+    "upstream_status": "Historic",
+    "start_date": "2021-03-16",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-09-06",
+    "seed_status": "repealed"
+  }
 }

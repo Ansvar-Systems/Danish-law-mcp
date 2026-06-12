@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om støtte til dyrkning af proteinafgrøder",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-03-17",
+  "in_force_date": "2009-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2009/205/xml",
-  "description": "Retsinformation source. DocumentId=AH003299; AccessionNumber=B20090020505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003299; AccessionNumber=B20090020505; Ophævet 2010-02-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Marker med proteinafgrøder skal udgøre et sammenhængende areal på mindst 0,30 ha.",
-      "valid_from": "2009-03-17",
-      "valid_to": null
+      "valid_from": "2009-03-19",
+      "valid_to": "2010-02-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:02:26.896Z",
+    "accession": "B20090020505",
+    "document_id": "AH003299",
+    "unique_document_id": "123983",
+    "upstream_status": "Historic",
+    "start_date": "2009-03-19",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-02-09",
+    "seed_status": "repealed"
+  }
 }

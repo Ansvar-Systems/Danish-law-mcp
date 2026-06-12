@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2024-06-11",
+  "in_force_date": "2024-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/616/xml",
   "description": "Retsinformation source. DocumentId=DH001880; AccessionNumber=A20240061630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -157,5 +158,16 @@
       "definition": "en mulighed for, at bor‍geren kan tjene op til 41",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:11:43.707Z",
+    "accession": "A20240061630",
+    "document_id": "DH001880",
+    "unique_document_id": "243541",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-11",
+    "end_date": "2025-12-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

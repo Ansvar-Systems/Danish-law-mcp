@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til demonstrationsprojekter om bevaring og bæredygtig udnyttelse af plantegenetiske ressourcer for jordbrug og fødevarer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-10-04",
+  "in_force_date": "2013-10-11",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1182/xml",
-  "description": "Retsinformation source. DocumentId=AH005012; AccessionNumber=B20130118205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005012; AccessionNumber=B20130118205; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -24,16 +25,27 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. NaturErhvervstyrelsen forestår den fysiske og den administrative kontrol samt den efterfølgende regnskabskontrol efter denne bekendtgørelse. Stk. 2. NaturErhvervstyrelsen kan til brug for kontrollen indhente oplysninger fra andre myndigheder i fornødent omfang i overensstemmelse med landdistriktslovens § 12.",
-      "valid_from": "2013-10-04",
-      "valid_to": null
+      "valid_from": "2013-10-11",
+      "valid_to": "2015-12-22"
     },
     {
       "provision_ref": "19",
       "section": "19",
       "content": "§ 19. Udbetaling af tilskud sker på baggrund af tilsagnshavers opgørelse over betalte tilskudsberettigede udgifter. Anmodning om udbetaling af tilskud skal indsendes på et særligt skema og vedlægges alle udgiftsbilag samt dokumentation for betaling. Skema til udbetalingsanmodning findes på NaturErhvervstyrelsens hjemmeside eller fås ved henvendelse til NaturErhvervstyrelsen.",
-      "valid_from": "2013-10-04",
-      "valid_to": null
+      "valid_from": "2013-10-11",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:33:37.571Z",
+    "accession": "B20130118205",
+    "document_id": "AH005012",
+    "unique_document_id": "158409",
+    "upstream_status": "Historic",
+    "start_date": "2013-10-11",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

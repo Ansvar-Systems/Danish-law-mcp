@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om finansielle rapporter for danske UCITS",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-10",
+  "in_force_date": "2018-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1515/xml",
-  "description": "Retsinformation source. DocumentId=CQ000704; AccessionNumber=B20180151505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000704; AccessionNumber=B20180151505; Ophævet 2019-12-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "53a",
@@ -19,9 +20,20 @@
       "provision_ref": "53a",
       "section": "53a",
       "content": "§ 53 a. Danske UCITS, der ikke har delegeret den daglige ledelse til et investeringsforvaltningsselskab eller et administrationsselskab, skal oplyse følgende: 1) Den samlede lønsum i regnskabsåret, fordelt på fast og variabel løn, der udbetales af den danske UCITS til ansatte, antal modtagere og, hvis det er relevant, ethvert beløb, der udbetales direkte af den danske UCITS, herunder ethvert resultatafhængigt gebyr. 2) Den samlede lønsum fordelt på kategorier af medarbejdere eller andre kategorier af ansatte, jf. § 3, stk. 2, i bekendtgørelse om lønpolitik og aflønning i pengeinstitutter, realkreditinstitutter, fondsmæglerselskaber, investeringsforvaltningsselskaber, finansielle holdingvirksomheder og investeringsforeninger. 3) En beskrivelse af, hvordan løn og goder beregnes. 4) Resultatet af gennemgangen i § 6 og § 7, stk. 1, i bekendtgørelse om lønpolitik og aflønning i pengeinstitutter, realkreditinstitutter, fondsmæglerselskaber, investeringsforvaltningsselskaber, finansielle holdingvirksomheder og investeringsforeninger, herunder eventuelle uregelmæssigheder, der har fundet sted. 5) Væsentlige ændringer af den fastlagte aflønningspolitik.",
-      "valid_from": "2018-12-10",
-      "valid_to": null
+      "valid_from": "2018-12-18",
+      "valid_to": "2019-12-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:43:22.752Z",
+    "accession": "B20180151505",
+    "document_id": "CQ000704",
+    "unique_document_id": "203928",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-18",
+    "end_date": "2023-11-08",
+    "historic_marked": "2019-12-11",
+    "seed_status": "repealed"
+  }
 }

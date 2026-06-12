@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tinglysning i personbogen",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-11-04",
+  "in_force_date": "2005-11-14",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1055/xml",
-  "description": "Retsinformation source. DocumentId=AA003076; AccessionNumber=B20050105505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003076; AccessionNumber=B20050105505; Ophævet 2011-03-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:51:07.659Z",
+    "accession": "B20050105505",
+    "document_id": "AA003076",
+    "unique_document_id": "2226",
+    "upstream_status": "Historic",
+    "start_date": "2005-11-14",
+    "end_date": "2011-03-18",
+    "historic_marked": "2011-03-17",
+    "seed_status": "repealed"
+  }
 }

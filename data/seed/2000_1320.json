@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om refusion af udgifter til uddannelse i forbindelse med aktivering m.m.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1320/xml",
-  "description": "Retsinformation source. DocumentId=AT000652; AccessionNumber=A20000132030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000652; AccessionNumber=A20000132030; Ophævet 2002-09-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:03:23.046Z",
+    "accession": "A20000132030",
+    "document_id": "AT000652",
+    "unique_document_id": "23648",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2022-12-31",
+    "historic_marked": "2002-09-12",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til investeringer på økologiske bedrifter",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-11-03",
+  "in_force_date": "2022-11-04",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1435/xml",
-  "description": "Retsinformation source. DocumentId=DC000746; AccessionNumber=B20220143505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DC000746; AccessionNumber=B20220143505; Ophævet 2022-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10. Projektperioden løber fra ansøgning om tilsagn er modtaget i Landbrugsstyrelsen og frem til den 1. december 2023, medmindre andet bliver meddelt af Landbrugsstyrelsen.",
-      "valid_from": "2022-11-03",
-      "valid_to": null
+      "valid_from": "2022-11-04",
+      "valid_to": "2022-11-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:19:03.259Z",
+    "accession": "B20220143505",
+    "document_id": "DC000746",
+    "unique_document_id": "233510",
+    "upstream_status": "Historic",
+    "start_date": "2022-11-04",
+    "end_date": "2022-12-01",
+    "historic_marked": "2022-11-30",
+    "seed_status": "repealed"
+  }
 }

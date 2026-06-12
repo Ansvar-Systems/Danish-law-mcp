@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1677/xml",
   "description": "Retsinformation source. DocumentId=DB001082; AccessionNumber=A20240167730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -53,5 +54,16 @@
       "definition": "et sæt aftalte betingelser for tilslutning af elektrisk kapacitet til nettet, som indeholder betingelser for begrænsning af og kontrol med indfødning af elektricitet til og udtag fra transmissionsnettet eller distributionsnettet",
       "source_provision": "25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:49:56.397Z",
+    "accession": "A20240167730",
+    "document_id": "DB001082",
+    "unique_document_id": "247146",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-30",
+    "end_date": "2025-11-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om valg af danske repræsentanter til Europa-Parlamentet (* 1)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-03-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/157/xml",
-  "description": "Retsinformation source. DocumentId=CM011501; AccessionNumber=A19940015729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011501; AccessionNumber=A19940015729; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:44:34.593Z",
+    "accession": "A19940015729",
+    "document_id": "CM011501",
+    "unique_document_id": "52665",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-07-11",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

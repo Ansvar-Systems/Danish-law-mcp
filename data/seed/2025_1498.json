@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-12-01",
+  "in_force_date": "2025-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1498/xml",
   "description": "Retsinformation source. DocumentId=DB001306; AccessionNumber=B20250149805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Energinet og denne virksomheds helejede datterselskaber betaler et aktivitetsbaseret gebyr til dækning af Energistyrelsens omkostninger ved udøvelse af myndighedsbehandling omfattet af lov om miljøvurderinger vedrørende projekt om etablering af brintinfrastruktur fra Danmark til Tyskland med Energinet som bygherre.",
-      "valid_from": "2025-12-01",
+      "valid_from": "2025-12-04",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Energistyrelsen opkræver betaling efter § 1. Stk. 2. Energistyrelsens omkostninger ved udøvelsen af myndighedsbehandlingen, jf. § 1, beregnes på grundlag af de medgåede direkte og indirekte omkostninger. Omkostningerne omfatter bl.a. medgået tid til sagsbehandling og tilsyn, en forholdsmæssig andel af fællesomkostninger, samt dokumenterbare udgifter til nødvendig ekstern bistand, herunder konsulentbistand og bistand fra andre myndigheder. Omkostningerne omfatter herudover omkostninger til IT-drift, udgifter til udvikling af tilsynsplaner m.v., rejseomkostninger, udarbejdelse af administrationsgrundlag og anlæg i form af f.eks. bil eller IT-systemer m.v. Stk. 3. Energistyrelsen udsender halvårligt fakturaer til opkrævning, jf. stk. 1 og 2, til Energinet. Stk. 4. Beløb, der opkræves efter stk. 3, skal indbetales senest 30 dage efter fakturaens udstedelse. Stk. 5. Betales det opkrævede beløb ikke rettidigt, skal der betales renter heraf i medfør af renteloven. Stk. 6. Gebyret tilbagebetales ikke, selv om Energinet tilbagekalder ansøgningen, eller projektet ikke realiseres.",
-      "valid_from": "2025-12-01",
+      "valid_from": "2025-12-04",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. december 2025. Stk. 2. Der opkræves for 2025 gebyr efter § 1 til dækning af Energistyrelsens omkostninger afholdt fra og med den 19. maj 2025.",
-      "valid_from": "2025-12-01",
+      "valid_from": "2025-12-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:47:27.281Z",
+    "accession": "B20250149805",
+    "document_id": "DB001306",
+    "unique_document_id": "253897",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-04",
+    "end_date": "2025-12-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

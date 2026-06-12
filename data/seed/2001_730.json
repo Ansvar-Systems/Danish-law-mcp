@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om overgangsydelse",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-16",
+  "in_force_date": "2001-08-23",
   "url": "https://www.retsinformation.dk/eli/lta/2001/730/xml",
-  "description": "Retsinformation source. DocumentId=AB001171; AccessionNumber=B20010073005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001171; AccessionNumber=B20010073005; Ophævet 2004-02-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:11:43.720Z",
+    "accession": "B20010073005",
+    "document_id": "AB001171",
+    "unique_document_id": "3777",
+    "upstream_status": "Historic",
+    "start_date": "2001-08-23",
+    "end_date": "2006-12-21",
+    "historic_marked": "2004-02-19",
+    "seed_status": "repealed"
+  }
 }

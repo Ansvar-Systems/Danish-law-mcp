@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 026 for radioanlæg til brug for personalarmer",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-06-01",
+  "in_force_date": "2015-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2015/760/xml",
-  "description": "Retsinformation source. DocumentId=BP001273; AccessionNumber=B20150076005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001273; AccessionNumber=B20150076005; Ophævet 2018-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. For radioanlæg til brug for personalarmer gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 026 for radioanlæg til brug for personalarmer.",
-      "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_from": "2015-06-04",
+      "valid_to": "2018-05-31"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juni 2015.",
-      "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_from": "2015-06-04",
+      "valid_to": "2018-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:22:13.728Z",
+    "accession": "B20150076005",
+    "document_id": "BP001273",
+    "unique_document_id": "169675",
+    "upstream_status": "Historic",
+    "start_date": "2015-06-04",
+    "end_date": "2026-06-04",
+    "historic_marked": "2018-05-31",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-01-03",
+  "in_force_date": "2014-01-04",
   "url": "https://www.retsinformation.dk/eli/lta/2014/2/xml",
   "description": "Retsinformation source. DocumentId=AH005095; AccessionNumber=B20140000205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 846 af 22. oktober 1993 om ændring af bilagene til lov om husdyrsygdomme. 2) Bekendtgørelse nr. 469 af 16. juni 1999 om ændring af bilagene til lov om husdyrsygdomme. 3) Bekendtgørelse nr. 48 af 31. januar 2008 om fastsættelse af risikoniveau i relation til bekendtgørelse om forebyggende foranstaltninger mod aviær influenza og bekendtgørelse om opdræt af fjervildt. 4) Bekendtgørelse nr. 216 af 23. marts 2009 om særlige foranstaltninger og erstatning i forbindelse med udryddelse af egtvedsyge. 5) Bekendtgørelse nr. 82 af 26. januar 2011 om tilskud til overvågning af BSE hos kvæg 2009.",
-      "valid_from": "2014-01-03",
+      "valid_from": "2014-01-04",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. januar 2014.",
-      "valid_from": "2014-01-03",
+      "valid_from": "2014-01-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:53:02.624Z",
+    "accession": "B20140000205",
+    "document_id": "AH005095",
+    "unique_document_id": "161133",
+    "upstream_status": "Valid",
+    "start_date": "2014-01-04",
+    "end_date": "2024-01-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

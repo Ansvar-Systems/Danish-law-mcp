@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om gebyrer og omkostninger ved Forbrugerklagenævnet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-12",
+  "in_force_date": "2003-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1119/xml",
-  "description": "Retsinformation source. DocumentId=AU001368; AccessionNumber=B20030111905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001368; AccessionNumber=B20030111905; Ophævet 2007-03-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:11:30.913Z",
+    "accession": "B20030111905",
+    "document_id": "AU001368",
+    "unique_document_id": "26481",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-22",
+    "end_date": "2017-12-09",
+    "historic_marked": "2007-03-01",
+    "seed_status": "repealed"
+  }
 }

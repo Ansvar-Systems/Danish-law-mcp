@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om registrering af og tilsyn med visse private sygehuse, klinikker og praksis",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-17",
+  "in_force_date": "2015-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1804/xml",
-  "description": "Retsinformation source. DocumentId=CN000096; AccessionNumber=B20150180405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000096; AccessionNumber=B20150180405; Ophævet 2017-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -19,9 +20,20 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17. Betalingen af de i §§ 11 og 12 nævnte gebyrer forfalder årligt i december måned, jf. dog stk. 3.",
-      "valid_from": "2015-12-17",
-      "valid_to": null
+      "valid_from": "2015-12-23",
+      "valid_to": "2017-01-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:51.905Z",
+    "accession": "B20150180405",
+    "document_id": "CN000096",
+    "unique_document_id": "176251",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-23",
+    "end_date": "2022-07-12",
+    "historic_marked": "2017-01-31",
+    "seed_status": "repealed"
+  }
 }

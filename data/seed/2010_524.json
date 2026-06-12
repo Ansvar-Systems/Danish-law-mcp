@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om udbygning af Fynske Motorvej mellem Odense Vest og Middelfart",
   "short_name": "LOV H#LOKDOK01",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-26",
+  "in_force_date": "2010-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2010/524/xml",
-  "description": "Retsinformation source. DocumentId=BL000342; AccessionNumber=A20100052430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000342; AccessionNumber=A20100052430; Ophævet 2025-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -35,29 +36,40 @@
       "section": "1",
       "content": "§ 1. Transportministeren bemyndiges til at udbygge hovedlandevej 40, Fynske Motorvej (E20), på strækningen mellem Odense Vest og Middelfart fra fire til seks spor. Stk. 2. Strækningen, der omfattes af udbygningen, fremgår af bilag 1.",
       "valid_from": "2010-05-26",
-      "valid_to": null
+      "valid_to": "2025-12-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. På den i § 1 nævnte strækning kan der pålægges byggelinjer med en indbyrdes afstand på op til 120 m. Reglerne om byggelinjer i lov om offentlige veje finder tilsvarende anvendelse på byggelinjer pålagt i medfør af denne lov.",
       "valid_from": "2010-05-26",
-      "valid_to": null
+      "valid_to": "2025-12-16"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Transportministeren kan i særlige tilfælde efter anmodning fra ejeren ekspropriere en ejendom, der berøres særligt indgribende af det i loven nævnte projekt, før tidspunktet for de ordinære ekspropriationer. Stk. 2. Erstatningen fastsættes af ekspropriations- og taksationsmyndighederne i henhold til lov om fremgangsmåden ved ekspropriationer vedrørende fast ejendom.",
       "valid_from": "2010-05-26",
-      "valid_to": null
+      "valid_to": "2025-12-16"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.",
       "valid_from": "2010-05-26",
-      "valid_to": null
+      "valid_to": "2025-12-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:18:57.310Z",
+    "accession": "A20100052430",
+    "document_id": "BL000342",
+    "unique_document_id": "131908",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-12-16",
+    "seed_status": "repealed"
+  }
 }

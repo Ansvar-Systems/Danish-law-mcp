@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om udstationering af lønmodtagere\\n(Udvidelse af anmeldelsespligten for udenlandske tjenesteydere samt pligt for hvervgiver til at medvirke til at sikre, at der sker anmeldelse til RUT)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-19",
+  "in_force_date": "2010-05-19",
   "url": "https://www.retsinformation.dk/eli/lta/2010/509/xml",
-  "description": "Retsinformation source. DocumentId=BE004183; AccessionNumber=A20100050930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE004183; AccessionNumber=A20100050930; Ophævet 2011-03-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -25,15 +26,26 @@
       "section": "7",
       "content": "§ 7 d. Tjenesteyderen har pligt til, senest samtidig med at levering af tjenesteydelsen påbegyndes, at give dokumentation til hvervgiver for, at anmeldelse er foretaget, jf. § 7 a, stk. 1 og 2, hvis tjenesteydelsen angår bygge- og anlægsvirksomhed eller landbrug, skovbrug og gartneri.",
       "valid_from": "2010-05-19",
-      "valid_to": null
+      "valid_to": "2011-03-30"
     },
     {
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 b. I forskrifter, der udstedes i medfør af loven, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i forskrifterne.",
       "valid_from": "2010-05-19",
-      "valid_to": null
+      "valid_to": "2011-03-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:18:18.525Z",
+    "accession": "A20100050930",
+    "document_id": "BE004183",
+    "unique_document_id": "131902",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-19",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-03-30",
+    "seed_status": "repealed"
+  }
 }

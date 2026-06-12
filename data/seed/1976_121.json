@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kemikalieaffald.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1976-03-17",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1976/121/xml",
-  "description": "Retsinformation source. DocumentId=CM006908; AccessionNumber=B19760012105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006908; AccessionNumber=B19760012105; Ophævet 1989-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:47:38.562Z",
+    "accession": "B19760012105",
+    "document_id": "CM006908",
+    "unique_document_id": "48106",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1989-12-29",
+    "seed_status": "repealed"
+  }
 }

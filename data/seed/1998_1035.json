@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om stempelafgift",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-23",
+  "in_force_date": "1998-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/1998/1035/xml",
-  "description": "Retsinformation source. DocumentId=AN000276; AccessionNumber=A19980103530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000276; AccessionNumber=A19980103530; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:29:41.763Z",
+    "accession": "A19980103530",
+    "document_id": "AN000276",
+    "unique_document_id": "13328",
+    "upstream_status": "Historic",
+    "start_date": "1998-12-27",
+    "end_date": "2002-05-30",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

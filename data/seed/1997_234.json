@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forbrugeraftaler, der giver brugsret til fast ejendom på timesharebasis (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-04-02",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1997/234/xml",
-  "description": "Retsinformation source. DocumentId=CM043530; AccessionNumber=A19970023430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043530; AccessionNumber=A19970023430; Ophævet 2011-02-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:57:55.623Z",
+    "accession": "A19970023430",
+    "document_id": "CM043530",
+    "unique_document_id": "84099",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2011-08-25",
+    "historic_marked": "2011-02-15",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fortegnelse over erhvervssygdomme anmeldt fra 1. januar 2005",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-11-03",
+  "in_force_date": "2006-11-16",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1082/xml",
-  "description": "Retsinformation source. DocumentId=BE002023; AccessionNumber=B20060108205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE002023; AccessionNumber=B20060108205; Ophævet 2007-04-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:46:09.467Z",
+    "accession": "B20060108205",
+    "document_id": "BE002023",
+    "unique_document_id": "30898",
+    "upstream_status": "Historic",
+    "start_date": "2006-11-16",
+    "end_date": "2026-06-12",
+    "historic_marked": "2007-04-19",
+    "seed_status": "repealed"
+  }
 }

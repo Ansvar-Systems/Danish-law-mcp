@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-08-12",
+  "in_force_date": "2020-08-15",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1210/xml",
   "description": "Retsinformation source. DocumentId=AE002789; AccessionNumber=B20200121005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Satsreguleringsprocenten for finansåret 2021 udgør 2,0, jf. § 2 i lov om en satsreguleringsprocent.",
-      "valid_from": "2020-08-12",
+      "valid_from": "2020-08-15",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Tilpasningsprocenten for finansåret 2021 udgør 0,3, jf. § 3 i lov om en satsreguleringsprocent.",
-      "valid_from": "2020-08-12",
+      "valid_from": "2020-08-15",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Satstilpasningsprocenten for finansåret 2021 udgør 0,0, jf. § 4 i lov om en satsreguleringsprocent.",
-      "valid_from": "2020-08-12",
+      "valid_from": "2020-08-15",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 31. august 2020.",
-      "valid_from": "2020-08-12",
+      "valid_from": "2020-08-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:37:01.518Z",
+    "accession": "B20200121005",
+    "document_id": "AE002789",
+    "unique_document_id": "215986",
+    "upstream_status": "Valid",
+    "start_date": "2020-08-15",
+    "end_date": "2021-04-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

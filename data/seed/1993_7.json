@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af bekendtgørelse om betaling for varig hjemmehjælp",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-01-05",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1993/7/xml",
-  "description": "Retsinformation source. DocumentId=CM011844; AccessionNumber=B19930000705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011844; AccessionNumber=B19930000705; Ophævet 1998-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:23:29.251Z",
+    "accession": "B19930000705",
+    "document_id": "CM011844",
+    "unique_document_id": "52996",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-08",
+    "historic_marked": "1998-06-09",
+    "seed_status": "repealed"
+  }
 }

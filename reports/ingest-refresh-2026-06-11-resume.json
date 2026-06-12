@@ -1,0 +1,68 @@
+{
+  "run_started_at": "2026-06-11T07:43:16.603Z",
+  "finished_at": "2026-06-12T05:20:58.558Z",
+  "mode": "refresh",
+  "options": {
+    "dryRun": false,
+    "refresh": true,
+    "delayMs": 2000,
+    "skipStampedSince": "2026-06-10T20:22:27.000Z",
+    "reportPath": "reports/ingest-refresh-2026-06-11-resume.json"
+  },
+  "decisions": {
+    "fetch_new": 13,
+    "skip_current": 2528,
+    "refetch_unknown": 60463,
+    "refetch_changed": 5
+  },
+  "stats": {
+    "total": 63009,
+    "fetched": 35724,
+    "skipped": 2299,
+    "failed": [
+      {
+        "id": "1993_1054",
+        "error": "HTTP 404 but the sitemap lists this document — contradictory evidence, treating as failure, seed kept"
+      },
+      {
+        "id": "1993_1078",
+        "error": "fetch https://www.retsinformation.dk/eli/lta/1993/1078/xml failed after 4 attempts: HTTP 500"
+      },
+      {
+        "id": "1993_1112",
+        "error": "fetch https://www.retsinformation.dk/eli/lta/1993/1112/xml failed after 4 attempts: HTTP 500"
+      },
+      {
+        "id": "1993_393",
+        "error": "fetch https://www.retsinformation.dk/eli/lta/1993/393/xml failed after 4 attempts: HTTP 500"
+      },
+      {
+        "id": "1993_991",
+        "error": "HTTP 404 but the sitemap lists this document — contradictory evidence, treating as failure, seed kept"
+      },
+      {
+        "id": "1995_674",
+        "error": "fetch https://www.retsinformation.dk/eli/lta/1995/674/xml failed after 4 attempts: HTTP 500"
+      },
+      {
+        "id": "1995_767",
+        "error": "fetch https://www.retsinformation.dk/eli/lta/1995/767/xml failed after 4 attempts: HTTP 500"
+      },
+      {
+        "id": "1997_749",
+        "error": "fetch https://www.retsinformation.dk/eli/lta/1997/749/xml failed after 4 attempts: HTTP 500"
+      },
+      {
+        "id": "2002_405",
+        "error": "fetch https://www.retsinformation.dk/eli/lta/2002/405/xml failed after 4 attempts: HTTP 500"
+      },
+      {
+        "id": "2007_815",
+        "error": "fetch https://www.retsinformation.dk/eli/lta/2007/815/xml failed after 4 attempts: HTTP 500"
+      }
+    ],
+    "goneUpstream": []
+  },
+  "interrupted_by": "SIGTERM",
+  "partial": true
+}

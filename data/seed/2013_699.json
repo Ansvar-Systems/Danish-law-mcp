@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2013-06-20",
+  "in_force_date": "2013-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2013/699/xml",
   "description": "Retsinformation source. DocumentId=BN000343; AccessionNumber=B20130069905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 2, i lov nr. 1348 af 21. december 2012 om ændring af lov om erhvervsuddannelser (Praktikcentre og hurtigere optagelse til skolepraktik m.v.) sættes i kraft.",
-      "valid_from": "2013-06-20",
+      "valid_from": "2013-06-21",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. § 1, nr. 5, i lov nr. 1348 af 21. december 2012 om ændring af lov om erhvervsuddannelser (Praktikcentre og hurtigere optagelse til skolepraktik m.v.) sættes i kraft.",
-      "valid_from": "2013-06-20",
+      "valid_from": "2013-06-21",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 26. juni 2013, jf. dog stk. 2. Stk. 2. § 2 træder i kraft den 1. september 2013.",
-      "valid_from": "2013-06-20",
+      "valid_from": "2013-06-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:14:50.033Z",
+    "accession": "B20130069905",
+    "document_id": "BN000343",
+    "unique_document_id": "152418",
+    "upstream_status": "Valid",
+    "start_date": "2013-06-21",
+    "end_date": "2026-03-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

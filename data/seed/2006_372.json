@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af fiskerilov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-04-26",
+  "in_force_date": "2006-05-08",
   "url": "https://www.retsinformation.dk/eli/lta/2006/372/xml",
-  "description": "Retsinformation source. DocumentId=AH002219; AccessionNumber=A20060037229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002219; AccessionNumber=A20060037229; Ophævet 2008-10-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:21:15.066Z",
+    "accession": "A20060037229",
+    "document_id": "AH002219",
+    "unique_document_id": "8370",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-08",
+    "end_date": "2022-04-08",
+    "historic_marked": "2008-10-02",
+    "seed_status": "repealed"
+  }
 }

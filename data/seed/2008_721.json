@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "bekendtgørelse om ændring af bekendtgørelse om visse forureninger i fødevarer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-07-03",
+  "in_force_date": "2008-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2008/721/xml",
-  "description": "Retsinformation source. DocumentId=AH002976; AccessionNumber=B20080072105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002976; AccessionNumber=B20080072105; Ophævet 2014-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:26:11.218Z",
+    "accession": "B20080072105",
+    "document_id": "AH002976",
+    "unique_document_id": "120578",
+    "upstream_status": "Historic",
+    "start_date": "2008-07-05",
+    "end_date": "2022-04-09",
+    "historic_marked": "2014-08-19",
+    "seed_status": "repealed"
+  }
 }

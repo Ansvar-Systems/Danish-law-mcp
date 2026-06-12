@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om dansk indfødsret.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1950-05-27",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1950/252/xml",
-  "description": "Retsinformation source. DocumentId=CM011594; AccessionNumber=A19500025230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011594; AccessionNumber=A19500025230; Ophævet 1991-07-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:56:17.022Z",
+    "accession": "A19500025230",
+    "document_id": "CM011594",
+    "unique_document_id": "52758",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-06",
+    "historic_marked": "1991-07-18",
+    "seed_status": "repealed"
+  }
 }

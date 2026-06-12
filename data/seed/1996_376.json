@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om banker og sparekasser m.v., lov om investeringsforeninger og lov om forsikringsvirksomhed og forskellige andre love (* 1)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-05-22",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/376/xml",
-  "description": "Retsinformation source. DocumentId=CM043793; AccessionNumber=A19960037630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043793; AccessionNumber=A19960037630; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:22:19.001Z",
+    "accession": "A19960037630",
+    "document_id": "CM043793",
+    "unique_document_id": "84361",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Statsministeriets bekendtgørelse af 7. september 2000 vedrørende folkeafstemning om det af Folketinget vedtagne lovforslag om Danmarks deltagelse i den fælles valuta",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-07",
+  "in_force_date": "2000-09-11",
   "url": "https://www.retsinformation.dk/eli/lta/2000/850/xml",
-  "description": "Retsinformation source. DocumentId=AP000023; AccessionNumber=B20000085005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AP000023; AccessionNumber=B20000085005; Ophævet 2000-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:35:59.144Z",
+    "accession": "B20000085005",
+    "document_id": "AP000023",
+    "unique_document_id": "20955",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-11",
+    "end_date": "2001-02-09",
+    "historic_marked": "2000-09-29",
+    "seed_status": "repealed"
+  }
 }

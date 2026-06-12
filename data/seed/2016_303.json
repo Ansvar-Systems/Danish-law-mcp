@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-03-19",
+  "in_force_date": "2016-03-31",
   "url": "https://www.retsinformation.dk/eli/lta/2016/303/xml",
   "description": "Retsinformation source. DocumentId=CK000579; AccessionNumber=B20160030305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 325 af 28. april 2009 om forbud mod import og salg af varer, der indeholder dimethylfumarat (DMF) ophæves.",
-      "valid_from": "2016-03-19",
+      "valid_from": "2016-03-31",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. april 2016.",
-      "valid_from": "2016-03-19",
+      "valid_from": "2016-03-31",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:08:46.285Z",
+    "accession": "B20160030305",
+    "document_id": "CK000579",
+    "unique_document_id": "178953",
+    "upstream_status": "Valid",
+    "start_date": "2016-03-31",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

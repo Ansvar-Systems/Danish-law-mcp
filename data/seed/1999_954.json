@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om afgift af polyvinylklorid og ftalater",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-20",
+  "in_force_date": "1999-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/1999/954/xml",
-  "description": "Retsinformation source. DocumentId=AN000777; AccessionNumber=A19990095430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000777; AccessionNumber=A19990095430; Ophævet 2007-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:48:39.220Z",
+    "accession": "A19990095430",
+    "document_id": "AN000777",
+    "unique_document_id": "13636",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-20",
+    "end_date": "2017-06-14",
+    "historic_marked": "2007-03-29",
+    "seed_status": "repealed"
+  }
 }

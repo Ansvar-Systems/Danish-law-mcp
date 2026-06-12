@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-10-13",
+  "in_force_date": "2025-10-13",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1211/xml",
   "description": "Retsinformation source. DocumentId=DL000038; AccessionNumber=B20250121105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -241,5 +242,16 @@
       "definition": "en ikke-statslig redningstjeneste på kommunalt eller tilsvarende niveau i Tyskland og Sverige",
       "source_provision": "3:9"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:35:53.063Z",
+    "accession": "B20250121105",
+    "document_id": "DL000038",
+    "unique_document_id": "251938",
+    "upstream_status": "Valid",
+    "start_date": "2025-10-13",
+    "end_date": "2025-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

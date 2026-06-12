@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om produktionsskoler",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-29",
+  "in_force_date": "1999-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1124/xml",
-  "description": "Retsinformation source. DocumentId=AT000282; AccessionNumber=A19990112430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000282; AccessionNumber=A19990112430; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:12:35.405Z",
+    "accession": "A19990112430",
+    "document_id": "AT000282",
+    "unique_document_id": "23373",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-30",
+    "end_date": "2021-01-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om støtte til almene boliger m.v.\\n(Energitillæg)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-10-07",
+  "in_force_date": "2009-10-10",
   "url": "https://www.retsinformation.dk/eli/lta/2009/962/xml",
-  "description": "Retsinformation source. DocumentId=BM000200; AccessionNumber=B20090096205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BM000200; AccessionNumber=B20090096205; Ophævet 2009-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15",
@@ -19,9 +20,20 @@
       "provision_ref": "15",
       "section": "15",
       "content": "§ 15 a. For tilsagn efter § 115, stk. 1-5 og § 117, stk. 1, i lov om almene boliger m.v. meddelt fra og med den 1. juli 2009 forhøjes maksimumsbeløbet med et energitillæg på 1.020 kr. pr. m2 boligareal for etagebyggeri og 880 kr. pr. m2 boligareal for lavt byggeri (uden vandret lejlighedsskel). § 15, stk. 2, 3. og 4. pkt., finder tilsvarende anvendelse for reguleringen af energitillægget. Stk. 2. Nybyggeri med tilsagn som nævnt i stk. 1 skal opfylde energikravene til lavenergibygninger klasse 2 i Bygningsreglement 2008, indtil et nyt bygningsreglement træder i kraft. Stk. 3. Energitillæg efter stk. 1 til tilsagn til på- og tilbygning samt ombygning gælder først for tilsagn, som meddeles efter, at et nyt bygningsreglement er trådt i kraft, medmindre på- og tilbygningerne samt ombygningerne opfylder de energikrav, der er nævnt i stk. 2.",
-      "valid_from": "2009-10-07",
-      "valid_to": null
+      "valid_from": "2009-10-10",
+      "valid_to": "2009-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:33:17.534Z",
+    "accession": "B20090096205",
+    "document_id": "BM000200",
+    "unique_document_id": "127706",
+    "upstream_status": "Historic",
+    "start_date": "2009-10-10",
+    "end_date": "2023-04-28",
+    "historic_marked": "2009-12-17",
+    "seed_status": "repealed"
+  }
 }

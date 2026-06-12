@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om havne",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-05-28",
+  "in_force_date": "1999-05-31",
   "url": "https://www.retsinformation.dk/eli/lta/1999/326/xml",
-  "description": "Retsinformation source. DocumentId=AR000151; AccessionNumber=A19990032630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000151; AccessionNumber=A19990032630; Ophævet 2009-04-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:23:37.592Z",
+    "accession": "A19990032630",
+    "document_id": "AR000151",
+    "unique_document_id": "21843",
+    "upstream_status": "Historic",
+    "start_date": "1999-05-31",
+    "end_date": "2023-11-08",
+    "historic_marked": "2009-04-03",
+    "seed_status": "repealed"
+  }
 }

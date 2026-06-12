@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2011-05-18",
+  "in_force_date": "2011-05-18",
   "url": "https://www.retsinformation.dk/eli/lta/2011/456/xml",
   "description": "Retsinformation source. DocumentId=AU004401; AccessionNumber=A20110045630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -3399,5 +3400,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:07:59.207Z",
+    "accession": "A20110045630",
+    "document_id": "AU004401",
+    "unique_document_id": "136964",
+    "upstream_status": "Valid",
+    "start_date": "2011-05-18",
+    "end_date": "2023-01-06",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

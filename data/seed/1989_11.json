@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Sømandsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-01-06",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/11/xml",
-  "description": "Retsinformation source. DocumentId=CM025186; AccessionNumber=A19890001129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025186; AccessionNumber=A19890001129; Ophævet 1995-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:29:14.484Z",
+    "accession": "A19890001129",
+    "document_id": "CM025186",
+    "unique_document_id": "66073",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2025-02-12",
+    "historic_marked": "1995-09-29",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om afgifter for lægemidler og lægemiddelvirksomheder",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-03-31",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1993/168/xml",
-  "description": "Retsinformation source. DocumentId=CM004854; AccessionNumber=B19930016805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM004854; AccessionNumber=B19930016805; Ophævet 1994-09-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:02:29.259Z",
+    "accession": "B19930016805",
+    "document_id": "CM004854",
+    "unique_document_id": "46193",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1994-09-08",
+    "seed_status": "repealed"
+  }
 }

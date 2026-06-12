@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om godkendelse og syn af køretøjer (Gebyr og tilsyn med toldsyn, øgede beføjelser ved vejsidesyn m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-17",
+  "in_force_date": "2019-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1437/xml",
-  "description": "Retsinformation source. DocumentId=CZ000067; AccessionNumber=A20190143730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000067; AccessionNumber=A20190143730; Ophævet 2023-03-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11a",
@@ -20,8 +21,19 @@
       "section": "11a",
       "content": "§ 11 a. Trafik-, Bygge- og Boligstyrelsen kan, herunder som led i styrelsens tilsyn med synsvirksomhederne, foretage syn af erhvervskøretøjer ved vejsiden og i den forbindelse anvise og ledsage køretøjer til et kontrolsted. Stk. 2. Transportministeren kan fastsætte nærmere regler om Trafik-, Bygge- og Boligstyrelsens adgang til at anvise og ledsage erhvervskøretøjer efter stk. 1, herunder om indretning og afmærkning af køretøjer og kontrolsteder, og om krav til de synsinspektører, der skal anvise køretøjer til kontrol.",
       "valid_from": "2019-12-17",
-      "valid_to": null
+      "valid_to": "2023-03-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:01.685Z",
+    "accession": "A20190143730",
+    "document_id": "CZ000067",
+    "unique_document_id": "211416",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-16",
+    "seed_status": "repealed"
+  }
 }

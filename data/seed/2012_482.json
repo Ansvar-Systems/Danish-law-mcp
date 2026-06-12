@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om registrering af køretøjer\\n(Justering af priser for registrering af køretøjer og nummerplader m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-05-30",
+  "in_force_date": "2012-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2012/482/xml",
-  "description": "Retsinformation source. DocumentId=AN011116; AccessionNumber=A20120048230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011116; AccessionNumber=A20120048230; Ophævet 2012-10-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12",
@@ -25,15 +26,26 @@
       "section": "12",
       "content": "§ 12. For udstedelse af registreringsattest eller supplerende attest betales 100 kr. bortset fra tilfælde, hvor attesten udstedes i forbindelse med betaling for nummerplader efter § 8 eller betaling for registrering af ny ejer eller bruger efter § 11.",
       "valid_from": "2012-05-30",
-      "valid_to": null
+      "valid_to": "2012-10-26"
     },
     {
       "provision_ref": "13",
       "section": "13",
       "content": "§ 13. For behandling af ansøgning om bevis for ret til kørsel på færdselslovens område med et køretøj, der er registreret i et andet land, betales 400 kr.",
       "valid_from": "2012-05-30",
-      "valid_to": null
+      "valid_to": "2012-10-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:02:20.133Z",
+    "accession": "A20120048230",
+    "document_id": "AN011116",
+    "unique_document_id": "142030",
+    "upstream_status": "Historic",
+    "start_date": "2012-05-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-10-26",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forbud mod handel med Den Sydafrikanske Republik",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-03-06",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/150/xml",
-  "description": "Retsinformation source. DocumentId=CM031231; AccessionNumber=A19920015030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031231; AccessionNumber=A19920015030; Ophævet 1997-04-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:19:00.449Z",
+    "accession": "A19920015030",
+    "document_id": "CM031231",
+    "unique_document_id": "72040",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "1998-10-06",
+    "historic_marked": "1997-04-04",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fund af lavpatogen aviær influenza i Løvel i Viborg Kommune",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-05-31",
+  "in_force_date": "2013-05-31",
   "url": "https://www.retsinformation.dk/eli/lta/2013/554/xml",
-  "description": "Retsinformation source. DocumentId=AH004936; AccessionNumber=B20130055405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004936; AccessionNumber=B20130055405; Ophævet 2013-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -40,36 +41,47 @@
       "section": "1",
       "content": "§ 1. Som følge af fund af lavpatogen aviær influenza i en fjerkræbesætning i Løvel i Viborg Kommune oprettet Fødevarestyrelsen med virkning fra i dag en spærrezone, jf. § 25 i bekendtgørelse nr. 943 af 14. september 2006 om beskyttelsesforanstaltninger ved udbrud af lavpatogen aviær influenza af typerne H5 eller H7 i fjerkræ og andre fugle i fangenskab.",
       "valid_from": "2013-05-31",
-      "valid_to": null
+      "valid_to": "2013-06-26"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Spærrezonen, jf. bilag 1, har en radius på en kilometer omkring den berørte bedrift, der er beliggende i Løvel i Viborg Kommune.",
       "valid_from": "2013-05-31",
-      "valid_to": null
+      "valid_to": "2013-06-26"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Ejeren eller den ansvarlige skal foretage indberetning om hobbyhold af fjerkræ i spærrezonen. Registrering af hobbyhold af fjerkræ skal ske elektronisk på Fødevarestyrelsens hjemmeside senest 8 dage fra spærrezonens oprettelse.",
       "valid_from": "2013-05-31",
-      "valid_to": null
+      "valid_to": "2013-06-26"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Med bøde straffes den, der overtræder § 3. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
       "valid_from": "2013-05-31",
-      "valid_to": null
+      "valid_to": "2013-06-26"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 31. maj 2013, klokken 17.00.",
       "valid_from": "2013-05-31",
-      "valid_to": null
+      "valid_to": "2013-06-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:09:01.993Z",
+    "accession": "B20130055405",
+    "document_id": "AH004936",
+    "unique_document_id": "152241",
+    "upstream_status": "Historic",
+    "start_date": "2013-05-31",
+    "end_date": "2022-04-09",
+    "historic_marked": "2013-06-26",
+    "seed_status": "repealed"
+  }
 }

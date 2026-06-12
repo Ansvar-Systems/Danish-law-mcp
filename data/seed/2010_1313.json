@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om satser pr. 1. januar 2011 i henhold til anordning om ikrafttræden af lov om arbejdsskadesikring i Grønland",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-11-23",
+  "in_force_date": "2010-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1313/xml",
-  "description": "Retsinformation source. DocumentId=BE004401; AccessionNumber=B20100131305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE004401; AccessionNumber=B20100131305; Ophævet 2010-12-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -19,9 +20,20 @@
       "provision_ref": "13",
       "section": "13",
       "content": "§ 13. Betalingen for Ankestyrelsens administration af sager oprettet 1. januar 2011 eller senere udgør 8.823 kr. pr. oprettet sag.",
-      "valid_from": "2010-11-23",
-      "valid_to": null
+      "valid_from": "2010-12-01",
+      "valid_to": "2010-12-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:47:40.719Z",
+    "accession": "B20100131305",
+    "document_id": "BE004401",
+    "unique_document_id": "134374",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-12-23",
+    "seed_status": "repealed"
+  }
 }

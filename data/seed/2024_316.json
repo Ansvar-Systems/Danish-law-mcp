@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-03-27",
+  "in_force_date": "2024-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2024/316/xml",
   "description": "Retsinformation source. DocumentId=AA014139; AccessionNumber=B20240031605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -171,5 +172,16 @@
       "definition": "her alle de identificerende oplysninger, som udbyderen tildeler slutbrugeren under adgangen til internettet, herunder internetprotokol-adresse, source-portnummer og andre identificerende oplysninger",
       "source_provision": "2:7"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:59:39.166Z",
+    "accession": "B20240031605",
+    "document_id": "AA014139",
+    "unique_document_id": "242501",
+    "upstream_status": "Valid",
+    "start_date": "2024-03-27",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

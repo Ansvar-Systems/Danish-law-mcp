@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Finansstyrelsens beføjelser efter tjenestemandslovgivningen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-23",
+  "in_force_date": "1999-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/1999/516/xml",
-  "description": "Retsinformation source. DocumentId=AE000103; AccessionNumber=B19990051605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000103; AccessionNumber=B19990051605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:31:12.120Z",
+    "accession": "B19990051605",
+    "document_id": "AE000103",
+    "unique_document_id": "5096",
+    "upstream_status": "Historic",
+    "start_date": "1999-07-04",
+    "end_date": "2023-10-14",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

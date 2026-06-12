@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-06-13",
+  "in_force_date": "2023-06-15",
   "url": "https://www.retsinformation.dk/eli/lta/2023/764/xml",
   "description": "Retsinformation source. DocumentId=AN015702; AccessionNumber=B20230076405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 71, § 2, nr. 82, § 3, nr. 75, § 4, nr. 77, § 7, nr. 1, § 8, nr. 2, § 9, § 10, nr. 2, § 11, nr. 4, § 13, nr. 4, § 14, nr. 1, § 15, nr. 2, § 16, nr. 1, § 18, nr. 1, og § 20, nr. 1, i lov nr. 1240 af 11. juni 2021 om ændring af lov om energiafgift af mineralolieprodukter m.v., spiritusafgiftsloven, momsloven og forskellige andre love (Implementering af det omarbejdede cirkulationsdirektiv, direktivet om militær mobilitet og ændringer i alkoholstrukturdirektivet, justering af reglerne om adgang til virksomheders bevillings- og registreringsforhold, præcisering af bagatelgrænsereglen i en række afgiftslove, justering af momsreglerne for udlejningsvirksomheder og køreskolers salg af motorkøretøjer og tilpasning til EU-regler af tidspunktet for momsfradragsrettens indtræden m.v.) sættes i kraft.",
-      "valid_from": "2023-06-13",
+      "valid_from": "2023-06-15",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2023.",
-      "valid_from": "2023-06-13",
+      "valid_from": "2023-06-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:00:33.223Z",
+    "accession": "B20230076405",
+    "document_id": "AN015702",
+    "unique_document_id": "232941",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-15",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

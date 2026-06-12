@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af listen over farlige stoffer (* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-10-15",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/830/xml",
-  "description": "Retsinformation source. DocumentId=CM007540; AccessionNumber=B19930083005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM007540; AccessionNumber=B19930083005; Ophævet 1996-09-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:28:47.347Z",
+    "accession": "B19930083005",
+    "document_id": "CM007540",
+    "unique_document_id": "48737",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1996-09-09",
+    "seed_status": "repealed"
+  }
 }

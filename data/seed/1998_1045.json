@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om offentlig sygesikring og lov om social service",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-23",
+  "in_force_date": "1998-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/1998/1045/xml",
-  "description": "Retsinformation source. DocumentId=AQ000083; AccessionNumber=A19980104530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000083; AccessionNumber=A19980104530; Ophævet 2005-06-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:30:05.279Z",
+    "accession": "A19980104530",
+    "document_id": "AQ000083",
+    "unique_document_id": "21106",
+    "upstream_status": "Historic",
+    "start_date": "1998-12-27",
+    "end_date": "2022-07-12",
+    "historic_marked": "2005-06-24",
+    "seed_status": "repealed"
+  }
 }

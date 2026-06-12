@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om inddrivelse af gæld til det offentlige (Udskydelse af forældelse som følge af utilstrækkelig funktionalitet i Et Fælles Inddrivelsessystem)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-11-17",
+  "in_force_date": "2015-11-17",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1253/xml",
-  "description": "Retsinformation source. DocumentId=AN012285; AccessionNumber=A20150125330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN012285; AccessionNumber=A20150125330; Ophævet 2021-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "18a",
@@ -20,8 +21,19 @@
       "section": "18a",
       "content": "§ 18 a. For fordringer inklusive renter, gebyrer og andre omkostninger, der er under inddrivelse hos restanceinddrivelsesmyndigheden den 19. november 2015 eller senere, regnes forældelsesfristen tidligst fra den 20. november 2018.",
       "valid_from": "2015-11-17",
-      "valid_to": null
+      "valid_to": "2021-06-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:32:39.231Z",
+    "accession": "A20150125330",
+    "document_id": "AN012285",
+    "unique_document_id": "175261",
+    "upstream_status": "Historic",
+    "start_date": "2015-11-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-06-22",
+    "seed_status": "repealed"
+  }
 }

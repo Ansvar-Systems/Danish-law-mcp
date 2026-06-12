@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fri proces",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-12-06",
+  "in_force_date": "2001-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2001/999/xml",
-  "description": "Retsinformation source. DocumentId=AA001631; AccessionNumber=B20010099905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001631; AccessionNumber=B20010099905; Ophævet 2002-12-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:22:20.697Z",
+    "accession": "B20010099905",
+    "document_id": "AA001631",
+    "unique_document_id": "1218",
+    "upstream_status": "Historic",
+    "start_date": "2001-12-17",
+    "end_date": "2003-12-15",
+    "historic_marked": "2002-12-05",
+    "seed_status": "repealed"
+  }
 }

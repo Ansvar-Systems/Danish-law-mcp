@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ophævelse af lov om erhvervsservice samt ændring af lov om statsautoriserede revisorer og lov om registrerede revisorer",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-03-01",
+  "in_force_date": "2002-03-06",
   "url": "https://www.retsinformation.dk/eli/lta/2002/111/xml",
-  "description": "Retsinformation source. DocumentId=AU000482; AccessionNumber=A20020011130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000482; AccessionNumber=A20020011130; Ophævet 2004-03-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:26:49.140Z",
+    "accession": "A20020011130",
+    "document_id": "AU000482",
+    "unique_document_id": "25832",
+    "upstream_status": "Historic",
+    "start_date": "2002-03-06",
+    "end_date": "2017-12-08",
+    "historic_marked": "2004-03-01",
+    "seed_status": "repealed"
+  }
 }

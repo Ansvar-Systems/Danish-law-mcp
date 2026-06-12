@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om hold af dyr, lov om landbrugsejendomme og lov om dyrlæger\\n(Uddannelseskrav i forbindelse med husdyrhold, gruppevis levering af slagtesvin, obligatorisk digital kommunikation om forhåndsanmeldelse af eksport af levende dyr m.v. og tilsyn med personer, der yder dyrlæger bistand)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-05-28",
+  "in_force_date": "2013-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2013/527/xml",
-  "description": "Retsinformation source. DocumentId=AH004915; AccessionNumber=A20130052730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004915; AccessionNumber=A20130052730; Ophævet 2015-01-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Slagtesvin kan transporteres fra en svinebesætning i Danmark til et slagteri i Danmark uden at være mærket efter regler fastsat i medfør af § 4, stk. 1, når dette sker som gruppevis levering af slagtesvin. Stk. 2. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om gruppevis levering af slagtesvin, herunder om godkendelse af besætningsejere, som anvender gruppevis levering af slagtesvin. Ved fastsættelse af regler om godkendelse kan ministeren fastsætte vilkår for godkendelsen og bestemmelser om tilbagekaldelse. Ministeren kan endvidere fastsætte regler om transportører, som transporterer svin ved gruppevis levering af slagtesvin, og om slagterier, som modtager gruppevise leverancer af slagtesvin, herunder regler om registrering af transportørerne og slagterierne.",
-      "valid_from": "2013-05-28",
-      "valid_to": null
+      "valid_from": "2013-05-29",
+      "valid_to": "2015-01-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:07:56.812Z",
+    "accession": "A20130052730",
+    "document_id": "AH004915",
+    "unique_document_id": "146870",
+    "upstream_status": "Historic",
+    "start_date": "2013-05-29",
+    "end_date": "2022-12-31",
+    "historic_marked": "2015-01-21",
+    "seed_status": "repealed"
+  }
 }

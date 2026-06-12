@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om markfrø",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-11-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1990/787/xml",
-  "description": "Retsinformation source. DocumentId=CM037363; AccessionNumber=B19900078705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM037363; AccessionNumber=B19900078705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:29:31.989Z",
+    "accession": "B19900078705",
+    "document_id": "CM037363",
+    "unique_document_id": "78154",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

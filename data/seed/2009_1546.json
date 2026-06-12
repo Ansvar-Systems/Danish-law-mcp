@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om støtte til folkeoplysende voksenundervisning og frivilligt folkeoplysende foreningsarbejde (Folkeoplysningsbekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-27",
+  "in_force_date": "2009-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1546/xml",
-  "description": "Retsinformation source. DocumentId=AT004009; AccessionNumber=B20090154605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004009; AccessionNumber=B20090154605; Ophævet 2011-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -24,16 +25,27 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2 a. Folkeoplysende foreninger, der modtager tilskud eller får anvist lokaler efter folkeoplysningsloven, skal ved afgivelse af erklæring om indhentelse af børneattest, jf. folkeoplysningslovens § 4, stk. 4, anvende den erklæring, der er optrykt som bilag 1 til denne bekendtgørelse. Stk. 2. Erklæringen kan afgives med foreningens digitale signatur.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-30",
+      "valid_to": "2011-12-20"
     },
     {
       "provision_ref": "20",
       "section": "20",
       "content": "§ 20 a. Distriktsforeninger, der modtager tilskud eller får anvist lokaler efter folkeoplysningsloven, skal ved afgivelse af erklæring om indhentelse af børneattest, jf. folkeoplysningslovens § 45, stk. 3, anvende den erklæring, der er optrykt som bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-30",
+      "valid_to": "2011-12-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:59:50.560Z",
+    "accession": "B20090154605",
+    "document_id": "AT004009",
+    "unique_document_id": "129632",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-30",
+    "end_date": "2013-05-04",
+    "historic_marked": "2011-12-20",
+    "seed_status": "repealed"
+  }
 }

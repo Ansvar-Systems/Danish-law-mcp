@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om brugsmodeller m.v. (Brugsmodelloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-02-26",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1992/130/xml",
-  "description": "Retsinformation source. DocumentId=CM025380; AccessionNumber=A19920013030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025380; AccessionNumber=A19920013030; Ophævet 2012-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:18:15.456Z",
+    "accession": "A19920013030",
+    "document_id": "CM025380",
+    "unique_document_id": "66260",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-24",
+    "historic_marked": "2012-01-31",
+    "seed_status": "repealed"
+  }
 }

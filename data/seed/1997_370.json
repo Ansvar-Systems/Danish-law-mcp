@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fællesantenneanlæg m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-06-02",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1997/370/xml",
-  "description": "Retsinformation source. DocumentId=CM044518; AccessionNumber=B19970037005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044518; AccessionNumber=B19970037005; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:03:17.317Z",
+    "accession": "B19970037005",
+    "document_id": "CM044518",
+    "unique_document_id": "85062",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2017-12-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

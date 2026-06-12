@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-03-02",
+  "in_force_date": "2020-03-05",
   "url": "https://www.retsinformation.dk/eli/lta/2020/177/xml",
   "description": "Retsinformation source. DocumentId=CK002392; AccessionNumber=B20200017705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. En dommer, der er formand eller viceformand for en jordfordelingskommission, jf. § 2, stk. 3, i lov om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål m.m., jf. lovbekendtgørelse nr. 31 af 4. januar 2017, kan fortsætte som formand eller viceformand i hele udpegningsperioden, uanset at den pågældende bliver pensioneret fra domstolene i perioden.",
-      "valid_from": "2020-03-02",
+      "valid_from": "2020-03-05",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 9. marts 2020.",
-      "valid_from": "2020-03-02",
+      "valid_from": "2020-03-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:59:27.335Z",
+    "accession": "B20200017705",
+    "document_id": "CK002392",
+    "unique_document_id": "213022",
+    "upstream_status": "Valid",
+    "start_date": "2020-03-05",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

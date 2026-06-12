@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om registrering af køretøjer",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-04-19",
+  "in_force_date": "2006-04-19",
   "url": "https://www.retsinformation.dk/eli/lta/2006/309/xml",
-  "description": "Retsinformation source. DocumentId=AN005230; AccessionNumber=A20060030930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005230; AccessionNumber=A20060030930; Ophævet 2011-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:18:43.715Z",
+    "accession": "A20060030930",
+    "document_id": "AN005230",
+    "unique_document_id": "17269",
+    "upstream_status": "Historic",
+    "start_date": "2006-04-19",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-06-09",
+    "seed_status": "repealed"
+  }
 }

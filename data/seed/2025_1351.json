@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2025-11-21",
+  "in_force_date": "2025-11-25",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1351/xml",
   "description": "Retsinformation source. DocumentId=CQ003417; AccessionNumber=B20250135105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "16a",
       "section": "16a",
       "content": "§ 16 a. Erhvervsdrivende, der driver forretning med salg af motorbrændstof, skal gøre følgende oplysninger offentligt tilgængelige for hvert salgssted med et årssalg, der overstiger 250 m3 autobenzin og -diesel: 1) Salgsstedets adresse. 2) Den aktuelle enhedspris pr. liter og oktantal for hver type af udbudt autobenzin. 3) Den aktuelle enhedspris pr. liter for hver type af udbudt autodiesel. 4) Angivelse af tidspunktet for den seneste opdatering af oplysningerne i nr. 2 og 3.",
-      "valid_from": "2025-11-21",
+      "valid_from": "2025-11-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:31.928Z",
+    "accession": "B20250135105",
+    "document_id": "CQ003417",
+    "unique_document_id": "252565",
+    "upstream_status": "Valid",
+    "start_date": "2025-11-25",
+    "end_date": "2025-11-26",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

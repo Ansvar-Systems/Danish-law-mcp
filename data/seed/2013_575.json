@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om distribution af lægemidler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-05-24",
+  "in_force_date": "2013-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2013/575/xml",
-  "description": "Retsinformation source. DocumentId=BK001410; AccessionNumber=B20130057505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001410; AccessionNumber=B20130057505; Ophævet 2018-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "36",
@@ -19,9 +20,20 @@
       "provision_ref": "36",
       "section": "36",
       "content": "§ 36 a. Et apotek må ikke returnere indkøbte og leverede lægemiddelpakninger til andre end den engrosforhandler, der har leveret pakningerne til apoteket",
-      "valid_from": "2013-05-24",
-      "valid_to": null
+      "valid_from": "2013-06-04",
+      "valid_to": "2018-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:09:51.653Z",
+    "accession": "B20130057505",
+    "document_id": "BK001410",
+    "unique_document_id": "152178",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-04",
+    "end_date": "2022-07-12",
+    "historic_marked": "2018-12-21",
+    "seed_status": "repealed"
+  }
 }

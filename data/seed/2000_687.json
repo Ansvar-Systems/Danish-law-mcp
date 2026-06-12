@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af konkurrenceloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-12",
+  "in_force_date": "2000-07-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/687/xml",
-  "description": "Retsinformation source. DocumentId=AD000698; AccessionNumber=A20000068729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000698; AccessionNumber=A20000068729; Ophævet 2002-07-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:29:22.254Z",
+    "accession": "A20000068729",
+    "document_id": "AD000698",
+    "unique_document_id": "4768",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-20",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-07-08",
+    "seed_status": "repealed"
+  }
 }

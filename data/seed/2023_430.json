@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-04-24",
+  "in_force_date": "2023-04-26",
   "url": "https://www.retsinformation.dk/eli/lta/2023/430/xml",
   "description": "Retsinformation source. DocumentId=AN015941; AccessionNumber=B20230043005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 6, 7 og 16-20, i lov nr. 331 af 28. marts 2023 om ændring af lov om inddrivelse af gæld til det offentlige, kildeskatteloven, skatteindberetningsloven, lov om fuldbyrdelse af straf m.v. og lov om Den Internationale Straffedomstol og om ophævelse af lov om Det Fælles Lønindeholdelsesregister (Styrkelse af inddrivelsen med henblik på at nedbringe danskernes gæld til det offentlige) sættes i kraft.",
-      "valid_from": "2023-04-24",
+      "valid_from": "2023-04-26",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. § 1, nr. 6, 7 og 16-20, i lov nr. 331 af 28. marts 2023 om ændring af lov om inddrivelse af gæld til det offentlige, kildeskatteloven, skatteindberetningsloven, lov om fuldbyrdelse af straf m.v. og lov om Den Internationale Straffedomstol og om ophævelse af lov om Det Fælles Lønindeholdelsesregister (Styrkelse af inddrivelsen med henblik på at nedbringe danskernes gæld til det offentlige) finder fra den 1. maj 2023 anvendelse for fordringer under inddrivelse i restanceinddrivelsesmyndighedens inddrivelsessystem DMI.",
-      "valid_from": "2023-04-24",
+      "valid_from": "2023-04-26",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. § 1, nr. 6, 7 og 16-20, i lov nr. 331 af 28. marts 2023 om ændring af lov om inddrivelse af gæld til det offentlige, kildeskatteloven, skatteindberetningsloven, lov om fuldbyrdelse af straf m.v. og lov om Den Internationale Straffedomstol og om ophævelse af lov om Det Fælles Lønindeholdelsesregister (Styrkelse af inddrivelsen med henblik på at nedbringe danskernes gæld til det offentlige) finder fra den 1. september 2023 anvendelse for fordringer under inddrivelse i restanceinddrivelsesmyndighedens inddrivelsessystem PSRM.",
-      "valid_from": "2023-04-24",
+      "valid_from": "2023-04-26",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. maj 2023.",
-      "valid_from": "2023-04-24",
+      "valid_from": "2023-04-26",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:46:54.259Z",
+    "accession": "B20230043005",
+    "document_id": "AN015941",
+    "unique_document_id": "236966",
+    "upstream_status": "Valid",
+    "start_date": "2023-04-26",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

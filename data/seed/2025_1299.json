@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-11-12",
+  "in_force_date": "2025-11-14",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1299/xml",
   "description": "Retsinformation source. DocumentId=AN017107; AccessionNumber=B20250129905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. En meddelelse til Skatteforvaltningen i medfør af minimumsbeskatningslovens § 55, stk. 1, skal gives efter Skatteforvaltningens nærmere anvisning.",
-      "valid_from": "2025-11-12",
+      "valid_from": "2025-11-14",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. En meddelelse til Skatteforvaltningen fra en koncer‍nenhed skal indeholde følgende oplysninger om koncer‍nenheden: 1) Navn og adresse. 2) Cvr-nummer. Har koncernenheden ikke et cvr-nummer, oplyses SE-nummer. 3) Hvilket rapporteringsår, meddelelsen vedrører. Stk. 2. Er koncernenheden hverken registreret med cvr-nummer eller SE-nummer, foretager Skatteforvaltningen en registrering i et af disse registre. Stk. 3. Indtræder der efter meddelelsen ændring i de efter stk. 1 meddelte oplysninger, eller konstateres der fejl i meddelelsen, herunder i de efter stk. 1 meddelte oplysninger, skal koncernenheden give Skatteforvaltningen meddelelse herom inden 30 dage efter, at ændringen er sket, eller fejlen er konstateret.",
-      "valid_from": "2025-11-12",
+      "valid_from": "2025-11-14",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Med bøde straffes den, der forsætligt eller groft uagtsomt 1) afgiver urigtige eller vildledende oplysninger eller undlader at give oplysninger eller 2) undlader at meddele ændringer inden for fristen som nævnt i § 2, stk. 3.",
-      "valid_from": "2025-11-12",
+      "valid_from": "2025-11-14",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2026. Stk. 2. Bekendtgørelse nr. 183 af 18. februar 2025 om registrering for koncernenheder omfattet af minimumsbeskatningsloven ophæves.",
-      "valid_from": "2025-11-12",
+      "valid_from": "2025-11-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:39:23.312Z",
+    "accession": "B20250129905",
+    "document_id": "AN017107",
+    "unique_document_id": "252108",
+    "upstream_status": "Valid",
+    "start_date": "2025-11-14",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

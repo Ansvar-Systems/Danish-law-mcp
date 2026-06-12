@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-12-22",
+  "in_force_date": "2011-01-05",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1726/xml",
   "description": "Retsinformation source. DocumentId=BL000452; AccessionNumber=B20100172605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen gennemfører Rådets direktiv 2008/114/EF af 8. december 2008 om indkredsning og udpegning af europæisk kritisk infrastruktur og vurdering af behovet for at beskytte den bedre på havneområdet. Stk. 2. Direktivet er vedlagt som bilag 1 til bekendtgørelsen.",
-      "valid_from": "2010-12-22",
+      "valid_from": "2011-01-05",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Medlemsstaternes kompetence på havneområdet efter direktiv 2008/114/EF udøves af Kystdirektoratet.",
-      "valid_from": "2010-12-22",
+      "valid_from": "2011-01-05",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 10. januar 2011.",
-      "valid_from": "2010-12-22",
+      "valid_from": "2011-01-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:04:30.033Z",
+    "accession": "B20100172605",
+    "document_id": "BL000452",
+    "unique_document_id": "135251",
+    "upstream_status": "Valid",
+    "start_date": "2011-01-05",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

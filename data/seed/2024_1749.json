@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1749/xml",
   "description": "Retsinformation source. DocumentId=DD000496; AccessionNumber=B20240174905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1067,5 +1068,16 @@
       "definition": "i denne bekendtgørelse ethvert stof eller enhver genstand, som indehaveren skiller sig af med eller agter eller er forpligtet til at skille sig af med",
       "source_provision": "2:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:49.900Z",
+    "accession": "B20240174905",
+    "document_id": "DD000496",
+    "unique_document_id": "246137",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-30",
+    "end_date": "2025-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

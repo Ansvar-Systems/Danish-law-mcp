@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse fra Ministeriet for Kirke- og Undervisningsvæsenet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1892-02-27",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1892/23/xml",
-  "description": "Retsinformation source. DocumentId=CM032080; AccessionNumber=B18920002305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032080; AccessionNumber=B18920002305; Ophævet 1997-05-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:34:47.335Z",
+    "accession": "B18920002305",
+    "document_id": "CM032080",
+    "unique_document_id": "72883",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-02-01",
+    "historic_marked": "1997-05-15",
+    "seed_status": "repealed"
+  }
 }

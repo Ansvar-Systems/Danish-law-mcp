@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bygningsforbedringsudvalg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-11",
+  "in_force_date": "1999-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/1999/456/xml",
-  "description": "Retsinformation source. DocumentId=AC000104; AccessionNumber=B19990045605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000104; AccessionNumber=B19990045605; Ophævet 2001-11-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:28:47.790Z",
+    "accession": "B19990045605",
+    "document_id": "AC000104",
+    "unique_document_id": "3985",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-25",
+    "end_date": "2023-04-29",
+    "historic_marked": "2001-11-22",
+    "seed_status": "repealed"
+  }
 }

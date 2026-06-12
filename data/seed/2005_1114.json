@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af dødsboer og gaver (boafgiftsloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-11-22",
+  "in_force_date": "2005-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1114/xml",
-  "description": "Retsinformation source. DocumentId=AN004992; AccessionNumber=A20050111429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004992; AccessionNumber=A20050111429; Ophævet 2006-10-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:53:30.814Z",
+    "accession": "A20050111429",
+    "document_id": "AN004992",
+    "unique_document_id": "17110",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-01",
+    "end_date": "2016-04-05",
+    "historic_marked": "2006-10-02",
+    "seed_status": "repealed"
+  }
 }

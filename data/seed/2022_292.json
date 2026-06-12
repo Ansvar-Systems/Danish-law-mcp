@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven (Kriminalisering af identitetsmisbrug)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-03-08",
+  "in_force_date": "2022-03-08",
   "url": "https://www.retsinformation.dk/eli/lta/2022/292/xml",
-  "description": "Retsinformation source. DocumentId=AA012988; AccessionNumber=A20220029230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA012988; AccessionNumber=A20220029230; Ophævet 2022-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "264e",
@@ -20,8 +21,19 @@
       "section": "264e",
       "content": "§ 264 e. For identitetsmisbrug straffes med bøde eller fængsel indtil 6 måneder den, der uberettiget 1) anvender oplysninger om en anden person, herunder cpr-nummer, navn og billede, til på utilbørlig vis at udgive sig for at være denne person eller 2) videregiver materiale, hvor der er gjort brug af oplysninger om en anden person, herunder cpr-nummer, navn og billede, til på utilbørlig vis at manipulere denne persons fremtræden.",
       "valid_from": "2022-03-08",
-      "valid_to": null
+      "valid_to": "2022-09-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:33:06.298Z",
+    "accession": "A20220029230",
+    "document_id": "AA012988",
+    "unique_document_id": "229720",
+    "upstream_status": "Historic",
+    "start_date": "2022-03-08",
+    "end_date": "2022-09-30",
+    "historic_marked": "2022-09-29",
+    "seed_status": "repealed"
+  }
 }

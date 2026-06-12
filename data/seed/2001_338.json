@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om afgift af ledningsført vand",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-05-16",
+  "in_force_date": "2001-05-16",
   "url": "https://www.retsinformation.dk/eli/lta/2001/338/xml",
-  "description": "Retsinformation source. DocumentId=AN002354; AccessionNumber=A20010033830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002354; AccessionNumber=A20010033830; Ophævet 2013-07-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:55:59.423Z",
+    "accession": "A20010033830",
+    "document_id": "AN002354",
+    "unique_document_id": "14986",
+    "upstream_status": "Historic",
+    "start_date": "2001-05-16",
+    "end_date": "2017-06-14",
+    "historic_marked": "2013-07-17",
+    "seed_status": "repealed"
+  }
 }

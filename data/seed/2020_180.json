@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-03-05",
+  "in_force_date": "2020-03-06",
   "url": "https://www.retsinformation.dk/eli/lta/2020/180/xml",
   "description": "Retsinformation source. DocumentId=CN001159; AccessionNumber=B20200018005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Liste B over øvrige smitsomme og andre overførbare sygdomme, som angivet i lovens bilag 2, ændres, så Difteri med den internationale betegnelse: Diphteria og MRSA-infektion/kolonisation med den internationale betegnelse: MRSA-infection/carriage udgår, og Coronavirussygdom 2019 (COVID-19) med den internationale betegnelse: Coronavirus disease 2019 (COVID-19) optages, som angivet i bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2020-03-05",
+      "valid_from": "2020-03-06",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft ved kundgørelse i Kunngerðablaðið B.",
-      "valid_from": "2020-03-05",
+      "valid_from": "2020-03-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:00:41.545Z",
+    "accession": "B20200018005",
+    "document_id": "CN001159",
+    "unique_document_id": "213307",
+    "upstream_status": "Valid",
+    "start_date": "2020-03-06",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

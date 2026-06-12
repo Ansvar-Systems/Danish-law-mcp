@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om planter",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-07-07",
+  "in_force_date": "1999-07-15",
   "url": "https://www.retsinformation.dk/eli/lta/1999/576/xml",
-  "description": "Retsinformation source. DocumentId=AH000310; AccessionNumber=B19990057605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000310; AccessionNumber=B19990057605; Ophævet 2002-06-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:33:34.747Z",
+    "accession": "B19990057605",
+    "document_id": "AH000310",
+    "unique_document_id": "6733",
+    "upstream_status": "Historic",
+    "start_date": "1999-07-15",
+    "end_date": "2022-04-08",
+    "historic_marked": "2002-06-03",
+    "seed_status": "repealed"
+  }
 }

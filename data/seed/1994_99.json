@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om almennyttig boligvirksomhed (* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-02-04",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1994/99/xml",
-  "description": "Retsinformation source. DocumentId=CM013472; AccessionNumber=B19940009905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM013472; AccessionNumber=B19940009905; Ophævet 1997-06-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:18:00.655Z",
+    "accession": "B19940009905",
+    "document_id": "CM013472",
+    "unique_document_id": "54590",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "1997-06-23",
+    "seed_status": "repealed"
+  }
 }

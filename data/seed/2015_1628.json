@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-14",
+  "in_force_date": "2015-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1628/xml",
   "description": "Retsinformation source. DocumentId=CJ000184; AccessionNumber=B20150162805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Landets inddeling i kommuner og regioner er ændret som angivet i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2015-12-14",
+      "valid_from": "2015-12-17",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Kommunalbestyrelserne i Samsø, Skanderborg og Århus Kommuner, jf. § 5, nr. 12, 14 og 19, i bekendtgørelse nr. 656 af 29. juni 2005 om revision af den kommunale og regionale inddeling og om forpligtende kommunale samarbejder, samarbejder med virkning fra den 1. august 2015 efter reglerne i lov om forpligtende kommunale samarbejder med de fravigelser, som social- og indenrigsministeren i henhold til lovens §§ 11 og 11 a fastsætter. Stk. 2. Kommunalbestyrelsen i Skanderborg Kommune varetager udøvelsen af opgaverne inden for det i den nævnte lovs § 1, stk. 2, nr. 5, litra a, nævnte opgaveområde (specialundervisning efter folkeskoleloven) på vegne af kommunalbestyrelsen i Samsø Kommune. Stk. 3. Kommunalbestyrelsen i Århus Kommune varetager udøvelsen af opgaverne inden for de i den nævnte lovs § 1, stk. 2, nr. 1-4, og nr. 5, litra b, nævnte opgaveområder (beskæftigelsesområdet, genoptræningsområdet, natur- og miljøområdet, det sociale område og specialundervisning for voksne) på vegne af kommunalbestyrelsen i Samsø Kommune.",
-      "valid_from": "2015-12-14",
+      "valid_from": "2015-12-17",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Det mellem kommunalbestyrelserne i Samsø, Odder og Århus Kommuner udpegede samarbejde efter reglerne i lov om forpligtende kommunale samarbejder, jf. § 12 i bekendtgørelse nr. 656 af 29. juni 2005 om revision af den kommunale og regionale inddeling og om forpligtende kommunale samarbejder, er ophævet med virkning fra det i § 2 nævnte tidspunkt.",
-      "valid_from": "2015-12-14",
+      "valid_from": "2015-12-17",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-12-14",
+      "valid_from": "2015-12-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:47:46.226Z",
+    "accession": "B20150162805",
+    "document_id": "CJ000184",
+    "unique_document_id": "176295",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-17",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

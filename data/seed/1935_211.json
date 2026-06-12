@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Instruks for Auktionsledere.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1935-07-02",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1935/211/xml",
-  "description": "Retsinformation source. DocumentId=CM018136; AccessionNumber=B19350021105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018136; AccessionNumber=B19350021105; Ophævet 2024-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:48:39.580Z",
+    "accession": "B19350021105",
+    "document_id": "CM018136",
+    "unique_document_id": "59184",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2024-12-11",
+    "historic_marked": "2024-12-10",
+    "seed_status": "repealed"
+  }
 }

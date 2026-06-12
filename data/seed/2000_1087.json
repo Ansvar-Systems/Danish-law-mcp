@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social pension, lov om aktiv socialpolitik og forskellige andre love",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-13",
+  "in_force_date": "2000-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1087/xml",
-  "description": "Retsinformation source. DocumentId=AO001001; AccessionNumber=A20000108730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO001001; AccessionNumber=A20000108730; Ophævet 2020-05-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:53:59.459Z",
+    "accession": "A20000108730",
+    "document_id": "AO001001",
+    "unique_document_id": "19124",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-13",
+    "end_date": "2022-12-31",
+    "historic_marked": "2020-05-30",
+    "seed_status": "repealed"
+  }
 }

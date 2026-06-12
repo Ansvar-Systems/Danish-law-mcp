@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social pension",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1309/xml",
-  "description": "Retsinformation source. DocumentId=AO001048; AccessionNumber=A20000130930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO001048; AccessionNumber=A20000130930; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:02:55.025Z",
+    "accession": "A20000130930",
+    "document_id": "AO001048",
+    "unique_document_id": "19162",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2016-12-20",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

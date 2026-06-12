@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-03-24",
+  "in_force_date": "2023-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2023/338/xml",
   "description": "Retsinformation source. DocumentId=DB000660; AccessionNumber=B20230033805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 2, nr. 4, i lov 923 af 18. maj 2021 om ændring af lov om naturgasforsyning, lov om fremme af vedvarende energi og forskellige andre love (Indpasning af gas fra vedvarende energikilder, udbud af pristillæg for opgraderet biogas og andre gasser fra vedvarende energikilder, udbud af støtte til produktion af brændstoffer eller andre produkter fra elektricitet (power-to-x), justering af den økonomiske regulering af gasdistributionsselskaber og reglerne for gasdetailmarkedet og sidestillelse af regioner med kommuner i forhold til egenproduktion af elektricitet ved selskabsudskillelse m.v.) sættes i kraft.",
-      "valid_from": "2023-03-24",
+      "valid_from": "2023-03-29",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2023.",
-      "valid_from": "2023-03-24",
+      "valid_from": "2023-03-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:43:10.213Z",
+    "accession": "B20230033805",
+    "document_id": "DB000660",
+    "unique_document_id": "235444",
+    "upstream_status": "Valid",
+    "start_date": "2023-03-29",
+    "end_date": "2024-09-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om rådighed",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-12-27",
+  "in_force_date": "2016-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1766/xml",
-  "description": "Retsinformation source. DocumentId=BE007107; AccessionNumber=B20160176605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007107; AccessionNumber=B20160176605; Ophævet 2017-04-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "28a",
@@ -19,9 +20,20 @@
       "provision_ref": "28a",
       "section": "28a",
       "content": "§ 28 a. § 28, stk. 2, nr. 1, finder ikke anvendelse på ph.d.-uddannelser omfattet af lov om universiteter og lov om videregående kunstneriske uddannelsesinstitutioner, jf. dog § 41, stk. 2 og 3.",
-      "valid_from": "2016-12-27",
-      "valid_to": null
+      "valid_from": "2016-12-29",
+      "valid_to": "2017-04-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:03:02.252Z",
+    "accession": "B20160176605",
+    "document_id": "BE007107",
+    "unique_document_id": "185850",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-04-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om lægemidler omfattet af pligtmæssige lagre og indberetningspligt for kritiske lægemidler",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-11-18",
+  "in_force_date": "2025-11-19",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1315/xml",
-  "description": "Retsinformation source. DocumentId=DI001621; AccessionNumber=B20250131505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI001621; AccessionNumber=B20250131505; Ophævet 2026-06-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I bekendtgørelsens bilag 1 oplistes de lægemidler (opgjort på ATC-kode, formulering og styrke), som er omfattet af begrebet kritiske lægemidler til mennesker i bekendtgørelse om pligtmæssige lagre og indberetningspligt for kritiske lægemidler. Stk. 2. Uanset bilag 1 er lægemidler med ATC-koden A10BJ06 SEMAGLUTID ikke at betragte som kritisk, hvis det kun er godkendt til behandling af overvægt.",
-      "valid_from": "2025-11-18",
-      "valid_to": null
+      "valid_from": "2025-11-19",
+      "valid_to": "2026-06-04"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2026. Stk. 2. For lægemidler opført på bilag 1 (opgjort på ATC-kode, formulering og styrke), som ikke var omfattet af lager- og indberetningspligt forud for denne bekendtgørelse, gælder kravene i bekendtgørelse om pligtmæssige lagre og indberetningspligt for kritiske lægemidler for så vidt angår lagerpligten pr. 1. juli 2026 og for så vidt angår indberetningspligten pr. 1. april 2026. Stk. 3. Bekendtgørelse nr. 669 af 12. juni 2025 om lægemidler omfattet af pligtmæssige lagre og indberetningspligt for kritiske lægemidler ophæves.",
-      "valid_from": "2025-11-18",
-      "valid_to": null
+      "valid_from": "2025-11-19",
+      "valid_to": "2026-06-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:04.845Z",
+    "accession": "B20250131505",
+    "document_id": "DI001621",
+    "unique_document_id": "252397",
+    "upstream_status": "Historic",
+    "start_date": "2025-11-19",
+    "end_date": "2026-06-05",
+    "historic_marked": "2026-06-04",
+    "seed_status": "repealed"
+  }
 }

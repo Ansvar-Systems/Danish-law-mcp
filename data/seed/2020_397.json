@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om midlertidig tilladelse til kommunale hjemmesygeplejersker til at udøve udvalgte former for lægevirksomhed i forbindelse med håndtering af Coronavirussygdom 2019 (COVID-19)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-04-08",
+  "in_force_date": "2020-04-08",
   "url": "https://www.retsinformation.dk/eli/lta/2020/397/xml",
-  "description": "Retsinformation source. DocumentId=CN001221; AccessionNumber=B20200039705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN001221; AccessionNumber=B20200039705; Ophævet 2020-07-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -58,7 +59,7 @@
       "section": "1",
       "content": "§ 1. Formålet med denne bekendtgørelse er at sikre varetagelsen af behandlingsopgaverne i kommunalt regi i forbindelse med håndteringen af Coronavirussygdom 2019 (COVID-19).",
       "valid_from": "2020-04-08",
-      "valid_to": null
+      "valid_to": "2020-07-28"
     },
     {
       "provision_ref": "2:2",
@@ -66,7 +67,7 @@
       "section": "2",
       "content": "§ 2. Kommunalbestyrelsen kan meddele kommunale hjemmesygeplejersker midlertidig tilladelse til at udøve lægevirksomhed, jf. § 6, nr. 1-5.",
       "valid_from": "2020-04-08",
-      "valid_to": null
+      "valid_to": "2020-07-28"
     },
     {
       "provision_ref": "2:3",
@@ -74,7 +75,7 @@
       "section": "3",
       "content": "§ 3. Kommunalbestyrelsen har pligt til organisere deres kommunale behandlingssteder på en sådan måde, at de kommunale hjemmesygeplejersker er i stand til at varetage deres opgaver fagligt forsvarlig og overholde de pligter, som følger af lovgivningen.",
       "valid_from": "2020-04-08",
-      "valid_to": null
+      "valid_to": "2020-07-28"
     },
     {
       "provision_ref": "2:4",
@@ -82,7 +83,7 @@
       "section": "4",
       "content": "§ 4. Kommunalbestyrelsen har ansvaret for, at der for kommunale behandlingssteder findes en opdateret skriftlig instruks med anvisninger af tilrettelæggelsen af lægevirksomheden, jf. § 6, nr. 1-5. Instruksen skal endvidere indeholde navnet på den eller de kommunale hjemmesygeplejersker, som har fået meddelt midlertidig tilladelse til at udøve lægevirksomhed, samt hvilken form for lægevirksomhed, der er meddelt tilladelse til, jf. § 6, nr. 1-5.",
       "valid_from": "2020-04-08",
-      "valid_to": null
+      "valid_to": "2020-07-28"
     },
     {
       "provision_ref": "2:5",
@@ -90,7 +91,7 @@
       "section": "5",
       "content": "§ 5. Kommunalbestyrelsen har ansvaret for, at de af instruksen omfattede kommunale hjemmesygeplejersker, jf. § 4, 2. pkt., har de nødvendige kompetencer til at udøve lægevirksomhed, jf. § 6, nr. 1-5, og at de kommunale hjemmesygeplejersker bliver bekendt med den skriftlige instruks, jf. § 4, 1. pkt.",
       "valid_from": "2020-04-08",
-      "valid_to": null
+      "valid_to": "2020-07-28"
     },
     {
       "provision_ref": "2:6",
@@ -98,7 +99,7 @@
       "section": "6",
       "content": "§ 6. Kommunale hjemmesygeplejersker kan meddeleles midlertidig tilladelse til følgende former for lægevirksomhed: 1) pneumokokvaccinationer, under hensyntagen til at der skal være adrenalin rådighed med henblik på behandling af eventuelt akut allergisk chok, 2) udtagelse af kapillærblodprøver og veneblodprøver, 3) anlæggelse af perifert venekateter, 4) anlæggelse af katetre igennem urinrør med henblik på tømning af urinblæren samt skylning af allerede lagte urinkatetre, og 5) udførelse af intravenøs væskebehandling med isotoniske væsker.",
       "valid_from": "2020-04-08",
-      "valid_to": null
+      "valid_to": "2020-07-28"
     },
     {
       "provision_ref": "3:7",
@@ -106,8 +107,19 @@
       "section": "7",
       "content": "§ 7. Bekendtgørelsen træder i kraft ved bekendtgørelse i Lovtidende. Stk. 2. Bekendtgørelsen ophæves den 1. juli 2020.",
       "valid_from": "2020-04-08",
-      "valid_to": null
+      "valid_to": "2020-07-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:27:36.224Z",
+    "accession": "B20200039705",
+    "document_id": "CN001221",
+    "unique_document_id": "213992",
+    "upstream_status": "Historic",
+    "start_date": "2020-04-08",
+    "end_date": "2022-07-12",
+    "historic_marked": "2020-07-28",
+    "seed_status": "repealed"
+  }
 }

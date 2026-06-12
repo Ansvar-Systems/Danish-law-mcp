@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2013-12-11",
+  "in_force_date": "2013-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1391/xml",
   "description": "Retsinformation source. DocumentId=AN011659; AccessionNumber=B20130139105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelse bortfalder: 1) Bekendtgørelse nr. 1200 af 14. december 2011 om afgørelse af visse klager i Landsskatteretten uden medvirken af ordinære retsmedlemmer.",
-      "valid_from": "2013-12-11",
+      "valid_from": "2013-12-13",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2014.",
-      "valid_from": "2013-12-11",
+      "valid_from": "2013-12-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:42:02.551Z",
+    "accession": "B20130139105",
+    "document_id": "AN011659",
+    "unique_document_id": "160702",
+    "upstream_status": "Valid",
+    "start_date": "2013-12-13",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

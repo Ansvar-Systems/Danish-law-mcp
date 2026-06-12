@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tolkebistand i forbindelse med lægehjælp efter lov om offentlig sygesikring",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1981-11-20",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1981/555/xml",
-  "description": "Retsinformation source. DocumentId=CM005064; AccessionNumber=B19810055505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005064; AccessionNumber=B19810055505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:13:13.288Z",
+    "accession": "B19810055505",
+    "document_id": "CM005064",
+    "unique_document_id": "46355",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

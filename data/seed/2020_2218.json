@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forbud mod forskelsbehandling på grund af handicap (Tydeliggørelse af retten til rimelig individuel tilpasning af ydelser til børn og unge i dagtilbud, i folkeskolen og i friskoler og private grundskoler (frie grundskoler))",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-29",
+  "in_force_date": "2020-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2218/xml",
-  "description": "Retsinformation source. DocumentId=CY000937; AccessionNumber=A20200221830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CY000937; AccessionNumber=A20200221830; Ophævet 2023-08-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -20,8 +21,19 @@
       "section": "9a",
       "content": "§ 9 a. Børn og unge med handicap har ret til rimelig individuel tilpasning af ydelser i dagtilbud og i folkeskolen og i friskoler og private grundskoler (frie grundskoler), således at de kan opnå samme muligheder for deltagelse som andre børn og unge og undgå forskelsbehandling, jf. § 5, stk. 1.",
       "valid_from": "2020-12-29",
-      "valid_to": null
+      "valid_to": "2023-08-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:17:26.022Z",
+    "accession": "A20200221830",
+    "document_id": "CY000937",
+    "unique_document_id": "219179",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-29",
+    "end_date": "2023-08-11",
+    "historic_marked": "2023-08-10",
+    "seed_status": "repealed"
+  }
 }

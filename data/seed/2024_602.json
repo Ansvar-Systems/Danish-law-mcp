@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om beregning af dagpengesatsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-06-04",
+  "in_force_date": "2024-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2024/602/xml",
-  "description": "Retsinformation source. DocumentId=BE009928; AccessionNumber=B20240060205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE009928; AccessionNumber=B20240060205; Ophævet 2024-11-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -20,8 +21,19 @@
       "section": "17",
       "content": "§ 17. Et medlem, der indplaceres eller genindplaceres i en dagpengeperiode, har ret til et beskæftigelsestillæg, hvis pågældende opfylder betingelserne i stk. 2, jf. dog stk. 3. Beskæftigelsestillægget betyder, at medlemmet kan få udbetalt dagpenge med op til 118,86 pct. af dagpengenes højeste beløb, jf. lovens §§ 47 og 70, dog højst 90 pct. af medlemmets hidtidige indtægt efter § 3.",
       "valid_from": "2024-06-04",
-      "valid_to": null
+      "valid_to": "2024-11-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:11:11.104Z",
+    "accession": "B20240060205",
+    "document_id": "BE009928",
+    "unique_document_id": "243886",
+    "upstream_status": "Historic",
+    "start_date": "2024-06-04",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-11-12",
+    "seed_status": "repealed"
+  }
 }

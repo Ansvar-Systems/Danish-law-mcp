@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til miljøvenlige akvakulturforanstaltninger og dyresundhedsforanstaltninger",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-07-29",
+  "in_force_date": "2010-07-31",
   "url": "https://www.retsinformation.dk/eli/lta/2010/948/xml",
-  "description": "Retsinformation source. DocumentId=AH003959; AccessionNumber=B20100094805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003959; AccessionNumber=B20100094805; Ophævet 2012-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Uanset § 4 kan der fra den 4. august 2010 ikke indgives ansøgning om tilskud.",
-      "valid_from": "2010-07-29",
-      "valid_to": null
+      "valid_from": "2010-07-31",
+      "valid_to": "2012-02-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:36:02.405Z",
+    "accession": "B20100094805",
+    "document_id": "AH003959",
+    "unique_document_id": "133018",
+    "upstream_status": "Historic",
+    "start_date": "2010-07-31",
+    "end_date": "2022-04-09",
+    "historic_marked": "2012-02-28",
+    "seed_status": "repealed"
+  }
 }

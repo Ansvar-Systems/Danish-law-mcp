@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opkrævning m.v. af indkomst- og formueskat",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-05-28",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/330/xml",
-  "description": "Retsinformation source. DocumentId=CM020119; AccessionNumber=B19910033005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020119; AccessionNumber=B19910033005; Ophævet 1992-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:43:34.338Z",
+    "accession": "B19910033005",
+    "document_id": "CM020119",
+    "unique_document_id": "61151",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2005-06-29",
+    "historic_marked": "1992-12-30",
+    "seed_status": "repealed"
+  }
 }

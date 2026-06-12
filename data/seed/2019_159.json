@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2019-02-21",
+  "in_force_date": "2019-02-23",
   "url": "https://www.retsinformation.dk/eli/lta/2019/159/xml",
   "description": "Retsinformation source. DocumentId=AA011302; AccessionNumber=B20190015905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "18a",
       "section": "18a",
       "content": "§ 18 a. I en ejendom, der er påtænkt opdelt i ejerlejligheder, kan Tinglysningsretten oprette særskilte foreløbige bygningsblade for de enkelte ejerlejligheder, selv om disse endnu ikke er oprettet hos Geodatastyrelsen. Med anmodning om oprettelse af særskilte foreløbige bygningsblade skal følge et rids over den samlede ejendom og de påtænkte ejerlejligheder samt en erklæring fra ejeren om den påtænkte opdeling. Stk. 2. Når en ejerlejlighed, der har fået et foreløbigt bygningsblad, jf. stk. 1, oprettes hos Geodatastyrelsen, og Geodatastyrelsen har givet Tinglysningsretten meddelelse herom, anses bygningsbladet og de derpå tinglyste rettigheder som endeligt tinglyste. Senest samtidig med meddelelsen fra Geodatastyrelsen skal der for Tinglysningsretten foreligge en erklæring fra en landinspektør med beskikkelse, hvoraf det fremgår, hvilken identitet det enkelte foreløbige bygningsblad har fået hos Geodatastyrelsen.",
-      "valid_from": "2019-02-21",
+      "valid_from": "2019-02-23",
       "valid_to": null
     },
     {
       "provision_ref": "45",
       "section": "45",
       "content": "§ 45. Tinglysningsretten kan til brug for en afgørelse efter §§ 42 eller 43 forlange, at der forevises en erklæring fra en landinspektør med beskikkelse, hvoraf det fremgår, om de på en ejendom tinglyste servitutter fortsat geografisk ve‌drører den pågældende ejendom eller arealer overført fra denne.",
-      "valid_from": "2019-02-21",
+      "valid_from": "2019-02-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:52:10.855Z",
+    "accession": "B20190015905",
+    "document_id": "AA011302",
+    "unique_document_id": "207379",
+    "upstream_status": "Valid",
+    "start_date": "2019-02-23",
+    "end_date": "2019-02-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

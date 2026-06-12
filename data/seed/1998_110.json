@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om udlevering af lovovertrædere",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-02-18",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1998/110/xml",
-  "description": "Retsinformation source. DocumentId=CM046779; AccessionNumber=A19980011029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046779; AccessionNumber=A19980011029; Ophævet 2005-09-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:32:05.720Z",
+    "accession": "A19980011029",
+    "document_id": "CM046779",
+    "unique_document_id": "86983",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2022-12-23",
+    "historic_marked": "2005-09-08",
+    "seed_status": "repealed"
+  }
 }

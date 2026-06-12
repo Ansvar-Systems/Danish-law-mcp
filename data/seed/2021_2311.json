@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-12-08",
+  "in_force_date": "2021-12-08",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2311/xml",
   "description": "Retsinformation source. DocumentId=CE001144; AccessionNumber=B20210231105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -395,5 +396,16 @@
       "definition": "ud over pædagogisk kompetence dokumenteret teoretisk, faglig og professionsmæssig kompetence",
       "source_provision": "7:21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:15:14.245Z",
+    "accession": "B20210231105",
+    "document_id": "CE001144",
+    "unique_document_id": "226038",
+    "upstream_status": "Valid",
+    "start_date": "2021-12-08",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

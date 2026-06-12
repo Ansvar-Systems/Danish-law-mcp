@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om planlægning",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/388/xml",
-  "description": "Retsinformation source. DocumentId=CM008196; AccessionNumber=A19910038830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008196; AccessionNumber=A19910038830; Ophævet 1996-02-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:45:44.491Z",
+    "accession": "A19910038830",
+    "document_id": "CM008196",
+    "unique_document_id": "49386",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-04-28",
+    "historic_marked": "1996-02-25",
+    "seed_status": "repealed"
+  }
 }

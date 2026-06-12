@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ophævelse af lov om GiroBank A/S (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-20",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1124/xml",
-  "description": "Retsinformation source. DocumentId=CM010236; AccessionNumber=A19950112430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010236; AccessionNumber=A19950112430; Ophævet 2025-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:23:23.437Z",
+    "accession": "A19950112430",
+    "document_id": "CM010236",
+    "unique_document_id": "51409",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-04-02",
+    "historic_marked": "2025-04-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om erhvervsmæssig handel med og opdræt af hunde samt hundepensioner og hundeinternater",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-17",
+  "in_force_date": "2009-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1340/xml",
-  "description": "Retsinformation source. DocumentId=AA005294; AccessionNumber=B20090134005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005294; AccessionNumber=B20090134005; Ophævet 2015-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "29",
@@ -24,16 +25,27 @@
       "provision_ref": "29",
       "section": "29",
       "content": "§ 29 a. Hvis virksomheden er omfattet af § 1, nr. 3, skal virksomheden give kunderne kontaktoplysninger vedrørende den myndighed, der meddeler tilladelse efter dyreværnslovens § 18, stk. 1. Oplysningerne skal gives til eller gøres tilgængelige for kunden, inden der indgås aftale om anbringelse af hunden i pensionen eller internatet. Stk. 2. Oplysningerne gives eller gøres tilgængelige på den måde, som den, der driver virksomheden, finder mest egnet. Oplysningerne kan herunder gøres tilgængelige ad elektronisk vej via en adresse oplyst af den pågældende eller ved, at oplysningerne er tilgængelige der, hvor virksomheden er beliggende.",
-      "valid_from": "2009-12-17",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2015-12-08"
     },
     {
       "provision_ref": "30",
       "section": "30",
       "content": "§ 30. Fødevareregionen fører tilsyn med virksomheden og skal lejlighedsvis foretage eftersyn.",
-      "valid_from": "2009-12-17",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2015-12-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:51:26.442Z",
+    "accession": "B20090134005",
+    "document_id": "AA005294",
+    "unique_document_id": "129465",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-18",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-08",
+    "seed_status": "repealed"
+  }
 }

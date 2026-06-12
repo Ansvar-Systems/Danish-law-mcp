@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 14, i lov om ændring af sundhedsloven og lov om klage- og erstatningsadgang inden for sundhedsvæsenet (gennemførelse af dele af direktiv 2011/24/EU om patientrettigheder i forbindelse med grænseoverskridende sundhedsydelser m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-06-29",
+  "in_force_date": "2016-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1018/xml",
-  "description": "Retsinformation source. DocumentId=CN000200; AccessionNumber=B20160101805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000200; AccessionNumber=B20160101805; Ophævet 2017-01-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 14, i lov om ændring af sundhedsloven og lov om klage- og erstatningsadgang inden for sundhedsvæsenet (gennemførelse af dele af direktiv 2011/24/EU om patientrettigheder i forbindelse med grænseoverskridende sundhedsydelser m.v.) sættes i kraft. ‌",
-      "valid_from": "2016-06-29",
-      "valid_to": null
+      "valid_from": "2016-06-30",
+      "valid_to": "2017-01-25"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2016.",
-      "valid_from": "2016-06-29",
-      "valid_to": null
+      "valid_from": "2016-06-30",
+      "valid_to": "2017-01-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:32:43.579Z",
+    "accession": "B20160101805",
+    "document_id": "CN000200",
+    "unique_document_id": "183258",
+    "upstream_status": "Historic",
+    "start_date": "2016-06-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "2017-01-25",
+    "seed_status": "repealed"
+  }
 }

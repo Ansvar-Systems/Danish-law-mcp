@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-10-11",
+  "in_force_date": "2023-10-12",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1232/xml",
   "description": "Retsinformation source. DocumentId=DI000970; AccessionNumber=B20230123205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1015 af 21. juni 2023 om kvalitetsstandarder ophæves.",
-      "valid_from": "2023-10-11",
+      "valid_from": "2023-10-12",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 16. oktober 2023.",
-      "valid_from": "2023-10-11",
+      "valid_from": "2023-10-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:11:01.516Z",
+    "accession": "B20230123205",
+    "document_id": "DI000970",
+    "unique_document_id": "239383",
+    "upstream_status": "Valid",
+    "start_date": "2023-10-12",
+    "end_date": "2023-10-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

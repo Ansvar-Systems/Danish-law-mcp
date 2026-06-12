@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om udmøntning af indenlandsk skillemønt",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-03-08",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/139/xml",
-  "description": "Retsinformation source. DocumentId=CM023101; AccessionNumber=B19890013903; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023101; AccessionNumber=B19890013903; Ophævet 1989-11-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:30:15.014Z",
+    "accession": "B19890013903",
+    "document_id": "CM023101",
+    "unique_document_id": "64076",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1989-11-14",
+    "seed_status": "repealed"
+  }
 }

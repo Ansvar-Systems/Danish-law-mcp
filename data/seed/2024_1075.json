@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2024-10-03",
+  "in_force_date": "2024-10-04",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1075/xml",
   "description": "Retsinformation source. DocumentId=AN016529; AccessionNumber=B20240107505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "46",
       "section": "46",
       "content": "§ 46. Køberen skal over for virksomheden og Skatteforvaltningen dokumentere sin bopæl eller sædvanligt opholdssted uden for EU ved forevisning af pas, identitetskort eller anden tilsvarende billedlegitimation. Hvis oplysninger om bopæl eller sædvanligt opholdssted ikke fremgår af den foreviste billedlegitimation, skal der forevises supplerende dokumentation for, hvor personen har bopæl eller sædvanligt opholdssted .",
-      "valid_from": "2024-10-03",
+      "valid_from": "2024-10-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:25:32.792Z",
+    "accession": "B20240107505",
+    "document_id": "AN016529",
+    "unique_document_id": "245104",
+    "upstream_status": "Valid",
+    "start_date": "2024-10-04",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

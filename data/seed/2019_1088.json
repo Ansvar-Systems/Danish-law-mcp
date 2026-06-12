@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2019-10-25",
+  "in_force_date": "2019-11-01",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1088/xml",
   "description": "Retsinformation source. DocumentId=AG000904; AccessionNumber=B20190108805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "22a",
       "section": "22a",
       "content": "§ 22 a. For en stedlig beredskabsstyrke fastlægger kommunalbestyrelsen den fornødne uddannelse for de personer, der skal varetage indsatsopgaver. Uddannelsen skal fremgå af planen for det kommunale redningsberedskab.",
-      "valid_from": "2019-10-25",
+      "valid_from": "2019-11-01",
       "valid_to": null
     },
     {
       "provision_ref": "23a",
       "section": "23a",
       "content": "§ 23 a. For personel, der skal fungere som leder af en stedlig beredskabsstyrke, jf. § 22 a, fastlægger kommunalbestyrelsen den fornødne uddannelse til at varetage ledelsen af indsatsen på skadestedet. Uddannelsen skal fremgå af planen for det kommunale redningsberedskab.",
-      "valid_from": "2019-10-25",
+      "valid_from": "2019-11-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:31:59.034Z",
+    "accession": "B20190108805",
+    "document_id": "AG000904",
+    "unique_document_id": "210805",
+    "upstream_status": "Valid",
+    "start_date": "2019-11-01",
+    "end_date": "2026-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

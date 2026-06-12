@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilsyn med Frøstruplejren",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-04-28",
+  "in_force_date": "2006-05-22",
   "url": "https://www.retsinformation.dk/eli/lta/2006/431/xml",
-  "description": "Retsinformation source. DocumentId=AL001390; AccessionNumber=B20060043105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001390; AccessionNumber=B20060043105; Ophævet 2021-03-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:23:39.137Z",
+    "accession": "B20060043105",
+    "document_id": "AL001390",
+    "unique_document_id": "12917",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-22",
+    "end_date": "2023-04-28",
+    "historic_marked": "2021-03-03",
+    "seed_status": "repealed"
+  }
 }

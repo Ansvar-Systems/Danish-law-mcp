@@ -5,9 +5,21 @@
   "short_name": "Ændringslov",
   "status": "in_force",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/460/xml",
   "description": "Retsinformation source. DocumentId=AN001017; AccessionNumber=A20000046030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:15.401Z",
+    "accession": "A20000046030",
+    "document_id": "AN001017",
+    "unique_document_id": "13811",
+    "upstream_status": "Valid",
+    "start_date": "2000-06-01",
+    "end_date": "2019-09-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

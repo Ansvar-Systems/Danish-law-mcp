@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forældede og uhævede feriepenge",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-24",
+  "in_force_date": "2005-09-01",
   "url": "https://www.retsinformation.dk/eli/lta/2005/821/xml",
-  "description": "Retsinformation source. DocumentId=BE001326; AccessionNumber=B20050082105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001326; AccessionNumber=B20050082105; Ophævet 2020-09-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:35:41.359Z",
+    "accession": "B20050082105",
+    "document_id": "BE001326",
+    "unique_document_id": "30287",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-09-08",
+    "seed_status": "repealed"
+  }
 }

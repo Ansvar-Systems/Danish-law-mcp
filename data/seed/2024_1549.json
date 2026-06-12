@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2024-12-16",
+  "in_force_date": "2024-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1549/xml",
   "description": "Retsinformation source. DocumentId=DG001004; AccessionNumber=B20240154903; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -23,5 +24,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:49.110Z",
+    "accession": "B20240154903",
+    "document_id": "DG001004",
+    "unique_document_id": "246976",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-16",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af hittegodsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-02-17",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1998/100/xml",
-  "description": "Retsinformation source. DocumentId=CM046644; AccessionNumber=A19980010030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046644; AccessionNumber=A19980010030; Ophævet 2009-07-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:28:18.669Z",
+    "accession": "A19980010030",
+    "document_id": "CM046644",
+    "unique_document_id": "86869",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2009-07-14",
+    "historic_marked": "2009-07-13",
+    "seed_status": "repealed"
+  }
 }

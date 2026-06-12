@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forurenet jord",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-03-22",
+  "in_force_date": "2007-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2007/282/xml",
-  "description": "Retsinformation source. DocumentId=AL001609; AccessionNumber=A20070028229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001609; AccessionNumber=A20070028229; Ophævet 2009-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:15:57.839Z",
+    "accession": "A20070028229",
+    "document_id": "AL001609",
+    "unique_document_id": "13097",
+    "upstream_status": "Historic",
+    "start_date": "2007-03-29",
+    "end_date": "2025-10-04",
+    "historic_marked": "2009-12-22",
+    "seed_status": "repealed"
+  }
 }

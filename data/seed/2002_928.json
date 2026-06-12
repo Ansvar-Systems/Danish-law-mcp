@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anmeldelse af nye kemiske stoffer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-11-19",
+  "in_force_date": "2002-11-28",
   "url": "https://www.retsinformation.dk/eli/lta/2002/928/xml",
-  "description": "Retsinformation source. DocumentId=AL000855; AccessionNumber=B20020092805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000855; AccessionNumber=B20020092805; Ophævet 2008-05-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:03:54.439Z",
+    "accession": "B20020092805",
+    "document_id": "AL000855",
+    "unique_document_id": "12581",
+    "upstream_status": "Historic",
+    "start_date": "2002-11-28",
+    "end_date": "2022-04-09",
+    "historic_marked": "2008-05-28",
+    "seed_status": "repealed"
+  }
 }

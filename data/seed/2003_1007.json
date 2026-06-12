@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om toldbehandling",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-08",
+  "in_force_date": "2003-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1007/xml",
-  "description": "Retsinformation source. DocumentId=AN003927; AccessionNumber=B20030100705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003927; AccessionNumber=B20030100705; Ophævet 2005-10-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:07:04.516Z",
+    "accession": "B20030100705",
+    "document_id": "AN003927",
+    "unique_document_id": "16265",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-18",
+    "end_date": "2007-06-28",
+    "historic_marked": "2005-10-27",
+    "seed_status": "repealed"
+  }
 }

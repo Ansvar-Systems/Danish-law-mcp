@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til omlægning til økologisk jordbrug",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-12-28",
+  "in_force_date": "2007-12-31",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1573/xml",
-  "description": "Retsinformation source. DocumentId=AH002715; AccessionNumber=B20070157305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002715; AccessionNumber=B20070157305; Ophævet 2008-01-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 a. Uanset §§ 8-10 kan der fra den 1. januar 2008 ikke indgives ansøgning om tilsagn om tilskud.",
-      "valid_from": "2007-12-28",
-      "valid_to": null
+      "valid_from": "2007-12-31",
+      "valid_to": "2008-01-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:09:50.040Z",
+    "accession": "B20070157305",
+    "document_id": "AH002715",
+    "unique_document_id": "114321",
+    "upstream_status": "Historic",
+    "start_date": "2007-12-31",
+    "end_date": "2022-04-08",
+    "historic_marked": "2008-01-25",
+    "seed_status": "repealed"
+  }
 }

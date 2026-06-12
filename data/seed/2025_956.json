@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-06-27",
+  "in_force_date": "2025-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2025/956/xml",
   "description": "Retsinformation source. DocumentId=DK000133; AccessionNumber=B20250095605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Tilladelse til administration af internetdomænet . dk forlænges i 6 år.",
-      "valid_from": "2025-06-27",
+      "valid_from": "2025-06-30",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Digitaliseringsstyrelsen forlænger samme dag, som bekendtgørelsen træder i kraft, jf. § 5, den eksisterede tilladelse til administration af internetdomænet . dk.",
-      "valid_from": "2025-06-27",
+      "valid_from": "2025-06-30",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Tilladelsen kan ikke overdrages.",
-      "valid_from": "2025-06-27",
+      "valid_from": "2025-06-30",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Digitaliseringsstyrelsen afholder senest den 1. april 2031 en offentlig høring over spørgsmålet om tilladelsen til administration af internetdomænet . dk bør forlænges, eller om der bør gennemføres et offentligt udbud over administration af internetdomænet . dk.",
-      "valid_from": "2025-06-27",
+      "valid_from": "2025-06-30",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. juli 2026. Stk. 2. Bekendtgørelse nr. 921 af 29. august 2019 om forlængelse af tilladelse til administration af internetdomænet . dk ophæves.",
-      "valid_from": "2025-06-27",
+      "valid_from": "2025-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:33:02.718Z",
+    "accession": "B20250095605",
+    "document_id": "DK000133",
+    "unique_document_id": "250891",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-30",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

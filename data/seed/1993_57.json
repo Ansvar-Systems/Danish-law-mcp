@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om banker og sparekasser m.v. (* 1)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-02-02",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1993/57/xml",
-  "description": "Retsinformation source. DocumentId=CM025203; AccessionNumber=A19930005729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025203; AccessionNumber=A19930005729; Ophævet 1994-04-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:18:24.564Z",
+    "accession": "A19930005729",
+    "document_id": "CM025203",
+    "unique_document_id": "66090",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1994-04-22",
+    "seed_status": "repealed"
+  }
 }

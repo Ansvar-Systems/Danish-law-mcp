@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kriterier for statslige vådområdeprojekter",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-03-15",
+  "in_force_date": "2013-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2013/294/xml",
-  "description": "Retsinformation source. DocumentId=AL002769; AccessionNumber=B20130029405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002769; AccessionNumber=B20130029405; Ophævet 2015-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne i denne bekendtgørelse vedrører kriterier for statslige vådområdeprojekter, som Naturstyrelsen iværksætter for at forbedre vandmiljø og natur ved en reduktion af kvælstofbelastningen i de hovedvandoplande, der fremgår af bilag 2.",
-      "valid_from": "2013-03-15",
-      "valid_to": null
+      "valid_from": "2013-03-21",
+      "valid_to": "2015-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:58:36.110Z",
+    "accession": "B20130029405",
+    "document_id": "AL002769",
+    "unique_document_id": "145464",
+    "upstream_status": "Historic",
+    "start_date": "2013-03-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-12-21",
+    "seed_status": "repealed"
+  }
 }

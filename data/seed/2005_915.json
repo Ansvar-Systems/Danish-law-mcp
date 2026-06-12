@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til serigraf",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-28",
+  "in_force_date": "2005-10-11",
   "url": "https://www.retsinformation.dk/eli/lta/2005/915/xml",
-  "description": "Retsinformation source. DocumentId=AT002342; AccessionNumber=B20050091505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002342; AccessionNumber=B20050091505; Ophævet 2006-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:39:26.426Z",
+    "accession": "B20050091505",
+    "document_id": "AT002342",
+    "unique_document_id": "24943",
+    "upstream_status": "Historic",
+    "start_date": "2005-10-11",
+    "end_date": "2021-01-08",
+    "historic_marked": "2006-07-10",
+    "seed_status": "repealed"
+  }
 }

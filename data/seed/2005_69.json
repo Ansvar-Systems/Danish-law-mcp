@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om euforiserende stoffer",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-01-21",
+  "in_force_date": "2005-01-31",
   "url": "https://www.retsinformation.dk/eli/lta/2005/69/xml",
-  "description": "Retsinformation source. DocumentId=AI001795; AccessionNumber=B20050006905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001795; AccessionNumber=B20050006905; Ophævet 2008-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:30:20.833Z",
+    "accession": "B20050006905",
+    "document_id": "AI001795",
+    "unique_document_id": "10008",
+    "upstream_status": "Historic",
+    "start_date": "2005-01-31",
+    "end_date": "2022-07-12",
+    "historic_marked": "2008-07-10",
+    "seed_status": "repealed"
+  }
 }

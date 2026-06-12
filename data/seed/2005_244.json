@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om køretøjers indretning og udstyr m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-04-07",
+  "in_force_date": "2005-04-14",
   "url": "https://www.retsinformation.dk/eli/lta/2005/244/xml",
-  "description": "Retsinformation source. DocumentId=AR000978; AccessionNumber=B20050024405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000978; AccessionNumber=B20050024405; Ophævet 2024-05-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:12:23.798Z",
+    "accession": "B20050024405",
+    "document_id": "AR000978",
+    "unique_document_id": "22400",
+    "upstream_status": "Historic",
+    "start_date": "2005-04-14",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-05-29",
+    "seed_status": "repealed"
+  }
 }

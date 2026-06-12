@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om alment farlige sygdomme",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-02-27",
+  "in_force_date": "2021-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/304/xml",
-  "description": "Retsinformation source. DocumentId=DI000048; AccessionNumber=B20210030405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000048; AccessionNumber=B20210030405; Ophævet 2023-03-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Alment farlige sygdomme, efter epidemilovens § 2, stk. 3, omfatter de sygdomme, som fremgår af Bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2021-02-27",
-      "valid_to": null
+      "valid_from": "2021-02-28",
+      "valid_to": "2023-03-30"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. marts 2021.",
-      "valid_from": "2021-02-27",
-      "valid_to": null
+      "valid_from": "2021-02-28",
+      "valid_to": "2023-03-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:28.857Z",
+    "accession": "B20210030405",
+    "document_id": "DI000048",
+    "unique_document_id": "221270",
+    "upstream_status": "Historic",
+    "start_date": "2021-02-28",
+    "end_date": "2023-03-31",
+    "historic_marked": "2023-03-30",
+    "seed_status": "repealed"
+  }
 }

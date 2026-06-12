@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om arbejdsmarkedsbidrag",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-02-17",
+  "in_force_date": "2005-03-08",
   "url": "https://www.retsinformation.dk/eli/lta/2005/136/xml",
-  "description": "Retsinformation source. DocumentId=AN004534; AccessionNumber=B20050013605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004534; AccessionNumber=B20050013605; Ophævet 2006-07-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:03:22.689Z",
+    "accession": "B20050013605",
+    "document_id": "AN004534",
+    "unique_document_id": "16715",
+    "upstream_status": "Historic",
+    "start_date": "2005-03-08",
+    "end_date": "2007-01-02",
+    "historic_marked": "2006-07-20",
+    "seed_status": "repealed"
+  }
 }

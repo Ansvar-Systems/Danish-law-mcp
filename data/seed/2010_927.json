@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om beregning og opkrævning af udgifter i forbindelse med den opfølgende besætningskontrol",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-07-15",
+  "in_force_date": "2010-07-20",
   "url": "https://www.retsinformation.dk/eli/lta/2010/927/xml",
-  "description": "Retsinformation source. DocumentId=AA005583; AccessionNumber=B20100092705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005583; AccessionNumber=B20100092705; Ophævet 2012-06-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Udgifter i forbindelse med den opfølgende besætningskontrol, jf. dyreværnslovens § 24 e, stk. 1, udgør de beløb, der følger af taksterne for ekstra kontrol i bedrifter med levende dyr i bekendtgørelse om betaling for kontrol af fødevarer og levende dyr mv. Stk. 2. Beløb, som opkræves i henhold til stk. 1, og som ikke betales rettidigt, tillægges en årlig rente svarende til renten i henhold til rentelovens § 5. Den tillagte rente udgør dog mindst 50 kr. For erindringsskrivelser ved for sen betaling betales et beløb på 100 kr.",
-      "valid_from": "2010-07-15",
-      "valid_to": null
+      "valid_from": "2010-07-20",
+      "valid_to": "2012-06-27"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2010.",
-      "valid_from": "2010-07-15",
-      "valid_to": null
+      "valid_from": "2010-07-20",
+      "valid_to": "2012-06-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:35:12.212Z",
+    "accession": "B20100092705",
+    "document_id": "AA005583",
+    "unique_document_id": "132921",
+    "upstream_status": "Historic",
+    "start_date": "2010-07-20",
+    "end_date": "2022-04-08",
+    "historic_marked": "2012-06-27",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2022-05-10",
+  "in_force_date": "2022-05-10",
   "url": "https://www.retsinformation.dk/eli/lta/2022/567/xml",
   "description": "Retsinformation source. DocumentId=DA000866; AccessionNumber=A20220056730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -23,5 +24,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:44:10.246Z",
+    "accession": "A20220056730",
+    "document_id": "DA000866",
+    "unique_document_id": "230842",
+    "upstream_status": "Valid",
+    "start_date": "2022-05-10",
+    "end_date": "2022-12-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

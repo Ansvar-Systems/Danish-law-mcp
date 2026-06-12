@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af jernbaneloven (Certificering af virksomheder, der udfører opgaver for andre end jernbanevirksomheder og infrastrukturforvaltere)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-19",
+  "in_force_date": "2017-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1558/xml",
-  "description": "Retsinformation source. DocumentId=CX000309; AccessionNumber=A20170155830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000309; AccessionNumber=A20170155830; Ophævet 2023-08-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -20,8 +21,19 @@
       "section": "11",
       "content": "§ 11 For virksomheder, som er certificeret efter regler, der er fastsat efter stk. 2, gælder §§ 15, 21, 50-54, 57, 58, 60, 61, 64–79 og 103 og kapitel 12 og 13 samt regler udstedt i medfør heraf. Reglerne i §§ 50-54 finder dog kun anvendelse ved skader på ejendom eller personer, der ikke befordres med virksomheder, som er certificeret efter regler, der er fastsat efter stk. 2. Stk. 2 Transport-, bygnings- og boligministeren kan fastsætte regler om sikkerhedscertificering af virksomheder, som udfører kørsel på eget ansvar på jernbanenettet, og som ikke er omfattet af § 9 om tilladelse til at drive jernbanevirksomhed. Transport-, bygnings- og boligministeren kan endvidere fastsætte regler om forsikring for disse virksomheder.",
       "valid_from": "2017-12-19",
-      "valid_to": null
+      "valid_to": "2023-08-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:59:13.506Z",
+    "accession": "A20170155830",
+    "document_id": "CX000309",
+    "unique_document_id": "196564",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-19",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-08-17",
+    "seed_status": "repealed"
+  }
 }

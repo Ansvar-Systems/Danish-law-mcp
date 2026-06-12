@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Erhvervsstyrelsens behandling af data",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-03-25",
+  "in_force_date": "2020-03-25",
   "url": "https://www.retsinformation.dk/eli/lta/2020/268/xml",
-  "description": "Retsinformation source. DocumentId=CQ001163; AccessionNumber=B20200026805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001163; AccessionNumber=B20200026805; Ophævet 2020-07-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:22:27.611Z",
+    "accession": "B20200026805",
+    "document_id": "CQ001163",
+    "unique_document_id": "213608",
+    "upstream_status": "Historic",
+    "start_date": "2020-03-25",
+    "end_date": "2020-07-04",
+    "historic_marked": "2020-07-03",
+    "seed_status": "repealed"
+  }
 }

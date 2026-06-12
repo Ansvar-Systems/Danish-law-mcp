@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-11-21",
+  "in_force_date": "2019-11-22",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1150/xml",
-  "description": "Retsinformation source. DocumentId=DB000062; AccessionNumber=B20190115005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000062; AccessionNumber=B20190115005; Ophævet 2020-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den danske frekvensplan fremgår af bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2019-11-21",
-      "valid_to": null
+      "valid_from": "2019-11-22",
+      "valid_to": "2020-11-27"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2020. Stk. 2. Bekendtgørelse nr. 831 af 9. august 2019 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan) ophæves.",
-      "valid_from": "2019-11-21",
-      "valid_to": null
+      "valid_from": "2019-11-22",
+      "valid_to": "2020-11-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:34:31.218Z",
+    "accession": "B20190115005",
+    "document_id": "DB000062",
+    "unique_document_id": "211208",
+    "upstream_status": "Historic",
+    "start_date": "2019-11-22",
+    "end_date": "2026-06-04",
+    "historic_marked": "2020-11-27",
+    "seed_status": "repealed"
+  }
 }

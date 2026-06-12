@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om delvis ophævelse af lov om fødevarer m.m. (fødevareloven)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-11",
+  "in_force_date": "2005-09-15",
   "url": "https://www.retsinformation.dk/eli/lta/2005/855/xml",
-  "description": "Retsinformation source. DocumentId=BG000242; AccessionNumber=B20050085505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000242; AccessionNumber=B20050085505; Ophævet 2005-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:37:01.426Z",
+    "accession": "B20050085505",
+    "document_id": "BG000242",
+    "unique_document_id": "31525",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-15",
+    "end_date": "2022-04-09",
+    "historic_marked": "2005-11-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af lov om registrering af ledningsejere (Ændring af arbejdsgang med udlevering af standardiserede ledningsoplysninger og udvidelse af lovens anvendelsesområde)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-11-26",
+  "in_force_date": "2019-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1358/xml",
-  "description": "Retsinformation source. DocumentId=DB000070; AccessionNumber=B20190135805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000070; AccessionNumber=B20190135805; Ophævet 2020-01-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1, 6, 8-14 og 22, og §§ 9 d og 9 e i lov om registrering af ledningsejere, som affattet ved § 1, nr. 21, i lov nr. 1674 af 26. december 2017 om ændring af lov om registrering af ledningsejere (Ændring af arbejdsgang med udlevering af standardiserede ledningsoplysninger og udvidelse af lovens anvendelsesområde) sættes i kraft.",
-      "valid_from": "2019-11-26",
-      "valid_to": null
+      "valid_from": "2019-12-12",
+      "valid_to": "2020-01-24"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2020.",
-      "valid_from": "2019-11-26",
-      "valid_to": null
+      "valid_from": "2019-12-12",
+      "valid_to": "2020-01-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:50.078Z",
+    "accession": "B20190135805",
+    "document_id": "DB000070",
+    "unique_document_id": "211459",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-12",
+    "end_date": "2020-01-25",
+    "historic_marked": "2020-01-24",
+    "seed_status": "repealed"
+  }
 }

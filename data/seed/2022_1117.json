@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-06-30",
+  "in_force_date": "2022-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1117/xml",
   "description": "Retsinformation source. DocumentId=DC000641; AccessionNumber=B20220111705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 764 af 2. juni 2022 om fund af infektion med Newcastle disease-virus ved Stenstrup i Næstved Kommune. 2) Bekendtgørelse nr. 765 af 2. juni 2022 om fund af infektion med Newcastle disease-virus ved Stenbæksholm i Næstved Kommune.",
-      "valid_from": "2022-06-30",
+      "valid_from": "2022-07-04",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. juli 2022.",
-      "valid_from": "2022-06-30",
+      "valid_from": "2022-07-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:06:12.520Z",
+    "accession": "B20220111705",
+    "document_id": "DC000641",
+    "unique_document_id": "232222",
+    "upstream_status": "Valid",
+    "start_date": "2022-07-04",
+    "end_date": "2022-07-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

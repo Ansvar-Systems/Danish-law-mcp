@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af adoptionsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-16",
+  "in_force_date": "1999-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1040/xml",
-  "description": "Retsinformation source. DocumentId=AA000899; AccessionNumber=A19990104029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA000899; AccessionNumber=A19990104029; Ophævet 2004-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:09:14.195Z",
+    "accession": "A19990104029",
+    "document_id": "AA000899",
+    "unique_document_id": "716",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-28",
+    "end_date": "2022-07-09",
+    "historic_marked": "2004-09-23",
+    "seed_status": "repealed"
+  }
 }

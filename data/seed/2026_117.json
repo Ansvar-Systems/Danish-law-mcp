@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2026-01-20",
+  "in_force_date": "2026-01-23",
   "url": "https://www.retsinformation.dk/eli/lta/2026/117/xml",
   "description": "Retsinformation source. DocumentId=DI001730; AccessionNumber=B20260011705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 3 og 4, i lov nr. 717 af 20. juni 2025 om ændring af sundhedsloven, lov om apoteksvirksomhed og lov om videnskabsetisk behandling af sundhedsvidenskabelige forskningsprojekter og sundhedsdatavidenskabelige forskningsprojekter (Opfølgning på vision for strategisk samarbejde for bedre brug af sundhedsdata, videregivelse af oplysninger om demensdiagnoser, styrket beskyttelse af medarbejdere i sundhedsvæsenet i sager om aktindsigt m.v.) sættes i kraft.",
-      "valid_from": "2026-01-20",
+      "valid_from": "2026-01-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2026.",
-      "valid_from": "2026-01-20",
+      "valid_from": "2026-01-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:35:30.030Z",
+    "accession": "B20260011705",
+    "document_id": "DI001730",
+    "unique_document_id": "255048",
+    "upstream_status": "Valid",
+    "start_date": "2026-01-23",
+    "end_date": "2026-02-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

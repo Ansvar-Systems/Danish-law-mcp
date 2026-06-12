@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2023-01-25",
+  "in_force_date": "2023-01-27",
   "url": "https://www.retsinformation.dk/eli/lta/2023/93/xml",
   "description": "Retsinformation source. DocumentId=DC000862; AccessionNumber=B20230009305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "29",
       "section": "29",
       "content": "§ 29. Hvis der er søgt om tilskud til biodiversitet og bæredygtighed eller til ekstensivering med slæt, nedsættes det årlige tilskud for arealet for det pågældende tilsagnsår til 0 kr. pr. ha, jf. § 28, stk. 1.",
-      "valid_from": "2023-01-25",
+      "valid_from": "2023-01-27",
       "valid_to": null
     },
     {
       "provision_ref": "31",
       "section": "31",
       "content": "§ 31. Hvis arealet er registreret på Internet Markkort som beliggende i en markblok af typen »Permanent græs (PGR)« med en tilknyttet tilskudsprocent, beregnes det årlige tilskud på grundlag af arealet ganget med markblokkens tilskudsprocent.",
-      "valid_from": "2023-01-25",
+      "valid_from": "2023-01-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:07:15.941Z",
+    "accession": "B20230009305",
+    "document_id": "DC000862",
+    "unique_document_id": "234472",
+    "upstream_status": "Valid",
+    "start_date": "2023-01-27",
+    "end_date": "2023-01-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om slagtning, forhandling, udførsel og indførsel af fjerkræ m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1958-06-16",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1958/217/xml",
-  "description": "Retsinformation source. DocumentId=CM038953; AccessionNumber=A19580021730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038953; AccessionNumber=A19580021730; Ophævet 1996-12-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:01:49.039Z",
+    "accession": "A19580021730",
+    "document_id": "CM038953",
+    "unique_document_id": "79740",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-17",
+    "historic_marked": "1996-12-03",
+    "seed_status": "repealed"
+  }
 }

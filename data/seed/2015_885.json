@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-07-07",
+  "in_force_date": "2015-07-14",
   "url": "https://www.retsinformation.dk/eli/lta/2015/885/xml",
   "description": "Retsinformation source. DocumentId=CH000019; AccessionNumber=B20150088505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 676 af 26. juni 2008 om gennemførelse af Kommissionens beslutning af 20. december 2007 vedrørende den tekniske specifikation for interoperabilitet for »sikkerhed i jernbanetunneler« i det transeuropæiske jernbanesystem for konventionelle tog og højhastighedstog ophæves.",
-      "valid_from": "2015-07-07",
+      "valid_from": "2015-07-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juli 2015. Stk. 2. Den i § 1 anførte bekendtgørelse finder dog fortsat anvendelse i de tilfælde, som er angivet i artikel 9 i Kommissionens forordning nr. 1303/2014/EU af 18. november 2014 om den tekniske specifikation for interoperabilitet gældende for sikkerhed i jernbanetunneller i jernbanesystemet i Den Europæiske Union.",
-      "valid_from": "2015-07-07",
+      "valid_from": "2015-07-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:27:14.478Z",
+    "accession": "B20150088505",
+    "document_id": "CH000019",
+    "unique_document_id": "173287",
+    "upstream_status": "Valid",
+    "start_date": "2015-07-14",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål m.m. (jordfordelingsloven) og lov om påligningen af indkomstskat til staten (ligningsloven)\\n(Forenkling af kendelsessystemet ved jordfordelinger m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-22",
+  "in_force_date": "2010-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2010/244/xml",
-  "description": "Retsinformation source. DocumentId=AH003793; AccessionNumber=A20100024430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003793; AccessionNumber=A20100024430; Ophævet 2010-12-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -20,8 +21,19 @@
       "section": "8",
       "content": "§ 8. Såfremt jordfordelingen ikke kan noteres i matriklen eller tinglyses, afsiger jordfordelingskommissionen tillæg til kendelse, som sikrer, at dette sker. Såfremt en panthaver efter kendelsesmødet modsætter sig, at et areal udgår af pantet, eller en lodsejer gør indsigelse mod regulering af kontante vederlag eller mod fordeling af skatter og afgifter m.v., tager jordfordelingskommissionen stilling hertil ved tillægskendelse, som har samme retsvirkning som kendelse, jf. § 4, stk. 4. Stk. 2. Formanden for jordfordelingskommissionen beslutter, om spørgsmål i henhold til stk. 1 skal behandles af jordfordelingskommissionen, og i givet fald om spørgsmålene kan behandles af formanden på jordfordelingskommissionens vegne.",
       "valid_from": "2010-03-22",
-      "valid_to": null
+      "valid_to": "2010-12-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:07:36.304Z",
+    "accession": "A20100024430",
+    "document_id": "AH003793",
+    "unique_document_id": "130913",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-22",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-12-09",
+    "seed_status": "repealed"
+  }
 }

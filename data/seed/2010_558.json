@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om bekæmpelsesmidler\\n(Regler om besiddelse af visse bekæmpelsesmidler og ændring af bilag om optagelse eller ikke optagelse af aktivstoffer mv.)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-26",
+  "in_force_date": "2010-05-28",
   "url": "https://www.retsinformation.dk/eli/lta/2010/558/xml",
-  "description": "Retsinformation source. DocumentId=AL002221; AccessionNumber=B20100055805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002221; AccessionNumber=B20100055805; Ophævet 2011-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "43",
@@ -19,9 +20,20 @@
       "provision_ref": "43",
       "section": "43",
       "content": "§ 43. Plantebeskyttelsesmidler, der indeholder aktivstoffer anført i bilag 9, jf. bilag 9a, 9b og 9c, og bilag 10 til denne bekendtgørelse, er forbudt at sælge og anvende efter tidsfristerne anført i bilagene.",
-      "valid_from": "2010-05-26",
-      "valid_to": null
+      "valid_from": "2010-05-28",
+      "valid_to": "2011-03-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:20:16.760Z",
+    "accession": "B20100055805",
+    "document_id": "AL002221",
+    "unique_document_id": "131946",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-28",
+    "end_date": "2023-11-08",
+    "historic_marked": "2011-03-29",
+    "seed_status": "repealed"
+  }
 }

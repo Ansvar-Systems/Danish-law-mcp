@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-12-14",
+  "in_force_date": "2010-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1424/xml",
   "description": "Retsinformation source. DocumentId=AG000446; AccessionNumber=B20100142405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Tekniske specifikationer, som der henvises til i regler fastsat i medfør af beredskabslovens § 33, stk. 1 og 2, og § 70, stk. 4 og 5, kan efter en konkret vurdering foretaget af Beredskabsstyrelsen undtages fra indførelse i Lovtidende. Stk. 2. Ved tekniske specifikationer, jf. stk. 1, forstås danske, europæiske eller internationale standarder, guidelines, normer, klassificeringer, anvisninger, vejledninger, retningslinjer eller tekniske definitioner m.v. Stk. 3. De tekniske specifikationer, som ikke indføres i Lovtidende, jf. stk. 1, kan i stedet gennemses hos Beredskabsstyrelsen eller købes hos den pågældende udsteder. Stk. 4. De tekniske specifikationer, som ikke indføres i Lovtidende, jf. stk. 1, er gældende, selvom de ikke foreligger på dansk.",
-      "valid_from": "2010-12-14",
+      "valid_from": "2010-12-16",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 22. december 2010.",
-      "valid_from": "2010-12-14",
+      "valid_from": "2010-12-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:52:12.014Z",
+    "accession": "B20100142405",
+    "document_id": "AG000446",
+    "unique_document_id": "134753",
+    "upstream_status": "Valid",
+    "start_date": "2010-12-16",
+    "end_date": "2026-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

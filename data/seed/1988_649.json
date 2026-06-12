@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om toldbehandling",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-10-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/649/xml",
-  "description": "Retsinformation source. DocumentId=CM020385; AccessionNumber=B19880064905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020385; AccessionNumber=B19880064905; Ophævet 1992-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:19:16.137Z",
+    "accession": "B19880064905",
+    "document_id": "CM020385",
+    "unique_document_id": "61416",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-01-14",
+    "historic_marked": "1992-07-10",
+    "seed_status": "repealed"
+  }
 }

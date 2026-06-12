@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2009-08-20",
+  "in_force_date": "2009-08-22",
   "url": "https://www.retsinformation.dk/eli/lta/2009/788/xml",
   "description": "Retsinformation source. DocumentId=AA005017; AccessionNumber=B20090078805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov for Færøerne om rettens pleje § 115 b og § 149, stk. 1-6, som affattet ved § 1, nr. 7 og 48, i lov nr. 505 af 12. juni 2009, træder i kraft den 1. september 2009.",
-      "valid_from": "2009-08-20",
+      "valid_from": "2009-08-22",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Lov for Færøerne om rettens pleje § 469, stk. 1, 2. pkt., § 469, stk. 4, 3. pkt., § 470, stk. 3, 3. pkt., § 765, stk. 5, og § 811, stk. 2, som affattet ved § 1, nr. 71-73, 83 og 86, i lov nr. 505 af 12. juni 2009, træder i kraft den 1. oktober 2009.",
-      "valid_from": "2009-08-20",
+      "valid_from": "2009-08-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:26:10.132Z",
+    "accession": "B20090078805",
+    "document_id": "AA005017",
+    "unique_document_id": "126461",
+    "upstream_status": "Valid",
+    "start_date": "2009-08-22",
+    "end_date": "2009-08-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

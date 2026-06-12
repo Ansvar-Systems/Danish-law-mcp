@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-10-27",
+  "in_force_date": "2016-11-03",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1280/xml",
   "description": "Retsinformation source. DocumentId=AA009929; AccessionNumber=B20160128005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Efter § 21, stk. 1, i lov om skifte af dødsboer reguleres den i lovens § 18 nævnte beløbsgrænse hvert år pr. 1. januar med 2,0 pct. tillagt eller fratrukket tilpasningsprocenten for det pågældende finansår, jf. lov om en satsreguleringsprocent. Det regulerede beløb afrundes opad til det nærmeste hele kronebeløb, der kan deles med 1.000. Reguleringen sker på grundlag af den på reguleringstidspunktet gældende beløbsgrænse før afrunding. Stk. 2. Tilpasningsprocenten for finansåret 2017 udgør 0,2, jf. § 2 i bekendtgørelse nr. 1135 af 29. august 2016 om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2017.",
-      "valid_from": "2016-10-27",
+      "valid_from": "2016-11-03",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Med virkning for dødsfald, der indtræder i perioden 1. januar 2017 - 31. december 2017, udgør beløbet i § 18, stk. 1, 43.000 kr.",
-      "valid_from": "2016-10-27",
+      "valid_from": "2016-11-03",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2017.",
-      "valid_from": "2016-10-27",
+      "valid_from": "2016-11-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:43:18.364Z",
+    "accession": "B20160128005",
+    "document_id": "AA009929",
+    "unique_document_id": "184495",
+    "upstream_status": "Valid",
+    "start_date": "2016-11-03",
+    "end_date": "2021-09-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

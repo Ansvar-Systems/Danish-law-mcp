@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om social bistand",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-12-06",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/817/xml",
-  "description": "Retsinformation source. DocumentId=CM012626; AccessionNumber=A19900081729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012626; AccessionNumber=A19900081729; Ophævet 1992-10-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:30:44.181Z",
+    "accession": "A19900081729",
+    "document_id": "CM012626",
+    "unique_document_id": "53761",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-01-18",
+    "historic_marked": "1992-10-12",
+    "seed_status": "repealed"
+  }
 }

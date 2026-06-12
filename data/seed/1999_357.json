@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om undersøgelseskommissioner",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/357/xml",
-  "description": "Retsinformation source. DocumentId=AA000469; AccessionNumber=A19990035730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA000469; AccessionNumber=A19990035730; Ophævet 2021-06-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:24:50.682Z",
+    "accession": "A19990035730",
+    "document_id": "AA000469",
+    "unique_document_id": "341",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-02",
+    "end_date": "2026-01-09",
+    "historic_marked": "2021-06-07",
+    "seed_status": "repealed"
+  }
 }

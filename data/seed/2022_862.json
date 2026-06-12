@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 4 i lov om ændring af afskrivningsloven, ligningsloven, pensionsafkastbeskatningsloven og lov om afgift af svovl (Forhøjelse af grænsen for straksafskrivning m.v., midlertidig forhøjelse af afskrivningsgrundlaget for nye driftsmidler, forlængelse af den midlertidige forhøjelse af fradrag for udgifter til forsøgs- og forskningsvirksomhed og forlængelse af bundfradrag i svovlafgiften)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-06-15",
+  "in_force_date": "2022-06-17",
   "url": "https://www.retsinformation.dk/eli/lta/2022/862/xml",
-  "description": "Retsinformation source. DocumentId=AN015598; AccessionNumber=B20220086205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN015598; AccessionNumber=B20220086205; Ophævet 2025-10-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 4 i lov nr. 672 af 19. april 2021 om ændring af afskrivningsloven, ligningsloven, pensionsafkastbeskatningsloven og lov om afgift af svovl (Forhøjelse af grænsen for straksafskrivning m.v., midlertidig forhøjelse af afskrivningsgrundlaget for nye driftsmidler, forlængelse af den midlertidige forhøjelse af fradrag for udgifter til forsøgs- og forskningsvirksomhed og forlængelse af bundfradrag i svovlafgiften) sættes i kraft.",
-      "valid_from": "2022-06-15",
-      "valid_to": null
+      "valid_from": "2022-06-17",
+      "valid_to": "2025-10-16"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 22. juni 2022.",
-      "valid_from": "2022-06-15",
-      "valid_to": null
+      "valid_from": "2022-06-17",
+      "valid_to": "2025-10-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:56:05.788Z",
+    "accession": "B20220086205",
+    "document_id": "AN015598",
+    "unique_document_id": "231915",
+    "upstream_status": "Historic",
+    "start_date": "2022-06-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-10-16",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-04-22",
+  "in_force_date": "2023-05-03",
   "url": "https://www.retsinformation.dk/eli/lta/2023/459/xml",
   "description": "Retsinformation source. DocumentId=CQ002553; AccessionNumber=B20230045905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 551 af 2. juni 2014 om en fælles patentdomstol m.v. sættes i kraft.",
-      "valid_from": "2023-04-22",
+      "valid_from": "2023-05-03",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. § 4 og § 5 i lov nr. 243 af 7. marts 2023 om ændring af selskabsloven og forskellige andre love (Implementering af mobilitetsdirektivet m.v.) sættes i kraft.",
-      "valid_from": "2023-04-22",
+      "valid_from": "2023-05-03",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juni 2023.",
-      "valid_from": "2023-04-22",
+      "valid_from": "2023-05-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:48:01.261Z",
+    "accession": "B20230045905",
+    "document_id": "CQ002553",
+    "unique_document_id": "237116",
+    "upstream_status": "Valid",
+    "start_date": "2023-05-03",
+    "end_date": "2023-05-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

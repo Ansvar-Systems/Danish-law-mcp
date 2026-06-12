@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-05-04",
+  "in_force_date": "2020-05-05",
   "url": "https://www.retsinformation.dk/eli/lta/2020/571/xml",
   "description": "Retsinformation source. DocumentId=CK002464; AccessionNumber=B20200057105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen indeholder supplerende regler til Kommissionens delegererede forordning (EU) 2020/591 af 30. april 2020.",
-      "valid_from": "2020-05-04",
+      "valid_from": "2020-05-05",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ansøgningerne bliver prioriteret efter først-til-mølle-princippet, jf. dog stk. 2. Stk. 2. Den dag, hvor den mængde, der er tildelt Danmark, jf. bilag til Kommissionens delegerede forordning (EU) 2020/591 af 30. april 2020, opbruges, vil ansøgninger, der er modtaget denne dag og lever op til kravene i art. 1, stk. 1 og 3, art. 2, art. 3 og art. 4, stk. 3 i Kommissionens delegerede forordning (EU) 2020/591 af 30. april 2020, blive reduceret forholdsmæssigt.",
-      "valid_from": "2020-05-04",
+      "valid_from": "2020-05-05",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 7. maj 2020.",
-      "valid_from": "2020-05-04",
+      "valid_from": "2020-05-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:34:34.495Z",
+    "accession": "B20200057105",
+    "document_id": "CK002464",
+    "unique_document_id": "214297",
+    "upstream_status": "Valid",
+    "start_date": "2020-05-05",
+    "end_date": "2022-04-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Den Sociale Ankestyrelse (Delegation af kompetence m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-12-22",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1993/1127/xml",
-  "description": "Retsinformation source. DocumentId=CM012775; AccessionNumber=A19930112730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012775; AccessionNumber=A19930112730; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:57:08.279Z",
+    "accession": "A19930112730",
+    "document_id": "CM012775",
+    "unique_document_id": "53910",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

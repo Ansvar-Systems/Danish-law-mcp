@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om, hvilke administrative forskrifter, udstedt efter lov nr. 79 af 8. marts 1978 om arbejdsskadeforsikring med senere ændringer, der fortsat finder anvendelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-12-15",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/1125/xml",
-  "description": "Retsinformation source. DocumentId=CM012295; AccessionNumber=B19920112505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012295; AccessionNumber=B19920112505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:13:38.727Z",
+    "accession": "B19920112505",
+    "document_id": "CM012295",
+    "unique_document_id": "53446",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2010-06-30",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

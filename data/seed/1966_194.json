@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om tatovering",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1966-06-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1966/194/xml",
-  "description": "Retsinformation source. DocumentId=CM018282; AccessionNumber=A19660019430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018282; AccessionNumber=A19660019430; Ophævet 2018-06-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:11:45.582Z",
+    "accession": "A19660019430",
+    "document_id": "CM018282",
+    "unique_document_id": "59329",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-12",
+    "historic_marked": "2018-06-08",
+    "seed_status": "repealed"
+  }
 }

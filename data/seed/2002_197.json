@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om banker og sparekasser m.v., lov om forsikringsvirksomhed og realkreditloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-04-09",
+  "in_force_date": "2002-04-09",
   "url": "https://www.retsinformation.dk/eli/lta/2002/197/xml",
-  "description": "Retsinformation source. DocumentId=AU000533; AccessionNumber=A20020019730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000533; AccessionNumber=A20020019730; Ophævet 2002-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:34:57.406Z",
+    "accession": "A20020019730",
+    "document_id": "AU000533",
+    "unique_document_id": "25850",
+    "upstream_status": "Historic",
+    "start_date": "2002-04-09",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-08-19",
+    "seed_status": "repealed"
+  }
 }

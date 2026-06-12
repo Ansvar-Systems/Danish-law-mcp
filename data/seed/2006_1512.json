@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om museer m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-12-14",
+  "in_force_date": "2006-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1512/xml",
-  "description": "Retsinformation source. DocumentId=AK000519; AccessionNumber=B20060151205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000519; AccessionNumber=B20060151205; Ophævet 2013-05-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:03:26.402Z",
+    "accession": "B20060151205",
+    "document_id": "AK000519",
+    "unique_document_id": "12034",
+    "upstream_status": "Historic",
+    "start_date": "2006-12-21",
+    "end_date": "2013-05-09",
+    "historic_marked": "2013-05-08",
+    "seed_status": "repealed"
+  }
 }

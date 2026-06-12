@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om pas m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1984-10-18",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1984/521/xml",
-  "description": "Retsinformation source. DocumentId=CM016593; AccessionNumber=B19840052105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016593; AccessionNumber=B19840052105; Ophævet 1989-02-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:42:59.622Z",
+    "accession": "B19840052105",
+    "document_id": "CM016593",
+    "unique_document_id": "57665",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2005-08-03",
+    "historic_marked": "1989-02-17",
+    "seed_status": "repealed"
+  }
 }

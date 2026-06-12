@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om oprettelse af et hjælpemiddelnævn",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-12-14",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1988/787/xml",
-  "description": "Retsinformation source. DocumentId=CM012166; AccessionNumber=B19880078705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012166; AccessionNumber=B19880078705; Ophævet 1997-01-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:24:38.404Z",
+    "accession": "B19880078705",
+    "document_id": "CM012166",
+    "unique_document_id": "53317",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-08",
+    "historic_marked": "1997-01-23",
+    "seed_status": "repealed"
+  }
 }

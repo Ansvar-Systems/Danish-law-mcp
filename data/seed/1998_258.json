@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om seniorydelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-05-02",
+  "in_force_date": "1998-05-14",
   "url": "https://www.retsinformation.dk/eli/lta/1998/258/xml",
-  "description": "Retsinformation source. DocumentId=CM047036; AccessionNumber=A19980025829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047036; AccessionNumber=A19980025829; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:37:58.302Z",
+    "accession": "A19980025829",
+    "document_id": "CM047036",
+    "unique_document_id": "87226",
+    "upstream_status": "Historic",
+    "start_date": "1998-05-14",
+    "end_date": "2023-01-24",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

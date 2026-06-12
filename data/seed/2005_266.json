@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af bekendtgørelse om udførsel af planter og planteprodukter m.m.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-04-14",
+  "in_force_date": "2005-04-20",
   "url": "https://www.retsinformation.dk/eli/lta/2005/266/xml",
-  "description": "Retsinformation source. DocumentId=AH002102; AccessionNumber=B20050026605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002102; AccessionNumber=B20050026605; Ophævet 2020-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:13:16.322Z",
+    "accession": "B20050026605",
+    "document_id": "AH002102",
+    "unique_document_id": "8270",
+    "upstream_status": "Historic",
+    "start_date": "2005-04-20",
+    "end_date": "2022-04-08",
+    "historic_marked": "2020-01-28",
+    "seed_status": "repealed"
+  }
 }

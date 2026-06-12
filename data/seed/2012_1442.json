@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om visse regler i pensionsafkastbeskatningsloven",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-12-23",
+  "in_force_date": "2012-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1442/xml",
-  "description": "Retsinformation source. DocumentId=AN011349; AccessionNumber=B20120144205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011349; AccessionNumber=B20120144205; Ophævet 2014-10-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1 a. Danske forsikringsselskaber m.v., der udbyder ordninger omfattet af pensionsafkastbeskatningslovens § 1, stk. 1, og som får meddelelse fra SKAT om, at de har pensionsberettigede, der er bosat i Grønland, skal give SKAT oplysninger om den samlede pensionsafkastskat for de cpr-numre, som forsikringsselskabet m.v. får oplyst af SKAT via TastSelv Erhverv. Oplysningerne skal gives til SKAT efter de retningslinjer, der er foreskrevet herfor i TastSelv Erhverv, senest en måned efter meddelelsens datering.",
-      "valid_from": "2012-12-23",
-      "valid_to": null
+      "valid_from": "2012-12-28",
+      "valid_to": "2014-10-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:47:50.523Z",
+    "accession": "B20120144205",
+    "document_id": "AN011349",
+    "unique_document_id": "144487",
+    "upstream_status": "Historic",
+    "start_date": "2012-12-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-10-24",
+    "seed_status": "repealed"
+  }
 }

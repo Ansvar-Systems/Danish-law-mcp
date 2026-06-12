@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af realkreditloven, kursgevinstloven, pensionsafkastbeskatningsloven, selskabsskatteloven og lov om omsætning af fast ejendom samt ophævelse af lov om Dansk Landbrugs Realkreditfond",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-17",
+  "in_force_date": "2000-05-17",
   "url": "https://www.retsinformation.dk/eli/lta/2000/348/xml",
-  "description": "Retsinformation source. DocumentId=AU000202; AccessionNumber=A20000034830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000202; AccessionNumber=A20000034830; Ophævet 2003-08-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:15:43.509Z",
+    "accession": "A20000034830",
+    "document_id": "AU000202",
+    "unique_document_id": "25650",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-17",
+    "end_date": "2017-12-08",
+    "historic_marked": "2003-08-07",
+    "seed_status": "repealed"
+  }
 }

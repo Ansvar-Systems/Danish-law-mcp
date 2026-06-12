@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af straffeloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-09-14",
+  "in_force_date": "2001-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/2001/808/xml",
-  "description": "Retsinformation source. DocumentId=AA001526; AccessionNumber=A20010080829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001526; AccessionNumber=A20010080829; Ophævet 2002-09-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:14:48.382Z",
+    "accession": "A20010080829",
+    "document_id": "AA001526",
+    "unique_document_id": "1140",
+    "upstream_status": "Historic",
+    "start_date": "2001-09-24",
+    "end_date": "2015-10-10",
+    "historic_marked": "2002-09-27",
+    "seed_status": "repealed"
+  }
 }

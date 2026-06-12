@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om indberetning af oplysninger til lægemiddelstatistik",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-08-28",
+  "in_force_date": "2009-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2009/816/xml",
-  "description": "Retsinformation source. DocumentId=BK001001; AccessionNumber=B20090081605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001001; AccessionNumber=B20090081605; Ophævet 2011-03-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Indberetning af omsætningsoplysninger til Lægemiddelstyrelsens lægemiddelstatistikregister i henhold til bekendtgørelse om indberetning af oplysninger om omsætning mv. af lægemidler mv. skal foretages som anført i bilag 1 og 2 til denne bekendtgørelse.",
-      "valid_from": "2009-08-28",
-      "valid_to": null
+      "valid_from": "2009-08-29",
+      "valid_to": "2011-03-11"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. september 2009. Stk. 2. Bekendtgørelse nr. 269 af 21. marts 2007 om indberetning af oplysninger til lægemiddelstatistik ophæves.",
-      "valid_from": "2009-08-28",
-      "valid_to": null
+      "valid_from": "2009-08-29",
+      "valid_to": "2011-03-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:27:20.661Z",
+    "accession": "B20090081605",
+    "document_id": "BK001001",
+    "unique_document_id": "127101",
+    "upstream_status": "Historic",
+    "start_date": "2009-08-29",
+    "end_date": "2022-07-12",
+    "historic_marked": "2011-03-11",
+    "seed_status": "repealed"
+  }
 }

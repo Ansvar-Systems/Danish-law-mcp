@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om udlevering af lovovertrædere",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-25",
+  "in_force_date": "2005-09-08",
   "url": "https://www.retsinformation.dk/eli/lta/2005/833/xml",
-  "description": "Retsinformation source. DocumentId=AA002996; AccessionNumber=A20050083329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002996; AccessionNumber=A20050083329; Ophævet 2020-02-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:36:09.612Z",
+    "accession": "A20050083329",
+    "document_id": "AA002996",
+    "unique_document_id": "2161",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-08",
+    "end_date": "2025-05-27",
+    "historic_marked": "2020-02-11",
+    "seed_status": "repealed"
+  }
 }

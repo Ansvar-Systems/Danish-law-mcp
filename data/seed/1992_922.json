@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om tilbageholdelse af stofmisbrugere i behandling",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-11-25",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/922/xml",
-  "description": "Retsinformation source. DocumentId=CM012742; AccessionNumber=A19920092230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012742; AccessionNumber=A19920092230; Ophævet 2004-02-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:49:08.532Z",
+    "accession": "A19920092230",
+    "document_id": "CM012742",
+    "unique_document_id": "53877",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-12-31",
+    "historic_marked": "2004-02-23",
+    "seed_status": "repealed"
+  }
 }

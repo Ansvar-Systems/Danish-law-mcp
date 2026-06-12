@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om prøver inden for danskuddannelse til voksne udlændinge m.fl.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-01-24",
+  "in_force_date": "2012-01-31",
   "url": "https://www.retsinformation.dk/eli/lta/2012/88/xml",
-  "description": "Retsinformation source. DocumentId=BN000040; AccessionNumber=B20120008805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BN000040; AccessionNumber=B20120008805; Ophævet 2018-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:18:22.406Z",
+    "accession": "B20120008805",
+    "document_id": "BN000040",
+    "unique_document_id": "140319",
+    "upstream_status": "Historic",
+    "start_date": "2012-01-31",
+    "end_date": "2018-03-01",
+    "historic_marked": "2018-02-28",
+    "seed_status": "repealed"
+  }
 }

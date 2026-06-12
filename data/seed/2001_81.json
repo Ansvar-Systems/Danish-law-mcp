@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Charlottenborg Udstillingsbygning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-05",
+  "in_force_date": "2001-02-15",
   "url": "https://www.retsinformation.dk/eli/lta/2001/81/xml",
-  "description": "Retsinformation source. DocumentId=AK000120; AccessionNumber=B20010008105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000120; AccessionNumber=B20010008105; Ophævet 2006-01-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:14:52.679Z",
+    "accession": "B20010008105",
+    "document_id": "AK000120",
+    "unique_document_id": "11786",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-15",
+    "end_date": "2006-01-12",
+    "historic_marked": "2006-01-12",
+    "seed_status": "repealed"
+  }
 }

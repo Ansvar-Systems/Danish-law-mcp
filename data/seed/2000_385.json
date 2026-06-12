@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om social pension",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-26",
+  "in_force_date": "2000-06-05",
   "url": "https://www.retsinformation.dk/eli/lta/2000/385/xml",
-  "description": "Retsinformation source. DocumentId=AO000795; AccessionNumber=A20000038529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000795; AccessionNumber=A20000038529; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:17:12.837Z",
+    "accession": "A20000038529",
+    "document_id": "AO000795",
+    "unique_document_id": "18962",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-05",
+    "end_date": "2020-05-02",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Danmarks Grundforskningsfond (* 2)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/409/xml",
-  "description": "Retsinformation source. DocumentId=CM003977; AccessionNumber=A19910040930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM003977; AccessionNumber=A19910040930; Ophævet 2007-02-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:46:36.298Z",
+    "accession": "A19910040930",
+    "document_id": "CM003977",
+    "unique_document_id": "45395",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-07-02",
+    "historic_marked": "2007-02-20",
+    "seed_status": "repealed"
+  }
 }

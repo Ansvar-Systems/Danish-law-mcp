@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af hummere i Limfjorden",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-01-26",
+  "in_force_date": "2005-02-03",
   "url": "https://www.retsinformation.dk/eli/lta/2005/79/xml",
-  "description": "Retsinformation source. DocumentId=AH002057; AccessionNumber=B20050007905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002057; AccessionNumber=B20050007905; Ophævet 2008-12-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:34:23.220Z",
+    "accession": "B20050007905",
+    "document_id": "AH002057",
+    "unique_document_id": "8236",
+    "upstream_status": "Historic",
+    "start_date": "2005-02-03",
+    "end_date": "2022-04-08",
+    "historic_marked": "2008-12-02",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om trafikselskaber (Trafikverkets indkøb af nattogstrafik i Danmark)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-06-11",
+  "in_force_date": "2021-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1186/xml",
-  "description": "Retsinformation source. DocumentId=DG000111; AccessionNumber=A20210118630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000111; AccessionNumber=A20210118630; Ophævet 2023-03-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:29:54.683Z",
+    "accession": "A20210118630",
+    "document_id": "DG000111",
+    "unique_document_id": "223802",
+    "upstream_status": "Historic",
+    "start_date": "2021-06-08",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-06",
+    "seed_status": "repealed"
+  }
 }

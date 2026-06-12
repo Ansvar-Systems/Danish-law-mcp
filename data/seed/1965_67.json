@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om fiskeri i Randers Fjord og Gudenå m.m.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1965-03-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1965/67/xml",
-  "description": "Retsinformation source. DocumentId=CM038900; AccessionNumber=A19650006730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038900; AccessionNumber=A19650006730; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:11:23.772Z",
+    "accession": "A19650006730",
+    "document_id": "CM038900",
+    "unique_document_id": "79687",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

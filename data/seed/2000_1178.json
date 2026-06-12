@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forretningsorden for Datarådet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-15",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1178/xml",
-  "description": "Retsinformation source. DocumentId=AA001264; AccessionNumber=B20000117805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001264; AccessionNumber=B20000117805; Ophævet 2018-05-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:57:37.171Z",
+    "accession": "B20000117805",
+    "document_id": "AA001264",
+    "unique_document_id": "947",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2019-11-05",
+    "historic_marked": "2018-05-23",
+    "seed_status": "repealed"
+  }
 }

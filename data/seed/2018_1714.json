@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om planlægning og lov om maritim fysisk planlægning (Planlægning i områder belastet af lugt, støv eller anden luftforurening, helårsbeboelse i sommerhuse på Læsø, ekspropriation til virkeliggørelse af lokalplaner, havplanlægning for transportinfrastruktur m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1714/xml",
-  "description": "Retsinformation source. DocumentId=CQ000779; AccessionNumber=A20180171430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000779; AccessionNumber=A20180171430; Ophævet 2020-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -20,8 +21,19 @@
       "section": "13",
       "content": "§ 13. Erhvervsministeren kan fastsætte regler om, at havplanen ikke kundgøres i Lovtidende. Stk. 2. Ved udnyttelse af bemyndigelsen i stk. 1 fastsætter erhvervsministeren regler om sikkerhed for havplanens kundgørelse, og hvordan oplysning om havplanen kan fås. Stk. 3. Inddragelse af offentligheden og offentliggørelse af forslag til havplanen og forslag til ændringer af havplanen kan ske udelukkende digitalt.",
       "valid_from": "2018-12-27",
-      "valid_to": null
+      "valid_to": "2020-07-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:27.336Z",
+    "accession": "A20180171430",
+    "document_id": "CQ000779",
+    "unique_document_id": "206181",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-27",
+    "end_date": "2023-04-28",
+    "historic_marked": "2020-07-10",
+    "seed_status": "repealed"
+  }
 }

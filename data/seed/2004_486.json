@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om næringsbrev til fødevarebutikker",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-09",
+  "in_force_date": "2004-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2004/486/xml",
-  "description": "Retsinformation source. DocumentId=AU001634; AccessionNumber=A20040048630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001634; AccessionNumber=A20040048630; Ophævet 2013-10-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:28:03.783Z",
+    "accession": "A20040048630",
+    "document_id": "AU001634",
+    "unique_document_id": "26659",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-09",
+    "end_date": "2017-12-09",
+    "historic_marked": "2013-10-15",
+    "seed_status": "repealed"
+  }
 }

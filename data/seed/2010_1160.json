@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-10-03",
+  "in_force_date": "2010-10-09",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1160/xml",
   "description": "Retsinformation source. DocumentId=AA005643; AccessionNumber=B20100116005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Skemaet i bilag 1 til denne bekendtgørelse, der er baseret på det standardiserede europæiske informationsblad (ESIS), godkendes hermed efter anmodning fra Realkreditrådet, Realkreditforeningen og Forbrugerrådet som alternativt oplysningsskema, der for så vidt angår lån mod pant i fast ejendom, der ydes på baggrund af obligationsudstedelse, kan anvendes af kreditgiveren i stedet for formularen i kreditaftalelovens bilag 2.",
-      "valid_from": "2010-10-03",
+      "valid_from": "2010-10-09",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Godkendelsen sker på vilkår af, at oplysningsskemaet, når det anvendes i det enkelte tilfælde, indeholder samtlige 17 afsnit i den angivne rækkefølge og udfyldes i overensstemmelse med kreditaftalelovens § 7 a og de retningslinjer, der fremgår af kolonne 2 i skemaet. Udfyldelsen af de enkelte afsnit kan ikke ske alene ved henvisning til det underliggende aftalegrundlag. Med hensyn til pris- og vilkårsændringer kan der henvises til prisblade eller lignende. Stk. 2. Det enkelte realkreditinstitut kan tilføje yderligere fortløbende nummererede afsnit til skemaet.",
-      "valid_from": "2010-10-03",
+      "valid_from": "2010-10-09",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. november 2010.",
-      "valid_from": "2010-10-03",
+      "valid_from": "2010-10-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:41:25.484Z",
+    "accession": "B20100116005",
+    "document_id": "AA005643",
+    "unique_document_id": "133487",
+    "upstream_status": "Valid",
+    "start_date": "2010-10-09",
+    "end_date": "2019-08-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

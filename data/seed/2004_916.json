@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om retsforholdet mellem arbejdsgivere og funktionærer",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-09-08",
+  "in_force_date": "2004-09-20",
   "url": "https://www.retsinformation.dk/eli/lta/2004/916/xml",
-  "description": "Retsinformation source. DocumentId=BE001064; AccessionNumber=A20040091629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001064; AccessionNumber=A20040091629; Ophævet 2005-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:45:28.917Z",
+    "accession": "A20040091629",
+    "document_id": "BE001064",
+    "unique_document_id": "30128",
+    "upstream_status": "Historic",
+    "start_date": "2004-09-20",
+    "end_date": "2005-02-02",
+    "historic_marked": "2005-01-31",
+    "seed_status": "repealed"
+  }
 }

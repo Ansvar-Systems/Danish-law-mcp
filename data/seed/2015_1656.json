@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2015-12-17",
+  "in_force_date": "2015-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1656/xml",
   "description": "Retsinformation source. DocumentId=BP001551; AccessionNumber=B20150165605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,5 +40,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:48:53.486Z",
+    "accession": "B20150165605",
+    "document_id": "BP001551",
+    "unique_document_id": "176669",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-17",
+    "end_date": "2026-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

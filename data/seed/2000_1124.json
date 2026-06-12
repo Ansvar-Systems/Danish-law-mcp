@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til frisør",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-14",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1124/xml",
-  "description": "Retsinformation source. DocumentId=AT000496; AccessionNumber=B20000112405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000496; AccessionNumber=B20000112405; Ophævet 2005-07-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:55:30.181Z",
+    "accession": "B20000112405",
+    "document_id": "AT000496",
+    "unique_document_id": "23525",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2021-01-08",
+    "historic_marked": "2005-07-11",
+    "seed_status": "repealed"
+  }
 }

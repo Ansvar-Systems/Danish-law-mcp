@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om chiptuning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-13",
+  "in_force_date": "2006-06-22",
   "url": "https://www.retsinformation.dk/eli/lta/2006/595/xml",
-  "description": "Retsinformation source. DocumentId=AR001203; AccessionNumber=B20060059505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001203; AccessionNumber=B20060059505; Ophævet 2016-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:30:11.557Z",
+    "accession": "B20060059505",
+    "document_id": "AR001203",
+    "unique_document_id": "22564",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-22",
+    "end_date": "2026-06-12",
+    "historic_marked": "2016-05-31",
+    "seed_status": "repealed"
+  }
 }

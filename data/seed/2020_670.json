@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fravigelse af regler for folkehøjskolers kursusafholdelse som led i forebyggelse og afhjælpning i forbindelse med covid-19",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-05-25",
+  "in_force_date": "2020-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2020/670/xml",
-  "description": "Retsinformation source. DocumentId=AK001540; AccessionNumber=B20200067005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK001540; AccessionNumber=B20200067005; Ophævet 2020-08-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -33,25 +34,36 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Formålet med denne bekendtgørelse er at sikre, at folkehøjskolerne ved genåbning efter nedlukning som led i forebyggelse og afhjælpning i forbindelse med covid-19, kan tilrettelægge og planlægge kurser i overensstemmelse med sundhedsmyndighedernes retningslinjer.",
-      "valid_from": "2020-05-25",
-      "valid_to": null
+      "valid_from": "2020-05-26",
+      "valid_to": "2020-08-03"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. For kurser, der afholdes i perioden fra og med den 27. maj 2020 til og med den 31. juli 2020, kan folkehøjskolens ledelse anmode om Slots- og Kulturstyrelsens godkendelse til undtagelsesvist ved særlige omstændigheder, jf. § 1, at kunne fravige reglerne om mindstetimer for undervisning pr. kursusuge, i henhold til bekendtgørelse om tilskud m.v. til folkehøjskolers § 12, stk. 1, jf. lov om folkehøjskoler § 14, stk. 6.",
-      "valid_from": "2020-05-25",
-      "valid_to": null
+      "valid_from": "2020-05-26",
+      "valid_to": "2020-08-03"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft ved bekendtgørelse i Lovtidende. Stk. 2. Bekendtgørelsen har kun virkning for skoleåret 2019/2020. Stk. 3. Bekendtgørelsen ophæves den 1. august 2020.",
-      "valid_from": "2020-05-25",
-      "valid_to": null
+      "valid_from": "2020-05-26",
+      "valid_to": "2020-08-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:38:32.351Z",
+    "accession": "B20200067005",
+    "document_id": "AK001540",
+    "unique_document_id": "214680",
+    "upstream_status": "Historic",
+    "start_date": "2020-05-26",
+    "end_date": "2020-08-04",
+    "historic_marked": "2020-08-03",
+    "seed_status": "repealed"
+  }
 }

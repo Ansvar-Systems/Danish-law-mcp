@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-06-08",
+  "in_force_date": "2016-06-16",
   "url": "https://www.retsinformation.dk/eli/lta/2016/716/xml",
   "description": "Retsinformation source. DocumentId=CI000143; AccessionNumber=B20160071605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "2",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 770 af 8. august 2005 om elforsyningsvirksomhedernes offentliggørelse af priser, tariffer, rabatter og vilkår ophæves",
-      "valid_from": "2016-06-08",
+      "valid_from": "2016-06-16",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2016.",
-      "valid_from": "2016-06-08",
+      "valid_from": "2016-06-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:21.511Z",
+    "accession": "B20160071605",
+    "document_id": "CI000143",
+    "unique_document_id": "181981",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-16",
+    "end_date": "2021-01-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

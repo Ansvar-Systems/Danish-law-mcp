@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-08-30",
+  "in_force_date": "2019-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2019/909/xml",
   "description": "Retsinformation source. DocumentId=AP000312; AccessionNumber=B20190090905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver vedrørende bogholderi og regnskab, herunder kreditor- og debitoradministration, udarbejdelse af perioderegnskab, administration af kasse og likviditet, anlægsadministration, regnskabsmæssig registrering af tilskud i Navision Stat, vedligeholdelse af registreringsramme i regnskabssystemet, bogføring af rejseafregning samt udarbejdelse af standard ledelsesinformation til understøttelse af institutionernes styringsbehov, der vedrører Rigsombudsmanden i Grønland, overføres i henhold til nærmere aftale mellem finansministeren og statsministeren fra finansministeren til statsministeren pr. 1. september 2019.",
-      "valid_from": "2019-08-30",
+      "valid_from": "2019-08-31",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:49.621Z",
+    "accession": "B20190090905",
+    "document_id": "AP000312",
+    "unique_document_id": "210093",
+    "upstream_status": "Valid",
+    "start_date": "2019-08-31",
+    "end_date": "2019-08-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

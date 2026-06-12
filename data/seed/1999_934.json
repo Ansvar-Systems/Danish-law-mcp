@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om leje af erhvervslokaler m.v. (erhvervslejelov)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-20",
+  "in_force_date": "1999-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/1999/934/xml",
-  "description": "Retsinformation source. DocumentId=AC000184; AccessionNumber=A19990093430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000184; AccessionNumber=A19990093430; Ophævet 2011-01-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:47:52.012Z",
+    "accession": "A19990093430",
+    "document_id": "AC000184",
+    "unique_document_id": "4039",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-20",
+    "end_date": "2019-09-29",
+    "historic_marked": "2011-01-03",
+    "seed_status": "repealed"
+  }
 }

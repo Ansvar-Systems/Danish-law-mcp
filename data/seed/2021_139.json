@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2021-01-30",
+  "in_force_date": "2021-02-01",
   "url": "https://www.retsinformation.dk/eli/lta/2021/139/xml",
   "description": "Retsinformation source. DocumentId=AN014797; AccessionNumber=B20210013905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 122 af 30. januar 2021 om rentefrie lån svarende til indberettet A-skat og arbejdsmarkedsbidrag i forbindelse med covid-19 sættes i kraft.",
-      "valid_from": "2021-01-30",
+      "valid_from": "2021-02-01",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 3. februar 2021.",
-      "valid_from": "2021-01-30",
+      "valid_from": "2021-02-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:38:06.718Z",
+    "accession": "B20210013905",
+    "document_id": "AN014797",
+    "unique_document_id": "219584",
+    "upstream_status": "Valid",
+    "start_date": "2021-02-01",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

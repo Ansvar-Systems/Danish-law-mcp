@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om udvidede muligheder for studielån som følge af covid-19",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-04-28",
+  "in_force_date": "2020-04-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/544/xml",
-  "description": "Retsinformation source. DocumentId=CE000938; AccessionNumber=B20200054405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000938; AccessionNumber=B20200054405; Ophævet 2021-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Forhøjelsen af det samlede studielån eller slutlån, jf. SU-lovens § 10 c, stk. 1, vil tillige ske i maj og juni 2020. Stk. 2. Forhøjelsen af det samlede studielån eller slutlån, der tildeles i den første måned med uddannelsesstøtte efter en periode med lønnet praktik, jf. SU-lovens § 10 c, stk. 2, vil tillige ske for maj og juni 2020, såfremt disse måneder har indgået i den netop afsluttede periode med lønnet praktik.",
-      "valid_from": "2020-04-28",
-      "valid_to": null
+      "valid_from": "2020-04-29",
+      "valid_to": "2021-04-29"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2020. Stk. 2. Bekendtgørelsen ophæves den 1. marts 2021.",
-      "valid_from": "2020-04-28",
-      "valid_to": null
+      "valid_from": "2020-04-29",
+      "valid_to": "2021-04-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:33:29.333Z",
+    "accession": "B20200054405",
+    "document_id": "CE000938",
+    "unique_document_id": "214174",
+    "upstream_status": "Historic",
+    "start_date": "2020-04-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-04-29",
+    "seed_status": "repealed"
+  }
 }

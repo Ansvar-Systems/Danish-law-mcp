@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-10-01",
+  "in_force_date": "2019-10-08",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1012/xml",
   "description": "Retsinformation source. DocumentId=AN014001; AccessionNumber=B20190101205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Sikkerhedsstempelmærker skal påføres enkeltpakninger af tobaksvarer på en sådan måde, at 1) de på ingen måde er skjult eller brydes heller ikke af prismærker eller andre elementer, der er påkrævet i henhold til lovgivningen, i al den tid en tobaksvare markedsføres, og 2) de er beskyttet mod at blive udskiftet, genanvendt eller ændret på nogen måde.",
-      "valid_from": "2019-10-01",
+      "valid_from": "2019-10-08",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. oktober 2019.",
-      "valid_from": "2019-10-01",
+      "valid_from": "2019-10-08",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:28:58.045Z",
+    "accession": "B20190101205",
+    "document_id": "AN014001",
+    "unique_document_id": "210412",
+    "upstream_status": "Valid",
+    "start_date": "2019-10-08",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

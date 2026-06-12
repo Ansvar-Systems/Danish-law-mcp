@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2019-11-26",
+  "in_force_date": "2019-11-29",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1238/xml",
   "description": "Retsinformation source. DocumentId=AK001452; AccessionNumber=B20190123805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "29",
       "section": "29",
       "content": "§ 29. Medielicens, jf. § 2, stk. 1, er fastsat af kulturministeren og tiltrådt af Finansudvalget, jf. akt nr. 20 af 21. november 2019.",
-      "valid_from": "2019-11-26",
+      "valid_from": "2019-11-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:38:01.709Z",
+    "accession": "B20190123805",
+    "document_id": "AK001452",
+    "unique_document_id": "210779",
+    "upstream_status": "Valid",
+    "start_date": "2019-11-29",
+    "end_date": "2021-08-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om investeringsfradrag i egnsudviklingsområder.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1969-02-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1969/36/xml",
-  "description": "Retsinformation source. DocumentId=CM022257; AccessionNumber=A19690003630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022257; AccessionNumber=A19690003630; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:17:12.957Z",
+    "accession": "A19690003630",
+    "document_id": "CM022257",
+    "unique_document_id": "63237",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1997-09-25",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

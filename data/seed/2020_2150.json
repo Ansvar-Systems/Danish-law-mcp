@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Vejdirektoratets opgaver og beføjelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-21",
+  "in_force_date": "2020-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2150/xml",
-  "description": "Retsinformation source. DocumentId=CZ000466; AccessionNumber=B20200215005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000466; AccessionNumber=B20200215005; Ophævet 2023-04-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10a",
@@ -19,9 +20,20 @@
       "provision_ref": "10a",
       "section": "10a",
       "content": "10 a. Vejdirektoratet afgør tvister mellem en kommunal vejmyndighed og udlejningsoperatør i medfør af § 133 a i lov om offentlige veje. Stk. 2. Afgørelser truffet af Vejdirektoratet efter stk. 1 kan ikke indbringes for transportministeren.",
-      "valid_from": "2020-12-21",
-      "valid_to": null
+      "valid_from": "2020-12-23",
+      "valid_to": "2023-04-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:14:43.097Z",
+    "accession": "B20200215005",
+    "document_id": "CZ000466",
+    "unique_document_id": "218658",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-04-12",
+    "seed_status": "repealed"
+  }
 }

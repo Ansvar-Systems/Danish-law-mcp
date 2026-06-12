@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om beskyttelse af kalve",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-23",
+  "in_force_date": "2010-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2010/769/xml",
-  "description": "Retsinformation source. DocumentId=AA005559; AccessionNumber=B20100076905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005559; AccessionNumber=B20100076905; Ophævet 2016-01-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "18",
@@ -19,9 +20,20 @@
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18 a. Kalves suttebehov skal dækkes i forbindelse med mælkeoptagelse. Det kan foregå ved brug af 1) pattespand, pattebar eller mælkeautomat, 2) narresut placeret i umiddelbar nærhed af mælk tildelt i skål, spand eller kar, eller 3) løstliggende flydende sut i skål, spand eller kar. Stk. 2. I tilfælde som nævnt i stk. 1, nr. 2 og 3, skal der være mindst én sut pr. kalv, og sutten skal være tilgængelig i mindst 20 minutter efter mælketildelingen.",
-      "valid_from": "2010-06-23",
-      "valid_to": null
+      "valid_from": "2010-06-29",
+      "valid_to": "2016-01-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:28:47.920Z",
+    "accession": "B20100076905",
+    "document_id": "AA005559",
+    "unique_document_id": "132684",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-29",
+    "end_date": "2022-04-08",
+    "historic_marked": "2016-01-12",
+    "seed_status": "repealed"
+  }
 }

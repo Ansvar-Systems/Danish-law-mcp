@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om administration af landbrugsloven m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-02",
+  "in_force_date": "2002-10-10",
   "url": "https://www.retsinformation.dk/eli/lta/2002/821/xml",
-  "description": "Retsinformation source. DocumentId=AH001276; AccessionNumber=B20020082105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001276; AccessionNumber=B20020082105; Ophævet 2004-08-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:59:42.089Z",
+    "accession": "B20020082105",
+    "document_id": "AH001276",
+    "unique_document_id": "7572",
+    "upstream_status": "Historic",
+    "start_date": "2002-10-10",
+    "end_date": "2022-04-08",
+    "historic_marked": "2004-08-26",
+    "seed_status": "repealed"
+  }
 }

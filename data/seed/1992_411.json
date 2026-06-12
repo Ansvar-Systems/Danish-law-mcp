@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om social pension",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-05-26",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/411/xml",
-  "description": "Retsinformation source. DocumentId=CM012614; AccessionNumber=A19920041129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012614; AccessionNumber=A19920041129; Ophævet 1994-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:29:04.681Z",
+    "accession": "A19920041129",
+    "document_id": "CM012614",
+    "unique_document_id": "53749",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-12-14",
+    "historic_marked": "1994-07-05",
+    "seed_status": "repealed"
+  }
 }

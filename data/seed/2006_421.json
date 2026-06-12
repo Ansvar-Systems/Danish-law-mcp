@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af elektricitet",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-05-03",
+  "in_force_date": "2006-05-18",
   "url": "https://www.retsinformation.dk/eli/lta/2006/421/xml",
-  "description": "Retsinformation source. DocumentId=AN005156; AccessionNumber=A20060042129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005156; AccessionNumber=A20060042129; Ophævet 2011-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:23:15.078Z",
+    "accession": "A20060042129",
+    "document_id": "AN005156",
+    "unique_document_id": "17222",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-04-14",
+    "seed_status": "repealed"
+  }
 }

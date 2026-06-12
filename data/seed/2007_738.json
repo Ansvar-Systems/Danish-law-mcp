@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophold i varetægt (varetægtsbekendtgørelsen)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-25",
+  "in_force_date": "2007-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2007/738/xml",
-  "description": "Retsinformation source. DocumentId=AA003697; AccessionNumber=B20070073805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003697; AccessionNumber=B20070073805; Ophævet 2011-05-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:34:18.447Z",
+    "accession": "B20070073805",
+    "document_id": "AA003697",
+    "unique_document_id": "2676",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-26",
+    "end_date": "2011-05-31",
+    "historic_marked": "2011-05-30",
+    "seed_status": "repealed"
+  }
 }

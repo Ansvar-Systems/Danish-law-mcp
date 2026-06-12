@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-12-04",
+  "in_force_date": "2019-12-06",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1304/xml",
   "description": "Retsinformation source. DocumentId=CZ000065; AccessionNumber=B20190130405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 639 af 24. juni 2008 om arbejdskørsel m.v. (BJ 5-08) ophæves.",
-      "valid_from": "2019-12-04",
+      "valid_from": "2019-12-06",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2020.",
-      "valid_from": "2019-12-04",
+      "valid_from": "2019-12-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:41.966Z",
+    "accession": "B20190130405",
+    "document_id": "CZ000065",
+    "unique_document_id": "211377",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-06",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

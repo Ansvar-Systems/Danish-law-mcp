@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om skovplantning på landbrugsejendomme",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-07-26",
+  "in_force_date": "1999-08-06",
   "url": "https://www.retsinformation.dk/eli/lta/1999/630/xml",
-  "description": "Retsinformation source. DocumentId=AH000337; AccessionNumber=B19990063005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000337; AccessionNumber=B19990063005; Ophævet 2002-10-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:35:46.741Z",
+    "accession": "B19990063005",
+    "document_id": "AH000337",
+    "unique_document_id": "6760",
+    "upstream_status": "Historic",
+    "start_date": "1999-08-06",
+    "end_date": "2022-04-08",
+    "historic_marked": "2002-10-10",
+    "seed_status": "repealed"
+  }
 }

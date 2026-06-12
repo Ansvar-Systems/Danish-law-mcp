@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indgåelse af ægteskab",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-15",
+  "in_force_date": "2006-02-23",
   "url": "https://www.retsinformation.dk/eli/lta/2006/92/xml",
-  "description": "Retsinformation source. DocumentId=BG000378; AccessionNumber=B20060009205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000378; AccessionNumber=B20060009205; Ophævet 2006-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:43:15.629Z",
+    "accession": "B20060009205",
+    "document_id": "BG000378",
+    "unique_document_id": "31626",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-23",
+    "end_date": "2022-07-08",
+    "historic_marked": "2006-12-18",
+    "seed_status": "repealed"
+  }
 }

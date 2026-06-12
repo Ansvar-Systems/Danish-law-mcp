@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af selskabsloven, årsregnskabsloven, lov om erhvervsfremme, lov om finansiel virksomhed og forskellige andre love (Ændring af visse love og bestemmelser på Erhvervsministeriets område som følge af opgavebortfald) og i lov om ændring af lov om finansiel virksomhed, lov om forvaltere af alternative investeringsfonde m.v., lov om investeringsforeninger m.v., hvidvaskloven og forskellige andre love (Håndtering af kryptoeksponeringer, udarbejdelse af ESG-omstillingsplaner, nye dokumentationskrav for institutternes ledelsesstruktur, ansvarsfordeling og rapporteringslinjer, tydeligere regler for tilladelse til kreditinstitutter fra lande uden for EU/EØS (tredjelande), ny tilsynsbeføjelse til Finanstilsynet om godkendelse af væsentlige erhvervelser af kapitalandele i andre selskaber, strafbelæggelse af disclosureforordningen, modernisering af reglerne i FAIF-UCITS II-direktivet, styrkelse af reglerne om bekæmpelsen af national og international hvidvask og oprettelse af et fælles europæisk adgangspunkt (ESAP) til indsendelse af en række offentliggjorte oplysninger m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-06-23",
+  "in_force_date": "2025-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2025/828/xml",
-  "description": "Retsinformation source. DocumentId=CQ003275; AccessionNumber=B20250082805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ003275; AccessionNumber=B20250082805; Ophævet 2025-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -39,33 +40,44 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 11, nr. 1-8, 10-12 og 20-32, i lov nr. 1668 af 30. december 2024 om ændring af selskabsloven, årsregnskabsloven, lov om erhvervsfremme, lov om finansiel virksomhed og forskellige andre love (Ændring af visse love og bestemmelser på Erhvervsministeriets område som følge af opgavebortfald) sættes i kraft.",
-      "valid_from": "2025-06-23",
-      "valid_to": null
+      "valid_from": "2025-06-26",
+      "valid_to": "2025-12-08"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. § 3, stk. 9, i lov om finansielle rådgivere, investeringsrådgivere og boligkreditformidlere, som indsat ved § 11, nr. 16, i lov nr. 1668 af 30. december 2024 om ændring af selskabsloven, årsregnskabsloven, lov om erhvervsfremme, lov om finansiel virksomhed og forskellige andre love (Ændring af visse love og bestemmelser på Erhvervsministeriets område som følge af opgavebortfald) ophæves.",
-      "valid_from": "2025-06-23",
-      "valid_to": null
+      "valid_from": "2025-06-26",
+      "valid_to": "2025-12-08"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. § 9, nr. 1, 4 og 5, og § 21 i lov nr. 712 af 20. juni 2025 om ændring af lov om finansiel virksomhed, lov om forvaltere af alternative investeringsfonde m.v., lov om investeringsforeninger m.v., hvidvaskloven og forskellige andre love (Håndtering af kryptoeksponeringer, udarbejdelse af ESG-omstillingsplaner, nye dokumentationskrav for institutternes ledelsesstruktur, ansvarsfordeling og rapporteringslinjer, tydeligere regler for tilladelse til kreditinstitutter fra lande uden for EU/EØS (tredjelande), ny tilsynsbeføjelse til Finanstilsynet om godkendelse af væsentlige erhvervelser af kapitalandele i andre selskaber, strafbelæggelse af disclosureforordningen, modernisering af reglerne i FAIF-UCITS II-direktivet, styrkelse af reglerne om bekæmpelsen af national og international hvidvask og oprettelse af et fælles europæisk adgangspunkt (ESAP) til indsendelse af en række offentliggjorte oplysninger m.v.) sættes i kraft.",
-      "valid_from": "2025-06-23",
-      "valid_to": null
+      "valid_from": "2025-06-26",
+      "valid_to": "2025-12-08"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 2. juli 2025.",
-      "valid_from": "2025-06-23",
-      "valid_to": null
+      "valid_from": "2025-06-26",
+      "valid_to": "2025-12-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:27:53.932Z",
+    "accession": "B20250082805",
+    "document_id": "CQ003275",
+    "unique_document_id": "250717",
+    "upstream_status": "Historic",
+    "start_date": "2025-06-26",
+    "end_date": "2025-12-09",
+    "historic_marked": "2025-12-08",
+    "seed_status": "repealed"
+  }
 }

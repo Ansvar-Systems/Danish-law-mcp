@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om vederlag og pension m.v. for de danske repræsentanter i Europa-Parlamentet",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-29",
+  "in_force_date": "1999-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1094/xml",
-  "description": "Retsinformation source. DocumentId=AE000159; AccessionNumber=A19990109430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000159; AccessionNumber=A19990109430; Ophævet 2004-04-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:11:22.198Z",
+    "accession": "A19990109430",
+    "document_id": "AE000159",
+    "unique_document_id": "5139",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-29",
+    "end_date": "2023-10-14",
+    "historic_marked": "2004-04-22",
+    "seed_status": "repealed"
+  }
 }

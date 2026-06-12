@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om beskyttelse af svin",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-05-06",
+  "in_force_date": "2003-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2003/323/xml",
-  "description": "Retsinformation source. DocumentId=AA002161; AccessionNumber=B20030032305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002161; AccessionNumber=B20030032305; Ophævet 2016-01-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:25:37.781Z",
+    "accession": "B20030032305",
+    "document_id": "AA002161",
+    "unique_document_id": "1571",
+    "upstream_status": "Historic",
+    "start_date": "2003-05-12",
+    "end_date": "2022-04-08",
+    "historic_marked": "2016-01-11",
+    "seed_status": "repealed"
+  }
 }

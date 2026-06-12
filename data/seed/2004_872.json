@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fleksibel efterløn",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-08-20",
+  "in_force_date": "2004-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2004/872/xml",
-  "description": "Retsinformation source. DocumentId=BE000880; AccessionNumber=B20040087205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000880; AccessionNumber=B20040087205; Ophævet 2006-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:43:41.908Z",
+    "accession": "B20040087205",
+    "document_id": "BE000880",
+    "unique_document_id": "29987",
+    "upstream_status": "Historic",
+    "start_date": "2004-08-30",
+    "end_date": "2024-03-27",
+    "historic_marked": "2006-06-22",
+    "seed_status": "repealed"
+  }
 }

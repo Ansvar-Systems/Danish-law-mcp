@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om renter ved forsinket betaling m.v.\\n(Renteloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-09-04",
+  "in_force_date": "2002-09-12",
   "url": "https://www.retsinformation.dk/eli/lta/2002/743/xml",
-  "description": "Retsinformation source. DocumentId=AA001897; AccessionNumber=A20020074329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001897; AccessionNumber=A20020074329; Ophævet 2014-05-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:56:35.302Z",
+    "accession": "A20020074329",
+    "document_id": "AA001897",
+    "unique_document_id": "1408",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-12",
+    "end_date": "2014-09-24",
+    "historic_marked": "2014-05-14",
+    "seed_status": "repealed"
+  }
 }

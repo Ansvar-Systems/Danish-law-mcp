@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-12-04",
+  "in_force_date": "2023-12-14",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1612/xml",
   "description": "Retsinformation source. DocumentId=DB000817; AccessionNumber=B20230161205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 31, i lov nr. 2605 af 28. december 2021 om ændring af lov om elforsyning og forskellige andre love (Tariffer, udfasning af PSO, forenkling af bevillingskrav for VE-elproduktion, justering af netvirksomheders økonomiske regulering, opfølgning på konkurrenceanalyse, tilbagelevering af digitalt tv-udstyr m.v.), sættes i kraft.",
-      "valid_from": "2023-12-04",
+      "valid_from": "2023-12-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024.",
-      "valid_from": "2023-12-04",
+      "valid_from": "2023-12-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:26:18.500Z",
+    "accession": "B20230161205",
+    "document_id": "DB000817",
+    "unique_document_id": "240506",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-14",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

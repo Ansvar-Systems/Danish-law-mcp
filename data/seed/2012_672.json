@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om beregning og opkrævning af udgifter i forbindelse med den opfølgende besætningskontrol efter dyreværnsloven",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-25",
+  "in_force_date": "2012-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2012/672/xml",
-  "description": "Retsinformation source. DocumentId=AH004641; AccessionNumber=B20120067205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004641; AccessionNumber=B20120067205; Ophævet 2012-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Udgifter i forbindelse med den opfølgende besætningskontrol, jf. dyreværnslovens § 24 e, stk. 1, udgør følgende beløb: 1) For udførte kontrolbesøg betales der et grundgebyr på 348 kr. hvortil kommer 445 kr. pr. påbegyndt kvarter 2) Udføres kontrollen som opfølgning på et påbud betales ud over det i henhold til nr. 1 fastsatte beløb et gebyr på 2.697 kr. til dækning af de ekstra sagsbehandlingsomkostninger i forbindelse hermed. Stk. 2. Beløb, som opkræves i henhold til stk. 1, og som ikke betales rettidigt, tillægges en årlig rente svarende til renten i henhold til rentelovens § 5. Den tillagte rente udgør dog mindst 50 kr. For erindringsskrivelser ved for sen betaling betales et beløb på 100 kr.",
-      "valid_from": "2012-06-25",
-      "valid_to": null
+      "valid_from": "2012-06-28",
+      "valid_to": "2012-12-21"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2012. Stk. 2. Bekendtgørelse nr. 927 af 15. juli 2010 om beregning og opkrævning af udgifter i forbindelse med den opfølgende besætningskontrol ophæves. Stk. 3. Gebyrer for kontrol udført før den 1. juli 2012 opkræves efter de hidtidige regler.",
-      "valid_from": "2012-06-25",
-      "valid_to": null
+      "valid_from": "2012-06-28",
+      "valid_to": "2012-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:09:59.895Z",
+    "accession": "B20120067205",
+    "document_id": "AH004641",
+    "unique_document_id": "142638",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-28",
+    "end_date": "2022-04-08",
+    "historic_marked": "2012-12-21",
+    "seed_status": "repealed"
+  }
 }

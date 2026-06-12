@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om mælk, mælkeprodukter, margarine m.v. (mælkeproduktloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-05-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/342/xml",
-  "description": "Retsinformation source. DocumentId=CM038996; AccessionNumber=A19920034230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038996; AccessionNumber=A19920034230; Ophævet 2005-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:26:30.342Z",
+    "accession": "A19920034230",
+    "document_id": "CM038996",
+    "unique_document_id": "79783",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-07-11",
+    "historic_marked": "2005-11-30",
+    "seed_status": "repealed"
+  }
 }

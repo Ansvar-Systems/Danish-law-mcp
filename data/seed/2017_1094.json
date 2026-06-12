@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fritagelse af fysiske personer fra tilslutning til Offentlig Digital Post m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-09-13",
+  "in_force_date": "2017-09-28",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1094/xml",
-  "description": "Retsinformation source. DocumentId=AE002485; AccessionNumber=B20170109405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE002485; AccessionNumber=B20170109405; Ophævet 2021-11-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7. En fritagelse har virkning fra registreringsdatoen og gælder tidsubegrænset.",
-      "valid_from": "2017-09-13",
-      "valid_to": null
+      "valid_from": "2017-09-28",
+      "valid_to": "2021-11-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:40:34.573Z",
+    "accession": "B20170109405",
+    "document_id": "AE002485",
+    "unique_document_id": "193806",
+    "upstream_status": "Historic",
+    "start_date": "2017-09-28",
+    "end_date": "2026-06-04",
+    "historic_marked": "2021-11-08",
+    "seed_status": "repealed"
+  }
 }

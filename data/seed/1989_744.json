@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om konfirmation",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-02",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/744/xml",
-  "description": "Retsinformation source. DocumentId=CM031399; AccessionNumber=B19890074403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031399; AccessionNumber=B19890074403; Ophævet 2014-09-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:54:35.204Z",
+    "accession": "B19890074403",
+    "document_id": "CM031399",
+    "unique_document_id": "72207",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-09-26",
+    "historic_marked": "2014-09-25",
+    "seed_status": "repealed"
+  }
 }

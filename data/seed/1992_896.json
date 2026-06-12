@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Tvistighedsnævnet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-11-06",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1992/896/xml",
-  "description": "Retsinformation source. DocumentId=CM033034; AccessionNumber=B19920089605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM033034; AccessionNumber=B19920089605; Ophævet 2012-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:48:04.283Z",
+    "accession": "B19920089605",
+    "document_id": "CM033034",
+    "unique_document_id": "73836",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2017-12-09",
+    "historic_marked": "2012-06-29",
+    "seed_status": "repealed"
+  }
 }

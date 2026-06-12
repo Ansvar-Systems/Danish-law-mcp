@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om regulering af fiskeriet i 2004 og visse vilkår for fiskeriet i følgende år",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-07-13",
+  "in_force_date": "2004-07-13",
   "url": "https://www.retsinformation.dk/eli/lta/2004/778/xml",
-  "description": "Retsinformation source. DocumentId=AH001932; AccessionNumber=B20040077805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001932; AccessionNumber=B20040077805; Ophævet 2004-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:39:51.710Z",
+    "accession": "B20040077805",
+    "document_id": "AH001932",
+    "unique_document_id": "8130",
+    "upstream_status": "Historic",
+    "start_date": "2004-07-13",
+    "end_date": "2022-04-08",
+    "historic_marked": "2004-12-08",
+    "seed_status": "repealed"
+  }
 }

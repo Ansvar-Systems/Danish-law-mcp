@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-11-21",
+  "in_force_date": "2024-11-21",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1192/xml",
   "description": "Retsinformation source. DocumentId=DG000961; AccessionNumber=B20240119205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -115,5 +116,16 @@
       "definition": "enhver person, hvis erhvervsmæssige hovedaktivitet er at udføre erhvervsmæssig personbefordring ad vej eller vejgodstransport for fremmed regning i henhold til en fællesskabstilladelse eller enhver anden erhvervsmæssig bemyndigelse til at udføre den nævnte transport, og som arbejder for egen regning og ikke er bundet til en arbejdsgiver ved ansættelseskontrakt eller noget andet arbejdsmæssigt hierarkisk afhængighedsforhold, som frit kan tilrettelægge den pågældende erhvervsaktivitet, og hvis indkomst afhænger direkte af overskuddet, og som alene eller i samarbejde med andre selvstændige vognmænd frit kan have erhvervsmæssige forbindelse med flere kunder",
       "source_provision": "3:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:30:16.837Z",
+    "accession": "B20240119205",
+    "document_id": "DG000961",
+    "unique_document_id": "246274",
+    "upstream_status": "Valid",
+    "start_date": "2024-11-21",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

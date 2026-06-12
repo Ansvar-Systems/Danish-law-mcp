@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om medicinsk udstyr til in vitro-diagnostik",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-04",
+  "in_force_date": "2000-02-14",
   "url": "https://www.retsinformation.dk/eli/lta/2000/89/xml",
-  "description": "Retsinformation source. DocumentId=AQ000246; AccessionNumber=B20000008905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000246; AccessionNumber=B20000008905; Ophævet 2002-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:37:33.356Z",
+    "accession": "B20000008905",
+    "document_id": "AQ000246",
+    "unique_document_id": "21251",
+    "upstream_status": "Historic",
+    "start_date": "2000-02-14",
+    "end_date": "2022-07-12",
+    "historic_marked": "2002-12-18",
+    "seed_status": "repealed"
+  }
 }

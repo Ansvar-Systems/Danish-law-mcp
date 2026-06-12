@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om anpartsselskaber",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-07",
+  "in_force_date": "2000-05-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/325/xml",
-  "description": "Retsinformation source. DocumentId=AD000335; AccessionNumber=A20000032529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000335; AccessionNumber=A20000032529; Ophævet 2002-01-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:14:49.371Z",
+    "accession": "A20000032529",
+    "document_id": "AD000335",
+    "unique_document_id": "4501",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-20",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-01-17",
+    "seed_status": "repealed"
+  }
 }

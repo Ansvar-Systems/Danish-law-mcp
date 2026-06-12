@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om leje",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-08-29",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/711/xml",
-  "description": "Retsinformation source. DocumentId=CM014136; AccessionNumber=A19950071129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014136; AccessionNumber=A19950071129; Ophævet 1996-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:49:37.626Z",
+    "accession": "A19950071129",
+    "document_id": "CM014136",
+    "unique_document_id": "55247",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "1996-11-27",
+    "seed_status": "repealed"
+  }
 }

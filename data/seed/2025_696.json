@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2025-06-20",
+  "in_force_date": "2025-06-20",
   "url": "https://www.retsinformation.dk/eli/lta/2025/696/xml",
   "description": "Retsinformation source. DocumentId=DK000116; AccessionNumber=A20250069630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -521,5 +522,16 @@
       "definition": "følgende: 1) Myndigheder inden for den offentlige forvaltning",
       "source_provision": "3:8"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:34.012Z",
+    "accession": "A20250069630",
+    "document_id": "DK000116",
+    "unique_document_id": "250079",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-20",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

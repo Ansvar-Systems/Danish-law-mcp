@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om specialtandlæger",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-09-25",
+  "in_force_date": "1998-10-05",
   "url": "https://www.retsinformation.dk/eli/lta/1998/693/xml",
-  "description": "Retsinformation source. DocumentId=AQ000007; AccessionNumber=B19980069305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000007; AccessionNumber=B19980069305; Ophævet 2007-11-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:55:18.960Z",
+    "accession": "B19980069305",
+    "document_id": "AQ000007",
+    "unique_document_id": "21072",
+    "upstream_status": "Historic",
+    "start_date": "1998-10-05",
+    "end_date": "2022-07-12",
+    "historic_marked": "2007-11-01",
+    "seed_status": "repealed"
+  }
 }

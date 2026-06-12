@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om assisteret reproduktion i forbindelse med behandling, diagnostik og forskning m.v. (Information og samtykke i forbindelse med behandling med assisteret reproduktion m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-03-16",
+  "in_force_date": "2016-03-16",
   "url": "https://www.retsinformation.dk/eli/lta/2016/264/xml",
-  "description": "Retsinformation source. DocumentId=CN000131; AccessionNumber=A20160026430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000131; AccessionNumber=A20160026430; Ophævet 2019-05-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "18a",
@@ -20,8 +21,19 @@
       "section": "18a",
       "content": "§ 18 a. Den behandlende sundhedsperson skal sikre, at der sker destruktion af kvindens ægtefælles eller partners opbevarede sæd i tilfælde af dennes død, medmindre der foreligger et skriftligt samtykke fra manden efter § 23, stk. 3, 2. pkt.",
       "valid_from": "2016-03-16",
-      "valid_to": null
+      "valid_to": "2019-05-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:07:10.316Z",
+    "accession": "A20160026430",
+    "document_id": "CN000131",
+    "unique_document_id": "177851",
+    "upstream_status": "Historic",
+    "start_date": "2016-03-16",
+    "end_date": "2022-07-12",
+    "historic_marked": "2019-05-01",
+    "seed_status": "repealed"
+  }
 }

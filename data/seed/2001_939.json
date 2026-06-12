@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Åbent brev angående udskrivning af nyvalg til Folketinget",
   "short_name": "Åbent brev",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-10-31",
+  "in_force_date": "2001-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2001/939/xml",
-  "description": "Retsinformation source. DocumentId=AP000037; AccessionNumber=B20010093961; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AP000037; AccessionNumber=B20010093961; Ophævet 2001-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:19:59.305Z",
+    "accession": "B20010093961",
+    "document_id": "AP000037",
+    "unique_document_id": "20964",
+    "upstream_status": "Historic",
+    "start_date": "2001-10-31",
+    "end_date": "2005-01-21",
+    "historic_marked": "2001-11-21",
+    "seed_status": "repealed"
+  }
 }

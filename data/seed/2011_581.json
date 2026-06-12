@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2011-05-23",
+  "in_force_date": "2011-06-10",
   "url": "https://www.retsinformation.dk/eli/lta/2011/581/xml",
   "description": "Retsinformation source. DocumentId=AI003831; AccessionNumber=B20110058105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Oplysninger om børns sundhed tilvejebragt via sundhedsfaglige funktions- og helbredsundersøgelser i henhold til sundhedslovens § 121, stk. 1 og 2, skal indberettes til Sundhedsstyrelsen (Børnedatabasen) efter reglerne i denne bekendtgørelse. Stk. 2. Indberetningen skal indeholde de oplysninger, som fremgår af den til enhver tid gældende »Fællesindhold for indberetning til Sundhedsstyrelsens Børnedatabase«, som udfærdiges af Sundhedsstyrelsen, og som er tilgængelig på Sundhedsstyrelsens hjemmeside. Stk. 3. Indberetning skal ske senest 4 måneder efter, at undersøgelsen af barnet har fundet sted. Stk. 4. Indberetning skal ske elektronisk i overensstemmelse med den til enhver tid gældende brugermanual »Sundhedsstyrelsens Elektroniske Indberetningssystem – indberetning til Børnedatabasen«, som udfærdiges af Sundhedsstyrelsen, og som er tilgængelig på Sundhedsstyrelsens hjemmeside. Stk. 5. Indberetning skal ske uanset indberetning/anmeldelse til andre centrale registre.",
-      "valid_from": "2011-05-23",
+      "valid_from": "2011-06-10",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Kommunalbestyrelsen er ansvarlig for, at indberetning af oplysninger sker i overensstemmelse med reglerne i denne bekendtgørelse. Stk. 2. Kommunalbestyrelsen kan dog overlade indberetningen af oplysninger til de sundhedspersoner, der udfører funktions- og helbredsundersøgelser i henhold til sundhedslovens § 121, stk.1 og stk. 2.",
-      "valid_from": "2011-05-23",
+      "valid_from": "2011-06-10",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. december 2011. Stk. 2. Samtidig bortfalder Sundhedsstyrelsens vejledning fra juni 1997 vedrørende indberetning af sundhedstjenestens virksomhed i de forebyggende sundhedsordninger for børn og unge.",
-      "valid_from": "2011-05-23",
+      "valid_from": "2011-06-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:13:02.979Z",
+    "accession": "B20110058105",
+    "document_id": "AI003831",
+    "unique_document_id": "137249",
+    "upstream_status": "Valid",
+    "start_date": "2011-06-10",
+    "end_date": "2025-06-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

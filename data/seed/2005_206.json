@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om underretning om priser på lægemidler og leveringsforhold",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-03-22",
+  "in_force_date": "2005-03-25",
   "url": "https://www.retsinformation.dk/eli/lta/2005/206/xml",
-  "description": "Retsinformation source. DocumentId=AI001877; AccessionNumber=B20050020605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001877; AccessionNumber=B20050020605; Ophævet 2006-08-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:10:51.929Z",
+    "accession": "B20050020605",
+    "document_id": "AI001877",
+    "unique_document_id": "10032",
+    "upstream_status": "Historic",
+    "start_date": "2005-03-25",
+    "end_date": "2022-07-12",
+    "historic_marked": "2006-08-28",
+    "seed_status": "repealed"
+  }
 }

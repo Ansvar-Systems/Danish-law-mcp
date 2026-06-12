@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af elektricitet",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-06-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/545/xml",
-  "description": "Retsinformation source. DocumentId=CM022012; AccessionNumber=A19940054529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022012; AccessionNumber=A19940054529; Ophævet 1996-10-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:00:14.836Z",
+    "accession": "A19940054529",
+    "document_id": "CM022012",
+    "unique_document_id": "62992",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-04",
+    "historic_marked": "1996-10-11",
+    "seed_status": "repealed"
+  }
 }

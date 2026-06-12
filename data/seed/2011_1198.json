@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 055 for radioanlæg til kortrækkende radar (SRR) i frekvensbåndet 21-26 GHz til tidsbegrænset anvendelse i køretøjer",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-12-14",
+  "in_force_date": "2011-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1198/xml",
-  "description": "Retsinformation source. DocumentId=BP000021; AccessionNumber=B20110119805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000021; AccessionNumber=B20110119805; Ophævet 2018-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For radioanlæg til kortrækkende radar (SRR) i frekvensbåndet 21-26 GHz til tidsbegrænset anvendelse i køretøjer gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 055 for radioanlæg til kortrækkende radar (SRR) i frekvensbåndet 21-26 GHz til tidsbegrænset anvendelse i køretøjer.",
-      "valid_from": "2011-12-14",
-      "valid_to": null
+      "valid_from": "2011-12-16",
+      "valid_to": "2018-05-31"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2012.",
-      "valid_from": "2011-12-14",
-      "valid_to": null
+      "valid_from": "2011-12-16",
+      "valid_to": "2018-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:46:08.604Z",
+    "accession": "B20110119805",
+    "document_id": "BP000021",
+    "unique_document_id": "139074",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-16",
+    "end_date": "2026-06-04",
+    "historic_marked": "2018-05-31",
+    "seed_status": "repealed"
+  }
 }

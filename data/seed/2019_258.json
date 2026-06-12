@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om bachelor- og kandidatuddannelser ved universiteterne (uddannelsesbekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-03-19",
+  "in_force_date": "2019-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2019/258/xml",
-  "description": "Retsinformation source. DocumentId=CE000803; AccessionNumber=B20190025805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000803; AccessionNumber=B20190025805; Ophævet 2020-01-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "19a",
@@ -19,9 +20,20 @@
       "provision_ref": "19a",
       "section": "19a",
       "content": "§ 19 a. Universitetet fastsætter adgangskrav til tilvalg og kombinationsfag i studieordningen. Stk. 2. Ansøgnings- og optagelsesprocedure, herunder frister fastsættes af universitetet. Informationen skal fremgå af universitetets hjemmeside.",
-      "valid_from": "2019-03-19",
-      "valid_to": null
+      "valid_from": "2019-03-21",
+      "valid_to": "2020-01-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:58:26.614Z",
+    "accession": "B20190025805",
+    "document_id": "CE000803",
+    "unique_document_id": "208173",
+    "upstream_status": "Historic",
+    "start_date": "2019-03-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-01-13",
+    "seed_status": "repealed"
+  }
 }

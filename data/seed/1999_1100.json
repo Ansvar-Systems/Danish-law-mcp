@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om beskatning til kommunerne af faste ejendomme, lov om lån til betaling af ejendomsskatter og tinglysningsafgiftsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-29",
+  "in_force_date": "1999-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1100/xml",
-  "description": "Retsinformation source. DocumentId=AI000262; AccessionNumber=A19990110030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000262; AccessionNumber=A19990110030; Ophævet 2007-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:11:39.407Z",
+    "accession": "A19990110030",
+    "document_id": "AI000262",
+    "unique_document_id": "8909",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-30",
+    "end_date": "2023-04-29",
+    "historic_marked": "2007-05-31",
+    "seed_status": "repealed"
+  }
 }

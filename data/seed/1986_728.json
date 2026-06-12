@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om marginspekulation",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-10-29",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1986/728/xml",
-  "description": "Retsinformation source. DocumentId=CM025542; AccessionNumber=A19860072830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025542; AccessionNumber=A19860072830; Ophævet 1990-05-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:19:10.432Z",
+    "accession": "A19860072830",
+    "document_id": "CM025542",
+    "unique_document_id": "66417",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2025-02-12",
+    "historic_marked": "1990-05-04",
+    "seed_status": "repealed"
+  }
 }

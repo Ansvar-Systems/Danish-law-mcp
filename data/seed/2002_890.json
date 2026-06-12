@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udbetaling fra den Særlige Pensionsopsparing",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-31",
+  "in_force_date": "2002-11-11",
   "url": "https://www.retsinformation.dk/eli/lta/2002/890/xml",
-  "description": "Retsinformation source. DocumentId=BE000324; AccessionNumber=B20020089005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000324; AccessionNumber=B20020089005; Ophævet 2003-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:02:24.716Z",
+    "accession": "B20020089005",
+    "document_id": "BE000324",
+    "unique_document_id": "29559",
+    "upstream_status": "Historic",
+    "start_date": "2002-11-11",
+    "end_date": "2006-08-21",
+    "historic_marked": "2003-12-22",
+    "seed_status": "repealed"
+  }
 }

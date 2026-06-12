@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kliniske forsøg med lægemidler og lov om videnskabsetisk behandling af sundhedsvidenskabelige forskningsprojekter (Habilitetskrav, forsøgsdata fra afdøde, udenlandsk inspektion m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-06-08",
+  "in_force_date": "2018-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2018/726/xml",
-  "description": "Retsinformation source. DocumentId=CN000660; AccessionNumber=A20180072630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000660; AccessionNumber=A20180072630; Ophævet 2024-12-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "14a",
@@ -47,21 +48,21 @@
       "section": "14a",
       "content": "§ 14 a. Lægemiddelstyrelsen og de videnskabsetiske lægemiddelkomiteer kan videregive relevante oplysninger om kliniske forsøg til Det Europæiske Lægemiddelagentur, Europa-Kommissionen og lægemiddelmyndigheder og videnskabsetiske komiteer i de andre EU- eller EØS-lande. Stk. 2. Sundhedsministeren fastsætter nærmere regler om videregivelse af oplysningerne, jf. stk. 1.",
       "valid_from": "2018-06-08",
-      "valid_to": null
+      "valid_to": "2024-12-02"
     },
     {
       "provision_ref": "20a",
       "section": "20a",
       "content": "§ 20 a. Inspektører fra andre EU- eller EØS-lande har efter anmodning, i det omfang det er nødvendigt for at gennemføre kontrol af et klinisk forsøg, adgang til at inspicere forsøgssteder, hvor der i Danmark udføres eller er udført et klinisk forsøg med lægemidler.",
       "valid_from": "2018-06-08",
-      "valid_to": null
+      "valid_to": "2024-12-02"
     },
     {
       "provision_ref": "21a",
       "section": "21a",
       "content": "§ 21 a. Den videnskabsetiske lægemiddelkomité kan tillade, at der i et klinisk forsøg med lægemidler i akutte situationer, jf. forordningens artikel 35, foretages behandling af de indsamlede oplysninger og fortsættes indsamling fra forsøgspersonens patientjournal, hvis 1) oplysningerne er nødvendige for forsøgets gennemførelse, kontrol eller monitorering, 2) forsøgspersonen afgår ved døden under eller efter forsøget og 3) det konstateres, at det ikke er muligt efterfølgende at indhente et stedfortrædende samtykke, jf. §§ 3-5.",
       "valid_from": "2018-06-08",
-      "valid_to": null
+      "valid_to": "2024-12-02"
     },
     {
       "provision_ref": "7a:31a",
@@ -69,14 +70,14 @@
       "section": "31a",
       "content": "§ 31 a. Personer, der medvirker i behandlingen af afgørelser om godkendelse, overvågning eller kontrol med kliniske forsøg med lægemidler i medfør af denne lov, må ikke have økonomiske eller andre interesser inden for lægemiddelindustrien, som kan påvirke deres upartiskhed. Stk. 2. Ansatte i Lægemiddelstyrelsen og andre personer omfattet af stk. 1 skal hvert år afgive en habilitetserklæring om deres økonomiske og andre interesser inden for lægemiddelindustrien til Lægemiddelstyrelsen. Stk. 3. Medlemmer af en videnskabsetisk lægemiddelkomité og komiteens underudvalg, ansatte i National Videnskabsetisk Komités sekretariat og andre personer med videnskabsetiske opgaver omfattet af stk. 1 skal hvert år afgive en habilitetserklæring om deres økonomiske og andre interesser inden for lægemiddelindustrien til National Videnskabsetisk Komités sekretariat.",
       "valid_from": "2018-06-08",
-      "valid_to": null
+      "valid_to": "2024-12-02"
     },
     {
       "provision_ref": "11a",
       "section": "11a",
       "content": "§ 11 a. Komiteen kan tillade, at der ved forskning i akut‌te situationer, jf. § 11, kan foretages behandling af de indsamlede oplysninger og fortsættes indsamling fra forsøgspersonens patientjournal, hvis 1) oplysningerne er nødvendige for forsøgets gennemførelse, kontrol eller monitorering, 2) forsøgspersonen afgår ved døden under eller efter forsøget og 3) det konstateres, at det ikke er muligt efterfølgende at indhente et stedfortrædende samtykke, jf. §§ 3-5.",
       "valid_from": "2018-06-08",
-      "valid_to": null
+      "valid_to": "2024-12-02"
     },
     {
       "provision_ref": "7a:38a",
@@ -84,8 +85,19 @@
       "section": "38a",
       "content": "§ 38 a. Personer, der medvirker i behandlingen af afgørelser om godkendelse, overvågning eller tilsyn med sundhedsvidenskabelige forskningsprojekter i medfør af denne lov, må ikke have økonomiske eller andre interesser inden for sundhedsvidenskabelig forskning, som kan påvirke deres upartiskhed. Stk. 2. Medlemmer af en regional videnskabsetisk komité og National Videnskabsetisk Komité, ansatte i en regional videnskabsetisk komité og National Videnskabsetisk Komités sekretariat og andre personer omfattet af stk. 1 skal hvert år afgive en habilitetserklæring om deres økonomiske og andre interesser inden for sundhedsvidenskabelig forskning til den komité, som de er tilknyttet.",
       "valid_from": "2018-06-08",
-      "valid_to": null
+      "valid_to": "2024-12-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:17:23.171Z",
+    "accession": "A20180072630",
+    "document_id": "CN000660",
+    "unique_document_id": "201229",
+    "upstream_status": "Historic",
+    "start_date": "2018-06-08",
+    "end_date": "2024-12-03",
+    "historic_marked": "2024-12-02",
+    "seed_status": "repealed"
+  }
 }

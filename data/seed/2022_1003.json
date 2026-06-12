@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-06-20",
+  "in_force_date": "2022-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1003/xml",
   "description": "Retsinformation source. DocumentId=DB000530; AccessionNumber=B20220100305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Styrelsen for Dataforsyning og Infrastruktur prioriterer og administrerer den danske frekvensanvendelse inden for rammerne af det frekvenspolitiske rammemandat, jf. bilag 1.",
-      "valid_from": "2022-06-20",
+      "valid_from": "2022-06-28",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Klima-, energi- og forsyningsministeren træffer i tilfælde af frekvensknaphed, jf. § 7, stk. 6, i lov om radiofrekvenser beslutning om metode til tildeling af tilladelser til at anvende radiofrekvenser i form af auktion, offentligt udbud eller udstedelse af tilladelser, efterhånden som ansøgninger herom modtages, jf. lovens § 9, stk. 1 og 2, hvor der er følgende væsentlige samfundsmæssige hensyn, jf. lovens § 2, stk. 2, at varetage i forbindelse med udstedelsen: 1) Udstedelse af tilladelse er af betydning for anvendelse af radiofrekvenser til nye digitale muligheder, som vil kunne få væsentlig samfundsøkonomisk betydning. 2) Udstedelse af tilladelse er af betydning for anvendelse af radiofrekvenser, som er nødvendig for nød- og beredskabstjenesternes opgaveløsning eller for løsning af opgaver vedrørende transportinfrastruktur, som vurderes at have væsentlig samfundsmæssig betydning. 3) Udstedelse af tilladelse er af betydning for tjenester, hvis udbredelse vurderes at have stor samfundsøkonomisk betydning, og hvor udbredelse i hele landet ikke kan forventes varetaget af markedet i tilstrækkeligt omfang.",
-      "valid_from": "2022-06-20",
+      "valid_from": "2022-06-28",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2022. Stk. 2. Bekendtgørelse nr. 1890 af 9. december 2020 om det frekvenspolitiske rammemandat ophæves.",
-      "valid_from": "2022-06-20",
+      "valid_from": "2022-06-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:01:38.114Z",
+    "accession": "B20220100305",
+    "document_id": "DB000530",
+    "unique_document_id": "231917",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-28",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

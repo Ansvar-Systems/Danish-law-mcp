@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-01-17",
+  "in_force_date": "2023-01-19",
   "url": "https://www.retsinformation.dk/eli/lta/2023/50/xml",
   "description": "Retsinformation source. DocumentId=DG000547; AccessionNumber=B20230005005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 12 i lov nr. 802 af 7. juni 2022 om udvikling af statsvejnettet sættes i kraft.",
-      "valid_from": "2023-01-17",
+      "valid_from": "2023-01-19",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2023.",
-      "valid_from": "2023-01-17",
+      "valid_from": "2023-01-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:49:41.405Z",
+    "accession": "B20230005005",
+    "document_id": "DG000547",
+    "unique_document_id": "234388",
+    "upstream_status": "Valid",
+    "start_date": "2023-01-19",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

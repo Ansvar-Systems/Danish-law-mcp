@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opgørelse af formue til beregning af individuel boligstøtte",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-09-15",
+  "in_force_date": "1999-09-23",
   "url": "https://www.retsinformation.dk/eli/lta/1999/723/xml",
-  "description": "Retsinformation source. DocumentId=AC000121; AccessionNumber=B19990072305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000121; AccessionNumber=B19990072305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:39:29.166Z",
+    "accession": "B19990072305",
+    "document_id": "AC000121",
+    "unique_document_id": "4002",
+    "upstream_status": "Historic",
+    "start_date": "1999-09-23",
+    "end_date": "2023-07-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

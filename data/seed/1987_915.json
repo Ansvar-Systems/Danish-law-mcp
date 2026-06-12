@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om levering af mælk til mejerier",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-12-15",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/915/xml",
-  "description": "Retsinformation source. DocumentId=CM037561; AccessionNumber=B19870091505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM037561; AccessionNumber=B19870091505; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:57:45.099Z",
+    "accession": "B19870091505",
+    "document_id": "CM037561",
+    "unique_document_id": "78352",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

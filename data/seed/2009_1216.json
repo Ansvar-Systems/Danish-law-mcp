@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til maritime uddannelsesinstitutioner",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-10",
+  "in_force_date": "2009-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1216/xml",
-  "description": "Retsinformation source. DocumentId=AU003804; AccessionNumber=B20090121605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003804; AccessionNumber=B20090121605; Ophævet 2013-07-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Institutionernes regnskabsår er finansåret. Ved finansårets afslutning udarbejdes et årsregnskab omfattende årsberetning, resultatopgørelse og balance. Regnskabet aflægges i henhold til statens regnskabsregler.",
-      "valid_from": "2009-12-10",
-      "valid_to": null
+      "valid_from": "2009-12-12",
+      "valid_to": "2013-07-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:46:22.874Z",
+    "accession": "B20090121605",
+    "document_id": "AU003804",
+    "unique_document_id": "128688",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-07-04",
+    "seed_status": "repealed"
+  }
 }

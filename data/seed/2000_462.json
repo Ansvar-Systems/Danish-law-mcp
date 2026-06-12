@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om gevinstgivende spilleautomater",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/462/xml",
-  "description": "Retsinformation source. DocumentId=AN001019; AccessionNumber=A20000046230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001019; AccessionNumber=A20000046230; Ophævet 2002-08-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:19.722Z",
+    "accession": "A20000046230",
+    "document_id": "AN001019",
+    "unique_document_id": "13813",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2014-10-21",
+    "historic_marked": "2002-08-08",
+    "seed_status": "repealed"
+  }
 }

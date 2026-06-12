@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om anlæg af en statshavn på Rømø",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1960-05-18",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1960/199/xml",
-  "description": "Retsinformation source. DocumentId=CM010115; AccessionNumber=A19600019930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010115; AccessionNumber=A19600019930; Ophævet 2025-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:03:46.957Z",
+    "accession": "A19600019930",
+    "document_id": "CM010115",
+    "unique_document_id": "51289",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-12-17",
+    "historic_marked": "2025-12-16",
+    "seed_status": "repealed"
+  }
 }

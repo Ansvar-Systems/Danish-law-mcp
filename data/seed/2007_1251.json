@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om åben uddannelse og tilskud til arbejdsmarkedsuddannelser m.v.\\n(Tilskud til individuel kompetencevurdering)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-10-24",
+  "in_force_date": "2007-11-02",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1251/xml",
-  "description": "Retsinformation source. DocumentId=AT003017; AccessionNumber=B20070125105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT003017; AccessionNumber=B20070125105; Ophævet 2009-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -24,16 +25,27 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Bekendtgørelsen omfatter tilskud til individuel kompetencevurdering, der følger reglerne i lov om arbejdsmarkedsuddannelser m.v. og i lov om erhvervsrettet grunduddannelse og videregående uddannelse (videreuddannelsessystemet) for voksne.",
-      "valid_from": "2007-10-24",
-      "valid_to": null
+      "valid_from": "2007-11-02",
+      "valid_to": "2009-12-29"
     },
     {
       "provision_ref": "14",
       "section": "14",
       "content": "§ 14 a. For gennemførelse af individuel kompetencevurdering gælder reglerne i § 14 tilsvarende, med mindre de pågældende personer er undtaget fra deltagerbetaling efter lov om åben uddannelse (erhvervsrettet voksenuddannelse m.v.) § 8, stk. 1. Stk. 2. Ved gennemførelse af individuel kompetencevurdering uden deltagerbetaling gælder reglerne i § 14, stk. 1, nr. 4 - 6, og stk. 6-8 tilsvarende.",
-      "valid_from": "2007-10-24",
-      "valid_to": null
+      "valid_from": "2007-11-02",
+      "valid_to": "2009-12-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:56:43.371Z",
+    "accession": "B20070125105",
+    "document_id": "AT003017",
+    "unique_document_id": "25450",
+    "upstream_status": "Historic",
+    "start_date": "2007-11-02",
+    "end_date": "2021-01-08",
+    "historic_marked": "2009-12-29",
+    "seed_status": "repealed"
+  }
 }

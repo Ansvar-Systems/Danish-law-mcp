@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om skelforretninger",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-10",
+  "in_force_date": "2006-02-20",
   "url": "https://www.retsinformation.dk/eli/lta/2006/82/xml",
-  "description": "Retsinformation source. DocumentId=AL001344; AccessionNumber=B20060008205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001344; AccessionNumber=B20060008205; Ophævet 2010-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:39:14.275Z",
+    "accession": "B20060008205",
+    "document_id": "AL001344",
+    "unique_document_id": "12890",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-20",
+    "end_date": "2021-01-08",
+    "historic_marked": "2010-09-21",
+    "seed_status": "repealed"
+  }
 }

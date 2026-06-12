@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om størrelsen af hjemmeservicebidraget",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-10-15",
+  "in_force_date": "2009-10-20",
   "url": "https://www.retsinformation.dk/eli/lta/2009/972/xml",
-  "description": "Retsinformation source. DocumentId=AU003757; AccessionNumber=B20090097205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003757; AccessionNumber=B20090097205; Ophævet 2012-12-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Til hjemmeserviceydelser, som er omfattet af lov om hjemmeservice, udgør bidraget 30 pct. Stk. 2. Bidraget beregnes af det fakturerede beløb inklusive moms. Udgifter inklusive moms til materialer fradrages. Stk. 3. Bidraget kan ikke overstige det beløb, hvormed virksomheden har foretaget fradrag for bidrag i regningen til forbrugeren.",
-      "valid_from": "2009-10-15",
-      "valid_to": null
+      "valid_from": "2009-10-20",
+      "valid_to": "2012-12-27"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. En husstand kan højest få 6.000 kr. pr. kvartal i bidrag til hjemmeservice, som er udført af en enkelt virksomhed.",
-      "valid_from": "2009-10-15",
-      "valid_to": null
+      "valid_from": "2009-10-20",
+      "valid_to": "2012-12-27"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2010.",
-      "valid_from": "2009-10-15",
-      "valid_to": null
+      "valid_from": "2009-10-20",
+      "valid_to": "2012-12-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:33:41.802Z",
+    "accession": "B20090097205",
+    "document_id": "AU003757",
+    "unique_document_id": "127771",
+    "upstream_status": "Historic",
+    "start_date": "2009-10-20",
+    "end_date": "2017-12-09",
+    "historic_marked": "2012-12-27",
+    "seed_status": "repealed"
+  }
 }

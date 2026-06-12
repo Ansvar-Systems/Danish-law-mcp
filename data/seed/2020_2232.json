@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 6, nr. 1-4, 6, 7 og 13, i lov om ændring af aktieavancebeskatningsloven, kildeskatteloven, ligningsloven og forskellige andre love (Bedre vilkår for tildeling af medarbejderaktier i nye, mindre virksomheder, for opsparing i investeringsinstitutter og for tiltrækning af kapital til danske investeringsinstitutter)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-29",
+  "in_force_date": "2020-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2232/xml",
-  "description": "Retsinformation source. DocumentId=AN014691; AccessionNumber=B20200223205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN014691; AccessionNumber=B20200223205; Ophævet 2022-10-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 6, nr. 1-4, 6, 7 og 13, i lov nr. 84 af 30. januar 2019 om ændring af aktieavancebeskatningsloven, kildeskatteloven, ligningsloven og forskellige andre love (Bedre vilkår for tildeling af medarbejderaktier i nye, mindre virksomheder, for opsparing i investeringsinstitutter og for tiltrækning af kapital til danske investeringsinstitutter) sættes i kraft.",
       "valid_from": "2020-12-29",
-      "valid_to": null
+      "valid_to": "2022-10-05"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2021.",
       "valid_from": "2020-12-29",
-      "valid_to": null
+      "valid_to": "2022-10-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:18:00.319Z",
+    "accession": "B20200223205",
+    "document_id": "AN014691",
+    "unique_document_id": "218154",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2022-10-05",
+    "seed_status": "repealed"
+  }
 }

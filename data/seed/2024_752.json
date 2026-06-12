@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2024-06-18",
+  "in_force_date": "2024-06-20",
   "url": "https://www.retsinformation.dk/eli/lta/2024/752/xml",
   "description": "Retsinformation source. DocumentId=DB000951; AccessionNumber=B20240075205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 2, nr. 16, i lov nr. 1555 af 12. december 2023 om ændring af lov om radioudstyr og elektromagnetiske forhold, lov om elektroniske kommunikationsnet og -tjenester, lov om etablering og fælles udnyttelse af master til radiokommunikationsformål og udnyttelse af infrastruktur til opsætning af trådløse adgangspunkter med lille rækkevidde m.v. og lov om fremme af effektiv energianvendelse og drivhusgasreduktion (Universalopladere til mobiltelefoner m.v., regler om kommunal støtte til bredbåndsudrulning, indhentning af oplysninger om elforbrug og indberetning af oplysninger om datacentres energimæssige ydeevne m.v.) sættes i kraft.",
-      "valid_from": "2024-06-18",
+      "valid_from": "2024-06-20",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2024.",
-      "valid_from": "2024-06-18",
+      "valid_from": "2024-06-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:17:11.124Z",
+    "accession": "B20240075205",
+    "document_id": "DB000951",
+    "unique_document_id": "244274",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-20",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

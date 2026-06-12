@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-11-30",
+  "in_force_date": "2023-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1400/xml",
   "description": "Retsinformation source. DocumentId=DB000810; AccessionNumber=B20230140005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -493,5 +494,16 @@
       "definition": "faktorer, der er udefrakommende, upåvirkelige og uden for tidligere driftsforhold, og som ikke allerede er indregnet i indtægtsrammen",
       "source_provision": "4:14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:17:48.099Z",
+    "accession": "B20230140005",
+    "document_id": "DB000810",
+    "unique_document_id": "240297",
+    "upstream_status": "Valid",
+    "start_date": "2023-11-30",
+    "end_date": "2025-12-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-03-06",
+  "in_force_date": "2023-03-07",
   "url": "https://www.retsinformation.dk/eli/lta/2023/218/xml",
   "description": "Retsinformation source. DocumentId=AN015789; AccessionNumber=B20230021805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 13-17, i lov nr. 904 af 21. juni 2022 om ændring af momsloven (Ændring af reglerne om brugtmoms, momsgodtgørelse og -fritagelse for diplomater og justering af reglerne om undervisning og turistsalg m.v.) sættes i kraft.",
-      "valid_from": "2023-03-06",
+      "valid_from": "2023-03-07",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2023.",
-      "valid_from": "2023-03-06",
+      "valid_from": "2023-03-07",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:38:21.245Z",
+    "accession": "B20230021805",
+    "document_id": "AN015789",
+    "unique_document_id": "233948",
+    "upstream_status": "Valid",
+    "start_date": "2023-03-07",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

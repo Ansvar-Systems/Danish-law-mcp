@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om priserne på Lovtidende og Ministerialtidende",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-12-16",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/843/xml",
-  "description": "Retsinformation source. DocumentId=CM016726; AccessionNumber=B19910084305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016726; AccessionNumber=B19910084305; Ophævet 1993-07-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:03:51.848Z",
+    "accession": "B19910084305",
+    "document_id": "CM016726",
+    "unique_document_id": "57798",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-10-08",
+    "historic_marked": "1993-07-16",
+    "seed_status": "repealed"
+  }
 }

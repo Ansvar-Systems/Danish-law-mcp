@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om registrerede arkitekter",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1975-05-28",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1975/202/xml",
-  "description": "Retsinformation source. DocumentId=CM014170; AccessionNumber=A19750020230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014170; AccessionNumber=A19750020230; Ophævet 2007-02-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:55:40.774Z",
+    "accession": "A19750020230",
+    "document_id": "CM014170",
+    "unique_document_id": "55281",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "2007-02-14",
+    "seed_status": "repealed"
+  }
 }

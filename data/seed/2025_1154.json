@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-09-29",
+  "in_force_date": "2025-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1154/xml",
   "description": "Retsinformation source. DocumentId=DM000134; AccessionNumber=B20250115405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Fonden kan i overensstemmelse med sit formål midlertidigt erhverve og forvalte arealer med henblik på etablering af ny skov og tinglysning af fredsskovpligt.",
-      "valid_from": "2025-09-29",
+      "valid_from": "2025-09-30",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Fonden skal tilstræbe at afhænde arealer, som er erhvervet med hjemmel i denne bekendtgørelse, jf. § 1, efter højest 5 år. Stk. 2. Hvis der er særlige omstændigheder, kan afhændelsen af arealer overskride fristen.",
-      "valid_from": "2025-09-29",
+      "valid_from": "2025-09-30",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 2. oktober 2025.",
-      "valid_from": "2025-09-29",
+      "valid_from": "2025-09-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:33.414Z",
+    "accession": "B20250115405",
+    "document_id": "DM000134",
+    "unique_document_id": "251505",
+    "upstream_status": "Valid",
+    "start_date": "2025-09-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

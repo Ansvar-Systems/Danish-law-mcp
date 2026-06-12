@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om våben og eksplosivstoffer",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-09-10",
+  "in_force_date": "2004-09-20",
   "url": "https://www.retsinformation.dk/eli/lta/2004/918/xml",
-  "description": "Retsinformation source. DocumentId=AA002583; AccessionNumber=A20040091829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002583; AccessionNumber=A20040091829; Ophævet 2007-12-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:45:33.422Z",
+    "accession": "A20040091829",
+    "document_id": "AA002583",
+    "unique_document_id": "1876",
+    "upstream_status": "Historic",
+    "start_date": "2004-09-20",
+    "end_date": "2025-05-27",
+    "historic_marked": "2007-12-06",
+    "seed_status": "repealed"
+  }
 }

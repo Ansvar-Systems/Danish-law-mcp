@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2026-02-05",
+  "in_force_date": "2026-02-05",
   "url": "https://www.retsinformation.dk/eli/lta/2026/246/xml",
   "description": "Retsinformation source. DocumentId=CQ003470; AccessionNumber=A20260024629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -442,5 +443,16 @@
       "definition": "i denne lov en geografisk adresse, hvorfra en juridisk enhed udøver en aktivitet",
       "source_provision": "1:4"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:40:40.297Z",
+    "accession": "A20260024629",
+    "document_id": "CQ003470",
+    "unique_document_id": "255280",
+    "upstream_status": "Valid",
+    "start_date": "2026-02-05",
+    "end_date": "2026-02-06",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

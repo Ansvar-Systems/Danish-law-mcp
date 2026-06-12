@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 051 for radioanlæg til identifikation (RFID)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-05-20",
+  "in_force_date": "2014-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2014/504/xml",
-  "description": "Retsinformation source. DocumentId=BP000866; AccessionNumber=B20140050405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000866; AccessionNumber=B20140050405; Ophævet 2015-06-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For radioanlæg til identifikation (RFID) gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 051 for radioanlæg til identifikation (RFID).",
-      "valid_from": "2014-05-20",
-      "valid_to": null
+      "valid_from": "2014-05-24",
+      "valid_to": "2015-06-03"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juni 2014.",
-      "valid_from": "2014-05-20",
-      "valid_to": null
+      "valid_from": "2014-05-24",
+      "valid_to": "2015-06-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:05:22.147Z",
+    "accession": "B20140050405",
+    "document_id": "BP000866",
+    "unique_document_id": "162278",
+    "upstream_status": "Historic",
+    "start_date": "2014-05-24",
+    "end_date": "2026-06-04",
+    "historic_marked": "2015-06-03",
+    "seed_status": "repealed"
+  }
 }

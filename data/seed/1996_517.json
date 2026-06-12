@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Skattestyrelsesloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-06-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/517/xml",
-  "description": "Retsinformation source. DocumentId=CM040957; AccessionNumber=A19960051729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040957; AccessionNumber=A19960051729; Ophævet 1997-04-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:27:58.723Z",
+    "accession": "A19960051729",
+    "document_id": "CM040957",
+    "unique_document_id": "81651",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-08-29",
+    "historic_marked": "1997-04-22",
+    "seed_status": "repealed"
+  }
 }

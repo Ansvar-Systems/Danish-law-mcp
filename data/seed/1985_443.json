@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Myndighedsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-10-03",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1985/443/xml",
-  "description": "Retsinformation source. DocumentId=CM018165; AccessionNumber=A19850044329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018165; AccessionNumber=A19850044329; Ophævet 1995-07-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:55:21.922Z",
+    "accession": "A19850044329",
+    "document_id": "CM018165",
+    "unique_document_id": "59213",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-19",
+    "historic_marked": "1995-07-11",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om medielicens",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-09-02",
+  "in_force_date": "2014-09-06",
   "url": "https://www.retsinformation.dk/eli/lta/2014/972/xml",
-  "description": "Retsinformation source. DocumentId=AK001047; AccessionNumber=B20140097205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK001047; AccessionNumber=B20140097205; Ophævet 2014-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "32",
@@ -19,9 +20,20 @@
       "provision_ref": "32",
       "section": "32",
       "content": "§ 32. Licens, jf. § 2, stk. 1, er fastsat af kulturministeren og tiltrådt af Finansudvalget, jf. akt nr. 131 af 28. august 2014. Licens, jf. § 2, stk. 2, er fastsat af kulturministeren og tiltrådt af Finansudvalget, jf. akt nr. 123 af 20. juni 2013.",
-      "valid_from": "2014-09-02",
-      "valid_to": null
+      "valid_from": "2014-09-06",
+      "valid_to": "2014-12-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:11.633Z",
+    "accession": "B20140097205",
+    "document_id": "AK001047",
+    "unique_document_id": "164648",
+    "upstream_status": "Historic",
+    "start_date": "2014-09-06",
+    "end_date": "2021-08-05",
+    "historic_marked": "2014-12-29",
+    "seed_status": "repealed"
+  }
 }

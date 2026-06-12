@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-07-02",
+  "in_force_date": "2019-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2019/685/xml",
   "description": "Retsinformation source. DocumentId=AN013890; AccessionNumber=B20190068505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Skatteforvaltningen er kompetent myndighed i henhold til EU-voldgiftskonventionen og voldgiftsdirektivet.",
-      "valid_from": "2019-07-02",
+      "valid_from": "2019-07-05",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Spørgsmål, som omfattes af EU-voldgiftskonventionen, kan ikke behandles i et rådgivende udvalg, hvis spørgsmålet er indbragt for danske domstole. Stk. 2. Spørgsmål, som omfattes af voldgiftsdirektivet, kan ikke behandles i et rådgivende udvalg eller et udvalg til alternativ tvistbilæggelse, hvis spørgsmålet er afgjort ved danske domstole.",
-      "valid_from": "2019-07-02",
+      "valid_from": "2019-07-05",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. juli 2019. Stk. 2. Bekendtgørelse nr. 260 af 21. marts 2006 om EF-voldgiftskonventionen ophæves.",
-      "valid_from": "2019-07-02",
+      "valid_from": "2019-07-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:15:44.604Z",
+    "accession": "B20190068505",
+    "document_id": "AN013890",
+    "unique_document_id": "209420",
+    "upstream_status": "Valid",
+    "start_date": "2019-07-05",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

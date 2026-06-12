@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 5 og 7, og § 13, nr. 1, i lov om ændring af lov om fremme af besparelser i energiforbruget, lov om fremme af energibesparelser i bygninger, afskrivningsloven og ligningsloven samt ophævelse af en række love under Klima-, Energi- og Forsyningsministeriets område (Tilskud til energibesparelser og energieffektiviseringer m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-17",
+  "in_force_date": "2020-06-22",
   "url": "https://www.retsinformation.dk/eli/lta/2020/923/xml",
-  "description": "Retsinformation source. DocumentId=DB000163; AccessionNumber=B20200092305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000163; AccessionNumber=B20200092305; Ophævet 2021-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 5 og 7, og § 13, nr. 1, i lov nr. 739 af 30. maj 2020 om ændring af lov om fremme af besparelser i energiforbruget, lov om fremme af energibesparelser i bygninger, afskrivningsloven og ligningsloven samt ophævelse af en række love under Klima-, Energi- og Forsyningsministeriets område (Tilskud til energibesparelser og energieffektiviseringer m.v.) sættes i kraft.",
-      "valid_from": "2020-06-17",
-      "valid_to": null
+      "valid_from": "2020-06-22",
+      "valid_to": "2021-08-30"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft 1. juli 2020.",
-      "valid_from": "2020-06-17",
-      "valid_to": null
+      "valid_from": "2020-06-22",
+      "valid_to": "2021-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:48:42.099Z",
+    "accession": "B20200092305",
+    "document_id": "DB000163",
+    "unique_document_id": "215100",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-22",
+    "end_date": "2021-08-31",
+    "historic_marked": "2021-08-30",
+    "seed_status": "repealed"
+  }
 }

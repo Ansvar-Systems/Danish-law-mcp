@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af fusionsskatteloven og andre skattelove",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-11-22",
+  "in_force_date": "2000-11-22",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1030/xml",
-  "description": "Retsinformation source. DocumentId=AN002105; AccessionNumber=A20000103030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002105; AccessionNumber=A20000103030; Ophævet 2001-10-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:51:44.833Z",
+    "accession": "A20000103030",
+    "document_id": "AN002105",
+    "unique_document_id": "14786",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-22",
+    "end_date": "2010-10-27",
+    "historic_marked": "2001-10-22",
+    "seed_status": "repealed"
+  }
 }

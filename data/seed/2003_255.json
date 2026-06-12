@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tinglysning i bilbogen",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-04-04",
+  "in_force_date": "2003-04-14",
   "url": "https://www.retsinformation.dk/eli/lta/2003/255/xml",
-  "description": "Retsinformation source. DocumentId=AA002061; AccessionNumber=B20030025505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002061; AccessionNumber=B20030025505; Ophævet 2010-10-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:22:51.600Z",
+    "accession": "B20030025505",
+    "document_id": "AA002061",
+    "unique_document_id": "1515",
+    "upstream_status": "Historic",
+    "start_date": "2003-04-14",
+    "end_date": "2010-10-28",
+    "historic_marked": "2010-10-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om naturgasforsyning",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-04-20",
+  "in_force_date": "2005-04-28",
   "url": "https://www.retsinformation.dk/eli/lta/2005/287/xml",
-  "description": "Retsinformation source. DocumentId=AR001005; AccessionNumber=A20050028729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001005; AccessionNumber=A20050028729; Ophævet 2006-11-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:14:06.688Z",
+    "accession": "A20050028729",
+    "document_id": "AR001005",
+    "unique_document_id": "22420",
+    "upstream_status": "Historic",
+    "start_date": "2005-04-28",
+    "end_date": "2021-01-08",
+    "historic_marked": "2006-11-20",
+    "seed_status": "repealed"
+  }
 }

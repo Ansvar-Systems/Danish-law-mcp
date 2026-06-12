@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om jordbrugets anvendelse af gødning i planperioden 2015/2016",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-09-01",
+  "in_force_date": "2015-09-02",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1022/xml",
-  "description": "Retsinformation source. DocumentId=CK000091; AccessionNumber=B20150102205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK000091; AccessionNumber=B20150102205; Ophævet 2016-03-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "38",
@@ -19,9 +20,20 @@
       "provision_ref": "38",
       "section": "38",
       "content": "§ 38. Overtrædelse af § 3, § 5, stk. 5, §§ 11-12, § 13, stk. 1-2, 4 og 6, §§ 18-21, § 22, stk. 1-3, § 24, § 26, § 27, stk. 1-2 og 4, og §§ 29-33 straffes med bøde.",
-      "valid_from": "2015-09-01",
-      "valid_to": null
+      "valid_from": "2015-09-02",
+      "valid_to": "2016-03-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:23:19.571Z",
+    "accession": "B20150102205",
+    "document_id": "CK000091",
+    "unique_document_id": "174116",
+    "upstream_status": "Historic",
+    "start_date": "2015-09-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "2016-03-16",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-02-20",
+  "in_force_date": "2018-02-22",
   "url": "https://www.retsinformation.dk/eli/lta/2018/111/xml",
   "description": "Retsinformation source. DocumentId=AA010409; AccessionNumber=B20180011105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Grønland inddeles i 4 retskredse, der fastlægges med udgangspunkt i de grønlandske kommuner, jf. inatsisartutlov nr. 34 af 23. november 2017 om Grønlands inddeling i landsdele og kommuner.",
-      "valid_from": "2018-02-20",
+      "valid_from": "2018-02-22",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. De grønlandske retskredse er herefter følgende: 1) Kujalleq Område: Kommune Kujalleq. 2) Sermersooq Område: Kommuneqarfik Sermersooq samt Nationalparken i Nordøstgrønland. 3) Qeqqa Område: Qeqqata Kommunia. 4) Qaasuitsoq Område: Avannaata Kommunia, Kommune Qeqertalik samt Pituffik.",
-      "valid_from": "2018-02-20",
+      "valid_from": "2018-02-22",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. marts 2018. Stk. 2. Samtidig ophæves bekendtgørelse nr. 1428 af 23. december 2012 om Grønlands inddeling i retskredse.",
-      "valid_from": "2018-02-20",
+      "valid_from": "2018-02-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:26:56.211Z",
+    "accession": "B20180011105",
+    "document_id": "AA010409",
+    "unique_document_id": "194961",
+    "upstream_status": "Valid",
+    "start_date": "2018-02-22",
+    "end_date": "2018-02-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

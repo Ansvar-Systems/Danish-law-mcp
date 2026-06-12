@@ -5,9 +5,21 @@
   "short_name": "Lov",
   "status": "in_force",
   "issued_date": "2006-06-07",
+  "in_force_date": "2006-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2006/500/xml",
   "description": "Retsinformation source. DocumentId=AI002246; AccessionNumber=A20060050030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:26:26.262Z",
+    "accession": "A20060050030",
+    "document_id": "AI002246",
+    "unique_document_id": "10284",
+    "upstream_status": "Valid",
+    "start_date": "2006-06-07",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

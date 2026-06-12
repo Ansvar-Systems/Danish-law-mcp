@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om hold af dyr\\n(Uddannelseskrav til pelsdyravlere m.v., egenkontrol ved gruppevis levering af slagtesvin og forenkling af gebyropkrævning)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1544/xml",
-  "description": "Retsinformation source. DocumentId=AH004105; AccessionNumber=A20100154430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004105; AccessionNumber=A20100154430; Ophævet 2012-07-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -25,15 +26,26 @@
       "section": "3",
       "content": "§ 3 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om uddannelseskrav til personer, som er ansvarlige for landbrugsmæssigt hold af pelsdyr, der traditionelt holdes som husdyr i Danmark. Stk. 2. Ministeren kan fastsætte regler om uddannelseskrav til andre personer end de i stk. 1 nævnte, som er beskæftiget med landbrugsmæssigt hold af pelsdyr, der traditionelt holdes som husdyr i Danmark.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2012-07-23"
     },
     {
       "provision_ref": "61",
       "section": "61",
       "content": "§ 61 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at besætningsejer og transportør for egen regning skal gennemføre egenkontrol ved transport af slag­te­svin, der efter aftale mellem besætningsejer og slagteri transporteres direkte fra en svinebesætning i Danmark til et slagteri i Danmark uden øremærkning eller skinketatovering.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2012-07-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:57:05.519Z",
+    "accession": "A20100154430",
+    "document_id": "AH004105",
+    "unique_document_id": "135165",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2022-04-09",
+    "historic_marked": "2012-07-23",
+    "seed_status": "repealed"
+  }
 }

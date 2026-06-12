@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forsvarets personel",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-02-12",
+  "in_force_date": "2004-02-19",
   "url": "https://www.retsinformation.dk/eli/lta/2004/81/xml",
-  "description": "Retsinformation source. DocumentId=AG000132; AccessionNumber=A20040008129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000132; AccessionNumber=A20040008129; Ophævet 2006-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:41:10.672Z",
+    "accession": "A20040008129",
+    "document_id": "AG000132",
+    "unique_document_id": "6352",
+    "upstream_status": "Historic",
+    "start_date": "2004-02-19",
+    "end_date": "2007-03-12",
+    "historic_marked": "2006-06-29",
+    "seed_status": "repealed"
+  }
 }

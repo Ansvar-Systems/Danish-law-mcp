@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-06-26",
+  "in_force_date": "2023-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2023/947/xml",
   "description": "Retsinformation source. DocumentId=DB000651; AccessionNumber=B20230094705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 711 af 24. maj 2022 om tilskud til energibesparelser og energieffektiviseringer i bygninger til helårsbeboelse ophæves, jf. dog § 2.",
-      "valid_from": "2023-06-26",
+      "valid_from": "2023-06-27",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelse nr. 1467 af 12. oktober 2020 om tilskud til energibesparelser og energieffektiviseringer i bygninger til helårsbeboelse finder i sin helhed anvendelse på de tilsagn, som er meddelt i 2020. Stk. 2. Bekendtgørelse nr. 525 af 26. marts 2021 om tilskud til energibesparelser og energieffektiviseringer i bygninger til helårsbeboelse finder i sin helhed anvendelse på de tilsagn, som er meddelt i første halvår af 2021, samt på de verserende sager, som er indkommet til Energistyrelsen i første halvår af 2021. Stk. 3. Bekendtgørelse nr. 1812 af 13. september 2021 om tilskud til energibesparelser og energieffektiviseringer i bygninger til helårsbeboelse finder i sin helhed anvendelse på de tilsagn, som er meddelt i andet halvår af 2021, samt på de verserende sager, som er indkommet til Energistyrelsen i andet halvår af 2021. Stk. 4. Bekendtgørelse nr. 711 af 24. maj 2022 om tilskud til energibesparelser og energieffektiviseringer i bygninger til helårsbeboelse finder i sin helhed anvendelse på de tilsagn, som er meddelt i andet halvår af 2022, samt på de verserende sager, som er indkommet til Energistyrelsen i andet halvår af 2022.",
-      "valid_from": "2023-06-26",
+      "valid_from": "2023-06-27",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2023.",
-      "valid_from": "2023-06-26",
+      "valid_from": "2023-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:07:57.290Z",
+    "accession": "B20230094705",
+    "document_id": "DB000651",
+    "unique_document_id": "235087",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-27",
+    "end_date": "2023-08-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

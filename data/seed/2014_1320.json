@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kosttilskud\\n(Indførsel af obligatorisk digital kommunikation ved anvendelse af den digitale formular til anmeldelse af kosttilskud og ændring af terminologien vedr. referenceværdier m.v.)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-11",
+  "in_force_date": "2014-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1320/xml",
-  "description": "Retsinformation source. DocumentId=AH005422; AccessionNumber=B20140132005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005422; AccessionNumber=B20140132005; Ophævet 2015-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5 c. Fødevarevirksomheder, der er etableret i et andet EU eller EØS-land, og som anmelder kosttilskud til markedsføring i Danmark, jf. § 5, stk. 1, kan anvende den engelsksprogede blanket til anmeldelse af kosttilskud, der findes på businessindenmark.dk, eller den tilsvarende blanket på Fødevarestyrelsens hjemmeside og indsende den til Fødevarestyrelsen.",
-      "valid_from": "2014-12-11",
-      "valid_to": null
+      "valid_from": "2014-12-12",
+      "valid_to": "2015-12-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:03.150Z",
+    "accession": "B20140132005",
+    "document_id": "AH005422",
+    "unique_document_id": "166757",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-12",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-08",
+    "seed_status": "repealed"
+  }
 }

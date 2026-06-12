@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om skibes besætning",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-01-13",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1997/15/xml",
-  "description": "Retsinformation source. DocumentId=CM042941; AccessionNumber=A19970001530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM042941; AccessionNumber=A19970001530; Ophævet 2012-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:54:34.873Z",
+    "accession": "A19970001530",
+    "document_id": "CM042941",
+    "unique_document_id": "83541",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-14",
+    "historic_marked": "2012-02-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Teleklagenævnets virksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-09-03",
+  "in_force_date": "2002-09-12",
   "url": "https://www.retsinformation.dk/eli/lta/2002/742/xml",
-  "description": "Retsinformation source. DocumentId=BD000046; AccessionNumber=B20020074205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000046; AccessionNumber=B20020074205; Ophævet 2003-11-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:56:33.162Z",
+    "accession": "B20020074205",
+    "document_id": "BD000046",
+    "unique_document_id": "29110",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-12",
+    "end_date": "2017-12-09",
+    "historic_marked": "2003-11-03",
+    "seed_status": "repealed"
+  }
 }

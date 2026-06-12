@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om børns forsørgelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-05-15",
+  "in_force_date": "2003-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2003/352/xml",
-  "description": "Retsinformation source. DocumentId=AA002128; AccessionNumber=A20030035229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002128; AccessionNumber=A20030035229; Ophævet 2009-11-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:26:47.093Z",
+    "accession": "A20030035229",
+    "document_id": "AA002128",
+    "unique_document_id": "1555",
+    "upstream_status": "Historic",
+    "start_date": "2003-05-26",
+    "end_date": "2022-07-09",
+    "historic_marked": "2009-11-09",
+    "seed_status": "repealed"
+  }
 }

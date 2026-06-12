@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af udlændingeloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-10-27",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/894/xml",
-  "description": "Retsinformation source. DocumentId=CM011555; AccessionNumber=A19940089429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011555; AccessionNumber=A19940089429; Ophævet 1995-07-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:14:15.566Z",
+    "accession": "A19940089429",
+    "document_id": "CM011555",
+    "unique_document_id": "52719",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2017-12-12",
+    "historic_marked": "1995-07-25",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om erhvervelse af fast ejendom",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-12-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/1102/xml",
-  "description": "Retsinformation source. DocumentId=CM018468; AccessionNumber=A19940110230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018468; AccessionNumber=A19940110230; Ophævet 2014-03-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:39:33.925Z",
+    "accession": "A19940110230",
+    "document_id": "CM018468",
+    "unique_document_id": "59513",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2015-07-11",
+    "historic_marked": "2014-03-24",
+    "seed_status": "repealed"
+  }
 }

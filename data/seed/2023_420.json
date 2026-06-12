@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-04-15",
+  "in_force_date": "2023-04-25",
   "url": "https://www.retsinformation.dk/eli/lta/2023/420/xml",
   "description": "Retsinformation source. DocumentId=CQ002533; AccessionNumber=B20230042005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 2 i lov nr. 243 af 7. marts 2023 om ændring af selskabsloven og forskellige andre love (Implementering af mobilitetsdirektivet m.v.) sættes i kraft.",
-      "valid_from": "2023-04-15",
+      "valid_from": "2023-04-25",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2023.",
-      "valid_from": "2023-04-15",
+      "valid_from": "2023-04-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:46:30.005Z",
+    "accession": "B20230042005",
+    "document_id": "CQ002533",
+    "unique_document_id": "235900",
+    "upstream_status": "Valid",
+    "start_date": "2023-04-25",
+    "end_date": "2024-11-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

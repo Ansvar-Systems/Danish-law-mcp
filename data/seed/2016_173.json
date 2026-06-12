@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om værdighedspolitikker for ældreplejen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-02-27",
+  "in_force_date": "2016-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2016/173/xml",
-  "description": "Retsinformation source. DocumentId=CN000130; AccessionNumber=B20160017305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000130; AccessionNumber=B20160017305; Ophævet 2018-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -39,33 +40,44 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Kommunalbestyrelsen skal inden for det første år i den kommunale valgperiode vedtage en værdighedspolitik for den kommunale ældrepleje. Stk. 2. Værdighedspolitikken skal indeholde de overordnede pejlemærker og principper for en værdig ældrepleje i den enkelte kommune med udgangspunkt i den personlig hjælp, omsorg og pleje m.v., som ydes efter lov om social service til personer over folkepensionsalderen.",
-      "valid_from": "2016-02-27",
-      "valid_to": null
+      "valid_from": "2016-02-28",
+      "valid_to": "2018-01-31"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. I værdighedspolitikken skal kommunalbestyrelsen som minimum beskrive, hvordan kommunens ældrepleje kan understøtte følgende områder i forhold til plejen og omsorgen af den enkelte ældre: 1) Livskvalitet. 2) Selvbestemmelse. 3) Kvalitet, tværfaglighed og sammenhæng i plejen. 4) Mad og ernæring. 5) En værdig død.",
-      "valid_from": "2016-02-27",
-      "valid_to": null
+      "valid_from": "2016-02-28",
+      "valid_to": "2018-01-31"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Kommunalbestyrelsen skal sørge for at inddrage ældrerådet, jf. § 30 i lov om retssikkerhed og administration på det sociale område, samt øvrige relevante parter i forbindelse med udarbejdelsen af værdighedspolitikken for ældreplejen. Stk. 2. Når værdighedspolitikken er vedtaget, skal den offentliggøres på kommunens hjemmeside.",
-      "valid_from": "2016-02-27",
-      "valid_to": null
+      "valid_from": "2016-02-28",
+      "valid_to": "2018-01-31"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. marts 2016.",
-      "valid_from": "2016-02-27",
-      "valid_to": null
+      "valid_from": "2016-02-28",
+      "valid_to": "2018-01-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:01:35.350Z",
+    "accession": "B20160017305",
+    "document_id": "CN000130",
+    "unique_document_id": "177824",
+    "upstream_status": "Historic",
+    "start_date": "2016-02-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2018-01-31",
+    "seed_status": "repealed"
+  }
 }

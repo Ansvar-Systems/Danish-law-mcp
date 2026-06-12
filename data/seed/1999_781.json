@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om civil værnepligt",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-10-15",
+  "in_force_date": "1999-10-25",
   "url": "https://www.retsinformation.dk/eli/lta/1999/781/xml",
-  "description": "Retsinformation source. DocumentId=AI000203; AccessionNumber=B19990078105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000203; AccessionNumber=B19990078105; Ophævet 2008-10-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:41:46.912Z",
+    "accession": "B19990078105",
+    "document_id": "AI000203",
+    "unique_document_id": "8876",
+    "upstream_status": "Historic",
+    "start_date": "1999-10-25",
+    "end_date": "2009-03-10",
+    "historic_marked": "2008-10-09",
+    "seed_status": "repealed"
+  }
 }

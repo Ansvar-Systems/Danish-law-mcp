@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om godtgørelse ved deltagelse i erhvervsrettet voksen- og efteruddannelse",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/400/xml",
-  "description": "Retsinformation source. DocumentId=AB000619; AccessionNumber=A20000040030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000619; AccessionNumber=A20000040030; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:17:52.352Z",
+    "accession": "A20000040030",
+    "document_id": "AB000619",
+    "unique_document_id": "3323",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2004-03-01",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

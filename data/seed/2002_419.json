@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om teknologi og innovation",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-06-06",
+  "in_force_date": "2002-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2002/419/xml",
-  "description": "Retsinformation source. DocumentId=BD000036; AccessionNumber=A20020041930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000036; AccessionNumber=A20020041930; Ophævet 2008-08-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:43:44.952Z",
+    "accession": "A20020041930",
+    "document_id": "BD000036",
+    "unique_document_id": "29100",
+    "upstream_status": "Historic",
+    "start_date": "2002-06-06",
+    "end_date": "2014-07-02",
+    "historic_marked": "2008-08-15",
+    "seed_status": "repealed"
+  }
 }

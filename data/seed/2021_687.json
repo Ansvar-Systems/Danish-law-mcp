@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-04-17",
+  "in_force_date": "2021-04-20",
   "url": "https://www.retsinformation.dk/eli/lta/2021/687/xml",
   "description": "Retsinformation source. DocumentId=AN014886; AccessionNumber=B20210068705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Tilsynet behandler indberetninger, som tilsynet modtager fra whistleblowerordninger, om: 1) alvorlige fejl i og alvorlige uregelmæssigheder forbundet med it-driften på Skatteforvaltningens it-område, 2) alvorlige fejl i og alvorlige uregelmæssigheder forbundet med it-udviklingen af Skatteforvaltningens it-område, og 3) alvorlige fejl i og alvorlige uregelmæssigheder forbundet med både it-driften og -udviklingen.",
-      "valid_from": "2021-04-17",
+      "valid_from": "2021-04-20",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. For at tilsynet kan behandle en indberetning, skal den angå alvorlige fejl eller alvorlige uregelmæssigheder, som er af væsentlig betydning for løsningen af de opgaver, som Skatteforvaltningens it-systemer skal varetage. Stk. 2. En indberetning vil omhandle alvorlige fejl eller alvorlige uregelmæssigheder, hvis den angår væsentlige uregelmæssigheder i Skatteforvaltningens it-systemers drift eller væsentlige risici forbundet med et it-udviklingsprojekt, som ikke tidligere har været adresseret i tilsynet eller Statens It-råd. Stk. 3. En indberetning vil omhandle alvorlige fejl eller alvorlige uregelmæssigheder, hvis den omhandler, at anvendelsen af Skatteforvaltningens it-systemer indebærer sagsbehandling, der ikke er i overensstemmelse med gældende ret.",
-      "valid_from": "2021-04-17",
+      "valid_from": "2021-04-20",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Tilsynet vurderer, om en indberetning giver tilsynet anledning til at foretage videre behandling. Stk. 2. Tilsynet vejleder generelt om muligheden for at indberette om alvorlige fejl i eller alvorlige uregelmæssigheder forbundet med it-driften og it-udviklingen af Skatteforvaltningens it-område til whistleblowerordninger.",
-      "valid_from": "2021-04-17",
+      "valid_from": "2021-04-20",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. maj 2021.",
-      "valid_from": "2021-04-17",
+      "valid_from": "2021-04-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:48:48.951Z",
+    "accession": "B20210068705",
+    "document_id": "AN014886",
+    "unique_document_id": "222371",
+    "upstream_status": "Valid",
+    "start_date": "2021-04-20",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

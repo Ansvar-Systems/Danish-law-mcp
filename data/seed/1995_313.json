@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ophævelse af lov om særlig indkomstskat m.v. og ændring af forskellige skattelove og konkursloven (Ophævelse af lov om særlig indkomstskat m.v. samt konsekvensændringer m.v.) (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-05-17",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/313/xml",
-  "description": "Retsinformation source. DocumentId=CM022496; AccessionNumber=A19950031330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022496; AccessionNumber=A19950031330; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:33:54.195Z",
+    "accession": "A19950031330",
+    "document_id": "CM022496",
+    "unique_document_id": "63476",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2011-09-24",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

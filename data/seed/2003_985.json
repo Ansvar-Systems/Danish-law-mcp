@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fødevarehygiejne",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-08",
+  "in_force_date": "2003-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2003/985/xml",
-  "description": "Retsinformation source. DocumentId=AH001652; AccessionNumber=B20030098505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001652; AccessionNumber=B20030098505; Ophævet 2004-05-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:52:18.361Z",
+    "accession": "B20030098505",
+    "document_id": "AH001652",
+    "unique_document_id": "7886",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-15",
+    "end_date": "2022-04-09",
+    "historic_marked": "2004-05-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Arbejdsmarkedets Tillægspension og lov om en arbejdsmarkedsfond",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-17",
+  "in_force_date": "2000-05-17",
   "url": "https://www.retsinformation.dk/eli/lta/2000/335/xml",
-  "description": "Retsinformation source. DocumentId=AB000591; AccessionNumber=A20000033530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000591; AccessionNumber=A20000033530; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:15:13.230Z",
+    "accession": "A20000033530",
+    "document_id": "AB000591",
+    "unique_document_id": "3296",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-17",
+    "end_date": "2023-01-06",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

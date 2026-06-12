@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-04-07",
+  "in_force_date": "2004-04-13",
   "url": "https://www.retsinformation.dk/eli/lta/2004/253/xml",
-  "description": "Retsinformation source. DocumentId=BE000989; AccessionNumber=A20040025330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000989; AccessionNumber=A20040025330; Ophævet 2004-07-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:18:43.116Z",
+    "accession": "A20040025330",
+    "document_id": "BE000989",
+    "unique_document_id": "30059",
+    "upstream_status": "Historic",
+    "start_date": "2004-04-13",
+    "end_date": "2005-01-24",
+    "historic_marked": "2004-07-15",
+    "seed_status": "repealed"
+  }
 }

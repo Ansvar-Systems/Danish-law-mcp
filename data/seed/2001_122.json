@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forsvarets formål, opgaver og organisation m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-27",
+  "in_force_date": "2001-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2001/122/xml",
-  "description": "Retsinformation source. DocumentId=AG000067; AccessionNumber=A20010012230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000067; AccessionNumber=A20010012230; Ophævet 2017-06-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:47:18.502Z",
+    "accession": "A20010012230",
+    "document_id": "AG000067",
+    "unique_document_id": "6294",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-27",
+    "end_date": "2017-06-02",
+    "historic_marked": "2017-06-01",
+    "seed_status": "repealed"
+  }
 }

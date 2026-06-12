@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-01-19",
+  "in_force_date": "2023-01-20",
   "url": "https://www.retsinformation.dk/eli/lta/2023/51/xml",
   "description": "Retsinformation source. DocumentId=AP000351; AccessionNumber=B20230005105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører Dansk Center for Undervisningsmiljø, overføres i henhold til nærmere aftale mellem børne- og undervisningsministeren og finansministeren fra børne- og undervisningsministeren til finansministeren pr. 1. februar 2023.",
-      "valid_from": "2023-01-19",
+      "valid_from": "2023-01-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:50:05.223Z",
+    "accession": "B20230005105",
+    "document_id": "AP000351",
+    "unique_document_id": "234428",
+    "upstream_status": "Valid",
+    "start_date": "2023-01-20",
+    "end_date": "2023-01-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

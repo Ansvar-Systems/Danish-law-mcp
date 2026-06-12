@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om nettilslutning af vindmøller og pristillæg for vindmølleproduceret elektricitet m.m.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-02-06",
+  "in_force_date": "2015-02-10",
   "url": "https://www.retsinformation.dk/eli/lta/2015/129/xml",
-  "description": "Retsinformation source. DocumentId=BU000400; AccessionNumber=B20150012905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BU000400; AccessionNumber=B20150012905; Ophævet 2015-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -19,9 +20,20 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17. Ved flytning og ny nettilslutning af vindmøller følger det opnåede pristillæg den enkelte vindmølle, jf. dog stk. 2.",
-      "valid_from": "2015-02-06",
-      "valid_to": null
+      "valid_from": "2015-02-10",
+      "valid_to": "2015-09-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:34:06.862Z",
+    "accession": "B20150012905",
+    "document_id": "BU000400",
+    "unique_document_id": "167976",
+    "upstream_status": "Historic",
+    "start_date": "2015-02-10",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-09-21",
+    "seed_status": "repealed"
+  }
 }

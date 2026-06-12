@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social bistand(Fast kontaktperson for børn og unge)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-05-14",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1997/327/xml",
-  "description": "Retsinformation source. DocumentId=CM044203; AccessionNumber=A19970032730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044203; AccessionNumber=A19970032730; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:01:34.123Z",
+    "accession": "A19970032730",
+    "document_id": "CM044203",
+    "unique_document_id": "84767",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

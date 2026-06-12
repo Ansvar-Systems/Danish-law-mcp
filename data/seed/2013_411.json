@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om gennemførelse af test i folkeskolen m.v. i skoleåret 2012/13",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-04-26",
+  "in_force_date": "2013-04-27",
   "url": "https://www.retsinformation.dk/eli/lta/2013/411/xml",
-  "description": "Retsinformation source. DocumentId=BN000322; AccessionNumber=B20130041105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BN000322; AccessionNumber=B20130041105; Ophævet 2014-07-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For skoleåret 2012/2013 skal obligatorisk gennemførelse af test, der ikke har fundet sted i perioden 1. februar 2013 til 30. april 2013, jf. § 3, stk. 1, i bekendtgørelse nr. 1000 af 26. oktober 2009 om anvendelse af test i folkeskolen m.v., finde sted i perioden 27. maj 2013 til 28. juni 2013.",
-      "valid_from": "2013-04-26",
-      "valid_to": null
+      "valid_from": "2013-04-27",
+      "valid_to": "2014-07-24"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 29. april 2013.",
-      "valid_from": "2013-04-26",
-      "valid_to": null
+      "valid_from": "2013-04-27",
+      "valid_to": "2014-07-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:03:19.740Z",
+    "accession": "B20130041105",
+    "document_id": "BN000322",
+    "unique_document_id": "146555",
+    "upstream_status": "Historic",
+    "start_date": "2013-04-27",
+    "end_date": "2021-01-08",
+    "historic_marked": "2014-07-24",
+    "seed_status": "repealed"
+  }
 }

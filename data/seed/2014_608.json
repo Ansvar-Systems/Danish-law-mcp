@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-06-10",
+  "in_force_date": "2014-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2014/608/xml",
   "description": "Retsinformation source. DocumentId=BK001608; AccessionNumber=B20140060805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,35 +40,35 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Det er forbudt for personer, der ikke har autorisation som læge eller anden i lovgivningen hjemlet særlig adkomst, at anvende diathermi i form af elektrokoagulation til fjernelse af svulster, vorter, modermærker, tatoveringer og lignende. Ved elektrokoagulation forstås i denne bekendtgør­else behandling med diathermistrømme (højfrekvente, forholdsvis lavspændte, elektriske vekselstrømme) under anvendelse af en aktiv elektrode (behandlingselektroden) i form af en nål, kugle, slynge eller lignende, idet der ved behandlingen søges opnået en lokal, destruktiv virkning på vævet. Elektrokoagulation til fjernelse af generende hårvækst (epilation) er dog stadig tilladt.",
-      "valid_from": "2014-06-10",
+      "valid_from": "2014-06-11",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Det er forbudt de i § 1 nævnte personer at give behandling med mikrobølgediathermiapparater, hvorved i denne bekendtgørelse forstås kortbølgediathermiapparater, der arbejder med en frekvens over 300 Mhz (bølgelængde under 1 meter).",
-      "valid_from": "2014-06-10",
+      "valid_from": "2014-06-11",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Det er forbudt de i § 1 nævnte personer at give behandling med ultralydapparater.",
-      "valid_from": "2014-06-10",
+      "valid_from": "2014-06-11",
       "valid_to": null
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Medmindre højere straf er forskyldt efter lovgivningen, straffes overtrædelse af bekendtgørelsen med bøde.",
-      "valid_from": "2014-06-10",
+      "valid_from": "2014-06-11",
       "valid_to": null
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Denne bekendtgørelse træder i kraft den 15. juni 2014. Stk. 2. Samtidig ophæves for Færøerne bekendtgørelse nr. 169 af 1. juni 1954 om anvendelse af visse former for diathermi samt af ultralydapparater.",
-      "valid_from": "2014-06-10",
+      "valid_from": "2014-06-11",
       "valid_to": null
     }
   ],
@@ -77,5 +78,16 @@
       "definition": "i denne bekendtgør­else behandling med diathermistrømme (højfrekvente, forholdsvis lavspændte, elektriske vekselstrømme) under anvendelse af en aktiv elektrode (behandlingselektroden) i form af en nål, kugle, slynge eller lignende, idet der ved behandlingen søges opnået en lokal, destruktiv virkning på vævet",
       "source_provision": "1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:09:33.149Z",
+    "accession": "B20140060805",
+    "document_id": "BK001608",
+    "unique_document_id": "163081",
+    "upstream_status": "Valid",
+    "start_date": "2014-06-11",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Repatrieringslov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/353/xml",
-  "description": "Retsinformation source. DocumentId=AI000176; AccessionNumber=A19990035330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000176; AccessionNumber=A19990035330; Ophævet 2002-09-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:24:42.169Z",
+    "accession": "A19990035330",
+    "document_id": "AI000176",
+    "unique_document_id": "8850",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-02",
+    "end_date": "2023-07-13",
+    "historic_marked": "2002-09-30",
+    "seed_status": "repealed"
+  }
 }

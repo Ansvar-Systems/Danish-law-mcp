@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om kvalitetskrav for skaldyrvande",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-01-19",
+  "in_force_date": "2011-01-22",
   "url": "https://www.retsinformation.dk/eli/lta/2011/38/xml",
-  "description": "Retsinformation source. DocumentId=AL002355; AccessionNumber=B20110003805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002355; AccessionNumber=B20110003805; Ophævet 2016-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen fastsætter kvalitetskrav for skaldyrvande . 2) Naturstyrelsen har udpeget skaldyrvande. Oplysninger om skaldyrvandene kan hentes på Naturstyrelsens hjemmeside, www.nst.dk.",
-      "valid_from": "2011-01-19",
-      "valid_to": null
+      "valid_from": "2011-01-22",
+      "valid_to": "2016-06-28"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Koncentrationen af de i bilag 1 anførte stoffer må i skaldyrvandene ikke overstige kvalitetskrav fastsat i medfør af bekendtgørelse om miljøkvalitetskrav for vandområder og krav til udledning af forurenende stoffer til vandløb, søer eller havet. Stk. 2. Koncentrationen af de i bilag 2 nævnte stoffer må i skaldyrvandene ikke overstige de i bilaget anførte kvalitetskrav, jf. dog § 20 b, stk. 1 i bekendtgørelse om overvågning af overfladevand, grundvand, beskyttede områder og om naturovervågning i internationale naturbeskyttelsesområder mv.",
-      "valid_from": "2011-01-19",
-      "valid_to": null
+      "valid_from": "2011-01-22",
+      "valid_to": "2016-06-28"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Overvågning af kvalitetskravene sker i overensstemmelse med reglerne i bekendtgørelse om overvågning af overfladevand, grundvand, beskyttede områder og om naturovervågning i internationale naturbeskyttelsesområder mv.",
-      "valid_from": "2011-01-19",
-      "valid_to": null
+      "valid_from": "2011-01-22",
+      "valid_to": "2016-06-28"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 24. januar 2011.",
-      "valid_from": "2011-01-19",
-      "valid_to": null
+      "valid_from": "2011-01-22",
+      "valid_to": "2016-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:04:55.575Z",
+    "accession": "B20110003805",
+    "document_id": "AL002355",
+    "unique_document_id": "135299",
+    "upstream_status": "Historic",
+    "start_date": "2011-01-22",
+    "end_date": "2026-06-12",
+    "historic_marked": "2016-06-28",
+    "seed_status": "repealed"
+  }
 }

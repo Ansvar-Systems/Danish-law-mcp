@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om mægling i arbejdsstridigheder",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-08-20",
+  "in_force_date": "2002-09-02",
   "url": "https://www.retsinformation.dk/eli/lta/2002/709/xml",
-  "description": "Retsinformation source. DocumentId=BE000280; AccessionNumber=A20020070929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000280; AccessionNumber=A20020070929; Ophævet 2025-11-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:55:13.997Z",
+    "accession": "A20020070929",
+    "document_id": "BE000280",
+    "unique_document_id": "29527",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-02",
+    "end_date": "2025-11-13",
+    "historic_marked": "2025-11-12",
+    "seed_status": "repealed"
+  }
 }

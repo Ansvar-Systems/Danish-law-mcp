@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anmeldelse, registrering, gebyr samt offentliggørelse m.v. i Erhvervs- og Selskabsstyrelsen\\n(Anmeldelsesbekendtgørelsen)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-03-21",
+  "in_force_date": "2005-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2005/200/xml",
-  "description": "Retsinformation source. DocumentId=AU002088; AccessionNumber=B20050020005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002088; AccessionNumber=B20050020005; Ophævet 2006-03-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:10:38.813Z",
+    "accession": "B20050020005",
+    "document_id": "AU002088",
+    "unique_document_id": "26985",
+    "upstream_status": "Historic",
+    "start_date": "2005-03-29",
+    "end_date": "2017-12-08",
+    "historic_marked": "2006-03-28",
+    "seed_status": "repealed"
+  }
 }

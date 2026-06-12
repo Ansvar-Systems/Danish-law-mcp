@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om gymnasiet (Gymnasiebekendtgørelsen)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-02-06",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/76/xml",
-  "description": "Retsinformation source. DocumentId=CM032158; AccessionNumber=B19900007605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032158; AccessionNumber=B19900007605; Ophævet 1991-06-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:28:27.068Z",
+    "accession": "B19900007605",
+    "document_id": "CM032158",
+    "unique_document_id": "72961",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1991-06-03",
+    "seed_status": "repealed"
+  }
 }

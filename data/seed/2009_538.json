@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af universitetsloven\\n(Tildeling af dansk eksamensbevis for visse uddannelser i udlandet, fleksible fripladser og stipendier m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-12",
+  "in_force_date": "2009-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/538/xml",
-  "description": "Retsinformation source. DocumentId=BD000493; AccessionNumber=A20090053830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000493; AccessionNumber=A20090053830; Ophævet 2009-10-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "36",
@@ -20,8 +21,19 @@
       "section": "36",
       "content": "§ 36 a. Ministeren kan bemyndige en statslig myndighed under ministeriet eller, efter forhandling med vedkommende minister, andre statslige myndigheder til at udøve de beføjelser, der i denne lov er tillagt ministeren. Stk. 2. Ministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne påklages. Stk. 3. Ministeren kan fastsætte regler om udøvelsen af de beføjelser, som en anden statslig myndighed efter forhandling med vedkommende minister bliver bemyndiget til at udøve efter stk. 1.",
       "valid_from": "2009-06-12",
-      "valid_to": null
+      "valid_to": "2009-10-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:16:02.012Z",
+    "accession": "A20090053830",
+    "document_id": "BD000493",
+    "unique_document_id": "125367",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2009-10-23",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 1-3 og 6, i lov nr. 629 af 11. juni 2024 om ændring af lov om arbejdsmiljø (Indførelse af autorisationsordning for nedrivning af asbestholdigt materiale, offentliggørelse af udenlandske virksomheders arbejdsmiljø og offentliggørelse af data om arbejdsulykker)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-11-29",
+  "in_force_date": "2024-11-29",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1266/xml",
-  "description": "Retsinformation source. DocumentId=BE010102; AccessionNumber=B20240126605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE010102; AccessionNumber=B20240126605; Ophævet 2025-09-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 1, nr. 1-3 og 6, i lov nr. 629 af 11. juni 2024 om ændring af lov om arbejdsmiljø (Indførelse af autorisationsordning for nedrivning af asbestholdigt materiale, offentliggørelse af udenlandske virksomheders arbejdsmiljø og offentliggørelse af data om arbejdsulykker) sættes i kraft.",
       "valid_from": "2024-11-29",
-      "valid_to": null
+      "valid_to": "2025-09-19"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. december 2024.",
       "valid_from": "2024-11-29",
-      "valid_to": null
+      "valid_to": "2025-09-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:33:16.288Z",
+    "accession": "B20240126605",
+    "document_id": "BE010102",
+    "unique_document_id": "246595",
+    "upstream_status": "Historic",
+    "start_date": "2024-11-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-09-19",
+    "seed_status": "repealed"
+  }
 }

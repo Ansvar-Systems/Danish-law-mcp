@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om offentlig skolebespisning",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1969-06-04",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1969/252/xml",
-  "description": "Retsinformation source. DocumentId=CM034076; AccessionNumber=A19690025230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034076; AccessionNumber=A19690025230; Ophævet 1992-05-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:16:40.291Z",
+    "accession": "A19690025230",
+    "document_id": "CM034076",
+    "unique_document_id": "74871",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1992-05-19",
+    "seed_status": "repealed"
+  }
 }

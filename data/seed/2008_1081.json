@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om den samlede danske nummerplan",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-11-05",
+  "in_force_date": "2008-11-18",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1081/xml",
-  "description": "Retsinformation source. DocumentId=BD000460; AccessionNumber=B20080108105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000460; AccessionNumber=B20080108105; Ophævet 2009-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:48:09.637Z",
+    "accession": "B20080108105",
+    "document_id": "BD000460",
+    "unique_document_id": "121762",
+    "upstream_status": "Historic",
+    "start_date": "2008-11-18",
+    "end_date": "2026-06-04",
+    "historic_marked": "2009-12-04",
+    "seed_status": "repealed"
+  }
 }

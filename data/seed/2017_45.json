@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-01-12",
+  "in_force_date": "2017-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/2017/45/xml",
   "description": "Retsinformation source. DocumentId=BE007141; AccessionNumber=B20170004505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 994 af 29. juni 2016 om a-kassernes ret til refusion for udbetalte ydelser ophæves.",
-      "valid_from": "2017-01-12",
+      "valid_from": "2017-01-13",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 18. januar 2017.",
-      "valid_from": "2017-01-12",
+      "valid_from": "2017-01-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:18:58.489Z",
+    "accession": "B20170004505",
+    "document_id": "BE007141",
+    "unique_document_id": "186216",
+    "upstream_status": "Valid",
+    "start_date": "2017-01-13",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

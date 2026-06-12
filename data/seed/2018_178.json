@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2018-03-05",
+  "in_force_date": "2018-03-08",
   "url": "https://www.retsinformation.dk/eli/lta/2018/178/xml",
   "description": "Retsinformation source. DocumentId=AA010256; AccessionNumber=A20180017829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den, der har forældremyndighed over et hjemmeboende barn, hæfter umiddelbart over for skadelidte for skader, som barnet er erstatningsansvarlig for efter den almindelige erstatningsregel, med indtil 7.500 kr. for hver skadegørende handling eller undladelse. Stk. 2. Er der fælles forældremyndighed, hæfter de, der har forældremyndigheden, solidarisk for det i stk. 1 nævnte beløb.",
-      "valid_from": "2018-03-05",
+      "valid_from": "2018-03-08",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "1a",
       "content": "§ 1 a. Den, der anstifter eller leder et opløb med det forsæt at øve eller true med vold på person eller gods, er erstatningsansvarlig for tingsskade, der forvoldes under eller i forbindelse med opløbet af personer, der deltager i dette.",
-      "valid_from": "2018-03-05",
+      "valid_from": "2018-03-08",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Loven træder i kraft den 1. juli 2009 og finder anvendelse på skader, der forvoldes ved skadegørende handlinger eller undladelser efter lovens ikrafttræden.",
-      "valid_from": "2018-03-05",
+      "valid_from": "2018-03-08",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.",
-      "valid_from": "2018-03-05",
+      "valid_from": "2018-03-08",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:03.487Z",
+    "accession": "A20180017829",
+    "document_id": "AA010256",
+    "unique_document_id": "192382",
+    "upstream_status": "Valid",
+    "start_date": "2018-03-08",
+    "end_date": "2018-03-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

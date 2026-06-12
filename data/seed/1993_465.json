@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om kommunernes adgang til at erhverve boliger for at fremme udlændinges integration",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-06-30",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/465/xml",
-  "description": "Retsinformation source. DocumentId=CM011656; AccessionNumber=A19930046530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011656; AccessionNumber=A19930046530; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:14:17.691Z",
+    "accession": "A19930046530",
+    "document_id": "CM011656",
+    "unique_document_id": "52820",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2017-12-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

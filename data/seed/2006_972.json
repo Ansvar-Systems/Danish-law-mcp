@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om en børnefamilieydelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-09-22",
+  "in_force_date": "2006-10-02",
   "url": "https://www.retsinformation.dk/eli/lta/2006/972/xml",
-  "description": "Retsinformation source. DocumentId=AN005514; AccessionNumber=A20060097229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005514; AccessionNumber=A20060097229; Ophævet 2011-04-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:45:21.904Z",
+    "accession": "A20060097229",
+    "document_id": "AN005514",
+    "unique_document_id": "17547",
+    "upstream_status": "Historic",
+    "start_date": "2006-10-02",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-04-26",
+    "seed_status": "repealed"
+  }
 }

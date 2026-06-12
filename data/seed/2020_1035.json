@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-06-29",
+  "in_force_date": "2020-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1035/xml",
   "description": "Retsinformation source. DocumentId=AA011960; AccessionNumber=B20200103505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. PNR-oplysninger, som Toldstyrelsen har indsamlet før PNR-lovens ikrafttræden, og som fortsat findes i Toldstyrelsens it-løsning, behandles efter reglerne i PNR-loven.",
-      "valid_from": "2020-06-29",
+      "valid_from": "2020-06-30",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Luftfartsselskaber skal i overensstemmelse med PNR-lovens kapitel 2 videregive PNR-oplysninger, jf. bilag 1 til PNR-loven, til PNR-enhedens elektroniske løsning i det format og på den vis, herunder ved anvendelse af en eller flere leverandører, som PNR-enheden fastsætter.",
-      "valid_from": "2020-06-29",
+      "valid_from": "2020-06-30",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. I medfør af § 16, stk. 4, i lov om retshåndhævende myndigheders behandling af personoplysninger finder den registreredes ret til at få oplysninger i medfør af lovens § 15 ikke anvendelse i forhold til oplysninger, der behandles af PNR-enheden. Stk. 2. I medfør af § 14, stk. 2, i lov om retshåndhævende myndigheders behandling af personoplysninger finder § 13, stk. 2, i loven ikke anvendelse i forhold til oplysninger, der behandles af PNR-enheden.",
-      "valid_from": "2020-06-29",
+      "valid_from": "2020-06-30",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. juli 2020.",
-      "valid_from": "2020-06-29",
+      "valid_from": "2020-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:29:58.778Z",
+    "accession": "B20200103505",
+    "document_id": "AA011960",
+    "unique_document_id": "215661",
+    "upstream_status": "Valid",
+    "start_date": "2020-06-30",
+    "end_date": "2021-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

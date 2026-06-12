@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om navne",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-03-06",
+  "in_force_date": "2006-03-13",
   "url": "https://www.retsinformation.dk/eli/lta/2006/146/xml",
-  "description": "Retsinformation source. DocumentId=BG000394; AccessionNumber=B20060014605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000394; AccessionNumber=B20060014605; Ophævet 2007-05-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:01:17.886Z",
+    "accession": "B20060014605",
+    "document_id": "BG000394",
+    "unique_document_id": "31642",
+    "upstream_status": "Historic",
+    "start_date": "2006-03-13",
+    "end_date": "2023-04-29",
+    "historic_marked": "2007-05-15",
+    "seed_status": "repealed"
+  }
 }

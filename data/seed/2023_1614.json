@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-12-08",
+  "in_force_date": "2023-12-14",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1614/xml",
   "description": "Retsinformation source. DocumentId=DG000765; AccessionNumber=B20230161405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne i § 1, nr. 13, 15 og 16, i anordning nr. 996 af 25. august 2017 om ikrafttræden for Færøerne af ændringslov til lov om luftfart sættes i kraft for Færøerne.",
-      "valid_from": "2023-12-08",
+      "valid_from": "2023-12-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024.",
-      "valid_from": "2023-12-08",
+      "valid_from": "2023-12-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:26:23.057Z",
+    "accession": "B20230161405",
+    "document_id": "DG000765",
+    "unique_document_id": "241113",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-14",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-01-23",
+  "in_force_date": "2015-01-28",
   "url": "https://www.retsinformation.dk/eli/lta/2015/61/xml",
   "description": "Retsinformation source. DocumentId=AL003109; AccessionNumber=B20150006105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1125 af 16. oktober 2014 om anvendelse af Natur- og Miljøklagenævnets digitale selvbetjeningsløsning ophæves.",
-      "valid_from": "2015-01-23",
+      "valid_from": "2015-01-28",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 28. januar 2015.",
-      "valid_from": "2015-01-23",
+      "valid_from": "2015-01-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:16:08.655Z",
+    "accession": "B20150006105",
+    "document_id": "AL003109",
+    "unique_document_id": "167589",
+    "upstream_status": "Valid",
+    "start_date": "2015-01-28",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

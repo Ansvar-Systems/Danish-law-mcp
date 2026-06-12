@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om en børnefamilieydelse",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-03-19",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/147/xml",
-  "description": "Retsinformation source. DocumentId=CM022321; AccessionNumber=A19860014730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022321; AccessionNumber=A19860014730; Ophævet 1989-11-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:02:34.455Z",
+    "accession": "A19860014730",
+    "document_id": "CM022321",
+    "unique_document_id": "63301",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2019-03-27",
+    "historic_marked": "1989-11-22",
+    "seed_status": "repealed"
+  }
 }

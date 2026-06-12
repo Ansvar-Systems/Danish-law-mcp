@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven (Grov miljøkriminalitet)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-06-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1997/412/xml",
-  "description": "Retsinformation source. DocumentId=CM044450; AccessionNumber=A19970041230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044450; AccessionNumber=A19970041230; Ophævet 1997-09-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:04:58.921Z",
+    "accession": "A19970041230",
+    "document_id": "CM044450",
+    "unique_document_id": "84996",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2000-09-15",
+    "historic_marked": "1997-09-03",
+    "seed_status": "repealed"
+  }
 }

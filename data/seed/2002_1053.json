@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om biblioteksafgift\\n(Ændrede beløbsgrænser m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-17",
+  "in_force_date": "2002-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1053/xml",
-  "description": "Retsinformation source. DocumentId=AK000237; AccessionNumber=A20020105330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000237; AccessionNumber=A20020105330; Ophævet 2002-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:24:34.129Z",
+    "accession": "A20020105330",
+    "document_id": "AK000237",
+    "unique_document_id": "11855",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-17",
+    "end_date": "2023-01-06",
+    "historic_marked": "2002-12-18",
+    "seed_status": "repealed"
+  }
 }

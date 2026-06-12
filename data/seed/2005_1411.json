@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven m.m.\\n(Justering af reglerne for medarbejderaktier)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-21",
+  "in_force_date": "2005-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1411/xml",
-  "description": "Retsinformation source. DocumentId=AN005060; AccessionNumber=A20050141130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005060; AccessionNumber=A20050141130; Ophævet 2006-11-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:05:28.845Z",
+    "accession": "A20050141130",
+    "document_id": "AN005060",
+    "unique_document_id": "17152",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-21",
+    "end_date": "2007-01-08",
+    "historic_marked": "2006-11-02",
+    "seed_status": "repealed"
+  }
 }

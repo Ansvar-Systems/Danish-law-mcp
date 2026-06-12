@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om gebyr i forbindelse med notering af pant i betalingsrettigheder under grundbetalingsordningen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-03-12",
+  "in_force_date": "2015-03-13",
   "url": "https://www.retsinformation.dk/eli/lta/2015/241/xml",
-  "description": "Retsinformation source. DocumentId=AH005529; AccessionNumber=B20150024105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005529; AccessionNumber=B20150024105; Ophævet 2018-03-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Der skal betales et gebyr for NaturErhvervstyrelsens modtagelse og notering af underretning om pant i betalingsrettigheder efter grundbetalingsordningen. Stk. 2. Gebyret betales for hver underretning vedrørende den enkelte pantsætter både ved notering af pant i betalingsrettigheder og ved udvidelse af pantet.",
-      "valid_from": "2015-03-12",
-      "valid_to": null
+      "valid_from": "2015-03-13",
+      "valid_to": "2018-03-23"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Gebyret udgør 575 kr. Indbetalingen påhviler panthaver. Beløbet indsættes på konto nr. 0216-4069167470 i Danske Bank.",
-      "valid_from": "2015-03-12",
-      "valid_to": null
+      "valid_from": "2015-03-13",
+      "valid_to": "2018-03-23"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. marts 2015. Stk. 2. Bekendtgørelse nr. 641 af 25. juni 2008 om gebyr i forbindelse med notering af pant i betalingsrettigheder under enkeltbetalingsordningen ophæves.",
-      "valid_from": "2015-03-12",
-      "valid_to": null
+      "valid_from": "2015-03-13",
+      "valid_to": "2018-03-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:01:19.195Z",
+    "accession": "B20150024105",
+    "document_id": "AH005529",
+    "unique_document_id": "168735",
+    "upstream_status": "Historic",
+    "start_date": "2015-03-13",
+    "end_date": "2022-04-08",
+    "historic_marked": "2018-03-23",
+    "seed_status": "repealed"
+  }
 }

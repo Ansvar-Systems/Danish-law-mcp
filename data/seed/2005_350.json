@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om karakterskala og anden bedømmelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-05-19",
+  "in_force_date": "2005-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2005/350/xml",
-  "description": "Retsinformation source. DocumentId=AT002143; AccessionNumber=B20050035005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002143; AccessionNumber=B20050035005; Ophævet 2006-05-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:16:42.028Z",
+    "accession": "B20050035005",
+    "document_id": "AT002143",
+    "unique_document_id": "24785",
+    "upstream_status": "Historic",
+    "start_date": "2005-05-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "2006-05-19",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kvalifikationskrav til erhvervschauffører",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-08-18",
+  "in_force_date": "2006-08-28",
   "url": "https://www.retsinformation.dk/eli/lta/2006/880/xml",
-  "description": "Retsinformation source. DocumentId=AR001229; AccessionNumber=B20060088005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001229; AccessionNumber=B20060088005; Ophævet 2008-05-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:41:39.985Z",
+    "accession": "B20060088005",
+    "document_id": "AR001229",
+    "unique_document_id": "22590",
+    "upstream_status": "Historic",
+    "start_date": "2006-08-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2008-05-08",
+    "seed_status": "repealed"
+  }
 }

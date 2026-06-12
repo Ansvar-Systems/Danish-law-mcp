@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om visse spil, lotterier og væddemål",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-11",
+  "in_force_date": "2003-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1077/xml",
-  "description": "Retsinformation source. DocumentId=AN003429; AccessionNumber=A20030107729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003429; AccessionNumber=A20030107729; Ophævet 2006-06-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:09:50.134Z",
+    "accession": "A20030107729",
+    "document_id": "AN003429",
+    "unique_document_id": "15805",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-22",
+    "end_date": "2008-02-05",
+    "historic_marked": "2006-06-01",
+    "seed_status": "repealed"
+  }
 }

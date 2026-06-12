@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kødprodukter m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-24",
+  "in_force_date": "1999-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/1999/524/xml",
-  "description": "Retsinformation source. DocumentId=AH000317; AccessionNumber=B19990052405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000317; AccessionNumber=B19990052405; Ophævet 2002-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:31:31.427Z",
+    "accession": "B19990052405",
+    "document_id": "AH000317",
+    "unique_document_id": "6740",
+    "upstream_status": "Historic",
+    "start_date": "1999-07-05",
+    "end_date": "2022-04-09",
+    "historic_marked": "2002-01-28",
+    "seed_status": "repealed"
+  }
 }

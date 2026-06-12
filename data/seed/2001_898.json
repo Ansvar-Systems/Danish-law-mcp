@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opreguleringsprocenten for personlig indkomst for 2002",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-10-12",
+  "in_force_date": "2001-10-19",
   "url": "https://www.retsinformation.dk/eli/lta/2001/898/xml",
-  "description": "Retsinformation source. DocumentId=AC000470; AccessionNumber=B20010089805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000470; AccessionNumber=B20010089805; Ophævet 2002-10-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:18:20.687Z",
+    "accession": "B20010089805",
+    "document_id": "AC000470",
+    "unique_document_id": "4241",
+    "upstream_status": "Historic",
+    "start_date": "2001-10-19",
+    "end_date": "2016-12-22",
+    "historic_marked": "2002-10-14",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om biblioteksvirksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-10-24",
+  "in_force_date": "2000-11-06",
   "url": "https://www.retsinformation.dk/eli/lta/2000/968/xml",
-  "description": "Retsinformation source. DocumentId=AK000115; AccessionNumber=B20000096805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000115; AccessionNumber=B20000096805; Ophævet 2005-01-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:40:42.926Z",
+    "accession": "B20000096805",
+    "document_id": "AK000115",
+    "unique_document_id": "11785",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-06",
+    "end_date": "2005-01-24",
+    "historic_marked": "2005-01-24",
+    "seed_status": "repealed"
+  }
 }

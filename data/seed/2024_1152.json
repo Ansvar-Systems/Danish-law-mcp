@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2024-11-11",
+  "in_force_date": "2024-11-12",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1152/xml",
   "description": "Retsinformation source. DocumentId=AN016447; AccessionNumber=B20240115205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 3, nr. 1, 2 og 4-7, i lov nr. 755 af 13. juni 2023 om ændring af momsloven, chokoladeafgiftsloven, skattekontrolloven og forskellige andre love og om ophævelse af lov om ændring af momsloven (Indberetning af betalingsoplysninger til bekæmpelse af grænseoverskridende momssvig, omvendt betalingspligt for teleydelser, notifikationsordning i visse afgiftslove, ændring af regler om ansvarsfrihed, tydeliggørelse af praksis om skærpede bøder, oplysningspligt i forbindelse med delvis momsfradragsret, justering af regler om udtagning, fritagelse for lønsumsafgift på energivirksomheders aktiviteter vedrørende indefrysning i forbindelse med indefrysningsordning for høje energiregninger, ændring af regler om kompetence til opkrævning af visse underholdsbidrag m.v.) sættes i kraft.",
-      "valid_from": "2024-11-11",
+      "valid_from": "2024-11-12",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2025.",
-      "valid_from": "2024-11-11",
+      "valid_from": "2024-11-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:28:40.211Z",
+    "accession": "B20240115205",
+    "document_id": "AN016447",
+    "unique_document_id": "244875",
+    "upstream_status": "Valid",
+    "start_date": "2024-11-12",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

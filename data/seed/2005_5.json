@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fordeling af renteafkastet af FerieKonto",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-01-03",
+  "in_force_date": "2005-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/2005/5/xml",
-  "description": "Retsinformation source. DocumentId=BE001180; AccessionNumber=B20050000505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001180; AccessionNumber=B20050000505; Ophævet 2020-09-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:22:41.768Z",
+    "accession": "B20050000505",
+    "document_id": "BE001180",
+    "unique_document_id": "30186",
+    "upstream_status": "Historic",
+    "start_date": "2005-01-13",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-09-08",
+    "seed_status": "repealed"
+  }
 }

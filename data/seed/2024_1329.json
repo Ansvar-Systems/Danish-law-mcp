@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-02",
+  "in_force_date": "2024-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1329/xml",
   "description": "Retsinformation source. DocumentId=DC001773; AccessionNumber=B20240132905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -479,5 +480,16 @@
       "definition": "i denne bekendtgørelse produktionsafgifter, promillemidler, andre offentlige midler, eventuelle særbevillinger samt øvrige indtægter",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:35:49.147Z",
+    "accession": "B20240132905",
+    "document_id": "DC001773",
+    "unique_document_id": "246516",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-02",
+    "end_date": "2024-12-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

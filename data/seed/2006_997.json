@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om erhvervsgrunduddannelse m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-10-04",
+  "in_force_date": "2006-10-16",
   "url": "https://www.retsinformation.dk/eli/lta/2006/997/xml",
-  "description": "Retsinformation source. DocumentId=AT002647; AccessionNumber=A20060099729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002647; AccessionNumber=A20060099729; Ophævet 2008-02-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:46:20.689Z",
+    "accession": "A20060099729",
+    "document_id": "AT002647",
+    "unique_document_id": "25160",
+    "upstream_status": "Historic",
+    "start_date": "2006-10-16",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-02-11",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til procesoperatør",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-15",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1193/xml",
-  "description": "Retsinformation source. DocumentId=AT000584; AccessionNumber=B20000119305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000584; AccessionNumber=B20000119305; Ophævet 2005-07-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:58:14.138Z",
+    "accession": "B20000119305",
+    "document_id": "AT000584",
+    "unique_document_id": "23584",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "2005-07-11",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om kommuners og regioners indkøb i forbindelse med håndtering af covid-19",
   "short_name": "LOV H#LOKDOK 01",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-03-31",
+  "in_force_date": "2020-03-31",
   "url": "https://www.retsinformation.dk/eli/lta/2020/325/xml",
-  "description": "Retsinformation source. DocumentId=CY000419; AccessionNumber=A20200032530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CY000419; AccessionNumber=A20200032530; Ophævet 2022-01-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -34,7 +35,7 @@
       "section": "1",
       "content": "§ 1. Social- og indenrigsministeren kan efter forhandling med finansministeren fastsætte regler om kommuners og re‌gioners indkøb med henblik på at give kommuner og re‌gioner samme beføjelser og pligter i forbindelse med håndteringen af covid-19 som statsinstitutioner og andre in‌stitutioner, der er omfattet af de statslige bevillings- og regnskabsregler. Stk. 2. Regler fastsat i medfør af stk. 1 kan fravige anden lovgivning og regler fastsat i medfør heraf.",
       "valid_from": "2020-03-31",
-      "valid_to": null
+      "valid_to": "2022-01-12"
     },
     {
       "provision_ref": "1:2",
@@ -42,7 +43,7 @@
       "section": "2",
       "content": "§ 2. Loven træder i kraft ved bekendtgørelsen i Lovtidende. Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse. Stk. 3. Loven ophæves den 1. marts 2021. Stk. 4. Dispositioner truffet forud for lovens ophør er gældende efter dette tidspunkt.",
       "valid_from": "2020-03-31",
-      "valid_to": null
+      "valid_to": "2022-01-12"
     },
     {
       "provision_ref": "1:3",
@@ -50,8 +51,19 @@
       "section": "3",
       "content": "§ 3. Loven gælder ikke for Færøerne og Grønland.",
       "valid_from": "2020-03-31",
-      "valid_to": null
+      "valid_to": "2022-01-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:24:45.604Z",
+    "accession": "A20200032530",
+    "document_id": "CY000419",
+    "unique_document_id": "213824",
+    "upstream_status": "Historic",
+    "start_date": "2020-03-31",
+    "end_date": "2023-07-18",
+    "historic_marked": "2022-01-12",
+    "seed_status": "repealed"
+  }
 }

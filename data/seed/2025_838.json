@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-06-24",
+  "in_force_date": "2025-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2025/838/xml",
   "description": "Retsinformation source. DocumentId=DB001101; AccessionNumber=B20250083805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 810 af 16. juni 2023 om afbrænding af kulbrinter ophæves.",
-      "valid_from": "2025-06-24",
+      "valid_from": "2025-06-26",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2025.",
-      "valid_from": "2025-06-24",
+      "valid_from": "2025-06-26",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:28:17.628Z",
+    "accession": "B20250083805",
+    "document_id": "DB001101",
+    "unique_document_id": "248037",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-26",
+    "end_date": "2025-06-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

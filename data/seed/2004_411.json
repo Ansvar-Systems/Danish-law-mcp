@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om visse forureninger i fødevarer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-02",
+  "in_force_date": "2004-06-10",
   "url": "https://www.retsinformation.dk/eli/lta/2004/411/xml",
-  "description": "Retsinformation source. DocumentId=AH001817; AccessionNumber=B20040041105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001817; AccessionNumber=B20040041105; Ophævet 2005-02-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:25:05.519Z",
+    "accession": "B20040041105",
+    "document_id": "AH001817",
+    "unique_document_id": "8020",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-10",
+    "end_date": "2023-11-08",
+    "historic_marked": "2005-02-10",
+    "seed_status": "repealed"
+  }
 }

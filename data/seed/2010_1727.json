@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om betegnelse og mærkning af tekstilvarer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-14",
+  "in_force_date": "2011-01-05",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1727/xml",
-  "description": "Retsinformation source. DocumentId=AU004275; AccessionNumber=B20100172705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU004275; AccessionNumber=B20100172705; Ophævet 2012-10-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:04:32.293Z",
+    "accession": "B20100172705",
+    "document_id": "AU004275",
+    "unique_document_id": "134852",
+    "upstream_status": "Historic",
+    "start_date": "2011-01-05",
+    "end_date": "2017-12-09",
+    "historic_marked": "2012-10-29",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om mærkning m.m. af lægemidler",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-05-13",
+  "in_force_date": "2005-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2005/353/xml",
-  "description": "Retsinformation source. DocumentId=AI001911; AccessionNumber=B20050035305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001911; AccessionNumber=B20050035305; Ophævet 2005-10-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:16:48.787Z",
+    "accession": "B20050035305",
+    "document_id": "AI001911",
+    "unique_document_id": "10050",
+    "upstream_status": "Historic",
+    "start_date": "2005-05-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "2005-10-27",
+    "seed_status": "repealed"
+  }
 }

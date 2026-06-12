@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af retsplejeloven (Fri proces og retshjælp)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-07-13",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/420/xml",
-  "description": "Retsinformation source. DocumentId=CM018412; AccessionNumber=A19880042030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018412; AccessionNumber=A19880042030; Ophævet 1992-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:10:25.567Z",
+    "accession": "A19880042030",
+    "document_id": "CM018412",
+    "unique_document_id": "59459",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1992-12-16",
+    "seed_status": "repealed"
+  }
 }

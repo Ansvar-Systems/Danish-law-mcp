@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om luftfart(Bemyndigelse til gennemførelse af EF-direktiver m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-05-14",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1997/328/xml",
-  "description": "Retsinformation source. DocumentId=CM044199; AccessionNumber=A19970032830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044199; AccessionNumber=A19970032830; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:01:36.358Z",
+    "accession": "A19970032830",
+    "document_id": "CM044199",
+    "unique_document_id": "84763",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

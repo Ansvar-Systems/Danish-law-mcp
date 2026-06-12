@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om urimelig markedsføring i forbrugerforhold",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-09-14",
+  "in_force_date": "2007-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1084/xml",
-  "description": "Retsinformation source. DocumentId=BG000746; AccessionNumber=B20070108405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000746; AccessionNumber=B20070108405; Ophævet 2017-05-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse finder anvendelse på privat erhvervsvirksomhed samt på offentlig virksomhed i det omfang, der udbydes varer og tjenesteydelser på markedet. Stk. 2. Bekendtgørelsen finder dog ikke anvendelse på finansielle virksomheder i det omfang økonomi- og erhvervsministeren har udstedt regler på det pågældende område.",
-      "valid_from": "2007-09-14",
-      "valid_to": null
+      "valid_from": "2007-09-25",
+      "valid_to": "2017-05-29"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. De former for markedsføring, der er opregnet i bilaget til denne bekendtgørelse, anses under alle omstændigheder for at være urimelige i forbrugerforhold.",
-      "valid_from": "2007-09-14",
-      "valid_to": null
+      "valid_from": "2007-09-25",
+      "valid_to": "2017-05-29"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Markedsføring, der jf. § 2 anses for urimelig i forbrugerforhold, straffes med bøde, medmindre højere straf er forskyldt efter anden lovgivning.",
-      "valid_from": "2007-09-14",
-      "valid_to": null
+      "valid_from": "2007-09-25",
+      "valid_to": "2017-05-29"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. december 2007.",
-      "valid_from": "2007-09-14",
-      "valid_to": null
+      "valid_from": "2007-09-25",
+      "valid_to": "2017-05-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:49:55.097Z",
+    "accession": "B20070108405",
+    "document_id": "BG000746",
+    "unique_document_id": "31965",
+    "upstream_status": "Historic",
+    "start_date": "2007-09-25",
+    "end_date": "2017-12-09",
+    "historic_marked": "2017-05-29",
+    "seed_status": "repealed"
+  }
 }

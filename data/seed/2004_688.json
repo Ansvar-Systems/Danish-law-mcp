@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-28",
+  "in_force_date": "2004-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2004/688/xml",
-  "description": "Retsinformation source. DocumentId=AA002528; AccessionNumber=A20040068829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002528; AccessionNumber=A20040068829; Ophævet 2014-11-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:36:13.288Z",
+    "accession": "A20040068829",
+    "document_id": "AA002528",
+    "unique_document_id": "1824",
+    "upstream_status": "Historic",
+    "start_date": "2004-07-05",
+    "end_date": "2016-01-21",
+    "historic_marked": "2014-11-19",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om erhvervsdrivende virksomheders aflæggelse af årsregnskab m.v. (årsregnskabsloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/448/xml",
-  "description": "Retsinformation source. DocumentId=AD000903; AccessionNumber=A20010044830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000903; AccessionNumber=A20010044830; Ophævet 2004-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:00:24.951Z",
+    "accession": "A20010044830",
+    "document_id": "AD000903",
+    "unique_document_id": "4919",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2017-12-08",
+    "historic_marked": "2004-04-01",
+    "seed_status": "repealed"
+  }
 }

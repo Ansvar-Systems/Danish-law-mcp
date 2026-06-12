@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om euforiserende stoffer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-02-05",
+  "in_force_date": "2008-02-07",
   "url": "https://www.retsinformation.dk/eli/lta/2008/55/xml",
-  "description": "Retsinformation source. DocumentId=BK000033; AccessionNumber=B20080005505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000033; AccessionNumber=B20080005505; Ophævet 2008-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:19:09.289Z",
+    "accession": "B20080005505",
+    "document_id": "BK000033",
+    "unique_document_id": "114865",
+    "upstream_status": "Historic",
+    "start_date": "2008-02-07",
+    "end_date": "2022-07-12",
+    "historic_marked": "2008-07-10",
+    "seed_status": "repealed"
+  }
 }

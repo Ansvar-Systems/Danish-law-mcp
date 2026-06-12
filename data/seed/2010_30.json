@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om kommunernes indberetning af stofmisbrugsbehandling til Sundhedsstyrelsen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-13",
+  "in_force_date": "2010-01-15",
   "url": "https://www.retsinformation.dk/eli/lta/2010/30/xml",
-  "description": "Retsinformation source. DocumentId=BK001033; AccessionNumber=B20100003005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001033; AccessionNumber=B20100003005; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Oplysninger om stofmisbrugere i behandling i henhold til sundhedslovens § 142, stk. 1, skal indberettes til Sundhedsstyrelsen (Register over stofmisbrugere i behandling (SIB)) efter reglerne i denne bekendtgørelse. Stk. 2. Indberetningen skal indeholde de oplysninger, som fremgår af den til enhver tid gældende »Fællesindhold for indberetning til Sundhedsstyrelsens register over stofmisbrugere i behandling«, som udfærdiges af Sundhedsstyrelsen, og som er tilgængelig på Sundhedsstyrelsens hjemmeside. Stk. 3. Indberetning skal ske senest 1 måned efter, at stofmisbrugeren indskrives i behandling. Stk. 4. Indberetning skal ske elektronisk i overensstemmelse med den til enhver tid gældende brugermanual »Sundhedsstyrelsens Elektroniske Indberetningssystem – indberetning til register over stofmisbrugere i behandling«, som udfærdiges af Sundhedsstyrelsen, og som er tilgængelig på Sundhedsstyrelsens hjemmeside.",
-      "valid_from": "2010-01-13",
-      "valid_to": null
+      "valid_from": "2010-01-15",
+      "valid_to": "2015-12-22"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Kommunalbestyrelsen er ansvarlig for, at indberetning af oplysninger sker i overensstemmelse med reglerne i denne bekendtgørelse. Stk. 2. Kommunalbestyrelsen kan dog overlade indberetningen af oplysninger til de institutioner, hvorpå behandlingen i henhold til sundhedslovens § 142, stk. 1, finder sted.",
-      "valid_from": "2010-01-13",
-      "valid_to": null
+      "valid_from": "2010-01-15",
+      "valid_to": "2015-12-22"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 16. januar 2010.",
-      "valid_from": "2010-01-13",
-      "valid_to": null
+      "valid_from": "2010-01-15",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:09:53.010Z",
+    "accession": "B20100003005",
+    "document_id": "BK001033",
+    "unique_document_id": "128528",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-15",
+    "end_date": "2022-07-12",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

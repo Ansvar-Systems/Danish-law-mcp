@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-11-17",
+  "in_force_date": "2015-11-25",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1287/xml",
   "description": "Retsinformation source. DocumentId=CJ000132; AccessionNumber=B20150128705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Til brug for producentprisindeks for byggeri skal udvalgte erhvervsdrivende i bygge- og anlægssektoren efter anmodning fra Danmarks Statistik kvartalsvis afgive de i § 2 nævnte oplysninger om bygningskarakteristika.",
-      "valid_from": "2015-11-17",
+      "valid_from": "2015-11-25",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Erhvervsdrivende skal, jf. § 1, afgive følgende oplysninger om opførte bygninger til Danmarks Statistik: 1) byggeriets adresse, 2) dato for byggeriets fuldførelse, 3) oplysninger om entrepriseform, bygningstype, projekttype og bygningens anvendelse, 4) oplysninger om antal boliger, beboelsesrum og altaner m.m. i byggeprojektet, 5) oplysninger om antal kvadratmeter bolig, parkeringskælder m.m. i byggeprojektet, 6) oplysninger om materialer, installationer og grundforhold og 7) andre oplysninger om byggeriet, der kan have betydning for byggeriets pris.",
-      "valid_from": "2015-11-17",
+      "valid_from": "2015-11-25",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Efter § 13, stk. 1, i lov om Danmarks Statistik straffes med bøde den, der: 1) med forsæt eller ved grov uagtsomhed undlader rettidigt at meddele de oplysninger, der kræves efter denne bekendtgørelses § 1 og 2, eller 2) forsætligt eller ved grov uagtsomhed afgiver urigtige oplysninger. Stk. 2. Efter § 13, stk. 2, i lov om Danmarks Statistik kan der pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2015-11-17",
+      "valid_from": "2015-11-25",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-11-17",
+      "valid_from": "2015-11-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:34:00.375Z",
+    "accession": "B20150128705",
+    "document_id": "CJ000132",
+    "unique_document_id": "175585",
+    "upstream_status": "Valid",
+    "start_date": "2015-11-25",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

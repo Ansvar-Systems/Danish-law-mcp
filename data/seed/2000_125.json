@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indgivelse af begæring om gældssanering",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-16",
+  "in_force_date": "2000-03-02",
   "url": "https://www.retsinformation.dk/eli/lta/2000/125/xml",
-  "description": "Retsinformation source. DocumentId=AA000960; AccessionNumber=B20000012505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA000960; AccessionNumber=B20000012505; Ophævet 2005-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:00:31.347Z",
+    "accession": "B20000012505",
+    "document_id": "AA000960",
+    "unique_document_id": "749",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-02",
+    "end_date": "2007-11-06",
+    "historic_marked": "2005-09-29",
+    "seed_status": "repealed"
+  }
 }

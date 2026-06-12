@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om den amtskommunale skatteudskrivning i 1988",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-06-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/395/xml",
-  "description": "Retsinformation source. DocumentId=CM011642; AccessionNumber=A19870039530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011642; AccessionNumber=A19870039530; Ophævet 2014-04-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:39:06.290Z",
+    "accession": "A19870039530",
+    "document_id": "CM011642",
+    "unique_document_id": "52806",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2016-12-16",
+    "historic_marked": "2014-04-23",
+    "seed_status": "repealed"
+  }
 }

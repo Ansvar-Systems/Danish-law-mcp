@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tivolitog",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-12-05",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/1035/xml",
-  "description": "Retsinformation source. DocumentId=CM042561; AccessionNumber=B19960103505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM042561; AccessionNumber=B19960103505; Ophævet 2016-12-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:02:26.930Z",
+    "accession": "B19960103505",
+    "document_id": "CM042561",
+    "unique_document_id": "83180",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2016-12-07",
+    "seed_status": "repealed"
+  }
 }

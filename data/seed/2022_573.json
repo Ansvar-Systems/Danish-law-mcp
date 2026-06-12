@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om varmeforsyning og lov om planlægning (Afskaffelse af tilslutningspligt til naturgas og offentliggørelse og videregivelse af oplysninger om produktions- og driftsmæssige forhold m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-05-10",
+  "in_force_date": "2022-05-10",
   "url": "https://www.retsinformation.dk/eli/lta/2022/573/xml",
-  "description": "Retsinformation source. DocumentId=DB000494; AccessionNumber=A20220057330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000494; AccessionNumber=A20220057330; Ophævet 2024-03-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "14b",
@@ -20,8 +21,19 @@
       "section": "14b",
       "content": "§ 14 b. Tilslutningspligt til distributionsnet til fremføring af naturgas bestemt af kommunalbestyrelsen er uden virkning.",
       "valid_from": "2022-05-10",
-      "valid_to": null
+      "valid_to": "2024-03-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:44:25.327Z",
+    "accession": "A20220057330",
+    "document_id": "DB000494",
+    "unique_document_id": "230652",
+    "upstream_status": "Historic",
+    "start_date": "2022-05-10",
+    "end_date": "2024-06-07",
+    "historic_marked": "2024-03-06",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "AND H#LOKDOK07",
   "status": "in_force",
   "issued_date": "2020-12-29",
+  "in_force_date": "2020-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2234/xml",
   "description": "Retsinformation source. DocumentId=CY000818; AccessionNumber=B20200223403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -151,5 +152,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:18:04.693Z",
+    "accession": "B20200223403",
+    "document_id": "CY000818",
+    "unique_document_id": "217873",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-29",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

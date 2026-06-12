@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forsikringsaftaler",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-10-24",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/726/xml",
-  "description": "Retsinformation source. DocumentId=CM018223; AccessionNumber=A19860072629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018223; AccessionNumber=A19860072629; Ophævet 2006-10-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:19:06.109Z",
+    "accession": "A19860072629",
+    "document_id": "CM018223",
+    "unique_document_id": "59271",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2015-08-05",
+    "historic_marked": "2006-10-16",
+    "seed_status": "repealed"
+  }
 }

@@ -5,9 +5,21 @@
   "short_name": "Anordning",
   "status": "in_force",
   "issued_date": "2005-01-19",
+  "in_force_date": "2005-01-20",
   "url": "https://www.retsinformation.dk/eli/lta/2005/43/xml",
   "description": "Retsinformation source. DocumentId=AU001904; AccessionNumber=B20050004303; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:19:53.918Z",
+    "accession": "B20050004303",
+    "document_id": "AU001904",
+    "unique_document_id": "26857",
+    "upstream_status": "Valid",
+    "start_date": "2005-01-20",
+    "end_date": "2019-01-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

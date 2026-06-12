@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om undervisningskompetence i de gymnasiale uddannelser \\n(Afgørelse om faglig kompetence, ansættelse af lærere, prøve i teoretisk pædagogikum)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-22",
+  "in_force_date": "2010-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2010/694/xml",
-  "description": "Retsinformation source. DocumentId=AT004176; AccessionNumber=B20100069405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004176; AccessionNumber=B20100069405; Ophævet 2011-02-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -29,23 +30,34 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Skolens leder vurderer og beslutter ved ansættelse af en lærer på skolen, om læreren har faglig kompetence.",
-      "valid_from": "2010-06-22",
-      "valid_to": null
+      "valid_from": "2010-06-25",
+      "valid_to": "2011-02-24"
     },
     {
       "provision_ref": "6",
       "section": "6",
       "content": "§ 6. Lærere med faglig kompetence i henhold til §§ 4 og 5, som ansættes i en fast stilling, skal gennemføre pædagogikum inden for det første år af ansættelsen, jf. dog § 3, stk. 3. Fastansættelsen er betinget af, at læreren består pædagogikum.",
-      "valid_from": "2010-06-22",
-      "valid_to": null
+      "valid_from": "2010-06-25",
+      "valid_to": "2011-02-24"
     },
     {
       "provision_ref": "27",
       "section": "27",
       "content": "§ 27. En lærer uden undervisningskompetence, der har faglig kompetence efter §§ 4 og 5, og som har undervisningserfaring af betydelig varighed og omfang i faget på gymnasialt eller højere niveau, kan af skolens leder tildeles undervisningskompetence, når vedkommende har gennemført kursus i fagdidaktik i faget og i fagligt samspil.",
-      "valid_from": "2010-06-22",
-      "valid_to": null
+      "valid_from": "2010-06-25",
+      "valid_to": "2011-02-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:25:47.135Z",
+    "accession": "B20100069405",
+    "document_id": "AT004176",
+    "unique_document_id": "132664",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-25",
+    "end_date": "2021-01-08",
+    "historic_marked": "2011-02-24",
+    "seed_status": "repealed"
+  }
 }

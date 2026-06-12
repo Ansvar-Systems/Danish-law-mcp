@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forsikringsformidling",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-05",
+  "in_force_date": "2005-08-15",
   "url": "https://www.retsinformation.dk/eli/lta/2005/767/xml",
-  "description": "Retsinformation source. DocumentId=AU002214; AccessionNumber=A20050076729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002214; AccessionNumber=A20050076729; Ophævet 2006-07-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:33:28.740Z",
+    "accession": "A20050076729",
+    "document_id": "AU002214",
+    "unique_document_id": "27086",
+    "upstream_status": "Historic",
+    "start_date": "2005-08-15",
+    "end_date": "2017-12-09",
+    "historic_marked": "2006-07-24",
+    "seed_status": "repealed"
+  }
 }

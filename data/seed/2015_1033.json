@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om sædekorn",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-09-03",
+  "in_force_date": "2015-09-04",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1033/xml",
-  "description": "Retsinformation source. DocumentId=CK000078; AccessionNumber=B20150103305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK000078; AccessionNumber=B20150103305; Ophævet 2015-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:23:45.815Z",
+    "accession": "B20150103305",
+    "document_id": "CK000078",
+    "unique_document_id": "173974",
+    "upstream_status": "Historic",
+    "start_date": "2015-09-04",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-14",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om ejerlejligheder",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1982-08-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1982/455/xml",
-  "description": "Retsinformation source. DocumentId=CM014105; AccessionNumber=A19820045529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014105; AccessionNumber=A19820045529; Ophævet 1990-09-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:19:17.415Z",
+    "accession": "A19820045529",
+    "document_id": "CM014105",
+    "unique_document_id": "55216",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1990-09-19",
+    "seed_status": "repealed"
+  }
 }

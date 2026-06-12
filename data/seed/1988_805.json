@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om folke- og førtidspensionens størrelse pr. 1. januar 1989",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-12-15",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1988/805/xml",
-  "description": "Retsinformation source. DocumentId=CM012173; AccessionNumber=B19880080505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012173; AccessionNumber=B19880080505; Ophævet 1989-06-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:25:26.226Z",
+    "accession": "B19880080505",
+    "document_id": "CM012173",
+    "unique_document_id": "53324",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2013-11-21",
+    "historic_marked": "1989-06-07",
+    "seed_status": "repealed"
+  }
 }

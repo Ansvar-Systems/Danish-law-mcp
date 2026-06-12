@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2011-01-11",
+  "in_force_date": "2011-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/2011/15/xml",
   "description": "Retsinformation source. DocumentId=AU004251; AccessionNumber=B20110001505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Fiskeridirektoratet bemyndiges til at indsamle oplysninger om redningsmidler i forbindelse med direktoratets fiskerikontrol på fiskeskibe. Stk. 2. De efter stk. 1 indsamlede oplysninger videregives af Fiskeridirektoratet til Søfartsstyrelsen, som anvender dem til brug for styrelsens kontrol af redningsmidler på fiskeskibe, jf. § 17, stk. 2, i lov om sikkerhed til søs. Stk. 3. Stk. 1 er ikke til hinder for, at Søfartsstyrelsen indsamler oplysninger om redningsmidler på fiskeskibe.",
-      "valid_from": "2011-01-11",
+      "valid_from": "2011-01-13",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. marts 2011.",
-      "valid_from": "2011-01-11",
+      "valid_from": "2011-01-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:55:39.069Z",
+    "accession": "B20110001505",
+    "document_id": "AU004251",
+    "unique_document_id": "134683",
+    "upstream_status": "Valid",
+    "start_date": "2011-01-13",
+    "end_date": "2022-02-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

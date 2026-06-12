@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kvælstofprognosen for 1997",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-03-13",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1997/197/xml",
-  "description": "Retsinformation source. DocumentId=CM043415; AccessionNumber=B19970019705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043415; AccessionNumber=B19970019705; Ophævet 2015-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:56:26.034Z",
+    "accession": "B19970019705",
+    "document_id": "CM043415",
+    "unique_document_id": "83985",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-21",
+    "seed_status": "repealed"
+  }
 }

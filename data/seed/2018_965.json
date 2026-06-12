@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-06-25",
+  "in_force_date": "2018-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2018/965/xml",
   "description": "Retsinformation source. DocumentId=CN000736; AccessionNumber=B20180096505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den yderligere opkrævning opgøres i hele 1.000 kr.",
-      "valid_from": "2018-06-25",
+      "valid_from": "2018-06-30",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Det forudsatte niveau for de kommunale udgifter til kommunal aktivitetsbestemt medfinansiering, jf. bekendtgørelse nr. 874 af 27. juni 2017 udgør 20.068.200 tusinde kr. og opgjort på regionsniveau: 1) Region Nordjylland: 1.841.488 tusinde kr. 2) Region Midtjylland: 4.266.560 tusinde kr. 3) Region Syddanmark: 4.312.904 tusinde kr. 4) Region Hovedstaden: 6.504.300 tusinde kr. 5) Region Sjælland: 3.142.948 tusinde kr. Stk. 2. De opgjorte afregninger til den kommunale aktivitetsbestemte medfinansiering for 2017 er af Sundhedsdatastyrelsen opgjort til at udgøre i alt 19.841.195 tusinde kr. og opgjort på regionsniveau: 1) Region Nordjylland: 1.838.460 tusinde kr. 2) Region Midtjylland: 4.148.162 tusinde kr. 3) Region Syddanmark: 4.267.915 tusinde kr. 4) Region Hovedstaden: 6.139.162 tusinde kr. 5) Region Sjælland: 3.042.974 tusinde kr. Stk. 3. Den positive forskel mellem stk. 1 og stk. 2, opkræves derfor på finanslovkonto 16.51.91 og udgør i alt 631.527 tusinde kr. og opgjort på regionsniveau: 1) Region Nordjylland: 3.028 tusinde kr. 2) Region Midtjylland: 118.398 tusinde kr. 3) Region Syddanmark: 44.989 tusinde kr. 4) Region Hovedstaden: 365.138 tusinde kr. 5) Region Sjælland: 99.974 tusinde kr. Stk. 4. Den i stk. 3 opgjorte yderligere opkrævning fordeles mellem de enkelte kommuner i den pågældende region i forhold til den enkelte kommunes andel af regionens befolkningstal, jf. Tabel 3. ’Data til opgørelse af beskatningsgrundlag 2017’, søjle (12), fra publikationen ’Kommunal udligning og generelle tilskud 2017’, juli 2016, Social- og Indenrigsministeriet.",
-      "valid_from": "2018-06-25",
+      "valid_from": "2018-06-30",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Sundhedsdatastyrelsen giver via informationssystemet eSundhed meddelelse til kommunalbestyrelserne om yderlig opkrævning efter § 2, stk. 4, senest den 20. juli. Stk. 2. Sundhedsdatastyrelsen anviser yderlig opkrævning af den kommunale medfinansiering efter §2, stk. 4. Stk. 3. Betalingerne efter stk. 2, afregnes pr. 1. august 2018 via kommunens og statens konti i Offentligt BetalingsSystem (OBS) i henhold til gældende regler om dette system.",
-      "valid_from": "2018-06-25",
+      "valid_from": "2018-06-30",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. juli 2018.",
-      "valid_from": "2018-06-25",
+      "valid_from": "2018-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:27:00.417Z",
+    "accession": "B20180096505",
+    "document_id": "CN000736",
+    "unique_document_id": "202293",
+    "upstream_status": "Valid",
+    "start_date": "2018-06-30",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

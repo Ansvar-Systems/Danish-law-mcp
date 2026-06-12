@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om nettilslutning af vindmøller og pristillæg for vindmølleproduceret elektricitet m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-26",
+  "in_force_date": "2017-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1744/xml",
-  "description": "Retsinformation source. DocumentId=CI000394; AccessionNumber=B20170174405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000394; AccessionNumber=B20170174405; Ophævet 2018-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "38",
@@ -19,9 +20,20 @@
       "provision_ref": "38",
       "section": "38",
       "content": "§ 38. Afgørelser truffet i henhold til § 20, § 28, stk. 4 og 5, § 29, § 30, nr. 1-6 og 8, §§ 32-33, §§ 35 og 36, samt § 13, stk. 4, i lovforslag L 66, kan ikke påklages til anden administrativ myndighed end Energiklagenævnet.",
-      "valid_from": "2017-12-26",
-      "valid_to": null
+      "valid_from": "2017-12-29",
+      "valid_to": "2018-06-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:06:43.775Z",
+    "accession": "B20170174405",
+    "document_id": "CI000394",
+    "unique_document_id": "196738",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2018-06-26",
+    "seed_status": "repealed"
+  }
 }

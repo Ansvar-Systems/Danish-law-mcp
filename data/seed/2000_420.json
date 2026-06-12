@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om strukturforanstaltninger vedrørende fiskerisektoren",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/420/xml",
-  "description": "Retsinformation source. DocumentId=AH000634; AccessionNumber=A20000042030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000634; AccessionNumber=A20000042030; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:18:39.874Z",
+    "accession": "A20000042030",
+    "document_id": "AH000634",
+    "unique_document_id": "7006",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2022-04-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

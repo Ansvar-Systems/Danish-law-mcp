@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om planlægning\\n(Revision af detailhandelsbestemmelser, lokal fleksibilitet i kystnærhedszonen, i landzonen for kommuner i yderområder og på ikkebrofaste øer m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-05-10",
+  "in_force_date": "2011-05-10",
   "url": "https://www.retsinformation.dk/eli/lta/2011/424/xml",
-  "description": "Retsinformation source. DocumentId=AL002435; AccessionNumber=A20110042430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002435; AccessionNumber=A20110042430; Ophævet 2013-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2:5",
@@ -27,15 +28,26 @@
       "section": "5",
       "content": "§ 5 v. Miljøministeren kan efter ansøgning fra kommunalbestyrelsen meddele tilladelse til en planlægning i en kommune eller på en ø, der er opført i bilag 2, selv om betingelsen i § 5 b, stk. 1, nr. 1, ikke er opfyldt, medmindre væsentlige naturbeskyttelses- og landskabelige interesser tilside­sættes. Stk. 2. Miljøministeren kan ved tilladelse efter stk. 1 fravige den regionale udviklingsplan. Miljøministeren foretager en høring af regionen, inden der gives tilladelse til fravigelsen. Stk. 3. Miljøministeren fastsætter nærmere regler om ansøgning og meddelelse af tilladelse.",
       "valid_from": "2011-05-10",
-      "valid_to": null
+      "valid_to": "2013-06-06"
     },
     {
       "provision_ref": "35",
       "section": "35",
       "content": "§ 35 a. Kommunalbestyrelsen skal i kommuner uden for hovedstadsområdet, jf. § 5 h, samt i Stevns Kommune meddele tilladelse efter § 35 til udvidelse af mindre erhvervsvirksomheder, som er etableret i en tidligere landbrugsbygning, medmindre væsentlige hensyn til landskab, natur, miljø, planlægning eller naboer afgørende taler imod.",
       "valid_from": "2011-05-10",
-      "valid_to": null
+      "valid_to": "2013-06-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:06:43.276Z",
+    "accession": "A20110042430",
+    "document_id": "AL002435",
+    "unique_document_id": "137072",
+    "upstream_status": "Historic",
+    "start_date": "2011-05-10",
+    "end_date": "2023-04-28",
+    "historic_marked": "2013-06-06",
+    "seed_status": "repealed"
+  }
 }

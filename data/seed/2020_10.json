@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-01-07",
+  "in_force_date": "2020-01-09",
   "url": "https://www.retsinformation.dk/eli/lta/2020/10/xml",
   "description": "Retsinformation source. DocumentId=CN001111; AccessionNumber=B20200001005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Styrelsen for Patientsikkerhed offentliggør i henhold til § 215 b, stk. 2, 2. pkt., på Styrelsen for Patientsikkerheds hjemmeside og på www.sundhed.dk påbud, som Landslægen giver til et behandlingssted, hvor de sundhedsmæssige forhold er anset for at kunne bringe patientsikkerheden i fare, jf. sundhedsloven, som sat i kraft for Færøerne ved kongelig anordning nr. 821 af 22. juni 2018, § 215 b, stk. 1. Stk. 2. Et påbud offentliggjort, jf. stk. 1, fjernes fra Styrelsen for Patientsikkerheds hjemmeside og www.sundhed.dk, når det ophæves. Stk. 3. Ved Styrelsen for Patientsikkerheds offentliggørelse af påbud fremgår hvilket behandlingssted, der er meddelt påbud til, baggrunden for påbuddet og de forpligtelser, der følger af påbuddet.",
-      "valid_from": "2020-01-07",
+      "valid_from": "2020-01-09",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Det enkelte behandlingssted skal offentliggøre Landslægens påbud, jf. § 1, stk. 1. Påbuddet skal være let tilgængeligt på behandlingsstedets hjemmeside i samme periode, som påbuddet er offentliggjort af Styrelsen for Patientsikkerhed, jf. § 1, stk. 2, hvis behandlingsstedet har en hjemmeside. Behandlingsstedet skal desuden offentliggøre påbuddet ved at gøre det umiddelbart tilgængeligt på selve behandlingsstedet i samme periode. Stk. 2. Behandlingsstedet skal offentliggøre påbuddet i den form, som det er offentliggjort af Styrelsen for Patientsikkerhed, jf. § 1, stk. 3.",
-      "valid_from": "2020-01-07",
+      "valid_from": "2020-01-09",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Den, der undlader at efterkomme en forpligtelse efter § 2 straffes med bøde, medmindre højere straf er fastsat i lovgivningen. Stk. 2. Der kan pålægges selskaber og andre juridiske personer strafansvar efter reglerne i straffelovens (revsilógins) kapitel 5.",
-      "valid_from": "2020-01-07",
+      "valid_from": "2020-01-09",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. februar 2020.",
-      "valid_from": "2020-01-07",
+      "valid_from": "2020-01-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:28:31.390Z",
+    "accession": "B20200001005",
+    "document_id": "CN001111",
+    "unique_document_id": "211742",
+    "upstream_status": "Valid",
+    "start_date": "2020-01-09",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

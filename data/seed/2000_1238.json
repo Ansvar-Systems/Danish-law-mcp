@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om automatik- og procesuddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-18",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1238/xml",
-  "description": "Retsinformation source. DocumentId=AT000589; AccessionNumber=B20000123805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000589; AccessionNumber=B20000123805; Ophævet 2004-07-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:00:02.961Z",
+    "accession": "B20000123805",
+    "document_id": "AT000589",
+    "unique_document_id": "23589",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "2004-07-08",
+    "seed_status": "repealed"
+  }
 }

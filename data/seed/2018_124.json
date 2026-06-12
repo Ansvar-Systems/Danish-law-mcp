@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af udlændingeloven (Ophævelse af den særlige, lette adgang til domstolsprøvelse i sager om familiesammenføring med børn)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-02-26",
+  "in_force_date": "2018-02-26",
   "url": "https://www.retsinformation.dk/eli/lta/2018/124/xml",
-  "description": "Retsinformation source. DocumentId=CS000358; AccessionNumber=A20180012430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS000358; AccessionNumber=A20180012430; Ophævet 2019-03-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:32:14.746Z",
+    "accession": "A20180012430",
+    "document_id": "CS000358",
+    "unique_document_id": "198650",
+    "upstream_status": "Historic",
+    "start_date": "2018-02-26",
+    "end_date": "2020-07-15",
+    "historic_marked": "2019-03-15",
+    "seed_status": "repealed"
+  }
 }

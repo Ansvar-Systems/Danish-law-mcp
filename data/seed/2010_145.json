@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godkendelse af rådgivere på fødevareområdet\\n(Gennemførelse af servicedirektivet)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-02-09",
+  "in_force_date": "2010-02-11",
   "url": "https://www.retsinformation.dk/eli/lta/2010/145/xml",
-  "description": "Retsinformation source. DocumentId=AH003740; AccessionNumber=B20100014505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003740; AccessionNumber=B20100014505; Ophævet 2015-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -19,9 +20,20 @@
       "provision_ref": "13",
       "section": "13",
       "content": "§ 13 a. Fødevarevirksomheden skal oplyse tjenestemodtageren om kontaktoplysninger til Fødevarestyrelsen.",
-      "valid_from": "2010-02-09",
-      "valid_to": null
+      "valid_from": "2010-02-11",
+      "valid_to": "2015-12-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:53:13.801Z",
+    "accession": "B20100014505",
+    "document_id": "AH003740",
+    "unique_document_id": "130283",
+    "upstream_status": "Historic",
+    "start_date": "2010-02-11",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-04",
+    "seed_status": "repealed"
+  }
 }

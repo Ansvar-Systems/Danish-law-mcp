@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godskørsel",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-11-28",
+  "in_force_date": "2011-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1100/xml",
-  "description": "Retsinformation source. DocumentId=BL000565; AccessionNumber=B20110110005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000565; AccessionNumber=B20110110005; Ophævet 2012-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Trafikstyrelsen fungerer som tilsyns- og kontrolmyndighed og kan indhente oplysninger fra offentlige myndigheder samt anmode indehaveren om oplysninger med henblik på vurdering af, om kravene i godskørselslovens §§ 3 og 4, denne bekendtgørelses 2. kapitel samt Europa-Parlamentets og Rådets forordning (EF) nr. 1071/2009 af 21. oktober 2009 artikel 3 og 4, til stadighed er opfyldt. Såfremt det ikke dokumenteres, at indehaveren opfylder kravene, kan tilladelsen tilbagekaldes efter godskørselslovens § 12.",
-      "valid_from": "2011-11-28",
-      "valid_to": null
+      "valid_from": "2011-12-02",
+      "valid_to": "2012-06-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:42:16.018Z",
+    "accession": "B20110110005",
+    "document_id": "BL000565",
+    "unique_document_id": "139355",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-02",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-06-29",
+    "seed_status": "repealed"
+  }
 }

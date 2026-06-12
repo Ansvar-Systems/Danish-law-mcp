@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2009-12-15",
+  "in_force_date": "2009-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1308/xml",
   "description": "Retsinformation source. DocumentId=BM000289; AccessionNumber=B20090130805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Landets inddeling i kommuner og regioner er ændret som angivet i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2009-12-15",
+      "valid_from": "2009-12-18",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2010.",
-      "valid_from": "2009-12-15",
+      "valid_from": "2009-12-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:50:07.395Z",
+    "accession": "B20090130805",
+    "document_id": "BM000289",
+    "unique_document_id": "129218",
+    "upstream_status": "Valid",
+    "start_date": "2009-12-18",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

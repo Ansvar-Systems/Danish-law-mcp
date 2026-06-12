@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om radioprøver (amatør-radio-prøver og maritim SRC-radio-prøve)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-09",
+  "in_force_date": "2000-03-13",
   "url": "https://www.retsinformation.dk/eli/lta/2000/146/xml",
-  "description": "Retsinformation source. DocumentId=AF000121; AccessionNumber=B20000014605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000121; AccessionNumber=B20000014605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:07:36.730Z",
+    "accession": "B20000014605",
+    "document_id": "AF000121",
+    "unique_document_id": "6165",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-13",
+    "end_date": "2026-06-04",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

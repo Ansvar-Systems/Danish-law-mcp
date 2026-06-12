@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-02-26",
+  "in_force_date": "2020-02-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/159/xml",
-  "description": "Retsinformation source. DocumentId=CQ001128; AccessionNumber=B20200015905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001128; AccessionNumber=B20200015905; Ophævet 2021-02-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Omsætningsgrænsen i § 5, stk. 1, og bagatelgrænsen i § 5, stk. 4, i lov om detailsalg fra butikker m.v. udgør henholdsvis 34,9 mio. kr. inkl. moms og 15,0 mio. kr. inkl. moms.",
-      "valid_from": "2020-02-26",
-      "valid_to": null
+      "valid_from": "2020-02-29",
+      "valid_to": "2021-02-16"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. marts 2020. Stk. 2. Bekendtgørelse nr. 310 af 27. marts 2019 om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v. ophæves.",
-      "valid_from": "2020-02-26",
-      "valid_to": null
+      "valid_from": "2020-02-29",
+      "valid_to": "2021-02-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:52:11.826Z",
+    "accession": "B20200015905",
+    "document_id": "CQ001128",
+    "unique_document_id": "213177",
+    "upstream_status": "Historic",
+    "start_date": "2020-02-29",
+    "end_date": "2021-02-17",
+    "historic_marked": "2021-02-16",
+    "seed_status": "repealed"
+  }
 }

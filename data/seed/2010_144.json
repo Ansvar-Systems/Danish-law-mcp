@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om autorisation og registrering af fødevarevirksomheder m.v.\\n(Gennemførelse af servicedirektivet)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-02-09",
+  "in_force_date": "2010-02-11",
   "url": "https://www.retsinformation.dk/eli/lta/2010/144/xml",
-  "description": "Retsinformation source. DocumentId=AH003739; AccessionNumber=B20100014405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003739; AccessionNumber=B20100014405; Ophævet 2011-02-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "25",
@@ -19,9 +20,20 @@
       "provision_ref": "25",
       "section": "25",
       "content": "§ 25 a. Når fødevareregionen har modtaget en anmodning om registrering eller autorisation af en fødevarevirksomhed, sender regionen senest 10 arbejdsdage efter modtagelsen en kvittering til virksomheden med oplysning om 1) sagsbehandlingsfristen, 2) at virksomheden ikke må påbegynde den anmeldte aktivitet, før der fra fødevareregionen er modtaget bekræftelse på registrering eller autorisation, og 3) klagemuligheder.",
-      "valid_from": "2010-02-09",
-      "valid_to": null
+      "valid_from": "2010-02-11",
+      "valid_to": "2011-02-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:52:49.341Z",
+    "accession": "B20100014405",
+    "document_id": "AH003739",
+    "unique_document_id": "130282",
+    "upstream_status": "Historic",
+    "start_date": "2010-02-11",
+    "end_date": "2022-04-09",
+    "historic_marked": "2011-02-07",
+    "seed_status": "repealed"
+  }
 }

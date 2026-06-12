@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om arbejdsmarkedsuddannelser m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-12-28",
+  "in_force_date": "2023-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1830/xml",
-  "description": "Retsinformation source. DocumentId=DA001225; AccessionNumber=B20230183005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA001225; AccessionNumber=B20230183005; Ophævet 2025-12-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:35:00.483Z",
+    "accession": "B20230183005",
+    "document_id": "DA001225",
+    "unique_document_id": "240815",
+    "upstream_status": "Historic",
+    "start_date": "2023-12-29",
+    "end_date": "2025-12-06",
+    "historic_marked": "2025-12-05",
+    "seed_status": "repealed"
+  }
 }

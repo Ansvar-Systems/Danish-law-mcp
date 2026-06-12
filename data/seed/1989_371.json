@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om produktansvar",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-06-07",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/371/xml",
-  "description": "Retsinformation source. DocumentId=CM018371; AccessionNumber=A19890037130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018371; AccessionNumber=A19890037130; Ophævet 2007-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:39:07.809Z",
+    "accession": "A19890037130",
+    "document_id": "CM018371",
+    "unique_document_id": "59418",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2008-03-25",
+    "historic_marked": "2007-03-29",
+    "seed_status": "repealed"
+  }
 }

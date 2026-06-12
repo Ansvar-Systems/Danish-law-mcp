@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-02-27",
+  "in_force_date": "2023-03-02",
   "url": "https://www.retsinformation.dk/eli/lta/2023/203/xml",
   "description": "Retsinformation source. DocumentId=CS001425; AccessionNumber=B20230020305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1, 5-7, 14, 15, 24 og 25, og § 2 i lov nr. 721 af 27. april 2021 om ændring af udlændingeloven og lov om Danmarks tiltrædelse af Schengenkonventionen (Gennemførelse af forordning om oprettelse af et europæisk system vedrørende rejseinformation og rejsetilladelse (ETIAS), for-ordning om oprettelse af et ind- og udrejsesystem (EES) og forordninger om oprettelse, drift og brug af Schengeninformationssystemet (SIS) på områderne for henholdsvis ind- og udrejsekontrol og politisamarbejde og strafferetligt samarbejde og om brug af SIS i forbindelse med tilbagesendelse af tredjelandsstatsborgere med ulovligt ophold m.v.) sættes i kraft.",
-      "valid_from": "2023-02-27",
+      "valid_from": "2023-03-02",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 7. marts 2023.",
-      "valid_from": "2023-02-27",
+      "valid_from": "2023-03-02",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:37:46.469Z",
+    "accession": "B20230020305",
+    "document_id": "CS001425",
+    "unique_document_id": "235082",
+    "upstream_status": "Valid",
+    "start_date": "2023-03-02",
+    "end_date": "2025-10-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

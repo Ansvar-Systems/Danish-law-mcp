@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om IBR-infektion hos kvæg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-01-19",
+  "in_force_date": "2006-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2006/29/xml",
-  "description": "Retsinformation source. DocumentId=BG000343; AccessionNumber=B20060002905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000343; AccessionNumber=B20060002905; Ophævet 2015-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:17:55.792Z",
+    "accession": "B20060002905",
+    "document_id": "BG000343",
+    "unique_document_id": "31607",
+    "upstream_status": "Historic",
+    "start_date": "2006-01-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-14",
+    "seed_status": "repealed"
+  }
 }

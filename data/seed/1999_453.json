@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sikkerhedsstillelse, lister over EU-handel, registreringsoplysninger og banderoler efter lov om afgift af øl, vin og frugtvin m.m.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-12",
+  "in_force_date": "1999-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/1999/453/xml",
-  "description": "Retsinformation source. DocumentId=AN000481; AccessionNumber=B19990045305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000481; AccessionNumber=B19990045305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:28:41.295Z",
+    "accession": "B19990045305",
+    "document_id": "AN000481",
+    "unique_document_id": "13465",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-21",
+    "end_date": "2006-08-31",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

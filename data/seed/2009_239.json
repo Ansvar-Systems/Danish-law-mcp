@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om krydsoverensstemmelse",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-03-27",
+  "in_force_date": "2009-03-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/239/xml",
-  "description": "Retsinformation source. DocumentId=AH003320; AccessionNumber=B20090023905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003320; AccessionNumber=B20090023905; Ophævet 2009-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:03:49.460Z",
+    "accession": "B20090023905",
+    "document_id": "AH003320",
+    "unique_document_id": "124178",
+    "upstream_status": "Historic",
+    "start_date": "2009-03-28",
+    "end_date": "2022-04-08",
+    "historic_marked": "2009-12-22",
+    "seed_status": "repealed"
+  }
 }

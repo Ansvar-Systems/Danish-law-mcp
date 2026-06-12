@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige skattelove (Beskatning af Post Danmark)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-02-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/90/xml",
-  "description": "Retsinformation source. DocumentId=CM022280; AccessionNumber=A19950009030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022280; AccessionNumber=A19950009030; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:57:00.996Z",
+    "accession": "A19950009030",
+    "document_id": "CM022280",
+    "unique_document_id": "63260",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-09-15",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

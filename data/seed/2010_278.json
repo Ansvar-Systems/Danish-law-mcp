@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilladelse til udlejning af arealer til campering og om indretning og benyttelse af campingpladser\\n(Sagsbehandlingsregler m.v. – implementering af servicedirektivet)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-15",
+  "in_force_date": "2010-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2010/278/xml",
-  "description": "Retsinformation source. DocumentId=AL002085; AccessionNumber=B20100027805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002085; AccessionNumber=B20100027805; Ophævet 2010-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 b. Kommunalbestyrelsen skal fastsætte og offentliggøre sagsbehandlingsfrister for kommunalbestyrelsens meddelelse af tilladelse efter § 2, stk. 1. Fristen løber fra det tidspunkt, hvor ansøger har indsendt alle de oplysninger, det påhviler denne at indsende. Stk. 2. Fristen i stk. 1, kan forlænges en gang, hvis sagens kompleksitet berettiger det. Kommunalbestyrelsen begrunder forlængelsen og varigheden af forlængelsen og meddeler dette til ansøgeren inden udløbet af fristen i stk. 1. Stk. 3. Hvis Kommunalbestyrelsen ikke har truffet og meddelt afgørelse inden udløbet af fristerne i stk. 1 og 2, kan ansøgeren ikke anse tilladelsen for meddelt.",
-      "valid_from": "2010-03-15",
-      "valid_to": null
+      "valid_from": "2010-03-27",
+      "valid_to": "2010-07-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:08:58.419Z",
+    "accession": "B20100027805",
+    "document_id": "AL002085",
+    "unique_document_id": "128702",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-27",
+    "end_date": "2023-04-28",
+    "historic_marked": "2010-07-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for tjenestehandlinger i udenrigstjenesten",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-15",
+  "in_force_date": "2000-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/537/xml",
-  "description": "Retsinformation source. DocumentId=AS000294; AccessionNumber=B20000053705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AS000294; AccessionNumber=B20000053705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:23:21.177Z",
+    "accession": "B20000053705",
+    "document_id": "AS000294",
+    "unique_document_id": "22880",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-26",
+    "end_date": "2005-12-21",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

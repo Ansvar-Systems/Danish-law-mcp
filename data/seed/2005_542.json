@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om regional statsforvaltning",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-24",
+  "in_force_date": "2005-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/542/xml",
-  "description": "Retsinformation source. DocumentId=AI001932; AccessionNumber=A20050054230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001932; AccessionNumber=A20050054230; Ophævet 2022-01-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:24:26.332Z",
+    "accession": "A20050054230",
+    "document_id": "AI001932",
+    "unique_document_id": "10070",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "2022-01-20",
+    "seed_status": "repealed"
+  }
 }

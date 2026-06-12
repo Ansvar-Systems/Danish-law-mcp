@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-08-20",
+  "in_force_date": "2019-08-27",
   "url": "https://www.retsinformation.dk/eli/lta/2019/855/xml",
   "description": "Retsinformation source. DocumentId=AE002707; AccessionNumber=B20190085505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Satsreguleringsprocenten for finansåret 2020 udgør 2,0, jf. § 2 i lov om en satsreguleringsprocent.",
-      "valid_from": "2019-08-20",
+      "valid_from": "2019-08-27",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Tilpasningsprocenten for finansåret 2020 udgør 0,2, jf. § 3 i lov om en satsreguleringsprocent.",
-      "valid_from": "2019-08-20",
+      "valid_from": "2019-08-27",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Satstilpasningsprocenten for finansåret 2020 udgør 0,0, jf. § 4 i lov om en satsreguleringsprocent.",
-      "valid_from": "2019-08-20",
+      "valid_from": "2019-08-27",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 31. august 2019.",
-      "valid_from": "2019-08-20",
+      "valid_from": "2019-08-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:38.682Z",
+    "accession": "B20190085505",
+    "document_id": "AE002707",
+    "unique_document_id": "210046",
+    "upstream_status": "Valid",
+    "start_date": "2019-08-27",
+    "end_date": "2020-03-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

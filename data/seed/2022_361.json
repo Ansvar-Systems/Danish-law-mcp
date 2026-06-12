@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-03-16",
+  "in_force_date": "2022-03-24",
   "url": "https://www.retsinformation.dk/eli/lta/2022/361/xml",
   "description": "Retsinformation source. DocumentId=DC000531; AccessionNumber=B20220036105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1243 af 15. december 2008 om forbud mod markedsføring af kinesiske fødevarer indeholdende mælkebestanddele, soja og ammoniumbicarbonat ophæves.",
-      "valid_from": "2022-03-16",
+      "valid_from": "2022-03-24",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2022.",
-      "valid_from": "2022-03-16",
+      "valid_from": "2022-03-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:35:55.326Z",
+    "accession": "B20220036105",
+    "document_id": "DC000531",
+    "unique_document_id": "229930",
+    "upstream_status": "Valid",
+    "start_date": "2022-03-24",
+    "end_date": "2022-03-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om særlige fiskeriregler for gedde i visse brakvandsområder ved Sydsjælland og Møn",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-05-24",
+  "in_force_date": "2020-05-28",
   "url": "https://www.retsinformation.dk/eli/lta/2020/689/xml",
-  "description": "Retsinformation source. DocumentId=CK002478; AccessionNumber=B20200068905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002478; AccessionNumber=B20200068905; Ophævet 2025-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -45,41 +46,52 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse på fiskeri efter gedde (Esox lucius) i: 1) Præstø Fjord, afgrænset af en ret linje fra Fedhage (55° 8.517'N, 12° 6.715'Ø) til den nordligste høfde ved Roneklint (55° 7.831'N, 12° 8.143'Ø). 2) Stege Nor, afgrænset af en ret linje fra Pynten nord for Stege by (54o 59.913'N, 12o 16.234'Ø) til hjørnet ud for de tidligere rensebassiner (Jordbassinerne) vest for sukkerfabrikken (54o 58.935'N, 12o 15.625'Ø). 3) Jungshoved Nor, afgrænset af en ret linje fra Jungshoved Pynt (55o 4.558'N, 12o 9.227'Ø) til Kindvig Hoved (55o 2.684'N, 12o 8.663'Ø). 4) Fane Fjord, afgrænset af en ret linje fra Hårbølle Havn (54o 53.404'N, 12o 7.964'Ø) til Bogødæmningen (54o 54.334'N, 12o 5.948'Ø).",
-      "valid_from": "2020-05-24",
-      "valid_to": null
+      "valid_from": "2020-05-28",
+      "valid_to": "2025-12-17"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. I de i § 1 nævnte områder er landing (hjemtagning) af gedde (Esox lucius) ikke tilladt. Stk. 2. Fangede gedder skal straks genudsættes i frit vand, så vidt muligt i levende tilstand.",
-      "valid_from": "2020-05-24",
-      "valid_to": null
+      "valid_from": "2020-05-28",
+      "valid_to": "2025-12-17"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. I de i § 1 nævnte områder er fiskeri med nedgarn ikke tilladt i perioden fra den 1. februar til og med den 31. maj.",
-      "valid_from": "2020-05-24",
-      "valid_to": null
+      "valid_from": "2020-05-28",
+      "valid_to": "2025-12-17"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Den, der overtræder eller forsøger at overtræde §§ 2-3 straffes med bøde. Stk. 2. Der kan pålægges selskaber mv. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2020-05-24",
-      "valid_to": null
+      "valid_from": "2020-05-28",
+      "valid_to": "2025-12-17"
     },
     {
       "provision_ref": "1:5",
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. juni 2020.",
-      "valid_from": "2020-05-24",
-      "valid_to": null
+      "valid_from": "2020-05-28",
+      "valid_to": "2025-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:39:15.382Z",
+    "accession": "B20200068905",
+    "document_id": "CK002478",
+    "unique_document_id": "214574",
+    "upstream_status": "Historic",
+    "start_date": "2020-05-28",
+    "end_date": "2025-12-18",
+    "historic_marked": "2025-12-17",
+    "seed_status": "repealed"
+  }
 }

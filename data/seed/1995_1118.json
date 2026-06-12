@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social bistand (Hjælp til medicin m.v. til døende)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-20",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1118/xml",
-  "description": "Retsinformation source. DocumentId=CM012766; AccessionNumber=A19950111830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012766; AccessionNumber=A19950111830; Ophævet 1996-03-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:23:08.487Z",
+    "accession": "A19950111830",
+    "document_id": "CM012766",
+    "unique_document_id": "53901",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-08",
+    "historic_marked": "1996-03-14",
+    "seed_status": "repealed"
+  }
 }

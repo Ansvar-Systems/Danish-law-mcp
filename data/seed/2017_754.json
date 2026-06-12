@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2017-06-19",
+  "in_force_date": "2017-06-19",
   "url": "https://www.retsinformation.dk/eli/lta/2017/754/xml",
   "description": "Retsinformation source. DocumentId=AA010116; AccessionNumber=B20170075403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1047,5 +1048,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:31:10.032Z",
+    "accession": "B20170075403",
+    "document_id": "AA010116",
+    "unique_document_id": "188531",
+    "upstream_status": "Valid",
+    "start_date": "2017-06-19",
+    "end_date": "2017-06-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

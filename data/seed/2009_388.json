@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social service\\n(Udmåling af tilskud til ansættelse af hjælpere til borgerstyret personlig assistance)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-05-25",
+  "in_force_date": "2009-05-25",
   "url": "https://www.retsinformation.dk/eli/lta/2009/388/xml",
-  "description": "Retsinformation source. DocumentId=BM000023; AccessionNumber=A20090038830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BM000023; AccessionNumber=A20090038830; Ophævet 2009-10-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "96",
@@ -20,8 +21,19 @@
       "section": "96",
       "content": "§ 96 b. Flytter en person fra en kommune, der udbetaler tilskud efter §§ 95 eller 96, skal den hidtidige opholdskommune, uanset reglerne i § 9 i lov om retssikkerhed og administration på det sociale område, fortsætte udbetalingen af tilskud, indtil den nye opholdskommune har truffet afgørelse om tilskud efter §§ 95 eller 96. Stk. 2. Har en kommune udbetalt tilskud efter stk. 1, har kommunen krav på refusion herfor fra den nye opholdskommune. Refusionskravet omfatter tilskud, som den hidtidige opholdskommune har betalt efter borgerens flytning fra den tidligere opholdskommune og frem til datoen for den nye opholdskommunes afgørelse.",
       "valid_from": "2009-05-25",
-      "valid_to": null
+      "valid_to": "2009-10-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:09:54.406Z",
+    "accession": "A20090038830",
+    "document_id": "BM000023",
+    "unique_document_id": "124944",
+    "upstream_status": "Historic",
+    "start_date": "2009-05-25",
+    "end_date": "2022-07-08",
+    "historic_marked": "2009-10-05",
+    "seed_status": "repealed"
+  }
 }
