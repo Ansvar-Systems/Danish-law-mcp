@@ -445,6 +445,22 @@ export async function ingest(
     ignoreAttributes: false,
     attributeNamePrefix: '',
     trimValues: true,
+    // Large modern acts (e.g. 2017/1289, 2020/1005) legitimately carry more
+    // than fast-xml-parser's default 1,000 total entity expansions — plain
+    // &amp;/&lt; escapes across thousands of provisions, not an attack. Raise
+    // only the total-count cap and the aggregate expanded length; pin the
+    // guards that actually stop billion-laughs payloads (expansion depth,
+    // per-entity size, DOCTYPE entity count) at the strict boolean-mode
+    // defaults — the object form would otherwise silently relax depth from
+    // 10 to 10,000.
+    processEntities: {
+      enabled: true,
+      maxTotalExpansions: 1_000_000,
+      maxExpandedLength: 10_000_000,
+      maxExpansionDepth: 10,
+      maxEntitySize: 10_000,
+      maxEntityCount: 100,
+    },
   });
 
   const parsed = parser.parse(xml) as Record<string, unknown>;
