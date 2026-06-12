@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 032 for laveffekts radioanlæg med integreret eller dedikeret antenne beregnet til telemetri, fjernstyringsformål, alarmering, tale og dataoverførsel i visse frekvensbånd",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-06-01",
+  "in_force_date": "2015-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2015/761/xml",
-  "description": "Retsinformation source. DocumentId=BP001274; AccessionNumber=B20150076105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001274; AccessionNumber=B20150076105; Ophævet 2016-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. For laveffekts radioanlæg med integreret eller dedikeret antenne beregnet til telemetri, fjernstyringsformål, alarmering, tale og dataoverførsel i visse frekvensbånd gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 032 for laveffekts radioanlæg med integreret eller dedikeret antenne beregnet til telemetri, fjernstyringsformål, alarmering, tale og dataoverførsel i visse frekvensbånd.",
-      "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_from": "2015-06-04",
+      "valid_to": "2016-11-25"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juni 2015. Stk. 2. Bekendtgørelse nr. 503 af 20. maj 2014 om Dansk radiogrænseflade nr. 00 032 for laveffekts radioanlæg med integreret eller dedikeret antenne beregnet til telemetri, fjernstyringsformål, alarmering, tale og dataoverførsel i visse frekvensbånd ophæves.",
-      "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_from": "2015-06-04",
+      "valid_to": "2016-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:22:15.901Z",
+    "accession": "B20150076105",
+    "document_id": "BP001274",
+    "unique_document_id": "169677",
+    "upstream_status": "Historic",
+    "start_date": "2015-06-04",
+    "end_date": "2026-06-04",
+    "historic_marked": "2016-11-25",
+    "seed_status": "repealed"
+  }
 }

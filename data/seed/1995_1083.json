@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om valg til menighedsråd",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1083/xml",
-  "description": "Retsinformation source. DocumentId=CM031898; AccessionNumber=A19950108330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031898; AccessionNumber=A19950108330; Ophævet 1996-02-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:21:45.236Z",
+    "accession": "A19950108330",
+    "document_id": "CM031898",
+    "unique_document_id": "72702",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-07-02",
+    "historic_marked": "1996-02-22",
+    "seed_status": "repealed"
+  }
 }

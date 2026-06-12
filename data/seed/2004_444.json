@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om politiets virksomhed",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-09",
+  "in_force_date": "2004-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2004/444/xml",
-  "description": "Retsinformation source. DocumentId=AA002542; AccessionNumber=A20040044430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002542; AccessionNumber=A20040044430; Ophævet 2015-08-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:26:24.065Z",
+    "accession": "A20040044430",
+    "document_id": "AA002542",
+    "unique_document_id": "1836",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-09",
+    "end_date": "2016-04-05",
+    "historic_marked": "2015-08-24",
+    "seed_status": "repealed"
+  }
 }

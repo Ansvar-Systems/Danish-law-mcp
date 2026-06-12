@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-04-09",
+  "in_force_date": "2019-04-13",
   "url": "https://www.retsinformation.dk/eli/lta/2019/427/xml",
   "description": "Retsinformation source. DocumentId=CN000963; AccessionNumber=B20190042705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1265 af 9. november 2018 om adgang til udøvelse af virksomhed som ambulancebehandler og ambulancebehandler med særlig kompetence (paramediciner) ved ambulanceberedskaber i Danmark for statsborgere fra EU- og EØS-lande m.v. ophæves.",
-      "valid_from": "2019-04-09",
+      "valid_from": "2019-04-13",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2019.",
-      "valid_from": "2019-04-09",
+      "valid_from": "2019-04-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:05:14.943Z",
+    "accession": "B20190042705",
+    "document_id": "CN000963",
+    "unique_document_id": "208643",
+    "upstream_status": "Valid",
+    "start_date": "2019-04-13",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

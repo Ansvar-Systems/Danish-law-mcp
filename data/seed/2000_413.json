@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om VækstFonden og lov om påligningen af indkomstskat til staten (ligningsloven)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/413/xml",
-  "description": "Retsinformation source. DocumentId=AD000677; AccessionNumber=A20000041330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000677; AccessionNumber=A20000041330; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:18:22.683Z",
+    "accession": "A20000041330",
+    "document_id": "AD000677",
+    "unique_document_id": "4749",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2017-12-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

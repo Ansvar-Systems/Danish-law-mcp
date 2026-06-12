@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om digital kommunikation",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-02-04",
+  "in_force_date": "2004-02-12",
   "url": "https://www.retsinformation.dk/eli/lta/2004/60/xml",
-  "description": "Retsinformation source. DocumentId=AU001463; AccessionNumber=B20040006005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001463; AccessionNumber=B20040006005; Ophævet 2005-03-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:32:39.574Z",
+    "accession": "B20040006005",
+    "document_id": "AU001463",
+    "unique_document_id": "26552",
+    "upstream_status": "Historic",
+    "start_date": "2004-02-12",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-03-03",
+    "seed_status": "repealed"
+  }
 }

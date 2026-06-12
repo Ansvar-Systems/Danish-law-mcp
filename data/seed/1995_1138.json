@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om en varslingspulje",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-19",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1138/xml",
-  "description": "Retsinformation source. DocumentId=CM026858; AccessionNumber=B19950113805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026858; AccessionNumber=B19950113805; Ophævet 1997-04-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:23:55.532Z",
+    "accession": "B19950113805",
+    "document_id": "CM026858",
+    "unique_document_id": "67679",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2009-03-07",
+    "historic_marked": "1997-04-11",
+    "seed_status": "repealed"
+  }
 }

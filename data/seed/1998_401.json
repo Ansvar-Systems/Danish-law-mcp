@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Domstolsstyrelsen",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-06-26",
+  "in_force_date": "1998-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/1998/401/xml",
-  "description": "Retsinformation source. DocumentId=CM047389; AccessionNumber=A19980040130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047389; AccessionNumber=A19980040130; Ophævet 2017-04-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:43:44.101Z",
+    "accession": "A19980040130",
+    "document_id": "CM047389",
+    "unique_document_id": "87562",
+    "upstream_status": "Historic",
+    "start_date": "1998-06-30",
+    "end_date": "2023-06-09",
+    "historic_marked": "2017-04-26",
+    "seed_status": "repealed"
+  }
 }

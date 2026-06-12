@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anvendelse af vejafmærkning",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-05-25",
+  "in_force_date": "2020-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2020/669/xml",
-  "description": "Retsinformation source. DocumentId=CZ000199; AccessionNumber=B20200066905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000199; AccessionNumber=B20200066905; Ophævet 2021-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "84",
@@ -19,9 +20,20 @@
       "provision_ref": "84",
       "section": "84",
       "content": "§ 84. Undertavler om miljøzone og undertavler med tekst om miljøzone må kun bruges under C 21 Kørsel i begge retninger forbudt .",
-      "valid_from": "2020-05-25",
-      "valid_to": null
+      "valid_from": "2020-05-26",
+      "valid_to": "2021-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:38:27.978Z",
+    "accession": "B20200066905",
+    "document_id": "CZ000199",
+    "unique_document_id": "214655",
+    "upstream_status": "Historic",
+    "start_date": "2020-05-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-12-21",
+    "seed_status": "repealed"
+  }
 }

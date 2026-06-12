@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om offentlig retshjælp ved advokater",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-11-25",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1997/866/xml",
-  "description": "Retsinformation source. DocumentId=CM045852; AccessionNumber=B19970086605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM045852; AccessionNumber=B19970086605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:22:56.878Z",
+    "accession": "B19970086605",
+    "document_id": "CM045852",
+    "unique_document_id": "86129",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2004-04-29",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

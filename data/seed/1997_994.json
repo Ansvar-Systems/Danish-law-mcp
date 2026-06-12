@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilskud mv. til lægemidler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-12-15",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1997/994/xml",
-  "description": "Retsinformation source. DocumentId=CM046083; AccessionNumber=B19970099405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046083; AccessionNumber=B19970099405; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:28:01.626Z",
+    "accession": "B19970099405",
+    "document_id": "CM046083",
+    "unique_document_id": "86350",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2022-07-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

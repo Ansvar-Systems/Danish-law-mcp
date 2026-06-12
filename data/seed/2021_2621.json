@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om godkendelse og syn af køretøjer (Vejsidesyn af motorcykler m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-28",
+  "in_force_date": "2021-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2621/xml",
-  "description": "Retsinformation source. DocumentId=DG000317; AccessionNumber=A20210262130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000317; AccessionNumber=A20210262130; Ophævet 2023-03-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11b",
@@ -30,22 +31,33 @@
       "section": "11b",
       "content": "§ 11 b. Færdselsstyrelsen kan foretage syn af motorcykler ved vejsiden og i den forbindelse anvise og ledsage køretøjer til et kontrolsted. Stk. 2. Transportministeren kan fastsætte nærmere regler om syn af motorcykler ved vejsiden og om Færdselsstyrelsens adgang til at anvise og ledsage motorcykler efter stk. 1, herunder om indretning og afmærkning af køretøjer og kontrolsteder og om krav til de synsinspektører, der skal anvise køretøjer til kontrol.",
       "valid_from": "2021-12-28",
-      "valid_to": null
+      "valid_to": "2023-03-16"
     },
     {
       "provision_ref": "12f",
       "section": "12f",
       "content": "§ 12 f. Transportministeren kan fastsætte regler om offentliggørelse af synsdata, herunder offentliggørelse af indholdet af synsrapporter.",
       "valid_from": "2021-12-28",
-      "valid_to": null
+      "valid_to": "2023-03-16"
     },
     {
       "provision_ref": "15",
       "section": "15",
       "content": "§ 15. Transportministeren kan fastsætte regler om, at tilladelsesindehavere skal betale et gebyr pr. syn, omsyn eller toldsyn til staten. Gebyret skal dække udgifterne til Færdselsstyrelsens syns-, omsyns- og toldsynsaktiviteter, herunder til kontrol af erhvervskøretøjer og motorcykler ved vejsiden og af erhvervskøretøjer, der befinder sig på et areal, som køretøjsbrugeren, køretøjsejeren eller dennes virksomhed råder over i erhvervsmæssig henseende. Stk. 2. Transportministeren kan fastsætte regler om gebyrets størrelse, betaling og opkrævning, herunder regler om betaling for rykkerskrivelser.",
       "valid_from": "2021-12-28",
-      "valid_to": null
+      "valid_to": "2023-03-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:27:48.440Z",
+    "accession": "A20210262130",
+    "document_id": "DG000317",
+    "unique_document_id": "228504",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-16",
+    "seed_status": "repealed"
+  }
 }

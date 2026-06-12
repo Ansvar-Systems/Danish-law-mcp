@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-09-16",
+  "in_force_date": "2014-09-18",
   "url": "https://www.retsinformation.dk/eli/lta/2014/997/xml",
   "description": "Retsinformation source. DocumentId=AL003024; AccessionNumber=B20140099705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1164 af 6. oktober 2010 om listen over farlige stoffer (mineralsk terpentin og solvent naphta) ophæves.",
-      "valid_from": "2014-09-16",
+      "valid_from": "2014-09-18",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. september 2014.",
-      "valid_from": "2014-09-16",
+      "valid_from": "2014-09-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:10.090Z",
+    "accession": "B20140099705",
+    "document_id": "AL003024",
+    "unique_document_id": "164661",
+    "upstream_status": "Valid",
+    "start_date": "2014-09-18",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

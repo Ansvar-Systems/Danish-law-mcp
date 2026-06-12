@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om biavl (* 1)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-07-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/585/xml",
-  "description": "Retsinformation source. DocumentId=CM038849; AccessionNumber=A19950058529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038849; AccessionNumber=A19950058529; Ophævet 2006-05-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:44:35.557Z",
+    "accession": "A19950058529",
+    "document_id": "CM038849",
+    "unique_document_id": "79636",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2024-05-29",
+    "historic_marked": "2006-05-23",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om museer m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-12-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/998/xml",
-  "description": "Retsinformation source. DocumentId=CM006535; AccessionNumber=A19860099829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006535; AccessionNumber=A19860099829; Ophævet 1989-10-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:28:21.186Z",
+    "accession": "A19860099829",
+    "document_id": "CM006535",
+    "unique_document_id": "47735",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2000-10-27",
+    "historic_marked": "1989-10-12",
+    "seed_status": "repealed"
+  }
 }

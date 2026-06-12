@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Danmarks Erhvervsfond og af lov om internationalt udviklingssamarbejde",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-05-08",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1985/182/xml",
-  "description": "Retsinformation source. DocumentId=CM031234; AccessionNumber=A19850018230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031234; AccessionNumber=A19850018230; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:49:14.719Z",
+    "accession": "A19850018230",
+    "document_id": "CM031234",
+    "unique_document_id": "72043",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2006-09-20",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

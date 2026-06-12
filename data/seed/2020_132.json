@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-02-20",
+  "in_force_date": "2020-02-22",
   "url": "https://www.retsinformation.dk/eli/lta/2020/132/xml",
   "description": "Retsinformation source. DocumentId=CK002389; AccessionNumber=B20200013205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 73 af 30. januar 2020 om fund af lavpatogen aviær influenza ved Sæderup i Aalborg Kommune ophæves.",
-      "valid_from": "2020-02-20",
+      "valid_from": "2020-02-22",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. februar 2020.",
-      "valid_from": "2020-02-20",
+      "valid_from": "2020-02-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:41:25.195Z",
+    "accession": "B20200013205",
+    "document_id": "CK002389",
+    "unique_document_id": "212969",
+    "upstream_status": "Valid",
+    "start_date": "2020-02-22",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

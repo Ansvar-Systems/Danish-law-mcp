@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om henlæggelse af opgaver og beføjelser til Kort- og Matrikelstyrelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-01-30",
+  "in_force_date": "2003-02-06",
   "url": "https://www.retsinformation.dk/eli/lta/2003/67/xml",
-  "description": "Retsinformation source. DocumentId=AL000933; AccessionNumber=B20030006705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000933; AccessionNumber=B20030006705; Ophævet 2009-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:39:35.365Z",
+    "accession": "B20030006705",
+    "document_id": "AL000933",
+    "unique_document_id": "12637",
+    "upstream_status": "Historic",
+    "start_date": "2003-02-06",
+    "end_date": "2021-01-08",
+    "historic_marked": "2009-06-30",
+    "seed_status": "repealed"
+  }
 }

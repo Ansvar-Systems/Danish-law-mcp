@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kemikalier og ophævelse af lov om behandling af oplysninger om brug af plantebeskyttelsesmidler i jordbruget (Integreret plantebeskyttelse, indberetning af sprøjtejournal og tilskud til mindre belastende bekæmpelsesmidler m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-09",
+  "in_force_date": "2020-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2020/806/xml",
-  "description": "Retsinformation source. DocumentId=CK002508; AccessionNumber=A20200080630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002508; AccessionNumber=A20200080630; Ophævet 2022-02-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "37a",
@@ -30,22 +31,33 @@
       "section": "37a",
       "content": "§ 37 a. Miljøministeren kan yde tilskud til forsknings-, udrednings- og udviklingsprojekter og til gebyrbetaling i forbindelse med ansøgning om godkendelse af bekæmpelsesmidler, aktivstoffer og basisstoffer efter regler i EU-forordninger og denne lov eller regler udstedt i medfør heraf. Stk. 2. Ministeren kan fastsætte regler om, hvilke ansøgninger om bekæmpelsesmidler, aktivstoffer og basisstoffer der kan ydes tilskud til. Stk. 3. Ministeren kan fastsætte nærmere regler om modtagerkredsen for tilskud, om betingelser og vilkår for at opnå tilskud, herunder om ansøgning om tilskud m.v., om administration af tilskudsordningerne, om regnskab og revision, om helt eller delvist bortfald af tilskud og om tilbagebetaling af uberettiget udbetalt tilskud, herunder om betaling af renter. Ministeren kan endvidere fastsætte regler om, at tilskudsmodtageren i perioden, hvor betingelser for tilskud skal være opfyldt, skal underrette ministeren, hvis betingelserne for tilskud ikke er opfyldt.",
       "valid_from": "2020-06-09",
-      "valid_to": null
+      "valid_to": "2022-02-22"
     },
     {
       "provision_ref": "38",
       "section": "38",
       "content": "§ 38. Miljøministeren fastsætter regler om, at erhvervsmæssige brugere af plantebeskyttelsesmidler skal anvende generelle principper for integreret bekæmpelse af skadegørere med henblik på at fremme bekæmpelse af skadegørere med et lavt forbrug af plantebeskyttelsesmidler. Stk. 2. Ministeren kan fastsætte regler om registrering af oplysninger om anvendelse af de generelle principper for integreret bekæmpelse af skadegørere, herunder om registreringens udformning og indhold.",
       "valid_from": "2020-06-09",
-      "valid_to": null
+      "valid_to": "2022-02-22"
     },
     {
       "provision_ref": "41a",
       "section": "41a",
       "content": "§ 41 a. Miljøministeren og ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om, at erhvervsmæssige brugere af plantebeskyttelsesmidler skal indberette oplysninger om brugen af plantebeskyttelsesmidlerne.",
       "valid_from": "2020-06-09",
-      "valid_to": null
+      "valid_to": "2022-02-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:43:59.799Z",
+    "accession": "A20200080630",
+    "document_id": "CK002508",
+    "unique_document_id": "214888",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-09",
+    "end_date": "2022-11-12",
+    "historic_marked": "2022-02-22",
+    "seed_status": "repealed"
+  }
 }

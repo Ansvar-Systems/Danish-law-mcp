@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om udstedelse af fartskriverkort",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-10-02",
+  "in_force_date": "2012-10-05",
   "url": "https://www.retsinformation.dk/eli/lta/2012/975/xml",
-  "description": "Retsinformation source. DocumentId=AA006720; AccessionNumber=B20120097505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA006720; AccessionNumber=B20120097505; Ophævet 2021-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:25:13.090Z",
+    "accession": "B20120097505",
+    "document_id": "AA006720",
+    "unique_document_id": "143401",
+    "upstream_status": "Historic",
+    "start_date": "2012-10-05",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-09-23",
+    "seed_status": "repealed"
+  }
 }

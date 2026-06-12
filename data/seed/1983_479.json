@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om totalisatorspil",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1983-10-12",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1983/479/xml",
-  "description": "Retsinformation source. DocumentId=CM021981; AccessionNumber=A19830047929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM021981; AccessionNumber=A19830047929; Ophævet 1989-04-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:30:49.532Z",
+    "accession": "A19830047929",
+    "document_id": "CM021981",
+    "unique_document_id": "62961",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-16",
+    "historic_marked": "1989-04-10",
+    "seed_status": "repealed"
+  }
 }

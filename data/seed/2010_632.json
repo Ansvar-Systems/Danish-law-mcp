@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om leje og lov om midlertidig regulering af boligforholdene\\n(Stråmandsudlejning og Grundejernes Investeringsfond m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-11",
+  "in_force_date": "2010-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2010/632/xml",
-  "description": "Retsinformation source. DocumentId=AO003556; AccessionNumber=A20100063230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO003556; AccessionNumber=A20100063230; Ophævet 2010-08-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "61",
@@ -20,8 +21,19 @@
       "section": "61",
       "content": "§ 61 a. Grundejernes Investeringsfond kan afkræve offentlige myndigheder alle nødvendige oplysninger til brug for administration af bestemmelserne i denne lovs § 18 b, jf. kapitel III A, og § 60 samt bestemmelserne i § 63 a, jf. kapitel X A, og §§ 113 a og 113 b i lov om leje.",
       "valid_from": "2010-06-11",
-      "valid_to": null
+      "valid_to": "2010-08-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:23:16.731Z",
+    "accession": "A20100063230",
+    "document_id": "AO003556",
+    "unique_document_id": "132414",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-11",
+    "end_date": "2023-04-28",
+    "historic_marked": "2010-08-13",
+    "seed_status": "repealed"
+  }
 }

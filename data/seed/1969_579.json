@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige lovbestemmelser med 21 års aldersgrænser.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1969-12-19",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1969/579/xml",
-  "description": "Retsinformation source. DocumentId=CM018428; AccessionNumber=A19690057930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018428; AccessionNumber=A19690057930; Ophævet 1996-06-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:18:25.257Z",
+    "accession": "A19690057930",
+    "document_id": "CM018428",
+    "unique_document_id": "59475",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-12-31",
+    "historic_marked": "1996-06-18",
+    "seed_status": "repealed"
+  }
 }

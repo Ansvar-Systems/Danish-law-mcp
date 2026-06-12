@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om aktiv socialpolitik",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-09-29",
+  "in_force_date": "1998-10-08",
   "url": "https://www.retsinformation.dk/eli/lta/1998/707/xml",
-  "description": "Retsinformation source. DocumentId=AO000017; AccessionNumber=A19980070729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000017; AccessionNumber=A19980070729; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:55:53.358Z",
+    "accession": "A19980070729",
+    "document_id": "AO000017",
+    "unique_document_id": "18355",
+    "upstream_status": "Historic",
+    "start_date": "1998-10-08",
+    "end_date": "2022-12-31",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om toldbehandling",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-03-05",
+  "in_force_date": "2008-03-06",
   "url": "https://www.retsinformation.dk/eli/lta/2008/154/xml",
-  "description": "Retsinformation source. DocumentId=AN006566; AccessionNumber=B20080015405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN006566; AccessionNumber=B20080015405; Ophævet 2010-04-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:02:59.686Z",
+    "accession": "B20080015405",
+    "document_id": "AN006566",
+    "unique_document_id": "115142",
+    "upstream_status": "Historic",
+    "start_date": "2008-03-06",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-04-09",
+    "seed_status": "repealed"
+  }
 }

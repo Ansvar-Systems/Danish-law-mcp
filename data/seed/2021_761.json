@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om en midlertidig og målrettet lønkompensationsordning til virksomheder i økonomisk krise som følge af COVID-19",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-04-16",
+  "in_force_date": "2021-04-29",
   "url": "https://www.retsinformation.dk/eli/lta/2021/761/xml",
-  "description": "Retsinformation source. DocumentId=CQ001731; AccessionNumber=B20210076105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001731; AccessionNumber=B20210076105; Ophævet 2021-07-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13a",
@@ -19,9 +20,20 @@
       "provision_ref": "13a",
       "section": "13a",
       "content": "§ 13 a. Afgørelse om tilbagebetaling efter dette kapitel på mere end 10.000 kr. ledsages af et tilbud om en afdragsordning. Stk. 2. Afdragsordningen løber i op til et år, og afdrag betales i fire lige store rater, jf. dog stk. 3. Stk. 3. Virksomheden har til enhver tid ret til helt at indfri sine forpligtelser til tilbagebetaling. Stk. 4. Erhvervsstyrelsen skal forud for indgåelse af en aftale om afdragsordning efter stk. 1, oplyse virksomheden om vilkår for aftalen, herunder det samlede beløb der skal betales, konsekvenser ved misligholdelse og mulighed for hel eller delvis indfrielse.",
-      "valid_from": "2021-04-16",
-      "valid_to": null
+      "valid_from": "2021-04-29",
+      "valid_to": "2021-07-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:51:49.875Z",
+    "accession": "B20210076105",
+    "document_id": "CQ001731",
+    "unique_document_id": "222705",
+    "upstream_status": "Historic",
+    "start_date": "2021-04-29",
+    "end_date": "2025-08-21",
+    "historic_marked": "2021-07-07",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "BEKENDTGØRELSE AF STRAFFELOVEN",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-10-30",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/886/xml",
-  "description": "Retsinformation source. DocumentId=CM018235; AccessionNumber=A19920088629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018235; AccessionNumber=A19920088629; Ophævet 1997-09-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:47:42.955Z",
+    "accession": "A19920088629",
+    "document_id": "CM018235",
+    "unique_document_id": "59283",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1997-09-03",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af varemærkeloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-30",
+  "in_force_date": "2001-09-13",
   "url": "https://www.retsinformation.dk/eli/lta/2001/782/xml",
-  "description": "Retsinformation source. DocumentId=AD000892; AccessionNumber=A20010078229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000892; AccessionNumber=A20010078229; Ophævet 2009-02-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:13:46.150Z",
+    "accession": "A20010078229",
+    "document_id": "AD000892",
+    "unique_document_id": "4909",
+    "upstream_status": "Historic",
+    "start_date": "2001-09-13",
+    "end_date": "2017-12-08",
+    "historic_marked": "2009-02-09",
+    "seed_status": "repealed"
+  }
 }

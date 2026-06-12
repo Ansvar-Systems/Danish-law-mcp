@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kørekort",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-12-13",
+  "in_force_date": "2016-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1599/xml",
-  "description": "Retsinformation source. DocumentId=CX000026; AccessionNumber=B20160159905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000026; AccessionNumber=B20160159905; Ophævet 2017-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:17.010Z",
+    "accession": "B20160159905",
+    "document_id": "CX000026",
+    "unique_document_id": "185365",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-16",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-06-26",
+    "seed_status": "repealed"
+  }
 }

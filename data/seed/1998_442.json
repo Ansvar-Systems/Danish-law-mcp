@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om dagpenge ved sygdom eller fødsel",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-06-23",
+  "in_force_date": "1998-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/1998/442/xml",
-  "description": "Retsinformation source. DocumentId=CM047463; AccessionNumber=B19980044205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047463; AccessionNumber=B19980044205; Ophævet 2005-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:45:21.321Z",
+    "accession": "B19980044205",
+    "document_id": "CM047463",
+    "unique_document_id": "87629",
+    "upstream_status": "Historic",
+    "start_date": "1998-07-03",
+    "end_date": "2010-06-30",
+    "historic_marked": "2005-06-29",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2024-12-06",
+  "in_force_date": "2024-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1598/xml",
   "description": "Retsinformation source. DocumentId=DI001316; AccessionNumber=B20240159805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "9a",
       "section": "9a",
       "content": "§ 9 a. Den, der ansøger om tilladelse til en klinisk afprøvning af et produkt uden medicinsk formål, der er omfattet af bilag XVI i forordningen om medicinsk udstyr, skal betale et gebyr, som er fastsat i bilag 9, til Lægemiddelstyrelsen for behandling af ansøgningen. Stk. 2. Den, der ansøger om tilladelse til ændring af en klinisk afprøvning givet i medfør af stk. 1, skal betale et gebyr, som er fastsat i bilag 9, til Lægemiddelstyrelsen for behandling af ansøgningen.",
-      "valid_from": "2024-12-06",
+      "valid_from": "2024-12-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:46:45.847Z",
+    "accession": "B20240159805",
+    "document_id": "DI001316",
+    "unique_document_id": "246672",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-17",
+    "end_date": "2024-12-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

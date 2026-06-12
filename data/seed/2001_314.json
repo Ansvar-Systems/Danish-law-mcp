@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod udførsel af levende klovbærende dyr",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-05-07",
+  "in_force_date": "2001-05-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/314/xml",
-  "description": "Retsinformation source. DocumentId=AH000910; AccessionNumber=B20010031405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000910; AccessionNumber=B20010031405; Ophævet 2002-05-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:55:02.591Z",
+    "accession": "B20010031405",
+    "document_id": "AH000910",
+    "unique_document_id": "7251",
+    "upstream_status": "Historic",
+    "start_date": "2001-05-07",
+    "end_date": "2022-04-09",
+    "historic_marked": "2002-05-16",
+    "seed_status": "repealed"
+  }
 }

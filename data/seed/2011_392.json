@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af værdigrænse i lov om sikring af kulturværdier i Danmark",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-04-30",
+  "in_force_date": "2011-05-04",
   "url": "https://www.retsinformation.dk/eli/lta/2011/392/xml",
-  "description": "Retsinformation source. DocumentId=AK000816; AccessionNumber=B20110039205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000816; AccessionNumber=B20110039205; Ophævet 2012-02-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Værdigrænsen for kulturgenstande i § 2, stk. 1, nr. 2, i lov om sikring af kulturværdier i Danmark reguleres, jf. lovens § 2, stk. 5, efter udviklingen i det af Danmarks Statistik offentliggjorte forbrugerprisindeks til følgende beløb med virkning pr. 1. januar 2011: 153.000 kr.",
-      "valid_from": "2011-04-30",
-      "valid_to": null
+      "valid_from": "2011-05-04",
+      "valid_to": "2012-02-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 5. maj 2011.",
-      "valid_from": "2011-04-30",
-      "valid_to": null
+      "valid_from": "2011-05-04",
+      "valid_to": "2012-02-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:05:25.814Z",
+    "accession": "B20110039205",
+    "document_id": "AK000816",
+    "unique_document_id": "136740",
+    "upstream_status": "Historic",
+    "start_date": "2011-05-04",
+    "end_date": "2012-02-17",
+    "historic_marked": "2012-02-16",
+    "seed_status": "repealed"
+  }
 }

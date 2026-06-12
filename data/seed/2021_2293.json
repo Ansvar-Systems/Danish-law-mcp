@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af udlændingeloven (Formodningsafslag på erhvervsområdet og praktikantområdet, adgang for Styrelsen for International Rekruttering og Integration til at foretage selvstændige udgående kontrolaktioner, pålæg til virksomheder om at føre logbog, styrket kontrol via faste kontrolattachéer og adgang for Styrelsen for International Rekruttering og Integration til i kontroløjemed at indhente oplysninger fra SafeSeaNet)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-03",
+  "in_force_date": "2021-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2293/xml",
-  "description": "Retsinformation source. DocumentId=CS001154; AccessionNumber=B20210229305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS001154; AccessionNumber=B20210229305; Ophævet 2022-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 44 a, stk. 21-24, som affattet ved § 1, nr. 5, og § 1, nr. 6, i lov nr. 2195 af 29. december 2020 om ændring af udlændingeloven (Formodningsafslag på erhvervsområdet og praktikantområdet, adgang for Styrelsen for International Rekruttering og Integration til at foretage selvstændige udgående kontrolaktioner, pålæg til virksomheder om at føre logbog, styrket kontrol via faste kontrolattachéer og adgang for Styrelsen for International Rekruttering og Integration til i kontroløjemed at indhente oplysninger fra SafeSeaNet) sættes i kraft.",
-      "valid_from": "2021-12-03",
-      "valid_to": null
+      "valid_from": "2021-12-07",
+      "valid_to": "2022-08-30"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2022.",
-      "valid_from": "2021-12-03",
-      "valid_to": null
+      "valid_from": "2021-12-07",
+      "valid_to": "2022-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:14:28.227Z",
+    "accession": "B20210229305",
+    "document_id": "CS001154",
+    "unique_document_id": "227806",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-07",
+    "end_date": "2022-08-31",
+    "historic_marked": "2022-08-30",
+    "seed_status": "repealed"
+  }
 }

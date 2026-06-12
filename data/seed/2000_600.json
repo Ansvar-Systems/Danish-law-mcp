@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af udlændingeloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-23",
+  "in_force_date": "2000-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2000/600/xml",
-  "description": "Retsinformation source. DocumentId=AI000354; AccessionNumber=A20000060029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000354; AccessionNumber=A20000060029; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:25:55.898Z",
+    "accession": "A20000060029",
+    "document_id": "AI000354",
+    "unique_document_id": "8957",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-03",
+    "end_date": "2017-12-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

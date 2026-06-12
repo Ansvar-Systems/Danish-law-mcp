@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-06-16",
+  "in_force_date": "2016-06-23",
   "url": "https://www.retsinformation.dk/eli/lta/2016/754/xml",
   "description": "Retsinformation source. DocumentId=AP000272; AccessionNumber=B20160075405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for Teleklagenævnet, herunder afsnit VII i lov om elektroniske kommunikationsnet og -tjenester, overføres fra energi-, forsynings- og klimaministeren til erhvervs- og vækstministeren pr. 1. januar 2017.",
-      "valid_from": "2016-06-16",
+      "valid_from": "2016-06-23",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ressortansvaret for Ankenævnet vedrørende Praktikvirksomheder og Tvistighedsnævnet, herunder ansvaret for nævnenes nedsættelse og virksomhed, jf. § 47, stk. 2-4, og § 64 i lov om erhvervsuddannelser, overføres fra ministeren for børn, undervisning og ligestilling til erhvervs- og vækstministeren pr. 1. januar 2017.",
-      "valid_from": "2016-06-16",
+      "valid_from": "2016-06-23",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Ressortansvaret for Energiklagenævnet og Natur- og Miljøklagenævnet, herunder lov om Natur- og Miljøklagenævnet, overføres fra miljø- og fødevareministeren til erhvervs- og vækstministeren pr. 1. januar 2017.",
-      "valid_from": "2016-06-16",
+      "valid_from": "2016-06-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:26:52.656Z",
+    "accession": "B20160075405",
+    "document_id": "AP000272",
+    "unique_document_id": "182040",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-23",
+    "end_date": "2016-06-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

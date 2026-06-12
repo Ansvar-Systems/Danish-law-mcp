@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Det Særlige Bygningssyn",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-08-12",
+  "in_force_date": "2003-08-21",
   "url": "https://www.retsinformation.dk/eli/lta/2003/707/xml",
-  "description": "Retsinformation source. DocumentId=AK000288; AccessionNumber=B20030070705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000288; AccessionNumber=B20030070705; Ophævet 2011-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:41:06.606Z",
+    "accession": "B20030070705",
+    "document_id": "AK000288",
+    "unique_document_id": "11890",
+    "upstream_status": "Historic",
+    "start_date": "2003-08-21",
+    "end_date": "2011-07-06",
+    "historic_marked": "2011-07-05",
+    "seed_status": "repealed"
+  }
 }

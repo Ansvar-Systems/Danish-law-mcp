@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-08-20",
+  "in_force_date": "2024-08-27",
   "url": "https://www.retsinformation.dk/eli/lta/2024/983/xml",
   "description": "Retsinformation source. DocumentId=AE003166; AccessionNumber=B20240098305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Satsreguleringsprocenten for finansåret 2025 udgør 3,6, jf. § 2 i lov om en satsreguleringsprocent.",
-      "valid_from": "2024-08-20",
+      "valid_from": "2024-08-27",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Tilpasningsprocenten for finansåret 2025 udgør 1,9, jf. § 3 i lov om en satsreguleringsprocent.",
-      "valid_from": "2024-08-20",
+      "valid_from": "2024-08-27",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Satstilpasningsprocenten for finansåret 2025 udgør 1,6, jf. § 4 i lov om en satsreguleringsprocent.",
-      "valid_from": "2024-08-20",
+      "valid_from": "2024-08-27",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 31. august 2024.",
-      "valid_from": "2024-08-20",
+      "valid_from": "2024-08-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:26:35.574Z",
+    "accession": "B20240098305",
+    "document_id": "AE003166",
+    "unique_document_id": "244729",
+    "upstream_status": "Valid",
+    "start_date": "2024-08-27",
+    "end_date": "2026-01-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

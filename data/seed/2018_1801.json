@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Arbejdsgivernes Uddannelsesbidrag",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1801/xml",
-  "description": "Retsinformation source. DocumentId=CU000529; AccessionNumber=B20180180105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CU000529; AccessionNumber=B20180180105; Ophævet 2023-12-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12",
@@ -19,9 +20,20 @@
       "provision_ref": "12",
       "section": "12",
       "content": "§ 12. Klager over Arbejdsgivernes Uddannelsesbidrags afgørelser efter denne bekendtgørelse kan, inden for en frist på 4 uger fra den dag, hvor afgørelsen er meddelt, indbringes for det i henhold til lov om Arbejdsmarkedets Tillægspension § 28 nedsatte ankenævn. Stk. 2. Klage i henhold til stk. 1 indgives til Arbejdsgivernes Uddannelsesbidrag, som vurderer, om der er grundlag for at give en klager helt eller delvis medhold. Giver Arbejdsgivernes Uddannelsesbidrag ikke klageren fuldt ud medhold, sender Arbejdsgivernes Uddannelsesbidrag klagen, begrundelsen for afgørelsen og genvurderingen videre til det ankenævn, der er nedsat i henhold til § 28 i lov om Arbejdsmarkedets Tillægspension.",
-      "valid_from": "2018-12-27",
-      "valid_to": null
+      "valid_from": "2018-12-29",
+      "valid_to": "2023-12-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:57.933Z",
+    "accession": "B20180180105",
+    "document_id": "CU000529",
+    "unique_document_id": "205879",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-29",
+    "end_date": "2023-12-14",
+    "historic_marked": "2023-12-13",
+    "seed_status": "repealed"
+  }
 }

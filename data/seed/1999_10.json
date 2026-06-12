@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om registrering og syn af køretøjer m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-01-11",
+  "in_force_date": "1999-01-19",
   "url": "https://www.retsinformation.dk/eli/lta/1999/10/xml",
-  "description": "Retsinformation source. DocumentId=AR000074; AccessionNumber=B19990001005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000074; AccessionNumber=B19990001005; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:07:35.051Z",
+    "accession": "B19990001005",
+    "document_id": "AR000074",
+    "unique_document_id": "21786",
+    "upstream_status": "Historic",
+    "start_date": "1999-01-19",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

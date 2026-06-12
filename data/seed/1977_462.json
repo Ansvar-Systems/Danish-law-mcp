@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anløb af Rønne havn",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1977-09-08",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1977/462/xml",
-  "description": "Retsinformation source. DocumentId=CM023720; AccessionNumber=B19770046205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023720; AccessionNumber=B19770046205; Ophævet 1990-08-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:57:01.871Z",
+    "accession": "B19770046205",
+    "document_id": "CM023720",
+    "unique_document_id": "64672",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1990-08-21",
+    "seed_status": "repealed"
+  }
 }

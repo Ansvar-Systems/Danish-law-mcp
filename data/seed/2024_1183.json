@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-11-13",
+  "in_force_date": "2024-11-20",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1183/xml",
   "description": "Retsinformation source. DocumentId=DC001653; AccessionNumber=B20240118305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 24 af 13. januar 2011 om autorisation af laboratorier til håndtering af mund- og klovesygevirus. 2) Bekendtgørelse nr. 522 af 6. juni 2012 om forebyggende beskyttelsesforanstaltninger mod aviær influenza. 3) Bekendtgørelse nr. 1385 af 12. december 2019 om ornitose. 4) Bekendtgørelse nr. 1388 af 12. december 2019 om hønsetyfus. 5) Bekendtgørelse nr. 1452 af 12. december 2019 om bekæmpelse af epizootisk hæmorrhagi hos hjorte. 6) Bekendtgørelse nr. 1454 af 12. december 2019 om rabies. 7) Bekendtgørelse nr. 1527 af 11. december 2023 om kontagiøs equin metritis (CEM) hos dyr af hestefamilien.",
-      "valid_from": "2024-11-13",
+      "valid_from": "2024-11-20",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2025.",
-      "valid_from": "2024-11-13",
+      "valid_from": "2024-11-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:29:54.999Z",
+    "accession": "B20240118305",
+    "document_id": "DC001653",
+    "unique_document_id": "244492",
+    "upstream_status": "Valid",
+    "start_date": "2024-11-20",
+    "end_date": "2024-11-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

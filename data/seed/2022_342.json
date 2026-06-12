@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2022-03-22",
+  "in_force_date": "2022-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2022/342/xml",
   "description": "Retsinformation source. DocumentId=DE000220; AccessionNumber=A20220034230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1515,5 +1516,16 @@
       "definition": "såvel en lejlighed som et enkeltværelse",
       "source_provision": "2:14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:35:09.951Z",
+    "accession": "A20220034230",
+    "document_id": "DE000220",
+    "unique_document_id": "229681",
+    "upstream_status": "Valid",
+    "start_date": "2022-03-22",
+    "end_date": "2026-03-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2008-10-03",
+  "in_force_date": "2008-10-07",
   "url": "https://www.retsinformation.dk/eli/lta/2008/987/xml",
   "description": "Retsinformation source. DocumentId=AH003066; AccessionNumber=B20080098705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Jordkøbsnævnet i Tønder Kommune kan inden for kommunen udøve beføjelser efter § 11, § 18 og § 19 i jordfordelingsloven i overensstemmelse med bekendtgørelse nr. 1220 af 18. oktober 2007 om jordkøbsnævn.",
-      "valid_from": "2008-10-03",
+      "valid_from": "2008-10-07",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Jordkøbsnævnet i Sønderborg Kommune kan inden for kommunen udøve beføjelser efter § 11, § 18 og § 19 i jordfordelingsloven i overensstemmelse med bekendtgørelse nr. 1220 af 18. oktober 2007 om jordkøbsnævn.",
-      "valid_from": "2008-10-03",
+      "valid_from": "2008-10-07",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 8. oktober 2008. Stk. 2. Samtidig ophæves bekendtgørelse nr. 262 af 28. april 1999 om regionalt jordkøbsnævn i Viborg Amt, bekendtgørelse nr. 623 af 28. juni 2000 om regionalt jordkøbsnævn i Nordjyllands amt og bekendtgørelse nr. 440 af 7. juni 2002 om regionalt jordkøbsnævn i Sønderjyllands Amt.",
-      "valid_from": "2008-10-03",
+      "valid_from": "2008-10-07",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:36:59.253Z",
+    "accession": "B20080098705",
+    "document_id": "AH003066",
+    "unique_document_id": "121526",
+    "upstream_status": "Valid",
+    "start_date": "2008-10-07",
+    "end_date": "2023-07-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

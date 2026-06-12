@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om uddannelse i fødevarehygiejne\\n(Gennemførelse af servicedirektivet)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-02-09",
+  "in_force_date": "2010-02-11",
   "url": "https://www.retsinformation.dk/eli/lta/2010/146/xml",
-  "description": "Retsinformation source. DocumentId=AH003741; AccessionNumber=B20100014605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003741; AccessionNumber=B20100014605; Ophævet 2014-10-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -24,16 +25,27 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7 a. Fødevarestyrelsen træffer afgørelse om godkendelse i henhold til §§ 6 og 7 senest 4 uger efter modtagelse af ansøgningen. Stk. 2. Fristen i stk. 1 kan forlænges én gang, hvis sagens kompleksitet berettiger det. Fødevarestyrelsen begrunder forlængelsen og varigheden af forlængelsen og meddeler dette til ansøgeren inden udløbet af fristen i stk. 1. Stk. 3. Udbud af uddannelse på de i §§ 6 og 7 nævnte uddannelsessteder må ikke påbegyndes, før der er modtaget godkendelse hertil fra Fødevarestyrelsen.",
-      "valid_from": "2010-02-09",
-      "valid_to": null
+      "valid_from": "2010-02-11",
+      "valid_to": "2014-10-24"
     },
     {
       "provision_ref": "14",
       "section": "14",
       "content": "§ 14 a. Fødevarevirksomheden skal oplyse tjenestemodtager om kontaktoplysninger til Fødevarestyrelsen.",
-      "valid_from": "2010-02-09",
-      "valid_to": null
+      "valid_from": "2010-02-11",
+      "valid_to": "2014-10-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:53:38.044Z",
+    "accession": "B20100014605",
+    "document_id": "AH003741",
+    "unique_document_id": "130284",
+    "upstream_status": "Historic",
+    "start_date": "2010-02-11",
+    "end_date": "2022-04-09",
+    "historic_marked": "2014-10-24",
+    "seed_status": "repealed"
+  }
 }

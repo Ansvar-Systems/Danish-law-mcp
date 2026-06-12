@@ -5,9 +5,21 @@
   "short_name": "Lov",
   "status": "in_force",
   "issued_date": "2004-05-05",
+  "in_force_date": "2004-05-05",
   "url": "https://www.retsinformation.dk/eli/lta/2004/309/xml",
   "description": "Retsinformation source. DocumentId=BE001007; AccessionNumber=A20040030930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:20:57.908Z",
+    "accession": "A20040030930",
+    "document_id": "BE001007",
+    "unique_document_id": "30073",
+    "upstream_status": "Valid",
+    "start_date": "2004-05-05",
+    "end_date": "2018-12-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

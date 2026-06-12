@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2008-04-30",
+  "in_force_date": "2008-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2008/306/xml",
   "description": "Retsinformation source. DocumentId=AA004329; AccessionNumber=A20080030630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -3741,5 +3742,16 @@
       "definition": "en skriftlig eller elektronisk med betegnelse af udstederen forsynet tilkendegivelse, der fremtræder som bestemt til at tjene som bevis",
       "source_provision": "14:61"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:09:15.297Z",
+    "accession": "A20080030630",
+    "document_id": "AA004329",
+    "unique_document_id": "116366",
+    "upstream_status": "Valid",
+    "start_date": "2008-04-30",
+    "end_date": "2025-09-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

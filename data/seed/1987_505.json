@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om musik",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-07-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/505/xml",
-  "description": "Retsinformation source. DocumentId=CM006521; AccessionNumber=A19870050529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006521; AccessionNumber=A19870050529; Ophævet 1994-04-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:43:00.883Z",
+    "accession": "A19870050529",
+    "document_id": "CM006521",
+    "unique_document_id": "47721",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-02-03",
+    "historic_marked": "1994-04-13",
+    "seed_status": "repealed"
+  }
 }

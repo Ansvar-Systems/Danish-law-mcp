@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Danske Lægemiddelstandarder 2008.2",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-08-18",
+  "in_force_date": "2008-08-22",
   "url": "https://www.retsinformation.dk/eli/lta/2008/846/xml",
-  "description": "Retsinformation source. DocumentId=BK000329; AccessionNumber=B20080084605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000329; AccessionNumber=B20080084605; Ophævet 2008-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:31:15.396Z",
+    "accession": "B20080084605",
+    "document_id": "BK000329",
+    "unique_document_id": "121080",
+    "upstream_status": "Historic",
+    "start_date": "2008-08-22",
+    "end_date": "2022-07-12",
+    "historic_marked": "2008-12-19",
+    "seed_status": "repealed"
+  }
 }

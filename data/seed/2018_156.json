@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-02-27",
+  "in_force_date": "2018-03-03",
   "url": "https://www.retsinformation.dk/eli/lta/2018/156/xml",
   "description": "Retsinformation source. DocumentId=AP000286; AccessionNumber=B20180015605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af standard it-arbejdsplads med tilhørende netværk, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører Det Kgl. Bibliotek, overføres fra kulturministeren til ministeren for offentlig innovation pr. 1. marts 2018.",
-      "valid_from": "2018-02-27",
+      "valid_from": "2018-03-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:08.846Z",
+    "accession": "B20180015605",
+    "document_id": "AP000286",
+    "unique_document_id": "199834",
+    "upstream_status": "Valid",
+    "start_date": "2018-03-03",
+    "end_date": "2018-03-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

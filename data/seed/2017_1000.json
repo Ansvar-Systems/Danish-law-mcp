@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om Forsvarets Efterretningstjeneste (FE) og toldloven",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-08-24",
+  "in_force_date": "2017-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1000/xml",
-  "description": "Retsinformation source. DocumentId=AG000808; AccessionNumber=B20170100005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000808; AccessionNumber=B20170100005; Ophævet 2018-01-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1, og § 2 i lov nr. 462 af 15. maj 2017 om ændring af lov om Forsvarets Efterretningstjeneste (FE) og toldloven sættes i kraft.",
-      "valid_from": "2017-08-24",
-      "valid_to": null
+      "valid_from": "2017-08-29",
+      "valid_to": "2018-01-16"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. september 2017.",
-      "valid_from": "2017-08-24",
-      "valid_to": null
+      "valid_from": "2017-08-29",
+      "valid_to": "2018-01-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:36:50.832Z",
+    "accession": "B20170100005",
+    "document_id": "AG000808",
+    "unique_document_id": "192359",
+    "upstream_status": "Historic",
+    "start_date": "2017-08-29",
+    "end_date": "2018-01-17",
+    "historic_marked": "2018-01-16",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-06-27",
+  "in_force_date": "2021-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1425/xml",
   "description": "Retsinformation source. DocumentId=DA000599; AccessionNumber=B20210142505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 537 af 26. marts 2021 om supplerende skoleundervisning i erhvervsuddannelserne som led i indhentelse af fagligt efterslæb i elevernes uddannelse i forbindelse med foranstaltninger mod covid-19 ophæves.",
-      "valid_from": "2021-06-27",
+      "valid_from": "2021-06-28",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 30. juni 2021.",
-      "valid_from": "2021-06-27",
+      "valid_from": "2021-06-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:39:33.965Z",
+    "accession": "B20210142505",
+    "document_id": "DA000599",
+    "unique_document_id": "224320",
+    "upstream_status": "Valid",
+    "start_date": "2021-06-28",
+    "end_date": "2021-06-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Danske Lægemiddelstandarder 2014.0",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-01-07",
+  "in_force_date": "2014-01-11",
   "url": "https://www.retsinformation.dk/eli/lta/2014/16/xml",
-  "description": "Retsinformation source. DocumentId=BK001523; AccessionNumber=B20140001605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001523; AccessionNumber=B20140001605; Ophævet 2016-12-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse indeholder i bilagene 1-6 Danske Lægemiddelstandarder 2014.0",
-      "valid_from": "2014-01-07",
-      "valid_to": null
+      "valid_from": "2014-01-11",
+      "valid_to": "2016-12-05"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 20. januar 2014. Stk. 2. Bekendtgørelse nr. 876 af 25. juni 2013 om Danske Lægemiddelstandarder 2013.2 ophæves.",
-      "valid_from": "2014-01-07",
-      "valid_to": null
+      "valid_from": "2014-01-11",
+      "valid_to": "2016-12-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:51:14.362Z",
+    "accession": "B20140001605",
+    "document_id": "BK001523",
+    "unique_document_id": "161106",
+    "upstream_status": "Historic",
+    "start_date": "2014-01-11",
+    "end_date": "2022-07-12",
+    "historic_marked": "2016-12-05",
+    "seed_status": "repealed"
+  }
 }

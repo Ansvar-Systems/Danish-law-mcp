@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning (Ægteskabsloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-09-15",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/630/xml",
-  "description": "Retsinformation source. DocumentId=CM018205; AccessionNumber=A19860063029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018205; AccessionNumber=A19860063029; Ophævet 1990-05-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:15:52.533Z",
+    "accession": "A19860063029",
+    "document_id": "CM018205",
+    "unique_document_id": "59253",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-08",
+    "historic_marked": "1990-05-30",
+    "seed_status": "repealed"
+  }
 }

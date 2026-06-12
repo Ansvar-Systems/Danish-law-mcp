@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-09-30",
+  "in_force_date": "2019-10-02",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1003/xml",
   "description": "Retsinformation source. DocumentId=CQ001014; AccessionNumber=B20190100305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 126 af 19. februar 2009 om henlæggelse af visse beføjelser til Patent- og Varemærkestyrelsen ophæves.",
-      "valid_from": "2019-09-30",
+      "valid_from": "2019-10-02",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 3. oktober 2019.",
-      "valid_from": "2019-09-30",
+      "valid_from": "2019-10-02",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:28:36.435Z",
+    "accession": "B20190100305",
+    "document_id": "CQ001014",
+    "unique_document_id": "210428",
+    "upstream_status": "Valid",
+    "start_date": "2019-10-02",
+    "end_date": "2019-10-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

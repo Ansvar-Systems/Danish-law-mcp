@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-06-17",
+  "in_force_date": "2014-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2014/662/xml",
   "description": "Retsinformation source. DocumentId=BP000947; AccessionNumber=B20140066205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 784 af 29. juni 2011 om hedgeforeningers opgørelse af risici ophæves.",
-      "valid_from": "2014-06-17",
+      "valid_from": "2014-06-24",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 22. juli 2014.",
-      "valid_from": "2014-06-17",
+      "valid_from": "2014-06-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:11:43.414Z",
+    "accession": "B20140066205",
+    "document_id": "BP000947",
+    "unique_document_id": "163804",
+    "upstream_status": "Valid",
+    "start_date": "2014-06-24",
+    "end_date": "2017-12-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

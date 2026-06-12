@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om asbest (Asbestbekendtgørelsen)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-09-24",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1986/660/xml",
-  "description": "Retsinformation source. DocumentId=CM026649; AccessionNumber=B19860066005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026649; AccessionNumber=B19860066005; Ophævet 2004-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:16:57.641Z",
+    "accession": "B19860066005",
+    "document_id": "CM026649",
+    "unique_document_id": "67470",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2007-07-10",
+    "historic_marked": "2004-12-29",
+    "seed_status": "repealed"
+  }
 }

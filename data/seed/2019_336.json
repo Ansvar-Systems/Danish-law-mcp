@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-03-28",
+  "in_force_date": "2019-04-02",
   "url": "https://www.retsinformation.dk/eli/lta/2019/336/xml",
   "description": "Retsinformation source. DocumentId=AP000303; AccessionNumber=B20190033605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for afhentning, opbevaring og destruktion af ammunition og fyrværkeri overføres fra justitsministeren til forsvarsministeren.",
-      "valid_from": "2019-03-28",
+      "valid_from": "2019-04-02",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:01:35.193Z",
+    "accession": "B20190033605",
+    "document_id": "AP000303",
+    "unique_document_id": "208483",
+    "upstream_status": "Valid",
+    "start_date": "2019-04-02",
+    "end_date": "2019-04-02",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

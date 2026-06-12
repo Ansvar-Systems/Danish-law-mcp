@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om forskellige rentesatser på studiegældsområdet for første halvår af 2010",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-09",
+  "in_force_date": "2009-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1436/xml",
-  "description": "Retsinformation source. DocumentId=AN010233; AccessionNumber=B20090143605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN010233; AccessionNumber=B20090143605; Ophævet 2010-06-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Misligholdte studielån, slutlån og statslån forrentes med den til enhver tid fastsatte officielle diskonto med et tillæg på 2 procentpoint p.a.",
-      "valid_from": "2009-12-09",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-06-23"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Statsgaranterede studielån, som overføres til Økonomistyrelsen, forrentes med en nominel rente på 2,25 pct. p.a. i perioden 1. januar 2010 til 30. juni 2010.",
-      "valid_from": "2009-12-09",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-06-23"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Indfriede, misligholdte statsgaranterede studielån forrentes med 5,25 pct. p.a. i perioden 1. januar 2010 til 30. juni 2010.",
-      "valid_from": "2009-12-09",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-06-23"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen har virkning for renter der påløber fra og med den 1. januar 2010.",
-      "valid_from": "2009-12-09",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-06-23"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. januar 2010.",
-      "valid_from": "2009-12-09",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-06-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:55:19.293Z",
+    "accession": "B20090143605",
+    "document_id": "AN010233",
+    "unique_document_id": "129359",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-06-23",
+    "seed_status": "repealed"
+  }
 }

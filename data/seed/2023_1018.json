@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undtagelse af udgifter til militære bidrag til Ukraine (Ukrainefonden) fra udgiftslofterne i 2023 og 2024",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-06-29",
+  "in_force_date": "2023-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1018/xml",
-  "description": "Retsinformation source. DocumentId=AE003080; AccessionNumber=B20230101805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE003080; AccessionNumber=B20230101805; Ophævet 2025-02-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Uanset §§ 9-11 i budgetloven omfatter udgiftslofterne i 2023 og 2024 ikke udgifter til militære bidrag til Ukraine, hvor 1) udgifterne i 2023 afholdes på baggrund af udmøntning fra § 35.11.69.11. Udvidelse af Ukrainefond , som optages på forslag til lov om tillægsbevilling for 2023, 2) og udgifterne i 2024 afholdes på baggrund af udmøntning fra § 35.11.69.11. Udvidelse af Ukrainefond , som opføres på forslag til finanslov for 2024 og udmøntes på finansloven for 2024 og/eller på forslag til lov om tillægsbevilling for 2024.",
-      "valid_from": "2023-06-29",
-      "valid_to": null
+      "valid_from": "2023-06-30",
+      "valid_to": "2025-02-05"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 2. juli 2023. Stk. 2. Bekendtgørelsen har virkning for finansåret 2023 og 2024.",
-      "valid_from": "2023-06-29",
-      "valid_to": null
+      "valid_from": "2023-06-30",
+      "valid_to": "2025-02-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:02:23.362Z",
+    "accession": "B20230101805",
+    "document_id": "AE003080",
+    "unique_document_id": "238476",
+    "upstream_status": "Historic",
+    "start_date": "2023-06-30",
+    "end_date": "2025-02-06",
+    "historic_marked": "2025-02-05",
+    "seed_status": "repealed"
+  }
 }

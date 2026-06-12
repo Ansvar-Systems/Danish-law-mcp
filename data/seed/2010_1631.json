@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1631/xml",
   "description": "Retsinformation source. DocumentId=AA005838; AccessionNumber=B20100163105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Justitsministeren antager for hver landsrets område efter drøftelse med præsidenterne for vedkommende landsret og byret samt Advokatrådet et antal advokater, der kan beskikkes i sager efter retsplejelovens § 729 c, stk. 1-5, om fravigelse af forsvarerens og sigtedes ret til aktindsigt. Stk. 2. Advokaterne skal inden antagelsen sikkerhedsgodkendes efter reglerne i Statsministeriets sikkerhedscirkulære herom. Stk. 3. Advokaterne antages for 2 år ad gangen.",
-      "valid_from": "2010-12-21",
+      "valid_from": "2010-12-23",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Advokaterne må kun efter særlig godkendelse fra Justitsministeriet få bistand ved deres arbejde med sagerne. Justitsministeriet kan bestemme, at personer, der yder advokaterne bistand, ligeledes skal sikkerhedsgodkendes, jf. § 1, stk. 2. Stk. 2. Advokaterne og de personer, der eventuelt yder dem bistand, skal håndtere sagernes dokumenter og oplysningerne heri i overensstemmelse med reglerne i Statsministeriets sikkerhedscirkulære herom. Stk. 3. Justitsministeriet kan bistå med opbevaring af dokumenter.",
-      "valid_from": "2010-12-21",
+      "valid_from": "2010-12-23",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2011.",
-      "valid_from": "2010-12-21",
+      "valid_from": "2010-12-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:00:39.345Z",
+    "accession": "B20100163105",
+    "document_id": "AA005838",
+    "unique_document_id": "134763",
+    "upstream_status": "Valid",
+    "start_date": "2010-12-23",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

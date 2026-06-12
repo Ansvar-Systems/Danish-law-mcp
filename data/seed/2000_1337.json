@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opkrævning af skatter og afgifter m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-15",
+  "in_force_date": "2000-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1337/xml",
-  "description": "Retsinformation source. DocumentId=AN002123; AccessionNumber=B20000133705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002123; AccessionNumber=B20000133705; Ophævet 2001-11-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:04:01.731Z",
+    "accession": "B20000133705",
+    "document_id": "AN002123",
+    "unique_document_id": "14801",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-22",
+    "end_date": "2003-06-23",
+    "historic_marked": "2001-11-26",
+    "seed_status": "repealed"
+  }
 }

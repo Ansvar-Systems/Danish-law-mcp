@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om banker og sparekasser m.v. (* 1)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-12-22",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1993/1091/xml",
-  "description": "Retsinformation source. DocumentId=CM025606; AccessionNumber=A19930109130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025606; AccessionNumber=A19930109130; Ophævet 1994-04-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:55:46.440Z",
+    "accession": "A19930109130",
+    "document_id": "CM025606",
+    "unique_document_id": "66478",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1994-04-22",
+    "seed_status": "repealed"
+  }
 }

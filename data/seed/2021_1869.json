@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om inddrivelse af gæld til det offentlige",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-09-23",
+  "in_force_date": "2021-09-29",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1869/xml",
-  "description": "Retsinformation source. DocumentId=AN015131; AccessionNumber=B20210186905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN015131; AccessionNumber=B20210186905; Ophævet 2023-03-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "46a",
@@ -19,9 +20,20 @@
       "provision_ref": "46a",
       "section": "46a",
       "content": "§ 46 a. Hvis automatisk modregning i en bestemt type af udbetaling ikke fuldt ud understøttes af et inddrivelsessystem, kan restanceinddrivelsesmyndigheden undlade at anvende en udbetaling af denne type til modregning i det pågældende system. Restanceinddrivelsesmyndigheden offentliggør kvartalsvist en liste over de udbetalingstyper, for hvilke automatisk modregning fuldt ud understøttes af det enkelte inddrivelsessystem. Stk. 2. Restanceinddrivelsesmyndigheden kan beslutte, at der helt eller delvist ikke skal ske modregning i en udbetaling, selv om den er af en type, der er omfattet af den i stk. 1, 2. pkt., nævnte liste, hvis modregningen ikke kan gennemføres uden manuel sagsbehandling, og det under hensyntagen til tilrettelæggelsen af restanceinddrivelsesmyndighedens drift, udbetalingsfristen, fordringernes beløb eller kompleksiteten af den nødvendige sagsbehandling findes hensigtsmæssigt.",
-      "valid_from": "2021-09-23",
-      "valid_to": null
+      "valid_from": "2021-09-29",
+      "valid_to": "2023-03-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:57:21.087Z",
+    "accession": "B20210186905",
+    "document_id": "AN015131",
+    "unique_document_id": "225100",
+    "upstream_status": "Historic",
+    "start_date": "2021-09-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-28",
+    "seed_status": "repealed"
+  }
 }

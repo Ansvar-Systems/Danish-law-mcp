@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af vedtægt for Danmarks Miljøundersøgelser",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-14",
+  "in_force_date": "2006-01-12",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1477/xml",
-  "description": "Retsinformation source. DocumentId=AL001338; AccessionNumber=B20050147705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001338; AccessionNumber=B20050147705; Ophævet 2011-01-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:08:05.416Z",
+    "accession": "B20050147705",
+    "document_id": "AL001338",
+    "unique_document_id": "12886",
+    "upstream_status": "Historic",
+    "start_date": "2006-01-12",
+    "end_date": "2022-04-09",
+    "historic_marked": "2011-01-20",
+    "seed_status": "repealed"
+  }
 }

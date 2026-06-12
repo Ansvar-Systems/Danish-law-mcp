@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om særlige krav til taxier m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-20",
+  "in_force_date": "2005-01-12",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1531/xml",
-  "description": "Retsinformation source. DocumentId=AR000913; AccessionNumber=B20040153105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000913; AccessionNumber=B20040153105; Ophævet 2006-05-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:14:19.528Z",
+    "accession": "B20040153105",
+    "document_id": "AR000913",
+    "unique_document_id": "22365",
+    "upstream_status": "Historic",
+    "start_date": "2005-01-12",
+    "end_date": "2022-07-07",
+    "historic_marked": "2006-05-12",
+    "seed_status": "repealed"
+  }
 }

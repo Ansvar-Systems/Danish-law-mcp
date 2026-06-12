@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2025-02-26",
+  "in_force_date": "2025-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2025/218/xml",
   "description": "Retsinformation source. DocumentId=BE010169; AccessionNumber=B20250021805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1, 4, 5, 7 og 9, § 2, nr. 1, 2 og 5-15, §§ 3-6, § 7, nr. 1, og §§ 8 og 10-12, i lov nr. 1656 af 30. december 2024 om ændring af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v., lov om arbejdsmiljø og forskellige andre love (Tilpasning af rådsstruktur på beskæftigelses- og arbejdsmiljøområdet, nedlæggelse af Helbredsoplysningsrådet og Jobservice Danmark og afskaffelse af de beskæftigelsespolitiske mål m.v.) sættes i kraft.",
-      "valid_from": "2025-02-26",
+      "valid_from": "2025-02-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. marts 2025.",
-      "valid_from": "2025-02-26",
+      "valid_from": "2025-02-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:03:08.622Z",
+    "accession": "B20250021805",
+    "document_id": "BE010169",
+    "unique_document_id": "248434",
+    "upstream_status": "Valid",
+    "start_date": "2025-02-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

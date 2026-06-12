@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om unges arbejde",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-04-06",
+  "in_force_date": "2005-04-14",
   "url": "https://www.retsinformation.dk/eli/lta/2005/239/xml",
-  "description": "Retsinformation source. DocumentId=BE000808; AccessionNumber=B20050023905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000808; AccessionNumber=B20050023905; Ophævet 2021-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:12:10.517Z",
+    "accession": "B20050023905",
+    "document_id": "BE000808",
+    "unique_document_id": "29935",
+    "upstream_status": "Historic",
+    "start_date": "2005-04-14",
+    "end_date": "2021-06-01",
+    "historic_marked": "2021-05-31",
+    "seed_status": "repealed"
+  }
 }

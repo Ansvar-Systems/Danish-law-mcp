@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ibrugtagning af domstolenes sagsportal i borgerlige retssager og sager om optagelse af bevis om borgerlige krav",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-01-17",
+  "in_force_date": "2018-01-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/36/xml",
-  "description": "Retsinformation source. DocumentId=AA010474; AccessionNumber=B20180003605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA010474; AccessionNumber=B20180003605; Ophævet 2018-01-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Borgerlige retssager og sager om optagelse af bevis om borgerlige krav, som anlægges ved, appelleres eller henvises til følgende retter, skal ikke anlægges eller behandles på domstolenes sagsportal: Retten på Frederiksberg og Højesteret. I disse sager finder de hidtil gældende regler anvendelse, jf. dog stk. 2 og 3. Stk. 2. I sager, som appelleres eller henvises til landsretterne fra de i stk. 1 nævnte retter, finder de hidtil gældende regler anvendelse, jf. dog stk. 3. Stk. 3. Landsretterne kan bestemme, at sager, der appelleres eller henvises efter stk. 2, alligevel skal behandles på domstolenes sagsportal.",
-      "valid_from": "2018-01-17",
-      "valid_to": null
+      "valid_from": "2018-01-18",
+      "valid_to": "2018-01-25"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 29. januar 2018. Stk. 2. Bekendtgørelse nr. 15 af 9. januar 2018 om ibrugtagning af domstolenes sagsportal i borgerlige retssager og sager om optagelse af bevis om borgerlige krav ophæves.",
-      "valid_from": "2018-01-17",
-      "valid_to": null
+      "valid_from": "2018-01-18",
+      "valid_to": "2018-01-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:02:36.627Z",
+    "accession": "B20180003605",
+    "document_id": "AA010474",
+    "unique_document_id": "197100",
+    "upstream_status": "Historic",
+    "start_date": "2018-01-18",
+    "end_date": "2018-01-26",
+    "historic_marked": "2018-01-25",
+    "seed_status": "repealed"
+  }
 }

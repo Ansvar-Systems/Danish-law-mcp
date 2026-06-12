@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-11-29",
+  "in_force_date": "2018-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1389/xml",
   "description": "Retsinformation source. DocumentId=AP000297; AccessionNumber=B20180138905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af netværk, standard it-arbejdsplads, servicedesk og brugeradministration samt informationssikkerheds-, kontrakt- og leverandørstyringsopgaver vedrørende foranstående, der vedrører Erhvervsstyrelsen, i henhold til nærmere aftale mellem erhvervsministeren og ministeren for offentlig innovation overføres fra erhvervsministeren til ministeren for offentlig innovation pr. 1. december 2018.",
-      "valid_from": "2018-11-29",
+      "valid_from": "2018-12-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:38:16.068Z",
+    "accession": "B20180138905",
+    "document_id": "AP000297",
+    "unique_document_id": "205441",
+    "upstream_status": "Valid",
+    "start_date": "2018-12-01",
+    "end_date": "2018-12-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

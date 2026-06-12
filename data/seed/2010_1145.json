@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-09-30",
+  "in_force_date": "2010-10-05",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1145/xml",
   "description": "Retsinformation source. DocumentId=AJ000466; AccessionNumber=B20100114505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Dødsfald, der finder sted her i landet eller om bord i skib eller luftfartøj, hvis første ankomststed efter dødsfaldet er en dansk havn eller lufthavn, skal senest 2 hverdage efter dødsfaldet eller efter skibets eller luftfartøjets ankomst til dansk område anmeldes til personregisterføreren for det sogn, hvor afdøde havde bopæl, jf. dog stk. 2 og 3. Stk. 2. Havde afdøde bopæl i de sønderjyske landsdele, videresendes dødsanmeldelsen til personregisterføreren i den kommune, hvor afdøde boede. Stk. 3. Havde afdøde bopæl på Færøerne, i Grønland eller i udlandet, eller kan der ikke tilvejebringes oplysning om, hvor afdøde boede, skal dødsfaldet anmeldes til personregisterføreren for det sogn, hvor dødsfaldet har fundet sted. Finder dødsfaldet sted under transport med skib, luftfartøj eller på vej til et sygehus, skal anmeldelsen dog ske til personregisterføreren for det sogn, hvor ankomststedet er beliggende. Er dødsstedet ikke fastslået, skal anmeldelsen ske til personregisterføreren for det sogn, hvor liget er fundet.",
-      "valid_from": "2010-09-30",
+      "valid_from": "2010-10-05",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Anmeldelsen foretages af den dødsattestudstedende læge. Indberetningen af dødsfaldet skal ske i Sundhedsstyrelsens Elektroniske Indberetningssystem (SEI). Stk. 2. I de tilfælde, hvor afdøde ikke har et dansk personnummer, afgives anmeldelsen på en godkendt blanket. Sendes blanketten elektronisk ved anvendelse af den sundhedsfagliges digitale signatur, sendes den til doedsfald@personregistrering.dk. Sendes anmeldelsen med almindelig post, anvendes personregisterførerens postadresse.",
-      "valid_from": "2010-09-30",
+      "valid_from": "2010-10-05",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "3",
       "section": "3",
       "content": "§ 3. Personregisterføreren kan pålægge den anmeldelsespligtige og de pårørende til afdøde inden en fastsat frist at dokumentere de ved anmeldelsen afgivne oplysninger.",
-      "valid_from": "2010-09-30",
+      "valid_from": "2010-10-05",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "3",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 6. oktober 2010 og har virkning for anmeldelse af dødsfald, der finder sted fra dette tidspunkt.",
-      "valid_from": "2010-09-30",
+      "valid_from": "2010-10-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:40:47.501Z",
+    "accession": "B20100114505",
+    "document_id": "AJ000466",
+    "unique_document_id": "133508",
+    "upstream_status": "Valid",
+    "start_date": "2010-10-05",
+    "end_date": "2014-07-02",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

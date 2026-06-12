@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-29",
+  "in_force_date": "2020-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2241/xml",
   "description": "Retsinformation source. DocumentId=DC000077; AccessionNumber=B20200224105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Landbrugsstyrelsen foretager importkontrol på alle importer af økologisk foder fra følgende lande: 1) Kasakhstan, Kina, Moldova, Rusland og Ukraine. 2) Tyrkiet.",
-      "valid_from": "2020-12-29",
+      "valid_from": "2020-12-30",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Landbrugsstyrelsen tager minimum én prøve pr. foderparti. Prøvetagningen sker i overensstemmelse med metoderne beskrevet i Kommissionens forordning nr. 691/2013 om ændring af forordning (EF) nr. 152/2009 for så vidt angår prøveudtagnings- og analysemetoder.",
-      "valid_from": "2020-12-29",
+      "valid_from": "2020-12-30",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Der betales ét gebyr på 20.300 kr. pr. foderparti. Dette gebyr skal dække Landbrugsstyrelsens omkostninger ved importkontrol (dokumentkontrol, prøvetagning, laboratorieanalyse, fakturering, sagsbehandling, opfølgende kontrol og administrativt overhead). Stk. 2. Gebyret reguleres årligt på grundlag af det seneste offentliggjorte pris- og lønindeks i Økonomisk-Administrativ Vejledning fra Finansministeriet.",
-      "valid_from": "2020-12-29",
+      "valid_from": "2020-12-30",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Gebyret forfalder ved påkrav, og betaling skal ske senest 30 dage efter fakturaens dato. Stk. 2. Betales forfaldne gebyrer ikke rettidigt, skal der betales en årlig rente svarende til den i renteloven fastsatte referencesats med tillæg for forfaldsdagen at regne. Den tillagte rente udgør dog mindst 50 kr. For erindringsskrivelser betales et gebyr på 100 kr., som reguleres pr. 1. januar med tilpasningsprocenten i lov om en satsreguleringsprocent for det pågældende finansår. Beløbet afrundes til nærmeste hele kronebeløb, der kan deles med 10, jf. § 16, stk. 2, i økologiloven.",
-      "valid_from": "2020-12-29",
+      "valid_from": "2020-12-30",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. januar 2021, jf. dog stk. 2. Stk. 2. § 1, nr. 2, træder i kraft den 1. marts 2021.",
-      "valid_from": "2020-12-29",
+      "valid_from": "2020-12-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:18:21.863Z",
+    "accession": "B20200224105",
+    "document_id": "DC000077",
+    "unique_document_id": "218639",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-30",
+    "end_date": "2022-08-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

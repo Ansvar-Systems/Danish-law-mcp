@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-05-10",
+  "in_force_date": "2017-05-16",
   "url": "https://www.retsinformation.dk/eli/lta/2017/465/xml",
   "description": "Retsinformation source. DocumentId=CN000393; AccessionNumber=B20170046505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 532 af 13. juni 2004 om udstedelse af legitimationskort til personer på 16 år eller derover ophæves.",
-      "valid_from": "2017-05-10",
+      "valid_from": "2017-05-16",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2017.",
-      "valid_from": "2017-05-10",
+      "valid_from": "2017-05-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:19:35.065Z",
+    "accession": "B20170046505",
+    "document_id": "CN000393",
+    "unique_document_id": "188776",
+    "upstream_status": "Valid",
+    "start_date": "2017-05-16",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

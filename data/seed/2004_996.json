@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om indskud på etableringskonto",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-10-08",
+  "in_force_date": "2004-10-18",
   "url": "https://www.retsinformation.dk/eli/lta/2004/996/xml",
-  "description": "Retsinformation source. DocumentId=AN004321; AccessionNumber=A20040099629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004321; AccessionNumber=A20040099629; Ophævet 2005-10-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:48:41.020Z",
+    "accession": "A20040099629",
+    "document_id": "AN004321",
+    "unique_document_id": "16592",
+    "upstream_status": "Historic",
+    "start_date": "2004-10-18",
+    "end_date": "2024-11-22",
+    "historic_marked": "2005-10-20",
+    "seed_status": "repealed"
+  }
 }

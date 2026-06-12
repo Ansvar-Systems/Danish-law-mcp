@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2019-01-09",
+  "in_force_date": "2019-01-19",
   "url": "https://www.retsinformation.dk/eli/lta/2019/51/xml",
   "description": "Retsinformation source. DocumentId=CE000777; AccessionNumber=B20190005105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "22",
       "section": "22",
       "content": "§ 22. Ved uansøgt afsked af en ansat, der har været uafbrudt beskæftiget ved institutionen i 12 eller 17 år, skal institutionen ved den ansattes fratræden udrede et beløb svarende til henholdsvis 1 og 3 måneders løn. Tjenestefrihed med løn medregnes i beskæftigelsesperioden. Stk. 2. Stk. 1 finder ikke anvendelse i tilfælde, hvor afskeden er begrundet i, at den ansatte som følge af strafbart forhold, tjenesteforseelse eller mislighed er uskikket til at forblive i stillingen.",
-      "valid_from": "2019-01-09",
+      "valid_from": "2019-01-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:08:39.633Z",
+    "accession": "B20190005105",
+    "document_id": "CE000777",
+    "unique_document_id": "206549",
+    "upstream_status": "Valid",
+    "start_date": "2019-01-19",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

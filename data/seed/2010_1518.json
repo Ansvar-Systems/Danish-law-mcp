@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering pr. 1. januar 2011 af satser for kost og logi ved formidlet døgnophold efter lov om social service",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-16",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1518/xml",
-  "description": "Retsinformation source. DocumentId=AO003687; AccessionNumber=B20100151805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO003687; AccessionNumber=B20100151805; Ophævet 2014-10-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Satser for godtgørelse af udgifter til kost og logi i forbindelse med formidlet døgnophold, herunder familiepleje, for børn og unge udgør i 2011: 17 194 72 1) 17 For 1. og 2. barn 194 72 17 pr. døgn pr. barn (under 10 år) 194 160,00 kr. 72 2) 17 For 1. og 2. barn 194 72 17 pr. døgn pr. barn eller ung 194 72 17 (på 10 år og derover) 194 169,00 kr. 72 3) 17 For 3. barn og derover 194 72 17 pr. døgn pr. barn eller ung uanset alder 194 148,00 kr. 72 17 194 72 SchultzColumns: 17 194 72; 0 0 0 center 284",
-      "valid_from": "2010-12-16",
-      "valid_to": null
+      "valid_from": "2010-12-21",
+      "valid_to": "2014-10-07"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2011.",
-      "valid_from": "2010-12-16",
-      "valid_to": null
+      "valid_from": "2010-12-21",
+      "valid_to": "2014-10-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:56:02.048Z",
+    "accession": "B20100151805",
+    "document_id": "AO003687",
+    "unique_document_id": "135045",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2022-07-08",
+    "historic_marked": "2014-10-07",
+    "seed_status": "repealed"
+  }
 }

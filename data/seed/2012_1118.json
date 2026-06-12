@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om undervisningsplan for køreuddannelsen til motorcykel (kategori A)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-11-25",
+  "in_force_date": "2012-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1118/xml",
-  "description": "Retsinformation source. DocumentId=AA006821; AccessionNumber=B20120111805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA006821; AccessionNumber=B20120111805; Ophævet 2014-03-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Undervisning af elever med henblik på erhvervelse af kørekort til kategori A1, kategori A2 og kategori A skal foregå i overensstemmelse med undervisningsplanen for køreuddannelsen til motorcykel, der er optaget som bilag til bekendtgørelse nr. 92 af 16. januar 2009, som ændret ved bekendtgørelse nr. 1420 af 28. november 2011.",
-      "valid_from": "2012-11-25",
-      "valid_to": null
+      "valid_from": "2012-11-30",
+      "valid_to": "2014-03-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:34:48.830Z",
+    "accession": "B20120111805",
+    "document_id": "AA006821",
+    "unique_document_id": "144172",
+    "upstream_status": "Historic",
+    "start_date": "2012-11-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-03-17",
+    "seed_status": "repealed"
+  }
 }

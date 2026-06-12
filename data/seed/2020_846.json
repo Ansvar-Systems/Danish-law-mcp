@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 2, nr. 2, i lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, lov om apoteksvirksomhed, sundhedsloven og forskellige andre love (Autorisation af ambulancebehandlere og registrering af ambulancebehandlere med særlig kompetence (paramedicinere), opgavespecifik autorisation af behandlerfarmaceuter, genordination af receptpligtig medicin, ordination af dosisdispensering med tilskud, organisatorisk ansvar m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-09",
+  "in_force_date": "2020-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2020/846/xml",
-  "description": "Retsinformation source. DocumentId=CN001279; AccessionNumber=B20200084605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN001279; AccessionNumber=B20200084605; Ophævet 2023-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 2, nr. 2, i lov nr. 1555 af 18. december 2018 om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, lov om apoteksvirksomhed, sundhedsloven og forskellige andre love (Autorisation af ambulancebehandlere og registrering af ambulancebehandlere med særlig kompetence (paramedicinere), opgavespecifik autorisation af behandlerfarmaceuter, genordination af receptpligtig medicin, ordination af dosisdispense‐ ring med tilskud, organisatorisk ansvar m.v.) sættes i kraft.",
-      "valid_from": "2020-06-09",
-      "valid_to": null
+      "valid_from": "2020-06-12",
+      "valid_to": "2023-06-09"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juni 2020.",
-      "valid_from": "2020-06-09",
-      "valid_to": null
+      "valid_from": "2020-06-12",
+      "valid_to": "2023-06-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:45:36.296Z",
+    "accession": "B20200084605",
+    "document_id": "CN001279",
+    "unique_document_id": "215031",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-12",
+    "end_date": "2023-06-10",
+    "historic_marked": "2023-06-09",
+    "seed_status": "repealed"
+  }
 }

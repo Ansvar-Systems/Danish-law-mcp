@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tankstationers salg af visse olieprodukter",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-11-01",
+  "in_force_date": "2000-11-13",
   "url": "https://www.retsinformation.dk/eli/lta/2000/987/xml",
-  "description": "Retsinformation source. DocumentId=AN001525; AccessionNumber=B20000098705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001525; AccessionNumber=B20000098705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:41:28.378Z",
+    "accession": "B20000098705",
+    "document_id": "AN001525",
+    "unique_document_id": "14308",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-13",
+    "end_date": "2006-04-24",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

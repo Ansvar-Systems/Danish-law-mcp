@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af pensionsafkastbeskatningsloven, pensionsbeskatningsloven og forskellige andre love\\n(Forlængelse af ratepensionsordninger under udbetaling, justering af reglerne for pensionsordninger med løbende udbetalinger og krav til placering af midlerne i godkendte udenlandske pensionsordninger m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1561/xml",
-  "description": "Retsinformation source. DocumentId=AN010589; AccessionNumber=A20100156130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN010589; AccessionNumber=A20100156130; Ophævet 2013-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "36",
@@ -20,8 +21,19 @@
       "section": "36",
       "content": "§ 36 a. Renter af skattebeløb efter lov om beskatning af visse pensionskapitaler m.v. (pensionsafkastbeskatningsloven), jf. lovbekendtgørelse nr. 1075 af 5. november 2006, henføres til betalingsåret.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2013-06-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:57:48.220Z",
+    "accession": "A20100156130",
+    "document_id": "AN010589",
+    "unique_document_id": "135244",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-06-06",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forretningsorden for Stormrådet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-13",
+  "in_force_date": "2001-02-22",
   "url": "https://www.retsinformation.dk/eli/lta/2001/102/xml",
-  "description": "Retsinformation source. DocumentId=AU000282; AccessionNumber=B20010010205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000282; AccessionNumber=B20010010205; Ophævet 2010-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:42:50.715Z",
+    "accession": "B20010010205",
+    "document_id": "AU000282",
+    "unique_document_id": "25705",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-22",
+    "end_date": "2017-12-08",
+    "historic_marked": "2010-12-20",
+    "seed_status": "repealed"
+  }
 }

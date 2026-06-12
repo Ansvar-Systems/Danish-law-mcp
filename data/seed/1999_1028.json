@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Telestyrelsens gebyrer og afgifter i 2000",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-16",
+  "in_force_date": "1999-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1028/xml",
-  "description": "Retsinformation source. DocumentId=AF000102; AccessionNumber=B19990102805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000102; AccessionNumber=B19990102805; Ophævet 2002-05-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:08:44.085Z",
+    "accession": "B19990102805",
+    "document_id": "AF000102",
+    "unique_document_id": "6152",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-28",
+    "end_date": "2026-06-04",
+    "historic_marked": "2002-05-23",
+    "seed_status": "repealed"
+  }
 }

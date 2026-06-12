@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2025-12-03",
+  "in_force_date": "2025-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1507/xml",
   "description": "Retsinformation source. DocumentId=DB001313; AccessionNumber=B20250150705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "12a",
       "section": "12a",
       "content": "§ 12 a. Ved fastsættelse af transmissionsvirksomhedens indtægtsramme foretages en 1-årig justering for utilstrækkelig kapacitet. Stk. 2. Justering efter stk. 1 opgøres som et beløbsmæssigt fradrag fra indtægtsrammen og fastsættes efter metoden beskrevet i bilag 4.",
-      "valid_from": "2025-12-03",
+      "valid_from": "2025-12-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:47:51.529Z",
+    "accession": "B20250150705",
+    "document_id": "DB001313",
+    "unique_document_id": "254092",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-04",
+    "end_date": "2025-12-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

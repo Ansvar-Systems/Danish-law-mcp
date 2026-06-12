@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af forældelsesloven\\n(Forældelse af udestående selskabsindskud)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-26",
+  "in_force_date": "2013-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1622/xml",
-  "description": "Retsinformation source. DocumentId=AA007538; AccessionNumber=A20130162230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007538; AccessionNumber=A20130162230; Ophævet 2015-11-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2 a. For fordringer, som støttes på skriftlig aftale om indskud i et selskab, regnes forældelsesfristen tidligst fra det tidspunkt, hvor selskabet beslutter at indkalde indskuddet. Uanset 1. pkt. regnes forældelsesfristen dog senest fra 10 år efter begyndelsestidspunktet i henhold til § 2. Align",
-      "valid_from": "2013-12-26",
-      "valid_to": null
+      "valid_from": "2013-12-27",
+      "valid_to": "2015-11-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:18.623Z",
+    "accession": "A20130162230",
+    "document_id": "AA007538",
+    "unique_document_id": "161089",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-27",
+    "end_date": "2015-11-12",
+    "historic_marked": "2015-11-11",
+    "seed_status": "repealed"
+  }
 }

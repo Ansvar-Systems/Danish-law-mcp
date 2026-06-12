@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om værdipapirhandel m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-01",
+  "in_force_date": "2006-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2006/479/xml",
-  "description": "Retsinformation source. DocumentId=AU002518; AccessionNumber=A20060047929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002518; AccessionNumber=A20060047929; Ophævet 2007-09-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:25:32.209Z",
+    "accession": "A20060047929",
+    "document_id": "AU002518",
+    "unique_document_id": "27304",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-08",
+    "end_date": "2023-11-08",
+    "historic_marked": "2007-09-20",
+    "seed_status": "repealed"
+  }
 }

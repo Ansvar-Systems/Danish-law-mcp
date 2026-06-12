@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kemiske stoffer og produkter og lov om miljøbeskyttelse\\n(Forebyggelse af forsætlige skadevoldende handlinger med farlige stoffer og forlængelse af godkendelsen for visse bekæmpelsesmidler m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-02-10",
+  "in_force_date": "2009-02-10",
   "url": "https://www.retsinformation.dk/eli/lta/2009/97/xml",
-  "description": "Retsinformation source. DocumentId=AL001937; AccessionNumber=A20090009730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001937; AccessionNumber=A20090009730; Ophævet 2010-07-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "42",
@@ -25,15 +26,26 @@
       "section": "42",
       "content": "§ 42 a. Miljøministeren kan fastsætte regler om indgivelse af politianmeldelse ved mistanke om tyveri af meget giftige eller giftige kemiske stoffer og produkter, herunder om formen.",
       "valid_from": "2009-02-10",
-      "valid_to": null
+      "valid_to": "2010-07-08"
     },
     {
       "provision_ref": "43",
       "section": "43",
       "content": "§ 43 a. Miljøministeren kan fastsætte regler om, at visse laboratorier skal etablere et system til styring af beholdninger af meget giftige eller giftige kemiske stoffer og produkter, herunder at der skal udpeges en ansvarlig for et sådant system.",
       "valid_from": "2009-02-10",
-      "valid_to": null
+      "valid_to": "2010-07-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:33:35.153Z",
+    "accession": "A20090009730",
+    "document_id": "AL001937",
+    "unique_document_id": "123312",
+    "upstream_status": "Historic",
+    "start_date": "2009-02-10",
+    "end_date": "2022-04-09",
+    "historic_marked": "2010-07-08",
+    "seed_status": "repealed"
+  }
 }

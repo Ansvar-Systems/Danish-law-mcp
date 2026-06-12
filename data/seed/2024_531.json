@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-05-16",
+  "in_force_date": "2024-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2024/531/xml",
   "description": "Retsinformation source. DocumentId=BE009909; AccessionNumber=B20240053105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Tilgodehavende feriemidler, som arbejdsgiveren efter § 6, stk. 1, i lov om forvaltning og administration af tilgodehavende feriemidler, beholder i virksomheden, indekseres i perioden 1. juni 2023 til 31. maj 2024 med en indekseringsfaktor på 3,1 pct. årligt, således at indekseringsfaktoren er 1/12-del af den årlige indekseringsfaktor pr. påbegyndt kalendermåned.",
-      "valid_from": "2024-05-16",
+      "valid_from": "2024-05-29",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 31. maj 2024.",
-      "valid_from": "2024-05-16",
+      "valid_from": "2024-05-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:08:18.625Z",
+    "accession": "B20240053105",
+    "document_id": "BE009909",
+    "unique_document_id": "243659",
+    "upstream_status": "Valid",
+    "start_date": "2024-05-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilkaldelse af lods mv.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-07-04",
+  "in_force_date": "2002-07-11",
   "url": "https://www.retsinformation.dk/eli/lta/2002/562/xml",
-  "description": "Retsinformation source. DocumentId=AG000110; AccessionNumber=B20020056205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000110; AccessionNumber=B20020056205; Ophævet 2003-10-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:49:25.556Z",
+    "accession": "B20020056205",
+    "document_id": "AG000110",
+    "unique_document_id": "6335",
+    "upstream_status": "Historic",
+    "start_date": "2002-07-11",
+    "end_date": "2026-02-20",
+    "historic_marked": "2003-10-20",
+    "seed_status": "repealed"
+  }
 }

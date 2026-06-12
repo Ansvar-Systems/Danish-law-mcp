@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om afmærkning af visse køretøjer med gult blinklys.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1964-08-28",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1964/270/xml",
-  "description": "Retsinformation source. DocumentId=CM008724; AccessionNumber=B19640027005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008724; AccessionNumber=B19640027005; Ophævet 2015-04-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:08:57.236Z",
+    "accession": "B19640027005",
+    "document_id": "CM008724",
+    "unique_document_id": "49910",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2015-04-27",
+    "seed_status": "repealed"
+  }
 }

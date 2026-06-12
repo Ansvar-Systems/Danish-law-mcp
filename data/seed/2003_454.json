@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om realkreditlån og realkreditobligationer m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-10",
+  "in_force_date": "2003-06-10",
   "url": "https://www.retsinformation.dk/eli/lta/2003/454/xml",
-  "description": "Retsinformation source. DocumentId=AU001102; AccessionNumber=A20030045430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001102; AccessionNumber=A20030045430; Ophævet 2007-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:30:53.393Z",
+    "accession": "A20030045430",
+    "document_id": "AU001102",
+    "unique_document_id": "26295",
+    "upstream_status": "Historic",
+    "start_date": "2003-06-10",
+    "end_date": "2017-12-08",
+    "historic_marked": "2007-12-20",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2016-02-25",
+  "in_force_date": "2016-02-26",
   "url": "https://www.retsinformation.dk/eli/lta/2016/144/xml",
   "description": "Retsinformation source. DocumentId=BP001575; AccessionNumber=B20160014405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne i designlovens kapitel 10 om international designregistrering sættes i kraft for Færøerne.",
-      "valid_from": "2016-02-25",
+      "valid_from": "2016-02-26",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 13. april 2016.",
-      "valid_from": "2016-02-25",
+      "valid_from": "2016-02-26",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:49:46.240Z",
+    "accession": "B20160014405",
+    "document_id": "BP001575",
+    "unique_document_id": "177368",
+    "upstream_status": "Valid",
+    "start_date": "2016-02-26",
+    "end_date": "2017-12-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

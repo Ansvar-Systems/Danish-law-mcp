@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om østersfiskeri i Limfjorden",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-08-30",
+  "in_force_date": "2004-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2004/894/xml",
-  "description": "Retsinformation source. DocumentId=AH001955; AccessionNumber=B20040089405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001955; AccessionNumber=B20040089405; Ophævet 2005-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:44:33.941Z",
+    "accession": "B20040089405",
+    "document_id": "AH001955",
+    "unique_document_id": "8153",
+    "upstream_status": "Historic",
+    "start_date": "2004-08-30",
+    "end_date": "2022-04-08",
+    "historic_marked": "2005-08-30",
+    "seed_status": "repealed"
+  }
 }

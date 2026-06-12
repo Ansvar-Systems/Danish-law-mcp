@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelse til sundhedssekretær",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-07",
+  "in_force_date": "2004-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1197/xml",
-  "description": "Retsinformation source. DocumentId=AT002003; AccessionNumber=B20040119705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002003; AccessionNumber=B20040119705; Ophævet 2006-07-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:00:52.760Z",
+    "accession": "B20040119705",
+    "document_id": "AT002003",
+    "unique_document_id": "24677",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-16",
+    "end_date": "2021-01-08",
+    "historic_marked": "2006-07-20",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-03-06",
+  "in_force_date": "2014-03-08",
   "url": "https://www.retsinformation.dk/eli/lta/2014/206/xml",
-  "description": "Retsinformation source. DocumentId=BP000836; AccessionNumber=B20140020605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000836; AccessionNumber=B20140020605; Ophævet 2015-03-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Omsætningsgrænsen i § 5, stk. 1, og bagatelgrænsen i § 5, stk. 4, i lov om detailsalg fra butikker m.v. udgør henholdsvis 33,1 mio. kr. inkl. moms og 14,3 mio. kr. inkl. moms.",
-      "valid_from": "2014-03-06",
-      "valid_to": null
+      "valid_from": "2014-03-08",
+      "valid_to": "2015-03-19"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 19. marts 2014. Stk. 2. Bekendtgørelse nr. 236 af 8. marts 2013 om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v. ophæves.",
-      "valid_from": "2014-03-06",
-      "valid_to": null
+      "valid_from": "2014-03-08",
+      "valid_to": "2015-03-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:53:20.414Z",
+    "accession": "B20140020605",
+    "document_id": "BP000836",
+    "unique_document_id": "162051",
+    "upstream_status": "Historic",
+    "start_date": "2014-03-08",
+    "end_date": "2017-12-09",
+    "historic_marked": "2015-03-19",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om tipning.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1977-02-25",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1977/66/xml",
-  "description": "Retsinformation source. DocumentId=CM021906; AccessionNumber=A19770006629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM021906; AccessionNumber=A19770006629; Ophævet 1989-04-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:59:01.455Z",
+    "accession": "A19770006629",
+    "document_id": "CM021906",
+    "unique_document_id": "62886",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2004-04-27",
+    "historic_marked": "1989-04-10",
+    "seed_status": "repealed"
+  }
 }

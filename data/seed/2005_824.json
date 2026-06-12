@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-25",
+  "in_force_date": "2005-09-01",
   "url": "https://www.retsinformation.dk/eli/lta/2005/824/xml",
-  "description": "Retsinformation source. DocumentId=AN004764; AccessionNumber=A20050082429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004764; AccessionNumber=A20050082429; Ophævet 2006-11-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:35:47.903Z",
+    "accession": "A20050082429",
+    "document_id": "AN004764",
+    "unique_document_id": "16918",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2006-11-20",
+    "seed_status": "repealed"
+  }
 }

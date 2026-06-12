@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2024-04-09",
+  "in_force_date": "2024-04-09",
   "url": "https://www.retsinformation.dk/eli/lta/2024/335/xml",
   "description": "Retsinformation source. DocumentId=CQ002648; AccessionNumber=A20240033529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1534,5 +1535,16 @@
       "definition": "hovmestre, maskinmestre, radiotelegrafister og styrmænd",
       "source_provision": "2:36"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:24.343Z",
+    "accession": "A20240033529",
+    "document_id": "CQ002648",
+    "unique_document_id": "239122",
+    "upstream_status": "Valid",
+    "start_date": "2024-04-09",
+    "end_date": "2025-05-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

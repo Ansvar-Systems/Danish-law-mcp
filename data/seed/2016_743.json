@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om rådighed",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-06-17",
+  "in_force_date": "2016-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2016/743/xml",
-  "description": "Retsinformation source. DocumentId=BE006845; AccessionNumber=B20160074305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006845; AccessionNumber=B20160074305; Ophævet 2017-04-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -24,16 +25,27 @@
       "provision_ref": "9a",
       "section": "9a",
       "content": "§ 9 a. Et medlem har pligt til selv at booke jobsamtaler i jobcenteret eller hos anden aktør og rådighedssamtaler hos a-kassen, jf. bekendtgørelse om en aktiv beskæftigelsesindsats og § 9 b.",
-      "valid_from": "2016-06-17",
-      "valid_to": null
+      "valid_from": "2016-06-21",
+      "valid_to": "2017-04-27"
     },
     {
       "provision_ref": "9b",
       "section": "9b",
       "content": "§ 9 b. Et medlem har pligt til selv at booke 2 rådighedssamtaler inden for de første 6 måneders sammenlagt ledighed, jf. § 35, stk. 1, i a-kassens selvbookingsystem. Pligten til selv at booke samtaler gælder, uanset om en samtale skal holdes ved personligt fremmøde eller på anden vis. Stk. 2. Medlemmet skal booke hver af samtalerne inden for en frist, som fastsættes af a-kassen. Stk. 3. Hvis medlemmet ikke har booket samtalen inden for fristen, afmelder a-kassen medlemmet som arbejdssøgende i jobcenteret. Afmeldingen sker med virkning fra og med dagen efter a-kassens frist, jf. bekendtgørelse om en aktiv beskæftigelsesindsats. Stk. 4. Hvis medlemmet er blevet afmeldt, fordi medlemmet ikke selv har booket en samtale, skal a-kassen fastsætte en ny frist for booking af en samtale, når medlemmet igen tilmelder sig som arbejdssøgende i jobcentret. Hvis medlemmet ikke har booket samtalen inden for fristen, afmelder a-kassen medlemmet som arbejdssøgende i jobcenteret. Afmeldingen sker med virkning fra og med dagen efter a-kassens frist, jf. bekendtgørelse om en aktiv beskæftigelsesindsats. Stk. 5. Medlemmet har mulighed for at ombooke en samtale inden for den af a-kassen fastsatte frist i det omfang, der er ledige tider. Stk. 6. A-kassen kan i helt særlige tilfælde fratage et medlem retten til selv at booke samtaler, hvis a-kassen finder, at medlemmet booker samtaler på en anden måde end aftalt. Stk. 7. A-kassen kan fritage et medlem for pligten til selv at booke samtaler, hvis afholdelsen af samtaler er betinget af særlige lokaliteter eller deltagelse af tolk, medmindre medlemmet ikke ønsker at blive fritaget. Stk. 8. A-kassen kan efter anmodning fra et medlem, fritage medlemmet for pligten til selv at booke samtaler, hvis a-kassen vurderer, at det er uforholdsmæssigt svært eller umuligt for medlemmet selv at booke samtaler, fordi 1) medlemmet har meget ringe it-kundskaber, 2) medlemmet har betydelige sproglige barrierer bestående i manglende beherskelse af dansk, eller 3) medlemmet har betydelig fysisk, kognitiv eller psykisk funktionsnedsættelse. Stk. 9. Et medlem, der er fritaget for selv at booke samtaler efter stk. 8, kan henvende sig til a-kassen, hvis medlemmet ønsker fremadrettet selv at booke samtaler eller ombooke samtaler.",
-      "valid_from": "2016-06-17",
-      "valid_to": null
+      "valid_from": "2016-06-21",
+      "valid_to": "2017-04-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:26:26.415Z",
+    "accession": "B20160074305",
+    "document_id": "BE006845",
+    "unique_document_id": "181944",
+    "upstream_status": "Historic",
+    "start_date": "2016-06-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-04-27",
+    "seed_status": "repealed"
+  }
 }

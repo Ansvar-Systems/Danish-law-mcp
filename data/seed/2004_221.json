@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige skattelove",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-31",
+  "in_force_date": "2004-03-31",
   "url": "https://www.retsinformation.dk/eli/lta/2004/221/xml",
-  "description": "Retsinformation source. DocumentId=AN004120; AccessionNumber=A20040022130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004120; AccessionNumber=A20040022130; Ophævet 2006-05-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:17:26.738Z",
+    "accession": "A20040022130",
+    "document_id": "AN004120",
+    "unique_document_id": "16415",
+    "upstream_status": "Historic",
+    "start_date": "2004-03-31",
+    "end_date": "2026-04-09",
+    "historic_marked": "2006-05-15",
+    "seed_status": "repealed"
+  }
 }

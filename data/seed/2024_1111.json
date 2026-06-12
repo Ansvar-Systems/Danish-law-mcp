@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-10-28",
+  "in_force_date": "2024-10-28",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1111/xml",
   "description": "Retsinformation source. DocumentId=CQ002958; AccessionNumber=B20240111105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -101,5 +102,16 @@
       "definition": "et bredt teknologisk felt, der udnytter principperne fra kvantemekanikken",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:27:02.264Z",
+    "accession": "B20240111105",
+    "document_id": "CQ002958",
+    "unique_document_id": "245445",
+    "upstream_status": "Valid",
+    "start_date": "2024-10-28",
+    "end_date": "2024-10-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

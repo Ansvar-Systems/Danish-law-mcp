@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2007-10-19",
+  "in_force_date": "2007-10-30",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1221/xml",
   "description": "Retsinformation source. DocumentId=AA003926; AccessionNumber=B20070122105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Udnævnelse og afskedigelse af tjenestemænd i lønramme 1-35 i politiet foretages af rigspolitichefen. Dog kan udnævnelse af tjenestemænd i lønramme 1-31 i politisektoren og af tjenestemænd i lønramme 1-35 i den administrative sektor foretages af vedkommende politidirektør. Stk. 2. Uansøgt afsked kan kun foretages af justitsministeren. Afskedigelse af tjenestemænd på prøve i politiet foretages dog af rigspolitichefen.",
-      "valid_from": "2007-10-19",
+      "valid_from": "2007-10-30",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Justitsministeren foretager udnævnelse i og afskedigelse fra stillinger, hvor det er en forudsætning for ansættelse, at indehaveren har juridisk kandidateksamen.",
-      "valid_from": "2007-10-19",
+      "valid_from": "2007-10-30",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. november 2007. Stk. 2. Bekendtgørelse nr. 12 af 13. januar 2004 om udnævnelse og afskedigelse af tjenestemænd i lønramme 1-35 i politiet ophæves.",
-      "valid_from": "2007-10-19",
+      "valid_from": "2007-10-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:55:31.288Z",
+    "accession": "B20070122105",
+    "document_id": "AA003926",
+    "unique_document_id": "105329",
+    "upstream_status": "Valid",
+    "start_date": "2007-10-30",
+    "end_date": "2017-05-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

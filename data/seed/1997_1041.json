@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om pligtaflevering af udgivne værker",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-12-17",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1997/1041/xml",
-  "description": "Retsinformation source. DocumentId=CM046104; AccessionNumber=B19970104105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046104; AccessionNumber=B19970104105; Ophævet 2004-12-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:49:02.961Z",
+    "accession": "B19970104105",
+    "document_id": "CM046104",
+    "unique_document_id": "86371",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2013-02-20",
+    "historic_marked": "2004-12-26",
+    "seed_status": "repealed"
+  }
 }

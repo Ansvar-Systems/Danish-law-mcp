@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-09-09",
+  "in_force_date": "2021-09-10",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1801/xml",
   "description": "Retsinformation source. DocumentId=DI000295; AccessionNumber=B20210180105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse omfatter enhver autoriseret sundhedsperson og personer, der handler på disses ansvar, som udfører eller i øvrigt er behandlingsmæssigt ansvarlig for udførelse af test for infektion med COVID-19 (severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)), hvor resultatet efter bekendtgørelse om anmeldelse af COVID-19 er anmeldelsespligtigt til Statens Serum Institut, jf. dog stk. 2. Stk. 2. Test for infektion med COVID-19, som udføres på behandlingsindikation af en læge eller efter henvisning fra en læge, er ikke omfattet af denne bekendtgørelse.",
-      "valid_from": "2021-09-09",
+      "valid_from": "2021-09-10",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ved foretagelse af en test for COVID-19, skal patientjournalen indeholde oplysninger om patientens identitet, jf. bekendtgørelse om autoriserede sundhedspersoners patientjournaler § 12, stk. 1 og 2, aktiveret prøverekvisition, dato for prøvetagningen og eventuelt modtaget testsvar. Stk. 2. Der er ikke pligt til at journalføre øvrige oplysninger, herunder oplysninger om den behandlende sundhedsperson, indikation for foretagelse af testen, information og samtykke, udførelse af testen samt eventuelle komplikationer og bivirkninger i forbindelse med udførelse af testen m.v.",
-      "valid_from": "2021-09-09",
+      "valid_from": "2021-09-10",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Øvrige forpligtelser i forbindelse med foretagelse af test for COVID-19, som følger af lov eller bestemmelser fastsat i medfør af lov, herunder blandt andet identifikation af patienten, mærkning af prøver, anmeldelse af testresultat m.v. finder fortsat anvendelse.",
-      "valid_from": "2021-09-09",
+      "valid_from": "2021-09-10",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Behandlingssteder, hvor der udføres test omfattet af § 1, stk. 1, skal opbevare journaloplysninger omfattet af § 2, stk. 1, i mindst 5 år.",
-      "valid_from": "2021-09-09",
+      "valid_from": "2021-09-10",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 12. september 2021.",
-      "valid_from": "2021-09-09",
+      "valid_from": "2021-09-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:39.871Z",
+    "accession": "B20210180105",
+    "document_id": "DI000295",
+    "unique_document_id": "224864",
+    "upstream_status": "Valid",
+    "start_date": "2021-09-10",
+    "end_date": "2024-09-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Det Sociale Informations- og Analysesystem",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-12-10",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1997/935/xml",
-  "description": "Retsinformation source. DocumentId=CM045992; AccessionNumber=B19970093505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM045992; AccessionNumber=B19970093505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:25:42.409Z",
+    "accession": "B19970093505",
+    "document_id": "CM045992",
+    "unique_document_id": "86265",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2022-07-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

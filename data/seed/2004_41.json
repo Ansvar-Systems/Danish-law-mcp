@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om BVD hos kvæg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-01-27",
+  "in_force_date": "2004-02-05",
   "url": "https://www.retsinformation.dk/eli/lta/2004/41/xml",
-  "description": "Retsinformation source. DocumentId=AH001723; AccessionNumber=B20040004105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001723; AccessionNumber=B20040004105; Ophævet 2004-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:25:01.233Z",
+    "accession": "B20040004105",
+    "document_id": "AH001723",
+    "unique_document_id": "7941",
+    "upstream_status": "Historic",
+    "start_date": "2004-02-05",
+    "end_date": "2022-04-09",
+    "historic_marked": "2004-12-22",
+    "seed_status": "repealed"
+  }
 }

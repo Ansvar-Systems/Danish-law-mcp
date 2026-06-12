@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-06-06",
+  "in_force_date": "2023-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2023/683/xml",
   "description": "Retsinformation source. DocumentId=DA001132; AccessionNumber=B20230068305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -227,5 +228,16 @@
       "definition": "i denne bekendtgørelse pædagoger, særlige ressourcepædagoger, pædagogiske assistenter og pædagogmedhjælpere",
       "source_provision": "2:8"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:57:06.792Z",
+    "accession": "B20230068305",
+    "document_id": "DA001132",
+    "unique_document_id": "237856",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-06",
+    "end_date": "2025-08-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

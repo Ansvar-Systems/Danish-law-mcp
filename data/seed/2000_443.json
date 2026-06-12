@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om spillekasinoer",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/443/xml",
-  "description": "Retsinformation source. DocumentId=AA001103; AccessionNumber=A20000044330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001103; AccessionNumber=A20000044330; Ophævet 2013-02-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:19:33.970Z",
+    "accession": "A20000044330",
+    "document_id": "AA001103",
+    "unique_document_id": "829",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2016-01-27",
+    "historic_marked": "2013-02-19",
+    "seed_status": "repealed"
+  }
 }

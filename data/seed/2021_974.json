@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2021-05-20",
+  "in_force_date": "2021-05-21",
   "url": "https://www.retsinformation.dk/eli/lta/2021/974/xml",
   "description": "Retsinformation source. DocumentId=AN014931; AccessionNumber=B20210097405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "4a",
       "section": "4a",
       "content": "§ 4 a. Den skriftlige dokumentation for kontrollerede transaktioner, som er nævnt i skattekontrollovens § 39, stk. 1, 1. pkt., skal indgives digitalt efter anvisning fra Skatteforvaltningen.",
-      "valid_from": "2021-05-20",
+      "valid_from": "2021-05-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:00:23.590Z",
+    "accession": "B20210097405",
+    "document_id": "AN014931",
+    "unique_document_id": "222934",
+    "upstream_status": "Valid",
+    "start_date": "2021-05-21",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

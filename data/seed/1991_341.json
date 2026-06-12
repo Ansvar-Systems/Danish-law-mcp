@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Varemærkelov(* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-06",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1991/341/xml",
-  "description": "Retsinformation source. DocumentId=CM025479; AccessionNumber=A19910034130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025479; AccessionNumber=A19910034130; Ophævet 1997-03-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:43:53.898Z",
+    "accession": "A19910034130",
+    "document_id": "CM025479",
+    "unique_document_id": "66356",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1997-03-14",
+    "seed_status": "repealed"
+  }
 }

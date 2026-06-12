@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om grundskyld til staten af landbrugsejendomme",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1979-12-28",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1979/541/xml",
-  "description": "Retsinformation source. DocumentId=CM022653; AccessionNumber=A19790054130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022653; AccessionNumber=A19790054130; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:58:16.472Z",
+    "accession": "A19790054130",
+    "document_id": "CM022653",
+    "unique_document_id": "63633",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2005-11-18",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

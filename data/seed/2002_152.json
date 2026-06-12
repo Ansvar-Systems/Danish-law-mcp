@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om folkeregistrering",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-02-26",
+  "in_force_date": "2002-03-26",
   "url": "https://www.retsinformation.dk/eli/lta/2002/152/xml",
-  "description": "Retsinformation source. DocumentId=AI000634; AccessionNumber=B20020015205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000634; AccessionNumber=B20020015205; Ophævet 2004-02-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:33:11.854Z",
+    "accession": "B20020015205",
+    "document_id": "AI000634",
+    "unique_document_id": "9105",
+    "upstream_status": "Historic",
+    "start_date": "2002-03-26",
+    "end_date": "2023-04-28",
+    "historic_marked": "2004-02-20",
+    "seed_status": "repealed"
+  }
 }

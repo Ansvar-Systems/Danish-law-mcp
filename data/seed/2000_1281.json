@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af virksomhedsskatteloven og personskatteloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1281/xml",
-  "description": "Retsinformation source. DocumentId=AN002146; AccessionNumber=A20000128130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002146; AccessionNumber=A20000128130; Ophævet 2002-08-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:01:47.544Z",
+    "accession": "A20000128130",
+    "document_id": "AN002146",
+    "unique_document_id": "14822",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-20",
+    "end_date": "2006-06-16",
+    "historic_marked": "2002-08-26",
+    "seed_status": "repealed"
+  }
 }

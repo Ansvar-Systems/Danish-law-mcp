@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 2, i lov nr. 1667 af 30. december 2024 om ændring af selskabsloven (Offentligt udbud af anparter og nedsættelse af minimumskrav til anpartsselskabers selskabskapital)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-02-25",
+  "in_force_date": "2025-02-25",
   "url": "https://www.retsinformation.dk/eli/lta/2025/204/xml",
-  "description": "Retsinformation source. DocumentId=CQ003147; AccessionNumber=B20250020405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ003147; AccessionNumber=B20250020405; Ophævet 2025-03-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 1, nr. 2, i lov om ændring af selskabsloven (Offentligt udbud af anparter og nedsættelse af minimumskrav til anpartsselskabers selskabskapital) sættes i kraft.",
       "valid_from": "2025-02-25",
-      "valid_to": null
+      "valid_to": "2025-03-31"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 27. februar 2025.",
       "valid_from": "2025-02-25",
-      "valid_to": null
+      "valid_to": "2025-03-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:02:36.266Z",
+    "accession": "B20250020405",
+    "document_id": "CQ003147",
+    "unique_document_id": "248319",
+    "upstream_status": "Historic",
+    "start_date": "2025-02-25",
+    "end_date": "2025-04-01",
+    "historic_marked": "2025-03-31",
+    "seed_status": "repealed"
+  }
 }

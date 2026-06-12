@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om udstykning og anden registrering i matriklen. lov om landinspektørvirksomhed og lov om afgift ved udstykning m.m.\\n(Ophævelse af eneretten til matrikulært arbejde m.m. i Københavns og Frederiksberg Kommuner samt registrering af forandringer af ejendommes grænser mod søterritoriet)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-11",
+  "in_force_date": "2010-01-11",
   "url": "https://www.retsinformation.dk/eli/lta/2010/12/xml",
-  "description": "Retsinformation source. DocumentId=AL002127; AccessionNumber=A20100001230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002127; AccessionNumber=A20100001230; Ophævet 2013-10-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -25,15 +26,26 @@
       "section": "10",
       "content": "§ 10. Matrikelmyndigheden er Kort- og Matrikelstyrelsen.",
       "valid_from": "2010-01-11",
-      "valid_to": null
+      "valid_to": "2013-10-21"
     },
     {
       "provision_ref": "41",
       "section": "41",
       "content": "§ 41. §§ 35-40 gælder ikke i Københavns Kommune.",
       "valid_from": "2010-01-11",
-      "valid_to": null
+      "valid_to": "2013-10-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:43:00.104Z",
+    "accession": "A20100001230",
+    "document_id": "AL002127",
+    "unique_document_id": "129611",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-11",
+    "end_date": "2021-01-08",
+    "historic_marked": "2013-10-21",
+    "seed_status": "repealed"
+  }
 }

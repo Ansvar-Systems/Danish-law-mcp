@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til Master i kryptologi",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-01-29",
+  "in_force_date": "2002-02-07",
   "url": "https://www.retsinformation.dk/eli/lta/2002/50/xml",
-  "description": "Retsinformation source. DocumentId=BD000008; AccessionNumber=B20020005005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000008; AccessionNumber=B20020005005; Ophævet 2002-08-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:46:57.757Z",
+    "accession": "B20020005005",
+    "document_id": "BD000008",
+    "unique_document_id": "29084",
+    "upstream_status": "Historic",
+    "start_date": "2002-02-07",
+    "end_date": "2014-07-02",
+    "historic_marked": "2002-08-26",
+    "seed_status": "repealed"
+  }
 }

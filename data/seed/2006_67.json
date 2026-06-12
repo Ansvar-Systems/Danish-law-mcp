@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af erstatningsbeløb i henhold til lov om jernbane",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-07",
+  "in_force_date": "2006-02-13",
   "url": "https://www.retsinformation.dk/eli/lta/2006/67/xml",
-  "description": "Retsinformation source. DocumentId=AR001149; AccessionNumber=B20060006705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001149; AccessionNumber=B20060006705; Ophævet 2011-11-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:33:11.871Z",
+    "accession": "B20060006705",
+    "document_id": "AR001149",
+    "unique_document_id": "22528",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-13",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-11-08",
+    "seed_status": "repealed"
+  }
 }

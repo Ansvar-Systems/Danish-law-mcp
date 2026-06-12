@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om betalingsregler for spildevandsanlæg m.v.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-17",
+  "in_force_date": "2000-05-17",
   "url": "https://www.retsinformation.dk/eli/lta/2000/342/xml",
-  "description": "Retsinformation source. DocumentId=AL000451; AccessionNumber=A20000034230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000451; AccessionNumber=A20000034230; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:15:30.442Z",
+    "accession": "A20000034230",
+    "document_id": "AL000451",
+    "unique_document_id": "12321",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-17",
+    "end_date": "2021-01-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-06-18",
+  "in_force_date": "2024-06-19",
   "url": "https://www.retsinformation.dk/eli/lta/2024/746/xml",
   "description": "Retsinformation source. DocumentId=DA001387; AccessionNumber=B20240074605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ansøgning om optagelse på en ungdomsuddannelse og tilmelding til 10. klasse foregår digitalt via Optagelse.dk, jf. dog stk. 3. Stk. 2. Optagelse.dk anvendes også til at den unge kan angive andre uddannelses- og beskæftigelsesaktiviteter, f.eks. forberedende grunduddannelse, ungdomsuddannelse for unge med særlige behov, udlandsophold, beskæftigelse m.v. til brug for den kommunale ungeindsats. Stk. 3. For ansøgere, der søger om optagelse på euv1-forløb på baggrund af gennemført realkompetencevurdering, jf. § 66 y, i lov om erhvervsuddannelser og § 64, stk. 7, i bekendtgørelse om erhvervsuddannelser, stilles der ikke krav om anvendelse af optagelse.dk. Stk. 4. Ansøgningen skal være underskrevet af en eller flere forældremyndighedsindehaver(e) eller ansøgeren selv, hvis ansøgeren ikke er undergivet forældremyndighed, via Optagelse.dk senest den 1. marts kl. 12:00.",
-      "valid_from": "2024-06-18",
+      "valid_from": "2024-06-19",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ansøgning til ungdomsuddannelser skal indeholde følgende: 1) Uddannelsesønsker (forstået som uddannelse kombineret med uddannelsesinstitution). 2) Beviser for ansøgerens standpunkts- og prøvekarakterer fra grundskolen og eventuelle beviser fra forberedende grunduddannelse.",
-      "valid_from": "2024-06-18",
+      "valid_from": "2024-06-19",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Hvis en institution ikke kan optage ansøgeren, sender institutionen ansøgningen videre. Stk. 2. Forsendelser i forbindelse med ansøgning skal foregå via Optagelse.dk. Stk. 3. Såfremt ansøgeren er under 25 år og ikke kan optages på nogen af de uddannelsesønsker, ansøgeren har angivet, meldes dette til kommunalbestyrelsen i ansøgerens hjemkommune.",
-      "valid_from": "2024-06-18",
+      "valid_from": "2024-06-19",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Institutioner, der er omfattet af bekendtgørelsen, skal på begæring meddele Børne- og Undervisningsministeriet oplysninger, der er nødvendige for koordinering af ansøgning og tilmelding, herunder oplysninger om udbud af uddannelser, ansøgere til og optagne ved uddannelserne samt oplysninger til statistiske formål.",
-      "valid_from": "2024-06-18",
+      "valid_from": "2024-06-19",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. august 2024. Stk. 2. Bekendtgørelse nr. 159 af 30. januar 2023 om uddannelsesparathedsvurdering og procedurer ved valg af ungdomsuddannelse ophæves.",
-      "valid_from": "2024-06-18",
+      "valid_from": "2024-06-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:16:55.934Z",
+    "accession": "B20240074605",
+    "document_id": "DA001387",
+    "unique_document_id": "244179",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-19",
+    "end_date": "2026-03-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

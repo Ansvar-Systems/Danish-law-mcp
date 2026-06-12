@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om tvungen administration af udlejningsejendomme",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-01-19",
+  "in_force_date": "2005-02-03",
   "url": "https://www.retsinformation.dk/eli/lta/2005/76/xml",
-  "description": "Retsinformation source. DocumentId=AO002457; AccessionNumber=A20050007629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002457; AccessionNumber=A20050007629; Ophævet 2006-09-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:33:10.820Z",
+    "accession": "A20050007629",
+    "document_id": "AO002457",
+    "unique_document_id": "20219",
+    "upstream_status": "Historic",
+    "start_date": "2005-02-03",
+    "end_date": "2023-04-29",
+    "historic_marked": "2006-09-14",
+    "seed_status": "repealed"
+  }
 }

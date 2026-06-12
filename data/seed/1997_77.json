@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om patenter og supplerende beskyttelsescertifikater (Patentbekendtgørelsen)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-01-30",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1997/77/xml",
-  "description": "Retsinformation source. DocumentId=CM043118; AccessionNumber=B19970007705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043118; AccessionNumber=B19970007705; Ophævet 1998-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:19:07.542Z",
+    "accession": "B19970007705",
+    "document_id": "CM043118",
+    "unique_document_id": "83708",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1998-07-01",
+    "seed_status": "repealed"
+  }
 }

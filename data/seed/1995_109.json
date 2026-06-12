@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om brug af sikkerhedsseler m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-02-17",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/109/xml",
-  "description": "Retsinformation source. DocumentId=CM008614; AccessionNumber=B19950010905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008614; AccessionNumber=B19950010905; Ophævet 2006-04-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:22:00.114Z",
+    "accession": "B19950010905",
+    "document_id": "CM008614",
+    "unique_document_id": "49801",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2006-04-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Fiskerilov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-05-12",
+  "in_force_date": "1999-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/1999/281/xml",
-  "description": "Retsinformation source. DocumentId=AH000272; AccessionNumber=A19990028130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000272; AccessionNumber=A19990028130; Ophævet 2004-08-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:21:50.381Z",
+    "accession": "A19990028130",
+    "document_id": "AH000272",
+    "unique_document_id": "6703",
+    "upstream_status": "Historic",
+    "start_date": "1999-05-12",
+    "end_date": "2022-04-08",
+    "historic_marked": "2004-08-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om dyrlæger\\n(Dyrlægers forpligtelser i forbindelse med egenkontrol med dyrevelfærd i landbrugsbesætninger)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-05-28",
+  "in_force_date": "2009-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2009/411/xml",
-  "description": "Retsinformation source. DocumentId=AH003370; AccessionNumber=A20090041130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003370; AccessionNumber=A20090041130; Ophævet 2011-12-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8 b. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om dyrlægers forpligtelser i forbindelse med egenkontrol med dyrevelfærd i landbrugsbesætninger. Stk. 2. De dyrlæger, der er omfattet af loven, afholder omkostningerne ved de tilsyn og den kontrol, der udføres efter reglerne fastsat i medfør af stk. 1. Ministeren kan fastsætte regler herom.",
-      "valid_from": "2009-05-28",
-      "valid_to": null
+      "valid_from": "2009-05-29",
+      "valid_to": "2011-12-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:10:53.722Z",
+    "accession": "A20090041130",
+    "document_id": "AH003370",
+    "unique_document_id": "125287",
+    "upstream_status": "Historic",
+    "start_date": "2009-05-29",
+    "end_date": "2022-12-31",
+    "historic_marked": "2011-12-02",
+    "seed_status": "repealed"
+  }
 }

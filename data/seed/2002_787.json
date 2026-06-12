@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om fondsmæglerselskaber",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-09-19",
+  "in_force_date": "2002-09-26",
   "url": "https://www.retsinformation.dk/eli/lta/2002/787/xml",
-  "description": "Retsinformation source. DocumentId=AU000717; AccessionNumber=A20020078729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000717; AccessionNumber=A20020078729; Ophævet 2003-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:58:18.388Z",
+    "accession": "A20020078729",
+    "document_id": "AU000717",
+    "unique_document_id": "26026",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-26",
+    "end_date": "2017-12-08",
+    "historic_marked": "2003-06-10",
+    "seed_status": "repealed"
+  }
 }

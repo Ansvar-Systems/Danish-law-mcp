@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om farligt gods, kontrolafgifter og tilladelse til jernbanevirksomhed m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-01",
+  "in_force_date": "2009-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1115/xml",
-  "description": "Retsinformation source. DocumentId=BL000226; AccessionNumber=B20090111505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000226; AccessionNumber=B20090111505; Ophævet 2010-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9",
@@ -19,9 +20,20 @@
       "provision_ref": "9",
       "section": "9",
       "content": "§ 9 a. Afgørelser, der træffes i henhold til artikel 5, stk. 6, i Europa-Parlamentets og Rådets forordning (EF) nr. 1370/2007 af 23. oktober 2007 om offentlig personbefordring med jernbane og ad vej og om ophævelse af Rådets forordning (EØF) nr. 1191/69 og (EØF) nr. 1107/70, kan påklages til Jernbaneklagenævnet. Klage skal være indgivet til Jernbaneklagenævnet senest 4 uger efter, at afgørelsen er offentliggjort. Jernbaneklagenævnet kan se bort fra fristen, når omstændighederne taler derfor. Stk. 2. Afgørelser, der træffes i henhold til artikel 5, stk. 2-5, i den i stk. 1 nævnte forordning, kan påklages til Klagenævnet for Udbud, jf. § 1, stk. 1, i lov om Klagenævnet for Udbud.",
-      "valid_from": "2009-12-01",
-      "valid_to": null
+      "valid_from": "2009-12-02",
+      "valid_to": "2010-09-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:42:16.630Z",
+    "accession": "B20090111505",
+    "document_id": "BL000226",
+    "unique_document_id": "128471",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-02",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-09-29",
+    "seed_status": "repealed"
+  }
 }

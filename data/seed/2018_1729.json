@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1729/xml",
   "description": "Retsinformation source. DocumentId=AN013693; AccessionNumber=A20180172930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -35,5 +36,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:01.939Z",
+    "accession": "A20180172930",
+    "document_id": "AN013693",
+    "unique_document_id": "206305",
+    "upstream_status": "Valid",
+    "start_date": "2018-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven (Tilslutning til fjendtlig væbnet styrke)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-29",
+  "in_force_date": "2015-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1880/xml",
-  "description": "Retsinformation source. DocumentId=AA009411; AccessionNumber=A20150188030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA009411; AccessionNumber=A20150188030; Ophævet 2016-07-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "101a",
@@ -20,8 +21,19 @@
       "section": "101a",
       "content": "§ 101 a. Den, der har dansk indfødsret eller bopæl i den danske stat, og som under en væbnet konflikt, i hvilken den danske stat er part, er tilsluttet en væbnet styrke for en part, som kæmper mod den danske stat, straffes med fængsel indtil 10 år. Under særligt skærpende omstændigheder kan straffen stige til fængsel indtil på livstid. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor den pågældende har deltaget i kamphandlinger. Stk. 2. Den, der hverver en person med dansk indfødsret eller bopæl i den danske stat til en væbnet styrke under de omstændigheder, der er beskrevet i stk. 1, eller som offentligt tilskynder en sådan person til at tilslutte sig fjendtlige styrker i sådanne konflikter, straffes med fængsel indtil 10 år. Under særligt skærpende omstændigheder kan straffen stige til fængsel indtil 16 år. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor der er tale om overtrædelser af systematisk eller organiseret karakter.",
       "valid_from": "2015-12-29",
-      "valid_to": null
+      "valid_to": "2016-07-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:57:55.488Z",
+    "accession": "A20150188030",
+    "document_id": "AA009411",
+    "unique_document_id": "176777",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-29",
+    "end_date": "2016-07-05",
+    "historic_marked": "2016-07-04",
+    "seed_status": "repealed"
+  }
 }

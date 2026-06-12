@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om almene boliger samt støttede private andelsboliger m.v.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-20",
+  "in_force_date": "1999-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/1999/935/xml",
-  "description": "Retsinformation source. DocumentId=AC000185; AccessionNumber=A19990093530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000185; AccessionNumber=A19990093530; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:47:54.136Z",
+    "accession": "A19990093530",
+    "document_id": "AC000185",
+    "unique_document_id": "4040",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-20",
+    "end_date": "2023-04-28",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

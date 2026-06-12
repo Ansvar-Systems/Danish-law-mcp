@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-10-02",
+  "in_force_date": "2014-10-03",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1074/xml",
   "description": "Retsinformation source. DocumentId=BL000977; AccessionNumber=B20140107405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Har transportministeren udarbejdet en supplerende VVM-redegørelse efter § 3, stk. 6, i lov om en Cityring, skal redegørelsen sendes i høring i minimum 30 dage.",
-      "valid_from": "2014-10-02",
+      "valid_from": "2014-10-03",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. oktober 2014.",
-      "valid_from": "2014-10-02",
+      "valid_from": "2014-10-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:30:05.425Z",
+    "accession": "B20140107405",
+    "document_id": "BL000977",
+    "unique_document_id": "164964",
+    "upstream_status": "Valid",
+    "start_date": "2014-10-03",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

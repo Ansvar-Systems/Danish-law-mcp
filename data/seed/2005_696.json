@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om smedeuddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-07-01",
+  "in_force_date": "2005-07-11",
   "url": "https://www.retsinformation.dk/eli/lta/2005/696/xml",
-  "description": "Retsinformation source. DocumentId=AT002231; AccessionNumber=B20050069605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002231; AccessionNumber=B20050069605; Ophævet 2008-03-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:30:35.898Z",
+    "accession": "B20050069605",
+    "document_id": "AT002231",
+    "unique_document_id": "24839",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-11",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-03-04",
+    "seed_status": "repealed"
+  }
 }

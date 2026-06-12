@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-05",
+  "in_force_date": "2024-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1552/xml",
   "description": "Retsinformation source. DocumentId=CQ003073; AccessionNumber=B20240155205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Et gensidigt forsikringselskab, der deltager i en poolordning ved coassurance, kan fastsætte bestemmelser i vedtægterne om medlemmers fritagelse for hæftelse for selskabets forpligtelser.",
-      "valid_from": "2024-12-05",
+      "valid_from": "2024-12-16",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2025. Stk. 2. Bekendtgørelse nr. 113 af 12. marts 1993 om medlemshæftelse i gensidige forsikringsselskaber ved deltagelse i coassurancevirksomhed ophæves.",
-      "valid_from": "2024-12-05",
+      "valid_from": "2024-12-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:57.668Z",
+    "accession": "B20240155205",
+    "document_id": "CQ003073",
+    "unique_document_id": "246856",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-16",
+    "end_date": "2026-05-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

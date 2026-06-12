@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om opbygningen, driften og brugen af Statstidende (meddelelsestyper der optages og offentliggøres via Statstidende databasen)",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-01-18",
+  "in_force_date": "2002-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/2002/29/xml",
-  "description": "Retsinformation source. DocumentId=BD000005; AccessionNumber=B20020002905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000005; AccessionNumber=B20020002905; Ophævet 2005-10-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:38:38.770Z",
+    "accession": "B20020002905",
+    "document_id": "BD000005",
+    "unique_document_id": "29082",
+    "upstream_status": "Historic",
+    "start_date": "2002-01-29",
+    "end_date": "2016-12-22",
+    "historic_marked": "2005-10-13",
+    "seed_status": "repealed"
+  }
 }

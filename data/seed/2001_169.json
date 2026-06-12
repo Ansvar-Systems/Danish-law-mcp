@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kvælstofprognosen for 2001",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-15",
+  "in_force_date": "2001-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2001/169/xml",
-  "description": "Retsinformation source. DocumentId=AH000856; AccessionNumber=B20010016905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000856; AccessionNumber=B20010016905; Ophævet 2015-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:49:09.507Z",
+    "accession": "B20010016905",
+    "document_id": "AH000856",
+    "unique_document_id": "7200",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-22",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-21",
+    "seed_status": "repealed"
+  }
 }

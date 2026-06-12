@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af adoptionsloven, forældreansvarsloven og lov om dansk indfødsret\\n(Adgang for samlevende til at adoptere sammen m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-27",
+  "in_force_date": "2014-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1525/xml",
-  "description": "Retsinformation source. DocumentId=CF000821; AccessionNumber=A20140152530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CF000821; AccessionNumber=A20140152530; Ophævet 2018-07-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7 a. Forældre, der sammen har adopteret et barn, har fælles forældremyndighed. Stk. 2. En forælder, der har adopteret et barn alene, har forældremyndigheden alene, jf. dog stk. 3. Stk. 3. Forældre har fælles forældremyndighed, når den ene har adopteret den andens barn efter § 5 a, stk. 1, i adoptionsloven.",
-      "valid_from": "2014-12-27",
-      "valid_to": null
+      "valid_from": "2014-12-29",
+      "valid_to": "2018-07-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:48:15.613Z",
+    "accession": "A20140152530",
+    "document_id": "CF000821",
+    "unique_document_id": "167302",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-29",
+    "end_date": "2023-01-06",
+    "historic_marked": "2018-07-13",
+    "seed_status": "repealed"
+  }
 }

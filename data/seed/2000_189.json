@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om merværdiafgift (momsloven)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-22",
+  "in_force_date": "2000-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2000/189/xml",
-  "description": "Retsinformation source. DocumentId=AN000884; AccessionNumber=A20000018930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000884; AccessionNumber=A20000018930; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:09:18.515Z",
+    "accession": "A20000018930",
+    "document_id": "AN000884",
+    "unique_document_id": "13720",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-22",
+    "end_date": "2004-01-16",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af årsregnskabsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-15",
+  "in_force_date": "2006-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2006/647/xml",
-  "description": "Retsinformation source. DocumentId=AU002508; AccessionNumber=A20060064729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002508; AccessionNumber=A20060064729; Ophævet 2009-05-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:32:17.497Z",
+    "accession": "A20060064729",
+    "document_id": "AU002508",
+    "unique_document_id": "27294",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-26",
+    "end_date": "2017-12-08",
+    "historic_marked": "2009-05-27",
+    "seed_status": "repealed"
+  }
 }

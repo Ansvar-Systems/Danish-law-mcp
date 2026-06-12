@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2014-09-28",
+  "in_force_date": "2014-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1059/xml",
   "description": "Retsinformation source. DocumentId=AN011765; AccessionNumber=B20140105905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Virksomheder, som forbruger biogas, der anvendes som motorbrændstof i stationære stempelmotoranlæg med en indfyret effekt på over 1.000 kW, skal dokumentere energiindholdet i gassen enten på basis af en måling af den forbrugte mængde af biogas og brændværdien i biogassen (metode 1) eller via en omregning af den producerede elektricitet fra stempelmotoren til det indfyrede energiindhold (metode 2), jf. dog stk. 2. Stk. 2. For leverancer, som udelukkende består af biogas, til virksomheden, hvor gassen alene forbrændes i stempelmotoranlægget, jf. stk. 1, kan energiindholdet i biogassen dokumenteres på grundlag af fakturaer vedrørende gasleverancerne. Ved de fakturaer, som er nævnt i 1. pkt., forstås fakturaer, som er omfattet af § 14, stk. 2, 1. eller 2. pkt., i lov om afgift af naturgas og bygas m.v.",
-      "valid_from": "2014-09-28",
+      "valid_from": "2014-10-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:29:28.654Z",
+    "accession": "B20140105905",
+    "document_id": "AN011765",
+    "unique_document_id": "164798",
+    "upstream_status": "Valid",
+    "start_date": "2014-10-01",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

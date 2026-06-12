@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kørekort",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-16",
+  "in_force_date": "2009-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1337/xml",
-  "description": "Retsinformation source. DocumentId=AA005288; AccessionNumber=B20090133705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005288; AccessionNumber=B20090133705; Ophævet 2012-05-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "26",
@@ -19,9 +20,20 @@
       "provision_ref": "26",
       "section": "26",
       "content": "§ 26 a. En kørelærer skal oplyse personer, som modtager eller ønsker at modtage køreundervisning hos kørelæreren (elever), om: 1) kontaktoplysninger vedrørende Rigspolitiet, 2) hvilke brancheorganisationer kørelæreren er medlem af, og 3) at han eller hun er godkendt som kørelærer i Danmark. Stk. 2. De i stk. 1 nævnte oplysninger gives eller gøres tilgængelige på den måde, som kørelæreren finder mest egnet. Oplysningerne kan herunder gøres tilgængelige ad elektronisk vej via en adresse oplyst af kørelæreren, eller ved at oplysningerne er tilgængelige der, hvor kørelæreren driver sin virksomhed. Oplysningerne skal gives til eller gøres tilgængelige for eleven, inden aftalen om køreundervisning indgås, eller, hvis der ikke foreligger en skriftlig aftale, inden køreundervisningens udførelse. Stk. 3. Hvis eleven anmoder om det, skal kørelæreren endvidere oplyse om de regler, der gælder for udførelsen af erhvervet, og hvordan eleven får adgang til dem.",
-      "valid_from": "2009-12-16",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2012-05-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:51:17.778Z",
+    "accession": "B20090133705",
+    "document_id": "AA005288",
+    "unique_document_id": "129361",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-05-21",
+    "seed_status": "repealed"
+  }
 }

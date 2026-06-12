@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om delpension",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-11-25",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1988/710/xml",
-  "description": "Retsinformation source. DocumentId=CM012135; AccessionNumber=B19880071005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012135; AccessionNumber=B19880071005; Ophævet 1990-04-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:21:43.600Z",
+    "accession": "B19880071005",
+    "document_id": "CM012135",
+    "unique_document_id": "53286",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2013-09-18",
+    "historic_marked": "1990-04-02",
+    "seed_status": "repealed"
+  }
 }

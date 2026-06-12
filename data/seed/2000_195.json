@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om arbejdets udførelse",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-20",
+  "in_force_date": "2000-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2000/195/xml",
-  "description": "Retsinformation source. DocumentId=AB000479; AccessionNumber=B20000019505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000479; AccessionNumber=B20000019505; Ophævet 2002-06-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:09:33.873Z",
+    "accession": "B20000019505",
+    "document_id": "AB000479",
+    "unique_document_id": "3212",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-30",
+    "end_date": "2005-08-03",
+    "historic_marked": "2002-06-27",
+    "seed_status": "repealed"
+  }
 }

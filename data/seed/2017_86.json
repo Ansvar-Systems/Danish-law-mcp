@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om afskæring af klageadgang på Socialstyrelsens tilskudsområde",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-01-25",
+  "in_force_date": "2017-01-26",
   "url": "https://www.retsinformation.dk/eli/lta/2017/86/xml",
-  "description": "Retsinformation source. DocumentId=CT000044; AccessionNumber=B20170008605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CT000044; AccessionNumber=B20170008605; Ophævet 2018-04-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Afgørelser, som Socialstyrelsen træffer efter bemyndigelse fra børne- og socialministeren vedrørende tilskud efter tekstanmærkning nr. 111 til finanslovens § 15, kan ikke indbringes for børne- og socialministeren.",
-      "valid_from": "2017-01-25",
-      "valid_to": null
+      "valid_from": "2017-01-26",
+      "valid_to": "2018-04-24"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 27. januar 2017.",
-      "valid_from": "2017-01-25",
-      "valid_to": null
+      "valid_from": "2017-01-26",
+      "valid_to": "2018-04-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:35:24.042Z",
+    "accession": "B20170008605",
+    "document_id": "CT000044",
+    "unique_document_id": "186370",
+    "upstream_status": "Historic",
+    "start_date": "2017-01-26",
+    "end_date": "2022-07-08",
+    "historic_marked": "2018-04-24",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opløsning af ægteskab",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-24",
+  "in_force_date": "2002-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2002/875/xml",
-  "description": "Retsinformation source. DocumentId=AA001965; AccessionNumber=B20020087505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001965; AccessionNumber=B20020087505; Ophævet 2004-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:01:48.507Z",
+    "accession": "B20020087505",
+    "document_id": "AA001965",
+    "unique_document_id": "1461",
+    "upstream_status": "Historic",
+    "start_date": "2002-10-31",
+    "end_date": "2022-07-08",
+    "historic_marked": "2004-12-16",
+    "seed_status": "repealed"
+  }
 }

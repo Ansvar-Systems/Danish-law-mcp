@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udstykningssager m.v. vedrørende landbrugsejendomme",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-07-26",
+  "in_force_date": "1999-08-06",
   "url": "https://www.retsinformation.dk/eli/lta/1999/628/xml",
-  "description": "Retsinformation source. DocumentId=AH000338; AccessionNumber=B19990062805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000338; AccessionNumber=B19990062805; Ophævet 2004-08-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:35:40.286Z",
+    "accession": "B19990062805",
+    "document_id": "AH000338",
+    "unique_document_id": "6761",
+    "upstream_status": "Historic",
+    "start_date": "1999-08-06",
+    "end_date": "2022-04-08",
+    "historic_marked": "2004-08-26",
+    "seed_status": "repealed"
+  }
 }

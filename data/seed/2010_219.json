@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om optagelse på kostafdelinger og om betaling for kost og logi ved institutioner for erhvervsrettet uddannelse",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-04",
+  "in_force_date": "2010-03-12",
   "url": "https://www.retsinformation.dk/eli/lta/2010/219/xml",
-  "description": "Retsinformation source. DocumentId=AT004025; AccessionNumber=B20100021905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004025; AccessionNumber=B20100021905; Ophævet 2021-06-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 a. Indkvartering på kostafdelinger af udenlandske elever, der ikke er omfattet af § 19, stk. 2 og 3, i lov om erhvervsuddannelser, sker efter reglerne om indtægtsdækket virksomhed.",
-      "valid_from": "2010-03-04",
-      "valid_to": null
+      "valid_from": "2010-03-12",
+      "valid_to": "2021-06-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:06:34.967Z",
+    "accession": "B20100021905",
+    "document_id": "AT004025",
+    "unique_document_id": "129949",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-12",
+    "end_date": "2021-06-05",
+    "historic_marked": "2021-06-04",
+    "seed_status": "repealed"
+  }
 }

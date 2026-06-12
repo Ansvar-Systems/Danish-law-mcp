@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om delegation af ministeren for forskning, innovation og videregående uddannelsers beføjelser i lov om statens voksenuddannelsesstøtte (SVU)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-20",
+  "in_force_date": "2013-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2013/738/xml",
-  "description": "Retsinformation source. DocumentId=BR000276; AccessionNumber=B20130073805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BR000276; AccessionNumber=B20130073805; Ophævet 2015-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Beføjelser, herunder til udstedelse af administrative retsforskrifter, der er tillagt ministeren for forskning, innovation og videregående uddannelser efter lov om statens voksenuddannelsesstøtte (SVU), delegeres til Styrelsen for Videregående Uddannelser og Uddannelsesstøtte, medmindre andet er fastsat i stk. 2. Stk. 2. Beføjelsen i lovens § 19, stk. 1, 2. pkt., til at bemyndige Styrelsen for Videregående Uddannelser og Uddannelsesstøtte til at varetage visse beføjelser efter loven udøves af ministeren for forskning, innovation og videregående uddannelser.",
-      "valid_from": "2013-06-20",
-      "valid_to": null
+      "valid_from": "2013-06-26",
+      "valid_to": "2015-07-10"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 27. juni 2013.",
-      "valid_from": "2013-06-20",
-      "valid_to": null
+      "valid_from": "2013-06-26",
+      "valid_to": "2015-07-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:16:25.862Z",
+    "accession": "B20130073805",
+    "document_id": "BR000276",
+    "unique_document_id": "152623",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-07-10",
+    "seed_status": "repealed"
+  }
 }

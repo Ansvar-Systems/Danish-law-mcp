@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om reducerede takster og deltagerbetaling ved erhvervsrettet voksen- og efteruddannelse for 2002",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-05-23",
+  "in_force_date": "2002-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2002/327/xml",
-  "description": "Retsinformation source. DocumentId=AT001022; AccessionNumber=B20020032705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001022; AccessionNumber=B20020032705; Ophævet 2002-12-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:40:08.676Z",
+    "accession": "B20020032705",
+    "document_id": "AT001022",
+    "unique_document_id": "23915",
+    "upstream_status": "Historic",
+    "start_date": "2002-05-30",
+    "end_date": "2021-01-08",
+    "historic_marked": "2002-12-31",
+    "seed_status": "repealed"
+  }
 }

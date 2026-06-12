@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for de adoptionsforberedende kurser for 2009",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-12-01",
+  "in_force_date": "2008-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1146/xml",
-  "description": "Retsinformation source. DocumentId=AA004581; AccessionNumber=B20080114605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA004581; AccessionNumber=B20080114605; Ophævet 2009-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For deltagelse i et adoptionsforberedende kursus betales pr. 1. januar 2009 kr. 1.500. Stk. 2. Beløbet forfalder til betaling ved tilmelding til kurset.",
-      "valid_from": "2008-12-01",
-      "valid_to": null
+      "valid_from": "2008-12-04",
+      "valid_to": "2009-12-21"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2009. Stk. 2. Bekendtgørelse nr. 1547 af 12. december 2007 om betaling for de adoptionsforberedende kurser for 2008 ophæves.",
-      "valid_from": "2008-12-01",
-      "valid_to": null
+      "valid_from": "2008-12-04",
+      "valid_to": "2009-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:50:48.444Z",
+    "accession": "B20080114605",
+    "document_id": "AA004581",
+    "unique_document_id": "122093",
+    "upstream_status": "Historic",
+    "start_date": "2008-12-04",
+    "end_date": "2022-07-08",
+    "historic_marked": "2009-12-21",
+    "seed_status": "repealed"
+  }
 }

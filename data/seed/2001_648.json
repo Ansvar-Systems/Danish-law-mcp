@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om affald",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-29",
+  "in_force_date": "2001-07-12",
   "url": "https://www.retsinformation.dk/eli/lta/2001/648/xml",
-  "description": "Retsinformation source. DocumentId=AL000706; AccessionNumber=B20010064805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000706; AccessionNumber=B20010064805; Ophævet 2006-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:08:23.569Z",
+    "accession": "B20010064805",
+    "document_id": "AL000706",
+    "unique_document_id": "12487",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-12",
+    "end_date": "2022-04-09",
+    "historic_marked": "2006-12-22",
+    "seed_status": "repealed"
+  }
 }

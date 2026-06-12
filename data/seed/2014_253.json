@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 7-9, i lov om ændring af sundhedsloven og lov om klage- og erstatningsadgang inden for sundhedsvæsenet (Ændring af rammerne for almen medicinske ydelser m.v. i praksissektoren, herunder styrkelse af regionernes planlægnings- og styringsmuligheder, ensartet kvalitet, systematisk patientinddragelse, erstatningspligt m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-03-19",
+  "in_force_date": "2014-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2014/253/xml",
-  "description": "Retsinformation source. DocumentId=BK001548; AccessionNumber=B20140025305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001548; AccessionNumber=B20140025305; Ophævet 2017-01-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 7-9, i lov nr. 904 af 4. juli 2013 om ændring af sundhedsloven og lov om klage- og erstatningsadgang inden for sundhedsvæsenet (Ændring af rammerne for almen medicinske ydelser m.v. i praksissektoren, herunder styrkelse af regionernes planlægnings- og styringsmuligheder, ensartet kvalitet, systematisk patientinddragelse, erstatningspligt m.v.) sættes i kraft.",
-      "valid_from": "2014-03-19",
-      "valid_to": null
+      "valid_from": "2014-03-21",
+      "valid_to": "2017-01-25"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 24. marts 2014.",
-      "valid_from": "2014-03-19",
-      "valid_to": null
+      "valid_from": "2014-03-21",
+      "valid_to": "2017-01-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:55:16.121Z",
+    "accession": "B20140025305",
+    "document_id": "BK001548",
+    "unique_document_id": "162220",
+    "upstream_status": "Historic",
+    "start_date": "2014-03-21",
+    "end_date": "2022-07-12",
+    "historic_marked": "2017-01-25",
+    "seed_status": "repealed"
+  }
 }

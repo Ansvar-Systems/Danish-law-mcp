@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Åbent brev angående udskrivning af nyvalg til Folketinget",
   "short_name": "ÅBR#LOKDOK10",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-10-24",
+  "in_force_date": "2007-10-26",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1236/xml",
-  "description": "Retsinformation source. DocumentId=AP000200; AccessionNumber=B20070123661; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AP000200; AccessionNumber=B20070123661; Ophævet 2007-11-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:56:06.302Z",
+    "accession": "B20070123661",
+    "document_id": "AP000200",
+    "unique_document_id": "105432",
+    "upstream_status": "Historic",
+    "start_date": "2007-10-26",
+    "end_date": "2007-11-16",
+    "historic_marked": "2007-11-15",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om våben og eksplosivstoffer m.v. (Tilbagerulning af pebersprayordningen)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-01-30",
+  "in_force_date": "2021-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2021/123/xml",
-  "description": "Retsinformation source. DocumentId=AA012283; AccessionNumber=A20210012330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA012283; AccessionNumber=A20210012330; Ophævet 2021-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2h",
@@ -20,8 +21,19 @@
       "section": "2h",
       "content": "§ 2 h. Justitsministeren kan fastsætte nærmere bestemmelser om adgangen for personer med et særligt behov for beskyttelse til at erhverve, besidde og bære peberspray.",
       "valid_from": "2021-01-30",
-      "valid_to": null
+      "valid_to": "2021-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:31:41.109Z",
+    "accession": "A20210012330",
+    "document_id": "AA012283",
+    "unique_document_id": "219600",
+    "upstream_status": "Historic",
+    "start_date": "2021-01-30",
+    "end_date": "2021-08-31",
+    "historic_marked": "2021-08-30",
+    "seed_status": "repealed"
+  }
 }

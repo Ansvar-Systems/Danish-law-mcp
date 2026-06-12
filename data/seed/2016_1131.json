@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2016-08-29",
+  "in_force_date": "2016-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1131/xml",
   "description": "Retsinformation source. DocumentId=AG000739; AccessionNumber=B20160113105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "28b",
       "section": "28b",
       "content": "§ 28 b. Beredskabsstyrelsen fastsætter indholdet af og bestemmelser for uddannelse af medlemmer af ungdomsbrandkorps.",
-      "valid_from": "2016-08-29",
+      "valid_from": "2016-08-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:37:18.153Z",
+    "accession": "B20160113105",
+    "document_id": "AG000739",
+    "unique_document_id": "183735",
+    "upstream_status": "Valid",
+    "start_date": "2016-08-30",
+    "end_date": "2026-02-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

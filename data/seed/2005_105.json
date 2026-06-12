@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om registrering af ledningsejere",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-02-23",
+  "in_force_date": "2005-02-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/105/xml",
-  "description": "Retsinformation source. DocumentId=AU002023; AccessionNumber=B20050010505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002023; AccessionNumber=B20050010505; Ophævet 2005-08-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:50:54.447Z",
+    "accession": "B20050010505",
+    "document_id": "AU002023",
+    "unique_document_id": "26953",
+    "upstream_status": "Historic",
+    "start_date": "2005-02-24",
+    "end_date": "2021-01-08",
+    "historic_marked": "2005-08-29",
+    "seed_status": "repealed"
+  }
 }

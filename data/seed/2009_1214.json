@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til landskabs- og biotopforbedrende beplantninger",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-10",
+  "in_force_date": "2009-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1214/xml",
-  "description": "Retsinformation source. DocumentId=AH003554; AccessionNumber=B20090121405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003554; AccessionNumber=B20090121405; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Uanset § 4 kan der fra den 1. januar 2010 ikke indgives ansøgning om tilskud.",
-      "valid_from": "2009-12-10",
-      "valid_to": null
+      "valid_from": "2009-12-12",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:46:18.476Z",
+    "accession": "B20090121405",
+    "document_id": "AH003554",
+    "unique_document_id": "129060",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-12",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

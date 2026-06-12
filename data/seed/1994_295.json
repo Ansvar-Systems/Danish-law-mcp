@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Den Grønne Fond",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-04-27",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/295/xml",
-  "description": "Retsinformation source. DocumentId=CM008171; AccessionNumber=A19940029530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008171; AccessionNumber=A19940029530; Ophævet 2002-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:50:04.198Z",
+    "accession": "A19940029530",
+    "document_id": "CM008171",
+    "unique_document_id": "49361",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "2002-06-06",
+    "seed_status": "repealed"
+  }
 }

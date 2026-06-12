@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om afgift af øl, vin og frugtvin m.m.(* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-12-19",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/1015/xml",
-  "description": "Retsinformation source. DocumentId=CM022745; AccessionNumber=A19920101530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022745; AccessionNumber=A19920101530; Ophævet 1994-08-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:09:23.836Z",
+    "accession": "A19920101530",
+    "document_id": "CM022745",
+    "unique_document_id": "63725",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-17",
+    "historic_marked": "1994-08-09",
+    "seed_status": "repealed"
+  }
 }

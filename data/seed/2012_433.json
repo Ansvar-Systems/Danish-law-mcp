@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2012-05-16",
+  "in_force_date": "2012-05-16",
   "url": "https://www.retsinformation.dk/eli/lta/2012/433/xml",
   "description": "Retsinformation source. DocumentId=AN011105; AccessionNumber=A20120043330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,5 +30,16 @@
       "definition": "et institut, der udsteder omsættelige beviser for deltagernes indskud, og som har valgt, at instituttets indkomst skal beskattes hos deltagerne",
       "source_provision": "16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:00:21.775Z",
+    "accession": "A20120043330",
+    "document_id": "AN011105",
+    "unique_document_id": "141764",
+    "upstream_status": "Valid",
+    "start_date": "2012-05-16",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

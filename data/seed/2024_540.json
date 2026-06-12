@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-05-28",
+  "in_force_date": "2024-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2024/540/xml",
   "description": "Retsinformation source. DocumentId=AN016341; AccessionNumber=B20240054005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Skatteforvaltningen opkræver et gebyr på 2.250 kr. pr. køretøj ved indgivelsen af en anmodning om godtgørelse efter registreringsafgiftslovens § 7 b. Gebyret betales af den, der anmoder om godtgørelsen.",
-      "valid_from": "2024-05-28",
+      "valid_from": "2024-05-29",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Et indbetalt gebyr tilbagebetales, hvis en anmodning om godtgørelse afvises i medfør af registreringsafgiftslovens § 7 c, stk. 3. Stk. 2. Skatteforvaltningen kan i andre end det i stk. 1 opregnede tilfælde beslutte at tilbagebetale gebyret, hvis særlige omstændigheder taler herfor.",
-      "valid_from": "2024-05-28",
+      "valid_from": "2024-05-29",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2024. Stk. 2. Bekendtgørelse nr. 897 af 16. juni 2020 om opkrævning af gebyr i forbindelse med anmodning om eksportgodtgørelse for brugte motorkøretøjer ophæves.",
-      "valid_from": "2024-05-28",
+      "valid_from": "2024-05-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:08:40.377Z",
+    "accession": "B20240054005",
+    "document_id": "AN016341",
+    "unique_document_id": "243485",
+    "upstream_status": "Valid",
+    "start_date": "2024-05-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

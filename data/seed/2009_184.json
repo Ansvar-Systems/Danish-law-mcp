@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af den fortegnelse over valgdistrikterne, der indeholdes i lov om folketingsvalg på Færøerne",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-03-13",
+  "in_force_date": "2009-03-17",
   "url": "https://www.retsinformation.dk/eli/lta/2009/184/xml",
-  "description": "Retsinformation source. DocumentId=BI000306; AccessionNumber=B20090018405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BI000306; AccessionNumber=B20090018405; Ophævet 2019-01-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. I Nordstrømø Syssel udgår valgstedet Saksen. Bygden Saksun (Saksen) henføres til valgstedet Kvalvig. Fortegnelsen over valgdistrikterne i Nordstrømø Syssel er herefter som vist i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2009-03-13",
-      "valid_to": null
+      "valid_from": "2009-03-17",
+      "valid_to": "2019-01-10"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. I Østerø Syssel udgår valgstedet Selletræ. Bygden Selatrað (Selletræ) og bygden Morskranes (Morskrenæs) henføres til valgstedet Strænder. Fortegnelsen over valgdistrikterne i Østerø Syssel er herefter som vist i bilag 2 til bekendtgørelsen.",
-      "valid_from": "2009-03-13",
-      "valid_to": null
+      "valid_from": "2009-03-17",
+      "valid_to": "2019-01-10"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 18. marts 2009.",
-      "valid_from": "2009-03-13",
-      "valid_to": null
+      "valid_from": "2009-03-17",
+      "valid_to": "2019-01-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:01:32.118Z",
+    "accession": "B20090018405",
+    "document_id": "BI000306",
+    "unique_document_id": "121776",
+    "upstream_status": "Historic",
+    "start_date": "2009-03-17",
+    "end_date": "2023-04-29",
+    "historic_marked": "2019-01-10",
+    "seed_status": "repealed"
+  }
 }

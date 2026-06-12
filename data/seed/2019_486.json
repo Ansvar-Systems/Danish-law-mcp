@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om erstatning fra staten til ofre for forbrydelser (Nedbringelse af sagsbehandlingstiden i Erstatningsnævnet m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-04-30",
+  "in_force_date": "2019-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2019/486/xml",
-  "description": "Retsinformation source. DocumentId=AA011405; AccessionNumber=A20190048630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA011405; AccessionNumber=A20190048630; Ophævet 2025-11-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10a",
@@ -30,22 +31,33 @@
       "section": "10a",
       "content": "§ 10 a. Justitsministeren kan fastsætte regler om, at ansøgning om erstatning og godtgørelse skal indgives ved anvendelse af den digitale løsning, som Civilstyrelsen stiller til rådighed (digital selvbetjening).",
       "valid_from": "2019-04-30",
-      "valid_to": null
+      "valid_to": "2025-11-28"
     },
     {
       "provision_ref": "11c",
       "section": "11c",
       "content": "§ 11 c. Nævnet træffer ikke afgørelse, før straffesagen mod skadevolderen er afgjort ved endelig dom eller efterforskningen er indstillet. Afgørelsen udsættes endvidere med henblik på at konstatere, om skaden dækkes fra anden side, jf. § 7, stk. 1. Stk. 2. Uanset at betingelserne i stk. 1 ikke er opfyldt, kan nævnet træffe afgørelse, hvis forholdene taler for det.",
       "valid_from": "2019-04-30",
-      "valid_to": null
+      "valid_to": "2025-11-28"
     },
     {
       "provision_ref": "14a",
       "section": "14a",
       "content": "§ 14 a. Nævnet kan få terminaladgang til de oplysninger i indkomstregisteret, der er nødvendige til brug for behandlingen af ansøgninger i medfør af denne lov.",
       "valid_from": "2019-04-30",
-      "valid_to": null
+      "valid_to": "2025-11-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:07:40.778Z",
+    "accession": "A20190048630",
+    "document_id": "AA011405",
+    "unique_document_id": "208965",
+    "upstream_status": "Historic",
+    "start_date": "2019-04-30",
+    "end_date": "2025-11-29",
+    "historic_marked": "2025-11-28",
+    "seed_status": "repealed"
+  }
 }

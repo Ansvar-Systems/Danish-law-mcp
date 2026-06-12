@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-10-05",
+  "in_force_date": "2021-10-07",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1914/xml",
   "description": "Retsinformation source. DocumentId=AP000332; AccessionNumber=B20210191405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for afvikling af teoretiske og praktiske køreprøver, udstedelse og administration af kørekort, udstedelse af særtransporttilladelser samt udstedelse af takografkort overføres fra justitsministeren til transportministeren pr. 1. oktober 2021.",
-      "valid_from": "2021-10-05",
+      "valid_from": "2021-10-07",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:59:12.204Z",
+    "accession": "B20210191405",
+    "document_id": "AP000332",
+    "unique_document_id": "225341",
+    "upstream_status": "Valid",
+    "start_date": "2021-10-07",
+    "end_date": "2021-10-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

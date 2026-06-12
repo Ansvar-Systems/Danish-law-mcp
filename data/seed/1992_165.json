@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om råstoffer (Råstofloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-03-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/165/xml",
-  "description": "Retsinformation source. DocumentId=CM008054; AccessionNumber=A19920016529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008054; AccessionNumber=A19920016529; Ophævet 1997-07-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:19:34.702Z",
+    "accession": "A19920016529",
+    "document_id": "CM008054",
+    "unique_document_id": "49245",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-12-29",
+    "historic_marked": "1997-07-08",
+    "seed_status": "repealed"
+  }
 }

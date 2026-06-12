@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om dykkeruddannelser",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-01",
+  "in_force_date": "2000-09-11",
   "url": "https://www.retsinformation.dk/eli/lta/2000/830/xml",
-  "description": "Retsinformation source. DocumentId=AD000710; AccessionNumber=B20000083005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000710; AccessionNumber=B20000083005; Ophævet 2009-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:35:10.707Z",
+    "accession": "B20000083005",
+    "document_id": "AD000710",
+    "unique_document_id": "4780",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-11",
+    "end_date": "2017-12-09",
+    "historic_marked": "2009-12-18",
+    "seed_status": "repealed"
+  }
 }

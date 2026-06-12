@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social service (Genindførelse af ordning med obligatorisk opfølgnings- og læringsforløb efter påbud fra Styrelsen for Patientsikkerheds Ældretilsyn)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-06-13",
+  "in_force_date": "2023-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2023/750/xml",
-  "description": "Retsinformation source. DocumentId=DH001364; AccessionNumber=A20230075030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DH001364; AccessionNumber=A20230075030; Ophævet 2023-08-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "150e",
@@ -19,9 +20,20 @@
       "provision_ref": "150e",
       "section": "150e",
       "content": "§ 150 e. Modtager en registreringspligtig enhed, jf. § 150 c, et påbud om krav til den social- og plejefaglige indsats eller om midlertidigt at indstille driften af den social- og plejefaglige indsats hos den pågældende enhed helt eller delvis, jf. § 150 d, stk. 1, skal vedkommende registreringspligtige enhed tage imod et opfølgnings- og læringsforløb ved et udgående rejsehold under Videnscenter for værdig ældrepleje i Sundhedsstyrelsen.",
-      "valid_from": "2023-06-13",
-      "valid_to": null
+      "valid_from": "2023-06-14",
+      "valid_to": "2023-08-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:59:50.100Z",
+    "accession": "A20230075030",
+    "document_id": "DH001364",
+    "unique_document_id": "238004",
+    "upstream_status": "Historic",
+    "start_date": "2023-06-14",
+    "end_date": "2026-02-05",
+    "historic_marked": "2023-08-16",
+    "seed_status": "repealed"
+  }
 }

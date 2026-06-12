@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-12-07",
+  "in_force_date": "2017-12-08",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1424/xml",
   "description": "Retsinformation source. DocumentId=CQ000167; AccessionNumber=B20170142405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 952 af 12. oktober 2005 om information og høring af søfarende ophæves.",
-      "valid_from": "2017-12-07",
+      "valid_from": "2017-12-08",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 10. december 2017.",
-      "valid_from": "2017-12-07",
+      "valid_from": "2017-12-08",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:53:50.591Z",
+    "accession": "B20170142405",
+    "document_id": "CQ000167",
+    "unique_document_id": "191411",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-08",
+    "end_date": "2017-12-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

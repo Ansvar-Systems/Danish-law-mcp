@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2009-11-23",
+  "in_force_date": "2009-12-03",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1117/xml",
   "description": "Retsinformation source. DocumentId=AA005130; AccessionNumber=B20090111705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Efter arvelovens § 97, stk. 1, reguleres beløbsgrænserne i lovens § 5, stk. 2, og § 11, stk. 2, årligt pr. 1. januar med 2,0 pct. tillagt eller fratrukket tilpasningskvotienten (tilpasningsprocenten) for det pågældende finansår, jf. lov om en satsreguleringsprocent. Reguleringen sker på grundlag af den på reguleringstidspunktet gældende beløbsgrænse før afrunding. Det regulerede beløb afrundes opad til det nærmeste hele kronebeløb, der kan deles med 10.000. Stk. 2. Tilpasningsprocenten for finansåret 2010 udgør 2,0, jf. § 2 i bekendtgørelse nr. 809 af 24. august 2009 om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2010.",
-      "valid_from": "2009-11-23",
+      "valid_from": "2009-12-03",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Med virkning for perioden 1. januar 2010 – 31. december 2010 udgør det i lovens § 5, stk. 2, nævnte beløb 1.080.000 kr.",
-      "valid_from": "2009-11-23",
+      "valid_from": "2009-12-03",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Med virkning for perioden 1. januar 2010 – 31. december 2010 udgør det i lovens § 11, stk. 2, nævnte beløb 650.000 kr.",
-      "valid_from": "2009-11-23",
+      "valid_from": "2009-12-03",
       "valid_to": null
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2010.",
-      "valid_from": "2009-11-23",
+      "valid_from": "2009-12-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:42:21.001Z",
+    "accession": "B20090111705",
+    "document_id": "AA005130",
+    "unique_document_id": "127953",
+    "upstream_status": "Valid",
+    "start_date": "2009-12-03",
+    "end_date": "2021-06-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

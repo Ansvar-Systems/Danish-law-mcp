@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Tronfølgelov (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1953-03-27",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1953/170/xml",
-  "description": "Retsinformation source. DocumentId=CM004519; AccessionNumber=A19530017030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM004519; AccessionNumber=A19530017030; Ophævet 2009-09-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:57:53.550Z",
+    "accession": "A19530017030",
+    "document_id": "CM004519",
+    "unique_document_id": "45903",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2020-07-15",
+    "historic_marked": "2009-09-11",
+    "seed_status": "repealed"
+  }
 }

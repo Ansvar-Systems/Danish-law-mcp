@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til elektricitet produceret i industrielle kraft-varme-værker",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-26",
+  "in_force_date": "2017-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1740/xml",
-  "description": "Retsinformation source. DocumentId=CI000380; AccessionNumber=B20170174005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000380; AccessionNumber=B20170174005; Ophævet 2018-03-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "19",
@@ -19,9 +20,20 @@
       "provision_ref": "19",
       "section": "19",
       "content": "§ 19. Energistyrelsens afgørelser efter denne bekendtgørelse kan ikke påklages til energi-, forsynings- og klimaministeren jf. bekendtgørelse om Energistyrelsens opgaver og beføjelser. Afgørelser nævnt i denne bekendtgørelse kan påklages til Energiklagenævnet, jf. § 89 i lov om elforsyning.",
-      "valid_from": "2017-12-26",
-      "valid_to": null
+      "valid_from": "2017-12-29",
+      "valid_to": "2018-03-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:06:35.237Z",
+    "accession": "B20170174005",
+    "document_id": "CI000380",
+    "unique_document_id": "196387",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2018-03-05",
+    "seed_status": "repealed"
+  }
 }

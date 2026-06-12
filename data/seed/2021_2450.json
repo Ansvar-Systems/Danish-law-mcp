@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om styrthjelme",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-13",
+  "in_force_date": "2021-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2450/xml",
-  "description": "Retsinformation source. DocumentId=DG000289; AccessionNumber=B20210245005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000289; AccessionNumber=B20210245005; Ophævet 2024-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:20:52.238Z",
+    "accession": "B20210245005",
+    "document_id": "DG000289",
+    "unique_document_id": "228043",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-16",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-11-21",
+    "seed_status": "repealed"
+  }
 }

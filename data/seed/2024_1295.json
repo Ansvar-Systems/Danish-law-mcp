@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-11-29",
+  "in_force_date": "2024-11-29",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1295/xml",
   "description": "Retsinformation source. DocumentId=DM000031; AccessionNumber=B20240129505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -829,5 +830,16 @@
       "definition": "grupper af træer og buske, hvor trækronerne eller buskene tilsammen overstiger et areal på 100 m², dog undtaget arealer, der er omfattet af § 22, § 26 og § 31",
       "source_provision": "3:18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:34:25.608Z",
+    "accession": "B20240129505",
+    "document_id": "DM000031",
+    "unique_document_id": "246580",
+    "upstream_status": "Valid",
+    "start_date": "2024-11-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

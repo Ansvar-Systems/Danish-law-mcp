@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om statsautoriserede vejere og målere",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-02-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/94/xml",
-  "description": "Retsinformation source. DocumentId=CM023306; AccessionNumber=B19890009405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023306; AccessionNumber=B19890009405; Ophævet 1995-01-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:01:52.691Z",
+    "accession": "B19890009405",
+    "document_id": "CM023306",
+    "unique_document_id": "64271",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1995-01-10",
+    "seed_status": "repealed"
+  }
 }

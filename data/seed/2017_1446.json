@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 8-12, i lov om ændring af lov om spil, lov om afgifter af spil og lov om Danske Spil A/S (Liberalisering af onlinebingo, heste- og hundevæddemål og væddemål på kapflyvning med brevduer samt indførelse af et særligt bidrag til hestevæddeløbssporten)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-11",
+  "in_force_date": "2017-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1446/xml",
-  "description": "Retsinformation source. DocumentId=AN013209; AccessionNumber=B20170144605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN013209; AccessionNumber=B20170144605; Ophævet 2021-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 8-12, i lov nr. 686 af 8. juni 2017 om ændring af lov om spil, lov om afgifter af spil og lov om Danske Spil A/S (Liberalisering af onlinebingo, heste- og hundevæddemål og væddemål på kapflyvning med brevduer samt indførelse af et særligt bidrag til hestevæddeløbssporten) sættes i kraft.",
-      "valid_from": "2017-12-11",
-      "valid_to": null
+      "valid_from": "2017-12-12",
+      "valid_to": "2021-05-26"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2018.",
-      "valid_from": "2017-12-11",
-      "valid_to": null
+      "valid_from": "2017-12-12",
+      "valid_to": "2021-05-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:54:42.867Z",
+    "accession": "B20170144605",
+    "document_id": "AN013209",
+    "unique_document_id": "196310",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-05-26",
+    "seed_status": "repealed"
+  }
 }

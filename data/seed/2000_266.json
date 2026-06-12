@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af_lov om aktiv socialpolitik",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-04-12",
+  "in_force_date": "2000-04-22",
   "url": "https://www.retsinformation.dk/eli/lta/2000/266/xml",
-  "description": "Retsinformation source. DocumentId=AO000724; AccessionNumber=A20000026629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000724; AccessionNumber=A20000026629; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:12:25.599Z",
+    "accession": "A20000026629",
+    "document_id": "AO000724",
+    "unique_document_id": "18892",
+    "upstream_status": "Historic",
+    "start_date": "2000-04-22",
+    "end_date": "2022-12-31",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

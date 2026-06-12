@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om offentlige myndigheders registre.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-06-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1978/294/xml",
-  "description": "Retsinformation source. DocumentId=CM018335; AccessionNumber=A19780029430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018335; AccessionNumber=A19780029430; Ophævet 1989-02-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:01:42.139Z",
+    "accession": "A19780029430",
+    "document_id": "CM018335",
+    "unique_document_id": "59382",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-19",
+    "historic_marked": "1989-02-17",
+    "seed_status": "repealed"
+  }
 }

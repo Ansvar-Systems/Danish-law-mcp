@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om lån m.v. til udenlandske moderselskaber",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-03-25",
+  "in_force_date": "2010-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2010/275/xml",
-  "description": "Retsinformation source. DocumentId=AU003974; AccessionNumber=B20100027505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003974; AccessionNumber=B20100027505; Ophævet 2019-10-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Et kapitalselskab kan direkte eller indirekte stille midler til rådighed, yde lån eller stille sikkerhed for et moderselskab, der er et aktieselskab, partnerselskab, anpartsselskab eller et selskab med en tilsvarende retsform, hvis moderselskabet 1) har hjemsted i et andet EU-land, et EØS-land eller Schweiz, eller 2) har hjemsted i Australien, Canada, Hongkong, Japan, Sydkorea, New Zealand, Singapore, Taiwan eller USA.",
-      "valid_from": "2010-03-25",
-      "valid_to": null
+      "valid_from": "2010-03-27",
+      "valid_to": "2019-10-29"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 31. marts 2010.",
-      "valid_from": "2010-03-25",
-      "valid_to": null
+      "valid_from": "2010-03-27",
+      "valid_to": "2019-10-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:08:51.833Z",
+    "accession": "B20100027505",
+    "document_id": "AU003974",
+    "unique_document_id": "131090",
+    "upstream_status": "Historic",
+    "start_date": "2010-03-27",
+    "end_date": "2019-10-30",
+    "historic_marked": "2019-10-29",
+    "seed_status": "repealed"
+  }
 }

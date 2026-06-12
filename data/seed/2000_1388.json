@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om overvågningen af BSE hos kvæg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-28",
+  "in_force_date": "2000-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1388/xml",
-  "description": "Retsinformation source. DocumentId=AH000798; AccessionNumber=B20000138805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000798; AccessionNumber=B20000138805; Ophævet 2002-02-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:06:07.541Z",
+    "accession": "B20000138805",
+    "document_id": "AH000798",
+    "unique_document_id": "7149",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2002-02-21",
+    "seed_status": "repealed"
+  }
 }

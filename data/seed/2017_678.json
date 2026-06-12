@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om hold af dyr (Bemyndigelse til fastsættelse af regler om obligatorisk hygiejnekursus for visse personer, der håndterer svin, m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-06-08",
+  "in_force_date": "2017-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2017/678/xml",
-  "description": "Retsinformation source. DocumentId=CK001296; AccessionNumber=A20170067830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK001296; AccessionNumber=A20170067830; Ophævet 2017-07-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3b",
@@ -20,8 +21,19 @@
       "section": "3b",
       "content": "§ 3 b. Miljø- og fødevareministeren kan fastsætte regler om obligatorisk hygiejnekursus for visse personer, der håndterer svin, herunder regler om formen og indholdet af kurset.",
       "valid_from": "2017-06-08",
-      "valid_to": null
+      "valid_to": "2017-07-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:28:06.688Z",
+    "accession": "A20170067830",
+    "document_id": "CK001296",
+    "unique_document_id": "191364",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-08",
+    "end_date": "2022-04-09",
+    "historic_marked": "2017-07-03",
+    "seed_status": "repealed"
+  }
 }

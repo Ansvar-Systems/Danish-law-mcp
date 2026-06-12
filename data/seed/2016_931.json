@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-06-27",
+  "in_force_date": "2016-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2016/931/xml",
   "description": "Retsinformation source. DocumentId=CK000768; AccessionNumber=B20160093105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1007 af 11. oktober 2004 om henlæggelse af visse opgaver og beføjelser til Skov- og Naturstyrelsen og Direktoratet for FødevareErhverv ophæves.",
-      "valid_from": "2016-06-27",
+      "valid_from": "2016-06-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2016.",
-      "valid_from": "2016-06-27",
+      "valid_from": "2016-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:34:01.453Z",
+    "accession": "B20160093105",
+    "document_id": "CK000768",
+    "unique_document_id": "182050",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

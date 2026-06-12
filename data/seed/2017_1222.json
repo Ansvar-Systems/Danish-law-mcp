@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-11-22",
+  "in_force_date": "2017-11-24",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1222/xml",
   "description": "Retsinformation source. DocumentId=CN000485; AccessionNumber=B20170122205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. De apoteksregnskaber, som apotekeren skal udarbejde i henhold til bekendtgørelse om apotekeres og apotekerkæders aflæggelse af regnskab, skal indtastes i det af Lægemiddelstyrelsen anviste skema og indsendes til Lægemiddelstyrelsen.",
-      "valid_from": "2017-11-22",
+      "valid_from": "2017-11-24",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ved indsendelse af apoteksregnskaber til Lægemiddelstyrelsen skal apotekeren anvende Lægemiddelstyrelsens elektroniske formular: »Indsendelse af apoteksregnskab«. Regnskabet skal indsendes og signeres elektronisk af apotekeren personligt. Hvis regnskabet indsendes på anden vis, eller hvis der ændres i det i § 1 nævnte skemas struktur eller format, anses regnskabet ikke for afleveret.",
-      "valid_from": "2017-11-22",
+      "valid_from": "2017-11-24",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Apoteksregnskaber, som skal udarbejdes for hvert kalenderår, jf. § 1 i bekendtgørelse om apotekeres og apotekerkæders aflæggelse af regnskab, skal være indsendt til Lægemiddelstyrelsen inden den 1. april i det følgende kalenderår, jf. dog stk. 2 og 3. Stk. 2. For apotekere, hvor apotekerbevilling bortfalder, jf. apotekerlovens § 22, skal apoteksregnskab indsendes senest 4 måneder efter bevillingsophør. Stk. 3. For apotekere, hvor apotekerbevilling bortfalder, jf. apotekerlovens § 22, og hvor Lægemiddelstyrelsen efter apotekerlovens § 19 midlertidigt overtager driften, skal apoteksregnskab indsendes senest 4 måneder efter ophør af Lægemiddelstyrelsen midlertidige drift.",
-      "valid_from": "2017-11-22",
+      "valid_from": "2017-11-24",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Undlader en apoteker at indsende apoteksregnskaber som anført i §§ 1-3, kan Lægemiddelstyrelsen pålægge apotekeren daglige eller ugentlige bøder, jf. § 74 i lov om apoteksvirksomhed.",
-      "valid_from": "2017-11-22",
+      "valid_from": "2017-11-24",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. januar 2018. Stk. 2. Bekendtgørelsen finder anvendelse for regnskaber for regnskabsåret 2017 og efterfølgende år. Stk. 3. Bekendtgørelse nr. 1138 af 25. september 2015 om apotekernes indsendelse af regnskabsoplysninger ophæves.",
-      "valid_from": "2017-11-22",
+      "valid_from": "2017-11-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:45:44.236Z",
+    "accession": "B20170122205",
+    "document_id": "CN000485",
+    "unique_document_id": "194857",
+    "upstream_status": "Valid",
+    "start_date": "2017-11-24",
+    "end_date": "2023-06-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

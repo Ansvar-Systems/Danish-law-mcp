@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udstykningskontrollen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-06",
+  "in_force_date": "1999-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/1999/880/xml",
-  "description": "Retsinformation source. DocumentId=AC000151; AccessionNumber=B19990088005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000151; AccessionNumber=B19990088005; Ophævet 2002-12-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:45:43.335Z",
+    "accession": "B19990088005",
+    "document_id": "AC000151",
+    "unique_document_id": "4014",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-13",
+    "end_date": "2021-01-08",
+    "historic_marked": "2002-12-12",
+    "seed_status": "repealed"
+  }
 }

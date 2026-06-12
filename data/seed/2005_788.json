@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forbud mod tv-overvågning m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-08-12",
+  "in_force_date": "2005-08-25",
   "url": "https://www.retsinformation.dk/eli/lta/2005/788/xml",
-  "description": "Retsinformation source. DocumentId=AA002994; AccessionNumber=A20050078829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002994; AccessionNumber=A20050078829; Ophævet 2007-10-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:34:18.926Z",
+    "accession": "A20050078829",
+    "document_id": "AA002994",
+    "unique_document_id": "2159",
+    "upstream_status": "Historic",
+    "start_date": "2005-08-25",
+    "end_date": "2025-05-27",
+    "historic_marked": "2007-10-16",
+    "seed_status": "repealed"
+  }
 }

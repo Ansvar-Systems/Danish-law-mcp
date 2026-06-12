@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af arveloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-14",
+  "in_force_date": "2001-08-23",
   "url": "https://www.retsinformation.dk/eli/lta/2001/727/xml",
-  "description": "Retsinformation source. DocumentId=AA001508; AccessionNumber=A20010072729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001508; AccessionNumber=A20010072729; Ophævet 2007-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:11:35.176Z",
+    "accession": "A20010072729",
+    "document_id": "AA001508",
+    "unique_document_id": "1125",
+    "upstream_status": "Historic",
+    "start_date": "2001-08-23",
+    "end_date": "2022-01-21",
+    "historic_marked": "2007-06-06",
+    "seed_status": "repealed"
+  }
 }

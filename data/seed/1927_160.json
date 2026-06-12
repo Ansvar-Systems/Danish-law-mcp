@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om pligtig Aflevering af Tryksager til offentlige Biblioteker. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1927-07-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1927/160/xml",
-  "description": "Retsinformation source. DocumentId=CM006547; AccessionNumber=A19270016030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006547; AccessionNumber=A19270016030; Ophævet 1997-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:43:14.560Z",
+    "accession": "A19270016030",
+    "document_id": "CM006547",
+    "unique_document_id": "47747",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2020-10-27",
+    "historic_marked": "1997-06-26",
+    "seed_status": "repealed"
+  }
 }

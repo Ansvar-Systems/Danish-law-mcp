@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social service (Styrkelse af forældres retssikkerhed i anbringelsessager, hensyn til barnets skolegang ved valg af anbringelsessted og ophævelse af adgang til at fastsætte regler om anbragte børns og unges egenbetaling m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-02-25",
+  "in_force_date": "2020-02-25",
   "url": "https://www.retsinformation.dk/eli/lta/2020/137/xml",
-  "description": "Retsinformation source. DocumentId=CY000362; AccessionNumber=A20200013730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CY000362; AccessionNumber=A20200013730; Ophævet 2020-09-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:43:23.971Z",
+    "accession": "A20200013730",
+    "document_id": "CY000362",
+    "unique_document_id": "212988",
+    "upstream_status": "Historic",
+    "start_date": "2020-02-25",
+    "end_date": "2022-07-08",
+    "historic_marked": "2020-09-01",
+    "seed_status": "repealed"
+  }
 }

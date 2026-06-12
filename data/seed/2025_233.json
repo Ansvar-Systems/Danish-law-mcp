@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godkendelse af udbydere af de obligatoriske arbejdsmiljøuddannelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-02-26",
+  "in_force_date": "2025-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2025/233/xml",
-  "description": "Retsinformation source. DocumentId=BE010089; AccessionNumber=B20250023305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE010089; AccessionNumber=B20250023305; Ophævet 2026-02-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "30",
@@ -19,9 +20,20 @@
       "provision_ref": "30",
       "section": "30",
       "content": "§ 30. Arbejdstilsynet offentliggør evalueringsrapporten på Arbejdstilsynets hjemmeside.",
-      "valid_from": "2025-02-26",
-      "valid_to": null
+      "valid_from": "2025-02-27",
+      "valid_to": "2026-02-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:03:45.575Z",
+    "accession": "B20250023305",
+    "document_id": "BE010089",
+    "unique_document_id": "246382",
+    "upstream_status": "Historic",
+    "start_date": "2025-02-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2026-02-27",
+    "seed_status": "repealed"
+  }
 }

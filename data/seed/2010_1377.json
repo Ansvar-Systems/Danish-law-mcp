@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-12-09",
+  "in_force_date": "2010-12-14",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1377/xml",
   "description": "Retsinformation source. DocumentId=BE004405; AccessionNumber=B20100137705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra private arbejdsgivere fastsættes for 2011 til 693 kr. for hver gang arbejdsgiveren betaler et beløb, der svarer til et fuldt års ATP-bidrag, jf. § 15 i lov om Arbejdsmarkedets Tillægspension.",
-      "valid_from": "2010-12-09",
+      "valid_from": "2010-12-14",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2011. Stk. 2. Det for 2011 fastsatte bidrag opkræves første gang på grundlag af ATP-bidrag, der er modtaget i perioden 2. marts – 1. juni 2011.",
-      "valid_from": "2010-12-09",
+      "valid_from": "2010-12-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:50:15.501Z",
+    "accession": "B20100137705",
+    "document_id": "BE004405",
+    "unique_document_id": "134446",
+    "upstream_status": "Valid",
+    "start_date": "2010-12-14",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2020-12-07",
+  "in_force_date": "2020-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1873/xml",
   "description": "Retsinformation source. DocumentId=CE001008; AccessionNumber=B20200187305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Studievalg Danmarks vejledning skal bidrage til, at valg af erhvervsuddannelse, videregående uddannelse og efter- og videreuddannelse bliver til størst mulig gavn for den enkelte og samfundet. Stk. 2. Vejledningen skal gøre det muligt for den enkelte at håndtere valg af erhvervsuddannelse, videregående uddannelse og karriere i et livslangt persektiv og skal bidrage til, at den enkelte kan træffe oplyste, reflekterede og realistiske valg af erhvervsuddannelse og videregående uddannelse i sammenhæng med den uddannelses- og beskæftigelsesmæssige udvikling.",
-      "valid_from": "2020-12-07",
+      "valid_from": "2020-12-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:03:35.843Z",
+    "accession": "B20200187305",
+    "document_id": "CE001008",
+    "unique_document_id": "216881",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-10",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

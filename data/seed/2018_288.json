@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-04-19",
+  "in_force_date": "2018-04-21",
   "url": "https://www.retsinformation.dk/eli/lta/2018/288/xml",
   "description": "Retsinformation source. DocumentId=AP000288; AccessionNumber=B20180028805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver i forbindelse med bemanding og husning vedrørende radiorummet til brug for den radiobaserede maritime nød- og sikkerhedstjeneste i Grønland og Danmark overføres fra energi-, forsynings- og klimaministeren til forsvarsministeren pr. 25. april 2018.",
-      "valid_from": "2018-04-19",
+      "valid_from": "2018-04-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:59:43.018Z",
+    "accession": "B20180028805",
+    "document_id": "AP000288",
+    "unique_document_id": "200788",
+    "upstream_status": "Valid",
+    "start_date": "2018-04-21",
+    "end_date": "2018-04-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

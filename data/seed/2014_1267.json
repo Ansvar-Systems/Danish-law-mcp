@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Det Centrale Virksomhedsregister og www.cvr.dk",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-02",
+  "in_force_date": "2014-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1267/xml",
-  "description": "Retsinformation source. DocumentId=BP001086; AccessionNumber=B20140126705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001086; AccessionNumber=B20140126705; Ophævet 2020-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:37:51.912Z",
+    "accession": "B20140126705",
+    "document_id": "BP001086",
+    "unique_document_id": "166309",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-04",
+    "end_date": "2020-12-22",
+    "historic_marked": "2020-12-21",
+    "seed_status": "repealed"
+  }
 }

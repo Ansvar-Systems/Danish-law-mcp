@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-12-07",
+  "in_force_date": "2016-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1521/xml",
   "description": "Retsinformation source. DocumentId=CK001066; AccessionNumber=B20160152105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 451 af 23. maj 2016 om produktionsafgift ved slagtning og eksport af får ophæves.",
-      "valid_from": "2016-12-07",
+      "valid_from": "2016-12-13",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2017.",
-      "valid_from": "2016-12-07",
+      "valid_from": "2016-12-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:53:09.628Z",
+    "accession": "B20160152105",
+    "document_id": "CK001066",
+    "unique_document_id": "185352",
+    "upstream_status": "Valid",
+    "start_date": "2016-12-13",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

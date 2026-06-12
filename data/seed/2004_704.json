@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om valg til Folketinget",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-27",
+  "in_force_date": "2004-07-08",
   "url": "https://www.retsinformation.dk/eli/lta/2004/704/xml",
-  "description": "Retsinformation source. DocumentId=AI001652; AccessionNumber=A20040070429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001652; AccessionNumber=A20040070429; Ophævet 2006-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:36:54.556Z",
+    "accession": "A20040070429",
+    "document_id": "AI001652",
+    "unique_document_id": "9924",
+    "upstream_status": "Historic",
+    "start_date": "2004-07-08",
+    "end_date": "2023-04-29",
+    "historic_marked": "2006-12-18",
+    "seed_status": "repealed"
+  }
 }

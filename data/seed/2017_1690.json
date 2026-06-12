@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af integrationsloven og lov om danskuddannelse til voksne udlændinge m.fl. (Forenkling og justering af reglerne om fordeling og boligplacering af flygtninge og præcisering af personkreds for danskuddannelse m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-26",
+  "in_force_date": "2017-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1690/xml",
-  "description": "Retsinformation source. DocumentId=CS000276; AccessionNumber=A20170169030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS000276; AccessionNumber=A20170169030; Ophævet 2020-01-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7. Udlændingestyrelsen fastsætter det antal flygtninge, som påregnes boligplaceret inden for de enkelte regioner i det kommende kalenderår. De fastsatte regionskvoter udsendes samtidig med landstallet. Stk. 2. Ændres landstallet for det indeværende eller kommende kalenderår, jf. § 6, 2. og 3. pkt., fastsætter Udlændingestyrelsen samtidig med udsendelsen af det ændrede landstal det antal flygtninge, som påregnes boligplaceret inden for de enkelte regioner i det pågældende år.",
-      "valid_from": "2017-12-26",
-      "valid_to": null
+      "valid_from": "2017-12-27",
+      "valid_to": "2020-01-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:04:32.062Z",
+    "accession": "A20170169030",
+    "document_id": "CS000276",
+    "unique_document_id": "196950",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-27",
+    "end_date": "2020-07-15",
+    "historic_marked": "2020-01-06",
+    "seed_status": "repealed"
+  }
 }

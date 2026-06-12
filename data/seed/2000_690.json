@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om den samlede danske nummerplan",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-13",
+  "in_force_date": "2000-07-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/690/xml",
-  "description": "Retsinformation source. DocumentId=AF000171; AccessionNumber=B20000069005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000171; AccessionNumber=B20000069005; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:29:31.021Z",
+    "accession": "B20000069005",
+    "document_id": "AF000171",
+    "unique_document_id": "6202",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-20",
+    "end_date": "2026-06-04",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

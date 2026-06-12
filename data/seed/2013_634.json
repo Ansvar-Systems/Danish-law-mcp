@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven, retsplejeloven og forskellige andre love\\n(Styrket indsats over for økonomisk kriminalitet)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-12",
+  "in_force_date": "2013-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2013/634/xml",
-  "description": "Retsinformation source. DocumentId=AA007163; AccessionNumber=A20130063430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007163; AccessionNumber=A20130063430; Ophævet 2020-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "299",
@@ -25,15 +26,26 @@
       "section": "299",
       "content": "§ 299. Med bøde eller fængsel indtil 1 år og 6 måneder straffes den, som, uden at betingelserne for at anvende § 280 foreligger, i et formueanliggende, som det påhviler den pågældende at varetage for en anden, ved tilsidesættelse af sin pligt påfører denne et betydeligt formuetab, som ikke erstattes inden dom i første instans. Align Stk. 2. Med bøde eller fængsel indtil 4 år straffes den, som ved varetagelse af en andens formueanliggender for sig selv eller andre på pligtstridig måde modtager, fordrer eller lader sig tilsige gave eller anden fordel, såvel som den, der yder, lover eller tilbyder en sådan gave eller anden fordel. Align",
       "valid_from": "2013-06-12",
-      "valid_to": null
+      "valid_to": "2020-12-18"
     },
     {
       "provision_ref": "807",
       "section": "807",
       "content": "§ 807 f. Beløb, som en person har til gode hos en virksomhed, der er omfattet af § 1 i lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme, kan beslaglægges midlertidigt som led i efterforskningen af en lovovertrædelse, der er undergivet offentlig påtale, hvis der er grund til at antage, at beløbet har tilknytning til hvidvask eller finansiering af terrorisme, og midlertidig beslaglæggelse anses for nødvendig for at sikre krav på konfiskation. § 805, stk. 1 og 2, finder tilsvarende anvendelse. Align Stk. 2. Afgørelse om midlertidig beslaglæggelse træffes af politiet. § 806, stk. 4, 2. pkt., finder tilsvarende anvendelse. Align Stk. 3. Politiet iværksætter midlertidig beslaglæggelse. Politiet skal snarest muligt og senest inden 24 timer underrette og vejlede den, som indgrebet retter sig mod, om adgangen til at få spørgsmålet indbragt for retten, medmindre politiet inden samme frist indgiver anmodning som nævnt i stk. 4. Align Stk. 4. Hvis det er af afgørende betydning for efterforskningen, at der foretages midlertidig beslaglæggelse, uden at den, som indgrebet retter sig mod, eller andre gøres bekendt hermed, kan retten ved kendelse træffe bestemmelse herom. §§ 784, 785 og 788 finder tilsvarende anvendelse. Align Stk. 5. § 807 b, stk. 1, finder tilsvarende anvendelse på midlertidig beslaglæggelse. Align Stk. 6. Midlertidig beslaglæggelse bortfalder senest efter 1 uge. Align",
       "valid_from": "2013-06-12",
-      "valid_to": null
+      "valid_to": "2020-12-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:16.394Z",
+    "accession": "A20130063430",
+    "document_id": "AA007163",
+    "unique_document_id": "152268",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-12",
+    "end_date": "2022-12-13",
+    "historic_marked": "2020-12-18",
+    "seed_status": "repealed"
+  }
 }

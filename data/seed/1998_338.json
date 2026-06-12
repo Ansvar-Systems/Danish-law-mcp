@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om boafgifter og gaveafgift m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-06-11",
+  "in_force_date": "1998-06-18",
   "url": "https://www.retsinformation.dk/eli/lta/1998/338/xml",
-  "description": "Retsinformation source. DocumentId=CM047278; AccessionNumber=B19980033805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047278; AccessionNumber=B19980033805; Ophævet 1998-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:41:10.671Z",
+    "accession": "B19980033805",
+    "document_id": "CM047278",
+    "unique_document_id": "87452",
+    "upstream_status": "Historic",
+    "start_date": "1998-06-18",
+    "end_date": "2000-01-17",
+    "historic_marked": "1998-07-01",
+    "seed_status": "repealed"
+  }
 }

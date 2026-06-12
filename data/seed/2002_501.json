@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om standardvedtægt for anerkendte a-kasser",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-06-21",
+  "in_force_date": "2002-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2002/501/xml",
-  "description": "Retsinformation source. DocumentId=BE000236; AccessionNumber=B20020050105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000236; AccessionNumber=B20020050105; Ophævet 2005-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:47:02.124Z",
+    "accession": "B20020050105",
+    "document_id": "BE000236",
+    "unique_document_id": "29487",
+    "upstream_status": "Historic",
+    "start_date": "2002-06-27",
+    "end_date": "2007-08-20",
+    "historic_marked": "2005-12-29",
+    "seed_status": "repealed"
+  }
 }

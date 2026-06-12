@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2018-06-22",
+  "in_force_date": "2018-06-22",
   "url": "https://www.retsinformation.dk/eli/lta/2018/821/xml",
   "description": "Retsinformation source. DocumentId=CN000714; AccessionNumber=B20180082103; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -2641,5 +2642,16 @@
       "definition": "bekæmpelse af smitsomme sygdomme, hygiejniske forhold og sundhedsproblemer af mere generel karakter",
       "source_provision": "66:220"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:21:14.377Z",
+    "accession": "B20180082103",
+    "document_id": "CN000714",
+    "unique_document_id": "202049",
+    "upstream_status": "Valid",
+    "start_date": "2018-06-22",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

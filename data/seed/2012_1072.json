@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om licens",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-11-16",
+  "in_force_date": "2012-11-21",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1072/xml",
-  "description": "Retsinformation source. DocumentId=AK000892; AccessionNumber=B20120107205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000892; AccessionNumber=B20120107205; Ophævet 2013-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "31",
@@ -19,9 +20,20 @@
       "provision_ref": "31",
       "section": "31",
       "content": "§ 31. Licens, jf. § 2, er fastsat af kulturministeren og tiltrådt af Finansudvalget, jf. akt 160 af 23. juni 2011 og akt 20 af 8. november 2012.",
-      "valid_from": "2012-11-16",
-      "valid_to": null
+      "valid_from": "2012-11-21",
+      "valid_to": "2013-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:32:55.808Z",
+    "accession": "B20120107205",
+    "document_id": "AK000892",
+    "unique_document_id": "143937",
+    "upstream_status": "Historic",
+    "start_date": "2012-11-21",
+    "end_date": "2013-06-29",
+    "historic_marked": "2013-06-28",
+    "seed_status": "repealed"
+  }
 }

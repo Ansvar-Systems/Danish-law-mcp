@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om manuel transport",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1982-08-03",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1982/465/xml",
-  "description": "Retsinformation source. DocumentId=CM026516; AccessionNumber=B19820046505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026516; AccessionNumber=B19820046505; Ophævet 1992-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:19:34.923Z",
+    "accession": "B19820046505",
+    "document_id": "CM026516",
+    "unique_document_id": "67337",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1992-12-30",
+    "seed_status": "repealed"
+  }
 }

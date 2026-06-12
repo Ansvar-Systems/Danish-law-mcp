@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om delegation af social- og ældreministerens beføjelser efter akt nr. 351 af 23. september 2021 om flere hænder og højere faglighed i ældreplejen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-09-26",
+  "in_force_date": "2021-09-27",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1856/xml",
-  "description": "Retsinformation source. DocumentId=DH000337; AccessionNumber=B20210185605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DH000337; AccessionNumber=B20210185605; Ophævet 2025-08-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende beføjelser efter akt nr. 351 af 23. september 2021 delegeres fra social- og ældreministeren til Socialsty‍relsen: 1) Socialstyrelsen bemyndiges til at fastsætte regler om anvendelse af bevilling, herunder ansøgningsform, tidsfrister, vilkår for tilskud, udbetaling af tilskud, tilba‍gebetaling af tilskud og renter, regnskab, revision og rapportering om tilskud samt tilsyn og kontrol. 2) Socialstyrelsen bemyndiges til at træffe beslutning om ydelse af tilskud, meddelelse om tilskud, afslag på ansøgning om tilskud og genanvendelse af tilbagebetalte tilskud. 3) Administrationen af tilskud henlægges til Socialstyrelsen.",
-      "valid_from": "2021-09-26",
-      "valid_to": null
+      "valid_from": "2021-09-27",
+      "valid_to": "2025-08-22"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 29. september 2021.",
-      "valid_from": "2021-09-26",
-      "valid_to": null
+      "valid_from": "2021-09-27",
+      "valid_to": "2025-08-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:56:50.728Z",
+    "accession": "B20210185605",
+    "document_id": "DH000337",
+    "unique_document_id": "225128",
+    "upstream_status": "Historic",
+    "start_date": "2021-09-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-08-22",
+    "seed_status": "repealed"
+  }
 }

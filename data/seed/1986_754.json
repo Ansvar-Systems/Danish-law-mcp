@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse vedrørende slutligning for 1986",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-10-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/754/xml",
-  "description": "Retsinformation source. DocumentId=CM020438; AccessionNumber=B19860075405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020438; AccessionNumber=B19860075405; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:19:55.942Z",
+    "accession": "B19860075405",
+    "document_id": "CM020438",
+    "unique_document_id": "61469",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-19",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om restaurations- og hotelvirksomhed m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-11",
+  "in_force_date": "2003-03-20",
   "url": "https://www.retsinformation.dk/eli/lta/2003/163/xml",
-  "description": "Retsinformation source. DocumentId=AU000966; AccessionNumber=A20030016329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000966; AccessionNumber=A20030016329; Ophævet 2005-08-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:19:08.534Z",
+    "accession": "A20030016329",
+    "document_id": "AU000966",
+    "unique_document_id": "26193",
+    "upstream_status": "Historic",
+    "start_date": "2003-03-20",
+    "end_date": "2019-09-29",
+    "historic_marked": "2005-08-25",
+    "seed_status": "repealed"
+  }
 }

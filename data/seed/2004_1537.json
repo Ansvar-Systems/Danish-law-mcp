@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om statsautoriserede og registrerede revisorers erklæringer mv. (erklæringsbekendtgørelsen)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-22",
+  "in_force_date": "2005-01-12",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1537/xml",
-  "description": "Retsinformation source. DocumentId=AU001920; AccessionNumber=B20040153705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001920; AccessionNumber=B20040153705; Ophævet 2008-06-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:14:32.660Z",
+    "accession": "B20040153705",
+    "document_id": "AU001920",
+    "unique_document_id": "26871",
+    "upstream_status": "Historic",
+    "start_date": "2005-01-12",
+    "end_date": "2017-12-08",
+    "historic_marked": "2008-06-17",
+    "seed_status": "repealed"
+  }
 }

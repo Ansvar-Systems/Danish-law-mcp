@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om særlige foranstaltninger til nedbringelse af antibiotikaforbruget i svinebesætninger\\n(Grænseværdier)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-08-30",
+  "in_force_date": "2012-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2012/895/xml",
-  "description": "Retsinformation source. DocumentId=AH004683; AccessionNumber=B20120089505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004683; AccessionNumber=B20120089505; Ophævet 2014-02-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse finder anvendelse på svinebesætninger, for hvilke der er eller skulle være indgået aftale om sundhedsrådgivning, jf. bekendtgørelse om sundhedsrådgivningsaftaler for svinebesætninger, og på dyrlæger godkendt til at foretage supplerende veterinærfaglige vurderinger, jf. bekendtgørelse om godkendelse af dyrlæger til at foretage supplerende veterinærfaglige vurderinger med henblik på nedbringelse af antibiotikaforbruget i svinebesætninger.",
-      "valid_from": "2012-08-30",
-      "valid_to": null
+      "valid_from": "2012-08-31",
+      "valid_to": "2014-02-26"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Grænseværdierne, jf. § 2, stk.1, er fra og med den 1. januar 2011 til og med den 31. maj 2013: 1) Smågrise (7-30 kg): 28 ADD pr. 100 dyr pr. dag. 2) Svin, herunder polte, over 30 kg, undtagen søer, gylte og orner: 8 ADD pr. 100 dyr pr. dag. 3) Søer, gylte og orner: 5,2 ADD pr. 100 dyr pr. dag. Stk. 2. Grænseværdierne, jf. § 2, stk.1, er fra og med den 1. juni 2013: 1) Smågrise (7-30 kg): 25ADD pr. 100 dyr pr. dag. 2) Svin, herunder polte, over 30 kg, undtagen søer, gylte og orner: 7ADD pr. 100 dyr pr. dag. 3) Søer, gylte og orner: 5 ADD pr. 100 dyr pr. dag.",
-      "valid_from": "2012-08-30",
-      "valid_to": null
+      "valid_from": "2012-08-31",
+      "valid_to": "2014-02-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:18:59.240Z",
+    "accession": "B20120089505",
+    "document_id": "AH004683",
+    "unique_document_id": "143179",
+    "upstream_status": "Historic",
+    "start_date": "2012-08-31",
+    "end_date": "2022-04-09",
+    "historic_marked": "2014-02-26",
+    "seed_status": "repealed"
+  }
 }

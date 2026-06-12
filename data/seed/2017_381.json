@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2017-04-26",
+  "in_force_date": "2017-04-26",
   "url": "https://www.retsinformation.dk/eli/lta/2017/381/xml",
   "description": "Retsinformation source. DocumentId=CX000097; AccessionNumber=A20170038130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -95,5 +96,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:16:14.469Z",
+    "accession": "A20170038130",
+    "document_id": "CX000097",
+    "unique_document_id": "188617",
+    "upstream_status": "Valid",
+    "start_date": "2017-04-26",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om supplerende bestemmelser for omsætning af fjerkræ",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-01-29",
+  "in_force_date": "2004-02-05",
   "url": "https://www.retsinformation.dk/eli/lta/2004/43/xml",
-  "description": "Retsinformation source. DocumentId=AH001706; AccessionNumber=B20040004305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001706; AccessionNumber=B20040004305; Ophævet 2008-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:25:49.144Z",
+    "accession": "B20040004305",
+    "document_id": "AH001706",
+    "unique_document_id": "7926",
+    "upstream_status": "Historic",
+    "start_date": "2004-02-05",
+    "end_date": "2022-04-09",
+    "historic_marked": "2008-12-18",
+    "seed_status": "repealed"
+  }
 }

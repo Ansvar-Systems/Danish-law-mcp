@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om bygge- og anlægsarbejde",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-18",
+  "in_force_date": "2015-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1805/xml",
-  "description": "Retsinformation source. DocumentId=BE006638; AccessionNumber=B20150180505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006638; AccessionNumber=B20150180505; Ophævet 2020-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "32",
@@ -19,9 +20,20 @@
       "provision_ref": "32",
       "section": "32",
       "content": "§ 32. Stoffer og materialer, der er giftige, ætsende og eksplosive samt andre stoffer og materialer nævnt i bilag 3 skal opbevares på et egnet og aflåst sted.",
-      "valid_from": "2015-12-18",
-      "valid_to": null
+      "valid_from": "2015-12-23",
+      "valid_to": "2020-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:54.090Z",
+    "accession": "B20150180505",
+    "document_id": "BE006638",
+    "unique_document_id": "176577",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-12-17",
+    "seed_status": "repealed"
+  }
 }

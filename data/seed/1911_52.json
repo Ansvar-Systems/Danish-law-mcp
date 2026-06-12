@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov indeholdende Indskrænkninger i Adgangen til Omsætning af Præmieobligationer m.m. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1911-03-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1911/52/xml",
-  "description": "Retsinformation source. DocumentId=CM022263; AccessionNumber=A19110005230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022263; AccessionNumber=A19110005230; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:37:46.831Z",
+    "accession": "A19110005230",
+    "document_id": "CM022263",
+    "unique_document_id": "63243",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2001-09-05",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-12-29",
+  "in_force_date": "2025-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1818/xml",
   "description": "Retsinformation source. DocumentId=DG001268; AccessionNumber=B20250181805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -353,5 +354,16 @@
       "definition": "erhvervsmæssig indsamling, erhvervsmæssig sortering eller erhvervsmæssig omdeling af adresserede forsendelser på op til 20 kg, herunder forsendelser til og fra udlandet",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:01:09.269Z",
+    "accession": "B20250181805",
+    "document_id": "DG001268",
+    "unique_document_id": "254614",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

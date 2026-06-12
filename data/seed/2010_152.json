@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om kommunernes mellemværender med de kommunale forsyningsvirksomheder",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-02-03",
+  "in_force_date": "2010-02-13",
   "url": "https://www.retsinformation.dk/eli/lta/2010/152/xml",
-  "description": "Retsinformation source. DocumentId=BM000337; AccessionNumber=B20100015205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BM000337; AccessionNumber=B20100015205; Ophævet 2012-07-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Kommunens gæld til de kommunale forsyningsvirksomheder i årsregnskabet må ikke overstige kommunens likvide beholdninger tillagt ledigt træk på kommunens kassekredit ved regnskabsårets udgang. Stk. 2. Gælden til de kommunale forsyningsvirksomheder opgøres som summen af kommunens negative mellemværender med de enkelte forsyningsområder på hver af funktionerne 9.35.31 og 9.35.33 samt funktion 9.35.35, gruppering 001-006, i »Budget- og regnskabssystem for kommuner«. Stk. 3. De likvide beholdninger opgøres som summen af saldiene på funktionerne 9.22.01-9.22.11 i »Budget- og regnskabssystem for kommuner « og deponerede beløb vedrørende forsyningsvirksomheder, jf. § 6 i bekendtgørelse om kommunernes låntagning og meddelelse af garantier mv. Ledigt kassekredittræk opgøres efter reglerne i bekendtgørelse om kommunernes låntagning og meddelelse af garantier m.v.",
-      "valid_from": "2010-02-03",
-      "valid_to": null
+      "valid_from": "2010-02-13",
+      "valid_to": "2012-07-27"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Kommunens gæld til og tilgodehavender hos de kommunale forsyningsvirksomheder i det enkelte regnskabsår forrentes med en årlig rente svarende til markedsrenten. Stk. 2. Forrentningen beregnes på grundlag af mellemværenderne med de kommunale forsyningsvirksomheder på hver af funktionerne 9.35.31 og 9.35.33 samt funktion 9.35.35, gruppering 001-006, i »Budget- og regnskabssystem for kommuner«. Stk. 3. Indenrigs- og socialministeren kan meddele tilladelse til at foretage forrentning med en årlig rente, der afviger fra markedsrenten, når særlige forhold taler herfor.",
-      "valid_from": "2010-02-03",
-      "valid_to": null
+      "valid_from": "2010-02-13",
+      "valid_to": "2012-07-27"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. februar 2010. Stk. 2. Samtidig ophæves bekendtgørelse nr. 918 af 30. september 2005 om kommunernes mellemværender med de kommunale forsyningsvirksomheder.",
-      "valid_from": "2010-02-03",
-      "valid_to": null
+      "valid_from": "2010-02-13",
+      "valid_to": "2012-07-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:56:06.468Z",
+    "accession": "B20100015205",
+    "document_id": "BM000337",
+    "unique_document_id": "130124",
+    "upstream_status": "Historic",
+    "start_date": "2010-02-13",
+    "end_date": "2023-04-29",
+    "historic_marked": "2012-07-27",
+    "seed_status": "repealed"
+  }
 }

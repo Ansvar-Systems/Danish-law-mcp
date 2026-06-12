@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udstedelse af lodscertifikat og lodsfritagelsesbevis",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-12-01",
+  "in_force_date": "2006-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1201/xml",
-  "description": "Retsinformation source. DocumentId=AG000313; AccessionNumber=B20060120105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000313; AccessionNumber=B20060120105; Ophævet 2012-11-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:50:57.737Z",
+    "accession": "B20060120105",
+    "document_id": "AG000313",
+    "unique_document_id": "6481",
+    "upstream_status": "Historic",
+    "start_date": "2006-12-01",
+    "end_date": "2026-02-20",
+    "historic_marked": "2012-11-22",
+    "seed_status": "repealed"
+  }
 }

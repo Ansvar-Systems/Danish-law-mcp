@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1674/xml",
   "description": "Retsinformation source. DocumentId=AA014561; AccessionNumber=A20240167430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -176,5 +177,16 @@
       "definition": "en person, der ikke eller ikke længere tager direkte del i fjendtlighederne, eller som i øvrigt er beskyttet efter den humanitære folkeret",
       "source_provision": "13a:118e"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:49:49.913Z",
+    "accession": "A20240167430",
+    "document_id": "AA014561",
+    "unique_document_id": "247385",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-30",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

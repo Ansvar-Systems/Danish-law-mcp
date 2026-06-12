@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2012",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-08-25",
+  "in_force_date": "2011-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2011/937/xml",
-  "description": "Retsinformation source. DocumentId=AE001752; AccessionNumber=B20110093705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001752; AccessionNumber=B20110093705; Ophævet 2013-01-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Satsreguleringsprocenten for finansåret 2012 udgør 2,9, jf. § 2 i lov om en satsreguleringsprocent.",
-      "valid_from": "2011-08-25",
-      "valid_to": null
+      "valid_from": "2011-08-31",
+      "valid_to": "2013-01-09"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Tilpasningsprocenten for finansåret 2012 udgør 1,2, jf. § 3 i lov om en satsreguleringsprocent.",
-      "valid_from": "2011-08-25",
-      "valid_to": null
+      "valid_from": "2011-08-31",
+      "valid_to": "2013-01-09"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Satstilpasningsprocenten for finansåret 2012 udgør 0,9, jf. § 4 i lov om en satsreguleringsprocent.",
-      "valid_from": "2011-08-25",
-      "valid_to": null
+      "valid_from": "2011-08-31",
+      "valid_to": "2013-01-09"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Puljebeløbet udgør i finansåret 2012 656,7 mio. kr., jf. § 5 i lov om en satsreguleringsprocent.",
-      "valid_from": "2011-08-25",
-      "valid_to": null
+      "valid_from": "2011-08-31",
+      "valid_to": "2013-01-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:27:26.235Z",
+    "accession": "B20110093705",
+    "document_id": "AE001752",
+    "unique_document_id": "138575",
+    "upstream_status": "Historic",
+    "start_date": "2011-08-31",
+    "end_date": "2013-01-10",
+    "historic_marked": "2013-01-09",
+    "seed_status": "repealed"
+  }
 }

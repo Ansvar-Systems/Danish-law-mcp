@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Skovskolen",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-05-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/393/xml",
-  "description": "Retsinformation source. DocumentId=CM040685; AccessionNumber=A19960039330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040685; AccessionNumber=A19960039330; Ophævet 2002-06-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:23:00.329Z",
+    "accession": "A19960039330",
+    "document_id": "CM040685",
+    "unique_document_id": "81392",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-07-02",
+    "historic_marked": "2002-06-07",
+    "seed_status": "repealed"
+  }
 }

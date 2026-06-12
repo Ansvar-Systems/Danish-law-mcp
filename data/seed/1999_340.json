@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/340/xml",
-  "description": "Retsinformation source. DocumentId=AB000279; AccessionNumber=A19990034030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000279; AccessionNumber=A19990034030; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:24:12.190Z",
+    "accession": "A19990034030",
+    "document_id": "AB000279",
+    "unique_document_id": "3072",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-02",
+    "end_date": "2005-02-02",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

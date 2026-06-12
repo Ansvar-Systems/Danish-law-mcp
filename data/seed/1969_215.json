@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om foranstaltninger til bekæmpelse af sortrust",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1969-05-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1969/215/xml",
-  "description": "Retsinformation source. DocumentId=CM036412; AccessionNumber=B19690021505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM036412; AccessionNumber=B19690021505; Ophævet 1992-02-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:16:33.840Z",
+    "accession": "B19690021505",
+    "document_id": "CM036412",
+    "unique_document_id": "77203",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1992-02-03",
+    "seed_status": "repealed"
+  }
 }

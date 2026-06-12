@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2012-06-29",
+  "in_force_date": "2012-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2012/704/xml",
   "description": "Retsinformation source. DocumentId=AA006556; AccessionNumber=B20120070403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -459,5 +460,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:11:18.019Z",
+    "accession": "B20120070403",
+    "document_id": "AA006556",
+    "unique_document_id": "142468",
+    "upstream_status": "Valid",
+    "start_date": "2012-06-29",
+    "end_date": "2012-06-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

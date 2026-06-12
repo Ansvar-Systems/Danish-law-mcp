@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2019-12-10",
+  "in_force_date": "2019-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1328/xml",
   "description": "Retsinformation source. DocumentId=CQ001038; AccessionNumber=B20190132803; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -47,5 +48,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:38.126Z",
+    "accession": "B20190132803",
+    "document_id": "CQ001038",
+    "unique_document_id": "210892",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-10",
+    "end_date": "2019-12-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

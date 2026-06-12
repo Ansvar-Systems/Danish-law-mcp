@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bekæmpelsesmidler(* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-07-09",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/584/xml",
-  "description": "Retsinformation source. DocumentId=CM007375; AccessionNumber=B19930058405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM007375; AccessionNumber=B19930058405; Ophævet 1994-12-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:18:58.891Z",
+    "accession": "B19930058405",
+    "document_id": "CM007375",
+    "unique_document_id": "48572",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1994-12-13",
+    "seed_status": "repealed"
+  }
 }

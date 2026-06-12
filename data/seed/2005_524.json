@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Navnelov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-24",
+  "in_force_date": "2005-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/524/xml",
-  "description": "Retsinformation source. DocumentId=BG000207; AccessionNumber=A20050052430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000207; AccessionNumber=A20050052430; Ophævet 2012-05-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:23:42.593Z",
+    "accession": "A20050052430",
+    "document_id": "BG000207",
+    "unique_document_id": "31494",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-24",
+    "end_date": "2023-04-29",
+    "historic_marked": "2012-05-02",
+    "seed_status": "repealed"
+  }
 }

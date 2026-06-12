@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om frikommuner",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-05-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/334/xml",
-  "description": "Retsinformation source. DocumentId=CM011618; AccessionNumber=A19920033430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011618; AccessionNumber=A19920033430; Ophævet 1993-01-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:26:10.995Z",
+    "accession": "A19920033430",
+    "document_id": "CM011618",
+    "unique_document_id": "52782",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-04-28",
+    "historic_marked": "1993-01-12",
+    "seed_status": "repealed"
+  }
 }

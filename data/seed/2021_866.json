@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-05-11",
+  "in_force_date": "2021-05-11",
   "url": "https://www.retsinformation.dk/eli/lta/2021/866/xml",
   "description": "Retsinformation source. DocumentId=CQ001733; AccessionNumber=B20210086605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -106,5 +107,16 @@
       "definition": "i denne bekendtgørelse det forhold, at en størrelsesangivelse udtrykt ved en enhed, der er opført under bilag 1, ledsages af en eller flere størrelsesangivelser, udtrykt ved enheder, der ikke er opført under bilag 1",
       "source_provision": "1:3"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:03.245Z",
+    "accession": "B20210086605",
+    "document_id": "CQ001733",
+    "unique_document_id": "222733",
+    "upstream_status": "Valid",
+    "start_date": "2021-05-11",
+    "end_date": "2024-03-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

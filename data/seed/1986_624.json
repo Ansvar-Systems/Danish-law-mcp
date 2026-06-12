@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov angående sprængstoffer",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-09-15",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/624/xml",
-  "description": "Retsinformation source. DocumentId=CM018198; AccessionNumber=A19860062429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018198; AccessionNumber=A19860062429; Ophævet 1994-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:15:39.528Z",
+    "accession": "A19860062429",
+    "document_id": "CM018198",
+    "unique_document_id": "59246",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-19",
+    "historic_marked": "1994-06-29",
+    "seed_status": "repealed"
+  }
 }

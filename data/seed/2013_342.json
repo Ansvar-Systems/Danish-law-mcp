@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om kvalitetsstandarder for hjemmehjælp og træning efter servicelovens §§ 83 og 86",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-03-26",
+  "in_force_date": "2013-03-28",
   "url": "https://www.retsinformation.dk/eli/lta/2013/342/xml",
-  "description": "Retsinformation source. DocumentId=BS000452; AccessionNumber=B20130034205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BS000452; AccessionNumber=B20130034205; Ophævet 2014-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -33,25 +34,36 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Kommunalbestyrelsen skal mindst én gang årligt udarbejde en kvalitetsstandard for personlig og praktisk hjælp m.v. samt kommunal genoptræning og vedligeholdelsestræning efter lovens §§ 83 og 86. Stk. 2. Kvalitetsstandarden skal indeholde generel serviceinformation til borgerne om den hjælp, de kan forvente fra kommunen, hvis de får behov for personlig og praktisk hjælp m.v. eller kommunal genoptræning og vedligeholdelsestræning efter lovens §§ 83 og 86. Stk. 3. Kvalitetsstandarden skal indeholde en beskrivelse af det serviceniveau, kommunalbestyrelsen har fastsat for ydelser efter lovens §§ 83 og 86. Beskrivelsen af indholdet, omfanget og udførelsen af hjælpen skal være præcis og skal danne grundlag for, at der sikres sammenhæng mellem serviceniveau, de afsatte ressourcer, afgørelserne samt leveringen af hjælpen. Kvalitetsstandarden skal endvidere indeholde operationelle mål for, hvordan dette sikres, og en beskrivelse af, hvordan der følges op på de fastsatte mål, jf. § 2.",
-      "valid_from": "2013-03-26",
-      "valid_to": null
+      "valid_from": "2013-03-28",
+      "valid_to": "2014-12-29"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Kommunalbestyrelsen skal mindst én gang årligt følge op på de efter § 1, stk. 3, fastsatte mål for kvaliteten og styringen af hjælpen efter lovens §§ 83 og 86.",
-      "valid_from": "2013-03-26",
-      "valid_to": null
+      "valid_from": "2013-03-28",
+      "valid_to": "2014-12-29"
     },
     {
       "provision_ref": "2:3",
       "chapter": "2",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. april 2013. Samtidig ophæves kapitel 1 i bekendtgørelse nr. 299 af 25. marts 2010 om kvalitetsstandarder og frit valg af leverandør af personlig og praktisk hjælp m.v.",
-      "valid_from": "2013-03-26",
-      "valid_to": null
+      "valid_from": "2013-03-28",
+      "valid_to": "2014-12-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:33.077Z",
+    "accession": "B20130034205",
+    "document_id": "BS000452",
+    "unique_document_id": "146018",
+    "upstream_status": "Historic",
+    "start_date": "2013-03-28",
+    "end_date": "2022-07-12",
+    "historic_marked": "2014-12-29",
+    "seed_status": "repealed"
+  }
 }

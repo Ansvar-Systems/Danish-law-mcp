@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2021-05-04",
+  "in_force_date": "2021-05-04",
   "url": "https://www.retsinformation.dk/eli/lta/2021/782/xml",
   "description": "Retsinformation source. DocumentId=CQ001730; AccessionNumber=A20210078230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -125,5 +126,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:52:39.509Z",
+    "accession": "A20210078230",
+    "document_id": "CQ001730",
+    "unique_document_id": "222702",
+    "upstream_status": "Valid",
+    "start_date": "2021-05-04",
+    "end_date": "2026-01-11",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

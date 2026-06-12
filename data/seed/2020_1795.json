@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-02",
+  "in_force_date": "2020-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1795/xml",
   "description": "Retsinformation source. DocumentId=CZ000404; AccessionNumber=B20200179505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 978 af 16. december 1998 om fremgangsmåden ved indeholdelse i løn m.v. for ubetalt kontrolafgift og ekspeditionsgebyr ved kørsel med tog uden for og inden for hovedstadsområdet, bortset fra S-tog ophæves.",
-      "valid_from": "2020-12-02",
+      "valid_from": "2020-12-04",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2021.",
-      "valid_from": "2020-12-02",
+      "valid_from": "2020-12-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:00:28.422Z",
+    "accession": "B20200179505",
+    "document_id": "CZ000404",
+    "unique_document_id": "218053",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-04",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

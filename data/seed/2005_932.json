@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forskellige forhold vedrørende Statstidende",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-10-06",
+  "in_force_date": "2005-10-13",
   "url": "https://www.retsinformation.dk/eli/lta/2005/932/xml",
-  "description": "Retsinformation source. DocumentId=BD000237; AccessionNumber=B20050093205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000237; AccessionNumber=B20050093205; Ophævet 2014-04-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:40:07.796Z",
+    "accession": "B20050093205",
+    "document_id": "BD000237",
+    "unique_document_id": "29249",
+    "upstream_status": "Historic",
+    "start_date": "2005-10-13",
+    "end_date": "2024-08-28",
+    "historic_marked": "2014-04-09",
+    "seed_status": "repealed"
+  }
 }

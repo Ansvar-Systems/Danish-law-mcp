@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om kommunernes styrelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-08-03",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/539/xml",
-  "description": "Retsinformation source. DocumentId=CM011531; AccessionNumber=A19890053929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011531; AccessionNumber=A19890053929; Ophævet 1991-07-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:46:20.353Z",
+    "accession": "A19890053929",
+    "document_id": "CM011531",
+    "unique_document_id": "52695",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-04-29",
+    "historic_marked": "1991-07-03",
+    "seed_status": "repealed"
+  }
 }

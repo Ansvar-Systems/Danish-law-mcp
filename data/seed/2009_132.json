@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kosmetisk behandling",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-01-16",
+  "in_force_date": "2009-02-24",
   "url": "https://www.retsinformation.dk/eli/lta/2009/132/xml",
-  "description": "Retsinformation source. DocumentId=BK000423; AccessionNumber=B20090013205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000423; AccessionNumber=B20090013205; Ophævet 2013-01-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:50:36.020Z",
+    "accession": "B20090013205",
+    "document_id": "BK000423",
+    "unique_document_id": "123048",
+    "upstream_status": "Historic",
+    "start_date": "2009-02-24",
+    "end_date": "2022-07-12",
+    "historic_marked": "2013-01-10",
+    "seed_status": "repealed"
+  }
 }

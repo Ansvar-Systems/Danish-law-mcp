@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om registrering af værnepligtige m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-10-05",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/643/xml",
-  "description": "Retsinformation source. DocumentId=CM011014; AccessionNumber=B19890064305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011014; AccessionNumber=B19890064305; Ophævet 1994-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:50:31.083Z",
+    "accession": "B19890064305",
+    "document_id": "CM011014",
+    "unique_document_id": "52184",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2009-06-10",
+    "historic_marked": "1994-01-28",
+    "seed_status": "repealed"
+  }
 }

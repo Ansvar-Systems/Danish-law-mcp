@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om samfakturering af naturgasleverancer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-07-01",
+  "in_force_date": "2005-07-11",
   "url": "https://www.retsinformation.dk/eli/lta/2005/691/xml",
-  "description": "Retsinformation source. DocumentId=AR001060; AccessionNumber=B20050069105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001060; AccessionNumber=B20050069105; Ophævet 2023-03-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:30:25.134Z",
+    "accession": "B20050069105",
+    "document_id": "AR001060",
+    "unique_document_id": "22468",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-11",
+    "end_date": "2023-03-30",
+    "historic_marked": "2023-03-28",
+    "seed_status": "repealed"
+  }
 }

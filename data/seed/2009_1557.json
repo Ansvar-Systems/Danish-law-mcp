@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om henlæggelse af beføjelsen til at fastsætte regler til Beredskabsstyrelsen og om klageadgang",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-11",
+  "in_force_date": "2010-01-09",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1557/xml",
-  "description": "Retsinformation source. DocumentId=AG000405; AccessionNumber=B20090155705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000405; AccessionNumber=B20090155705; Ophævet 2016-01-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Beredskabsstyrelsen fastsætter regler i medfør af beredskabslovens § 33, stk. 1 og 2, og § 70, stk. 4 og 5.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2010-01-09",
+      "valid_to": "2016-01-08"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Afgørelser truffet af Beredskabsstyrelsen efter regler fastsat i medfør af beredskabslovens § 33, stk. 1 og 2, og § 70, stk. 4 og 5, kan ikke påklages til forsvarsministeren.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2010-01-09",
+      "valid_to": "2016-01-08"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. januar 2010.",
-      "valid_from": "2009-12-11",
-      "valid_to": null
+      "valid_from": "2010-01-09",
+      "valid_to": "2016-01-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:00:18.811Z",
+    "accession": "B20090155705",
+    "document_id": "AG000405",
+    "unique_document_id": "129251",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-09",
+    "end_date": "2026-02-20",
+    "historic_marked": "2016-01-08",
+    "seed_status": "repealed"
+  }
 }

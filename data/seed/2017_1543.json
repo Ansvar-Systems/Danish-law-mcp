@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om arbejdsmiljø (Ændring af reglerne om arbejdsmiljøcertifikat m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-19",
+  "in_force_date": "2017-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1543/xml",
-  "description": "Retsinformation source. DocumentId=BE007480; AccessionNumber=A20170154330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007480; AccessionNumber=A20170154330; Ophævet 2020-04-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "65d",
@@ -20,8 +21,19 @@
       "section": "65d",
       "content": "§ 65 d. Beskæftigelsesministeren kan efter forhandling med erhvervsministeren fastsætte nærmere regler om inspektion og certificering i forbindelse med udstedelse af et anerkendt arbejdsmiljøcertifikat. Der kan i den forbindelse fastsættes regler om krav til akkrediterings-, inspektions- og certificeringsorganerne, herunder supplerende krav til inspektions- og certificeringsorganernes inspektion, audit og kompetencer, og regler om udstedelse af anerkendt arbejdsmiljøcertifikat, herunder om offentliggørelse af virksomheder med certifikat.",
       "valid_from": "2017-12-19",
-      "valid_to": null
+      "valid_to": "2020-04-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:58:39.045Z",
+    "accession": "A20170154330",
+    "document_id": "BE007480",
+    "unique_document_id": "196693",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-19",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-04-06",
+    "seed_status": "repealed"
+  }
 }

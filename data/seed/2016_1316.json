@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om indelukning af fjerkræ og andre fugle i fangenskab i forbindelse med forebyggende foranstaltninger mod aviær influenza",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-11-14",
+  "in_force_date": "2016-11-14",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1316/xml",
-  "description": "Retsinformation source. DocumentId=CK001003; AccessionNumber=B20160131605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK001003; AccessionNumber=B20160131605; Ophævet 2017-01-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -34,7 +35,7 @@
       "section": "1",
       "content": "§ 1. Udegående fjerkræ og andre fugle i fangenskab skal holdes indelukket eller under hegn og med fast tag. Stk. 2. Strudsefugle, tamænder, gæs, gråænder, fasaner, agerhøns, stenhøns og rødhøns er undtaget fra kravet i stk. 1, hvis de fodres og vandes indendørs eller under fast tag, der sikrer, at større vilde fugle ikke kan komme i kontakt med foder og vand, som er tiltænkt det pågældende fjerkræ eller andre fugle i fangenskab.",
       "valid_from": "2016-11-14",
-      "valid_to": null
+      "valid_to": "2017-01-26"
     },
     {
       "provision_ref": "2:2",
@@ -42,7 +43,7 @@
       "section": "2",
       "content": "§ 2. Overtrædelse af § 1 straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
       "valid_from": "2016-11-14",
-      "valid_to": null
+      "valid_to": "2017-01-26"
     },
     {
       "provision_ref": "3:3",
@@ -50,8 +51,19 @@
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 14. november 2016 kl. 17.00.",
       "valid_from": "2016-11-14",
-      "valid_to": null
+      "valid_to": "2017-01-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:44:45.151Z",
+    "accession": "B20160131605",
+    "document_id": "CK001003",
+    "unique_document_id": "184764",
+    "upstream_status": "Historic",
+    "start_date": "2016-11-14",
+    "end_date": "2022-04-09",
+    "historic_marked": "2017-01-26",
+    "seed_status": "repealed"
+  }
 }

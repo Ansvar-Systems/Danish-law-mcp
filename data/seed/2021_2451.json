@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2021-12-14",
+  "in_force_date": "2021-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2451/xml",
   "description": "Retsinformation source. DocumentId=DI000444; AccessionNumber=B20210245105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse finder anvendelse for lægemidler til mennesker, medmindre andet fremgår af bestemmelsen.",
-      "valid_from": "2021-12-14",
+      "valid_from": "2021-12-16",
       "valid_to": null
     },
     {
       "provision_ref": "1a",
       "section": "1a",
       "content": "§ 1 a. For lægemidler, der er omfattet af en markedsføringstilladelse, skal markedsføringstilladelsens indehaver sikre overholdelse af lægemiddellovens § 51.",
-      "valid_from": "2021-12-14",
+      "valid_from": "2021-12-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:20:54.427Z",
+    "accession": "B20210245105",
+    "document_id": "DI000444",
+    "unique_document_id": "227924",
+    "upstream_status": "Valid",
+    "start_date": "2021-12-16",
+    "end_date": "2021-12-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

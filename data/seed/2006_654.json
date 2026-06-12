@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om det europæiske selskab",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-15",
+  "in_force_date": "2006-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2006/654/xml",
-  "description": "Retsinformation source. DocumentId=AU002510; AccessionNumber=A20060065429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002510; AccessionNumber=A20060065429; Ophævet 2019-07-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:32:34.923Z",
+    "accession": "A20060065429",
+    "document_id": "AU002510",
+    "unique_document_id": "27296",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-26",
+    "end_date": "2019-10-19",
+    "historic_marked": "2019-07-12",
+    "seed_status": "repealed"
+  }
 }

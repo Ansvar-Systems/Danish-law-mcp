@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om midlertidig regulering af boligforholdene",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-05-02",
+  "in_force_date": "2006-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2006/396/xml",
-  "description": "Retsinformation source. DocumentId=AO002870; AccessionNumber=A20060039629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002870; AccessionNumber=A20060039629; Ophævet 2007-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:22:12.106Z",
+    "accession": "A20060039629",
+    "document_id": "AO002870",
+    "unique_document_id": "20527",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-12",
+    "end_date": "2023-04-28",
+    "historic_marked": "2007-03-08",
+    "seed_status": "repealed"
+  }
 }

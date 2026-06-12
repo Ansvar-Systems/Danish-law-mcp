@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Post Danmarks anmeldelse og registrering m.v. i Erhvervs- og Selskabsstyrelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-04-15",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/346/xml",
-  "description": "Retsinformation source. DocumentId=CM040616; AccessionNumber=B19960034605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040616; AccessionNumber=B19960034605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:21:07.794Z",
+    "accession": "B19960034605",
+    "document_id": "CM040616",
+    "unique_document_id": "81329",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om lods i danske farvande",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-02-05",
+  "in_force_date": "2003-02-13",
   "url": "https://www.retsinformation.dk/eli/lta/2003/83/xml",
-  "description": "Retsinformation source. DocumentId=AU000922; AccessionNumber=B20030008305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000922; AccessionNumber=B20030008305; Ophævet 2006-03-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:46:01.674Z",
+    "accession": "B20030008305",
+    "document_id": "AU000922",
+    "unique_document_id": "26170",
+    "upstream_status": "Historic",
+    "start_date": "2003-02-13",
+    "end_date": "2026-02-20",
+    "historic_marked": "2006-03-13",
+    "seed_status": "repealed"
+  }
 }

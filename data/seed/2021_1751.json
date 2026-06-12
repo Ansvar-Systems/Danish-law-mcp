@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2021-08-30",
+  "in_force_date": "2021-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1751/xml",
   "description": "Retsinformation source. DocumentId=AN015094; AccessionNumber=B20210175105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. §§ 2, 5 og 6 i lov nr. 2221 af 29. december 2020 om ændring af lov om et indkomstregister, registreringsafgiftsloven og forskellige andre love (Skærpet indsats mod vanvidskørsel og styrkelse og tilpasning af regler på motorområdet m.v.) sættes i kraft.",
-      "valid_from": "2021-08-30",
+      "valid_from": "2021-08-31",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. oktober 2021.",
-      "valid_from": "2021-08-30",
+      "valid_from": "2021-08-31",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:38.583Z",
+    "accession": "B20210175105",
+    "document_id": "AN015094",
+    "unique_document_id": "224791",
+    "upstream_status": "Valid",
+    "start_date": "2021-08-31",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

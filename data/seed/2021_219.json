@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-02-15",
+  "in_force_date": "2021-02-17",
   "url": "https://www.retsinformation.dk/eli/lta/2021/219/xml",
-  "description": "Retsinformation source. DocumentId=CQ001605; AccessionNumber=B20210021905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001605; AccessionNumber=B20210021905; Ophævet 2022-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Omsætningsgrænsen i § 5, stk. 1, og bagatelgrænsen i § 5, stk. 4, i lov om detailsalg fra butikker m.v. udgør henholdsvis 36,3 mio. kr. inkl. moms og 15,6 mio. kr. inkl. moms.",
-      "valid_from": "2021-02-15",
-      "valid_to": null
+      "valid_from": "2021-02-17",
+      "valid_to": "2022-03-09"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. marts 2021. Stk. 2. Bekendtgørelse nr. 159 af 26. februar 2020 om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v. ophæves.",
-      "valid_from": "2021-02-15",
-      "valid_to": null
+      "valid_from": "2021-02-17",
+      "valid_to": "2022-03-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:10:16.854Z",
+    "accession": "B20210021905",
+    "document_id": "CQ001605",
+    "unique_document_id": "221024",
+    "upstream_status": "Historic",
+    "start_date": "2021-02-17",
+    "end_date": "2022-03-10",
+    "historic_marked": "2022-03-09",
+    "seed_status": "repealed"
+  }
 }

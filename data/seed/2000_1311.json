@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om børnetilskud og forskudsvis udbetaling af børnebidrag",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1311/xml",
-  "description": "Retsinformation source. DocumentId=AO001050; AccessionNumber=A20000131130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO001050; AccessionNumber=A20000131130; Ophævet 2002-09-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:03:01.476Z",
+    "accession": "A20000131130",
+    "document_id": "AO001050",
+    "unique_document_id": "19164",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2016-12-22",
+    "historic_marked": "2002-09-19",
+    "seed_status": "repealed"
+  }
 }

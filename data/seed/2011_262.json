@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-03-23",
+  "in_force_date": "2011-03-31",
   "url": "https://www.retsinformation.dk/eli/lta/2011/262/xml",
-  "description": "Retsinformation source. DocumentId=AA005994; AccessionNumber=B20110026205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005994; AccessionNumber=B20110026205; Ophævet 2014-07-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11 a. En afgørelse, der angår en overtrædelse begået af en person mellem 14 og 18 år, som ikke tidligere har modtaget en afgørelse omfattet af § 11, medtages kun på en straffeattest efter reglerne i § 11, hvis den pågældende inden for en periode på tre år fra tidspunktet for afgørelsen begår et nyt strafbart forhold, der skal medtages på en straffeattest efter reglerne i § 11. Stk. 2. Bestemmelsen i stk. 1 finder ikke anvendelse, hvis der ved den første afgørelse er idømt en sanktion efter straffelovens § 74 a (ungdomssanktion), retsfølger efter straffelovens §§ 68-70 eller en ubetinget frihedsstraf.",
-      "valid_from": "2011-03-23",
-      "valid_to": null
+      "valid_from": "2011-03-31",
+      "valid_to": "2014-07-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:00:11.738Z",
+    "accession": "B20110026205",
+    "document_id": "AA005994",
+    "unique_document_id": "136446",
+    "upstream_status": "Historic",
+    "start_date": "2011-03-31",
+    "end_date": "2014-07-09",
+    "historic_marked": "2014-07-08",
+    "seed_status": "repealed"
+  }
 }

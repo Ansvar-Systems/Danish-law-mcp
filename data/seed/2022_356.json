@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2022-03-18",
+  "in_force_date": "2022-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2022/356/xml",
   "description": "Retsinformation source. DocumentId=CQ002126; AccessionNumber=B20220035605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Europa-Parlamentets og Rådets direktiv 2001/96/EF af 4. december 2001 om harmoniserede krav til og procedurer for sikker lastning og losning af bulkskibe som ændret ved Europa-Parlamentets og Rådets direktiv 2002/84/EF og Europa-Parlamentets og Rådets forordning (EF) nr. 1137/2008, der er optrykt som bilag til denne forskrift, finder anvendelse ved lastning og losning af bulkskibe i danske havne.",
-      "valid_from": "2022-03-18",
+      "valid_from": "2022-03-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:35:42.291Z",
+    "accession": "B20220035605",
+    "document_id": "CQ002126",
+    "unique_document_id": "229759",
+    "upstream_status": "Valid",
+    "start_date": "2022-03-22",
+    "end_date": "2022-03-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

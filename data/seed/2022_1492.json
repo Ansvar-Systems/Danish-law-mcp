@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-12-05",
+  "in_force_date": "2022-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1492/xml",
   "description": "Retsinformation source. DocumentId=DC000778; AccessionNumber=B20220149205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1482 af 12. december 2019 om bekæmpelse af afrikansk svinepest ophæves.",
-      "valid_from": "2022-12-05",
+      "valid_from": "2022-12-07",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 9. december 2022.",
-      "valid_from": "2022-12-05",
+      "valid_from": "2022-12-07",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:21:21.668Z",
+    "accession": "B20220149205",
+    "document_id": "DC000778",
+    "unique_document_id": "233771",
+    "upstream_status": "Valid",
+    "start_date": "2022-12-07",
+    "end_date": "2022-12-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

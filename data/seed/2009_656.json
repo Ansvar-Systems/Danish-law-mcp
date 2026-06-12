@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om støtte til almene boliger m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-26",
+  "in_force_date": "2009-07-01",
   "url": "https://www.retsinformation.dk/eli/lta/2009/656/xml",
-  "description": "Retsinformation source. DocumentId=BM000060; AccessionNumber=B20090065605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BM000060; AccessionNumber=B20090065605; Ophævet 2009-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15",
@@ -19,9 +20,20 @@
       "provision_ref": "15",
       "section": "15",
       "content": "§ 15 a. For tilsagn meddelt fra og med den 1. juli 2009 ydes der et energitillæg til maksimumsbeløbet på 1.020 kr. pr. m 2 boligareal for etagebyggeri og 880 kr. pr. m 2 boligareal for lavt byggeri (uden vandret lejlighedsskel). § 15, stk. 2, 3. og 4. pkt., finder tilsvarende anvendelse for reguleringen af energitillægget. Stk. 2. Tilsagn meddelt i perioden fra og med den 1. juli 2009, og indtil et nyt bygningsreglement træder i kraft, skal opfylde energikravene til lavenergibygninger klasse 2 i Bygningsreglement 2008. Stk. 3. Kommunalbestyrelsen kan for tilsagn meddelt fra og med den 1. juli 2009 og til og med den 1. oktober 2009 dispensere for energikrav som nævnt i stk. 2, 1. pkt., hvis der er tale om fortsættelsesbyggeri, eller hvor omprojektering medfører væsentlige ekstraomkostninger. Der ydes ikke et energitillæg for tilsagn efter 1. pkt.",
-      "valid_from": "2009-06-26",
-      "valid_to": null
+      "valid_from": "2009-07-01",
+      "valid_to": "2009-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:20:48.024Z",
+    "accession": "B20090065605",
+    "document_id": "BM000060",
+    "unique_document_id": "125790",
+    "upstream_status": "Historic",
+    "start_date": "2009-07-01",
+    "end_date": "2023-04-28",
+    "historic_marked": "2009-12-17",
+    "seed_status": "repealed"
+  }
 }

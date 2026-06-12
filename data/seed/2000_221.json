@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om visse regler i pensionsafkastbeskatningsloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-30",
+  "in_force_date": "2000-04-10",
   "url": "https://www.retsinformation.dk/eli/lta/2000/221/xml",
-  "description": "Retsinformation source. DocumentId=AN000856; AccessionNumber=B20000022105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000856; AccessionNumber=B20000022105; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:10:39.103Z",
+    "accession": "B20000022105",
+    "document_id": "AN000856",
+    "unique_document_id": "13699",
+    "upstream_status": "Historic",
+    "start_date": "2000-04-10",
+    "end_date": "2005-10-28",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

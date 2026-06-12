@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2010-09-17",
+  "in_force_date": "2010-09-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1079/xml",
   "description": "Retsinformation source. DocumentId=AS001205; AccessionNumber=A20100107929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Efter forhandling med det udenrigspolitiske nævn kan der ved kgl. anordning træffes sådanne forholdsregler, som Danmark i medfør af De Forenede Nationers pagt er forpligtet til at iværksætte til gennemførelsen af beslutninger, der er truffet af sikkerhedsrådet i overensstemmelse med art. 41, jfr. art. 39, i pagtens kapitel VII. Stk. 2. Endvidere kan der i en sådan anordning fastsættes bestemmelser om, at udbyttet ved overtrædelser af anordningen skal konfiskeres. Stk. 3. Forholdsreglerne kan omfatte handlinger, som foretages uden for den danske stat af personer, der har dansk indfødsret, er bosat i den danske stat eller har lignende fast ophold her i landet.",
-      "valid_from": "2010-09-17",
+      "valid_from": "2010-09-21",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Loven træder i kraft ved bekendtgørelsen i Lovtidende.",
-      "valid_from": "2010-09-17",
+      "valid_from": "2010-09-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:38:03.546Z",
+    "accession": "A20100107929",
+    "document_id": "AS001205",
+    "unique_document_id": "133269",
+    "upstream_status": "Valid",
+    "start_date": "2010-09-21",
+    "end_date": "2012-08-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

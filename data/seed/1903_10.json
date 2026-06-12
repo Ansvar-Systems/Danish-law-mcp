@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om en Statstidende (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1903-01-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1903/10/xml",
-  "description": "Retsinformation source. DocumentId=CM040975; AccessionNumber=A19030001030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040975; AccessionNumber=A19030001030; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:36:20.975Z",
+    "accession": "A19030001030",
+    "document_id": "CM040975",
+    "unique_document_id": "81669",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2019-04-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

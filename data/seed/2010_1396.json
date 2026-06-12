@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om etablering af friplejeboliger\\n(Udbetaling af realkreditlån og garantierklæringer)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-10",
+  "in_force_date": "2010-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1396/xml",
-  "description": "Retsinformation source. DocumentId=AO003663; AccessionNumber=B20100139605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO003663; AccessionNumber=B20100139605; Ophævet 2015-09-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -24,16 +25,27 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Udbetaling af statslig ydelsesstøtte, udbetaling af servicearealtilskud, afgivelse af lånetilbud, udbetaling af realkreditlån samt afgivelse af garantierklæring fra staten kan alene finde sted på grundlag af de oplysninger, der er indberettet til BOSSINF.",
-      "valid_from": "2010-12-10",
-      "valid_to": null
+      "valid_from": "2010-12-15",
+      "valid_to": "2015-09-11"
     },
     {
       "provision_ref": "33",
       "section": "33",
       "content": "§ 33. Udstedelse af foreløbig garantierklæring og udbetaling af realkreditlån kan ske etapevis, når hver enkelt etape udgør en selvstændig funktionsdygtig enhed.",
-      "valid_from": "2010-12-10",
-      "valid_to": null
+      "valid_from": "2010-12-15",
+      "valid_to": "2015-09-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:51:01.292Z",
+    "accession": "B20100139605",
+    "document_id": "AO003663",
+    "unique_document_id": "134657",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-15",
+    "end_date": "2023-04-28",
+    "historic_marked": "2015-09-11",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 3, stk. 1-3, og § 19, stk. 6, stk. 7, 2. pkt., og stk. 8, i lov om Miljøteknologisk Udviklings- og Demonstrationsprogram",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-09-09",
+  "in_force_date": "2015-09-15",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1079/xml",
-  "description": "Retsinformation source. DocumentId=CK000071; AccessionNumber=B20150107905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK000071; AccessionNumber=B20150107905; Ophævet 2017-01-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 3, stk. 1-3, og § 19, stk. 6, stk. 7, 2. pkt., og stk. 8, i lov nr. 130 af 10. februar 2015 om Miljøteknologisk Udviklings‌- og Demonstrationsprogram sættes i kraft.",
-      "valid_from": "2015-09-09",
-      "valid_to": null
+      "valid_from": "2015-09-15",
+      "valid_to": "2017-01-30"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 24. september 2015.",
-      "valid_from": "2015-09-09",
-      "valid_to": null
+      "valid_from": "2015-09-15",
+      "valid_to": "2017-01-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:25:34.887Z",
+    "accession": "B20150107905",
+    "document_id": "CK000071",
+    "unique_document_id": "173770",
+    "upstream_status": "Historic",
+    "start_date": "2015-09-15",
+    "end_date": "2022-04-09",
+    "historic_marked": "2017-01-30",
+    "seed_status": "repealed"
+  }
 }

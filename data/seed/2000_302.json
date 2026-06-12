@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om selvpensioneringskonti oprettet før den 2. juni 1998",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-02",
+  "in_force_date": "2000-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2000/302/xml",
-  "description": "Retsinformation source. DocumentId=AN000894; AccessionNumber=B20000030205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000894; AccessionNumber=B20000030205; Ophævet 2009-12-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:13:54.690Z",
+    "accession": "B20000030205",
+    "document_id": "AN000894",
+    "unique_document_id": "13727",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-12",
+    "end_date": "2009-12-10",
+    "historic_marked": "2009-12-09",
+    "seed_status": "repealed"
+  }
 }

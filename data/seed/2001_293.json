@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om vejafmærkning",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-04-24",
+  "in_force_date": "2001-04-27",
   "url": "https://www.retsinformation.dk/eli/lta/2001/293/xml",
-  "description": "Retsinformation source. DocumentId=AR000425; AccessionNumber=B20010029305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000425; AccessionNumber=B20010029305; Ophævet 2006-07-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:54:10.056Z",
+    "accession": "B20010029305",
+    "document_id": "AR000425",
+    "unique_document_id": "22031",
+    "upstream_status": "Historic",
+    "start_date": "2001-04-27",
+    "end_date": "2022-07-07",
+    "historic_marked": "2006-07-17",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2015-08-30",
+  "in_force_date": "2015-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2015/994/xml",
   "description": "Retsinformation source. DocumentId=BE006422; AccessionNumber=A20150099430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -493,5 +494,16 @@
       "definition": "perioder, hvori en person ikke har modtaget offentlig forsørgelse eller ikke har været ansat i beskæftigelse, hvortil der er ydet støtte til løn",
       "source_provision": "3:6"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:31:42.078Z",
+    "accession": "A20150099430",
+    "document_id": "BE006422",
+    "unique_document_id": "174051",
+    "upstream_status": "Valid",
+    "start_date": "2015-08-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

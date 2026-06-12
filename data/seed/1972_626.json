@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om statsguardeinens virksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1972-12-22",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1972/626/xml",
-  "description": "Retsinformation source. DocumentId=CM023950; AccessionNumber=B19720062605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023950; AccessionNumber=B19720062605; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:30:07.028Z",
+    "accession": "B19720062605",
+    "document_id": "CM023950",
+    "unique_document_id": "64890",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

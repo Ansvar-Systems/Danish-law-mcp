@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om tolkning til personer med hørehandicap\\n(Bemyndigelse til at udstede regler om bevillingsbegrænset tolkning og ændrede regler for udpegning af medlemmer af Tolkerådet)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-12-23",
+  "in_force_date": "2012-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1397/xml",
-  "description": "Retsinformation source. DocumentId=BS000397; AccessionNumber=A20120139730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BS000397; AccessionNumber=A20120139730; Ophævet 2013-05-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 a. Der ydes bevillingsbegrænset tolkning til andre aktiviteter end de i § 10 nævnte aktiviteter til personer, der er omfattet af tolkeløsningen, jf. § 9. Stk. 2. Social- og integrationsministeren fastsætter nærmere regler om, hvilke aktiviteter der kan ydes tolkning til efter stk. 1, og hvilke beløbsgrænser der er for det samlede forbrug af tolkebistand til disse aktiviteter.",
-      "valid_from": "2012-12-23",
-      "valid_to": null
+      "valid_from": "2012-12-27",
+      "valid_to": "2013-05-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:45:59.565Z",
+    "accession": "A20120139730",
+    "document_id": "BS000397",
+    "unique_document_id": "144924",
+    "upstream_status": "Historic",
+    "start_date": "2012-12-27",
+    "end_date": "2022-07-08",
+    "historic_marked": "2013-05-24",
+    "seed_status": "repealed"
+  }
 }

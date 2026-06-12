@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om skattegodtgørelse m.v. for indkomståret 1978 og om ændring af kildeskatteloven.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1977-12-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1977/605/xml",
-  "description": "Retsinformation source. DocumentId=CM022671; AccessionNumber=A19770060530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022671; AccessionNumber=A19770060530; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:58:42.221Z",
+    "accession": "A19770060530",
+    "document_id": "CM022671",
+    "unique_document_id": "63651",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1997-09-25",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

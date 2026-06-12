@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fribefordring af skoleelever m.fl.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-11-16",
+  "in_force_date": "2000-11-23",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1009/xml",
-  "description": "Retsinformation source. DocumentId=AT000525; AccessionNumber=B20000100905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000525; AccessionNumber=B20000100905; Ophævet 2017-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:50:52.999Z",
+    "accession": "B20000100905",
+    "document_id": "AT000525",
+    "unique_document_id": "23539",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-23",
+    "end_date": "2025-08-21",
+    "historic_marked": "2017-09-29",
+    "seed_status": "repealed"
+  }
 }

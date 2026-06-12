@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om regnskabsførelse efter kildeskatteloven",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-12-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1980/602/xml",
-  "description": "Retsinformation source. DocumentId=CM020347; AccessionNumber=B19800060205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020347; AccessionNumber=B19800060205; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:05:28.669Z",
+    "accession": "B19800060205",
+    "document_id": "CM020347",
+    "unique_document_id": "61378",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2005-08-03",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

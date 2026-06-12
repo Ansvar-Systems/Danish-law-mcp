@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om biblioteksvirksomhed",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-17",
+  "in_force_date": "2000-05-17",
   "url": "https://www.retsinformation.dk/eli/lta/2000/340/xml",
-  "description": "Retsinformation source. DocumentId=AK000098; AccessionNumber=A20000034030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000098; AccessionNumber=A20000034030; Ophævet 2008-09-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:15:26.119Z",
+    "accession": "A20000034030",
+    "document_id": "AK000098",
+    "unique_document_id": "11770",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-17",
+    "end_date": "2018-08-06",
+    "historic_marked": "2008-09-18",
+    "seed_status": "repealed"
+  }
 }

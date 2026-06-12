@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om mærkning af cykelstel m.v.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-02-17",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1998/101/xml",
-  "description": "Retsinformation source. DocumentId=CM046629; AccessionNumber=A19980010130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046629; AccessionNumber=A19980010130; Ophævet 2009-07-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:28:42.129Z",
+    "accession": "A19980010130",
+    "document_id": "CM046629",
+    "unique_document_id": "86855",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2009-07-18",
+    "historic_marked": "2009-07-17",
+    "seed_status": "repealed"
+  }
 }

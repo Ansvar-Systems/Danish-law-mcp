@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-14",
+  "in_force_date": "2020-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2031/xml",
   "description": "Retsinformation source. DocumentId=AA012180; AccessionNumber=B20200203105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Statsadvokaten i København varetager i Østre landsretskreds forretningerne vedrørende landfogeden (politidirektøren) på Færøerne, jf. dog § 2.",
-      "valid_from": "2020-12-14",
+      "valid_from": "2020-12-19",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Statsadvokaten for Særlig Økonomisk og International Kriminalitet varetager for landfogeden på Færøerne forretningerne vedrørende: 1) Økonomiske forbrydelser, herunder navnlig sager om overtrædelse af straffelovens §§ 278-283, §§ 289-304 eller af lovgivning, der regulerer erhvervslivets eller de finansielle markeders forhold, når der kan være grund til at antage, at overtrædelsen har et særligt betydeligt omfang, er et led i organiseret kriminalitet, er udført ved anvendelse af særegne forretningsmetoder, eller på anden måde er af særlig kvalificeret karakter. 2) Internationale straffesager, herunder navnlig sager om folkedrab, forbrydelser mod menneskeheden, krigsforbrydelser og andre alvorlige forbrydelser begået i udlandet, hvor efterforskningen og strafforfølgningen som følge af sagens kompleksitet og internationale aspekt forudsætter en særlig viden om og indsigt i forholdene i udlandet og forudsætter, at der etableres et samarbejde med myndigheder i andre lande, internationale institutioner, organisationer mv. Stk. 2. Opstår der tvivl om, hvorvidt en sag henhører under Statsadvokaten for Særlig Økonomisk og international kriminalitet, afgøres spørgsmålet af Rigsadvokaten.",
-      "valid_from": "2020-12-14",
+      "valid_from": "2020-12-19",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2021.",
-      "valid_from": "2020-12-14",
+      "valid_from": "2020-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:58.210Z",
+    "accession": "B20200203105",
+    "document_id": "AA012180",
+    "unique_document_id": "218213",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-19",
+    "end_date": "2020-12-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fremme af privat udlejningsbyggeri",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-01-29",
+  "in_force_date": "2003-02-06",
   "url": "https://www.retsinformation.dk/eli/lta/2003/65/xml",
-  "description": "Retsinformation source. DocumentId=AU000888; AccessionNumber=B20030006505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000888; AccessionNumber=B20030006505; Ophævet 2003-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:38:47.442Z",
+    "accession": "B20030006505",
+    "document_id": "AU000888",
+    "unique_document_id": "26145",
+    "upstream_status": "Historic",
+    "start_date": "2003-02-06",
+    "end_date": "2023-07-12",
+    "historic_marked": "2003-11-27",
+    "seed_status": "repealed"
+  }
 }

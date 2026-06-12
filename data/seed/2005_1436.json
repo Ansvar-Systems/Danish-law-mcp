@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om salg af almene familieboliger",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-14",
+  "in_force_date": "2005-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1436/xml",
-  "description": "Retsinformation source. DocumentId=AO002788; AccessionNumber=B20050143605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002788; AccessionNumber=B20050143605; Ophævet 2012-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:06:27.932Z",
+    "accession": "B20050143605",
+    "document_id": "AO002788",
+    "unique_document_id": "20463",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-22",
+    "end_date": "2023-04-28",
+    "historic_marked": "2012-03-08",
+    "seed_status": "repealed"
+  }
 }

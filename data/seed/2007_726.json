@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om mindsterenten for perioden 1. juli 2007 31. december 2007",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-22",
+  "in_force_date": "2007-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2007/726/xml",
-  "description": "Retsinformation source. DocumentId=AN006150; AccessionNumber=B20070072605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN006150; AccessionNumber=B20070072605; Ophævet 2007-12-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:33:49.774Z",
+    "accession": "B20070072605",
+    "document_id": "AN006150",
+    "unique_document_id": "18105",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2007-12-31",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om vedtægt for Det Danske Filminstitut",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-04-07",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1997/260/xml",
-  "description": "Retsinformation source. DocumentId=CM043669; AccessionNumber=B19970026005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043669; AccessionNumber=B19970026005; Ophævet 2004-06-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:58:57.589Z",
+    "accession": "B19970026005",
+    "document_id": "CM043669",
+    "unique_document_id": "84238",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2013-02-20",
+    "historic_marked": "2004-06-07",
+    "seed_status": "repealed"
+  }
 }

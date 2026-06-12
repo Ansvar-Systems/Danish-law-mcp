@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven og retsplejeloven\\n(Sporing af skjult udbytte og andre aktiver, forældelse af konfiskationskrav, hemmelig beslaglæggelse m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1552/xml",
-  "description": "Retsinformation source. DocumentId=AA005871; AccessionNumber=A20100155230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005871; AccessionNumber=A20100155230; Ophævet 2011-11-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "807",
@@ -20,8 +21,19 @@
       "section": "807",
       "content": "§ 807 e. Hvis det er af afgørende betydning for efterforskningen, at der foretages beslaglæggelse, uden at den mistænkte eller andre gøres bekendt hermed, kan retten ved kendelse træffe bestemmelse herom og om, at reglerne i § 807, stk. 1, 2. og 3. pkt., fraviges. Stk. 2. Reglerne i § 783, stk. 3 og 4, § 784, § 785 og § 788 finder tilsvarende anvendelse på de i stk. 1 omhandlede tilfælde.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2011-11-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:57:25.179Z",
+    "accession": "A20100155230",
+    "document_id": "AA005871",
+    "unique_document_id": "135213",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2012-01-21",
+    "historic_marked": "2011-11-22",
+    "seed_status": "repealed"
+  }
 }

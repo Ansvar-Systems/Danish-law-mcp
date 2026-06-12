@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om skattefri virksomhedsomdannelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-11-21",
+  "in_force_date": "2005-12-08",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1130/xml",
-  "description": "Retsinformation source. DocumentId=AN004932; AccessionNumber=A20050113029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004932; AccessionNumber=A20050113029; Ophævet 2006-10-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:54:09.941Z",
+    "accession": "A20050113029",
+    "document_id": "AN004932",
+    "unique_document_id": "17067",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-08",
+    "end_date": "2006-10-05",
+    "historic_marked": "2006-10-05",
+    "seed_status": "repealed"
+  }
 }

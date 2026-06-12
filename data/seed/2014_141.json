@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om administration af tilskud fra Den Europæiske Regionalfond og Den Europæiske Socialfond (Tilpasning af reglerne for administration af forordningerne om Regionalfonden og Socialfonden m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-02-18",
+  "in_force_date": "2014-02-19",
   "url": "https://www.retsinformation.dk/eli/lta/2014/141/xml",
-  "description": "Retsinformation source. DocumentId=BP000822; AccessionNumber=B20140014105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000822; AccessionNumber=B20140014105; Ophævet 2016-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 126 af 11. februar 2014 om ændring af lov om administration af tilskud fra Den Europæiske Regionalfond og Den Europæiske Socialfond (Tilpasning af reglerne for administration af forordningerne om Regionalfonden og Socialfonden m.v.) sættes i kraft.",
-      "valid_from": "2014-02-18",
-      "valid_to": null
+      "valid_from": "2014-02-19",
+      "valid_to": "2016-04-14"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 21. februar 2014.",
-      "valid_from": "2014-02-18",
-      "valid_to": null
+      "valid_from": "2014-02-19",
+      "valid_to": "2016-04-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:43:37.488Z",
+    "accession": "B20140014105",
+    "document_id": "BP000822",
+    "unique_document_id": "161804",
+    "upstream_status": "Historic",
+    "start_date": "2014-02-19",
+    "end_date": "2017-12-08",
+    "historic_marked": "2016-04-14",
+    "seed_status": "repealed"
+  }
 }

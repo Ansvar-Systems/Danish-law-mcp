@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om teleterminaludstyr (* 1)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-04-19",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/255/xml",
-  "description": "Retsinformation source. DocumentId=CM003966; AccessionNumber=A19950025530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM003966; AccessionNumber=A19950025530; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:31:35.142Z",
+    "accession": "A19950025530",
+    "document_id": "CM003966",
+    "unique_document_id": "45384",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-06-04",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

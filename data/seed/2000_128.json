@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om husdyrhold og arealkrav m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-22",
+  "in_force_date": "2000-03-02",
   "url": "https://www.retsinformation.dk/eli/lta/2000/128/xml",
-  "description": "Retsinformation source. DocumentId=AH000536; AccessionNumber=B20000012805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000536; AccessionNumber=B20000012805; Ophævet 2002-10-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:01:43.255Z",
+    "accession": "B20000012805",
+    "document_id": "AH000536",
+    "unique_document_id": "6928",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "2002-10-10",
+    "seed_status": "repealed"
+  }
 }

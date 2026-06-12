@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om almene boliger m.v.\\n(Fremrykket underretning om boligsocialt anviste lejere)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-03-19",
+  "in_force_date": "2013-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2013/271/xml",
-  "description": "Retsinformation source. DocumentId=BV000101; AccessionNumber=A20130027130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BV000101; AccessionNumber=A20130027130; Ophævet 2013-08-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:57:42.093Z",
+    "accession": "A20130027130",
+    "document_id": "BV000101",
+    "unique_document_id": "145904",
+    "upstream_status": "Historic",
+    "start_date": "2013-03-19",
+    "end_date": "2023-04-28",
+    "historic_marked": "2013-08-23",
+    "seed_status": "repealed"
+  }
 }

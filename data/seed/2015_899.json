@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om stillingsstruktur for videnskabeligt personale ved universiteter",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-07-01",
+  "in_force_date": "2015-07-16",
   "url": "https://www.retsinformation.dk/eli/lta/2015/899/xml",
-  "description": "Retsinformation source. DocumentId=CE000309; AccessionNumber=B20150089905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000309; AccessionNumber=B20150089905; Ophævet 2019-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Reglerne om stillingsstrukturen og indholdet i de stillingskategorier, der kan benyttes for det videnskabelige personale ved universiteter under Uddannelses- og Forskningsministeriet, er gengivet som bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2015-07-01",
-      "valid_to": null
+      "valid_from": "2015-07-16",
+      "valid_to": "2019-12-17"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 17. juli 2015.",
-      "valid_from": "2015-07-01",
-      "valid_to": null
+      "valid_from": "2015-07-16",
+      "valid_to": "2019-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:27:47.231Z",
+    "accession": "B20150089905",
+    "document_id": "CE000309",
+    "unique_document_id": "172954",
+    "upstream_status": "Historic",
+    "start_date": "2015-07-16",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-12-17",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forskningsrådgivning m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-19",
+  "in_force_date": "2007-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2007/658/xml",
-  "description": "Retsinformation source. DocumentId=BD000295; AccessionNumber=A20070065829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000295; AccessionNumber=A20070065829; Ophævet 2008-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:31:05.320Z",
+    "accession": "A20070065829",
+    "document_id": "BD000295",
+    "unique_document_id": "29287",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2008-12-19",
+    "seed_status": "repealed"
+  }
 }

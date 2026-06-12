@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om luftfart\\n(Kommunal drift af flyvepladser, regulering af erstatningsansvarsgrænser, sletning i register af luftfartøjer og udstedelse af forbud og påbud m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-05-18",
+  "in_force_date": "2011-05-18",
   "url": "https://www.retsinformation.dk/eli/lta/2011/470/xml",
-  "description": "Retsinformation source. DocumentId=BL000506; AccessionNumber=A20110047030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000506; AccessionNumber=A20110047030; Ophævet 2011-09-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "52",
@@ -20,8 +21,19 @@
       "section": "52",
       "content": "§ 52 a. Kommuner og kommunale fællesskaber kan eje og drive flyvepladser med tilknyttet virksomhed, herunder parkeringsanlæg, på et forretningsmæssigt grundlag og kan i den forbindelse fastsætte betaling for benyttelse af flyvepladsen. Stk. 2. En kommune kan alene eller sammen med andre varetage aktiviteter efter stk. 1 i selskabsform.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2011-09-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:08:33.955Z",
+    "accession": "A20110047030",
+    "document_id": "BL000506",
+    "unique_document_id": "137068",
+    "upstream_status": "Historic",
+    "start_date": "2011-05-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-09-15",
+    "seed_status": "repealed"
+  }
 }

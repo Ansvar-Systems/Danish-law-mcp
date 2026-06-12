@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opkrævning af indkomstskat samt kommunal og amtskommunal ejendomsværdiskat for personer m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-06",
+  "in_force_date": "2000-08-07",
   "url": "https://www.retsinformation.dk/eli/lta/2000/729/xml",
-  "description": "Retsinformation source. DocumentId=AN001122; AccessionNumber=B20000072905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001122; AccessionNumber=B20000072905; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:31:04.711Z",
+    "accession": "B20000072905",
+    "document_id": "AN001122",
+    "unique_document_id": "13916",
+    "upstream_status": "Historic",
+    "start_date": "2000-08-07",
+    "end_date": "2002-01-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

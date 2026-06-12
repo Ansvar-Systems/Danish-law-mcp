@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forretningsorden for Konkurrencerådet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-12-02",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1997/920/xml",
-  "description": "Retsinformation source. DocumentId=CM046015; AccessionNumber=B19970092005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046015; AccessionNumber=B19970092005; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:25:08.144Z",
+    "accession": "B19970092005",
+    "document_id": "CM046015",
+    "unique_document_id": "86287",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

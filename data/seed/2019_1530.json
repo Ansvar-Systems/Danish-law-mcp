@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Jernbanenævnet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-13",
+  "in_force_date": "2019-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1530/xml",
-  "description": "Retsinformation source. DocumentId=CZ000103; AccessionNumber=B20190153005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000103; AccessionNumber=B20190153005; Ophævet 2021-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:49:48.747Z",
+    "accession": "B20190153005",
+    "document_id": "CZ000103",
+    "unique_document_id": "211988",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-20",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-06-29",
+    "seed_status": "repealed"
+  }
 }

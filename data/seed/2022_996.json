@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godskørsel",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-06-27",
+  "in_force_date": "2022-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2022/996/xml",
-  "description": "Retsinformation source. DocumentId=DG000455; AccessionNumber=B20220099605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000455; AccessionNumber=B20220099605; Ophævet 2022-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:01:27.231Z",
+    "accession": "B20220099605",
+    "document_id": "DG000455",
+    "unique_document_id": "232150",
+    "upstream_status": "Historic",
+    "start_date": "2022-06-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2022-12-08",
+    "seed_status": "repealed"
+  }
 }

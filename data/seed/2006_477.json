@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om visse krav til emballager",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-05-28",
+  "in_force_date": "2006-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2006/477/xml",
-  "description": "Retsinformation source. DocumentId=AL001398; AccessionNumber=B20060047705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001398; AccessionNumber=B20060047705; Ophævet 2010-05-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:25:27.895Z",
+    "accession": "B20060047705",
+    "document_id": "AL001398",
+    "unique_document_id": "12925",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-08",
+    "end_date": "2022-04-09",
+    "historic_marked": "2010-05-10",
+    "seed_status": "repealed"
+  }
 }

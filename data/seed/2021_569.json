@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-03-29",
+  "in_force_date": "2021-03-31",
   "url": "https://www.retsinformation.dk/eli/lta/2021/569/xml",
   "description": "Retsinformation source. DocumentId=DC000163; AccessionNumber=B20210056905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 271 af 26. februar 2021 om fund af højpatogen aviær influenza ved Østermarie i Bornholms Regionskommune ophæves.",
-      "valid_from": "2021-03-29",
+      "valid_from": "2021-03-31",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2021.",
-      "valid_from": "2021-03-29",
+      "valid_from": "2021-03-31",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:44:04.168Z",
+    "accession": "B20210056905",
+    "document_id": "DC000163",
+    "unique_document_id": "222144",
+    "upstream_status": "Valid",
+    "start_date": "2021-03-31",
+    "end_date": "2021-03-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

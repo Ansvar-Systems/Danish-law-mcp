@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Lægemiddelstyrelsens Centrale Tilskudsregister (CTR)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-02-15",
+  "in_force_date": "2010-02-23",
   "url": "https://www.retsinformation.dk/eli/lta/2010/171/xml",
-  "description": "Retsinformation source. DocumentId=BK001090; AccessionNumber=B20100017105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001090; AccessionNumber=B20100017105; Ophævet 2010-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:03:50.508Z",
+    "accession": "B20100017105",
+    "document_id": "BK001090",
+    "unique_document_id": "130405",
+    "upstream_status": "Historic",
+    "start_date": "2010-02-23",
+    "end_date": "2022-07-12",
+    "historic_marked": "2010-12-22",
+    "seed_status": "repealed"
+  }
 }

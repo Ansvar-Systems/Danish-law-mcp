@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-09-19",
+  "in_force_date": "2022-09-19",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1292/xml",
   "description": "Retsinformation source. DocumentId=DH000870; AccessionNumber=B20220129205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -255,5 +256,16 @@
       "definition": "timer, hvor der kun undtagelsesvis udføres aktiviteter for borgeren",
       "source_provision": "1:5"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:13:17.414Z",
+    "accession": "B20220129205",
+    "document_id": "DH000870",
+    "unique_document_id": "232748",
+    "upstream_status": "Valid",
+    "start_date": "2022-09-19",
+    "end_date": "2025-09-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om stormflod og stormfald",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-17",
+  "in_force_date": "2000-05-17",
   "url": "https://www.retsinformation.dk/eli/lta/2000/349/xml",
-  "description": "Retsinformation source. DocumentId=AU000203; AccessionNumber=A20000034930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000203; AccessionNumber=A20000034930; Ophævet 2012-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:15:45.692Z",
+    "accession": "A20000034930",
+    "document_id": "AU000203",
+    "unique_document_id": "25651",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-17",
+    "end_date": "2017-12-08",
+    "historic_marked": "2012-11-27",
+    "seed_status": "repealed"
+  }
 }

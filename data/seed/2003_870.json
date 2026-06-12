@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om folkeskolen",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-10-21",
+  "in_force_date": "2003-11-03",
   "url": "https://www.retsinformation.dk/eli/lta/2003/870/xml",
-  "description": "Retsinformation source. DocumentId=AT001437; AccessionNumber=A20030087029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001437; AccessionNumber=A20030087029; Ophævet 2005-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:47:40.449Z",
+    "accession": "A20030087029",
+    "document_id": "AT001437",
+    "unique_document_id": "24225",
+    "upstream_status": "Historic",
+    "start_date": "2003-11-03",
+    "end_date": "2023-07-11",
+    "historic_marked": "2005-06-06",
+    "seed_status": "repealed"
+  }
 }

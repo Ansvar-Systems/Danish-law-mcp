@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fyrværkeri",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-11-24",
+  "in_force_date": "2004-11-25",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1133/xml",
-  "description": "Retsinformation source. DocumentId=AU001842; AccessionNumber=B20040113305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001842; AccessionNumber=B20040113305; Ophævet 2005-11-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:58:21.032Z",
+    "accession": "B20040113305",
+    "document_id": "AU001842",
+    "unique_document_id": "26807",
+    "upstream_status": "Historic",
+    "start_date": "2004-11-25",
+    "end_date": "2017-12-09",
+    "historic_marked": "2005-11-10",
+    "seed_status": "repealed"
+  }
 }

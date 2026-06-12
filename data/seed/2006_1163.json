@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af bekendtgørelse om betaling for anvendelse af Det Fælles Lønindeholdelsesregister",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-11-24",
+  "in_force_date": "2006-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1163/xml",
-  "description": "Retsinformation source. DocumentId=AN005636; AccessionNumber=B20060116305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005636; AccessionNumber=B20060116305; Ophævet 2023-03-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:49:24.859Z",
+    "accession": "B20060116305",
+    "document_id": "AN005636",
+    "unique_document_id": "17650",
+    "upstream_status": "Historic",
+    "start_date": "2006-12-04",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-03-28",
+    "seed_status": "repealed"
+  }
 }

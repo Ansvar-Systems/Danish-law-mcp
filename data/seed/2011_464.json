@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om lægemidler og lov om medicinsk udstyr\\n(Styrkelse af kontrolindsatsen, for så vidt angår ulovlige lægemidler m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-05-18",
+  "in_force_date": "2011-05-18",
   "url": "https://www.retsinformation.dk/eli/lta/2011/464/xml",
-  "description": "Retsinformation source. DocumentId=AI003823; AccessionNumber=A20110046430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI003823; AccessionNumber=A20110046430; Ophævet 2016-02-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "39",
@@ -56,49 +57,49 @@
       "section": "39",
       "content": "§ 39 b. Det er ikke tilladt for erhvervsmæssige udbydere af elektroniske kommunikationsnet eller -tjenester til slutbrugere at formidle adgang til et internetdomæne, hvorfra der i strid med § 7, § 39, stk. 1, eller § 60, stk. 1, forhandles lægemidler til brugerne, jf. dog stk. 2.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2016-02-22"
     },
     {
       "provision_ref": "43",
       "section": "43",
       "content": "§ 43 d. Indehaveren af en tilladelse efter § 7 kan i begrænset mængde indføre, udføre og oplagre lægemidler, der er indkøbt for at undersøge forekomsten af forfalskede lægemidler blandt de lægemidler, som er omfattet af tilladelsen.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2016-02-22"
     },
     {
       "provision_ref": "44",
       "section": "44",
       "content": "§ 44 c. Lægemiddelstyrelsen kan foretage beslaglæggelse af lægemidler og produkter, der er grund til at formode kan være lægemidler, som forhandles til brugerne i strid med § 7, § 39, stk. 1, eller § 60, stk. 1. Lægemiddelstyrelsen kan endvidere beslaglægge lægemidler og produkter, der er grund til at formode kan være lægemidler, som i strid med reglerne om private personers indførsel af lægemidler til eget forbrug bliver indført fra lande, der ikke er medlem af EU eller EØS.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2016-02-22"
     },
     {
       "provision_ref": "45",
       "section": "45",
       "content": "§ 45 a. Indenrigs- og sundhedsministeren kan efter forhandling med vedkommende minister fastsætte regler om, at repræsentanter for myndigheder, der hører under de pågældende ministres ressort, kan foretage kontrol på Lægemiddelstyrelsens vegne og udøve de beføjelser, der i denne lovs § 44 a og § 44 c, stk. 1, 1. pkt., er henlagt til Lægemiddelstyrelsen, med henblik på at sikre lovlig distribution af lægemidler.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2016-02-22"
     },
     {
       "provision_ref": "54",
       "section": "54",
       "content": "§ 54 a. Lægemiddelstyrelsen kan kræve, at indehaveren af markedsføringstilladelsen til et lægemiddel offentliggør eller til en nærmere bestemt kreds af sundhedspersoner eller hospitaler udsender information om lægemidlet, der tjener patientsikkerhedsmæssige formål, herunder oplysninger om formodede bivirkninger.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2016-02-22"
     },
     {
       "provision_ref": "56",
       "section": "56",
       "content": "§ 56 a. Indenrigs- og sundhedsministeren kan fastsætte regler om formkrav til indberetninger og periodiske sikkerhedsopdateringer udarbejdet af indehavere af markedsføringstilladelser efter dette kapitel, herunder at dette skal ske elektronisk.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2016-02-22"
     },
     {
       "provision_ref": "92",
       "section": "92",
       "content": "§ 92 a. Indenrigs- og sundhedsministeren kan fastsætte regler om formkrav til ansøgninger og underretninger efter dette kapitel, herunder at ansøgning eller underretning skal ske elektronisk.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2016-02-22"
     },
     {
       "provision_ref": "14:103",
@@ -106,8 +107,19 @@
       "section": "103",
       "content": "§ 103 b. Indenrigs- og sundhedsministeren kan fastsætte regler om klage over Lægemiddelstyrelsens afgørelser, herunder regler om klagefrister.",
       "valid_from": "2011-05-18",
-      "valid_to": null
+      "valid_to": "2016-02-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:08:18.752Z",
+    "accession": "A20110046430",
+    "document_id": "AI003823",
+    "unique_document_id": "137164",
+    "upstream_status": "Historic",
+    "start_date": "2011-05-18",
+    "end_date": "2022-07-12",
+    "historic_marked": "2016-02-22",
+    "seed_status": "repealed"
+  }
 }

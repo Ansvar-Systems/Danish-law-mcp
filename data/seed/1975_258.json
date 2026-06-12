@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forskrifter mod støj i skibe",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1975-06-17",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1975/258/xml",
-  "description": "Retsinformation source. DocumentId=CM023506; AccessionNumber=B19750025805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023506; AccessionNumber=B19750025805; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:56:04.418Z",
+    "accession": "B19750025805",
+    "document_id": "CM023506",
+    "unique_document_id": "64467",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forbud mod tv-overvågning mv.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-01",
+  "in_force_date": "2000-02-07",
   "url": "https://www.retsinformation.dk/eli/lta/2000/76/xml",
-  "description": "Retsinformation source. DocumentId=AA000947; AccessionNumber=A20000007629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA000947; AccessionNumber=A20000007629; Ophævet 2005-08-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:32:18.681Z",
+    "accession": "A20000007629",
+    "document_id": "AA000947",
+    "unique_document_id": "738",
+    "upstream_status": "Historic",
+    "start_date": "2000-02-07",
+    "end_date": "2005-08-25",
+    "historic_marked": "2005-08-25",
+    "seed_status": "repealed"
+  }
 }

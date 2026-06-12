@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om den maksimale timeindtægt efter dagpengeloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-05-15",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/323/xml",
-  "description": "Retsinformation source. DocumentId=CM011994; AccessionNumber=B19900032305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011994; AccessionNumber=B19900032305; Ophævet 1991-04-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:11:01.149Z",
+    "accession": "B19900032305",
+    "document_id": "CM011994",
+    "unique_document_id": "53145",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2011-01-12",
+    "historic_marked": "1991-04-03",
+    "seed_status": "repealed"
+  }
 }

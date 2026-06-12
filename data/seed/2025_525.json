@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-05-22",
+  "in_force_date": "2025-05-22",
   "url": "https://www.retsinformation.dk/eli/lta/2025/525/xml",
   "description": "Retsinformation source. DocumentId=DC001892; AccessionNumber=B20250052505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -470,5 +471,16 @@
       "definition": "det sted, hvor dyrene sædvanligvis opholder sig, herunder hus og hønsegård",
       "source_provision": "4:7"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:15:33.084Z",
+    "accession": "B20250052505",
+    "document_id": "DC001892",
+    "unique_document_id": "249755",
+    "upstream_status": "Valid",
+    "start_date": "2025-05-22",
+    "end_date": "2025-05-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

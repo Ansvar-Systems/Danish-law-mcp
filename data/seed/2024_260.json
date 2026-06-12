@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2024-03-15",
+  "in_force_date": "2024-03-18",
   "url": "https://www.retsinformation.dk/eli/lta/2024/260/xml",
   "description": "Retsinformation source. DocumentId=DH001783; AccessionNumber=B20240026003; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "4a",
       "section": "4a",
       "content": "§ 4 a. §§ 1-4 finder tilsvarende anvendelse på medmo‍derskab.",
-      "valid_from": "2024-03-15",
+      "valid_from": "2024-03-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:57:24.421Z",
+    "accession": "B20240026003",
+    "document_id": "DH001783",
+    "unique_document_id": "242413",
+    "upstream_status": "Valid",
+    "start_date": "2024-03-18",
+    "end_date": "2024-03-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om driftsforskrifter for luftfart med danske luftfartøjer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-04-28",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1985/171/xml",
-  "description": "Retsinformation source. DocumentId=CM008672; AccessionNumber=B19850017105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008672; AccessionNumber=B19850017105; Ophævet 1997-03-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:48:52.746Z",
+    "accession": "B19850017105",
+    "document_id": "CM008672",
+    "unique_document_id": "49859",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1997-03-10",
+    "seed_status": "repealed"
+  }
 }

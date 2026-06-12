@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om østersfiskeri i Limfjorden",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-02-23",
+  "in_force_date": "2005-03-03",
   "url": "https://www.retsinformation.dk/eli/lta/2005/110/xml",
-  "description": "Retsinformation source. DocumentId=AH002071; AccessionNumber=B20050011005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002071; AccessionNumber=B20050011005; Ophævet 2005-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:52:55.796Z",
+    "accession": "B20050011005",
+    "document_id": "AH002071",
+    "unique_document_id": "8247",
+    "upstream_status": "Historic",
+    "start_date": "2005-03-03",
+    "end_date": "2022-04-08",
+    "historic_marked": "2005-08-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af visse typegodkendelser for vægte",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-01-22",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1987/65/xml",
-  "description": "Retsinformation source. DocumentId=CM023270; AccessionNumber=B19870006505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023270; AccessionNumber=B19870006505; Ophævet 2002-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:48:16.373Z",
+    "accession": "B19870006505",
+    "document_id": "CM023270",
+    "unique_document_id": "64237",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-01-31",
+    "seed_status": "repealed"
+  }
 }

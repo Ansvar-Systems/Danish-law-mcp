@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fradrag i arbejdsløshedsdagpenge mv.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-04-23",
+  "in_force_date": "2012-04-25",
   "url": "https://www.retsinformation.dk/eli/lta/2012/356/xml",
-  "description": "Retsinformation source. DocumentId=BE005049; AccessionNumber=B20120035605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005049; AccessionNumber=B20120035605; Ophævet 2017-04-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. I denne bekendtgørelse er fastsat regler om fradrag for arbejde og indtægter i dagpenge, der udbetales efter lov om arbejdsløshedsforsikring m.v.",
-      "valid_from": "2012-04-23",
-      "valid_to": null
+      "valid_from": "2012-04-25",
+      "valid_to": "2017-04-27"
     },
     {
       "provision_ref": "15",
       "section": "15",
       "content": "§ 15. Løn eller elevgodtgørelse, som er knyttet til deltagelse i et tilbud om uddannelse efter kapitel 10 i lov om en aktiv beskæftigelsesindsats, fradrages krone-for-krone i dagpengene. Indtægten nedsættes forinden med arbejdsmarkedsbidraget. Stk. 2. Fradrag for arbejde og indtægter i øvrigt sker efter §§ 13 og 14.",
-      "valid_from": "2012-04-23",
-      "valid_to": null
+      "valid_from": "2012-04-25",
+      "valid_to": "2017-04-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:57:12.824Z",
+    "accession": "B20120035605",
+    "document_id": "BE005049",
+    "unique_document_id": "141526",
+    "upstream_status": "Historic",
+    "start_date": "2012-04-25",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-04-27",
+    "seed_status": "repealed"
+  }
 }

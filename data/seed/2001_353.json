@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om anlæg af fast forbindelse over Øresund",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-05-16",
+  "in_force_date": "2001-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2001/353/xml",
-  "description": "Retsinformation source. DocumentId=AR000436; AccessionNumber=A20010035329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000436; AccessionNumber=A20010035329; Ophævet 2005-06-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:56:36.780Z",
+    "accession": "A20010035329",
+    "document_id": "AR000436",
+    "unique_document_id": "22039",
+    "upstream_status": "Historic",
+    "start_date": "2001-05-24",
+    "end_date": "2022-07-07",
+    "historic_marked": "2005-06-24",
+    "seed_status": "repealed"
+  }
 }

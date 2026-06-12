@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om kreditforeningen af kommuner og regioner i Danmark",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-05-03",
+  "in_force_date": "2006-05-04",
   "url": "https://www.retsinformation.dk/eli/lta/2006/383/xml",
-  "description": "Retsinformation source. DocumentId=AI002222; AccessionNumber=A20060038330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI002222; AccessionNumber=A20060038330; Ophævet 2023-04-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:21:41.487Z",
+    "accession": "A20060038330",
+    "document_id": "AI002222",
+    "unique_document_id": "10262",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-04",
+    "end_date": "2023-04-26",
+    "historic_marked": "2023-04-25",
+    "seed_status": "repealed"
+  }
 }

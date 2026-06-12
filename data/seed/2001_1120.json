@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bevaring og kassation af arkivalier hos forskningsinstitutioner",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-12-19",
+  "in_force_date": "2002-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/2001/1120/xml",
-  "description": "Retsinformation source. DocumentId=AK000181; AccessionNumber=B20010112005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000181; AccessionNumber=B20010112005; Ophævet 2018-11-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:46:54.638Z",
+    "accession": "B20010112005",
+    "document_id": "AK000181",
+    "unique_document_id": "11822",
+    "upstream_status": "Historic",
+    "start_date": "2002-01-13",
+    "end_date": "2018-11-29",
+    "historic_marked": "2018-11-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af selskabsskatteloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-10-23",
+  "in_force_date": "2001-10-23",
   "url": "https://www.retsinformation.dk/eli/lta/2001/925/xml",
-  "description": "Retsinformation source. DocumentId=AN002640; AccessionNumber=A20010092530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002640; AccessionNumber=A20010092530; Ophævet 2002-09-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:19:27.053Z",
+    "accession": "A20010092530",
+    "document_id": "AN002640",
+    "unique_document_id": "15210",
+    "upstream_status": "Historic",
+    "start_date": "2001-10-23",
+    "end_date": "2005-06-01",
+    "historic_marked": "2002-09-12",
+    "seed_status": "repealed"
+  }
 }

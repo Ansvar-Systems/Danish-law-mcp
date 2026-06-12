@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven og personskatteloven\\n(Investering i vedvarende energi)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1559/xml",
-  "description": "Retsinformation source. DocumentId=AN010587; AccessionNumber=A20100155930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN010587; AccessionNumber=A20100155930; Ophævet 2011-11-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -20,8 +21,19 @@
       "section": "8",
       "content": "§ 8 P. Fysiske personer, der ejer vedvarende energi-anlæg eller andele i vedvarende energi-anlæg omfattet af § 2, stk. 2 eller 3, i lov om fremme af vedvarende energi, kan ved opgørelsen af den skattepligtige indkomst vælge at medregne indkomst ved driften af energi-anlægget efter reglerne i stk. 2 og 3. Valget har virkning for alle vedvarende energi-anlæg eller andele i vedvarende energi-anlæg, som den fysiske person ejer og efterfølgende erhverver, og er bindende til og med det indkomstår, hvor det sidste anlæg eller de sidste andele afstås.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2011-11-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:57:41.768Z",
+    "accession": "A20100155930",
+    "document_id": "AN010587",
+    "unique_document_id": "135242",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-11-03",
+    "seed_status": "repealed"
+  }
 }

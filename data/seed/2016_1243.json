@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om bemyndigelse af organer til overensstemmelsesvurdering af gasapparater",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-10-14",
+  "in_force_date": "2016-10-15",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1243/xml",
-  "description": "Retsinformation source. DocumentId=BP001778; AccessionNumber=B20160124305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001778; AccessionNumber=B20160124305; Ophævet 2018-03-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -39,33 +40,44 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Sikkerhedsstyrelsen udpeger bemyndigede organer til at foretage overensstemmelsesvurdering af gasapparater, som er omfattet af Europa-Parlamentets og Rådets forordning (EU) 2016/426 af 9. marts 2016 om apparater, der forbrænder gasformigt brændstof og om ophævelse af direktiv 2009/142/EF.",
-      "valid_from": "2016-10-14",
-      "valid_to": null
+      "valid_from": "2016-10-15",
+      "valid_to": "2018-03-23"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Et overensstemmelsesvurderingsorgan skal være akkrediteret for de overensstemmelsesmoduler, som organet ønsker at foretage, af DANAK Den Danske Akkrediteringsfond.",
-      "valid_from": "2016-10-14",
-      "valid_to": null
+      "valid_from": "2016-10-15",
+      "valid_to": "2018-03-23"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Ansøgning om udpegning skal vedlægges et akkrediteringscertifikat udstedt af DANAK Den Danske Akkrediteringsfond, hvorved det attesteres, at overensstemmelsesvurderingsorganet opfylder kravene i artikel 23 i Europa-Parlamentets og Rådets forordning (EU) 2016/426 af 9. marts 2016 om apparater, der forbrænder gasformigt brændstof og om ophævelse af direktiv 2009/142/EF. Stk. 2. Vurdering af overensstemmelsesvurderingsorganer og overvågning af bemyndigede organer, jf. artikel 20, stk. 1, i Europa-Parlamentets og Rådets forordning (EU) 2016/426 af 9. marts 2016 om apparater, der forbrænder gasformigt brændstof og om ophævelse af direktiv 2009/142/EF foretages af DANAK Den Danske Akkrediteringsfond.",
-      "valid_from": "2016-10-14",
-      "valid_to": null
+      "valid_from": "2016-10-15",
+      "valid_to": "2018-03-23"
     },
     {
       "provision_ref": "2:4",
       "chapter": "2",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 21. oktober 2016. Stk. 2. Pkt. 1.1.3. i bekendtgørelse af 24. september 2004 om Gasreglementets Afsnit C-1 ophæves.",
-      "valid_from": "2016-10-14",
-      "valid_to": null
+      "valid_from": "2016-10-15",
+      "valid_to": "2018-03-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:49.348Z",
+    "accession": "B20160124305",
+    "document_id": "BP001778",
+    "unique_document_id": "184332",
+    "upstream_status": "Historic",
+    "start_date": "2016-10-15",
+    "end_date": "2020-09-18",
+    "historic_marked": "2018-03-23",
+    "seed_status": "repealed"
+  }
 }

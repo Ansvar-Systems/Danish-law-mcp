@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse angaaende Bøjningen af Udsagnsordenes Tillægsmaader (* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1902-02-25",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1902/34/xml",
-  "description": "Retsinformation source. DocumentId=CM032105; AccessionNumber=B19020003405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032105; AccessionNumber=B19020003405; Ophævet 1997-05-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:36:16.729Z",
+    "accession": "B19020003405",
+    "document_id": "CM032105",
+    "unique_document_id": "72908",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-02-01",
+    "historic_marked": "1997-05-15",
+    "seed_status": "repealed"
+  }
 }

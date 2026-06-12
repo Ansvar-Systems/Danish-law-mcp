@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2019-12-27",
+  "in_force_date": "2019-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1552/xml",
   "description": "Retsinformation source. DocumentId=CZ000114; AccessionNumber=A20190155230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -207,5 +208,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:50:41.098Z",
+    "accession": "A20190155230",
+    "document_id": "CZ000114",
+    "unique_document_id": "212325",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

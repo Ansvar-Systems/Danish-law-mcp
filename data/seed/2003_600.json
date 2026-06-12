@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om VækstFondens virke",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-24",
+  "in_force_date": "2003-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2003/600/xml",
-  "description": "Retsinformation source. DocumentId=AU001106; AccessionNumber=B20030060005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001106; AccessionNumber=B20030060005; Ophævet 2004-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:36:49.070Z",
+    "accession": "B20030060005",
+    "document_id": "AU001106",
+    "unique_document_id": "26299",
+    "upstream_status": "Historic",
+    "start_date": "2003-07-03",
+    "end_date": "2017-12-09",
+    "historic_marked": "2004-08-30",
+    "seed_status": "repealed"
+  }
 }

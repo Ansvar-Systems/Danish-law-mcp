@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-08",
+  "in_force_date": "2015-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1482/xml",
   "description": "Retsinformation source. DocumentId=CK000385; AccessionNumber=B20150148205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 401 af 18. juni 1993 om registrering af akvakulturbrug og betaling for veterinærkontrol m.v. 2) Bekendtgørelse nr. 9880 af 13. september 2007 om forbud mod udførsel af visse levende dyr til Det Forende Kongerige. 3) Bekendtgørelse nr. 10190 af 7. november 2007 om forbud mod udførsel af visse levende dyr til Cypern. 4) Bekendtgørelse nr. 10232 af 14. november 2007 om forbud mod udførsel af visse levende dyr til Det Forenede Kongerige.",
-      "valid_from": "2015-12-08",
+      "valid_from": "2015-12-10",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-12-08",
+      "valid_from": "2015-12-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:41:52.688Z",
+    "accession": "B20150148205",
+    "document_id": "CK000385",
+    "unique_document_id": "176159",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-10",
+    "end_date": "2024-01-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

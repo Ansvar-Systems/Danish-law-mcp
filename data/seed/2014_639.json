@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-06-12",
+  "in_force_date": "2014-06-17",
   "url": "https://www.retsinformation.dk/eli/lta/2014/639/xml",
   "description": "Retsinformation source. DocumentId=AA008012; AccessionNumber=B20140063905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne i Europa-Parlamentets og Rådets forordning (EU) nr. 542/2014 om ændring af forordning (EU) nr. 1215/2012 med hensyn til de regler, der skal anvendes for så vidt angår Den Fælles Patentdomstol og Beneluxdomstolen, gælder her i landet.",
-      "valid_from": "2014-06-12",
+      "valid_from": "2014-06-17",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft dagen efter bekendtgørelsen i Lovtidende.",
-      "valid_from": "2014-06-12",
+      "valid_from": "2014-06-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:10:47.102Z",
+    "accession": "B20140063905",
+    "document_id": "AA008012",
+    "unique_document_id": "163915",
+    "upstream_status": "Valid",
+    "start_date": "2014-06-17",
+    "end_date": "2018-11-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

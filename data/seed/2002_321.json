@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om stempelafgift",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-05-21",
+  "in_force_date": "2002-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2002/321/xml",
-  "description": "Retsinformation source. DocumentId=AN002964; AccessionNumber=A20020032129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002964; AccessionNumber=A20020032129; Ophævet 2006-12-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:39:55.838Z",
+    "accession": "A20020032129",
+    "document_id": "AN002964",
+    "unique_document_id": "15435",
+    "upstream_status": "Historic",
+    "start_date": "2002-05-30",
+    "end_date": "2016-04-05",
+    "historic_marked": "2006-12-11",
+    "seed_status": "repealed"
+  }
 }

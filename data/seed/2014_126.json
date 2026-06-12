@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om administration af tilskud fra Den Europæiske Regionalfond og Den Europæiske Socialfond\\n(Tilpasning af reglerne for administration af forordningerne om Regionalfonden og Socialfonden m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-02-11",
+  "in_force_date": "2014-02-11",
   "url": "https://www.retsinformation.dk/eli/lta/2014/126/xml",
-  "description": "Retsinformation source. DocumentId=BP000808; AccessionNumber=A20140012630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000808; AccessionNumber=A20140012630; Ophævet 2016-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12",
@@ -20,8 +21,19 @@
       "section": "12",
       "content": "§ 12 a. Erhvervs- og vækstministeren kan nedsætte et indstillingsudvalg til behandling af ansøgninger om tilskud vedrørende byudvikling. Stk. 2. Indstillingsudvalget kan indstille projekter til tilsagn og afslag til erhvervs- og vækstministerens afgørelse. Stk. 3. Erhvervs- og vækstministeren kan fastsætte nærmere regler for indstillingsudvalget, herunder om udvalgets virke, sammensætning og forretningsorden.",
       "valid_from": "2014-02-11",
-      "valid_to": null
+      "valid_to": "2016-04-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:37:34.607Z",
+    "accession": "A20140012630",
+    "document_id": "BP000808",
+    "unique_document_id": "161742",
+    "upstream_status": "Historic",
+    "start_date": "2014-02-11",
+    "end_date": "2017-12-08",
+    "historic_marked": "2016-04-14",
+    "seed_status": "repealed"
+  }
 }

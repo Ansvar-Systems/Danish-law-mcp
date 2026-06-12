@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om personligt sikkerhedsudstyr, der anvendes på færdselslovens område (cykelhjelme, personreflekser m.m.)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-05-09",
+  "in_force_date": "2017-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2017/456/xml",
-  "description": "Retsinformation source. DocumentId=CX000119; AccessionNumber=B20170045605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000119; AccessionNumber=B20170045605; Ophævet 2018-04-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -19,9 +20,20 @@
       "provision_ref": "9a",
       "section": "9a",
       "content": "§ 9 a. Som led i produkttilsyn efter færdselslovens § 68 a kan Færdselsstyrelsen udtage personligt sikkerhedsudstyr hos den erhvervsdrivende. Stk. 2. Færdselsstyrelsen kan foretage undersøgelser af det personlige sikkerhedsudstyr udtaget i medfør af stk. 1. Er det nødvendigt for undersøgelsen, kan Færdselsstyrelsen indhente sagkyndige erklæringer. Stk. 3. I de tilfælde, hvor undersøgelsen viser, at det personlige sikkerhedsudstyr ikke er i overensstemmelse med produktkravene, herunder mærkningskravene, refunderer den erhvervsdrivende Færdselsstyrelsens nødvendige udgifter ved prøveudtagning efter stk. 1 og nødvendige udgifter til undersøgelser efter stk. 2.",
-      "valid_from": "2017-05-09",
-      "valid_to": null
+      "valid_from": "2017-05-12",
+      "valid_to": "2018-04-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:19:13.552Z",
+    "accession": "B20170045605",
+    "document_id": "CX000119",
+    "unique_document_id": "190062",
+    "upstream_status": "Historic",
+    "start_date": "2017-05-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2018-04-19",
+    "seed_status": "repealed"
+  }
 }

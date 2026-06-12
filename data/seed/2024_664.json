@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af retsplejeloven (Ændring af reglerne om hastesikring og udlevering af oplysninger om teletrafik, reglerne om genoptagelse af straffesager m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-06-11",
+  "in_force_date": "2024-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/664/xml",
-  "description": "Retsinformation source. DocumentId=AA014238; AccessionNumber=A20240066430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA014238; AccessionNumber=A20240066430; Ophævet 2024-11-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "977a",
@@ -20,8 +21,19 @@
       "section": "977a",
       "content": "§ 977 a. På begæring af rigsadvokaten eller en domfældt kan genoptagelse af en sag helt eller delvis finde sted for at rette sig efter en endelig dom afsagt af Den Europæiske Menneskerettighedsdomstol, som Danmark er part i.",
       "valid_from": "2024-06-11",
-      "valid_to": null
+      "valid_to": "2024-11-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:13:38.348Z",
+    "accession": "A20240066430",
+    "document_id": "AA014238",
+    "unique_document_id": "244026",
+    "upstream_status": "Historic",
+    "start_date": "2024-06-11",
+    "end_date": "2024-11-13",
+    "historic_marked": "2024-11-12",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om isafgift for 2013",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-02-12",
+  "in_force_date": "2014-02-21",
   "url": "https://www.retsinformation.dk/eli/lta/2014/149/xml",
-  "description": "Retsinformation source. DocumentId=AG000557; AccessionNumber=B20140014905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000557; AccessionNumber=B20140014905; Ophævet 2016-02-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Havne, der er beliggende inden for Skagen og er indberetningspligtige til Danmarks Statistik, skal betale en årlig afgift (isafgift) som bidrag til dækning af udgifterne til driften af statens istjeneste.",
-      "valid_from": "2014-02-12",
-      "valid_to": null
+      "valid_from": "2014-02-21",
+      "valid_to": "2016-02-01"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Isafgiften for perioden 1. januar 2013 til 31. december 2013 udgør 0,07 kr. pr. ton godsmængde, der er ud- eller indskibet i den pågældende havn. Stk. 2. Isafgiften opkræves af Søværnets Operative Kommando fra de indberetningspligtige havneadministrationer. Stk. 3. Søværnets Operative Kommando fakturerer inden udgangen af juni måned 2014 afgifter hos de indberetningspligtige havneadministrationer.",
-      "valid_from": "2014-02-12",
-      "valid_to": null
+      "valid_from": "2014-02-21",
+      "valid_to": "2016-02-01"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 24. februar 2014.",
-      "valid_from": "2014-02-12",
-      "valid_to": null
+      "valid_from": "2014-02-21",
+      "valid_to": "2016-02-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:47.687Z",
+    "accession": "B20140014905",
+    "document_id": "AG000557",
+    "unique_document_id": "161814",
+    "upstream_status": "Historic",
+    "start_date": "2014-02-21",
+    "end_date": "2016-02-02",
+    "historic_marked": "2016-02-01",
+    "seed_status": "repealed"
+  }
 }

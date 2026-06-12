@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2009-05-19",
+  "in_force_date": "2009-05-21",
   "url": "https://www.retsinformation.dk/eli/lta/2009/380/xml",
   "description": "Retsinformation source. DocumentId=AP000222; AccessionNumber=B20090038005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for lov om gensidig bistand ved inddrivelse af visse EF-fordringer m.v., jf. lovbekendtgørelse nr. 778 af 16. september 2002, overføres pr. 1. maj 2009 fra justitsministeren til skatteministeren.",
-      "valid_from": "2009-05-19",
+      "valid_from": "2009-05-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:09:36.778Z",
+    "accession": "B20090038005",
+    "document_id": "AP000222",
+    "unique_document_id": "124791",
+    "upstream_status": "Valid",
+    "start_date": "2009-05-21",
+    "end_date": "2009-05-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om redskaber til fiskeri efter hesterejer og rejekonge",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-04-01",
+  "in_force_date": "2011-04-02",
   "url": "https://www.retsinformation.dk/eli/lta/2011/270/xml",
-  "description": "Retsinformation source. DocumentId=AH004209; AccessionNumber=B20110027005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004209; AccessionNumber=B20110027005; Ophævet 2015-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Under fiskeri skal der anvendes et selektivt trawl, der opfylder følgende betingelser: 1) Foran løftet skal trawlen være forsynet med et si-net, der leder bifangsten ud gennem en slids i bunden af trawlen. 2) Maskemålet i løftet skal være mindst 16 mm helmaske. 3) Maskemålet i si-nettet må højst være 60 mm helmaske.",
-      "valid_from": "2011-04-01",
-      "valid_to": null
+      "valid_from": "2011-04-02",
+      "valid_to": "2015-12-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:00:31.171Z",
+    "accession": "B20110027005",
+    "document_id": "AH004209",
+    "unique_document_id": "136620",
+    "upstream_status": "Historic",
+    "start_date": "2011-04-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-14",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af personskatteloven og ligningsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1291/xml",
-  "description": "Retsinformation source. DocumentId=AN002155; AccessionNumber=A20000129130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002155; AccessionNumber=A20000129130; Ophævet 2002-08-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:02:11.578Z",
+    "accession": "A20000129130",
+    "document_id": "AN002155",
+    "unique_document_id": "14831",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-20",
+    "end_date": "2004-01-16",
+    "historic_marked": "2002-08-26",
+    "seed_status": "repealed"
+  }
 }

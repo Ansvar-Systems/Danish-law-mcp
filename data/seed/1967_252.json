@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om visse hovedlandevejsstrækninger (Den årlige hovedlandevejslov)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1967-06-08",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1967/252/xml",
-  "description": "Retsinformation source. DocumentId=CM010145; AccessionNumber=A19670025230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010145; AccessionNumber=A19670025230; Ophævet 2025-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:13:45.530Z",
+    "accession": "A19670025230",
+    "document_id": "CM010145",
+    "unique_document_id": "51319",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-12-17",
+    "historic_marked": "2025-12-16",
+    "seed_status": "repealed"
+  }
 }

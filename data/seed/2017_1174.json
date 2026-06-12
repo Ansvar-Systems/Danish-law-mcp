@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-10-31",
+  "in_force_date": "2017-11-04",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1174/xml",
   "description": "Retsinformation source. DocumentId=CQ000262; AccessionNumber=B20170117405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ønsker en långiver at fastholde en sikkerhed efter § 182, stk. 2 eller 3, i lov om kapitalmarkeder i fondsaktiver, skal sikkerheden gøres gældende af långiveren inden kl. 16.45 på afviklingsdagen.",
-      "valid_from": "2017-10-31",
+      "valid_from": "2017-11-04",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. En sælger, der ønsker at gøre et betalingsforbehold gældende efter § 188, stk. 1, i lov om kapitalmarkeder, skal gøre dette gældende inden kl. 17.30 på afviklingsdagen.",
-      "valid_from": "2017-10-31",
+      "valid_from": "2017-11-04",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Adgangen til at gøre en sikkerhed eller et betalingsforbehold gældende bortfalder automatisk ved fristens udløb uden ændringsmeddelelse til sikkerhedshaveren.",
-      "valid_from": "2017-10-31",
+      "valid_from": "2017-11-04",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 3. januar 2018. Stk. 2. Bekendtgørelse nr. 1337 af 14. november 2016 om tidsfrister for at gøre retten til automatisk pant og betalingsforbehold gældende m.v. ophæves.",
-      "valid_from": "2017-10-31",
+      "valid_from": "2017-11-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:43:47.707Z",
+    "accession": "B20170117405",
+    "document_id": "CQ000262",
+    "unique_document_id": "193970",
+    "upstream_status": "Valid",
+    "start_date": "2017-11-04",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

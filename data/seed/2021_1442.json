@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2021-06-29",
+  "in_force_date": "2021-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1442/xml",
   "description": "Retsinformation source. DocumentId=DI000241; AccessionNumber=B20210144203; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -71,5 +72,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:14.957Z",
+    "accession": "B20210144203",
+    "document_id": "DI000241",
+    "unique_document_id": "224263",
+    "upstream_status": "Valid",
+    "start_date": "2021-06-29",
+    "end_date": "2021-06-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af bekendtgørelse om regulering af beløb i henhold til integrationsloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-14",
+  "in_force_date": "2000-03-23",
   "url": "https://www.retsinformation.dk/eli/lta/2000/174/xml",
-  "description": "Retsinformation source. DocumentId=AI000316; AccessionNumber=B20000017405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000316; AccessionNumber=B20000017405; Ophævet 2010-09-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:08:43.830Z",
+    "accession": "B20000017405",
+    "document_id": "AI000316",
+    "unique_document_id": "8933",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-23",
+    "end_date": "2022-07-08",
+    "historic_marked": "2010-09-13",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om institutioner for erhvervsrettet uddannelse og lov om private gymnasieskoler, studenterkurser og kurser til højere forberedelseseksamen (hf-kurser)\\n(Sociale klausuler om uddannelses- og praktikaftaler i forbindelse med udbud)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-17",
+  "in_force_date": "2013-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1465/xml",
-  "description": "Retsinformation source. DocumentId=AT004765; AccessionNumber=A20130146530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004765; AccessionNumber=A20130146530; Ophævet 2015-06-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "38",
@@ -30,22 +31,33 @@
       "section": "38",
       "content": "§ 38 a. Institutionen anvender ved udbud og efterfølgende kontraktindgåelser klausuler om uddannelses- og prak­tik­aftaler eller offentliggør senest ved kontraktindgåelsen på institutionens hjemmeside på internettet sin begrundelse for at undlade dette. Stk. 2. Undervisningsministeren fastsætter regler om forpligtelsen efter stk. 1, herunder om, hvilke udbud der er omfattet af forpligtelsen.",
       "valid_from": "2013-12-17",
-      "valid_to": null
+      "valid_to": "2015-06-12"
     },
     {
       "provision_ref": "24",
       "section": "24",
       "content": "§ 24 a. Institutionen anvender ved udbud og efterfølgende kontraktindgåelser klausuler om uddannelses- og prak­tik­aftaler eller offentliggør senest ved kontraktindgåelsen på institutionens hjemmeside på internettet sin begrundelse for at undlade dette. Stk. 2. Undervisningsministeren fastsætter regler om forpligtelsen efter stk. 1, herunder om, hvilke udbud der er omfattet af forpligtelsen.",
       "valid_from": "2013-12-17",
-      "valid_to": null
+      "valid_to": "2015-06-12"
     },
     {
       "provision_ref": "28",
       "section": "28",
       "content": "§ 28 a. Institutionen anvender ved udbud og efterfølgende kontraktindgåelser klausuler om uddannelses- og prak­tik­aftaler eller offentliggør senest ved kontraktindgåelsen på institutionens hjemmeside på internettet sin begrundelse for at undlade dette. Stk. 2. Undervisningsministeren fastsætter regler om forpligtelsen efter stk. 1, herunder om, hvilke udbud der er omfattet af forpligtelsen.",
       "valid_from": "2013-12-17",
-      "valid_to": null
+      "valid_to": "2015-06-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:00.142Z",
+    "accession": "A20130146530",
+    "document_id": "AT004765",
+    "unique_document_id": "160668",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-17",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-06-12",
+    "seed_status": "repealed"
+  }
 }

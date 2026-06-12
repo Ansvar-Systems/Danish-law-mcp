@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om folkeskolen (Folkeskoleloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-06-20",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/438/xml",
-  "description": "Retsinformation source. DocumentId=CM033962; AccessionNumber=A19890043829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM033962; AccessionNumber=A19890043829; Ophævet 1990-07-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:41:46.223Z",
+    "accession": "A19890043829",
+    "document_id": "CM033962",
+    "unique_document_id": "74757",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1990-07-26",
+    "seed_status": "repealed"
+  }
 }

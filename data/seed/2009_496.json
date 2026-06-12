@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om udendørs hold af svin\\n(Ændring af revisionsbestemmelse)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-12",
+  "in_force_date": "2009-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/496/xml",
-  "description": "Retsinformation source. DocumentId=AA004871; AccessionNumber=A20090049630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA004871; AccessionNumber=A20090049630; Ophævet 2013-07-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "18",
@@ -20,8 +21,19 @@
       "section": "18",
       "content": "§ 18 a. Justitsministeren fremsætter i folketingsåret 2009-10 forslag om revision af § 12.",
       "valid_from": "2009-06-12",
-      "valid_to": null
+      "valid_to": "2013-07-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:14:18.795Z",
+    "accession": "A20090049630",
+    "document_id": "AA004871",
+    "unique_document_id": "125402",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-12",
+    "end_date": "2022-04-08",
+    "historic_marked": "2013-07-02",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om statens uddannelsesstøtte (SU-bekendtgørelsen)\\n(Udlandsstipendium til kandidatuddannelser af mere end 2 års varighed og udlandsstipendium til Erasmus Mundus-uddannelser m.v.)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-24",
+  "in_force_date": "2010-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2010/771/xml",
-  "description": "Retsinformation source. DocumentId=AT004155; AccessionNumber=B20100077105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004155; AccessionNumber=B20100077105; Ophævet 2012-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "94",
@@ -19,9 +20,20 @@
       "provision_ref": "94",
       "section": "94",
       "content": "§ 94. Studieafgifter, der er opgivet i fremmed valuta, omregnes til danske kroner på baggrund af valutakurserne som fastsat af Nationalbanken henholdsvis den 1. april og den 1. oktober eller den første bankdag herefter. Stk. 2. Ved udbetalingen anvendes den kurs, der var gældende, jf. stk. 1, to måneder før uddannelsesperiodens start, jf. § 91, stk. 1.",
-      "valid_from": "2010-06-24",
-      "valid_to": null
+      "valid_from": "2010-06-29",
+      "valid_to": "2012-12-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:28:54.389Z",
+    "accession": "B20100077105",
+    "document_id": "AT004155",
+    "unique_document_id": "132518",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-12-18",
+    "seed_status": "repealed"
+  }
 }

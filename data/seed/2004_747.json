@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om træfagenes byggeuddannelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-07-05",
+  "in_force_date": "2004-07-12",
   "url": "https://www.retsinformation.dk/eli/lta/2004/747/xml",
-  "description": "Retsinformation source. DocumentId=AT001838; AccessionNumber=B20040074705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001838; AccessionNumber=B20040074705; Ophævet 2005-05-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:38:37.263Z",
+    "accession": "B20040074705",
+    "document_id": "AT001838",
+    "unique_document_id": "24539",
+    "upstream_status": "Historic",
+    "start_date": "2004-07-12",
+    "end_date": "2021-01-08",
+    "historic_marked": "2005-05-23",
+    "seed_status": "repealed"
+  }
 }

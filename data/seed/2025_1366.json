@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2025-11-24",
+  "in_force_date": "2025-11-27",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1366/xml",
   "description": "Retsinformation source. DocumentId=AA015034; AccessionNumber=B20250136605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1 og 2, retsplejelovens § 27 b, som affattet ved § 1, nr. 3, og § 1, nr. 4, i lov nr. 1621 af 26. december 2013 om ændring af retsplejeloven (Sikkerhed i retssale) sættes i kraft.",
-      "valid_from": "2025-11-24",
+      "valid_from": "2025-11-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. december 2025.",
-      "valid_from": "2025-11-24",
+      "valid_from": "2025-11-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:06.928Z",
+    "accession": "B20250136605",
+    "document_id": "AA015034",
+    "unique_document_id": "253785",
+    "upstream_status": "Valid",
+    "start_date": "2025-11-27",
+    "end_date": "2025-11-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af skattekontrolloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-08-12",
+  "in_force_date": "2004-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2004/869/xml",
-  "description": "Retsinformation source. DocumentId=AN004258; AccessionNumber=A20040086929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004258; AccessionNumber=A20040086929; Ophævet 2005-12-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:43:32.999Z",
+    "accession": "A20040086929",
+    "document_id": "AN004258",
+    "unique_document_id": "16530",
+    "upstream_status": "Historic",
+    "start_date": "2004-08-30",
+    "end_date": "2024-11-22",
+    "historic_marked": "2005-12-05",
+    "seed_status": "repealed"
+  }
 }

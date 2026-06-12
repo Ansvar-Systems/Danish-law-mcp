@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af integrationsloven og forskellige andre love\\n(Udvidelse af personkredsen, styrket indsats over for ægtefælleforsørgede m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-31",
+  "in_force_date": "2010-05-31",
   "url": "https://www.retsinformation.dk/eli/lta/2010/571/xml",
-  "description": "Retsinformation source. DocumentId=BC000614; AccessionNumber=A20100057130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000614; AccessionNumber=A20100057130; Ophævet 2011-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "24",
@@ -25,15 +26,26 @@
       "section": "24",
       "content": "§ 24 c. Indvandrere skal, hvis de på tidspunktet for kommunalbestyrelsens overtagelse af ansvaret er fyldt 18 år, have tilbudt et introduktionsforløb, som tilrettelægges af den ansvarlige kommunalbestyrelse. Stk. 2. Introduktionsforløbet består af 1) danskuddannelse, jf. § 24 d, 2) kursus i danske samfundsforhold og dansk kultur og historie, jf. § 24 e, og 3) beskæftigelsesrettede tilbud, jf. § 24 f, hvis indvandreren er berettiget til og ønsker at modtage sådanne. Stk. 3. Introduktionsforløbet skal påbegyndes, senest 1 måned efter at kommunalbestyrelsen har overtaget ansvaret for en udlænding. Stk. 4. Introduktionsforløbet har en varighed på højst 3 år, efter at kommunalbestyrelsen har overtaget ansvaret for udlændingen. Introduktionsforløbet skal tilpasses den enkelte udlændings forudsætninger og formålet med den pågældendes ophold i Danmark, således at udlændingen kan gennemføre forløbet hurtigst muligt, og tilbuddene må ikke stille sig hindrende i vejen for udlændingens mulighed for at varetage et arbejde. Stk. 5. § 17 finder tilsvarende anvendelse. Stk. 6. Kommunalbestyrelsen i den kommune, hvortil en udlænding, der ikke har afsluttet sit introduktionsforløb, flytter, skal overtage ansvaret for introduktionsforløbet.",
       "valid_from": "2010-05-31",
-      "valid_to": null
+      "valid_to": "2011-06-28"
     },
     {
       "provision_ref": "41",
       "section": "41",
       "content": "§ 41 b. Ministeren for flygtninge, indvandrere og integration etablerer en medborgerskabsprøve. Stk. 2. Ministeren for flygtninge, indvandrere og integration kan fastsætte regler om etablering og afholdelse af medborgerskabsprøven, herunder regler om udpegning af prøveafholdere, om betingelser for deltagelse i prøven, om opkrævning af gebyr for deltagelse i prøven og om prøvens gennemførelse.",
       "valid_from": "2010-05-31",
-      "valid_to": null
+      "valid_to": "2011-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:20:49.287Z",
+    "accession": "A20100057130",
+    "document_id": "BC000614",
+    "unique_document_id": "132119",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-31",
+    "end_date": "2023-07-12",
+    "historic_marked": "2011-06-28",
+    "seed_status": "repealed"
+  }
 }

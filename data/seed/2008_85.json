@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2008-02-20",
+  "in_force_date": "2008-02-20",
   "url": "https://www.retsinformation.dk/eli/lta/2008/85/xml",
   "description": "Retsinformation source. DocumentId=AN006562; AccessionNumber=A20080008530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -107,5 +108,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:31:24.115Z",
+    "accession": "A20080008530",
+    "document_id": "AN006562",
+    "unique_document_id": "115115",
+    "upstream_status": "Valid",
+    "start_date": "2008-02-20",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

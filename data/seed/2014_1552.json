@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om arbejdsgiveres anmodning om refusion og tilbagebetaling af refusion i forbindelse med medarbejderes deltagelse i et jobafklaringsforløb m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-23",
+  "in_force_date": "2014-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1552/xml",
-  "description": "Retsinformation source. DocumentId=BE006056; AccessionNumber=B20140155205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006056; AccessionNumber=B20140155205; Ophævet 2019-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. En arbejdsgiver, der udbetaler løn til en sygemeldt ansat, der overgår fra sygedagpenge til et jobafklaringsforløb efter kapitel 12 b i lov om en aktiv beskæftigelsesindsats, er berettiget til at modtage refusion fra det tidspunkt, hvor den sygemeldte påbegynder jobafklaringsforløbet, jf. § 69 t i lov om aktiv socialpolitik. Stk. 2. En arbejdsgiver, der udbetaler løn til en sygemeldt ansat, der på første fraværsdag ville have haft ret til sygedagpenge fra kommunen, men som er omfattet af tidsbegrænsningen i lov om sygedagpenge, og hvor den sygemeldte er påbegyndt et jobafklaringsforløb, er berettiget til at modtage refusion fra det tidspunkt, hvor den sygemeldte påbegynder jobafklaringsforløbet, jf. § 69 t i lov om aktiv socialpolitik.",
-      "valid_from": "2014-12-23",
-      "valid_to": null
+      "valid_from": "2014-12-30",
+      "valid_to": "2019-12-17"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Arbejdsgiveren skal anmode lønmodtagerens opholdskommune om udbetaling af refusionen. Der kan alene ydes refusion for et tidsrum, der ligger indtil 3 måneder forud for anmodningen om refusion. Stk. 2. Kommunen kan dog udbetale refusion, når overskridelsen af fristen skyldes forkert vejledning fra offentlige myndigheder eller andre, der må antages at have særligt kendskab til forholdene, eller når særlige omstændigheder i øvrigt taler derfor. Stk. 3. Arbejdsgivers refusion efter § 69 t i lov om aktiv socialpolitik nedsættes med det beløb, som arbejdsgiver kan modtage fra kommunen efter §§ 55 og 56 i lov om sygedagpenge i forbindelse med fravær på grund af sygdom. Nedsættelsen opgøres pr. dag, som der modtages refusion for.",
-      "valid_from": "2014-12-23",
-      "valid_to": null
+      "valid_from": "2014-12-30",
+      "valid_to": "2019-12-17"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Arbejdsgiveren har pligt til at oplyse kommunen om forhold, der har betydning for beregning af refusionen, herunder oplysninger om løn, delvis genoptagelse af arbejdet m.v.",
-      "valid_from": "2014-12-23",
-      "valid_to": null
+      "valid_from": "2014-12-30",
+      "valid_to": "2019-12-17"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Kommunen kan træffe afgørelse om, at refusionen ikke skal udbetales eller tilbagebetales, hvis 1) arbejdsgiveren har afgivet urigtig erklæring om forhold, der har betydning for at opnå ret til refusionen eller for at bevare retten hertil, eller 2) arbejdsgiveren forsætligt har fortiet forhold, der har samme betydning som nævnt under nr. 1.",
-      "valid_from": "2014-12-23",
-      "valid_to": null
+      "valid_from": "2014-12-30",
+      "valid_to": "2019-12-17"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 5. januar 2015. Stk. 2. Bekendtgørelse nr. 808 af 27. juni 2014 om arbejdsgiveres anmodning om refusion og tilbagebetaling af refusion i forbindelse med medarbejderes deltagelse i et jobafklaringsforløb m.v. ophæves.",
-      "valid_from": "2014-12-23",
-      "valid_to": null
+      "valid_from": "2014-12-30",
+      "valid_to": "2019-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:49:20.578Z",
+    "accession": "B20140155205",
+    "document_id": "BE006056",
+    "unique_document_id": "166752",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-12-17",
+    "seed_status": "repealed"
+  }
 }

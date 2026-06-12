@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2021-06-29",
+  "in_force_date": "2021-07-02",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1536/xml",
   "description": "Retsinformation source. DocumentId=AK001839; AccessionNumber=B20210153605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "13a",
       "section": "13a",
       "content": "§ 13 a. Afgørelse om tilbagebetaling efter dette kapitel på mere end 10.000 kr. ledsages af et tilbud om en afdragsordning. Stk. 2. Afdragsordningen løber i op til et år, og afdrag betales i fire lige store rater, jf. dog stk. 3. Stk. 3. Ansøger har til enhver tid ret til helt at indfri sine forpligtelser til tilbagebetaling. Stk. 4. Slots- og Kulturstyrelsen skal forud for indgåelse af en aftale om afdragsordning efter stk. 1, oplyse ansøger om vilkår for aftalen, herunder det samlede beløb der skal betales, konsekvenser ved misligholdelse og mulighed for hel eller delvis indfrielse.",
-      "valid_from": "2021-06-29",
+      "valid_from": "2021-07-02",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:00.357Z",
+    "accession": "B20210153605",
+    "document_id": "AK001839",
+    "unique_document_id": "224429",
+    "upstream_status": "Valid",
+    "start_date": "2021-07-02",
+    "end_date": "2021-07-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

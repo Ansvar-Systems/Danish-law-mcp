@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om frigørelsesafgift m.v. af fast ejendom",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-10-29",
+  "in_force_date": "2001-11-08",
   "url": "https://www.retsinformation.dk/eli/lta/2001/945/xml",
-  "description": "Retsinformation source. DocumentId=AN002632; AccessionNumber=A20010094529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002632; AccessionNumber=A20010094529; Ophævet 2002-07-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:20:14.338Z",
+    "accession": "A20010094529",
+    "document_id": "AN002632",
+    "unique_document_id": "15204",
+    "upstream_status": "Historic",
+    "start_date": "2001-11-08",
+    "end_date": "2004-07-15",
+    "historic_marked": "2002-07-16",
+    "seed_status": "repealed"
+  }
 }

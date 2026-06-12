@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-06-19",
+  "in_force_date": "2023-06-22",
   "url": "https://www.retsinformation.dk/eli/lta/2023/865/xml",
   "description": "Retsinformation source. DocumentId=AK002122; AccessionNumber=B20230086505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne gælder for arkivalier, som er skabt eller tilvejebragt af politikredsene fra og med 1. januar 2007 og indtil overgangen til digital arkivering. Stk. 2. Bestemmelserne gælder ikke for data i politikredsenes it-systemer.",
-      "valid_from": "2023-06-19",
+      "valid_from": "2023-06-22",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Sager oprettet på gerningskoder i systemet POLSAS bevares og kasseres som angivet i bilag 1. Stk. 2. Vidneafhøringer og bevismateriale på audiovisuelt eller digitalt medium kasseres, når disse indgår i konkrete sager, og de pågældende oplysninger i alt væsentligt også findes på papir. Stk. 3. Særakter vedrørende personer, som er født den første i en måned, bevares. Stk. 4. Arkivalier, som i særlig grad belyser politiets virksomhed eller samfundsforhold, kan bevares. Endelig afgørelse om bevaring træffes af Rigsarkivet i forbindelse med aflevering.",
-      "valid_from": "2023-06-19",
+      "valid_from": "2023-06-22",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Arkivalier, som ikke skal bevares i henhold til § 2, kasseres, når opbevaringspligt efter andre bestemmelser er opfyldt, og når de efter myndighedens egen vurdering i øvrigt ikke længere har retlig eller administrativ betydning.",
-      "valid_from": "2023-06-19",
+      "valid_from": "2023-06-22",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. juli 2023. Stk. 2. Bekendtgørelse nr. 27 af 9. januar 2019 om bevaring og kassation af politikredsenes arkivalier ophæves.",
-      "valid_from": "2023-06-19",
+      "valid_from": "2023-06-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:04:38.954Z",
+    "accession": "B20230086505",
+    "document_id": "AK002122",
+    "unique_document_id": "238352",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-22",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om tilskud til Grønlands hjemmestyre",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-06-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/374/xml",
-  "description": "Retsinformation source. DocumentId=CM015991; AccessionNumber=A19950037430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM015991; AccessionNumber=A19950037430; Ophævet 1998-08-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:36:15.314Z",
+    "accession": "A19950037430",
+    "document_id": "CM015991",
+    "unique_document_id": "57075",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2001-08-09",
+    "historic_marked": "1998-08-04",
+    "seed_status": "repealed"
+  }
 }

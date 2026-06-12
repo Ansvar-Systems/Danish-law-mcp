@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændringer i lov om måling af skibe",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1966-06-08",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1966/226/xml",
-  "description": "Retsinformation source. DocumentId=CM025430; AccessionNumber=A19660022630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025430; AccessionNumber=A19660022630; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:12:00.624Z",
+    "accession": "A19660022630",
+    "document_id": "CM025430",
+    "unique_document_id": "66308",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

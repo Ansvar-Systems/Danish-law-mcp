@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Det Centrale Personregister",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-11-20",
+  "in_force_date": "2006-11-27",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1134/xml",
-  "description": "Retsinformation source. DocumentId=AI002332; AccessionNumber=A20060113429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI002332; AccessionNumber=A20060113429; Ophævet 2009-09-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:48:15.431Z",
+    "accession": "A20060113429",
+    "document_id": "AI002332",
+    "unique_document_id": "10354",
+    "upstream_status": "Historic",
+    "start_date": "2006-11-27",
+    "end_date": "2026-06-04",
+    "historic_marked": "2009-09-18",
+    "seed_status": "repealed"
+  }
 }

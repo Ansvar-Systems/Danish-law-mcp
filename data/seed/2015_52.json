@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer\\n(Forenkling vedrørende fratrædelsesgodtgørelse)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-01-27",
+  "in_force_date": "2015-01-27",
   "url": "https://www.retsinformation.dk/eli/lta/2015/52/xml",
-  "description": "Retsinformation source. DocumentId=BE006163; AccessionNumber=A20150005230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006163; AccessionNumber=A20150005230; Ophævet 2017-08-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -20,8 +21,19 @@
       "section": "2",
       "content": "§ 2 a. Såfremt en funktionær, der har været uafbrudt beskæftiget i samme virksomhed i 12 eller 17 år, opsiges, skal arbejdsgiveren ved funktionærens fratræden udrede et beløb svarende til henholdsvis 1 og 3 måneders løn. Stk. 2. Stk. 1 finder tilsvarende anvendelse i tilfælde af uberettiget bortvisning.",
       "valid_from": "2015-01-27",
-      "valid_to": null
+      "valid_to": "2017-08-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:31.538Z",
+    "accession": "A20150005230",
+    "document_id": "BE006163",
+    "unique_document_id": "167733",
+    "upstream_status": "Historic",
+    "start_date": "2015-01-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-08-29",
+    "seed_status": "repealed"
+  }
 }

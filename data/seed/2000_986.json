@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om afgift af vejbenyttelse og lov om vægtafgift af motorkøretøjer m.v.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-11-03",
+  "in_force_date": "2000-11-03",
   "url": "https://www.retsinformation.dk/eli/lta/2000/986/xml",
-  "description": "Retsinformation source. DocumentId=AN002067; AccessionNumber=A20000098630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002067; AccessionNumber=A20000098630; Ophævet 2004-02-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:41:26.141Z",
+    "accession": "A20000098630",
+    "document_id": "AN002067",
+    "unique_document_id": "14777",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-03",
+    "end_date": "2006-02-03",
+    "historic_marked": "2004-02-02",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om diplomingeniøruddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-06-21",
+  "in_force_date": "2002-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/2002/527/xml",
-  "description": "Retsinformation source. DocumentId=AT001058; AccessionNumber=B20020052705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001058; AccessionNumber=B20020052705; Ophævet 2016-09-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:48:02.326Z",
+    "accession": "B20020052705",
+    "document_id": "AT001058",
+    "unique_document_id": "23949",
+    "upstream_status": "Historic",
+    "start_date": "2002-07-04",
+    "end_date": "2020-07-14",
+    "historic_marked": "2016-09-12",
+    "seed_status": "repealed"
+  }
 }

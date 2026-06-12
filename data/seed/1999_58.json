@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af færdselsloven",
   "short_name": "Ikrafttræd. bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-01-28",
+  "in_force_date": "1999-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/1999/58/xml",
-  "description": "Retsinformation source. DocumentId=AR000085; AccessionNumber=B19990005805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000085; AccessionNumber=B19990005805; Ophævet 2009-05-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:33:43.421Z",
+    "accession": "B19990005805",
+    "document_id": "AR000085",
+    "unique_document_id": "21791",
+    "upstream_status": "Historic",
+    "start_date": "1999-01-29",
+    "end_date": "2022-07-07",
+    "historic_marked": "2009-05-07",
+    "seed_status": "repealed"
+  }
 }

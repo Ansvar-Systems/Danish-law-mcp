@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven og personskatteloven (Befordring)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-06-30",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/482/xml",
-  "description": "Retsinformation source. DocumentId=CM022606; AccessionNumber=A19930048230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022606; AccessionNumber=A19930048230; Ophævet 1993-10-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:14:58.443Z",
+    "accession": "A19930048230",
+    "document_id": "CM022606",
+    "unique_document_id": "63586",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2001-06-14",
+    "historic_marked": "1993-10-14",
+    "seed_status": "repealed"
+  }
 }

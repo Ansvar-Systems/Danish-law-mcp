@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om registrering og offentliggørelse af oplysninger om ejere i Erhvervsstyrelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-08",
+  "in_force_date": "2020-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1977/xml",
-  "description": "Retsinformation source. DocumentId=CQ001501; AccessionNumber=B20200197705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001501; AccessionNumber=B20200197705; Ophævet 2025-07-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:07:43.489Z",
+    "accession": "B20200197705",
+    "document_id": "CQ001501",
+    "unique_document_id": "218266",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-17",
+    "end_date": "2025-07-05",
+    "historic_marked": "2025-07-04",
+    "seed_status": "repealed"
+  }
 }

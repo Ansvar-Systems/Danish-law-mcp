@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om offentlige betalinger m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-27",
+  "in_force_date": "2003-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1203/xml",
-  "description": "Retsinformation source. DocumentId=AE000627; AccessionNumber=A20030120330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000627; AccessionNumber=A20030120330; Ophævet 2007-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:14:56.202Z",
+    "accession": "A20030120330",
+    "document_id": "AE000627",
+    "unique_document_id": "5510",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-29",
+    "end_date": "2023-07-13",
+    "historic_marked": "2007-07-05",
+    "seed_status": "repealed"
+  }
 }

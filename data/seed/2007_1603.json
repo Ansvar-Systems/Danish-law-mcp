@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2007-12-21",
+  "in_force_date": "2008-01-11",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1603/xml",
   "description": "Retsinformation source. DocumentId=BI000035; AccessionNumber=B20070160305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Landets inddeling i kommuner og regioner er ændret som angivet i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2007-12-21",
+      "valid_from": "2008-01-11",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Med den tidligere indenrigs- og sundhedsministers samtykke, jf. § 4, stk. 1, i lov om kommunernes styrelse, jf. lovbekendtgørelse nr. 1060 af 24. oktober 2006, er der foretaget den i bilag 2 til bekendtgørelsen angivne ændring af kommunenavne.",
-      "valid_from": "2007-12-21",
+      "valid_from": "2008-01-11",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 12. januar 2008 og har virkning fra den 1. januar 2008.",
-      "valid_from": "2007-12-21",
+      "valid_from": "2008-01-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:11:04.677Z",
+    "accession": "B20070160305",
+    "document_id": "BI000035",
+    "unique_document_id": "114316",
+    "upstream_status": "Valid",
+    "start_date": "2008-01-11",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om miljøbeskyttelse (Selektiv nedrivning af visse byggerier)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-04-02",
+  "in_force_date": "2024-04-03",
   "url": "https://www.retsinformation.dk/eli/lta/2024/323/xml",
-  "description": "Retsinformation source. DocumentId=DD000386; AccessionNumber=A20240032330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DD000386; AccessionNumber=A20240032330; Ophævet 2024-07-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "45c",
@@ -19,9 +20,20 @@
       "provision_ref": "45c",
       "section": "45c",
       "content": "§ 45 c. Miljøministeren kan fastsætte regler om krav om selektiv nedrivning af visse byggerier eller dele heraf, herunder om følgende: 1) Bygherrens forpligtelser. 2) Miljø- og ressourcekoordinatorens forpligtelser og uddannelse og regler om egenbetaling for uddannelsen. 3) Nedrivningsvirksomhedens forpligtelser og autorisation, herunder at autorisation kan nægtes, tilbagekaldes og bortfalde. 4) Den ressourceansvarliges forpligtelser, uddannelse og regler om egenbetaling for uddannelsen. 5) Kommunalbestyrelsens behandling og vurdering af nedrivningsplaner. Stk. 2. En afgørelse om tilbagekaldelse af autorisation efter regler udstedt i medfør af stk. 1, nr. 3, kan af den nedrivningsvirksomhed, som er afgørelsens adressat, forlanges indbragt for domstolene. Anmodning om indbringelse for domstolene skal fremsættes over for Miljøstyrelsen, senest 4 uger efter at afgørelsen er meddelt den pågældende virksomhed. Miljøstyrelsen anlægger sag mod nedrivningsvirksomheden i den borgerlige retsplejes former. Stk. 3. En anmodning efter stk. 2 har opsættende virkning, medmindre retten ved kendelse bestemmer andet.",
-      "valid_from": "2024-04-02",
-      "valid_to": null
+      "valid_from": "2024-04-03",
+      "valid_to": "2024-07-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:59:56.326Z",
+    "accession": "A20240032330",
+    "document_id": "DD000386",
+    "unique_document_id": "242368",
+    "upstream_status": "Historic",
+    "start_date": "2024-04-03",
+    "end_date": "2024-07-13",
+    "historic_marked": "2024-07-12",
+    "seed_status": "repealed"
+  }
 }

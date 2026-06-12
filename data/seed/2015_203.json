@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-02-19",
+  "in_force_date": "2015-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2015/203/xml",
   "description": "Retsinformation source. DocumentId=AP000263; AccessionNumber=B20150020305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Fra statsministeren til justitsministeren overføres ressortansvaret for opgaver på statsministerens område vedrørende retningslinjer for udformningen af lovforslag og administrative forskrifter mv. samt for fremgangsmåden ved udarbejdelse af lovforslag og administrative forskrifter, herunder cirkulære nr. 159 af 16. september 1998 om bemærkninger til lovforslag og andre regeringsforslag og om fremgangsmåden ved udarbejdelse af lovforslag, redegørelser, administrative forskrifter m.v., bortset fra ressortansvaret for vejledning nr. 58 af 2. juli 2012 om ministeriers behandling af sager vedrørende Grønland og vejledning nr. 59 af 2. juli 2012 om ministeriers behandling af sager vedrørende Færøerne. Align",
-      "valid_from": "2015-02-19",
+      "valid_from": "2015-02-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:59:48.325Z",
+    "accession": "B20150020305",
+    "document_id": "AP000263",
+    "unique_document_id": "168102",
+    "upstream_status": "Valid",
+    "start_date": "2015-02-28",
+    "end_date": "2015-02-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

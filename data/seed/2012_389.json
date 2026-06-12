@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2012-05-02",
+  "in_force_date": "2012-05-02",
   "url": "https://www.retsinformation.dk/eli/lta/2012/389/xml",
   "description": "Retsinformation source. DocumentId=BU000047; AccessionNumber=A20120038930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -129,5 +130,16 @@
       "definition": "biomassekedler og -ovne, solcelle- og solvarmeanlæg, varmepumper og systemer til overfladenær udnyttelse af geotermisk energi til produktion af individuel opvarmning og energiproduktion til eget forbrug",
       "source_provision": "9:24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:58:32.844Z",
+    "accession": "A20120038930",
+    "document_id": "BU000047",
+    "unique_document_id": "141512",
+    "upstream_status": "Valid",
+    "start_date": "2012-05-02",
+    "end_date": "2021-01-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

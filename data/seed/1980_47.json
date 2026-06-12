@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om nye detailforskrifter for køretøjer 1980 (* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-02-07",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1980/47/xml",
-  "description": "Retsinformation source. DocumentId=CM008557; AccessionNumber=B19800004705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008557; AccessionNumber=B19800004705; Ophævet 2005-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:03:45.644Z",
+    "accession": "B19800004705",
+    "document_id": "CM008557",
+    "unique_document_id": "49745",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2005-04-14",
+    "seed_status": "repealed"
+  }
 }

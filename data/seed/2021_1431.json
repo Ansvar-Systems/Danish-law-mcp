@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2021-06-25",
+  "in_force_date": "2021-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1431/xml",
   "description": "Retsinformation source. DocumentId=DB000347; AccessionNumber=B20210143105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "4a",
       "section": "4a",
       "content": "§ 4 a. For projekter omfattet af § 1, stk. 2, nr. 3, finder kontinentalsokkellovens § 6 a og § 6 b om klageadgang tilsvarende anvendelse.",
-      "valid_from": "2021-06-25",
+      "valid_from": "2021-06-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:39:49.195Z",
+    "accession": "B20210143105",
+    "document_id": "DB000347",
+    "unique_document_id": "223833",
+    "upstream_status": "Valid",
+    "start_date": "2021-06-28",
+    "end_date": "2021-06-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

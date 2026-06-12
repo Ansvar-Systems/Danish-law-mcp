@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kommunernes styrelse og regionsloven (Beskyttelse af kommunalbestyrelses- og regionsrådsmedlemmers behandling af oplysninger som led i varetagelsen af deres hverv)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-19",
+  "in_force_date": "2017-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1571/xml",
-  "description": "Retsinformation source. DocumentId=CR000599; AccessionNumber=A20170157130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CR000599; AccessionNumber=A20170157130; Ophævet 2018-01-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8b",
@@ -20,8 +21,19 @@
       "section": "8b",
       "content": "§ 8 b. Lov om behandling af personoplysninger finder ikke anvendelse på behandling af oplysninger, der foretages som led i varetagelsen af et kommunalbestyrelsesmedlems hverv.",
       "valid_from": "2017-12-19",
-      "valid_to": null
+      "valid_to": "2018-01-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:59:45.595Z",
+    "accession": "A20170157130",
+    "document_id": "CR000599",
+    "unique_document_id": "196687",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-19",
+    "end_date": "2023-04-29",
+    "historic_marked": "2018-01-04",
+    "seed_status": "repealed"
+  }
 }

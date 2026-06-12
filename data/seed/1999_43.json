@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om trykbeholdere, der transporteres med indhold",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-01-25",
+  "in_force_date": "1999-02-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/43/xml",
-  "description": "Retsinformation source. DocumentId=AB000135; AccessionNumber=B19990004305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000135; AccessionNumber=B19990004305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:27:45.224Z",
+    "accession": "B19990004305",
+    "document_id": "AB000135",
+    "unique_document_id": "2960",
+    "upstream_status": "Historic",
+    "start_date": "1999-02-02",
+    "end_date": "2006-01-19",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

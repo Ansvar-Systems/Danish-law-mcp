@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om fremme af vedvarende energi (Afholdelse af et udbud af pristillæg for elektricitet produceret på solcelleanlæg)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-23",
+  "in_force_date": "2018-05-23",
   "url": "https://www.retsinformation.dk/eli/lta/2018/505/xml",
-  "description": "Retsinformation source. DocumentId=CI000455; AccessionNumber=A20180050530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000455; AccessionNumber=A20180050530; Ophævet 2018-07-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "50b",
@@ -20,8 +21,19 @@
       "section": "50b",
       "content": "§ 50 b. Denne bestemmelse omhandler udbud af pristillæg for elektricitet produceret på solcelleanlæg med en installeret effekt på under 1 MW bortset fra anlæg, som er tilsluttet i egen forbrugsinstallation. Stk. 2. Energi-, forsynings- og klimaministeren afholder et udbud i 2018 eller 2019.",
       "valid_from": "2018-05-23",
-      "valid_to": null
+      "valid_to": "2018-07-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:08:29.714Z",
+    "accession": "A20180050530",
+    "document_id": "CI000455",
+    "unique_document_id": "201304",
+    "upstream_status": "Historic",
+    "start_date": "2018-05-23",
+    "end_date": "2021-01-08",
+    "historic_marked": "2018-07-03",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om teknologioverførsel m.v. ved offentlige forskningsinstitutioner og lov om almene boliger m.v.\\n(Universitetsnære gæsteforsker- og ungdomsboliger samt serviceerhverv m.v. på universiteterne)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-25",
+  "in_force_date": "2010-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2010/730/xml",
-  "description": "Retsinformation source. DocumentId=BD000582; AccessionNumber=A20100073030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000582; AccessionNumber=A20100073030; Ophævet 2010-09-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -20,8 +21,19 @@
       "section": "13",
       "content": "§ 13 a. Et universitet kan i begrænset omfang indgå aftaler om udleje eller fremleje af faciliteter til brug for serviceerhverv, der integrerer universitetet og det omkringliggende samfund, hvis der er et behov hos studerende eller ansatte for sådanne serviceerhverv i tilknytning til uddannelse eller arbejde.",
       "valid_from": "2010-06-25",
-      "valid_to": null
+      "valid_to": "2010-09-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:27:16.302Z",
+    "accession": "A20100073030",
+    "document_id": "BD000582",
+    "unique_document_id": "132419",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-25",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-09-03",
+    "seed_status": "repealed"
+  }
 }

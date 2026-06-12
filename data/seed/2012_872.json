@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2012-08-22",
+  "in_force_date": "2012-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2012/872/xml",
   "description": "Retsinformation source. DocumentId=AA006667; AccessionNumber=B20120087205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Efter § 3, stk. 1, i loven om Den Internationale Straffedomstol kan justitsministeren bestemme, at straf mv., som er pålagt af Den Internationale Straffedomstol, kan fuldbyrdes her i landet.",
-      "valid_from": "2012-08-22",
+      "valid_from": "2012-08-30",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Fuldbyrdelse af domstolens afgørelser her i landet sker efter reglerne i aftale af 1. juni 2010 mellem Kongeriget Danmark og Den Internationale Straffedomstol om fuldbyrdelse af straffe idømt af Den Internationale Straffedomstol, jf. bilaget til denne bekendtgørelse. Stk. 2. I øvrigt gælder lovens regler om fuldbyrdelse her i landet af domstolens afgørelser.",
-      "valid_from": "2012-08-22",
+      "valid_from": "2012-08-30",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Denne bekendtgørelse træder i kraft den 1. september 2012.",
-      "valid_from": "2012-08-22",
+      "valid_from": "2012-08-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:18:05.219Z",
+    "accession": "B20120087205",
+    "document_id": "AA006667",
+    "unique_document_id": "143137",
+    "upstream_status": "Valid",
+    "start_date": "2012-08-30",
+    "end_date": "2012-08-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

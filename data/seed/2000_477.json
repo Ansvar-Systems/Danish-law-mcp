@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om oprettelse af Dansk Center for Holocaust- og Folkedrabsstudier",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/477/xml",
-  "description": "Retsinformation source. DocumentId=AS000293; AccessionNumber=A20000047730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AS000293; AccessionNumber=A20000047730; Ophævet 2003-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:54.518Z",
+    "accession": "A20000047730",
+    "document_id": "AS000293",
+    "unique_document_id": "22879",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2003-02-24",
+    "historic_marked": "2003-01-01",
+    "seed_status": "repealed"
+  }
 }

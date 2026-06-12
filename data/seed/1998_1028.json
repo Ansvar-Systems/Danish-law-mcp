@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om afgift af naturgas og bygas",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-23",
+  "in_force_date": "1998-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/1998/1028/xml",
-  "description": "Retsinformation source. DocumentId=AN000279; AccessionNumber=A19980102830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000279; AccessionNumber=A19980102830; Ophævet 2006-04-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:29:24.757Z",
+    "accession": "A19980102830",
+    "document_id": "AN000279",
+    "unique_document_id": "13331",
+    "upstream_status": "Historic",
+    "start_date": "1998-12-27",
+    "end_date": "2007-02-07",
+    "historic_marked": "2006-04-24",
+    "seed_status": "repealed"
+  }
 }

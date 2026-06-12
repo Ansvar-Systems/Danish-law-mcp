@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om systemansvarlig virksomhed og anvendelse af eltransmissionsnettet m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-11-23",
+  "in_force_date": "2010-11-27",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1295/xml",
-  "description": "Retsinformation source. DocumentId=BJ000339; AccessionNumber=B20100129505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BJ000339; AccessionNumber=B20100129505; Ophævet 2011-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8 c. Hvis Energinet.dk træffer betydelige foranstaltninger til at begrænse adgangen til det kollektive elforsyningsnet for elproduktionsanlæg, der producerer VE-elektricitet eller anvender affald som brændsel, for at garantere det nationale elforsyningssystems sikkerhed og energiforsyningssikkerheden, skal Energinet.dk indberette disse foranstaltninger til Energistyrelsen. Energinet.dk skal i forbindelse med indberetningen angive hvilke udbedrende foranstaltninger, Energinet.dk agter at træffe for at forebygge uhensigtsmæssige begrænsninger.",
-      "valid_from": "2010-11-23",
-      "valid_to": null
+      "valid_from": "2010-11-27",
+      "valid_to": "2011-07-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:46:54.816Z",
+    "accession": "B20100129505",
+    "document_id": "BJ000339",
+    "unique_document_id": "134452",
+    "upstream_status": "Historic",
+    "start_date": "2010-11-27",
+    "end_date": "2021-01-08",
+    "historic_marked": "2011-07-01",
+    "seed_status": "repealed"
+  }
 }

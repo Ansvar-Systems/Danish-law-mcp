@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om direktoratet for forsikringstilsynet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1981-12-23",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1981/594/xml",
-  "description": "Retsinformation source. DocumentId=CM023892; AccessionNumber=B19810059405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023892; AccessionNumber=B19810059405; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:13:45.867Z",
+    "accession": "B19810059405",
+    "document_id": "CM023892",
+    "unique_document_id": "64838",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

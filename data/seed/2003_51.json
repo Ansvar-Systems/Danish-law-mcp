@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om akademiuddannelsen i ledelse (VVU)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-01-23",
+  "in_force_date": "2003-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2003/51/xml",
-  "description": "Retsinformation source. DocumentId=AT001250; AccessionNumber=B20030005105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001250; AccessionNumber=B20030005105; Ophævet 2005-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:33:08.495Z",
+    "accession": "B20030005105",
+    "document_id": "AT001250",
+    "unique_document_id": "24084",
+    "upstream_status": "Historic",
+    "start_date": "2003-01-30",
+    "end_date": "2014-07-02",
+    "historic_marked": "2005-12-22",
+    "seed_status": "repealed"
+  }
 }

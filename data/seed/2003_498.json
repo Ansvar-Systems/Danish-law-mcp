@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bekæmpelse af afrikansk svinepest",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-13",
+  "in_force_date": "2003-06-23",
   "url": "https://www.retsinformation.dk/eli/lta/2003/498/xml",
-  "description": "Retsinformation source. DocumentId=AH001535; AccessionNumber=B20030049805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001535; AccessionNumber=B20030049805; Ophævet 2015-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:32:37.765Z",
+    "accession": "B20030049805",
+    "document_id": "AH001535",
+    "unique_document_id": "7786",
+    "upstream_status": "Historic",
+    "start_date": "2003-06-23",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-08",
+    "seed_status": "repealed"
+  }
 }

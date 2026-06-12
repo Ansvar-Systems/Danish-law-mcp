@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om boligplacering af flygtninge",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-08-24",
+  "in_force_date": "2000-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2000/800/xml",
-  "description": "Retsinformation source. DocumentId=AI000369; AccessionNumber=B20000080005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000369; AccessionNumber=B20000080005; Ophævet 2002-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:33:58.524Z",
+    "accession": "B20000080005",
+    "document_id": "AI000369",
+    "unique_document_id": "8971",
+    "upstream_status": "Historic",
+    "start_date": "2000-08-31",
+    "end_date": "2017-12-12",
+    "historic_marked": "2002-12-18",
+    "seed_status": "repealed"
+  }
 }

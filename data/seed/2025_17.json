@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2025-01-14",
+  "in_force_date": "2025-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2025/17/xml",
   "description": "Retsinformation source. DocumentId=BE010048; AccessionNumber=A20250001729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1105,5 +1106,16 @@
       "definition": "enhver form for betaling, som modtageren opnår ret til i forbindelse med sin fratrædelse, og som ikke 1) udgør løn eller værdi af personalegoder i opsigelsesperioden, 2) udgør rimelig kompensation for påtagelse af konkurrenceklausuler eller kundeklausuler eller 3) følger af præceptiv lovgivning",
       "source_provision": "3:5i"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:22.834Z",
+    "accession": "A20250001729",
+    "document_id": "BE010048",
+    "unique_document_id": "245843",
+    "upstream_status": "Valid",
+    "start_date": "2025-01-14",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

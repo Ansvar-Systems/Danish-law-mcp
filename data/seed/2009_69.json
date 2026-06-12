@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om gennemførelse af underholdspligtforordningen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-01-29",
+  "in_force_date": "2009-02-04",
   "url": "https://www.retsinformation.dk/eli/lta/2009/69/xml",
-  "description": "Retsinformation source. DocumentId=AA004667; AccessionNumber=B20090006905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA004667; AccessionNumber=B20090006905; Ophævet 2013-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne i Rådets forordning (EF) nr. 4/2009 om kompetence, lovvalg, anerkendelse og fuldbyrdelse af retsafgørelser og samarbejde vedrørende underholdspligt gælder her i landet, bortset fra bestemmelserne i kapitel III og VII, jf. dog stk. 2. Stk. 2. Bestemmelserne i artikel 2 og kapitel IX gælder kun i det omfang, de vedrører kompetence, anerkendelse, eksigibilitet og fuldbyrdelse af retsafgørelser samt adgang til domstolsprøvelse.",
-      "valid_from": "2009-01-29",
-      "valid_to": null
+      "valid_from": "2009-02-04",
+      "valid_to": "2013-05-31"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. I relation til de bestemmelser, der er omfattet af § 1, omfatter forordningens henvisning til ”medlemsstater” også Danmark.",
-      "valid_from": "2009-01-29",
-      "valid_to": null
+      "valid_from": "2009-02-04",
+      "valid_to": "2013-05-31"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 30. januar 2009.",
-      "valid_from": "2009-01-29",
-      "valid_to": null
+      "valid_from": "2009-02-04",
+      "valid_to": "2013-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:22:09.447Z",
+    "accession": "B20090006905",
+    "document_id": "AA004667",
+    "unique_document_id": "122986",
+    "upstream_status": "Historic",
+    "start_date": "2009-02-04",
+    "end_date": "2022-07-08",
+    "historic_marked": "2013-05-31",
+    "seed_status": "repealed"
+  }
 }

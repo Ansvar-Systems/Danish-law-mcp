@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om veterinærvæsenet samt om udøvelse af dyrlægegerning",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-03-16",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/171/xml",
-  "description": "Retsinformation source. DocumentId=CM038931; AccessionNumber=A19940017130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038931; AccessionNumber=A19940017130; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:45:09.844Z",
+    "accession": "A19940017130",
+    "document_id": "CM038931",
+    "unique_document_id": "79718",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

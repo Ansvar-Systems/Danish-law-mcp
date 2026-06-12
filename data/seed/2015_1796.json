@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-12-18",
+  "in_force_date": "2015-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1796/xml",
   "description": "Retsinformation source. DocumentId=CI000068; AccessionNumber=B20150179605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende data om Grønland stilles frit til rådighed for offentlige myndigheder, virksomheder og personer: 1) Topografiske kort: a) Grønland 1:100.000, vektor. b) Grønland 1:250.000, vektor. c) 1:2.500.000, vektor. 2) Grundlæggende landkortdata: a) Flyfotos 1:150.000 1978-87. b) Øvrige flyfotos. c) Ortofotos dækkende den sydvestlige del af Grønland. 3) Højdemodel dækkende dele af Grønland. 4) Historiske topografiske, georefererede kort: a) Grønlands Topografiske Kortværk 1.250.000, rasterformat. b) Grønlands Topografiske Kortværk 1:500.000, rasterformat. c) Grønlands Topografiske Kortværk 1:2.500.000, rasterformat. 5) Historiske topografiske, ikke georefererede kort: a) Grønland 1:50.000. b) Øvrige grønlandske detailkort i forskellige målestok. Stk. 2. Data gøres tilgængelige via Styrelsen for Dataforsyning og Effektiviserings digitale distributionssystem. Stk. 3. Hvis brugeren ønsker at få stillet data til rådighed via et andet medie, kan Styrelsen for Dataforsyning og Effektivisering opkræve gebyr i overensstemmelse med lov om videreanvendelse af den offentlige sektors informationer.",
-      "valid_from": "2015-12-18",
+      "valid_from": "2015-12-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-12-18",
+      "valid_from": "2015-12-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:30.291Z",
+    "accession": "B20150179605",
+    "document_id": "CI000068",
+    "unique_document_id": "176210",
+    "upstream_status": "Valid",
+    "start_date": "2015-12-23",
+    "end_date": "2021-01-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2017-06-26",
+  "in_force_date": "2017-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2017/858/xml",
   "description": "Retsinformation source. DocumentId=AA010233; AccessionNumber=B20170085805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 428 af 3. maj 2017 om ændring af lov for Færøerne om rettens pleje sættes i kraft.",
-      "valid_from": "2017-06-26",
+      "valid_from": "2017-06-29",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2017.",
-      "valid_from": "2017-06-26",
+      "valid_from": "2017-06-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:35:19.720Z",
+    "accession": "B20170085805",
+    "document_id": "AA010233",
+    "unique_document_id": "192119",
+    "upstream_status": "Valid",
+    "start_date": "2017-06-29",
+    "end_date": "2017-06-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

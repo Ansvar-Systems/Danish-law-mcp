@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om afgrænsning af oplande til nitratfølsomme habitatnaturtyper i Natura 2000-områder",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-05-30",
+  "in_force_date": "2022-05-31",
   "url": "https://www.retsinformation.dk/eli/lta/2022/735/xml",
-  "description": "Retsinformation source. DocumentId=DC000599; AccessionNumber=B20220073505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DC000599; AccessionNumber=B20220073505; Ophævet 2024-07-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Oplande til marine nitratfølsomme habitatnaturtyper samt oplande til overfladevandspåvirkede nitratfølsomme habitatnaturtyper med et selvstændigt opland over 100 ha afgrænses som angivet i bilag 1. Stk. 2. Koordinaterne angivet i bilag 1 illustreres visuelt i en digital kortudgave på MiljøGIS på Miljøministeriets hjemmeside, http://miljoegis.mim.dk/.",
-      "valid_from": "2022-05-30",
-      "valid_to": null
+      "valid_from": "2022-05-31",
+      "valid_to": "2024-07-03"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2022. Stk. 2. Bekendtgørelse nr. 217 af 28. februar 2018 om afgrænsning af oplande til nitratfølsomme habitatnaturtyper i Natura 2000-områder ophæves.",
-      "valid_from": "2022-05-30",
-      "valid_to": null
+      "valid_from": "2022-05-31",
+      "valid_to": "2024-07-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:50:54.401Z",
+    "accession": "B20220073505",
+    "document_id": "DC000599",
+    "unique_document_id": "231392",
+    "upstream_status": "Historic",
+    "start_date": "2022-05-31",
+    "end_date": "2024-07-04",
+    "historic_marked": "2024-07-03",
+    "seed_status": "repealed"
+  }
 }

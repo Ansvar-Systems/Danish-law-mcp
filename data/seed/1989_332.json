@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af retsplejeloven (Legemsindgreb)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-05-24",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/332/xml",
-  "description": "Retsinformation source. DocumentId=CM018348; AccessionNumber=A19890033230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018348; AccessionNumber=A19890033230; Ophævet 1992-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:37:34.108Z",
+    "accession": "A19890033230",
+    "document_id": "CM018348",
+    "unique_document_id": "59395",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1992-12-16",
+    "seed_status": "repealed"
+  }
 }

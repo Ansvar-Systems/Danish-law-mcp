@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2013-02-26",
+  "in_force_date": "2013-02-26",
   "url": "https://www.retsinformation.dk/eli/lta/2013/163/xml",
   "description": "Retsinformation source. DocumentId=AA006981; AccessionNumber=B20130016303; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -23,5 +24,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:35.898Z",
+    "accession": "B20130016303",
+    "document_id": "AA006981",
+    "unique_document_id": "145500",
+    "upstream_status": "Valid",
+    "start_date": "2013-02-26",
+    "end_date": "2019-12-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

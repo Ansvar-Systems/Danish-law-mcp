@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Advokatnævnets virksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-03-21",
+  "in_force_date": "2002-04-11",
   "url": "https://www.retsinformation.dk/eli/lta/2002/188/xml",
-  "description": "Retsinformation source. DocumentId=AA001608; AccessionNumber=B20020018805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001608; AccessionNumber=B20020018805; Ophævet 2008-01-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:34:35.719Z",
+    "accession": "B20020018805",
+    "document_id": "AA001608",
+    "unique_document_id": "1199",
+    "upstream_status": "Historic",
+    "start_date": "2002-04-11",
+    "end_date": "2008-02-08",
+    "historic_marked": "2008-01-22",
+    "seed_status": "repealed"
+  }
 }

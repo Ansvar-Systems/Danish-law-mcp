@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om transport af våben mv. mellem tredjelande",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-24",
+  "in_force_date": "2006-03-20",
   "url": "https://www.retsinformation.dk/eli/lta/2006/160/xml",
-  "description": "Retsinformation source. DocumentId=AA003180; AccessionNumber=B20060016005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003180; AccessionNumber=B20060016005; Ophævet 2006-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:06:58.373Z",
+    "accession": "B20060016005",
+    "document_id": "AA003180",
+    "unique_document_id": "2292",
+    "upstream_status": "Historic",
+    "start_date": "2006-03-20",
+    "end_date": "2007-12-07",
+    "historic_marked": "2006-09-21",
+    "seed_status": "repealed"
+  }
 }

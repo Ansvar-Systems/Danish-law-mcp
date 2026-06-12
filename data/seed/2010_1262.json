@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om dyreforsøg med bestanddele eller sammensætninger af bestanddele i kosmetiske midler",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-11-11",
+  "in_force_date": "2010-11-18",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1262/xml",
-  "description": "Retsinformation source. DocumentId=AA005736; AccessionNumber=B20100126205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005736; AccessionNumber=B20100126205; Ophævet 2012-04-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Der kan ikke meddeles tilladelse til udførelse af dyreforsøg med bestanddele eller sammensætninger af bestanddele i kosmetiske midler, hvis forsøget udføres for at opfylde kravene til kosmetiske produkters sikkerhed. Stk. 2. Bestemmelsen i stk. 1 finder ikke anvendelse på forsøg vedrørende 1) toksicitet ved gentagen dosis, 2) reproduktionstoksicitet eller 3) kemiske stoffers omsætning i en levende organisme (toksikokinetik).",
-      "valid_from": "2010-11-11",
-      "valid_to": null
+      "valid_from": "2010-11-18",
+      "valid_to": "2012-04-10"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. december 2010.",
-      "valid_from": "2010-11-11",
-      "valid_to": null
+      "valid_from": "2010-11-18",
+      "valid_to": "2012-04-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:45:35.764Z",
+    "accession": "B20100126205",
+    "document_id": "AA005736",
+    "unique_document_id": "134181",
+    "upstream_status": "Historic",
+    "start_date": "2010-11-18",
+    "end_date": "2022-04-09",
+    "historic_marked": "2012-04-10",
+    "seed_status": "repealed"
+  }
 }

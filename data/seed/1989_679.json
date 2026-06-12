@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om flagning med det europæiske flag",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-10-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/679/xml",
-  "description": "Retsinformation source. DocumentId=CM016681; AccessionNumber=B19890067905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016681; AccessionNumber=B19890067905; Ophævet 2023-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:51:56.236Z",
+    "accession": "B19890067905",
+    "document_id": "CM016681",
+    "unique_document_id": "57753",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-06-23",
+    "historic_marked": "2023-06-22",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2016-02-03",
+  "in_force_date": "2016-02-03",
   "url": "https://www.retsinformation.dk/eli/lta/2016/103/xml",
   "description": "Retsinformation source. DocumentId=CJ000240; AccessionNumber=A20160010330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -23,5 +24,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:11.892Z",
+    "accession": "A20160010330",
+    "document_id": "CJ000240",
+    "unique_document_id": "177148",
+    "upstream_status": "Valid",
+    "start_date": "2016-02-03",
+    "end_date": "2022-07-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

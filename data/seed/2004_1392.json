@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af visse afgiftslove og ligningsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-20",
+  "in_force_date": "2004-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1392/xml",
-  "description": "Retsinformation source. DocumentId=AN004464; AccessionNumber=A20040139230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004464; AccessionNumber=A20040139230; Ophævet 2014-04-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:08:45.279Z",
+    "accession": "A20040139230",
+    "document_id": "AN004464",
+    "unique_document_id": "16680",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-20",
+    "end_date": "2014-07-22",
+    "historic_marked": "2014-04-15",
+    "seed_status": "repealed"
+  }
 }

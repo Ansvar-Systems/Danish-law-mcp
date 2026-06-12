@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om varenumre til lægemidler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-10-26",
+  "in_force_date": "2000-11-03",
   "url": "https://www.retsinformation.dk/eli/lta/2000/961/xml",
-  "description": "Retsinformation source. DocumentId=AQ000683; AccessionNumber=B20000096105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000683; AccessionNumber=B20000096105; Ophævet 2009-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:40:27.553Z",
+    "accession": "B20000096105",
+    "document_id": "AQ000683",
+    "unique_document_id": "21621",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-03",
+    "end_date": "2022-07-12",
+    "historic_marked": "2009-07-01",
+    "seed_status": "repealed"
+  }
 }

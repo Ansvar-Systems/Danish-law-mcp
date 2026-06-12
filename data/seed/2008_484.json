@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2008-06-17",
+  "in_force_date": "2008-06-17",
   "url": "https://www.retsinformation.dk/eli/lta/2008/484/xml",
   "description": "Retsinformation source. DocumentId=AE001307; AccessionNumber=A20080048430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -23,5 +24,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:16:28.728Z",
+    "accession": "A20080048430",
+    "document_id": "AE001307",
+    "unique_document_id": "117481",
+    "upstream_status": "Valid",
+    "start_date": "2008-06-17",
+    "end_date": "2023-10-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

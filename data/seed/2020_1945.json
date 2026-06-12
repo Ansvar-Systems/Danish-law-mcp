@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-11-25",
+  "in_force_date": "2020-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1945/xml",
   "description": "Retsinformation source. DocumentId=AP000326; AccessionNumber=B20200194505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende drift af netværk, datacenter-lokation og dertilhørende sikkerhedsværn, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der ve‌d­rører Kriminalforsorgen, overføres i henhold til nærmere aftale mellem justitsministeren og finansministeren fra justitsministeren til finansministeren pr. 1. november 2020.",
-      "valid_from": "2020-11-25",
+      "valid_from": "2020-12-16",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører Trafik-, Bygge- og Boligstyrelsen, overføres i henhold til nærmere aftale mellem transportministeren, boligministeren og finansministeren fra henholdsvis transportministeren og boligministeren til finansministeren pr. 1. november 2020.",
-      "valid_from": "2020-11-25",
+      "valid_from": "2020-12-16",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører Færdselsstyrelsen, overføres i henhold til nærmere aftale mellem transportministeren og finansministeren fra transportministeren til finansministeren pr. 1. november 2020.",
-      "valid_from": "2020-11-25",
+      "valid_from": "2020-12-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:06:28.094Z",
+    "accession": "B20200194505",
+    "document_id": "AP000326",
+    "unique_document_id": "218683",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-16",
+    "end_date": "2020-12-16",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om oprettelse af et etisk råd",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-03-04",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1997/220/xml",
-  "description": "Retsinformation source. DocumentId=CM043500; AccessionNumber=A19970022029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM043500; AccessionNumber=A19970022029; Ophævet 2004-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:57:23.568Z",
+    "accession": "A19970022029",
+    "document_id": "CM043500",
+    "unique_document_id": "84069",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "2004-06-09",
+    "seed_status": "repealed"
+  }
 }

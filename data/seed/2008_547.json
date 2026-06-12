@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om uddannelsen til studentereksamen (stx) (gymnasieloven)\\n(Forenkling af almen studieforberedelse samt styrkelse af fremmedsprog, matematik og naturvidenskab)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-06-17",
+  "in_force_date": "2008-06-17",
   "url": "https://www.retsinformation.dk/eli/lta/2008/547/xml",
-  "description": "Retsinformation source. DocumentId=AT003426; AccessionNumber=A20080054730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT003426; AccessionNumber=A20080054730; Ophævet 2008-07-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -20,8 +21,19 @@
       "section": "10",
       "content": "§ 10 a. 10 pct. af uddannelsestiden i det samlede forløb op til studentereksamen, dog fraregnet uddannelsestiden til almen sprogforståelse og naturvidenskabeligt grundforløb, skal anvendes til samarbejde og sammenhæng mellem fagene (almen studieforberedelse).",
       "valid_from": "2008-06-17",
-      "valid_to": null
+      "valid_to": "2008-07-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:19:02.732Z",
+    "accession": "A20080054730",
+    "document_id": "AT003426",
+    "unique_document_id": "120390",
+    "upstream_status": "Historic",
+    "start_date": "2008-06-17",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-07-25",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forhøjelse af hædersgaver",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-04-03",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1985/136/xml",
-  "description": "Retsinformation source. DocumentId=CM012644; AccessionNumber=A19850013630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012644; AccessionNumber=A19850013630; Ophævet 1990-02-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:47:59.765Z",
+    "accession": "A19850013630",
+    "document_id": "CM012644",
+    "unique_document_id": "53779",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2011-01-12",
+    "historic_marked": "1990-02-01",
+    "seed_status": "repealed"
+  }
 }

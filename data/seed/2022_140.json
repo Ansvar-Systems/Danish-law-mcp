@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-01-26",
+  "in_force_date": "2022-01-28",
   "url": "https://www.retsinformation.dk/eli/lta/2022/140/xml",
   "description": "Retsinformation source. DocumentId=AA012887; AccessionNumber=B20220014005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Som bilag 6 og 7 til lov om Den Europæiske Menneskerettighedskonvention, jf. lovbekendtgørelse nr. 750 af 19. oktober 1998, som ændret ved § 10 i lov nr. 538 af 8. juni 2006, indsættes bilag 1 og 2 til denne bekendtgørelse.",
-      "valid_from": "2022-01-26",
+      "valid_from": "2022-01-28",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2022.",
-      "valid_from": "2022-01-26",
+      "valid_from": "2022-01-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:17:38.478Z",
+    "accession": "B20220014005",
+    "document_id": "AA012887",
+    "unique_document_id": "228988",
+    "upstream_status": "Valid",
+    "start_date": "2022-01-28",
+    "end_date": "2022-01-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

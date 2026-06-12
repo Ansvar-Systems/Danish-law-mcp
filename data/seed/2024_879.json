@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-06-28",
+  "in_force_date": "2024-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2024/879/xml",
   "description": "Retsinformation source. DocumentId=DI001193; AccessionNumber=B20240087905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -368,5 +369,16 @@
       "definition": "ejerskab eller medejerskab, som er personligt ejerskab, ejerskab i andelsselskab, holdingselskab eller andre selskabsformer, ejerskab af værdipapirer eller anden økonomisk tilknytning til virksomheder omfattet af §§ 4-7",
       "source_provision": "1:8"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:22:16.805Z",
+    "accession": "B20240087905",
+    "document_id": "DI001193",
+    "unique_document_id": "244360",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-28",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

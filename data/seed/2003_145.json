@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om toldbehandling",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-03",
+  "in_force_date": "2003-03-17",
   "url": "https://www.retsinformation.dk/eli/lta/2003/145/xml",
-  "description": "Retsinformation source. DocumentId=AN003288; AccessionNumber=B20030014505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003288; AccessionNumber=B20030014505; Ophævet 2003-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:18:24.129Z",
+    "accession": "B20030014505",
+    "document_id": "AN003288",
+    "unique_document_id": "15683",
+    "upstream_status": "Historic",
+    "start_date": "2003-03-17",
+    "end_date": "2005-10-27",
+    "historic_marked": "2003-12-18",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af spillekasinoer",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-02-22",
+  "in_force_date": "1999-03-04",
   "url": "https://www.retsinformation.dk/eli/lta/1999/109/xml",
-  "description": "Retsinformation source. DocumentId=AN000037; AccessionNumber=A19990010929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000037; AccessionNumber=A19990010929; Ophævet 2002-06-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:11:11.322Z",
+    "accession": "A19990010929",
+    "document_id": "AN000037",
+    "unique_document_id": "13215",
+    "upstream_status": "Historic",
+    "start_date": "1999-03-04",
+    "end_date": "2014-10-21",
+    "historic_marked": "2002-06-03",
+    "seed_status": "repealed"
+  }
 }

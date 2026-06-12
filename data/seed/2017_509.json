@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2017-05-18",
+  "in_force_date": "2017-05-24",
   "url": "https://www.retsinformation.dk/eli/lta/2017/509/xml",
   "description": "Retsinformation source. DocumentId=AE002384; AccessionNumber=A20170050929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Flyveledere under luftfartsvæsenet, der har været beskæftiget med flyvekontroltjeneste i mindst 15 år efter det fyldte 25. år, kan afskediges ved en alder under 60 år, som fastsættes ved aftale efter § 45 i lov om tjenestemænd.",
-      "valid_from": "2017-05-18",
+      "valid_from": "2017-05-24",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. For flyveledere, der afskediges som følge af, at de har nået den for stillingen fastsatte aldersgrænse, forhøjes pensionsalderen efter lov om tjenestemandspension med indtil 7 år, dog højst indtil den pensionsalder, som tjenestemanden ville have opnået, hvis tjenesten var blevet fortsat indtil udgangen af den måned, hvori den pågældende fylder 70 år. Stk. 2. Pensioner for de før 1. april 1979 ansatte flyveledere, der afskediges efter at have nået den for deres stilling fastsatte aldersgrænse, kan dog beregnes på grundlag af den optjente pensionsalder, forøget med et dertil svarende antal 30.-dele af forskellen op til den pensionsalder, der ville blive lagt til grund ved pensionsberegning, såfremt tjenesten var blevet fortsat indtil udgangen af den måned, hvori den pågældende fylder 70 år.",
-      "valid_from": "2017-05-18",
+      "valid_from": "2017-05-24",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "2a",
       "content": "§ 2 a. Kapitel 10 i lov om tjenestemandspension finder tilsvarende anvendelse, for så vidt angår ydelser efter denne lov.",
-      "valid_from": "2017-05-18",
+      "valid_from": "2017-05-24",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Loven træder i kraft den 1. april 1979. Stk. 2. Loven gælder dog ikke for flyveledere, der ved ikrafttrædelsen er fyldt 55 år.",
-      "valid_from": "2017-05-18",
+      "valid_from": "2017-05-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:21:20.993Z",
+    "accession": "A20170050929",
+    "document_id": "AE002384",
+    "unique_document_id": "184451",
+    "upstream_status": "Valid",
+    "start_date": "2017-05-24",
+    "end_date": "2023-10-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

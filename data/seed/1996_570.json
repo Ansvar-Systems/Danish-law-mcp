@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Statens Kunstfond",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-06-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/570/xml",
-  "description": "Retsinformation source. DocumentId=CM041084; AccessionNumber=A19960057029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM041084; AccessionNumber=A19960057029; Ophævet 1998-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:30:05.667Z",
+    "accession": "A19960057029",
+    "document_id": "CM041084",
+    "unique_document_id": "81770",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-12-29",
+    "historic_marked": "1998-05-26",
+    "seed_status": "repealed"
+  }
 }

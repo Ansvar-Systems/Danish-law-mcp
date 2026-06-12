@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-12-14",
+  "in_force_date": "2021-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2425/xml",
   "description": "Retsinformation source. DocumentId=CQ002003; AccessionNumber=B20210242505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse for landbrugsråvarederivater og kritiske eller væsentlige råvarederivater, der handles på markedspladser, der er underlagt Finanstilsynets tilsyn, og gennem økonomisk tilsvarende OTC-kontrakter.",
-      "valid_from": "2021-12-14",
+      "valid_from": "2021-12-15",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Finanstilsynet fastsætter grænser for, hvor stor en nettoposition en person må besidde i et råvarederivat, der er omfattet af § 1 i overensstemmelse med Kommissionens delegerede forordning (EU) 2017/591 af 1. december 2016 om supplerende regler til Europa-Parlamentets og Rådets direktiv 2014/65/EU for så vidt angår reguleringsmæssige tekniske standarder for anvendelse af positionslofter på råvarederivater samt Europa-Parlamentets og Rådets direktiv (EU) 2021/338 af 16. februar 2021 om ændring af direktiv 2014/65/EU, for så vidt angår oplysningskrav, produktstyring og positionslofter, og af direktiv 2013/36/EU og (EU) 2019/878, for så vidt angår deres anvendelse på investeringsvirksomheder, med henblik på at bidrage til genopretningen efter covid-19-krisen. Stk. 2. Finanstilsynet reviderer grænserne, når der er en betydelig forandring i det disponible udbud, antallet af åbne positioner eller en anden væsentlig forandring på markedet for det pågældende råvarederivat, der er omfattet af § 1. Stk. 3. Finanstilsynet offentliggør de fastsatte grænser på Finanstilsynets hjemmeside.",
-      "valid_from": "2021-12-14",
+      "valid_from": "2021-12-15",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2022. Stk. 2. Bekendtgørelse nr. 1229 af 24. november 2017 om fastsættelse af grænser for besiddelse af råvarederivater ophæves.",
-      "valid_from": "2021-12-14",
+      "valid_from": "2021-12-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:19:51.255Z",
+    "accession": "B20210242505",
+    "document_id": "CQ002003",
+    "unique_document_id": "227931",
+    "upstream_status": "Valid",
+    "start_date": "2021-12-15",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

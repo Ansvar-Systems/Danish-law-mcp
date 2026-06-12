@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2023-12-12",
+  "in_force_date": "2023-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1553/xml",
   "description": "Retsinformation source. DocumentId=AA013984; AccessionNumber=A20230155330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -71,5 +72,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:23:55.334Z",
+    "accession": "A20230155330",
+    "document_id": "AA013984",
+    "unique_document_id": "240850",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-12",
+    "end_date": "2025-04-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

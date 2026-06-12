@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fodertilsætningsstoffer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-10-12",
+  "in_force_date": "2004-10-18",
   "url": "https://www.retsinformation.dk/eli/lta/2004/999/xml",
-  "description": "Retsinformation source. DocumentId=AH001978; AccessionNumber=B20040099905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001978; AccessionNumber=B20040099905; Ophævet 2004-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:48:47.676Z",
+    "accession": "B20040099905",
+    "document_id": "AH001978",
+    "unique_document_id": "8170",
+    "upstream_status": "Historic",
+    "start_date": "2004-10-18",
+    "end_date": "2022-04-09",
+    "historic_marked": "2004-12-20",
+    "seed_status": "repealed"
+  }
 }

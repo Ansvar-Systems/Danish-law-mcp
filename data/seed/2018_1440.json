@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Danske Lægemiddelstandarder 2018.2",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-11-30",
+  "in_force_date": "2018-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1440/xml",
-  "description": "Retsinformation source. DocumentId=CN000837; AccessionNumber=B20180144005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000837; AccessionNumber=B20180144005; Ophævet 2019-11-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:22.618Z",
+    "accession": "B20180144005",
+    "document_id": "CN000837",
+    "unique_document_id": "205330",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-07",
+    "end_date": "2022-07-12",
+    "historic_marked": "2019-11-28",
+    "seed_status": "repealed"
+  }
 }

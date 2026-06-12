@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udbud af færgedrift",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-16",
+  "in_force_date": "1999-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1052/xml",
-  "description": "Retsinformation source. DocumentId=AR000252; AccessionNumber=B19990105205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000252; AccessionNumber=B19990105205; Ophævet 2005-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:09:42.138Z",
+    "accession": "B19990105205",
+    "document_id": "AR000252",
+    "unique_document_id": "21918",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-28",
+    "end_date": "2022-07-07",
+    "historic_marked": "2005-12-22",
+    "seed_status": "repealed"
+  }
 }

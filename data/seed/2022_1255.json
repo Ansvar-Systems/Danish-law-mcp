@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om MitID og NemLog-in",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-09-07",
+  "in_force_date": "2022-09-09",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1255/xml",
-  "description": "Retsinformation source. DocumentId=AE003013; AccessionNumber=B20220125505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE003013; AccessionNumber=B20220125505; Ophævet 2025-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 9 og § 11, stk. 3, i lov nr. 783 af 4. maj 2021 om MitID og NemLog-in sættes i kraft.",
-      "valid_from": "2022-09-07",
-      "valid_to": null
+      "valid_from": "2022-09-09",
+      "valid_to": "2025-04-01"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 12. september 2022.",
-      "valid_from": "2022-09-07",
-      "valid_to": null
+      "valid_from": "2022-09-09",
+      "valid_to": "2025-04-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:11:47.487Z",
+    "accession": "B20220125505",
+    "document_id": "AE003013",
+    "unique_document_id": "232801",
+    "upstream_status": "Historic",
+    "start_date": "2022-09-09",
+    "end_date": "2026-06-04",
+    "historic_marked": "2025-04-01",
+    "seed_status": "repealed"
+  }
 }

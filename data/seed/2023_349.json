@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om alment farlige sygdomme",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-03-27",
+  "in_force_date": "2023-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2023/349/xml",
-  "description": "Retsinformation source. DocumentId=DI000824; AccessionNumber=B20230034905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000824; AccessionNumber=B20230034905; Ophævet 2026-05-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Alment farlige sygdomme, efter epidemilovens § 2, stk. 3, omfatter de sygdomme, som fremgår af Bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2023-03-27",
-      "valid_to": null
+      "valid_from": "2023-03-30",
+      "valid_to": "2026-05-08"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2023. Stk. 2. Bekendtgørelse nr. 304 af 27. februar 2021 om alment farlige sygdomme ophæves.",
-      "valid_from": "2023-03-27",
-      "valid_to": null
+      "valid_from": "2023-03-30",
+      "valid_to": "2026-05-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:43:36.453Z",
+    "accession": "B20230034905",
+    "document_id": "DI000824",
+    "unique_document_id": "235719",
+    "upstream_status": "Historic",
+    "start_date": "2023-03-30",
+    "end_date": "2026-05-09",
+    "historic_marked": "2026-05-08",
+    "seed_status": "repealed"
+  }
 }

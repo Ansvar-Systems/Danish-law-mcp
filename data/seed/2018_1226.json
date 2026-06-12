@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 8, i lov om ændring af lov om den selvstændige offentlige virksomhed DSB og om DSB S-tog A/S samt fusionsskatteloven (Fremgangsmåde ved anskaffelse af rullende materiel, generel garantistillelse, bestyrelsessammensætning, mulighed for DSB, Naviair og Energinet.dk til at fusionere skattefrit med helejede datterselskaber, konsekvensændringer som følge af selskabsloven m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-10-22",
+  "in_force_date": "2018-10-26",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1226/xml",
-  "description": "Retsinformation source. DocumentId=CX000500; AccessionNumber=B20180122605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000500; AccessionNumber=B20180122605; Ophævet 2019-05-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 8, i lov nr. 1402 af 23. december 2012 om ændring af lov om den selvstændige offentlige virksomhed DSB og om DSB S-tog A/S samt fusionsskatteloven (Fremgangsmåde ved anskaffelse af rullende materiel, generel garantistillelse, bestyrelsessammensætning, mulighed for DSB, Naviair og Energinet.dk til at fusionere skattefrit med helejede datterselskaber, konsekvensændringer som følge af selskabsloven m.v.) sættes i kraft.",
-      "valid_from": "2018-10-22",
-      "valid_to": null
+      "valid_from": "2018-10-26",
+      "valid_to": "2019-05-08"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. november 2018.",
-      "valid_from": "2018-10-22",
-      "valid_to": null
+      "valid_from": "2018-10-26",
+      "valid_to": "2019-05-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:31:42.109Z",
+    "accession": "B20180122605",
+    "document_id": "CX000500",
+    "unique_document_id": "203636",
+    "upstream_status": "Historic",
+    "start_date": "2018-10-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-05-08",
+    "seed_status": "repealed"
+  }
 }

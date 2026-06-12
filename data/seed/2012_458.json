@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-05-23",
+  "in_force_date": "2012-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2012/458/xml",
-  "description": "Retsinformation source. DocumentId=BP000165; AccessionNumber=B20120045805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000165; AccessionNumber=B20120045805; Ophævet 2014-05-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Den danske frekvensplan fremgår af bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2012-05-23",
-      "valid_to": null
+      "valid_from": "2012-05-26",
+      "valid_to": "2014-05-23"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juni 2012. Stk. 2. Bekendtgørelse nr. 1209 af 15. oktober 2010 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan) ophæves.",
-      "valid_from": "2012-05-23",
-      "valid_to": null
+      "valid_from": "2012-05-26",
+      "valid_to": "2014-05-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:01:21.431Z",
+    "accession": "B20120045805",
+    "document_id": "BP000165",
+    "unique_document_id": "141482",
+    "upstream_status": "Historic",
+    "start_date": "2012-05-26",
+    "end_date": "2026-06-04",
+    "historic_marked": "2014-05-23",
+    "seed_status": "repealed"
+  }
 }

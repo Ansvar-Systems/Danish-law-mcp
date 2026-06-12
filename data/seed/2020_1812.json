@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-04",
+  "in_force_date": "2020-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1812/xml",
   "description": "Retsinformation source. DocumentId=CQ001494; AccessionNumber=B20200181205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1615 af 13. november 2020 om visse skattebegunstigede opsparingsformer i pengeinstitutter ophæves.",
-      "valid_from": "2020-12-04",
+      "valid_from": "2020-12-05",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. december 2020.",
-      "valid_from": "2020-12-04",
+      "valid_from": "2020-12-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:01:11.560Z",
+    "accession": "B20200181205",
+    "document_id": "CQ001494",
+    "unique_document_id": "218138",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-05",
+    "end_date": "2020-12-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

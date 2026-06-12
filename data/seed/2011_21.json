@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ferie",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-01-12",
+  "in_force_date": "2011-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2011/21/xml",
-  "description": "Retsinformation source. DocumentId=BE004489; AccessionNumber=B20110002105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE004489; AccessionNumber=B20110002105; Ophævet 2011-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "20",
@@ -19,9 +20,20 @@
       "provision_ref": "20",
       "section": "20",
       "content": "§ 20. Anmodning om feriegodtgørelse sker via FerieKontos hjemmeside eller TastSelv-telefon. Stk. 2. Ved anmodning om udbetaling af feriegodtgørelse skal lønmodtageren oplyse antallet af feriedage og datoen for feriens begyndelse. Oplysningerne skal godkendes digitalt ved brug af NemId på FerieKontos hjemmeside eller ved brug af TastSelv-kode til FerieKontos TastSelv-telefon.",
-      "valid_from": "2011-01-12",
-      "valid_to": null
+      "valid_from": "2011-01-14",
+      "valid_to": "2011-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:58:04.793Z",
+    "accession": "B20110002105",
+    "document_id": "BE004489",
+    "unique_document_id": "135255",
+    "upstream_status": "Historic",
+    "start_date": "2011-01-14",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-12-22",
+    "seed_status": "repealed"
+  }
 }

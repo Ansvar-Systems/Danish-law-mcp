@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om afskæring af klageadgang på Socialstyrelsens tilskudsområde",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-01-11",
+  "in_force_date": "2019-01-16",
   "url": "https://www.retsinformation.dk/eli/lta/2019/44/xml",
-  "description": "Retsinformation source. DocumentId=CT000507; AccessionNumber=B20190004405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CT000507; AccessionNumber=B20190004405; Ophævet 2020-01-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2:1",
@@ -27,17 +28,28 @@
       "chapter": "2",
       "section": "1",
       "content": "§ 1. Afgørelser, som Socialstyrelsen træffer efter bemyndigelse fra børne- og socialministeren vedrørende tilskud efter tekstanmærkning nr. 111 til finanslovens § 15, kan ikke indbringes for børne- og socialministeren.",
-      "valid_from": "2019-01-11",
-      "valid_to": null
+      "valid_from": "2019-01-16",
+      "valid_to": "2020-01-06"
     },
     {
       "provision_ref": "3:2",
       "chapter": "3",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 17. januar 2019. Stk. 2. Bekendtgørelse nr. 293 af 23. april 2018 om afskæring af klageadgang på Socialstyrelsens tilskudsområde ophæves.",
-      "valid_from": "2019-01-11",
-      "valid_to": null
+      "valid_from": "2019-01-16",
+      "valid_to": "2020-01-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:05:45.346Z",
+    "accession": "B20190004405",
+    "document_id": "CT000507",
+    "unique_document_id": "206503",
+    "upstream_status": "Historic",
+    "start_date": "2019-01-16",
+    "end_date": "2022-07-08",
+    "historic_marked": "2020-01-06",
+    "seed_status": "repealed"
+  }
 }

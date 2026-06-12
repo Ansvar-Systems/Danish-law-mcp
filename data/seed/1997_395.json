@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Telestyrelsen",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-06-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1997/395/xml",
-  "description": "Retsinformation source. DocumentId=CM044444; AccessionNumber=A19970039530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044444; AccessionNumber=A19970039530; Ophævet 2002-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:04:15.688Z",
+    "accession": "A19970039530",
+    "document_id": "CM044444",
+    "unique_document_id": "84990",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-06-04",
+    "historic_marked": "2002-06-06",
+    "seed_status": "repealed"
+  }
 }

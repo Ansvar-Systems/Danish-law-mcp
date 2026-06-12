@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om randzoner og miljømålsloven\\n(Anvendelsesområde og fornyet høring over vandplanforslag m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-06-25",
+  "in_force_date": "2014-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2014/726/xml",
-  "description": "Retsinformation source. DocumentId=AH005252; AccessionNumber=A20140072630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005252; AccessionNumber=A20140072630; Ophævet 2015-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "6",
@@ -30,22 +31,33 @@
       "section": "6",
       "content": "§ 6 c. Hvor det efter denne lov eller regler udstedt i medfør heraf er et krav, at et dokument, som er udstedt af andre end ministeren for fødevarer, landbrug og fiskeri, skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet, jf. dog stk. 2. Sådanne dokumenter sidestilles med dokumenter med personlig underskrift. Stk. 2. Ministeren kan fastsætte nærmere regler om opfyldelse af underskriftskrav, jf. stk. 1.",
       "valid_from": "2014-06-25",
-      "valid_to": null
+      "valid_to": "2015-12-14"
     },
     {
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8 a. Ministeren for fødevarer, landbrug og fiskeri kan meddele den, der er ansvarlig for bedriften, påbud om at bringe arealer, der er omfattet af § 1, stk. 1, i en tilstand, der er i overensstemmelse hermed.",
       "valid_from": "2014-06-25",
-      "valid_to": null
+      "valid_to": "2015-12-14"
     },
     {
       "provision_ref": "30",
       "section": "30",
       "content": "§ 30. Hvis der forud for vedtagelsen af den endelige vandplan foretages ændringer i forhold til det offentliggjorte forslag i de dele af indsatsprogrammet eller retningslinjerne, der fastsætter forpligtelser for myndigheder, kan vandplanerne ikke vedtages, før ændringerne har været i fornyet offentlig høring i mindst 8 uger.",
       "valid_from": "2014-06-25",
-      "valid_to": null
+      "valid_to": "2015-12-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:14:18.017Z",
+    "accession": "A20140072630",
+    "document_id": "AH005252",
+    "unique_document_id": "163844",
+    "upstream_status": "Historic",
+    "start_date": "2014-06-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-14",
+    "seed_status": "repealed"
+  }
 }

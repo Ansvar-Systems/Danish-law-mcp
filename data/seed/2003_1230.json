@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om anvendelse af Danmarks undergrund\\n(Implementering af aftale af 29. september 2003 mellem økonomi- og erhvervsministeren og A.P. Møller Mærsk A/S om efterforskning og indvinding af kulbrinter i Danmarks undergrund)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-27",
+  "in_force_date": "2003-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1230/xml",
-  "description": "Retsinformation source. DocumentId=AU001438; AccessionNumber=A20030123030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001438; AccessionNumber=A20030123030; Ophævet 2007-07-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:16:02.074Z",
+    "accession": "A20030123030",
+    "document_id": "AU001438",
+    "unique_document_id": "26532",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2007-07-19",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om investeringsforeninger",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-08-31",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1988/528/xml",
-  "description": "Retsinformation source. DocumentId=CM025293; AccessionNumber=A19880052829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025293; AccessionNumber=A19880052829; Ophævet 1990-02-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:14:37.709Z",
+    "accession": "A19880052829",
+    "document_id": "CM025293",
+    "unique_document_id": "66179",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1990-02-21",
+    "seed_status": "repealed"
+  }
 }

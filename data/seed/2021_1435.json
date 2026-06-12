@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om afmærkning af vejarbejder mv.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-06-28",
+  "in_force_date": "2021-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1435/xml",
-  "description": "Retsinformation source. DocumentId=DG000142; AccessionNumber=B20210143505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000142; AccessionNumber=B20210143505; Ophævet 2025-04-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:39:57.745Z",
+    "accession": "B20210143505",
+    "document_id": "DG000142",
+    "unique_document_id": "224353",
+    "upstream_status": "Historic",
+    "start_date": "2021-06-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-04-22",
+    "seed_status": "repealed"
+  }
 }

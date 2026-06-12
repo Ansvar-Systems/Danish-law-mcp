@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om skattemæssige afskrivninger m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1978-11-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1978/564/xml",
-  "description": "Retsinformation source. DocumentId=CM022028; AccessionNumber=A19780056429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022028; AccessionNumber=A19780056429; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:05:09.803Z",
+    "accession": "A19780056429",
+    "document_id": "CM022028",
+    "unique_document_id": "63008",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-07-27",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

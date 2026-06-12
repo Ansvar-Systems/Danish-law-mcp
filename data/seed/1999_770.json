@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om kommunal indkomstskat",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-10-13",
+  "in_force_date": "1999-10-21",
   "url": "https://www.retsinformation.dk/eli/lta/1999/770/xml",
-  "description": "Retsinformation source. DocumentId=AI000197; AccessionNumber=A19990077029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000197; AccessionNumber=A19990077029; Ophævet 2003-03-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:41:21.077Z",
+    "accession": "A19990077029",
+    "document_id": "AI000197",
+    "unique_document_id": "8870",
+    "upstream_status": "Historic",
+    "start_date": "1999-10-21",
+    "end_date": "2016-12-16",
+    "historic_marked": "2003-03-31",
+    "seed_status": "repealed"
+  }
 }

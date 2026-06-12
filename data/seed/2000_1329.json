@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forsikringsvirksomhed, lov om Arbejdsmarkedets Tillægspension, lov om Lønmodtagernes Dyrtidsfond, lov om sikring mod følger af arbejdsskade og lov om tilsyn med firmapensionskasser",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1329/xml",
-  "description": "Retsinformation source. DocumentId=AU000257; AccessionNumber=A20000132930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000257; AccessionNumber=A20000132930; Ophævet 2003-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:03:42.442Z",
+    "accession": "A20000132930",
+    "document_id": "AU000257",
+    "unique_document_id": "25696",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2023-01-06",
+    "historic_marked": "2003-06-10",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lodslov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-09",
+  "in_force_date": "2006-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2006/567/xml",
-  "description": "Retsinformation source. DocumentId=AG000301; AccessionNumber=A20060056730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000301; AccessionNumber=A20060056730; Ophævet 2016-04-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:29:04.369Z",
+    "accession": "A20060056730",
+    "document_id": "AG000301",
+    "unique_document_id": "6472",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-09",
+    "end_date": "2026-02-20",
+    "historic_marked": "2016-04-19",
+    "seed_status": "repealed"
+  }
 }

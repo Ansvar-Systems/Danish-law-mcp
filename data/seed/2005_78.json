@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om betingelser for ledsageordningen efter serviceloven",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-01-25",
+  "in_force_date": "2005-02-03",
   "url": "https://www.retsinformation.dk/eli/lta/2005/78/xml",
-  "description": "Retsinformation source. DocumentId=AO002520; AccessionNumber=B20050007805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002520; AccessionNumber=B20050007805; Ophævet 2006-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:33:59.064Z",
+    "accession": "B20050007805",
+    "document_id": "AO002520",
+    "unique_document_id": "20265",
+    "upstream_status": "Historic",
+    "start_date": "2005-02-03",
+    "end_date": "2022-07-08",
+    "historic_marked": "2006-06-26",
+    "seed_status": "repealed"
+  }
 }

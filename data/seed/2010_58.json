@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om medicinsk udstyr",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-14",
+  "in_force_date": "2010-01-20",
   "url": "https://www.retsinformation.dk/eli/lta/2010/58/xml",
-  "description": "Retsinformation source. DocumentId=BK001062; AccessionNumber=B20100005805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001062; AccessionNumber=B20100005805; Ophævet 2021-05-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:21:08.732Z",
+    "accession": "B20100005805",
+    "document_id": "BK001062",
+    "unique_document_id": "129622",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-20",
+    "end_date": "2022-07-12",
+    "historic_marked": "2021-05-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om rejsebureauers registrering m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1982-04-21",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1982/156/xml",
-  "description": "Retsinformation source. DocumentId=CM023387; AccessionNumber=B19820015605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023387; AccessionNumber=B19820015605; Ophævet 1997-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:15:04.227Z",
+    "accession": "B19820015605",
+    "document_id": "CM023387",
+    "unique_document_id": "64350",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1997-06-30",
+    "seed_status": "repealed"
+  }
 }

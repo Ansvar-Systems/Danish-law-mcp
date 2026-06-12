@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse fra Ministeriet for Kirke- og Undervisningsvæsenet om Retskrivningen (* 2)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1892-02-27",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1892/24/xml",
-  "description": "Retsinformation source. DocumentId=CM032082; AccessionNumber=B18920002405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032082; AccessionNumber=B18920002405; Ophævet 1997-05-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:34:49.452Z",
+    "accession": "B18920002405",
+    "document_id": "CM032082",
+    "unique_document_id": "72885",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-02-01",
+    "historic_marked": "1997-05-15",
+    "seed_status": "repealed"
+  }
 }

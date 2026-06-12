@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om regulering af fiskeriet i 2010 og visse vilkår for fiskeriet i følgende år (Reguleringsbekendtgørelsen 2010)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-09-14",
+  "in_force_date": "2010-09-16",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1071/xml",
-  "description": "Retsinformation source. DocumentId=AH003999; AccessionNumber=B20100107105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003999; AccessionNumber=B20100107105; Ophævet 2010-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "180",
@@ -19,9 +20,20 @@
       "provision_ref": "180",
       "section": "180",
       "content": "§ 180 a. Hvis et fartøj på baggrund af ommåling ophører med at være omfattet af Den Europæiske Unions regler om højst tilladte antal kW-dage, jf. kapitel 19, bortfalder retten til de kW-andele, der er knyttet til fartøjet, og kW-andelene overføres til kW-fonden. Dette gælder uanset, om kW-andelene er overdraget til et andet fartøj.",
-      "valid_from": "2010-09-14",
-      "valid_to": null
+      "valid_from": "2010-09-16",
+      "valid_to": "2010-12-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:37:46.034Z",
+    "accession": "B20100107105",
+    "document_id": "AH003999",
+    "unique_document_id": "133377",
+    "upstream_status": "Historic",
+    "start_date": "2010-09-16",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-12-16",
+    "seed_status": "repealed"
+  }
 }

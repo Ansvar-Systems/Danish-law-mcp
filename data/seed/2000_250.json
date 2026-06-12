@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om dagpenge under ferie",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-04-07",
+  "in_force_date": "2000-04-17",
   "url": "https://www.retsinformation.dk/eli/lta/2000/250/xml",
-  "description": "Retsinformation source. DocumentId=AB000495; AccessionNumber=B20000025005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000495; AccessionNumber=B20000025005; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:11:48.555Z",
+    "accession": "B20000025005",
+    "document_id": "AB000495",
+    "unique_document_id": "3223",
+    "upstream_status": "Historic",
+    "start_date": "2000-04-17",
+    "end_date": "2002-12-18",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

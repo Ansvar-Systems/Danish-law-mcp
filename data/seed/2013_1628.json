@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2013-12-26",
+  "in_force_date": "2013-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1628/xml",
   "description": "Retsinformation source. DocumentId=AK001003; AccessionNumber=A20130162830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. På visse statslige og statsanerkendte kultur­arvsinstitutioner med publikumsadgang til samlingerne kan der gennemføres visitation af personer efter bestemmelserne i denne lov. Stk. 2. Kulturministeren kan efter anmodning fra en kultur­arvs­institution bestemme, at den pågældende kulturarvsinstitution skal omfattes af stk. 1. Stk. 3. Visitation foretages efter forskrifter, der godkendes af kulturministeren.",
-      "valid_from": "2013-12-26",
+      "valid_from": "2013-12-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:31.595Z",
+    "accession": "A20130162830",
+    "document_id": "AK001003",
+    "unique_document_id": "161123",
+    "upstream_status": "Valid",
+    "start_date": "2013-12-27",
+    "end_date": "2013-12-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

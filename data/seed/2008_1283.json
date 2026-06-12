@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til børne- og ungdomsaktiviteter i landdistrikterne",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-12-15",
+  "in_force_date": "2008-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1283/xml",
-  "description": "Retsinformation source. DocumentId=AH003158; AccessionNumber=B20080128305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003158; AccessionNumber=B20080128305; Ophævet 2009-01-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5 a. Uanset §§ 4-5 kan der fra den 1. januar 2009 ikke indgives ansøgning om tilskud.",
-      "valid_from": "2008-12-15",
-      "valid_to": null
+      "valid_from": "2008-12-18",
+      "valid_to": "2009-01-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:56:24.217Z",
+    "accession": "B20080128305",
+    "document_id": "AH003158",
+    "unique_document_id": "122681",
+    "upstream_status": "Historic",
+    "start_date": "2008-12-18",
+    "end_date": "2022-04-08",
+    "historic_marked": "2009-01-26",
+    "seed_status": "repealed"
+  }
 }

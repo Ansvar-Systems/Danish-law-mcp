@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om sygdomme og infektioner hos dyr",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-03",
   "url": "https://www.retsinformation.dk/eli/lta/1999/351/xml",
-  "description": "Retsinformation source. DocumentId=AH000283; AccessionNumber=A19990035130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000283; AccessionNumber=A19990035130; Ophævet 2005-08-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:24:37.871Z",
+    "accession": "A19990035130",
+    "document_id": "AH000283",
+    "unique_document_id": "6713",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-03",
+    "end_date": "2023-07-11",
+    "historic_marked": "2005-08-05",
+    "seed_status": "repealed"
+  }
 }

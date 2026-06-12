@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-12-21",
+  "in_force_date": "2021-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2554/xml",
   "description": "Retsinformation source. DocumentId=DC000462; AccessionNumber=B20210255405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 2089 af 24. november 2021 om fund af højpatogen aviær influenza ved Rude i Slagelse Kommune ophæves.",
-      "valid_from": "2021-12-21",
+      "valid_from": "2021-12-22",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. december 2021.",
-      "valid_from": "2021-12-21",
+      "valid_from": "2021-12-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:25:04.494Z",
+    "accession": "B20210255405",
+    "document_id": "DC000462",
+    "unique_document_id": "228319",
+    "upstream_status": "Valid",
+    "start_date": "2021-12-22",
+    "end_date": "2021-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

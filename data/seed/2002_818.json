@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ansøgninger i henhold til landbrugsloven",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-02",
+  "in_force_date": "2002-10-10",
   "url": "https://www.retsinformation.dk/eli/lta/2002/818/xml",
-  "description": "Retsinformation source. DocumentId=AH001272; AccessionNumber=B20020081805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001272; AccessionNumber=B20020081805; Ophævet 2005-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:59:33.535Z",
+    "accession": "B20020081805",
+    "document_id": "AH001272",
+    "unique_document_id": "7568",
+    "upstream_status": "Historic",
+    "start_date": "2002-10-10",
+    "end_date": "2022-04-08",
+    "historic_marked": "2005-06-09",
+    "seed_status": "repealed"
+  }
 }

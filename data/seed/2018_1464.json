@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2018-12-10",
+  "in_force_date": "2018-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1464/xml",
   "description": "Retsinformation source. DocumentId=AN013497; AccessionNumber=B20180146405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 11 og 12, i lov nr. 551 af 29. maj 2018 om ændring af lov om inddrivelse af gæld til det offentlige og forskellige andre love og om ophævelse af lov om forsøg med eftergivelse af gæld til det offentlige for socialt udsatte grupper (Forenkling af regler om inddrivelse af gæld til det offentlige m.v. og forældelseshåndering m.v.) sættes i kraft.",
-      "valid_from": "2018-12-10",
+      "valid_from": "2018-12-11",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 19. december 2018.",
-      "valid_from": "2018-12-10",
+      "valid_from": "2018-12-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:41:18.905Z",
+    "accession": "B20180146405",
+    "document_id": "AN013497",
+    "unique_document_id": "202857",
+    "upstream_status": "Valid",
+    "start_date": "2018-12-11",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

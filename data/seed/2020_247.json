@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-03-19",
+  "in_force_date": "2020-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2020/247/xml",
   "description": "Retsinformation source. DocumentId=CK002411; AccessionNumber=B20200024705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1327 af 26. november 2018 om indfasning af kvælstof til akvakulturerhvervet ophæves, jf. dog § 3.",
-      "valid_from": "2020-03-19",
+      "valid_from": "2020-03-21",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 31. marts 2020.",
-      "valid_from": "2020-03-19",
+      "valid_from": "2020-03-21",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelse nr. 1327 af 26. november 2018 gælder dog fortsat for de verserende sager om miljøgodkendelse af miljø- og ressourceeffektive dambrug og visse havbrug, jf. listepunkt I 201-I205 i bekendtgørelse om godkendelse af listevirksomheder, hvor Miljøstyrelsen senest den 30. marts 2020 har meddelt tilladelse efter § 7 til brug af kvælstof i forbindelse med godkendelse af det projekt, som ligger til grund for ansøgningen. Stk. 2. Ansøgninger om tilladelse til brug af kvælstof efter bekendtgørelse nr. 1327 af 26. november 2018 om indfasning af kvælstof til akvakulturerhvervet, som ikke er færdigbehandlet den 31. marts 2020, bortfalder.",
-      "valid_from": "2020-03-19",
+      "valid_from": "2020-03-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:21:38.160Z",
+    "accession": "B20200024705",
+    "document_id": "CK002411",
+    "unique_document_id": "213401",
+    "upstream_status": "Valid",
+    "start_date": "2020-03-21",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

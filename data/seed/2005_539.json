@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om visse proceduremæssige spørgsmål i forbindelse med kommunalreformen",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-24",
+  "in_force_date": "2005-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/539/xml",
-  "description": "Retsinformation source. DocumentId=AI001929; AccessionNumber=A20050053930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001929; AccessionNumber=A20050053930; Ophævet 2025-06-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:24:17.625Z",
+    "accession": "A20050053930",
+    "document_id": "AI001929",
+    "unique_document_id": "10067",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-24",
+    "end_date": "2025-06-21",
+    "historic_marked": "2025-06-20",
+    "seed_status": "repealed"
+  }
 }

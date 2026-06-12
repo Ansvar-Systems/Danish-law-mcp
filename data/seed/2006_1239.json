@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forretningsorden for Ankestyrelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-12-05",
+  "in_force_date": "2006-12-14",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1239/xml",
-  "description": "Retsinformation source. DocumentId=AO003130; AccessionNumber=B20060123905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO003130; AccessionNumber=B20060123905; Ophævet 2009-07-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:52:26.621Z",
+    "accession": "B20060123905",
+    "document_id": "AO003130",
+    "unique_document_id": "20730",
+    "upstream_status": "Historic",
+    "start_date": "2006-12-14",
+    "end_date": "2022-07-08",
+    "historic_marked": "2009-07-07",
+    "seed_status": "repealed"
+  }
 }

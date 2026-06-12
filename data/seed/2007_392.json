@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anmeldelse af fødsler og dødsfald",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-04-26",
+  "in_force_date": "2007-05-07",
   "url": "https://www.retsinformation.dk/eli/lta/2007/392/xml",
-  "description": "Retsinformation source. DocumentId=AJ000319; AccessionNumber=B20070039205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AJ000319; AccessionNumber=B20070039205; Ophævet 2010-10-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:20:22.763Z",
+    "accession": "B20070039205",
+    "document_id": "AJ000319",
+    "unique_document_id": "11701",
+    "upstream_status": "Historic",
+    "start_date": "2007-05-07",
+    "end_date": "2014-07-02",
+    "historic_marked": "2010-10-04",
+    "seed_status": "repealed"
+  }
 }

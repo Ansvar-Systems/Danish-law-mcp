@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social service (Tilpasning af den centrale refusionsordning)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-30",
+  "in_force_date": "2020-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1060/xml",
-  "description": "Retsinformation source. DocumentId=CY000563; AccessionNumber=A20200106030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CY000563; AccessionNumber=A20200106030; Ophævet 2021-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:30:59.160Z",
+    "accession": "A20200106030",
+    "document_id": "CY000563",
+    "unique_document_id": "215603",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-30",
+    "end_date": "2022-07-08",
+    "historic_marked": "2021-07-05",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2024-06-11",
+  "in_force_date": "2024-06-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/639/xml",
   "description": "Retsinformation source. DocumentId=CQ002891; AccessionNumber=A20240063930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -313,5 +314,16 @@
       "definition": "i denne lov et andelsselskab (andelsforening) eller en forening med begrænset ansvar, hvor ingen af deltagerne hæfter personligt, uden begrænsning og solidarisk",
       "source_provision": "3"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:37.818Z",
+    "accession": "A20240063930",
+    "document_id": "CQ002891",
+    "unique_document_id": "244010",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-11",
+    "end_date": "2026-05-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

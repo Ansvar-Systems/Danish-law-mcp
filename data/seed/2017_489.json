@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om toldbehandling",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-05-16",
+  "in_force_date": "2017-05-20",
   "url": "https://www.retsinformation.dk/eli/lta/2017/489/xml",
-  "description": "Retsinformation source. DocumentId=AN012968; AccessionNumber=B20170048905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN012968; AccessionNumber=B20170048905; Ophævet 2021-06-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "122a",
@@ -19,9 +20,20 @@
       "provision_ref": "122a",
       "section": "122a",
       "content": "§ 122 a. Rejsende kan ved indrejse fra Bulgarien, Kroatien, Litauen og Ungarn afgiftsfrit medføre 300 cigaretter.",
-      "valid_from": "2017-05-16",
-      "valid_to": null
+      "valid_from": "2017-05-20",
+      "valid_to": "2021-06-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:20:31.506Z",
+    "accession": "B20170048905",
+    "document_id": "AN012968",
+    "unique_document_id": "189985",
+    "upstream_status": "Historic",
+    "start_date": "2017-05-20",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-06-01",
+    "seed_status": "repealed"
+  }
 }

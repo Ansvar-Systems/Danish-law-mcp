@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om videregivelse af oplysninger fra Lægemiddelstyrelsens Lægemiddelstatistikregister",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-01-19",
+  "in_force_date": "2000-01-27",
   "url": "https://www.retsinformation.dk/eli/lta/2000/33/xml",
-  "description": "Retsinformation source. DocumentId=AQ000216; AccessionNumber=B20000003305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000216; AccessionNumber=B20000003305; Ophævet 2011-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:15:00.240Z",
+    "accession": "B20000003305",
+    "document_id": "AQ000216",
+    "unique_document_id": "21228",
+    "upstream_status": "Historic",
+    "start_date": "2000-01-27",
+    "end_date": "2022-07-12",
+    "historic_marked": "2011-12-14",
+    "seed_status": "repealed"
+  }
 }

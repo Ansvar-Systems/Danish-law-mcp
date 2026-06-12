@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om sygehusvæsenet",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-08-16",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1995/687/xml",
-  "description": "Retsinformation source. DocumentId=CM005628; AccessionNumber=A19950068729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005628; AccessionNumber=A19950068729; Ophævet 2003-09-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:48:36.760Z",
+    "accession": "A19950068729",
+    "document_id": "CM005628",
+    "unique_document_id": "46866",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2025-10-23",
+    "historic_marked": "2003-09-08",
+    "seed_status": "repealed"
+  }
 }

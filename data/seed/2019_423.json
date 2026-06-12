@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om registrering af køretøjer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-04-08",
+  "in_force_date": "2019-04-12",
   "url": "https://www.retsinformation.dk/eli/lta/2019/423/xml",
-  "description": "Retsinformation source. DocumentId=AN013835; AccessionNumber=B20190042305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN013835; AccessionNumber=B20190042305; Ophævet 2021-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "76",
@@ -19,9 +20,20 @@
       "provision_ref": "76",
       "section": "76",
       "content": "§ 76. Køretøjer tilhørende medlemmer af det herværende diplomatiske korps, konsulære repræsentationer mv. omfattet af registreringsafgiftslovens § 2, stk. 2, forsynes med nummerplade, hvor registreringsnummeret vises på en blå baggrund.",
-      "valid_from": "2019-04-08",
-      "valid_to": null
+      "valid_from": "2019-04-12",
+      "valid_to": "2021-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:05:06.192Z",
+    "accession": "B20190042305",
+    "document_id": "AN013835",
+    "unique_document_id": "208583",
+    "upstream_status": "Historic",
+    "start_date": "2019-04-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-12-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fiskeres hviletid",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-06-21",
+  "in_force_date": "2002-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2002/516/xml",
-  "description": "Retsinformation source. DocumentId=AU000634; AccessionNumber=B20020051605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000634; AccessionNumber=B20020051605; Ophævet 2013-08-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:47:36.269Z",
+    "accession": "B20020051605",
+    "document_id": "AU000634",
+    "unique_document_id": "25945",
+    "upstream_status": "Historic",
+    "start_date": "2002-06-27",
+    "end_date": "2017-12-08",
+    "historic_marked": "2013-08-16",
+    "seed_status": "repealed"
+  }
 }

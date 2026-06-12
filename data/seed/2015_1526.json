@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om certifikater til bekræftelse af forsikring eller anden garanti til dækning af det civilretlige ansvar for forureningsskader forårsaget af bunkersolie fra skibe",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-11",
+  "in_force_date": "2015-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1526/xml",
-  "description": "Retsinformation source. DocumentId=BP001524; AccessionNumber=B20150152605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001524; AccessionNumber=B20150152605; Ophævet 2025-11-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8. Der betales et gebyr på for udstedelse af certifikat for gyldig forsikring eller garanti. Gebyret fastsættes i overensstemmelse med Finansministeriets regler om priskalkulation ved gebyrberegning og offentliggøres på Søfartsstyrelsens hjemmeside. Betalingen kan foretages elektronisk.",
-      "valid_from": "2015-12-11",
-      "valid_to": null
+      "valid_from": "2015-12-12",
+      "valid_to": "2025-11-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:43:39.266Z",
+    "accession": "B20150152605",
+    "document_id": "BP001524",
+    "unique_document_id": "176342",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-12",
+    "end_date": "2025-11-05",
+    "historic_marked": "2025-11-04",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om regulering af fiskeriet i 2007 og visse vilkår for fiskeriet i følgende år",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-05-10",
+  "in_force_date": "2007-05-17",
   "url": "https://www.retsinformation.dk/eli/lta/2007/429/xml",
-  "description": "Retsinformation source. DocumentId=AH002581; AccessionNumber=B20070042905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002581; AccessionNumber=B20070042905; Ophævet 2007-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:21:52.455Z",
+    "accession": "B20070042905",
+    "document_id": "AH002581",
+    "unique_document_id": "8684",
+    "upstream_status": "Historic",
+    "start_date": "2007-05-17",
+    "end_date": "2022-04-08",
+    "historic_marked": "2007-12-20",
+    "seed_status": "repealed"
+  }
 }

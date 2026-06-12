@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om sektorforskningsinstitutioner",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-01-18",
+  "in_force_date": "2011-01-21",
   "url": "https://www.retsinformation.dk/eli/lta/2011/34/xml",
-  "description": "Retsinformation source. DocumentId=BD000627; AccessionNumber=B20110003405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000627; AccessionNumber=B20110003405; Ophævet 2012-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov om sektorforskningsinstitutioner gælder for følgende institutioner: 1) Det Nationale Forskningscenter for Arbejdsmiljø. 2) Kennedy Centret – Nationalt forsknings- og rådgivningscenter for genetik, synshandicap og mental retardering. 3) SFI – Det Nationale Forskningscenter for Velfærd. 4) Statens Serum Institut.",
-      "valid_from": "2011-01-18",
-      "valid_to": null
+      "valid_from": "2011-01-21",
+      "valid_to": "2012-06-28"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2011. Stk. 2. Bekendtgørelse nr. 2 af 3. januar 2005 om sektorforskningsinstitutioner og bekendtgørelse nr. 1477 af 14. december 2005 af vedtægt for Danmarks Miljøundersøgelser ophæves.",
-      "valid_from": "2011-01-18",
-      "valid_to": null
+      "valid_from": "2011-01-21",
+      "valid_to": "2012-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:03:20.547Z",
+    "accession": "B20110003405",
+    "document_id": "BD000627",
+    "unique_document_id": "135420",
+    "upstream_status": "Historic",
+    "start_date": "2011-01-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-06-28",
+    "seed_status": "repealed"
+  }
 }

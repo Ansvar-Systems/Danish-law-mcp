@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om beregning af satsreguleringsprocenten m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-15",
+  "in_force_date": "2001-08-23",
   "url": "https://www.retsinformation.dk/eli/lta/2001/728/xml",
-  "description": "Retsinformation source. DocumentId=AE000262; AccessionNumber=B20010072805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000262; AccessionNumber=B20010072805; Ophævet 2002-07-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:11:37.327Z",
+    "accession": "B20010072805",
+    "document_id": "AE000262",
+    "unique_document_id": "5205",
+    "upstream_status": "Historic",
+    "start_date": "2001-08-23",
+    "end_date": "2003-08-21",
+    "historic_marked": "2002-07-22",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om erhvervsuddannelser (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-04-05",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/211/xml",
-  "description": "Retsinformation source. DocumentId=CM034064; AccessionNumber=A19890021130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034064; AccessionNumber=A19890021130; Ophævet 1990-07-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:32:57.927Z",
+    "accession": "A19890021130",
+    "document_id": "CM034064",
+    "unique_document_id": "74859",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1990-07-02",
+    "seed_status": "repealed"
+  }
 }

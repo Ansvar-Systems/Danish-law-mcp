@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om udenretlig vedtagelse af konfiskation",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-19",
+  "in_force_date": "2000-10-02",
   "url": "https://www.retsinformation.dk/eli/lta/2000/887/xml",
-  "description": "Retsinformation source. DocumentId=AA000909; AccessionNumber=B20000088705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA000909; AccessionNumber=B20000088705; Ophævet 2010-10-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:37:26.702Z",
+    "accession": "B20000088705",
+    "document_id": "AA000909",
+    "unique_document_id": "717",
+    "upstream_status": "Historic",
+    "start_date": "2000-10-02",
+    "end_date": "2010-10-19",
+    "historic_marked": "2010-10-18",
+    "seed_status": "repealed"
+  }
 }

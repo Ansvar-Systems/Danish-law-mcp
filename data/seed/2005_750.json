@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om mælkeprodukter m.v.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-07-25",
+  "in_force_date": "2005-08-01",
   "url": "https://www.retsinformation.dk/eli/lta/2005/750/xml",
-  "description": "Retsinformation source. DocumentId=BG000220; AccessionNumber=B20050075005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000220; AccessionNumber=B20050075005; Ophævet 2013-01-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:32:48.702Z",
+    "accession": "B20050075005",
+    "document_id": "BG000220",
+    "unique_document_id": "31507",
+    "upstream_status": "Historic",
+    "start_date": "2005-08-01",
+    "end_date": "2022-04-09",
+    "historic_marked": "2013-01-08",
+    "seed_status": "repealed"
+  }
 }

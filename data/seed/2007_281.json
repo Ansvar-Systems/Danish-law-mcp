@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om betalingsregler for spildevandsanlæg m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-03-22",
+  "in_force_date": "2007-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2007/281/xml",
-  "description": "Retsinformation source. DocumentId=AL001596; AccessionNumber=A20070028129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001596; AccessionNumber=A20070028129; Ophævet 2010-06-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:15:55.690Z",
+    "accession": "A20070028129",
+    "document_id": "AL001596",
+    "unique_document_id": "13092",
+    "upstream_status": "Historic",
+    "start_date": "2007-03-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2010-06-11",
+    "seed_status": "repealed"
+  }
 }

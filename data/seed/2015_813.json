@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om folkeskolen (Indførelse af obligatorisk lektiehjælp og faglig fordybelse)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-07-02",
+  "in_force_date": "2015-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2015/813/xml",
-  "description": "Retsinformation source. DocumentId=CP000002; AccessionNumber=B20150081305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CP000002; AccessionNumber=B20150081305; Ophævet 2015-12-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 1641 af 26. december 2013 om ændring af lov om folkeskolen (Indførelse af obligatorisk lektiehjælp og faglig fordybelse) sættes i kraft.",
-      "valid_from": "2015-07-02",
-      "valid_to": null
+      "valid_from": "2015-07-03",
+      "valid_to": "2015-12-14"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2015.",
-      "valid_from": "2015-07-02",
-      "valid_to": null
+      "valid_from": "2015-07-03",
+      "valid_to": "2015-12-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:24:22.299Z",
+    "accession": "B20150081305",
+    "document_id": "CP000002",
+    "unique_document_id": "173137",
+    "upstream_status": "Historic",
+    "start_date": "2015-07-03",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-12-14",
+    "seed_status": "repealed"
+  }
 }

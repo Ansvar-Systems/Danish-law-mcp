@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 2 i lov om ændring af færdselsloven og lov om fragtaftaler ved international vejtransport (Indførelse af gebyr i forbindelse med chaufføruddannelsen inden for vejtransport af farligt gods og indførelse af mulighed for anvendelse af elektroniske fragtbreve m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-08-08",
+  "in_force_date": "2013-08-09",
   "url": "https://www.retsinformation.dk/eli/lta/2013/989/xml",
-  "description": "Retsinformation source. DocumentId=AA007261; AccessionNumber=B20130098905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007261; AccessionNumber=B20130098905; Ophævet 2015-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 2 i lov nr. 1246 af 18. december 2012 om ændring af færdselsloven og lov om fragtaftaler ved international vejtransport (Indførelse af gebyr i forbindelse med chaufføruddannelsen inden for vejtransport af farligt gods og indførelse af mulighed for anvendelse af elektroniske fragtbreve m.v.) sættes i kraft.",
-      "valid_from": "2013-08-08",
-      "valid_to": null
+      "valid_from": "2013-08-09",
+      "valid_to": "2015-09-23"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. september 2013.",
-      "valid_from": "2013-08-08",
-      "valid_to": null
+      "valid_from": "2013-08-09",
+      "valid_to": "2015-09-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:26:35.671Z",
+    "accession": "B20130098905",
+    "document_id": "AA007261",
+    "unique_document_id": "158026",
+    "upstream_status": "Historic",
+    "start_date": "2013-08-09",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-09-23",
+    "seed_status": "repealed"
+  }
 }

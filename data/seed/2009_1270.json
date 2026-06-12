@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om miljø og genteknologi\\n(Beredskabsplaner og aktindsigt i visse oplysninger)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-16",
+  "in_force_date": "2009-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1270/xml",
-  "description": "Retsinformation source. DocumentId=AL002094; AccessionNumber=A20090127030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002094; AccessionNumber=A20090127030; Ophævet 2010-07-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -20,8 +21,19 @@
       "section": "17",
       "content": "§ 17 a. De oplysninger vedrørende indesluttet anvendelse af genetisk modificerede mikroorganismer, der er omfattet af artikel 18, stk. 2, jf. stk. 4, i Europa-Parlamentets og Rådets direktiv 2009/41/EF af 6. maj 2009 om indesluttet anvendelse af genetisk modificerede mikroorganismer, skal altid udleveres, hvis der anmodes om aktindsigt i sådanne oplysninger. Stk. 2. De oplysninger vedrørende udsætning i miljøet af genetisk modificerede organismer, der er omfattet af artikel 25, stk. 4, jf. stk. 5, i Europa-Parlamentets og Rådets direktiv 2001/18/EF af 12. marts 2001 om udsætning i miljøet af genetisk modificerede organismer og om ophævelse af Rådets direktiv 90/220/EØF, skal altid udleveres, hvis der anmodes om aktindsigt i sådanne oplysninger.",
       "valid_from": "2009-12-16",
-      "valid_to": null
+      "valid_to": "2010-07-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:48:35.084Z",
+    "accession": "A20090127030",
+    "document_id": "AL002094",
+    "unique_document_id": "128869",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-16",
+    "end_date": "2022-04-09",
+    "historic_marked": "2010-07-07",
+    "seed_status": "repealed"
+  }
 }

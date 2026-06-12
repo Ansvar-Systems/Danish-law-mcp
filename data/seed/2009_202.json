@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om gennemførelse af Kommissionens beslutning af 20. december 2007 om en teknisk specifikation for interoperabilitet for delsystemet »infrastruktur« i det transeuropæiske jernbanesystem for højhastighedstog",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-03-11",
+  "in_force_date": "2009-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2009/202/xml",
-  "description": "Retsinformation source. DocumentId=BL000162; AccessionNumber=B20090020205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000162; AccessionNumber=B20090020205; Ophævet 2015-07-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen gennemfører Kommissionens beslutning af 20. december 2007 om en teknisk specifikation for interoperabilitet for delsystemet »infrastruktur« i det transeuropæiske jernbanesystem for højhastighedstog. Stk. 2. Kommissionens beslutning med tilhørende bilag, Den Tekniske Specifikation for Interoperabilitet, Delsystemet »Infrastruktur«, er vedlagt som bilag til bekendtgørelsen.",
-      "valid_from": "2009-03-11",
-      "valid_to": null
+      "valid_from": "2009-03-19",
+      "valid_to": "2015-07-13"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 20. marts 2009. Stk. 2. Bestemmelser om gennemførelse af tekniske specifikationer for interoperabilitet (TSI) for delsystemet »infrastruktur« i det transeuropæiske jernbanesystem for højhastighedstog, BJ 3-01, ophæves.",
-      "valid_from": "2009-03-11",
-      "valid_to": null
+      "valid_from": "2009-03-19",
+      "valid_to": "2015-07-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:02:19.764Z",
+    "accession": "B20090020205",
+    "document_id": "BL000162",
+    "unique_document_id": "123723",
+    "upstream_status": "Historic",
+    "start_date": "2009-03-19",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-07-13",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-10-27",
+  "in_force_date": "2017-11-02",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1163/xml",
   "description": "Retsinformation source. DocumentId=CQ000280; AccessionNumber=B20170116305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 759 af 23. juni 2010 om gruppefritagelse for visse kategorier af aftaler, vedtagelser og samordnet praksis på forsikringsområdet ophæves.",
-      "valid_from": "2017-10-27",
+      "valid_from": "2017-11-02",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 3. november 2017",
-      "valid_from": "2017-10-27",
+      "valid_from": "2017-11-02",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:43:21.934Z",
+    "accession": "B20170116305",
+    "document_id": "CQ000280",
+    "unique_document_id": "194180",
+    "upstream_status": "Valid",
+    "start_date": "2017-11-02",
+    "end_date": "2017-11-02",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

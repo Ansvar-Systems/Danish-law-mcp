@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om finansiering af driften af Revisortilsynet",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-11-24",
+  "in_force_date": "2009-11-26",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1086/xml",
-  "description": "Retsinformation source. DocumentId=AU003794; AccessionNumber=B20090108605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003794; AccessionNumber=B20090108605; Ophævet 2011-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Til finansiering af driften af Revisortilsynet opkræver Erhvervs- og Selskabsstyrelsen et gebyr på kr. 200 fra alle revisorer, der pr. 1. januar 2009 var beskikket og tilknyttet en revisionsvirksomhed. Gebyret dækker finansiering for 2009.",
-      "valid_from": "2009-11-24",
-      "valid_to": null
+      "valid_from": "2009-11-26",
+      "valid_to": "2011-09-29"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 3. december 2009.",
-      "valid_from": "2009-11-24",
-      "valid_to": null
+      "valid_from": "2009-11-26",
+      "valid_to": "2011-09-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:41:04.137Z",
+    "accession": "B20090108605",
+    "document_id": "AU003794",
+    "unique_document_id": "128534",
+    "upstream_status": "Historic",
+    "start_date": "2009-11-26",
+    "end_date": "2017-12-08",
+    "historic_marked": "2011-09-29",
+    "seed_status": "repealed"
+  }
 }

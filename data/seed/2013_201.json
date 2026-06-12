@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Medicinpriser og leveringsforhold",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-02-27",
+  "in_force_date": "2013-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2013/201/xml",
-  "description": "Retsinformation source. DocumentId=BK001366; AccessionNumber=B20130020105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001366; AccessionNumber=B20130020105; Ophævet 2013-04-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8. Forud for offentliggørelsen af Medicinpriser, jf. § 7, stk. 2, stilles følgende oplysninger elektronisk til rådighed: 1) 11 dage før offentliggørelse: Foreløbige oplysninger om priser på nye pakninger og sortimentsændringer. 2) 10 dage før offentliggørelse: De i § 5, stk. 1, nr. 2-10, nævnte oplysninger. Oplysningerne er på dette tidspunkt foreløbige. 3) Kl. 18.00 den sidste hverdag, ekskl. lørdag, før den mandag, hvorfra Medicinpriser er gældende: De i § 5, stk. 1, nr. 1-10, nævnte oplysninger. Stk. 2. Oplysningerne i stk. 1 er tilgængelige for alle abonnenter på Medicinpriser. Enhver kan abonnere på Medicinpriser.",
-      "valid_from": "2013-02-27",
-      "valid_to": null
+      "valid_from": "2013-02-28",
+      "valid_to": "2013-04-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:54:54.980Z",
+    "accession": "B20130020105",
+    "document_id": "BK001366",
+    "unique_document_id": "145540",
+    "upstream_status": "Historic",
+    "start_date": "2013-02-28",
+    "end_date": "2022-07-12",
+    "historic_marked": "2013-04-24",
+    "seed_status": "repealed"
+  }
 }

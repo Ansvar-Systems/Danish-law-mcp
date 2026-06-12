@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fyrværkeri",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-29",
+  "in_force_date": "2001-04-05",
   "url": "https://www.retsinformation.dk/eli/lta/2001/227/xml",
-  "description": "Retsinformation source. DocumentId=AI000480; AccessionNumber=B20010022705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000480; AccessionNumber=B20010022705; Ophævet 2005-11-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:51:31.128Z",
+    "accession": "B20010022705",
+    "document_id": "AI000480",
+    "unique_document_id": "9029",
+    "upstream_status": "Historic",
+    "start_date": "2001-04-05",
+    "end_date": "2017-12-09",
+    "historic_marked": "2005-11-10",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-06-12",
+  "in_force_date": "2024-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2024/699/xml",
   "description": "Retsinformation source. DocumentId=BE009948; AccessionNumber=B20240069905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -101,5 +102,16 @@
       "definition": "i denne bekendtgørelse erhvervssygdomme efter § 7 i lov om arbejdsskadesikring i Grønland",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:15:00.609Z",
+    "accession": "B20240069905",
+    "document_id": "BE009948",
+    "unique_document_id": "244103",
+    "upstream_status": "Valid",
+    "start_date": "2024-06-12",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

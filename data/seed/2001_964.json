@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om udstationering af lønmodtagere",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-11-02",
+  "in_force_date": "2001-11-15",
   "url": "https://www.retsinformation.dk/eli/lta/2001/964/xml",
-  "description": "Retsinformation source. DocumentId=AB001220; AccessionNumber=A20010096429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001220; AccessionNumber=A20010096429; Ophævet 2004-07-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:20:59.386Z",
+    "accession": "A20010096429",
+    "document_id": "AB001220",
+    "unique_document_id": "3823",
+    "upstream_status": "Historic",
+    "start_date": "2001-11-15",
+    "end_date": "2006-08-24",
+    "historic_marked": "2004-07-15",
+    "seed_status": "repealed"
+  }
 }

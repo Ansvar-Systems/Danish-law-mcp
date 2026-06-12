@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-09-01",
+  "in_force_date": "2016-09-29",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1192/xml",
   "description": "Retsinformation source. DocumentId=AK001201; AccessionNumber=B20160119205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 30, stk. 1 og 2, i lov om ophavsret finder tilsvarende anvendelse på aftaler, der er indgået af andre radio- og fjernsynsforetagender end DR, TV 2 DANMARK A/S og de regionale TV 2-virksomheder.",
-      "valid_from": "2016-09-01",
+      "valid_from": "2016-09-29",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. oktober 2016.",
-      "valid_from": "2016-09-01",
+      "valid_from": "2016-09-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:39:44.437Z",
+    "accession": "B20160119205",
+    "document_id": "AK001201",
+    "unique_document_id": "183986",
+    "upstream_status": "Valid",
+    "start_date": "2016-09-29",
+    "end_date": "2023-08-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

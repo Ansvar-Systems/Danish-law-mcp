@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om afgift af indvejet mælk",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-09-30",
+  "in_force_date": "2003-10-09",
   "url": "https://www.retsinformation.dk/eli/lta/2003/813/xml",
-  "description": "Retsinformation source. DocumentId=AH001599; AccessionNumber=B20030081305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001599; AccessionNumber=B20030081305; Ophævet 2010-01-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:45:22.400Z",
+    "accession": "B20030081305",
+    "document_id": "AH001599",
+    "unique_document_id": "7847",
+    "upstream_status": "Historic",
+    "start_date": "2003-10-09",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-01-05",
+    "seed_status": "repealed"
+  }
 }

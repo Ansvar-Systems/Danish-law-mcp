@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af udlændingeloven (Styrkelse af praktikantordningens uddannelsesmæssige sigte på landbrugs-, jordbrugs-, veterinær-, skovbrugs- og gartneriområdet)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-06-21",
+  "in_force_date": "2022-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2022/917/xml",
-  "description": "Retsinformation source. DocumentId=CS001290; AccessionNumber=A20220091730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS001290; AccessionNumber=A20220091730; Ophævet 2022-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "46j",
@@ -20,8 +21,19 @@
       "section": "46j",
       "content": "§ 46 j. En tvistighed mellem en udlænding, som har opholds- og arbejdstilladelse efter § 9 k, stk. 1, 1. pkt., med henblik på at være praktikant inden for landbrugs-, jordbrugs-, veterinær-, skovbrugs- eller gartneriområdet, og praktikstedet kan alene indbringes for det faglige udvalg for Jordbrugets Uddannelser, der skal søge at tilvejebringe forlig. Stk. 2. Hvis der ikke kan opnås forlig efter stk. 1, kan tvistigheden indbringes for Tvistighedsnævnet, jf. § 64 i lov om erhvervsuddannelser. § 63, stk. 3, og § 65 i lov om erhvervsuddannelser finder tilsvarende anvendelse.",
       "valid_from": "2022-06-21",
-      "valid_to": null
+      "valid_to": "2022-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:58:19.047Z",
+    "accession": "A20220091730",
+    "document_id": "CS001290",
+    "unique_document_id": "231741",
+    "upstream_status": "Historic",
+    "start_date": "2022-06-21",
+    "end_date": "2023-01-20",
+    "historic_marked": "2022-08-30",
+    "seed_status": "repealed"
+  }
 }

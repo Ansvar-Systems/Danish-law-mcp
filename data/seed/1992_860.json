@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om særlig indkomstskat m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-10-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/860/xml",
-  "description": "Retsinformation source. DocumentId=CM022226; AccessionNumber=A19920086029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022226; AccessionNumber=A19920086029; Ophævet 1993-08-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:46:43.249Z",
+    "accession": "A19920086029",
+    "document_id": "CM022226",
+    "unique_document_id": "63206",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2004-06-17",
+    "historic_marked": "1993-08-12",
+    "seed_status": "repealed"
+  }
 }

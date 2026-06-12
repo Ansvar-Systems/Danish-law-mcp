@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-09-27",
+  "in_force_date": "2023-09-28",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1202/xml",
   "description": "Retsinformation source. DocumentId=DH001496; AccessionNumber=B20230120205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse på områder med fysisk sammenhængende matrikler, som i 2010 var ejet af almene boligafdelinger, og som havde mindst 1.000 beboere, jf. § 61 a, stk. 3, i almenboligloven.",
-      "valid_from": "2023-09-27",
+      "valid_from": "2023-09-28",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Social- og Boligstyrelsen kan godkende opdeling af de i § 1 nævnte boligområder. Social- og Boligstyrelsen kan endvidere godkende udvidelse af boligområderne med matrikler, som er fysisk sammenhængende med de matrikler, som indgår i boligområderne. Stk. 2. De ændringer, som er gennemført af boligområderne i medfør af stk. 1, anvendes første gang året efter til at fastsætte, hvilke boligområder der opfylder kriterierne i almenboliglovens § 61 a, stk. 1, 2 og 4, og § 61 b. Stk. 3. Kommunalbestyrelsen skal meddele Social- og Boligstyrelsen, når den ydre matrikelafgrænsning af boligområder omfattet af § 1 ændres som følge af ændring af matrikelnummerering. Meddelelsen skal gives til Social- og Boligstyrelsen inden udgangen af december i det år, hvor ændringen er sket.",
-      "valid_from": "2023-09-27",
+      "valid_from": "2023-09-28",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Social- og Boligstyrelsen offentliggør den 1. december hvert år på sin hjemmeside en opdateret oversigt over matrikelafgrænsningen for de i § 1 nævnte boligområder. Stk. 2. Social- og Boligstyrelsen offentliggør også den 1. december hvert år, hvilke boligområder der opfylder kriterierne i almenboliglovens § 61 a, stk. 1, 2 og 4, og § 61 b.",
-      "valid_from": "2023-09-27",
+      "valid_from": "2023-09-28",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. oktober 2023. Stk. 2. Bekendtgørelse nr. 1365 af 29. november 2018 om afgrænsning af boligområder efter § 61 a, stk. 3, i lov om almene boliger m.v. ophæves.",
-      "valid_from": "2023-09-27",
+      "valid_from": "2023-09-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:49.825Z",
+    "accession": "B20230120205",
+    "document_id": "DH001496",
+    "unique_document_id": "239072",
+    "upstream_status": "Valid",
+    "start_date": "2023-09-28",
+    "end_date": "2026-01-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

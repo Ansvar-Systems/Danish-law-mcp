@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2011-04-05",
+  "in_force_date": "2011-04-13",
   "url": "https://www.retsinformation.dk/eli/lta/2011/299/xml",
   "description": "Retsinformation source. DocumentId=AP000250; AccessionNumber=B20110029905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for lov om spillekasinoer, jf. lovbekendtgørelse nr. 861 af 10. oktober 1994 med senere ændringer og bekendtgørelse nr. 496 af 13. juni 1994 om spillekasinoer med senere ændringer, overføres pr. 30. marts 2011 fra justitsministeren til skatteministeren.",
-      "valid_from": "2011-04-05",
+      "valid_from": "2011-04-13",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Ressortansvaret for lov om offentligt hasardspil i turneringsform, jf. lov nr. 1504 af 27. december 2009 med senere ændringer og bekendtgørelse nr. 1540 af 27. december 2009 om offentligt hasardspil i turneringsform, overføres pr. 30. marts 2011 fra justitsministeren til skatteministeren.",
-      "valid_from": "2011-04-05",
+      "valid_from": "2011-04-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:01:38.375Z",
+    "accession": "B20110029905",
+    "document_id": "AP000250",
+    "unique_document_id": "136643",
+    "upstream_status": "Valid",
+    "start_date": "2011-04-13",
+    "end_date": "2011-04-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-05-16",
+  "in_force_date": "2025-05-16",
   "url": "https://www.retsinformation.dk/eli/lta/2025/488/xml",
   "description": "Retsinformation source. DocumentId=CQ003177; AccessionNumber=B20250048805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -171,5 +172,16 @@
       "definition": "et skib, der anvendes til fangst af fisk, hvaler, sæler, hvalrosser eller andre levende ressourcer fra havet, og hvis nationalitetsbevis er forsynet med havnekendingsnummer",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:14:01.558Z",
+    "accession": "B20250048805",
+    "document_id": "CQ003177",
+    "unique_document_id": "248950",
+    "upstream_status": "Valid",
+    "start_date": "2025-05-16",
+    "end_date": "2025-05-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

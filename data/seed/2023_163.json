@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kapacitetsfastsættelse, zoner og profilgymnasier for de gymnasiale uddannelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-02-09",
+  "in_force_date": "2023-02-13",
   "url": "https://www.retsinformation.dk/eli/lta/2023/163/xml",
-  "description": "Retsinformation source. DocumentId=DA001074; AccessionNumber=B20230016305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA001074; AccessionNumber=B20230016305; Ophævet 2024-02-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12a",
@@ -19,9 +20,20 @@
       "provision_ref": "12a",
       "section": "12a",
       "content": "§ 12 a. For fordeling af ansøgere til skoleåret 2023/24 finder § 10 ikke anvendelse.",
-      "valid_from": "2023-02-09",
-      "valid_to": null
+      "valid_from": "2023-02-13",
+      "valid_to": "2024-02-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:26:59.624Z",
+    "accession": "B20230016305",
+    "document_id": "DA001074",
+    "unique_document_id": "234764",
+    "upstream_status": "Historic",
+    "start_date": "2023-02-13",
+    "end_date": "2024-02-23",
+    "historic_marked": "2024-02-22",
+    "seed_status": "repealed"
+  }
 }

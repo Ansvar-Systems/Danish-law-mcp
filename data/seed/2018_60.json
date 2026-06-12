@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2018-01-30",
+  "in_force_date": "2018-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2018/60/xml",
   "description": "Retsinformation source. DocumentId=BE007518; AccessionNumber=A20180006030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -717,5 +718,16 @@
       "definition": "for au pair-personer de lommepenge, som au pair-personen har krav på fra værtsfamilien, og værdien af kost",
       "source_provision": "9:43"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:17.295Z",
+    "accession": "A20180006030",
+    "document_id": "BE007518",
+    "unique_document_id": "198312",
+    "upstream_status": "Valid",
+    "start_date": "2018-01-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

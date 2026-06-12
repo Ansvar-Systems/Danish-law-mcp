@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ferskvandsdambrug",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-10-31",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/900/xml",
-  "description": "Retsinformation source. DocumentId=CM007582; AccessionNumber=B19940090005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM007582; AccessionNumber=B19940090005; Ophævet 1998-07-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:14:33.082Z",
+    "accession": "B19940090005",
+    "document_id": "CM007582",
+    "unique_document_id": "48779",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "1998-07-23",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tømning m.v. af spånsiloer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-01-22",
+  "in_force_date": "2001-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/2001/35/xml",
-  "description": "Retsinformation source. DocumentId=AB000895; AccessionNumber=B20010003505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000895; AccessionNumber=B20010003505; Ophævet 2003-07-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:56:27.893Z",
+    "accession": "B20010003505",
+    "document_id": "AB000895",
+    "unique_document_id": "3541",
+    "upstream_status": "Historic",
+    "start_date": "2001-01-29",
+    "end_date": "2006-01-19",
+    "historic_marked": "2003-07-07",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om beskyttelse mod elektromagnetiske forstyrrelser",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-04-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/216/xml",
-  "description": "Retsinformation source. DocumentId=CM003963; AccessionNumber=A19910021630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM003963; AccessionNumber=A19910021630; Ophævet 1995-03-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:39:09.121Z",
+    "accession": "A19910021630",
+    "document_id": "CM003963",
+    "unique_document_id": "45381",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-07",
+    "historic_marked": "1995-03-23",
+    "seed_status": "repealed"
+  }
 }

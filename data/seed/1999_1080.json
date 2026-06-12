@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Lønmodtagernes Garantifond",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-29",
+  "in_force_date": "1999-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1080/xml",
-  "description": "Retsinformation source. DocumentId=AB000450; AccessionNumber=A19990108030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000450; AccessionNumber=A19990108030; Ophævet 2004-10-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:10:49.722Z",
+    "accession": "A19990108030",
+    "document_id": "AB000450",
+    "unique_document_id": "3191",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-29",
+    "end_date": "2005-11-07",
+    "historic_marked": "2004-10-18",
+    "seed_status": "repealed"
+  }
 }

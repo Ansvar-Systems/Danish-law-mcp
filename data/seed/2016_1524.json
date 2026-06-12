@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-12-08",
+  "in_force_date": "2016-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1524/xml",
   "description": "Retsinformation source. DocumentId=CQ000025; AccessionNumber=B20160152405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Skibets reder skal sikre, at der en gang årligt foretages en indberetning af personer, der er om bord på skibe registreret i Dansk Internationalt Skibsregister. Stk. 2. Indberetningen skal indeholde de oplysninger, som fremgår af de i bilaget optrykte besætningsskemaer.",
-      "valid_from": "2016-12-08",
+      "valid_from": "2016-12-13",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Indberetningen skal sendes til Danmarks Rederiforening en gang årligt på et af Danmarks Rederiforening fastsat tidspunkt. Stk. 2. Ved ændring i besætningen på den pågældende dato fastsætter rederiet et andet indberetningstidspunkt, så der opnås en retvisende opgørelse over skibenes bemanding.",
-      "valid_from": "2016-12-08",
+      "valid_from": "2016-12-13",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Overtrædelse af § 1 straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2016-12-08",
+      "valid_from": "2016-12-13",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2017.",
-      "valid_from": "2016-12-08",
+      "valid_from": "2016-12-13",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen gælder ikke for Grønland og Færøerne.",
-      "valid_from": "2016-12-08",
+      "valid_from": "2016-12-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:53:16.130Z",
+    "accession": "B20160152405",
+    "document_id": "CQ000025",
+    "unique_document_id": "185404",
+    "upstream_status": "Valid",
+    "start_date": "2016-12-13",
+    "end_date": "2024-04-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om opkrævning af skatter og afgifter m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-04-28",
+  "in_force_date": "2003-05-05",
   "url": "https://www.retsinformation.dk/eli/lta/2003/289/xml",
-  "description": "Retsinformation source. DocumentId=AN002948; AccessionNumber=A20030028929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002948; AccessionNumber=A20030028929; Ophævet 2010-12-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:24:12.173Z",
+    "accession": "A20030028929",
+    "document_id": "AN002948",
+    "unique_document_id": "15420",
+    "upstream_status": "Historic",
+    "start_date": "2003-05-05",
+    "end_date": "2026-04-10",
+    "historic_marked": "2010-12-15",
+    "seed_status": "repealed"
+  }
 }

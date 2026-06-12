@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om veterinærkontrol ved ind- og udførsel af avlsmateriale og animalske non-food produkter m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-09-18",
+  "in_force_date": "2008-09-20",
   "url": "https://www.retsinformation.dk/eli/lta/2008/925/xml",
-  "description": "Retsinformation source. DocumentId=AH003056; AccessionNumber=B20080092505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003056; AccessionNumber=B20080092505; Ophævet 2025-10-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Modtagevirksomheden skal på anmodning underrette fødevareregionen om modtagelse eller forventet modtagelse af partier af avlsmateriale eller animalske non-food produkter m.v. efter fødevareregionens specifikationer.",
-      "valid_from": "2008-09-18",
-      "valid_to": null
+      "valid_from": "2008-09-20",
+      "valid_to": "2025-10-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:34:28.624Z",
+    "accession": "B20080092505",
+    "document_id": "AH003056",
+    "unique_document_id": "121360",
+    "upstream_status": "Historic",
+    "start_date": "2008-09-20",
+    "end_date": "2025-10-28",
+    "historic_marked": "2025-10-27",
+    "seed_status": "repealed"
+  }
 }

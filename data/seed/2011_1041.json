@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om stærkstrømsbekendtgørelsen, afsnit 6C, særlige krav til anvendelse af stikpropper og stikkontakter i installationer",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-11-10",
+  "in_force_date": "2011-11-12",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1041/xml",
-  "description": "Retsinformation source. DocumentId=BP000030; AccessionNumber=B20110104105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000030; AccessionNumber=B20110104105; Ophævet 2019-07-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Stærkstrømsbekendtgørelsen afsnit 6C og dennes bilag Y, affattes som bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2011-11-10",
-      "valid_to": null
+      "valid_from": "2011-11-12",
+      "valid_to": "2019-07-02"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. november 2011. Stk. 2. Følgende bekendtgørelser ophæves: 1) bekendtgørelse nr. 693 af 27. juni 2008 om ændring af stærkstrømsbekendtgørelsen, afsnit 6, elektriske installationer, og 2) bekendtgørelse nr. 694 af 27. juni 2008 om ændring af stærkstrømsbekendtgørelsen.",
-      "valid_from": "2011-11-10",
-      "valid_to": null
+      "valid_from": "2011-11-12",
+      "valid_to": "2019-07-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:39:51.894Z",
+    "accession": "B20110104105",
+    "document_id": "BP000030",
+    "unique_document_id": "139163",
+    "upstream_status": "Historic",
+    "start_date": "2011-11-12",
+    "end_date": "2019-07-03",
+    "historic_marked": "2019-07-02",
+    "seed_status": "repealed"
+  }
 }

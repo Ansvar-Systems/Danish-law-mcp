@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godkendelse og syn af køretøjer",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-29",
+  "in_force_date": "2005-01-12",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1539/xml",
-  "description": "Retsinformation source. DocumentId=AR000919; AccessionNumber=B20040153905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000919; AccessionNumber=B20040153905; Ophævet 2012-06-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:14:37.145Z",
+    "accession": "B20040153905",
+    "document_id": "AR000919",
+    "unique_document_id": "22371",
+    "upstream_status": "Historic",
+    "start_date": "2005-01-12",
+    "end_date": "2022-07-07",
+    "historic_marked": "2012-06-04",
+    "seed_status": "repealed"
+  }
 }

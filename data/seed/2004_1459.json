@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Højteknologifonden",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-22",
+  "in_force_date": "2004-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1459/xml",
-  "description": "Retsinformation source. DocumentId=BD000198; AccessionNumber=A20040145930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000198; AccessionNumber=A20040145930; Ophævet 2008-08-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:11:24.084Z",
+    "accession": "A20040145930",
+    "document_id": "BD000198",
+    "unique_document_id": "29224",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-26",
+    "end_date": "2014-07-02",
+    "historic_marked": "2008-08-15",
+    "seed_status": "repealed"
+  }
 }

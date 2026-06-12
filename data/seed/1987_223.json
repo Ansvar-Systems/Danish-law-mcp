@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om ægteskabs indgåelse og opløsning (Skilsmisseret efter vold)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-04-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/223/xml",
-  "description": "Retsinformation source. DocumentId=CM018296; AccessionNumber=A19870022330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018296; AccessionNumber=A19870022330; Ophævet 1990-05-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:32:54.112Z",
+    "accession": "A19870022330",
+    "document_id": "CM018296",
+    "unique_document_id": "59343",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-07-08",
+    "historic_marked": "1990-05-30",
+    "seed_status": "repealed"
+  }
 }

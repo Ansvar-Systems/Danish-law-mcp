@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om lokale totalisatorspil",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-01-16",
+  "in_force_date": "2006-01-26",
   "url": "https://www.retsinformation.dk/eli/lta/2006/22/xml",
-  "description": "Retsinformation source. DocumentId=AN005029; AccessionNumber=A20060002229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005029; AccessionNumber=A20060002229; Ophævet 2013-02-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:15:07.955Z",
+    "accession": "A20060002229",
+    "document_id": "AN005029",
+    "unique_document_id": "17128",
+    "upstream_status": "Historic",
+    "start_date": "2006-01-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-02-19",
+    "seed_status": "repealed"
+  }
 }

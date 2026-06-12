@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2024-12-10",
+  "in_force_date": "2025-01-03",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1777/xml",
   "description": "Retsinformation source. DocumentId=CQ003011; AccessionNumber=B20240177705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Værdipapirhandleren skal have etableret forsvarlige sikkerhedsmekanismer med henblik på at garantere sikring og autentificering af virkemidlerne til overførsel af information, minimere risikoen for dataforvanskning og uautoriseret adgang og forhindre lækage af oplysninger, så datasikkerheden garanteres til enhver tid i overensstemmelse med kravene i Europa-Parlamentets og Rådets forordning (EU) om digital operationel modstandsdygtighed i den finansielle sektor.",
-      "valid_from": "2024-12-10",
+      "valid_from": "2025-01-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:53:57.435Z",
+    "accession": "B20240177705",
+    "document_id": "CQ003011",
+    "unique_document_id": "246469",
+    "upstream_status": "Valid",
+    "start_date": "2025-01-03",
+    "end_date": "2025-01-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

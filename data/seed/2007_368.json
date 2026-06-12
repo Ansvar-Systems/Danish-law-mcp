@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om vejnavne og adresser",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-04-20",
+  "in_force_date": "2007-04-26",
   "url": "https://www.retsinformation.dk/eli/lta/2007/368/xml",
-  "description": "Retsinformation source. DocumentId=AU002834; AccessionNumber=B20070036805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002834; AccessionNumber=B20070036805; Ophævet 2014-05-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:19:24.178Z",
+    "accession": "B20070036805",
+    "document_id": "AU002834",
+    "unique_document_id": "27554",
+    "upstream_status": "Historic",
+    "start_date": "2007-04-26",
+    "end_date": "2021-01-08",
+    "historic_marked": "2014-05-05",
+    "seed_status": "repealed"
+  }
 }

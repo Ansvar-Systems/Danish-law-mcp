@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2022-06-29",
+  "in_force_date": "2022-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1035/xml",
   "description": "Retsinformation source. DocumentId=DI000662; AccessionNumber=B20220103503; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -389,5 +390,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:02:54.426Z",
+    "accession": "B20220103503",
+    "document_id": "DI000662",
+    "unique_document_id": "231464",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-29",
+    "end_date": "2022-06-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

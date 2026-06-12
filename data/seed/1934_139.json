@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Forholdene ved Kolindsund.*)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1934-05-02",
+  "in_force_date": "1999-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/1934/139/xml",
-  "description": "Retsinformation source. DocumentId=AH000165; AccessionNumber=A19340013930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000165; AccessionNumber=A19340013930; Ophævet 2023-07-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:47:51.662Z",
+    "accession": "A19340013930",
+    "document_id": "AH000165",
+    "unique_document_id": "6613",
+    "upstream_status": "Historic",
+    "start_date": "1999-01-14",
+    "end_date": "2023-12-12",
+    "historic_marked": "2023-07-12",
+    "seed_status": "repealed"
+  }
 }

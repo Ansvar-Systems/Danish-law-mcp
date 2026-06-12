@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-07-13",
+  "in_force_date": "2023-08-15",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1081/xml",
   "description": "Retsinformation source. DocumentId=AA013743; AccessionNumber=B20230108105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I medfør af § 165 i retsplejelov for Færøerne, lov nr. 964 af 26. juni 2020, har Justitsministeriet dags dato for Færøerne godkendt vedtægt om advokaters pligter med hensyn til behandlingen af betroede midler. Vedtægten, der træder i kraft den 1. september 2023, er optaget som bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2023-07-13",
+      "valid_from": "2023-08-15",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelse nr. 114 af 30. januar 2019 for Færøerne om godkendelse af vedtægt om advokaters pligter med hensyn til behandlingen af betroede midler ophæves.",
-      "valid_from": "2023-07-13",
+      "valid_from": "2023-08-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:04:55.288Z",
+    "accession": "B20230108105",
+    "document_id": "AA013743",
+    "unique_document_id": "238656",
+    "upstream_status": "Valid",
+    "start_date": "2023-08-15",
+    "end_date": "2023-08-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

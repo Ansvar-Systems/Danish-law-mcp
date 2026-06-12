@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om overskydende timer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-09",
+  "in_force_date": "1999-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/1999/902/xml",
-  "description": "Retsinformation source. DocumentId=AB000376; AccessionNumber=B19990090205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000376; AccessionNumber=B19990090205; Ophævet 2017-10-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:46:36.888Z",
+    "accession": "B19990090205",
+    "document_id": "AB000376",
+    "unique_document_id": "3143",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-16",
+    "end_date": "2017-10-21",
+    "historic_marked": "2017-10-20",
+    "seed_status": "repealed"
+  }
 }

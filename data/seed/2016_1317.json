@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om vejnavne og adresser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-11-11",
+  "in_force_date": "2016-11-15",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1317/xml",
-  "description": "Retsinformation source. DocumentId=CI000177; AccessionNumber=B20160131705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000177; AccessionNumber=B20160131705; Ophævet 2018-04-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Der skal fastsættes særskilte adresser for alle enheder, som i Bygnings- og Boligregistret (BBR) er registreret til boligformål eller som udgør en ejerlejlighed.",
-      "valid_from": "2016-11-11",
-      "valid_to": null
+      "valid_from": "2016-11-15",
+      "valid_to": "2018-04-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:44:47.285Z",
+    "accession": "B20160131705",
+    "document_id": "CI000177",
+    "unique_document_id": "184487",
+    "upstream_status": "Historic",
+    "start_date": "2016-11-15",
+    "end_date": "2021-01-08",
+    "historic_marked": "2018-04-13",
+    "seed_status": "repealed"
+  }
 }

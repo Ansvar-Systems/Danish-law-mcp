@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af økologiloven (Justering af regler vedrørende økologiforordningen, sanktionsskærpelse, indhentning af oplysninger fra andre myndigheder med henblik på udarbejdelse af bedre risikovurdering m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-11-24",
+  "in_force_date": "2021-11-29",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2165/xml",
-  "description": "Retsinformation source. DocumentId=DC000345; AccessionNumber=B20210216505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DC000345; AccessionNumber=B20210216505; Ophævet 2022-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1, 4-20, 23, 24 og 28, i lov nr. 2193 af 29. december 2020 om ændring af økologiloven (Justering af regler vedrørende økologiforordningen, sanktionsskærpelse, indhentning af oplysninger fra andre myndigheder med henblik på udarbejdelse af bedre risikovurdering m.v.) sættes i kraft.",
-      "valid_from": "2021-11-24",
-      "valid_to": null
+      "valid_from": "2021-11-29",
+      "valid_to": "2022-08-30"
     },
     {
       "provision_ref": "2:2",
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2022.",
-      "valid_from": "2021-11-24",
-      "valid_to": null
+      "valid_from": "2021-11-29",
+      "valid_to": "2022-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:09:18.263Z",
+    "accession": "B20210216505",
+    "document_id": "DC000345",
+    "unique_document_id": "225599",
+    "upstream_status": "Historic",
+    "start_date": "2021-11-29",
+    "end_date": "2022-08-31",
+    "historic_marked": "2022-08-30",
+    "seed_status": "repealed"
+  }
 }

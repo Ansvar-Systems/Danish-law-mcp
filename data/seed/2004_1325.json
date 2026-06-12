@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kontributionsprincippet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-14",
+  "in_force_date": "2004-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1325/xml",
-  "description": "Retsinformation source. DocumentId=AU001835; AccessionNumber=B20040132505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001835; AccessionNumber=B20040132505; Ophævet 2006-11-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:06:04.267Z",
+    "accession": "B20040132505",
+    "document_id": "AU001835",
+    "unique_document_id": "26801",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-22",
+    "end_date": "2017-12-08",
+    "historic_marked": "2006-11-06",
+    "seed_status": "repealed"
+  }
 }

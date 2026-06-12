@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om sikkerhed ved bestemte idrætsbegivenheder\\n(Forstærket indsats mod uroligheder i forbindelse med fodboldkampe)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-12",
+  "in_force_date": "2013-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2013/636/xml",
-  "description": "Retsinformation source. DocumentId=AA007166; AccessionNumber=A20130063630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007166; AccessionNumber=A20130063630; Ophævet 2015-10-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -31,14 +32,14 @@
       "section": "2",
       "content": "§ 2 a. En generel karantænes varighed, jf. § 2, stk. 5, kan forlænges med op til 6 måneder, når der er begrundet mistanke om overtrædelse af karantænen, jf. § 2, stk. 4. Forlængelsen bortfalder, hvis personen frifindes eller der træffes afgørelse om påtaleopgivelse for overtrædelse af karantænen. Stk. 2. § 3 finder tilsvarende anvendelse ved forlængelse af en karantænes varighed.",
       "valid_from": "2013-06-12",
-      "valid_to": null
+      "valid_to": "2015-10-30"
     },
     {
       "provision_ref": "6",
       "section": "6",
       "content": "§ 6 a. Justitsministeren kan fastsætte regler om, at autoriserede kontrollører kan behandle oplysninger om, hvilke personer der er meddelt privat karantæne, i det omfang behandlingen er nødvendig for at håndhæve sådanne karantæner. Der kan i den forbindelse fastsættes regler om behandlingen af sådanne oplysninger, herunder at oplysningerne skal anses for fortrolige, og at straffelovens § 152 og §§ 152 c-152 f finder tilsvarende anvendelse.",
       "valid_from": "2013-06-12",
-      "valid_to": null
+      "valid_to": "2015-10-30"
     },
     {
       "provision_ref": "5:8",
@@ -46,8 +47,19 @@
       "section": "8",
       "content": "§ 8 a. Politiet kan meddele påbud om den sikkerhedsmæssige afvikling af bestemte idrætsbegivenheder, hvis der foreligger en særlig risiko for uroligheder forårsaget af tilskuere eller andre. Politiet kan fastsætte en frist for gennemførelse af påbuddet.",
       "valid_from": "2013-06-12",
-      "valid_to": null
+      "valid_to": "2015-10-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:20.649Z",
+    "accession": "A20130063630",
+    "document_id": "AA007166",
+    "unique_document_id": "152271",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-12",
+    "end_date": "2015-10-31",
+    "historic_marked": "2015-10-30",
+    "seed_status": "repealed"
+  }
 }

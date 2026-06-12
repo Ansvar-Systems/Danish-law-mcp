@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-07-09",
+  "in_force_date": "2002-08-01",
   "url": "https://www.retsinformation.dk/eli/lta/2002/619/xml",
-  "description": "Retsinformation source. DocumentId=AT001060; AccessionNumber=A20020061929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001060; AccessionNumber=A20020061929; Ophævet 2003-08-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:51:40.127Z",
+    "accession": "A20020061929",
+    "document_id": "AT001060",
+    "unique_document_id": "23951",
+    "upstream_status": "Historic",
+    "start_date": "2002-08-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "2003-08-14",
+    "seed_status": "repealed"
+  }
 }

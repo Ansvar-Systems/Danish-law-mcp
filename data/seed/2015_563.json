@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-04-29",
+  "in_force_date": "2015-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2015/563/xml",
   "description": "Retsinformation source. DocumentId=BK001757; AccessionNumber=B20150056305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I tillæg til de i § 11, stk. 1, nr. 1-9, i bekendtgørelse om valgfri indplacering i sikringsgrupper og udstedelse af sundhedskort m.v. anførte tilfælde, opkræver Odense Kommune ikke gebyr, hvis et sundhedskort er bortkommet, når det bortkomne kort var mere end 4 år gammelt.",
-      "valid_from": "2015-04-29",
+      "valid_from": "2015-04-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2015. Stk. 2. Bekendtgørelse nr. 197 af 27. februar 2013 om frikommuneforsøg i Odense Kommune vedrørende gebyr for sundhedskort ophæves.",
-      "valid_from": "2015-04-29",
+      "valid_from": "2015-04-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:14:15.448Z",
+    "accession": "B20150056305",
+    "document_id": "BK001757",
+    "unique_document_id": "169762",
+    "upstream_status": "Valid",
+    "start_date": "2015-04-30",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

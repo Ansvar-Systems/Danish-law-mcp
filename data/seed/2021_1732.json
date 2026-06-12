@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om rådighed",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-08-27",
+  "in_force_date": "2021-08-27",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1732/xml",
-  "description": "Retsinformation source. DocumentId=BE009015; AccessionNumber=B20210173205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE009015; AccessionNumber=B20210173205; Ophævet 2023-10-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13a",
@@ -20,8 +21,19 @@
       "section": "13a",
       "content": "§ 13 a. Med henblik på at forebygge og inddæmme udbredelsen af covid-19 kan et medlem få dagpenge, uanset medlemmet ikke kan overtage arbejde, jf. § 8, eller deltage i samtaler, aktiviteter eller tilbud, der forudsætter fysisk fremmøde, jf. § 13, hvis det skyldes, at medlemmet ikke har pasningsmulighed for et eller flere børn.",
       "valid_from": "2021-08-27",
-      "valid_to": null
+      "valid_to": "2023-10-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:53.517Z",
+    "accession": "B20210173205",
+    "document_id": "BE009015",
+    "unique_document_id": "224787",
+    "upstream_status": "Historic",
+    "start_date": "2021-08-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-10-02",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om feriedagpenge",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-01-30",
+  "in_force_date": "2023-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2023/113/xml",
-  "description": "Retsinformation source. DocumentId=BE009440; AccessionNumber=B20230011305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE009440; AccessionNumber=B20230011305; Ophævet 2023-06-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -20,8 +21,19 @@
       "section": "5",
       "content": "§ 5. Feriedagpenge udbetales med samme sats, som hvis medlemmet var ledig og modtog arbejdsløshedsdagpenge under ferien, jf. dog stk. 4. Stk. 2. Medlemmer, der ikke er indplaceret i en dagpengeperiode, kan modtage feriedagpenge med den sats, medlemmet på første feriedag kunne have modtaget, hvis pågældende havde været ledigt. Reglerne om opgørelse af beregningsperioden i § 7 i bekendtgørelse om beregning af dagpengesatsen finder anvendelse ved opgørelse af sats efter 1. pkt.",
       "valid_from": "2023-01-30",
-      "valid_to": null
+      "valid_to": "2023-06-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:06:53.146Z",
+    "accession": "B20230011305",
+    "document_id": "BE009440",
+    "unique_document_id": "234276",
+    "upstream_status": "Historic",
+    "start_date": "2023-01-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-06-14",
+    "seed_status": "repealed"
+  }
 }

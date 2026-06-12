@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af bekendtgørelse om Finanstilsynets Forsikringsformidlingsregister",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-11-01",
+  "in_force_date": "2013-11-06",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1252/xml",
-  "description": "Retsinformation source. DocumentId=BP000693; AccessionNumber=B20130125205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000693; AccessionNumber=B20130125205; Ophævet 2019-04-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1229 af 22. oktober 2007 om Finanstilsynets Forsikringsformidlingsregister ophæves.",
-      "valid_from": "2013-11-01",
-      "valid_to": null
+      "valid_from": "2013-11-06",
+      "valid_to": "2019-04-08"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. november 2013.",
-      "valid_from": "2013-11-01",
-      "valid_to": null
+      "valid_from": "2013-11-06",
+      "valid_to": "2019-04-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:36:27.757Z",
+    "accession": "B20130125205",
+    "document_id": "BP000693",
+    "unique_document_id": "158865",
+    "upstream_status": "Historic",
+    "start_date": "2013-11-06",
+    "end_date": "2019-04-09",
+    "historic_marked": "2019-04-08",
+    "seed_status": "repealed"
+  }
 }

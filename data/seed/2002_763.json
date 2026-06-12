@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om planlægning",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-09-11",
+  "in_force_date": "2002-09-19",
   "url": "https://www.retsinformation.dk/eli/lta/2002/763/xml",
-  "description": "Retsinformation source. DocumentId=AL000860; AccessionNumber=A20020076329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000860; AccessionNumber=A20020076329; Ophævet 2004-09-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:57:22.792Z",
+    "accession": "A20020076329",
+    "document_id": "AL000860",
+    "unique_document_id": "12586",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-19",
+    "end_date": "2023-04-28",
+    "historic_marked": "2004-09-02",
+    "seed_status": "repealed"
+  }
 }

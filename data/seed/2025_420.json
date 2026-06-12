@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-04-29",
+  "in_force_date": "2025-04-29",
   "url": "https://www.retsinformation.dk/eli/lta/2025/420/xml",
   "description": "Retsinformation source. DocumentId=DI001447; AccessionNumber=B20250042005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -274,5 +275,16 @@
       "definition": "på forhånd kendte og ukendte hændelser og fejl, som ikke skyldes patientens sygdom, og som enten er skadevoldende eller kunne have været skadevoldende, men forinden blev afværget eller i øvrigt ikke indtraf på grund af andre omstændigheder",
       "source_provision": "2:3"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:11:20.114Z",
+    "accession": "B20250042005",
+    "document_id": "DI001447",
+    "unique_document_id": "249389",
+    "upstream_status": "Valid",
+    "start_date": "2025-04-29",
+    "end_date": "2025-04-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

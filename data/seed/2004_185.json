@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fuld nummerportabilitet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-22",
+  "in_force_date": "2004-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2004/185/xml",
-  "description": "Retsinformation source. DocumentId=BD000154; AccessionNumber=B20040018505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000154; AccessionNumber=B20040018505; Ophævet 2005-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:15:57.539Z",
+    "accession": "B20040018505",
+    "document_id": "BD000154",
+    "unique_document_id": "29187",
+    "upstream_status": "Historic",
+    "start_date": "2004-03-29",
+    "end_date": "2026-06-04",
+    "historic_marked": "2005-12-22",
+    "seed_status": "repealed"
+  }
 }

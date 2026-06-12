@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om ungdomsskoler",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-10-08",
+  "in_force_date": "2004-10-18",
   "url": "https://www.retsinformation.dk/eli/lta/2004/997/xml",
-  "description": "Retsinformation source. DocumentId=AT001929; AccessionNumber=A20040099729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001929; AccessionNumber=A20040099729; Ophævet 2014-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:48:43.170Z",
+    "accession": "A20040099729",
+    "document_id": "AT001929",
+    "unique_document_id": "24628",
+    "upstream_status": "Historic",
+    "start_date": "2004-10-18",
+    "end_date": "2021-01-08",
+    "historic_marked": "2014-04-14",
+    "seed_status": "repealed"
+  }
 }

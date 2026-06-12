@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-06-11",
+  "in_force_date": "2025-06-17",
   "url": "https://www.retsinformation.dk/eli/lta/2025/667/xml",
   "description": "Retsinformation source. DocumentId=DA001590; AccessionNumber=B20250066705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen gælder for undervisningen m.v. i faget innovation A.",
-      "valid_from": "2025-06-11",
+      "valid_from": "2025-06-17",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Faget innovation A kan udelukkende udbydes og oprettes som et studieretningsfag og som en del af en godkendt lokal studieretning, jf. § 26, stk. 3, i lov om de gymnasiale uddannelser.",
-      "valid_from": "2025-06-11",
+      "valid_from": "2025-06-17",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Institutionen tilrettelægger undervisningen i faget i overensstemmelse med den læreplan med blandt andet mål og indhold for faget, som er fastsat og offentliggjort samtidigt med bekendtgørelsen på ministeriets hjemmeside www.uvm.dk med virkning fra bekendtgørelsens ikrafttrædelsestidspunkt.",
-      "valid_from": "2025-06-11",
+      "valid_from": "2025-06-17",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. De regler om de gymnasiale uddannelser, som er fastsat i medfør af loven, gælder tilsvarende for institutionens undervisning i faget.",
-      "valid_from": "2025-06-11",
+      "valid_from": "2025-06-17",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "2",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. august 2025. Stk. 2. Bekendtgørelsen gælder for hold, der fra og med skoleåret 2025-26 påbegynder undervisning i faget innovation A.",
-      "valid_from": "2025-06-11",
+      "valid_from": "2025-06-17",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:21:24.442Z",
+    "accession": "B20250066705",
+    "document_id": "DA001590",
+    "unique_document_id": "249500",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-17",
+    "end_date": "2025-09-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

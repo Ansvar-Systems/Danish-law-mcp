@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om produktionsskoler\\n(Ophævelse af revisionsbestemmelse m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-16",
+  "in_force_date": "2014-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1379/xml",
-  "description": "Retsinformation source. DocumentId=AT005014; AccessionNumber=A20140137930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT005014; AccessionNumber=A20140137930; Ophævet 2015-06-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "21",
@@ -20,8 +21,19 @@
       "section": "21",
       "content": "§ 21 a. Har undervisningsministeren bemyndiget en styrelse under Undervisningsministeriet til at udøve de beføjelser, der i denne lov er tillagt ministeren, kan ministeren fastsætte regler om fremgangsmåden ved og adgangen til at klage over afgørelser, der er truffet i henhold til bemyndigelsen, herunder om, at afgørelser ikke kan indbringes for ministeren.",
       "valid_from": "2014-12-16",
-      "valid_to": null
+      "valid_to": "2015-06-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:21.410Z",
+    "accession": "A20140137930",
+    "document_id": "AT005014",
+    "unique_document_id": "167005",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-16",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-06-15",
+    "seed_status": "repealed"
+  }
 }

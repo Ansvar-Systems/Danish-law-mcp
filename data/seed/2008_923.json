@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 049 for Euroloop radioanlæg til anvendelse ved jernbanedrift",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-09-18",
+  "in_force_date": "2008-09-20",
   "url": "https://www.retsinformation.dk/eli/lta/2008/923/xml",
-  "description": "Retsinformation source. DocumentId=BD000442; AccessionNumber=B20080092305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000442; AccessionNumber=B20080092305; Ophævet 2014-05-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For Euroloop radioanlæg til anvendelse ved jernbanedrift gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 049 for Euroloop radioanlæg til anvendelse ved jernbanedrift.",
-      "valid_from": "2008-09-18",
-      "valid_to": null
+      "valid_from": "2008-09-20",
+      "valid_to": "2014-05-23"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 23. september 2008.",
-      "valid_from": "2008-09-18",
-      "valid_to": null
+      "valid_from": "2008-09-20",
+      "valid_to": "2014-05-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:34:24.257Z",
+    "accession": "B20080092305",
+    "document_id": "BD000442",
+    "unique_document_id": "120920",
+    "upstream_status": "Historic",
+    "start_date": "2008-09-20",
+    "end_date": "2026-06-04",
+    "historic_marked": "2014-05-23",
+    "seed_status": "repealed"
+  }
 }

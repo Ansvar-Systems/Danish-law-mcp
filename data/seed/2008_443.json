@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om eksport af fødevarer til 3. lande",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-06-02",
+  "in_force_date": "2008-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2008/443/xml",
-  "description": "Retsinformation source. DocumentId=AH002940; AccessionNumber=B20080044305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002940; AccessionNumber=B20080044305; Ophævet 2009-03-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Kød fra svin eller produkter heraf, der udføres til 3. lande, skal stamme fra svin der er blevet slagtet på et slagteri, hvor alle slagtekroppe fra svin undersøges for trikiner, jf. Trikinforordningen. Undtagelsen i artikel 3 i Trikinforordningen, jf. bekendtgørelse om trikinundersøgelse af kød, finder ikke anvendelse på slagterier der slagter svin med henblik på udførsel af svinekød eller produkter heraf til 3. lande.",
-      "valid_from": "2008-06-02",
-      "valid_to": null
+      "valid_from": "2008-06-07",
+      "valid_to": "2009-03-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:14:49.917Z",
+    "accession": "B20080044305",
+    "document_id": "AH002940",
+    "unique_document_id": "117545",
+    "upstream_status": "Historic",
+    "start_date": "2008-06-07",
+    "end_date": "2022-04-09",
+    "historic_marked": "2009-03-19",
+    "seed_status": "repealed"
+  }
 }

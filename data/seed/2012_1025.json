@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til private virksomheder m.fl. til vådområdeprojekter",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-11-01",
+  "in_force_date": "2012-11-02",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1025/xml",
-  "description": "Retsinformation source. DocumentId=AH004727; AccessionNumber=B20120102505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004727; AccessionNumber=B20120102505; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5",
@@ -19,9 +20,20 @@
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5 a. Uanset § 5, stk. 1, 2. pkt., kan der fra den 3. november 2012 ikke indgives ansøgning om tilskud.",
-      "valid_from": "2012-11-01",
-      "valid_to": null
+      "valid_from": "2012-11-02",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:31:02.395Z",
+    "accession": "B20120102505",
+    "document_id": "AH004727",
+    "unique_document_id": "143754",
+    "upstream_status": "Historic",
+    "start_date": "2012-11-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

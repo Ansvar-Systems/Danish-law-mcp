@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2017-12-05",
+  "in_force_date": "2017-12-06",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1416/xml",
   "description": "Retsinformation source. DocumentId=CN000514; AccessionNumber=B20170141605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Regionsrådet kan ved nybyggeri af regionsrådets sygehuse dimensionere til at udleje til privat apotek. Stk. 2. Regionsrådet opkræver markedspris for den pågældende udlejning.",
-      "valid_from": "2017-12-05",
+      "valid_from": "2017-12-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:53:30.664Z",
+    "accession": "B20170141605",
+    "document_id": "CN000514",
+    "unique_document_id": "196303",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-06",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

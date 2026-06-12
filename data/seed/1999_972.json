@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tinglysning i tingbogen",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-07",
+  "in_force_date": "1999-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/1999/972/xml",
-  "description": "Retsinformation source. DocumentId=AA000918; AccessionNumber=B19990097205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA000918; AccessionNumber=B19990097205; Ophævet 2009-07-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:49:22.381Z",
+    "accession": "B19990097205",
+    "document_id": "AA000918",
+    "unique_document_id": "721",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-27",
+    "end_date": "2009-07-23",
+    "historic_marked": "2009-07-22",
+    "seed_status": "repealed"
+  }
 }

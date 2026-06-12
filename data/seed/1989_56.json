@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om statsautoriserede revisorer",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-01-19",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/56/xml",
-  "description": "Retsinformation source. DocumentId=CM025200; AccessionNumber=A19890005629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025200; AccessionNumber=A19890005629; Ophævet 1993-06-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:47:10.531Z",
+    "accession": "A19890005629",
+    "document_id": "CM025200",
+    "unique_document_id": "66087",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1993-06-01",
+    "seed_status": "repealed"
+  }
 }

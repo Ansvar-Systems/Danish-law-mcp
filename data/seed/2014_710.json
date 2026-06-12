@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om krav til fyrværkeri og andre pyrotekniske artikler\\n(Ændring af gebyrordning)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-06-24",
+  "in_force_date": "2014-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2014/710/xml",
-  "description": "Retsinformation source. DocumentId=BP000969; AccessionNumber=B20140071005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000969; AccessionNumber=B20140071005; Ophævet 2021-09-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "31",
@@ -19,9 +20,20 @@
       "provision_ref": "31",
       "section": "31",
       "content": "§ 31. Som led i kontrollen efter § 29 kan Sikkerhedsstyrelsen udtage prøver af fyrværkeriartikler og andre pyrotekniske artikler. Den, der fremstiller eller indfører fyrværkeriartikler eller andre pyrotekniske artikler, afholder omkostningerne ved prøveudtagningen, jf. lovens § 4, stk. 1. Stk. 2. I tilfælde, hvor prøveudtagningen i medfør af stk. 1 sker hos andre end den, der fremstiller eller indfører fyrværkeriartikler eller andre pyrotekniske artikler, godtgør Sikkerhedsstyrelsen indkøbsprisen og opkræver beløbet hos den, der fremstiller eller indfører fyrværkeriartikler eller pyrotekniske artikler, jf. lovens § 4, stk. 2. Stk. 3. Der kan foretages en teknisk undersøgelse af prøver udtaget i medfør af stk. 1. Sikkerhedsstyrelsen kan kræve omkostningerne ved eksterne tekniske undersøgelser, herunder omkostningerne til transport, refunderet af den, som har fået meddelt et påbud eller et forbud, jf. lovens § 4, stk. 3. Stk. 4. Dokumentation for foretaget overensstemmelsesvurdering, jf. § 20, skal indsendes til Sikkerhedsstyrelsen efter anmodning. Dokumentation kan indsendes til Sikkerhedsstyrelsen i elektronisk form.",
-      "valid_from": "2014-06-24",
-      "valid_to": null
+      "valid_from": "2014-06-25",
+      "valid_to": "2021-09-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:13:41.281Z",
+    "accession": "B20140071005",
+    "document_id": "BP000969",
+    "unique_document_id": "164020",
+    "upstream_status": "Historic",
+    "start_date": "2014-06-25",
+    "end_date": "2021-09-11",
+    "historic_marked": "2021-09-10",
+    "seed_status": "repealed"
+  }
 }

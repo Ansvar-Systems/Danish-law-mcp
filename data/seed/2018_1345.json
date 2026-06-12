@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-11-16",
+  "in_force_date": "2018-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1345/xml",
   "description": "Retsinformation source. DocumentId=CN000823; AccessionNumber=B20180134505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -57,7 +58,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Sundhedsdatastyrelsen fører et elektronisk register for behandlingstestamenter, Behandlingstestamenteregistret. Stk. 2. Formålet med at føre registret er, at patienten kan registrere sin beslutning om behandling, og at sundhedspersoner kan opnå viden om patientens beslutninger jf. sundhedslovens § 26. Stk. 3. Sundhedsdatastyrelsen er dataansvarlig og driver og vedligeholder registret.",
-      "valid_from": "2018-11-16",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -65,7 +66,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Et behandlingstestamente skal oprettes via digital selvbetjening af patienten på en elektronisk behandlingstestamenteformular udfærdiget af Sundhedsdatastyrelsen. Patienten skal opfylde kravene i sundhedslovens § 26, stk. 1, vedrørende alder og habilitet. Stk. 2. Hvis Sundhedsdatastyrelsen finder, at der foreligger særlige forhold, der gør, at patienten ikke må forventes at kunne anvende digital selvbetjening, skal Sundhedsdatastyrelsen tilbyde, at behandlingstestamentet kan oprettes på anden måde.",
-      "valid_from": "2018-11-16",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -73,7 +74,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Patienten har ret til indsigt efter artikel 15 i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger. Patienten kan desuden til enhver tid få adgang til sin registrering i et behandlingstestamente via den digitale selvbetjeningsløsning, som stilles til rådighed af Sundhedsdatastyrelsen.",
-      "valid_from": "2018-11-16",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -81,7 +82,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Patienten kan til enhver tid ændre eller tilbagekalde sit behandlingstestamente ved at ændre eller slette den elektroniske behandlingstestamenteformular ved hjælp af digital selvbetjening jf. § 2, stk. 1. Hvis Sundhedsdatastyrelsen finder, at der foreligger særlige forhold, der gør, at patienten ikke må forventes at kunne anvende digital selvbetjening, skal Sundhedsdatastyrelsen tilbyde, at behandlingstestamentet kan ændres eller tilbagekaldes på anden måde. Stk. 2. En ændring eller tilbagekaldelse har virkning fra det tidspunkt, den er registret i Behandlingstestamenteregisteret.",
-      "valid_from": "2018-11-16",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -89,7 +90,7 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Et behandlingstestamente kan dog uanset § 4 tilbagekaldes eller ændres ved, at patienten i forbindelse med en aktuel sygdomssituation utvetydigt tilkendegiver over for en sundhedsperson, at behandlingstestamentet ikke længere skal være gældende eller opretholdes i dets oprindelige form. Tilkendegivelsen har virkning fra det tidspunkt, den er fremsat, og har alene virkning for det aktuelle behandlingsforløb.",
-      "valid_from": "2018-11-16",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -97,7 +98,7 @@
       "chapter": "1",
       "section": "6",
       "content": "§ 6. Et behandlingstestamente har kun gyldighed, såfremt det er registreret i Behandlingstestamenteregistret. Stk. 2. Et behandlingstestamente slettes i Behandlingstestamenteregistret senest 1 år efter patientens død.",
-      "valid_from": "2018-11-16",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -105,9 +106,20 @@
       "chapter": "1",
       "section": "7",
       "content": "§ 7. Bekendtgørelsen træder i kraft den 1. januar 2019.",
-      "valid_from": "2018-11-16",
+      "valid_from": "2018-11-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:36:31.143Z",
+    "accession": "B20180134505",
+    "document_id": "CN000823",
+    "unique_document_id": "205086",
+    "upstream_status": "Valid",
+    "start_date": "2018-11-30",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

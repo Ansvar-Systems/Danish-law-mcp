@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om offentlig retshjælp ved advokater",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-11",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1095/xml",
-  "description": "Retsinformation source. DocumentId=AA001258; AccessionNumber=B20000109505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001258; AccessionNumber=B20000109505; Ophævet 2001-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:54:18.943Z",
+    "accession": "B20000109505",
+    "document_id": "AA001258",
+    "unique_document_id": "943",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2003-05-19",
+    "historic_marked": "2001-12-20",
+    "seed_status": "repealed"
+  }
 }

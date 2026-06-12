@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om statsborgerskabsprøve",
   "short_name": "LOV H#LOKDOK01",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-17",
+  "in_force_date": "2013-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1456/xml",
-  "description": "Retsinformation source. DocumentId=AA007479; AccessionNumber=A20130145630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007479; AccessionNumber=A20130145630; Ophævet 2015-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -30,22 +31,33 @@
       "section": "1",
       "content": "§ 1. Justitsministeren bemyndiges til efter forhandling med undervisningsministeren at etablere en statsborgerskab‍sprøve. Stk. 2. Justitsministeren kan efter forhandling med undervisningsministeren fastsætte regler om etablering, administration og afholdelse af statsborgerskabsprøven, herunder regler om udpegning af prøveafholdere, om betingelser for deltagelse i prøven, om opkrævning af gebyr for deltagelse i prøven, om prøvens gennemførelse, om tilsyn og om klageadgang m.v., og om, at undervisningsministeren forestår etablering, administration og afholdelse af statsborgerskab‍sprøven.",
       "valid_from": "2013-12-17",
-      "valid_to": null
+      "valid_to": "2015-12-29"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Loven træder i kraft den 1. januar 2014. Stk. 2. Lov nr. 487 af 7. juni 2006 om indfødsretsprøve ophæves.",
       "valid_from": "2013-12-17",
-      "valid_to": null
+      "valid_to": "2015-12-29"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.",
       "valid_from": "2013-12-17",
-      "valid_to": null
+      "valid_to": "2015-12-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:38.530Z",
+    "accession": "A20130145630",
+    "document_id": "AA007479",
+    "unique_document_id": "160406",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-17",
+    "end_date": "2017-12-12",
+    "historic_marked": "2015-12-29",
+    "seed_status": "repealed"
+  }
 }

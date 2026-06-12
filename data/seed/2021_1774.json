@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fund af infektiøs hæmatopoietisk nekrose ved Støvring i Rebild Kommune",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-09-06",
+  "in_force_date": "2021-09-06",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1774/xml",
-  "description": "Retsinformation source. DocumentId=DC000321; AccessionNumber=B20210177405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DC000321; AccessionNumber=B20210177405; Ophævet 2021-12-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3",
@@ -20,8 +21,19 @@
       "section": "3",
       "content": "§ 3. Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der overtræder § 2, stk. 2, 3 eller 4. Stk. 2. Straffen kan stige til fængsel i indtil to år, hvis den ved handlingen eller undladelsen skete overtrædelse er begået med forsæt eller grov uagtsomhed, og der ved overtrædelsen er 1) forvoldt skade på menneskers eller dyrs sundhed eller fremkaldt fare herfor, eller 2) opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre, herunder ved besparelser. Stk. 3. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
       "valid_from": "2021-09-06",
-      "valid_to": null
+      "valid_to": "2021-12-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:53:32.815Z",
+    "accession": "B20210177405",
+    "document_id": "DC000321",
+    "unique_document_id": "224877",
+    "upstream_status": "Historic",
+    "start_date": "2021-09-06",
+    "end_date": "2021-12-10",
+    "historic_marked": "2021-12-09",
+    "seed_status": "repealed"
+  }
 }

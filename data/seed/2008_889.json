@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2008-09-05",
+  "in_force_date": "2008-09-09",
   "url": "https://www.retsinformation.dk/eli/lta/2008/889/xml",
   "description": "Retsinformation source. DocumentId=AH003040; AccessionNumber=B20080088905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "36",
       "section": "36",
       "content": "§ 36. Indtræder en ny ejer eller forpagter i et tilsagn om tilskud, jf. § 25, kan FødevareErhverv bestemme, at tilskud, der er udbetalt til en tidligere tilsagnshaver, skal tilbagebetales af den nye tilsagnshaver i tilfælde, hvor FødevareErhverv 1) træffer afgørelse om bortfald af tilsagn om tilskud som følge af den nye tilsagnshavers forhold, 2) træffer afgørelse om bortfald af tilsagn om tilskud som følge af, at de arealer, der er anmeldt i producentskifteerklæringen, er større end de arealer, der kan fastslås, og det af producentskifteerklæringen fremgår, at den nye tilsagnshaver ved indtræden i tilsagnet bliver ansvarlig for størrelsen af de i producentskifteerklæringen anførte arealer, eller 3) konstaterer, at der er udbetalt for meget tilskud til en tidligere tilsagnshaver som følge af den nye tilsagnshavers forhold.",
-      "valid_from": "2008-09-05",
+      "valid_from": "2008-09-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:32:58.717Z",
+    "accession": "B20080088905",
+    "document_id": "AH003040",
+    "unique_document_id": "121246",
+    "upstream_status": "Valid",
+    "start_date": "2008-09-09",
+    "end_date": "2022-04-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

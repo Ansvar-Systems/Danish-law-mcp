@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opgaver og beføjelser i Trafikstyrelsen for Jernbane og Færger",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-26",
+  "in_force_date": "2003-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2003/603/xml",
-  "description": "Retsinformation source. DocumentId=AR000698; AccessionNumber=B20030060305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000698; AccessionNumber=B20030060305; Ophævet 2004-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:36:55.574Z",
+    "accession": "B20030060305",
+    "document_id": "AR000698",
+    "unique_document_id": "22216",
+    "upstream_status": "Historic",
+    "start_date": "2003-07-03",
+    "end_date": "2022-07-07",
+    "historic_marked": "2004-06-29",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om dag-, fritids- og klubtilbud m.v. til børn og unge",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-01-27",
+  "in_force_date": "2014-01-31",
   "url": "https://www.retsinformation.dk/eli/lta/2014/111/xml",
-  "description": "Retsinformation source. DocumentId=CB000213; AccessionNumber=B20140011105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CB000213; AccessionNumber=B20140011105; Ophævet 2015-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Forældrebetaling efter dagtilbudsloven, herunder retten til et eventuelt økonomisk fripladstilskud, søskendetilskud, behandlingsmæssigt fripladstilskud og socialpædagogisk fripladstilskud, følger de eller den af barnets forældre, som har retten til en plads i et fritidshjem eller et klubtilbud, jf. dagtilbudslovens § 2.",
-      "valid_from": "2014-01-27",
-      "valid_to": null
+      "valid_from": "2014-01-31",
+      "valid_to": "2015-09-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:31:33.200Z",
+    "accession": "B20140011105",
+    "document_id": "CB000213",
+    "unique_document_id": "161590",
+    "upstream_status": "Historic",
+    "start_date": "2014-01-31",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-09-21",
+    "seed_status": "repealed"
+  }
 }

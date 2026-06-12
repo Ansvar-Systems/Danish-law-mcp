@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2009-06-12",
+  "in_force_date": "2009-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/505/xml",
   "description": "Retsinformation source. DocumentId=AA004885; AccessionNumber=A20090050530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -437,5 +438,16 @@
       "definition": "i denne lov borgerlige sager, i hvilke fagkundskab til søforhold eller til handelsforhold skønnes at være af betydning",
       "source_provision": "7"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:14:42.571Z",
+    "accession": "A20090050530",
+    "document_id": "AA004885",
+    "unique_document_id": "125439",
+    "upstream_status": "Valid",
+    "start_date": "2009-06-12",
+    "end_date": "2020-06-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forhøjelse af hædersgaver",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-22",
+  "in_force_date": "2004-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1421/xml",
-  "description": "Retsinformation source. DocumentId=BE001189; AccessionNumber=A20040142130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001189; AccessionNumber=A20040142130; Ophævet 2009-12-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:09:56.050Z",
+    "accession": "A20040142130",
+    "document_id": "BE001189",
+    "unique_document_id": "30195",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-26",
+    "end_date": "2009-12-29",
+    "historic_marked": "2009-12-28",
+    "seed_status": "repealed"
+  }
 }

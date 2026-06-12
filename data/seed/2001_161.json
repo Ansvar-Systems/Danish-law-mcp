@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelsen til metalsmed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-09",
+  "in_force_date": "2001-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2001/161/xml",
-  "description": "Retsinformation source. DocumentId=AT000705; AccessionNumber=B20010016105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000705; AccessionNumber=B20010016105; Ophævet 2004-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:48:52.198Z",
+    "accession": "B20010016105",
+    "document_id": "AT000705",
+    "unique_document_id": "23687",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-19",
+    "end_date": "2021-01-08",
+    "historic_marked": "2004-11-25",
+    "seed_status": "repealed"
+  }
 }

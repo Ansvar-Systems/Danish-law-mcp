@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse angaaende autoriserede Retsstenografer.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1932-12-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1932/324/xml",
-  "description": "Retsinformation source. DocumentId=CM016486; AccessionNumber=B19320032405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016486; AccessionNumber=B19320032405; Ophævet 2002-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:46:19.292Z",
+    "accession": "B19320032405",
+    "document_id": "CM016486",
+    "unique_document_id": "57558",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-10-09",
+    "historic_marked": "2002-12-04",
+    "seed_status": "repealed"
+  }
 }

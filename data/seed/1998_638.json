@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forskellige forbrugsafgifter",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-08-21",
+  "in_force_date": "1998-09-03",
   "url": "https://www.retsinformation.dk/eli/lta/1998/638/xml",
-  "description": "Retsinformation source. DocumentId=AN000063; AccessionNumber=A19980063829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000063; AccessionNumber=A19980063829; Ophævet 2008-02-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:53:07.868Z",
+    "accession": "A19980063829",
+    "document_id": "AN000063",
+    "unique_document_id": "13238",
+    "upstream_status": "Historic",
+    "start_date": "1998-09-03",
+    "end_date": "2014-10-21",
+    "historic_marked": "2008-02-07",
+    "seed_status": "repealed"
+  }
 }

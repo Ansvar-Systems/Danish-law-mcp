@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regler for anmeldelse af aftaler m.v. til Konkurrencestyrelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-26",
+  "in_force_date": "2003-04-03",
   "url": "https://www.retsinformation.dk/eli/lta/2003/211/xml",
-  "description": "Retsinformation source. DocumentId=AU000969; AccessionNumber=B20030021105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000969; AccessionNumber=B20030021105; Ophævet 2005-06-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:21:05.678Z",
+    "accession": "B20030021105",
+    "document_id": "AU000969",
+    "unique_document_id": "26195",
+    "upstream_status": "Historic",
+    "start_date": "2003-04-03",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-06-23",
+    "seed_status": "repealed"
+  }
 }

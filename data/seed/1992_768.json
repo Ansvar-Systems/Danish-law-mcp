@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sejlads gennem Kong Frederik IX's bro",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-09-15",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1992/768/xml",
-  "description": "Retsinformation source. DocumentId=CM024067; AccessionNumber=B19920076805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM024067; AccessionNumber=B19920076805; Ophævet 1992-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:43:02.513Z",
+    "accession": "B19920076805",
+    "document_id": "CM024067",
+    "unique_document_id": "64993",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1992-12-16",
+    "seed_status": "repealed"
+  }
 }

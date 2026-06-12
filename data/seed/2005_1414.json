@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige skattelove m.v.\\n(Ændringer som følge af aktieavancebeskatningsloven)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-21",
+  "in_force_date": "2005-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1414/xml",
-  "description": "Retsinformation source. DocumentId=AN005063; AccessionNumber=A20050141430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005063; AccessionNumber=A20050141430; Ophævet 2018-06-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:05:35.400Z",
+    "accession": "A20050141430",
+    "document_id": "AN005063",
+    "unique_document_id": "17155",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-21",
+    "end_date": "2025-10-04",
+    "historic_marked": "2018-06-08",
+    "seed_status": "repealed"
+  }
 }

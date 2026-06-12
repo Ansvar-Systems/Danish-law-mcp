@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af momsloven og forskellige andre love (Momsgodtgørelse for ambassader m.v., bemyndigelse til momskontrol af betalingsoplysninger, tilpasning af reglerne om herboende repræsentant for motoransvars- og lystfartøjsforsikringer, tilpasning af adgangen til registrering af oplysninger i Køretøjsregisteret, afskaffelse af befordringsfradrag m.v. for skattefritagne personer m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-29",
+  "in_force_date": "2015-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1888/xml",
-  "description": "Retsinformation source. DocumentId=AN012394; AccessionNumber=A20150188830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN012394; AccessionNumber=A20150188830; Ophævet 2023-01-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -30,22 +31,33 @@
       "section": "2",
       "content": "§ 2. Afgiften betales af de forsikringsvirksomheder, der tegner de i § 1 nævnte ansvarsforsikringer.",
       "valid_from": "2015-12-29",
-      "valid_to": null
+      "valid_to": "2023-01-09"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Afgiften betales af de forsikringsvirksomheder, der tegner de i § 1 nævnte forsikringer, jf. dog stk. 7.",
       "valid_from": "2015-12-29",
-      "valid_to": null
+      "valid_to": "2023-01-09"
     },
     {
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7. Forsikringstageren, jf. § 3, stk. 8, skal, inden 8 dage efter at forsikringen er tegnet, oplyse told- og skatteforvaltningen om forsikringens art og omfang, forsikringssummen og præmiens størrelse og forsikringsvirksomhedens navn og hjemsted.",
       "valid_from": "2015-12-29",
-      "valid_to": null
+      "valid_to": "2023-01-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:58:12.696Z",
+    "accession": "A20150188830",
+    "document_id": "AN012394",
+    "unique_document_id": "176793",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-01-09",
+    "seed_status": "repealed"
+  }
 }

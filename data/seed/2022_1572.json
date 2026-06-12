@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2022-12-09",
+  "in_force_date": "2022-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1572/xml",
   "description": "Retsinformation source. DocumentId=AA013446; AccessionNumber=B20220157205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "14",
       "section": "14",
       "content": "§ 14. Når formålet med behandling af personoplysninger er ophørt, skal oplysningerne slettes, anonymiseres, tilintetgøres eller tilbageleveres, således at det efterfølgende ikke er muligt at identificere fysiske personer ud fra oplysningerne eller i kombination med andre oplysninger. Alternativt kan personoplysningerne overføres til opbevaring i arkiv efter reglerne i arkivlovgivningen.",
-      "valid_from": "2022-12-09",
+      "valid_from": "2022-12-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:35.136Z",
+    "accession": "B20220157205",
+    "document_id": "AA013446",
+    "unique_document_id": "234069",
+    "upstream_status": "Valid",
+    "start_date": "2022-12-20",
+    "end_date": "2022-12-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

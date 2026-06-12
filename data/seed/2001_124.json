@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om jernbanevirksomhed m.v. samt ophævelse af lov om anlæg af mergelbaner m.v. og lov om Banestyrelsen m.v.",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-27",
+  "in_force_date": "2001-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2001/124/xml",
-  "description": "Retsinformation source. DocumentId=AR000407; AccessionNumber=A20010012430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000407; AccessionNumber=A20010012430; Ophævet 2006-12-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:47:22.801Z",
+    "accession": "A20010012430",
+    "document_id": "AR000407",
+    "unique_document_id": "22024",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-27",
+    "end_date": "2022-07-07",
+    "historic_marked": "2006-12-13",
+    "seed_status": "repealed"
+  }
 }

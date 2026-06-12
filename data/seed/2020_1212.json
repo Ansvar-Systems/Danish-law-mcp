@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om universitetsuddannelser tilrettelagt på heltid (uddannelsesbekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-08-17",
+  "in_force_date": "2020-08-18",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1212/xml",
-  "description": "Retsinformation source. DocumentId=CE000983; AccessionNumber=B20200121205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000983; AccessionNumber=B20200121205; Ophævet 2021-12-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "22",
@@ -19,9 +20,20 @@
       "provision_ref": "22",
       "section": "22",
       "content": "§ 22. En akademisk overbygningsuddannelse giver ret til at anvende betegnelsen \"AO\" efterfulgt af \"i\" og den danske betegnelse for den enkelte uddannelse. Den tilsvarende engelsksprogede betegnelse er \"Master\" efterfulgt af \"of\" og fagbetegnelsen på engelsk. Den danske og den engelske betegnelse vil fremgå af et bilag til denne bekendtgørelse.",
-      "valid_from": "2020-08-17",
-      "valid_to": null
+      "valid_from": "2020-08-18",
+      "valid_to": "2021-12-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:37:05.854Z",
+    "accession": "B20200121205",
+    "document_id": "CE000983",
+    "unique_document_id": "216009",
+    "upstream_status": "Historic",
+    "start_date": "2020-08-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-12-06",
+    "seed_status": "repealed"
+  }
 }

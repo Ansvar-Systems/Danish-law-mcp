@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2024-09-26",
+  "in_force_date": "2024-10-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1079/xml",
   "description": "Retsinformation source. DocumentId=AE003183; AccessionNumber=B20240107905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 5, i lov nr. 449 af 22. maj 2006 om ændring af lov om offentlige betalinger m.v., lov om ændring af lov om bemyndigelse til optagelse af statslån, lov om arbejdsløshedsforsikring m.v. og lov om indkomstbeskatning af aktieselskaber m.v. samt lov om ændring af lov om arbejdsløshedsforsikring m.v. og lov om Arbejdsmarkedets Tillægspension (Justering af Nemkontoordningen og reglerne om selvejende institutioners anvendelse af Statens Koncernbetalinger/Offentligt Betalingssystem) sættes i kraft.",
-      "valid_from": "2024-09-26",
+      "valid_from": "2024-10-11",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2025.",
-      "valid_from": "2024-09-26",
+      "valid_from": "2024-10-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:25:41.458Z",
+    "accession": "B20240107905",
+    "document_id": "AE003183",
+    "unique_document_id": "245248",
+    "upstream_status": "Valid",
+    "start_date": "2024-10-11",
+    "end_date": "2024-10-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

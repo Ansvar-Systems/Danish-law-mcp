@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om medicinsk udstyr",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-12-02",
+  "in_force_date": "2024-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1333/xml",
-  "description": "Retsinformation source. DocumentId=DI001313; AccessionNumber=B20240133305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI001313; AccessionNumber=B20240133305; Ophævet 2025-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4a:15a",
@@ -22,8 +23,19 @@
       "section": "15a",
       "content": "§ 15 a. Oparbejdning og videre anvendelse af engangsudstyr må foretages i overensstemmelse med artikel 17, stk. 2, i forordningen om medicinsk udstyr. Stk. 2. Oparbejderen skal påtage sig de forpligtelser, som påhviler en fabrikant i henhold til forordningen om medicinsk udstyr samt fabrikantens forpligtelser i medfør af lov om medicinsk udstyr og denne bekendtgørelse.",
       "valid_from": "2024-12-02",
-      "valid_to": null
+      "valid_to": "2025-12-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:36:00.015Z",
+    "accession": "B20240133305",
+    "document_id": "DI001313",
+    "unique_document_id": "246602",
+    "upstream_status": "Historic",
+    "start_date": "2024-12-02",
+    "end_date": "2025-12-20",
+    "historic_marked": "2025-12-19",
+    "seed_status": "repealed"
+  }
 }

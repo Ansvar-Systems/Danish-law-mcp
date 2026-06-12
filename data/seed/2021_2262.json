@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om CO2-kvoter m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-02",
+  "in_force_date": "2021-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2262/xml",
-  "description": "Retsinformation source. DocumentId=DB000404; AccessionNumber=B20210226205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000404; AccessionNumber=B20210226205; Ophævet 2023-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:13:14.140Z",
+    "accession": "B20210226205",
+    "document_id": "DB000404",
+    "unique_document_id": "226031",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-02",
+    "end_date": "2023-12-30",
+    "historic_marked": "2023-12-29",
+    "seed_status": "repealed"
+  }
 }

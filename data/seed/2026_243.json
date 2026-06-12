@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2026-02-02",
+  "in_force_date": "2026-02-04",
   "url": "https://www.retsinformation.dk/eli/lta/2026/243/xml",
   "description": "Retsinformation source. DocumentId=DH002986; AccessionNumber=B20260024305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende beføjelser i sager om tidligere anbragte under børneforsorgen eller sær- og åndssvageforsorgen og i sager om international adoption, hvor der rejses krav om erstatning eller rejses anerkendelsessøgsmål mod Social- og Boligministeriet, delegeres fra social- og boligministeren til Ankestyrelsen: 1) Håndtering af erstatningskrav, herunder undersøgelse og vurdering af krav. 2) Håndtering af anerkendelsessøgsmål, herunder undersøgelse og vurdering af søgsmål. 3) Kommunikation med modparten og dennes eventuelle repræsentant. 4) Kommunikation med Social- og Boligministeriets advokat. 5) Forberedelse af eventuelle retssager i samarbejde med Social- og Boligministeriets advokat, herunder håndtering af processuelle sagsskridt.",
-      "valid_from": "2026-02-02",
+      "valid_from": "2026-02-04",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. februar 2026.",
-      "valid_from": "2026-02-02",
+      "valid_from": "2026-02-04",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen gælder ikke for Færøerne og Grønland.",
-      "valid_from": "2026-02-02",
+      "valid_from": "2026-02-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:40:33.836Z",
+    "accession": "B20260024305",
+    "document_id": "DH002986",
+    "unique_document_id": "255165",
+    "upstream_status": "Valid",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

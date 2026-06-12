@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-06-26",
+  "in_force_date": "2023-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2023/919/xml",
   "description": "Retsinformation source. DocumentId=AN016026; AccessionNumber=B20230091905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Momslovens § 55 e som affattet ved § 1, nr. 23, og § 1, nr. 49 og 53, i lov nr. 810 af 9. juni 2020 om ændring af momsloven, kildeskatteloven, skatteindberetningsloven og lov om afgifter af spil (Modernisering af momsreglerne for grænseoverskridende handel med varer og ydelser solgt til forbrugere i EU, digitale salgsregistreringssystemer, håndtering af A-skat m.v. i forbindelse med udbetaling fra feriegarantiordninger m.v. og udskydelse af ikrafttrædelsestidspunktet for den digitale logbog m.v.) sættes i kraft.",
-      "valid_from": "2023-06-26",
+      "valid_from": "2023-06-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024.",
-      "valid_from": "2023-06-26",
+      "valid_from": "2023-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:06:49.591Z",
+    "accession": "B20230091905",
+    "document_id": "AN016026",
+    "unique_document_id": "238280",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

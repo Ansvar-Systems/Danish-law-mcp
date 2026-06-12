@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indberetningspligter m.v. efter skattekontrolloven",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-11-30",
+  "in_force_date": "2012-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2012/1123/xml",
-  "description": "Retsinformation source. DocumentId=AN011302; AccessionNumber=B20120112305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011302; AccessionNumber=B20120112305; Ophævet 2013-10-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "41",
@@ -24,16 +25,27 @@
       "provision_ref": "41",
       "section": "41",
       "content": "§ 41. Indberetning efter skattekontrollovens § 9 B, stk. 1, vedrørende udbytte af aktier m.v. i danske selskaber m.v. skal ske senest den sidste hverdag i måneden efter vedtagelsen eller beslutningen om at udbetale eller godskrive udbyttet. Stk. 2. Indberetning efter skattekontrollovens § 9 B, stk. 2, skal ske senest måneden efter vedtagelsen eller beslutningen om at udbetale eller godskrive udbyttet, og inden udløbet af selskabets frist i denne måned for indberetning til indkomstregisteret af indeholdt A-skat og arbejdsmarkedsbidrag. Stk. 3. Told- og skatteforvaltningen kan pålægge en indberetningspligtig at underrette den, som de indberettede oplysninger vedrører, om det indberettede inden for en nærmere angivet frist, hvis indberetningen sker efter de frister, der fremgår af stk. 1 og 2, og tillige sker efter den frist, der er angivet i skattekontrollovens § 9 A, stk. 1, for indberetninger vedrørende det pågældende kalenderår, herunder ved genindberetning efter skattekontrollovens § 9 A, stk. 2.",
-      "valid_from": "2012-11-30",
-      "valid_to": null
+      "valid_from": "2012-12-05",
+      "valid_to": "2013-10-01"
     },
     {
       "provision_ref": "46",
       "section": "46",
       "content": "§ 46 a. Indberetning om udbytter af aktier m.v. i danske investeringsselskaber og danske investeringsbeviser skal ske senest den sidste hverdag i måneden efter vedtagelsen eller beslutningen om at udbetale eller godskrive udbyttet. Stk. 2. Told- og skatteforvaltningen kan pålægge en indberetningspligtig at underrette den, som de indberettede oplysninger vedrører, om det indberettede inden for en nærmere angivet frist, hvis indberetningen sker efter den frist, der fremgår af stk. 1, og tillige sker efter den frist, der er angivet i skattekontrollovens § 9 A, stk. 1, for indberetninger vedrørende det pågældende kalenderår, herunder ved genindberetning efter skattekontrollovens § 9 A, stk. 2, efter denne frist.",
-      "valid_from": "2012-11-30",
-      "valid_to": null
+      "valid_from": "2012-12-05",
+      "valid_to": "2013-10-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:35:01.828Z",
+    "accession": "B20120112305",
+    "document_id": "AN011302",
+    "unique_document_id": "143874",
+    "upstream_status": "Historic",
+    "start_date": "2012-12-05",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-10-01",
+    "seed_status": "repealed"
+  }
 }

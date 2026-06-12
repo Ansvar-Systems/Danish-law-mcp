@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-15",
+  "in_force_date": "2020-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2099/xml",
   "description": "Retsinformation source. DocumentId=AA012166; AccessionNumber=B20200209905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Der opkræves ikke betaling for det første eksemplar af en afskrift eller fotokopi af et dokument, der i henhold til § 9 i forvaltningsloven udleveres til en part i den pågældende sag.",
-      "valid_from": "2020-12-15",
+      "valid_from": "2020-12-22",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Vedkommende myndighed opkræver som betaling for yderligere eksemplarer af afskrifter og fotokopier af en sags dokumenter, der udleveres efter begæring i henhold til forvaltningsloven, 10 kr. for den første side og 1 kr. for hver påbegyndt følgende side af sagens akter.",
-      "valid_from": "2020-12-15",
+      "valid_from": "2020-12-22",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Hvis der ved lov eller i henhold til lov er fastsat højere betaling for afskrift eller fotokopi af et bestemt dokument, opkræves dette.",
-      "valid_from": "2020-12-15",
+      "valid_from": "2020-12-22",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2021. Stk. 2. Bekendtgørelse nr. 840 af 23. juli 2004 om betaling for afskrifter og fotokopier, der udleveres i henhold til forvaltningsloven ophæves.",
-      "valid_from": "2020-12-15",
+      "valid_from": "2020-12-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:12:37.795Z",
+    "accession": "B20200209905",
+    "document_id": "AA012166",
+    "unique_document_id": "217929",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-22",
+    "end_date": "2020-12-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

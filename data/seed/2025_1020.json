@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-07-15",
+  "in_force_date": "2025-07-16",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1020/xml",
   "description": "Retsinformation source. DocumentId=AA014879; AccessionNumber=B20250102005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 896 af 25. juni 2025 om indlevering af betalingspåkrav efter kapitel 22 i retsplejelov for Grønland (forenklet inkassoproces) ophæves.",
-      "valid_from": "2025-07-15",
+      "valid_from": "2025-07-16",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2025.",
-      "valid_from": "2025-07-15",
+      "valid_from": "2025-07-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:28:09.566Z",
+    "accession": "B20250102005",
+    "document_id": "AA014879",
+    "unique_document_id": "251037",
+    "upstream_status": "Valid",
+    "start_date": "2025-07-16",
+    "end_date": "2025-07-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

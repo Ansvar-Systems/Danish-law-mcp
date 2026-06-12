@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af selskabsskatteloven m.fl. love",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/387/xml",
-  "description": "Retsinformation source. DocumentId=AN000456; AccessionNumber=A19990038730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000456; AccessionNumber=A19990038730; Ophævet 2002-09-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:26:01.870Z",
+    "accession": "A19990038730",
+    "document_id": "AN000456",
+    "unique_document_id": "13442",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-02",
+    "end_date": "2003-04-23",
+    "historic_marked": "2002-09-09",
+    "seed_status": "repealed"
+  }
 }

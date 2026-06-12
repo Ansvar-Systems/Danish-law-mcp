@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om recepter",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-01-31",
+  "in_force_date": "2012-02-03",
   "url": "https://www.retsinformation.dk/eli/lta/2012/111/xml",
-  "description": "Retsinformation source. DocumentId=BK001153; AccessionNumber=B20120011105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001153; AccessionNumber=B20120011105; Ophævet 2012-04-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -24,16 +25,27 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10. En recept er gyldig i 2 år efter udstedelsen. En recept udstedt af en læge i regionernes vagtlægesystem er dog kun gyldig i 7 dage efter udstedelsen. Stk. 2. Receptudstederen kan ved påtegning på en recept angive, at dens gyldighed skal ophøre på et tidligere tidspunkt.",
-      "valid_from": "2012-01-31",
-      "valid_to": null
+      "valid_from": "2012-02-03",
+      "valid_to": "2012-04-26"
     },
     {
       "provision_ref": "25",
       "section": "25",
       "content": "§ 25. Recepter udstedt af læger, tandlæger eller dyrlæger, der er autoriseret i et EU-land, Norge eller Island, og som uden at have fået autorisation i Danmark under et midlertidigt ophold her i landet udøver læge-, tandlæge- eller dyrlægevirksomhed, er omfattet af bestemmelserne i denne bekendtgørelse. Stk. 2. Recepter udstedt af læger eller tandlæger, der er autoriseret i et EU-land, Norge eller Island, er omfattet af bestemmelserne i denne bekendtgørelse. Derudover gælder følgende bestemmelser: 1) Recepter på de i § 4 nævnte lægemidler må ikke ekspederes. 2) Recepterne må ikke være indtelefoneret.",
-      "valid_from": "2012-01-31",
-      "valid_to": null
+      "valid_from": "2012-02-03",
+      "valid_to": "2012-04-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:34:27.922Z",
+    "accession": "B20120011105",
+    "document_id": "BK001153",
+    "unique_document_id": "140254",
+    "upstream_status": "Historic",
+    "start_date": "2012-02-03",
+    "end_date": "2022-07-12",
+    "historic_marked": "2012-04-26",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om beskæftigelsesmuligheder for unge m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-06-21",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1985/293/xml",
-  "description": "Retsinformation source. DocumentId=CM028488; AccessionNumber=A19850029330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM028488; AccessionNumber=A19850029330; Ophævet 1995-12-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:51:38.609Z",
+    "accession": "A19850029330",
+    "document_id": "CM028488",
+    "unique_document_id": "69304",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1995-12-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om varmeforsyning",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-24",
+  "in_force_date": "2000-08-28",
   "url": "https://www.retsinformation.dk/eli/lta/2000/772/xml",
-  "description": "Retsinformation source. DocumentId=AL000509; AccessionNumber=A20000077229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000509; AccessionNumber=A20000077229; Ophævet 2005-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:32:49.003Z",
+    "accession": "A20000077229",
+    "document_id": "AL000509",
+    "unique_document_id": "12374",
+    "upstream_status": "Historic",
+    "start_date": "2000-08-28",
+    "end_date": "2021-01-08",
+    "historic_marked": "2005-05-26",
+    "seed_status": "repealed"
+  }
 }

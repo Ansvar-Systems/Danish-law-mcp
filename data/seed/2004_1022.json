@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om vaccination af fjerkræ mod Newcastle disease",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-10-21",
+  "in_force_date": "2004-10-28",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1022/xml",
-  "description": "Retsinformation source. DocumentId=BG000029; AccessionNumber=B20040102205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000029; AccessionNumber=B20040102205; Ophævet 2005-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:53:52.035Z",
+    "accession": "B20040102205",
+    "document_id": "BG000029",
+    "unique_document_id": "31380",
+    "upstream_status": "Historic",
+    "start_date": "2004-10-28",
+    "end_date": "2022-04-09",
+    "historic_marked": "2005-09-29",
+    "seed_status": "repealed"
+  }
 }

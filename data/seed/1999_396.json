@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige autorisationslove inden for sundhedsvæsenet",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/396/xml",
-  "description": "Retsinformation source. DocumentId=AQ000122; AccessionNumber=A19990039630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000122; AccessionNumber=A19990039630; Ophævet 2006-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:26:23.385Z",
+    "accession": "A19990039630",
+    "document_id": "AQ000122",
+    "unique_document_id": "21134",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-02",
+    "end_date": "2022-07-12",
+    "historic_marked": "2006-12-04",
+    "seed_status": "repealed"
+  }
 }

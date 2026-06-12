@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-06",
+  "in_force_date": "2024-12-09",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1433/xml",
   "description": "Retsinformation source. DocumentId=DC001803; AccessionNumber=B20240143305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Fødevarestyrelsen fører kontrol med veterinære forhold, herunder dyrevelfærd, i medfør af: 1) Lov om hold af dyr. 2) Lov om dyrlæger. 3) Lov om dyrevelfærd. 4) Økologiloven. Stk. 2. Fødevarestyrelsen fører endvidere kontrol med mælkeleverende besætninger i medfør af fødevarelovgivningen samt med producenter af metodeæg og slagtefjerkræ i medfør af lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven) og lov om administration af den fælles landbrugspolitik m.v.",
-      "valid_from": "2024-12-06",
+      "valid_from": "2024-12-09",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Fødevarestyrelsen gennemfører kontrollen ved kontrolbesøg, medmindre Fødevarestyrelsen vurderer, at overholdelse af den i § 1 nævnte lovgivning mere hensigtsmæssigt kan kontrolleres på anden vis, herunder ved administrativ kontrol.",
-      "valid_from": "2024-12-06",
+      "valid_from": "2024-12-09",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Fødevarestyrelsen gennemfører en ekstra kontrol (opfølgende kontrol), jf. dog stk. 2, hvis: 1) Der ved kontrol i medfør af § 1 konstateres overtrædelser af lovgivningen, som giver anledning til anmærkninger (indskærpelser, påbud, forbud, bødeforlæg eller politianmeldelse). 2) Styrelsen for Grøn Arealomlægning og Vandmiljø ved kontrol i medfør af lovgivningen om krydsoverensstemmelse og konditionalitet har konstateret overtrædelser af kravene om krydsoverensstemmelse eller konditionalitet i forbindelse med støtteordninger til landbrugere, på de af § 1 omfattede områder. Stk. 2. Stk. 1 finder ikke anvendelse ved anmærkninger meddelt i medfør af bekendtgørelse om særlige foranstaltninger til nedbringelse af antibiotikaforbruget i svinebesætninger.",
-      "valid_from": "2024-12-06",
+      "valid_from": "2024-12-09",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Fødevarestyrelsen kan træffe afgørelse om at gennemføre én eller flere ekstra kontroller (skærpet kontrol), hvis det skønnes nødvendigt for at sikre overholdelse af den i § 1 nævnte lovgivning.",
-      "valid_from": "2024-12-06",
+      "valid_from": "2024-12-09",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. januar 2025. Stk. 2. Bekendtgørelse nr. 537 af 17. maj 2023 om veterinær kontrol ophæves.",
-      "valid_from": "2024-12-06",
+      "valid_from": "2024-12-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:03.139Z",
+    "accession": "B20240143305",
+    "document_id": "DC001803",
+    "unique_document_id": "246954",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-09",
+    "end_date": "2025-07-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-06-04",
+  "in_force_date": "2025-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2025/633/xml",
   "description": "Retsinformation source. DocumentId=CQ003246; AccessionNumber=B20250063305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse på danske pengeinstitutter, som tilbyder betalingskonti, hvorpå en erhvervsdrivende eller en forening kan indsætte midler, hæve kontanter samt udføre og modtage betalingstransaktioner, herunder kredittransaktioner, til og fra tredjemand.",
-      "valid_from": "2025-06-04",
+      "valid_from": "2025-06-06",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. I denne bekendtgørelse forstås ved arbejdende kapital summen af egenkapital, efterstillede kapitalindskud, indlån og anden gæld, indlån i puljeordninger, udstedte obligationer til dagsværdi og udstedte obligationer til amortiseret kostpris.",
-      "valid_from": "2025-06-04",
+      "valid_from": "2025-06-06",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Grænsen for arbejdende kapital, jf. § 1 a, stk. 1, nr. 3, i lov om betalingskonti og basale erhvervskonti, er 15 mia. kr.",
-      "valid_from": "2025-06-04",
+      "valid_from": "2025-06-06",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. juli 2025.",
-      "valid_from": "2025-06-04",
+      "valid_from": "2025-06-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:19:54.222Z",
+    "accession": "B20250063305",
+    "document_id": "CQ003246",
+    "unique_document_id": "250216",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-06",
+    "end_date": "2025-12-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

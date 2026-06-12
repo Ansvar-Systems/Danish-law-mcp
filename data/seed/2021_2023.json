@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-11-09",
+  "in_force_date": "2021-11-09",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2023/xml",
   "description": "Retsinformation source. DocumentId=DG000205; AccessionNumber=B20210202305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -73,5 +74,16 @@
       "definition": "en opstilling over delregnskabet for privatbanens konkurrenceudsatte aktiviteter",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:03:37.008Z",
+    "accession": "B20210202305",
+    "document_id": "DG000205",
+    "unique_document_id": "225458",
+    "upstream_status": "Valid",
+    "start_date": "2021-11-09",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

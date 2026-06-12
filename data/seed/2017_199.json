@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-02-27",
+  "in_force_date": "2017-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2017/199/xml",
   "description": "Retsinformation source. DocumentId=CQ000041; AccessionNumber=B20170019905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Efter sølovens § 461, bekendtgøres York - Antwerpen reglerne af 1974, som ændret i 1990, i deres engelske tekst og i dansk oversættelse.",
-      "valid_from": "2017-02-27",
+      "valid_from": "2017-02-28",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. York - Antwerpen reglerne af 1990 er optaget som bilag til denne bekendtgørelse.",
-      "valid_from": "2017-02-27",
+      "valid_from": "2017-02-28",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. marts 2017.",
-      "valid_from": "2017-02-27",
+      "valid_from": "2017-02-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:08:47.817Z",
+    "accession": "B20170019905",
+    "document_id": "CQ000041",
+    "unique_document_id": "185521",
+    "upstream_status": "Valid",
+    "start_date": "2017-02-28",
+    "end_date": "2017-02-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

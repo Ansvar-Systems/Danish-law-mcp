@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Arbejdsmarkedets Tillægspension",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-05-16",
+  "in_force_date": "2001-05-16",
   "url": "https://www.retsinformation.dk/eli/lta/2001/332/xml",
-  "description": "Retsinformation source. DocumentId=AB001111; AccessionNumber=A20010033230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001111; AccessionNumber=A20010033230; Ophævet 2002-08-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:55:46.287Z",
+    "accession": "A20010033230",
+    "document_id": "AB001111",
+    "unique_document_id": "3723",
+    "upstream_status": "Historic",
+    "start_date": "2001-05-16",
+    "end_date": "2006-08-21",
+    "historic_marked": "2002-08-29",
+    "seed_status": "repealed"
+  }
 }

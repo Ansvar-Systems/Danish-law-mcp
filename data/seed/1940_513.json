@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning angående Politimyndighed for Søværnets Skibe og Luftfartøjer",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1940-10-02",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1940/513/xml",
-  "description": "Retsinformation source. DocumentId=CM000296; AccessionNumber=B19400051303; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000296; AccessionNumber=B19400051303; Ophævet 2008-03-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:52:14.621Z",
+    "accession": "B19400051303",
+    "document_id": "CM000296",
+    "unique_document_id": "41800",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2008-03-14",
+    "historic_marked": "2008-03-13",
+    "seed_status": "repealed"
+  }
 }

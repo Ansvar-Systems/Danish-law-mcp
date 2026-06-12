@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2010-03-23",
+  "in_force_date": "2010-03-23",
   "url": "https://www.retsinformation.dk/eli/lta/2010/246/xml",
   "description": "Retsinformation source. DocumentId=AL002172; AccessionNumber=A20100024630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -59,5 +60,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:07:40.602Z",
+    "accession": "A20100024630",
+    "document_id": "AL002172",
+    "unique_document_id": "130840",
+    "upstream_status": "Valid",
+    "start_date": "2010-03-23",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

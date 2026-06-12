@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ornesæd(* 1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-06-29",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/598/xml",
-  "description": "Retsinformation source. DocumentId=CM037075; AccessionNumber=B19920059805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM037075; AccessionNumber=B19920059805; Ophævet 2016-01-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:36:24.602Z",
+    "accession": "B19920059805",
+    "document_id": "CM037075",
+    "unique_document_id": "77866",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "2016-01-11",
+    "seed_status": "repealed"
+  }
 }

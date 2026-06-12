@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Konkurrencelov (* 1)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-03-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1993/114/xml",
-  "description": "Retsinformation source. DocumentId=CM025222; AccessionNumber=A19930011429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025222; AccessionNumber=A19930011429; Ophævet 1997-06-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:57:38.224Z",
+    "accession": "A19930011429",
+    "document_id": "CM025222",
+    "unique_document_id": "66108",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-12",
+    "historic_marked": "1997-06-11",
+    "seed_status": "repealed"
+  }
 }

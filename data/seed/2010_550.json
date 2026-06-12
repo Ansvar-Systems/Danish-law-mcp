@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om retssikkerhed og administration på det sociale område og lov om social service\\n(Sammenhæng mellem visitationskompetence og finansieringsansvar på det specialiserede socialområde)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-26",
+  "in_force_date": "2010-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2010/550/xml",
-  "description": "Retsinformation source. DocumentId=AO003543; AccessionNumber=A20100055030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO003543; AccessionNumber=A20100055030; Ophævet 2010-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "60",
@@ -20,8 +21,19 @@
       "section": "60",
       "content": "§ 60 a. Er en afgørelse truffet efter bemyndigelse, jf. § 9, stk. 9, indbringes klagen for det sociale nævn, som den kommune, der efter § 9, stk. 7, eller § 9 a, stk. 7, har pligt til at yde hjælp efter lov om social service, hører under.",
       "valid_from": "2010-05-26",
-      "valid_to": null
+      "valid_to": "2010-09-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:19:59.513Z",
+    "accession": "A20100055030",
+    "document_id": "AO003543",
+    "unique_document_id": "132062",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-26",
+    "end_date": "2024-03-06",
+    "historic_marked": "2010-09-23",
+    "seed_status": "repealed"
+  }
 }

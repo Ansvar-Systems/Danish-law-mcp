@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-19",
+  "in_force_date": "2003-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1169/xml",
-  "description": "Retsinformation source. DocumentId=AU001373; AccessionNumber=A20030116930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001373; AccessionNumber=A20030116930; Ophævet 2005-03-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:13:30.817Z",
+    "accession": "A20030116930",
+    "document_id": "AU001373",
+    "unique_document_id": "26485",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-21",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-03-17",
+    "seed_status": "repealed"
+  }
 }

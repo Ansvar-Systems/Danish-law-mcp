@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2015-07-07",
+  "in_force_date": "2015-07-09",
   "url": "https://www.retsinformation.dk/eli/lta/2015/861/xml",
   "description": "Retsinformation source. DocumentId=CH000008; AccessionNumber=B20150086105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "19",
       "section": "19",
       "content": "§ 19. Afgørelser truffet af Trafik- og Byggestyrelsen efter denne bekendtgørelse kan ikke indbringes for transport- og bygningsministeren eller anden administrativ myndighed, jf. dog stk. 2. Stk. 2. Enhver, der har modtaget en afgørelse om afslag eller kun delvis imødekommelse af en ansøgning, kan inden for 4 uger anmode Trafik- og Byggestyrelsen om at foretage en ny vurdering af sagen. Afgørelser truffet efter dette stykke kan ikke indbringes for transport- og bygningsministeren eller anden administrativ myndighed.",
-      "valid_from": "2015-07-07",
+      "valid_from": "2015-07-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:26:18.069Z",
+    "accession": "B20150086105",
+    "document_id": "CH000008",
+    "unique_document_id": "173261",
+    "upstream_status": "Valid",
+    "start_date": "2015-07-09",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

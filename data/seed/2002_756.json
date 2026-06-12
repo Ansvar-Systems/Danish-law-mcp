@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod udførsel af fjerkræ og rugeæg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-09-11",
+  "in_force_date": "2002-09-11",
   "url": "https://www.retsinformation.dk/eli/lta/2002/756/xml",
-  "description": "Retsinformation source. DocumentId=AH001264; AccessionNumber=B20020075605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001264; AccessionNumber=B20020075605; Ophævet 2002-09-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:57:05.454Z",
+    "accession": "B20020075605",
+    "document_id": "AH001264",
+    "unique_document_id": "7561",
+    "upstream_status": "Historic",
+    "start_date": "2002-09-11",
+    "end_date": "2022-04-09",
+    "historic_marked": "2002-09-30",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2022-01-05",
+  "in_force_date": "2022-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2022/28/xml",
   "description": "Retsinformation source. DocumentId=AA012729; AccessionNumber=B20220002805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 25, stk. 3, nr. 8, i udleveringsloven, lov nr. 117 af 11. februar 2020, sættes i kraft.",
-      "valid_from": "2022-01-05",
+      "valid_from": "2022-01-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2022.",
-      "valid_from": "2022-01-05",
+      "valid_from": "2022-01-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:32:35.618Z",
+    "accession": "B20220002805",
+    "document_id": "AA012729",
+    "unique_document_id": "225855",
+    "upstream_status": "Valid",
+    "start_date": "2022-01-14",
+    "end_date": "2022-01-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

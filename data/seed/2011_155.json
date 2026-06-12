@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed\\n(Autorisation som optometrist m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-02-26",
+  "in_force_date": "2011-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2011/155/xml",
-  "description": "Retsinformation source. DocumentId=AI003760; AccessionNumber=A20110015530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI003760; AccessionNumber=A20110015530; Ophævet 2011-08-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "68",
@@ -19,9 +20,20 @@
       "provision_ref": "68",
       "section": "68",
       "content": "§ 68. Autorisation som kontaktlinseoptiker meddeles den, der har opnået autorisation som optiker, og som herudover har bestået en af undervisningsministeren godkendt uddannelse i kontaktlinsetilpasning eller gennemført et udenlandsk uddannelsesforløb, der kan sidestilles hermed, jf. §§ 2 og 3. Ansøgning om autorisation som kontaktlinseoptiker skal indgives til Sundhedsstyrelsen inden den 1. januar 2016. Stk. 2. Autorisation som optometrist meddeles den, der har bestået dansk optometristeksamen eller en udenlandsk eksamen, der kan sidestilles hermed, jf. §§ 2 og 3. Stk. 3. Ret til at betegne sig som kontaktlinseoptiker og optometrist har kun den, der har autorisation som kontaktlinseoptiker eller optometrist. Stk. 4. Ret til at udøve virksomhed som kontaktlinseoptiker og optometrist har kun den, der har autorisation som kontaktlinseoptiker eller optometrist, jf. dog stk. 7. Stk. 5. Virksomhed som kontaktlinseoptiker og optometrist omfatter ud over virksomhed som optiker, jf. § 67, stk. 4, tillige tilpasning, kontrol og udlevering af kontaktlinser. Stk. 6. Indenrigs- og sundhedsministeren kan fastsætte regler om udøvelse af virksomhed som kontaktlinseoptiker og optometrist, jf. stk. 5, og om afgrænsning heraf. Stk. 7. Lægers virksomhed berøres ikke af bestemmelserne i stk. 4-6.",
-      "valid_from": "2011-02-26",
-      "valid_to": null
+      "valid_from": "2011-02-28",
+      "valid_to": "2011-08-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:55:52.142Z",
+    "accession": "A20110015530",
+    "document_id": "AI003760",
+    "unique_document_id": "136024",
+    "upstream_status": "Historic",
+    "start_date": "2011-02-28",
+    "end_date": "2022-07-12",
+    "historic_marked": "2011-08-08",
+    "seed_status": "repealed"
+  }
 }

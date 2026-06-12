@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2009-05-13",
+  "in_force_date": "2009-05-15",
   "url": "https://www.retsinformation.dk/eli/lta/2009/367/xml",
   "description": "Retsinformation source. DocumentId=BE003356; AccessionNumber=B20090036705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -43,7 +44,7 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Visse typer af dokumenter kan udstedes uden underskrift eller med maskinelt gengivet underskrift eller på tilsvarende måde efter reglerne i denne bekendtgørelse. Disse dokumenter sidestilles i retlig henseende med dokumenter med personlig underskrift.",
-      "valid_from": "2009-05-13",
+      "valid_from": "2009-05-15",
       "valid_to": null
     },
     {
@@ -51,7 +52,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ved behandlingen af arbejdsskadesager i Arbejdsskadestyrelsen kan følgende dokumenter udstedes uden underskrift eller med maskinelt gengivet underskrift eller på tilsvarende måde: 1) Kvitteringsbreve 2) Rykkerbreve 3) Spørgebreve og spørgeskemaer til brug for sagsoplysningen 4) Oplysningsbreve til brug for sagsoplysningen 5) Breve med rent orienterende indhold, for eksempel om frister",
-      "valid_from": "2009-05-13",
+      "valid_from": "2009-05-15",
       "valid_to": null
     },
     {
@@ -59,7 +60,7 @@
       "chapter": "2",
       "section": "3",
       "content": "§ 3. Ved behandlingen af arbejdsskadesager i Ankestyrelsen kan følgende dokumenter udstedes uden underskrift eller med maskinelt gengivet underskrift eller på tilsvarende måde: 1) Kvitteringsbreve 2) Rykkerbreve 3) Spørgebreve og spørgeskemaer til brug for sagsoplysningen 4) Oplysningsbreve til brug for sagsoplysningen 5) Breve med rent orienterende indhold, for eksempel om frister",
-      "valid_from": "2009-05-13",
+      "valid_from": "2009-05-15",
       "valid_to": null
     },
     {
@@ -67,7 +68,7 @@
       "chapter": "3",
       "section": "4",
       "content": "§ 4. Ved behandlingen af sager efter § 81 i arbejdsskadesikringsloven og § 10 i erstatningsansvarsloven i Arbejdsskadestyrelsen kan følgende dokumenter udstedes uden underskrift eller med maskinelt gengivet underskrift eller på tilsvarende måde: 1) Kvitteringsbreve 2) Rykkerbreve 3) Spørgebreve og spørgeskemaer til brug for sagsoplysningen 4) Oplysningsbreve til brug for sagsoplysningen 5) Breve med rent orienterende indhold, for eksempel om frister",
-      "valid_from": "2009-05-13",
+      "valid_from": "2009-05-15",
       "valid_to": null
     },
     {
@@ -75,9 +76,20 @@
       "chapter": "4",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 18. maj 2009. Stk. 2. Bekendtgørelsen har virkning for dokumenter, der sendes på ikrafttrædelsesdagen eller senere, jf. § 3, stk. 5, i lov nr. 186 af 18. marts 2009 om ændring af lov om arbejdsskadesikring.",
-      "valid_from": "2009-05-13",
+      "valid_from": "2009-05-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:09:03.192Z",
+    "accession": "B20090036705",
+    "document_id": "BE003356",
+    "unique_document_id": "124753",
+    "upstream_status": "Valid",
+    "start_date": "2009-05-15",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

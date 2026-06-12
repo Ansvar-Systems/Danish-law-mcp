@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-05-22",
+  "in_force_date": "2025-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2025/540/xml",
   "description": "Retsinformation source. DocumentId=DC001865; AccessionNumber=B20250054005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1052 af 29. oktober 2008 om forbud mod indførsel af visse levende fisk og visse akvakulturprodukter fra Malaysia ophæves.",
-      "valid_from": "2025-05-22",
+      "valid_from": "2025-05-26",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2025.",
-      "valid_from": "2025-05-22",
+      "valid_from": "2025-05-26",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:16:09.652Z",
+    "accession": "B20250054005",
+    "document_id": "DC001865",
+    "unique_document_id": "249030",
+    "upstream_status": "Valid",
+    "start_date": "2025-05-26",
+    "end_date": "2025-05-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

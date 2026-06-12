@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for sortslisteoptagelse og plantenyhedsbeskyttelse m.m.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-16",
+  "in_force_date": "2009-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1464/xml",
-  "description": "Retsinformation source. DocumentId=AH003511; AccessionNumber=B20090146405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003511; AccessionNumber=B20090146405; Ophævet 2010-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For anmeldelse af en sort af en kulturplante med henblik på godkendelse af sorten til optagelse på sortsliste, jf. bekendtgørelse om en fortegnelse over godkendte sorter af landbrugsplante- og grønsagsarter (sortslisten), eller til beskyttelse som plantenyhed, jf. lov om plantenyheder, betales gebyrer som fastsat i bilag 1 til dækning af Plantedirektoratets udgifter til administration og godkendelse m.m. Stk. 2. For godkendte sorter optaget på sortsliste, eller sorter beskyttet som plantenyheder, betales et årligt gebyr for optagelsen eller beskyttelsen, som fastsat i bilag 1.",
-      "valid_from": "2009-12-16",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-12-20"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Gebyrer forfalder ved påkrav, og betaling skal ske senest 30 dage efter fakturaens dato. Stk. 2. Betales forfaldne gebyrer ikke rettidigt, skal der betales en årlig rente svarende til renten i henhold til rentelovens § 5. Den tillagte rente udgør dog mindst 50 kr. Stk. 3. For erindringsskrivelser betales et rykkergebyr på 100 kr.",
-      "valid_from": "2009-12-16",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-12-20"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2010. Stk. 2. Bekendtgørelse nr. 1236 af 15. december 2008 om betaling for sortslisteoptagelse og plantenyhedsbeskyttelse m.m. ophæves.",
-      "valid_from": "2009-12-16",
-      "valid_to": null
+      "valid_from": "2009-12-23",
+      "valid_to": "2010-12-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:56:28.361Z",
+    "accession": "B20090146405",
+    "document_id": "AH003511",
+    "unique_document_id": "128351",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-23",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-12-20",
+    "seed_status": "repealed"
+  }
 }

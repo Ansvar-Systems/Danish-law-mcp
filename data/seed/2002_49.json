@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om sparevirksomheder",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-01-11",
+  "in_force_date": "2002-02-07",
   "url": "https://www.retsinformation.dk/eli/lta/2002/49/xml",
-  "description": "Retsinformation source. DocumentId=AU000343; AccessionNumber=A20020004929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000343; AccessionNumber=A20020004929; Ophævet 2002-08-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:46:32.132Z",
+    "accession": "A20020004929",
+    "document_id": "AU000343",
+    "unique_document_id": "25760",
+    "upstream_status": "Historic",
+    "start_date": "2002-02-07",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-08-15",
+    "seed_status": "repealed"
+  }
 }

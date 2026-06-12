@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om skibes sikkerhed m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-05-02",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/283/xml",
-  "description": "Retsinformation source. DocumentId=CM025262; AccessionNumber=A19950028329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025262; AccessionNumber=A19950028329; Ophævet 1996-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:32:41.308Z",
+    "accession": "A19950028329",
+    "document_id": "CM025262",
+    "unique_document_id": "66148",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1996-07-05",
+    "seed_status": "repealed"
+  }
 }

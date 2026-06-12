@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af merværdiafgiftsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-08-16",
+  "in_force_date": "2000-09-04",
   "url": "https://www.retsinformation.dk/eli/lta/2000/804/xml",
-  "description": "Retsinformation source. DocumentId=AN001247; AccessionNumber=A20000080429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001247; AccessionNumber=A20000080429; Ophævet 2003-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:34:07.320Z",
+    "accession": "A20000080429",
+    "document_id": "AN001247",
+    "unique_document_id": "14039",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-04",
+    "end_date": "2014-10-21",
+    "historic_marked": "2003-08-19",
+    "seed_status": "repealed"
+  }
 }

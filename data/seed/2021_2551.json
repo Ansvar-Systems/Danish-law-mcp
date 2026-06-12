@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undtagelse af udgifter til håndtering af økonomiske konsekvenser af COVID-19 hos mink fra delloftet for driftsudgifter",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-20",
+  "in_force_date": "2021-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2551/xml",
-  "description": "Retsinformation source. DocumentId=AE002949; AccessionNumber=B20210255105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE002949; AccessionNumber=B20210255105; Ophævet 2022-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Uanset § 9, stk. 2, i budgetloven omfatter det statslige delloft for drift ikke udgifter, der afholdes af eller overføres fra følgende konti på finansloven: 1) § 08.21.10.14. Klagesager vedr. mink i Miljø- og Fødevareklagenævnet. 2) § 23.21.01.12. Afværgeforanstaltninger vedrørende mink og covid-19. 3) § 24.32.01.25. Udgifter vedr. håndtering af Covid-19 hos mink. 4) § 24.32.14.20. Erstatninger mv. vedr. mink. 5) § 28.51.16. Erstatningskommissioner. 6) § 28.71.01.11. Nedrivning af minkerhvervets produktionsanlæg.",
-      "valid_from": "2021-12-20",
-      "valid_to": null
+      "valid_from": "2021-12-22",
+      "valid_to": "2022-12-16"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 31. december 2021. Stk. 2. Bekendtgørelsen har virkning fra finansåret 2022.",
-      "valid_from": "2021-12-20",
-      "valid_to": null
+      "valid_from": "2021-12-22",
+      "valid_to": "2022-12-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:24:58.009Z",
+    "accession": "B20210255105",
+    "document_id": "AE002949",
+    "unique_document_id": "228417",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-22",
+    "end_date": "2022-12-17",
+    "historic_marked": "2022-12-16",
+    "seed_status": "repealed"
+  }
 }

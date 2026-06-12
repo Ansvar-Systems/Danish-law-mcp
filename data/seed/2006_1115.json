@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om elforsyning",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-11-08",
+  "in_force_date": "2006-11-20",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1115/xml",
-  "description": "Retsinformation source. DocumentId=AR001269; AccessionNumber=A20060111529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001269; AccessionNumber=A20060111529; Ophævet 2010-05-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:47:29.883Z",
+    "accession": "A20060111529",
+    "document_id": "AR001269",
+    "unique_document_id": "22613",
+    "upstream_status": "Historic",
+    "start_date": "2006-11-20",
+    "end_date": "2023-11-08",
+    "historic_marked": "2010-05-25",
+    "seed_status": "repealed"
+  }
 }

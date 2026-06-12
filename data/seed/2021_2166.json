@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2021-11-29",
+  "in_force_date": "2021-11-29",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2166/xml",
   "description": "Retsinformation source. DocumentId=DB000384; AccessionNumber=A20210216629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -401,5 +402,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:09:20.446Z",
+    "accession": "A20210216629",
+    "document_id": "DB000384",
+    "unique_document_id": "225161",
+    "upstream_status": "Valid",
+    "start_date": "2021-11-29",
+    "end_date": "2026-02-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om museer m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-17",
+  "in_force_date": "2000-08-18",
   "url": "https://www.retsinformation.dk/eli/lta/2000/739/xml",
-  "description": "Retsinformation source. DocumentId=AK000096; AccessionNumber=A20000073929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000096; AccessionNumber=A20000073929; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:31:28.599Z",
+    "accession": "A20000073929",
+    "document_id": "AK000096",
+    "unique_document_id": "11769",
+    "upstream_status": "Historic",
+    "start_date": "2000-08-18",
+    "end_date": "2010-11-20",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af konkurrenceloven og lov om benzinforhandlerkontrakter\\n(Nedsættelse af tærskelværdier for fusionskontrol, godkendelse af fusioner efter forenklet sagsbehandling, ændrede tidsfrister for behandling af fusioner, entydigt forbud mod markedsdelingsaftaler m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-12",
+  "in_force_date": "2010-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2010/495/xml",
-  "description": "Retsinformation source. DocumentId=AU004037; AccessionNumber=A20100049530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU004037; AccessionNumber=A20100049530; Ophævet 2011-01-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "26",
@@ -20,8 +21,19 @@
       "section": "26",
       "content": "§ 26. Dersom flere personer har erstatningskrav som følge af overtrædelser af denne lov eller EUF-traktatens artikel 101 og 102, kan Forbrugerombudsmanden udpeges som grupperepræsentant i et gruppesøgsmål herom, jf. retsplejelovens kapitel 23 a.",
       "valid_from": "2010-05-12",
-      "valid_to": null
+      "valid_to": "2011-01-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:17:43.839Z",
+    "accession": "A20100049530",
+    "document_id": "AU004037",
+    "unique_document_id": "131725",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-12",
+    "end_date": "2017-12-08",
+    "historic_marked": "2011-01-03",
+    "seed_status": "repealed"
+  }
 }

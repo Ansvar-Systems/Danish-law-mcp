@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om regulering af dagpengegivende indtægter pr. 3. oktober 1988",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-08-24",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1988/508/xml",
-  "description": "Retsinformation source. DocumentId=CM012046; AccessionNumber=B19880050805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012046; AccessionNumber=B19880050805; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:13:51.797Z",
+    "accession": "B19880050805",
+    "document_id": "CM012046",
+    "unique_document_id": "53197",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2013-10-17",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

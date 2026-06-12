@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om visse ligningslovsregler m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-10-12",
+  "in_force_date": "2005-10-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/962/xml",
-  "description": "Retsinformation source. DocumentId=AN004910; AccessionNumber=B20050096205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004910; AccessionNumber=B20050096205; Ophævet 2009-06-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:41:19.375Z",
+    "accession": "B20050096205",
+    "document_id": "AN004910",
+    "unique_document_id": "17048",
+    "upstream_status": "Historic",
+    "start_date": "2005-10-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2009-06-24",
+    "seed_status": "repealed"
+  }
 }

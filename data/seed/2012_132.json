@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om toldbehandling",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-02-03",
+  "in_force_date": "2012-02-14",
   "url": "https://www.retsinformation.dk/eli/lta/2012/132/xml",
-  "description": "Retsinformation source. DocumentId=AN011047; AccessionNumber=B20120013205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011047; AccessionNumber=B20120013205; Ophævet 2012-05-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "115",
@@ -19,9 +20,20 @@
       "provision_ref": "115",
       "section": "115",
       "content": "§ 115. Afgiftsfri indførsel af spiritus, tobak, hedvin, bordvin og øl fra tredjelande kan kun foretages af personer, der er fyldt 17 år.",
-      "valid_from": "2012-02-03",
-      "valid_to": null
+      "valid_from": "2012-02-14",
+      "valid_to": "2012-05-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:42:55.180Z",
+    "accession": "B20120013205",
+    "document_id": "AN011047",
+    "unique_document_id": "140436",
+    "upstream_status": "Historic",
+    "start_date": "2012-02-14",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-05-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om behandling af patienter med livstruende kræftsygdomme m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-22",
+  "in_force_date": "2001-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2001/743/xml",
-  "description": "Retsinformation source. DocumentId=AQ000826; AccessionNumber=B20010074305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000826; AccessionNumber=B20010074305; Ophævet 2007-01-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:12:13.773Z",
+    "accession": "B20010074305",
+    "document_id": "AQ000826",
+    "unique_document_id": "21709",
+    "upstream_status": "Historic",
+    "start_date": "2001-08-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "2007-01-11",
+    "seed_status": "repealed"
+  }
 }

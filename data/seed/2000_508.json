@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sikkerhedsstillelse ved registrering.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-07",
+  "in_force_date": "2000-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2000/508/xml",
-  "description": "Retsinformation source. DocumentId=AN001015; AccessionNumber=B20000050805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001015; AccessionNumber=B20000050805; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:22:10.923Z",
+    "accession": "B20000050805",
+    "document_id": "AN001015",
+    "unique_document_id": "13809",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-14",
+    "end_date": "2004-01-16",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

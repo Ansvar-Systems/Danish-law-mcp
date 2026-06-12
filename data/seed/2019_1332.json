@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2019-12-09",
+  "in_force_date": "2019-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1332/xml",
   "description": "Retsinformation source. DocumentId=AN014155; AccessionNumber=B20190133205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1, 11 og 17-20, og §§ 3-8 i lov nr. 1110 af 13. november 2019 om ændring af lov om inddrivelse af gæld til det offentlige, lov om retsafgifter og forskellige andre love (Forenkling af regler om forældelseshåndtering, modregning ved transporter, flere skyldnere på samme fordring, eftergivelse og afskrivning, retsafgift m.v.) sættes i kraft.",
-      "valid_from": "2019-12-09",
+      "valid_from": "2019-12-10",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. § 1, nr. 1, 11 og 17-20, i lov nr. 1110 af 13. november 2019 om ændring af lov om inddrivelse af gæld til det offentlige, lov om retsafgifter og forskellige andre love (Forenkling af regler om forældelseshåndtering, modregning ved transporter, flere skyldnere på samme fordring, eftergivelse og afskrivning, retsafgift m.v.) finder fra ikrafttrædelsen anvendelse for fordringer under inddrivelse i restanceinddrivelsesmyndighedens inddrivelsessystem PSRM.",
-      "valid_from": "2019-12-09",
+      "valid_from": "2019-12-10",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 17. december 2019.",
-      "valid_from": "2019-12-09",
+      "valid_from": "2019-12-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:48.946Z",
+    "accession": "B20190133205",
+    "document_id": "AN014155",
+    "unique_document_id": "211812",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-10",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

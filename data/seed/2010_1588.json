@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1588/xml",
   "description": "Retsinformation source. DocumentId=AT004408; AccessionNumber=B20100158805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Institutionerne beregner og indberetter til Undervisningsministeriet ikke-fradragsberettiget købsmoms i henhold til § 1. Ikke-fradragsberettiget købsmoms, der indgår i institutionens indtægtsdækkede virksomhed, skal ikke indberettes.",
-      "valid_from": "2010-12-21",
+      "valid_from": "2010-12-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:58:52.561Z",
+    "accession": "B20100158805",
+    "document_id": "AT004408",
+    "unique_document_id": "134726",
+    "upstream_status": "Valid",
+    "start_date": "2010-12-22",
+    "end_date": "2021-01-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

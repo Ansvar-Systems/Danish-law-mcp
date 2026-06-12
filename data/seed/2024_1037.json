@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om inddrivelse af gæld til det offentlige (Tværgående lønindeholdelse for fordringer fra flere inddrivelsessystemer m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-09-17",
+  "in_force_date": "2024-09-17",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1037/xml",
-  "description": "Retsinformation source. DocumentId=AN016426; AccessionNumber=B20240103705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN016426; AccessionNumber=B20240103705; Ophævet 2024-09-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. Lov nr. 1566 af 12. december 2023 om ændring af lov om inddrivelse af gæld til det offentlige (Tværgående lønindeholdelse for fordringer fra flere inddrivelsessystemer m.v.) sættes i kraft.",
       "valid_from": "2024-09-17",
-      "valid_to": null
+      "valid_to": "2024-09-27"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. september 2024.",
       "valid_from": "2024-09-17",
-      "valid_to": null
+      "valid_to": "2024-09-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:24:01.093Z",
+    "accession": "B20240103705",
+    "document_id": "AN016426",
+    "unique_document_id": "244586",
+    "upstream_status": "Historic",
+    "start_date": "2024-09-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-09-27",
+    "seed_status": "repealed"
+  }
 }

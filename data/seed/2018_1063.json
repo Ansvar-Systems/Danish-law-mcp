@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 9, og §§ 2 og 9-11 i lov nr. 670 af 8. juni 2017 om ændring af retsplejeloven, lov om Bruxelles I-forordningen m.v. og forskellige andre love (Ændring af reglerne for lægdommere, gennemførelse af værnetingsaftalekonventionen m.v.).",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-08-21",
+  "in_force_date": "2018-08-23",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1063/xml",
-  "description": "Retsinformation source. DocumentId=AA010994; AccessionNumber=B20180106305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA010994; AccessionNumber=B20180106305; Ophævet 2021-03-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 9, og §§ 2 og 9-11 i lov nr. 670 af 8. juni 2017 om ændring af retsplejeloven, lov om Bruxelles I-forordningen m.v. og forskellige andre love (Ændring af reglerne for lægdommere, gennemførelse af værnetingsaftalekonventionen m.v.) sættes i kraft.",
-      "valid_from": "2018-08-21",
-      "valid_to": null
+      "valid_from": "2018-08-23",
+      "valid_to": "2021-03-16"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. september 2018.",
-      "valid_from": "2018-08-21",
-      "valid_to": null
+      "valid_from": "2018-08-23",
+      "valid_to": "2021-03-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:25:03.434Z",
+    "accession": "B20180106305",
+    "document_id": "AA010994",
+    "unique_document_id": "202850",
+    "upstream_status": "Historic",
+    "start_date": "2018-08-23",
+    "end_date": "2022-02-09",
+    "historic_marked": "2021-03-16",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om gebyr i forbindelse med notering af pant i betalingsrettigheder under enkeltbetalingsordningen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-06-25",
+  "in_force_date": "2008-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2008/641/xml",
-  "description": "Retsinformation source. DocumentId=AH002798; AccessionNumber=B20080064105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002798; AccessionNumber=B20080064105; Ophævet 2015-03-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Der skal betales et gebyr for FødevareErhvervs modtagelse og notering af underretning om pant i betalingsrettigheder efter enkeltbetalingsordningen. Stk. 2. Gebyret betales for hver underretning vedrørende den enkelte pantsætter både ved notering af pant i betalingsrettigheder og ved udvidelse af pantet.",
-      "valid_from": "2008-06-25",
-      "valid_to": null
+      "valid_from": "2008-06-28",
+      "valid_to": "2015-03-12"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Gebyret udgør 575 kr. Indbetalingen påhviler panthaver. Beløbet indsættes på konto nr. 0216-4069048544 i Danske Bank eller fremsendes pr. check til FødevareErhverv.",
-      "valid_from": "2008-06-25",
-      "valid_to": null
+      "valid_from": "2008-06-28",
+      "valid_to": "2015-03-12"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2008. Den finder anvendelse på noteringer af pantsætninger, hvorom underretning modtages i FødevareErhverv fra og med denne dato. Stk. 2. Bekendtgørelse nr. 118 af 24. februar 2005 om gebyr i forbindelse med notering af pant i betalingsrettigheder under enkeltbetalingsordningen ophæves.",
-      "valid_from": "2008-06-25",
-      "valid_to": null
+      "valid_from": "2008-06-28",
+      "valid_to": "2015-03-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:22:55.591Z",
+    "accession": "B20080064105",
+    "document_id": "AH002798",
+    "unique_document_id": "115139",
+    "upstream_status": "Historic",
+    "start_date": "2008-06-28",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-03-12",
+    "seed_status": "repealed"
+  }
 }

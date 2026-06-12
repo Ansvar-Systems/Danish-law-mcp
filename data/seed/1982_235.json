@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om foranstaltninger i anledning af stormfaldet i 1981 (Stormfaldsloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1982-05-26",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1982/235/xml",
-  "description": "Retsinformation source. DocumentId=CM038960; AccessionNumber=A19820023530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038960; AccessionNumber=A19820023530; Ophævet 2005-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:16:31.222Z",
+    "accession": "A19820023530",
+    "document_id": "CM038960",
+    "unique_document_id": "79747",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-12-28",
+    "historic_marked": "2005-12-21",
+    "seed_status": "repealed"
+  }
 }

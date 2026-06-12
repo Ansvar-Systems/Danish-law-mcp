@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v.",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-03-10",
+  "in_force_date": "2017-03-11",
   "url": "https://www.retsinformation.dk/eli/lta/2017/233/xml",
-  "description": "Retsinformation source. DocumentId=CQ000086; AccessionNumber=B20170023305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000086; AccessionNumber=B20170023305; Ophævet 2018-03-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Omsætningsgrænsen i § 5, stk. 1, og bagatelgrænsen i § 5, stk. 4, i lov om detailsalg fra butikker m.v. udgør henholdsvis 33,9 mio. kr. inkl. moms og 14,6 mio. kr. inkl. moms.",
-      "valid_from": "2017-03-10",
-      "valid_to": null
+      "valid_from": "2017-03-11",
+      "valid_to": "2018-03-14"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 13. marts 2017. Stk. 2. Bekendtgørelse nr. 196 af 26. februar 2016 om omsætningsgrænsen og bagatelgrænsen for butikker omfattet af § 5 i lov om detailsalg fra butikker m.v. ophæves.",
-      "valid_from": "2017-03-10",
-      "valid_to": null
+      "valid_from": "2017-03-11",
+      "valid_to": "2018-03-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:10:13.213Z",
+    "accession": "B20170023305",
+    "document_id": "CQ000086",
+    "unique_document_id": "187083",
+    "upstream_status": "Historic",
+    "start_date": "2017-03-11",
+    "end_date": "2018-03-15",
+    "historic_marked": "2018-03-14",
+    "seed_status": "repealed"
+  }
 }

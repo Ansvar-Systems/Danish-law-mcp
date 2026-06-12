@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-09-23",
+  "in_force_date": "2021-11-11",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2033/xml",
   "description": "Retsinformation source. DocumentId=AG001004; AccessionNumber=B20210203305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Isafgiften for perioden 1. januar 2022 til 31. december 2022 udgør 0,05 kr. pr. tons fragtskibsgods.",
-      "valid_from": "2021-09-23",
+      "valid_from": "2021-11-11",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2022.",
-      "valid_from": "2021-09-23",
+      "valid_from": "2021-11-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:04:00.824Z",
+    "accession": "B20210203305",
+    "document_id": "AG001004",
+    "unique_document_id": "225810",
+    "upstream_status": "Valid",
+    "start_date": "2021-11-11",
+    "end_date": "2021-11-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-08-21",
+  "in_force_date": "2023-09-27",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1190/xml",
   "description": "Retsinformation source. DocumentId=CE001371; AccessionNumber=B20230119005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Reglerne om stillingsstrukturen og indholdet af de stillingskategorier, der kan benyttes for kunstnerisk og videnskabeligt personale ved Det Kongelige Danske Kunstakademis Skoler for Arkitektur, Design og Konservering, Arkitektskolen Aarhus samt Designskolen Kolding, er fastsat i bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2023-08-21",
+      "valid_from": "2023-09-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. november 2023. Stk 2. Bekendtgørelse nr. 962 af 24. august 2015 om stillingsstruktur for kunstnerisk og videnskabeligt personale ved Det Kongelige Danske Kunstakademis Skoler for Arkitektur, Design og Konservering, Arkitektskolen Aarhus samt Designskolen Kolding ophæves.",
-      "valid_from": "2023-08-21",
+      "valid_from": "2023-09-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:19.231Z",
+    "accession": "B20230119005",
+    "document_id": "CE001371",
+    "unique_document_id": "238769",
+    "upstream_status": "Valid",
+    "start_date": "2023-09-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

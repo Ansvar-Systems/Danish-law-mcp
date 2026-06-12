@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2021-11-27",
+  "in_force_date": "2021-11-27",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2157/xml",
   "description": "Retsinformation source. DocumentId=DE000181; AccessionNumber=A20210215730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,5 +30,16 @@
       "definition": "et boligområde, jf",
       "source_provision": "61b"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:08:58.735Z",
+    "accession": "A20210215730",
+    "document_id": "DE000181",
+    "unique_document_id": "226336",
+    "upstream_status": "Valid",
+    "start_date": "2021-11-27",
+    "end_date": "2023-11-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

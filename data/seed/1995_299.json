@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af bekendtgørelse angående forsikring af danske fiskefartøjer mod krigsfare",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-05-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/299/xml",
-  "description": "Retsinformation source. DocumentId=CM023550; AccessionNumber=B19950029905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023550; AccessionNumber=B19950029905; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:33:17.878Z",
+    "accession": "B19950029905",
+    "document_id": "CM023550",
+    "unique_document_id": "64511",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

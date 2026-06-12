@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af fotografiloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-06-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1985/275/xml",
-  "description": "Retsinformation source. DocumentId=CM006570; AccessionNumber=A19850027530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006570; AccessionNumber=A19850027530; Ophævet 1997-04-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:51:14.011Z",
+    "accession": "A19850027530",
+    "document_id": "CM006570",
+    "unique_document_id": "47769",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2000-07-18",
+    "historic_marked": "1997-04-21",
+    "seed_status": "repealed"
+  }
 }

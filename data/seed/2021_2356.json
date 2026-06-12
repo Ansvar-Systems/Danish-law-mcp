@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til friskoler og private grundskoler m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-08",
+  "in_force_date": "2021-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2356/xml",
-  "description": "Retsinformation source. DocumentId=DA000720; AccessionNumber=B20210235605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000720; AccessionNumber=B20210235605; Ophævet 2023-05-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -19,9 +20,20 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17. Tilskud, som Fordelingssekretariatet for friskoler og private grundskoler skal fordele til skolerne, jf. lovens § 11, stk. 1, nr. 2-3 og 5, og § 17, stk. 1 og 2, og tilskud, som Deutscher Schul- und Sprachverein für Nordschleswig skal fordele til tyske mindretalsskoler, jf. lovens § 11, stk. 1, nr. 6, og § 14, udbetales kvartalsvist forud pr. 1. januar, pr. 1. april, pr. 1. juli, og pr. 1. oktober i lige store rater til Fordelingssekretariatet samt Deutscher Schul- und Sprachverein für Nordschleswig.",
-      "valid_from": "2021-12-08",
-      "valid_to": null
+      "valid_from": "2021-12-10",
+      "valid_to": "2023-05-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:17:00.915Z",
+    "accession": "B20210235605",
+    "document_id": "DA000720",
+    "unique_document_id": "228011",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-10",
+    "end_date": "2025-08-27",
+    "historic_marked": "2023-05-22",
+    "seed_status": "repealed"
+  }
 }

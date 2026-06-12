@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Nordsøenheden og Nordsøfonden (Deltagelse i CO2-lagringsaktiviteter)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-12-28",
+  "in_force_date": "2022-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1592/xml",
-  "description": "Retsinformation source. DocumentId=CQ002426; AccessionNumber=A20220159230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ002426; AccessionNumber=A20220159230; Ophævet 2023-02-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10a",
@@ -20,8 +21,19 @@
       "section": "10a",
       "content": "§ 10 a. Staten indtræder i Nordsøfondens og dennes datterselskabers rettigheder og forpligtelser i det omfang, deres respektive egenkapital og hensættelser ikke er tilstrækkelige. Erhvervsministeren kan i forbindelse med statens del­ta‍gelse i kulbrinteaktiviteter og CO 2 -lagringsaktiviteter stille garanti for Nordsøfondens aktiviteter.",
       "valid_from": "2022-12-28",
-      "valid_to": null
+      "valid_to": "2023-02-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:23.079Z",
+    "accession": "A20220159230",
+    "document_id": "CQ002426",
+    "unique_document_id": "234174",
+    "upstream_status": "Historic",
+    "start_date": "2022-12-28",
+    "end_date": "2023-02-07",
+    "historic_marked": "2023-02-06",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om arbejdsmiljø i Grønland",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-06-04",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1986/295/xml",
-  "description": "Retsinformation source. DocumentId=CM028489; AccessionNumber=A19860029530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM028489; AccessionNumber=A19860029530; Ophævet 2005-11-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:06:12.831Z",
+    "accession": "A19860029530",
+    "document_id": "CM028489",
+    "unique_document_id": "69305",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2009-08-19",
+    "historic_marked": "2005-11-10",
+    "seed_status": "repealed"
+  }
 }

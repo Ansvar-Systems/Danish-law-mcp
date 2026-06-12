@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om drift af almene boliger m.v.\\n(Ændrede regler for dækning af tab på fraflyttede lejere m.v.)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-03-25",
+  "in_force_date": "2013-03-26",
   "url": "https://www.retsinformation.dk/eli/lta/2013/332/xml",
-  "description": "Retsinformation source. DocumentId=BV000108; AccessionNumber=B20130033205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BV000108; AccessionNumber=B20130033205; Ophævet 2013-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "40",
@@ -19,9 +20,20 @@
       "provision_ref": "40",
       "section": "40",
       "content": "§ 40. Afdelingernes henlæggelser til dispositionsfonden skal årligt udgøre 544 kr. pr. lejemålsenhed, indtil fonden i likvide midler for boligorganisationen som helhed udgør 5.434 kr. pr. lejemålsenhed, jf. § 30, stk. 4. Hvis fondens saldo overstiger dette beløb, ophører de årlige henlæggelser. Hvis fondens saldo nedbringes under dette beløb, foretages på ny årlige henlæggelser. De nævnte beløb reguleres i overensstemmelse med det nettoprisindeks, som Danmarks Statistik beregner. Reguleringen sker med pristallet for april måned 2012 som basis. Reguleringen foretages én gang årligt, første gang med virkning for det regnskabsår, der følger nærmest efter offentliggørelsen af pristallet for april måned 2013.",
-      "valid_from": "2013-03-25",
-      "valid_to": null
+      "valid_from": "2013-03-26",
+      "valid_to": "2013-12-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:09.116Z",
+    "accession": "B20130033205",
+    "document_id": "BV000108",
+    "unique_document_id": "146135",
+    "upstream_status": "Historic",
+    "start_date": "2013-03-26",
+    "end_date": "2023-04-28",
+    "historic_marked": "2013-12-19",
+    "seed_status": "repealed"
+  }
 }

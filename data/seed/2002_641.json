@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indførsel og udførsel af planter m.m.",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-08-05",
+  "in_force_date": "2002-08-12",
   "url": "https://www.retsinformation.dk/eli/lta/2002/641/xml",
-  "description": "Retsinformation source. DocumentId=AH001231; AccessionNumber=B20020064105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001231; AccessionNumber=B20020064105; Ophævet 2003-03-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:52:33.647Z",
+    "accession": "B20020064105",
+    "document_id": "AH001231",
+    "unique_document_id": "7529",
+    "upstream_status": "Historic",
+    "start_date": "2002-08-12",
+    "end_date": "2023-07-08",
+    "historic_marked": "2003-03-31",
+    "seed_status": "repealed"
+  }
 }

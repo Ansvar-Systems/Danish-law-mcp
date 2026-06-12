@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om matrikulære afgifter og gebyrer m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-04",
+  "in_force_date": "2002-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2002/982/xml",
-  "description": "Retsinformation source. DocumentId=AL000881; AccessionNumber=B20020098205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000881; AccessionNumber=B20020098205; Ophævet 2003-12-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:06:02.621Z",
+    "accession": "B20020098205",
+    "document_id": "AL000881",
+    "unique_document_id": "12600",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-12",
+    "end_date": "2021-01-08",
+    "historic_marked": "2003-12-01",
+    "seed_status": "repealed"
+  }
 }

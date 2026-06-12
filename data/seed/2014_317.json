@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om afgørelse i visse sager om aktindsigt på Uddannelses- og Forskningsministeriets område",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-03-30",
+  "in_force_date": "2014-04-01",
   "url": "https://www.retsinformation.dk/eli/lta/2014/317/xml",
-  "description": "Retsinformation source. DocumentId=CE000015; AccessionNumber=B20140031705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000015; AccessionNumber=B20140031705; Ophævet 2023-04-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Styrelsen for Forskning og Innovation træffer afgørelse i sager om aktindsigt som sekretariat for: 1) Faglige forskningsråd under Det Frie Forskningsråd. 2) Bestyrelsen for Det Frie Forskningsråd. 3) Danmarks Forsknings- og Innovationspolitiske Råd. 4) Det Koordinerende Organ for Registerforskning. 5) Forum for Arktisk Forskning. 6) Rumforskningsudvalget. Stk. 2. Styrelsens afgørelser efter stk. 1, nr. 1, kan påklages til Uddannelses- og Forskningsministeriet. Stk. 3. Styrelsens afgørelser efter stk. 1, nr. 2-6, kan ikke påklages til anden administrativ myndighed.",
-      "valid_from": "2014-03-30",
-      "valid_to": null
+      "valid_from": "2014-04-01",
+      "valid_to": "2023-04-26"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Styrelsen for Videregående Uddannelser træffer afgørelse i sager om aktindsigt som sekretariat for: 1) Certificeringsrådet. 2) Det Rådgivende Udvalg for Vurdering af Udbud af Videregående Uddannelser. 3) Forum for Koordination af Uddannelsesforskning. 4) Lektoratsudvalget. 5) Nævnet for Støtteberettigede Uddannelser i Udlandet. 6) Rådet for Erhvervsakademiuddannelser og Professionsbacheloruddannelser. 7) SU-rådet. 8) Uddannelsesrådet for De Maritime Uddannelser. Stk. 2. Styrelsens afgørelser efter stk. 1, nr. 1, kan påklages til Uddannelses- og Forskningsministeriet. Stk. 3. Styrelsens afgørelser efter stk. 1, nr. 2-8, kan ikke påklages til anden administrativ myndighed.",
-      "valid_from": "2014-03-30",
-      "valid_to": null
+      "valid_from": "2014-04-01",
+      "valid_to": "2023-04-26"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. april 2014. Stk. 2. Bekendtgørelse nr. 1565 af 15. december 2013 om afgørelse i sager om aktindsigt på Ministeriet for Forskning, Innovation og Videregående Uddannelsers område ophæves. Stk. 3. Begæringer om aktindsigt, som er indgivet før bekendtgørelsens ikrafttræden, afgøres efter denne bekendtgørelse.",
-      "valid_from": "2014-03-30",
-      "valid_to": null
+      "valid_from": "2014-04-01",
+      "valid_to": "2023-04-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:57:49.697Z",
+    "accession": "B20140031705",
+    "document_id": "CE000015",
+    "unique_document_id": "162120",
+    "upstream_status": "Historic",
+    "start_date": "2014-04-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-04-26",
+    "seed_status": "repealed"
+  }
 }

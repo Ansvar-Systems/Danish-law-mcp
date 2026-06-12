@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2024-02-20",
+  "in_force_date": "2024-02-20",
   "url": "https://www.retsinformation.dk/eli/lta/2024/152/xml",
   "description": "Retsinformation source. DocumentId=BE009815; AccessionNumber=A20240015229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -759,5 +760,16 @@
       "definition": "for au pair-personer de lommepenge, som au pair-personen har krav på fra værtsfamilien, og værdien af kost",
       "source_provision": "9:43"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:43:40.048Z",
+    "accession": "A20240015229",
+    "document_id": "BE009815",
+    "unique_document_id": "241253",
+    "upstream_status": "Valid",
+    "start_date": "2024-02-20",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

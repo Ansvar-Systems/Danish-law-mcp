@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om frikommuneforsøg på beskæftigelses- og sygedagpengeområdet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-06-01",
+  "in_force_date": "2017-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/2017/608/xml",
-  "description": "Retsinformation source. DocumentId=BE007266; AccessionNumber=B20170060805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007266; AccessionNumber=B20170060805; Ophævet 2019-11-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "24a",
@@ -19,9 +20,20 @@
       "provision_ref": "24a",
       "section": "24a",
       "content": "§ 24 a. Forsøg efter denne bekendtgørelse, som videreføres efter den 30. juni 2017, skal offentliggøres, evalueres og indberettes efter de regler, som fremgår af kapitel 3 og kapitel 4 i bekendtgørelse om offentliggørelse, evaluering og indberetning af forsøg, der gennemføres af frikommunenetværk, og videreførte forsøg efter lov om frikommuner m.v.",
-      "valid_from": "2017-06-01",
-      "valid_to": null
+      "valid_from": "2017-06-02",
+      "valid_to": "2019-11-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:25:20.604Z",
+    "accession": "B20170060805",
+    "document_id": "BE007266",
+    "unique_document_id": "191362",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-02",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-11-26",
+    "seed_status": "repealed"
+  }
 }

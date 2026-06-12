@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om offentlig mobilkommunikation (GSM-mobilnet)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-11-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1990/744/xml",
-  "description": "Retsinformation source. DocumentId=CM003979; AccessionNumber=A19900074430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM003979; AccessionNumber=A19900074430; Ophævet 1995-10-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:27:50.304Z",
+    "accession": "A19900074430",
+    "document_id": "CM003979",
+    "unique_document_id": "45397",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-06-04",
+    "historic_marked": "1995-10-13",
+    "seed_status": "repealed"
+  }
 }

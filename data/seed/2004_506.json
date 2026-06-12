@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-10",
+  "in_force_date": "2004-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2004/506/xml",
-  "description": "Retsinformation source. DocumentId=AK000324; AccessionNumber=A20040050629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000324; AccessionNumber=A20040050629; Ophævet 2006-05-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:28:53.799Z",
+    "accession": "A20040050629",
+    "document_id": "AK000324",
+    "unique_document_id": "11911",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-21",
+    "end_date": "2022-12-31",
+    "historic_marked": "2006-05-15",
+    "seed_status": "repealed"
+  }
 }

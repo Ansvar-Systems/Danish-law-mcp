@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om uddannelse til mekaniker",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-30",
+  "in_force_date": "2005-07-11",
   "url": "https://www.retsinformation.dk/eli/lta/2005/689/xml",
-  "description": "Retsinformation source. DocumentId=AT002290; AccessionNumber=B20050068905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT002290; AccessionNumber=B20050068905; Ophævet 2008-02-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:30:18.682Z",
+    "accession": "B20050068905",
+    "document_id": "AT002290",
+    "unique_document_id": "24892",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-11",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-02-29",
+    "seed_status": "repealed"
+  }
 }

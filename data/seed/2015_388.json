@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2015-04-09",
+  "in_force_date": "2015-04-13",
   "url": "https://www.retsinformation.dk/eli/lta/2015/388/xml",
   "description": "Retsinformation source. DocumentId=AA008876; AccessionNumber=B20150038805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 739 af 25. juni 2014 om ændring af straffeloven, lov om fuldbyrdelse af straf m.v., retsplejeloven og lov om Offerfonden (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen), som ændret ved § 3 i lov nr. 152 af 18. februar 2015, sættes i kraft.",
-      "valid_from": "2015-04-09",
+      "valid_from": "2015-04-13",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. maj 2015.",
-      "valid_from": "2015-04-09",
+      "valid_from": "2015-04-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:07:11.763Z",
+    "accession": "B20150038805",
+    "document_id": "AA008876",
+    "unique_document_id": "169332",
+    "upstream_status": "Valid",
+    "start_date": "2015-04-13",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

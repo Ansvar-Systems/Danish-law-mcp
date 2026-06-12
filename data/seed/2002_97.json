@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bekæmpelse af bluetongue",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-02-20",
+  "in_force_date": "2002-03-04",
   "url": "https://www.retsinformation.dk/eli/lta/2002/97/xml",
-  "description": "Retsinformation source. DocumentId=AH001136; AccessionNumber=B20020009705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001136; AccessionNumber=B20020009705; Ophævet 2012-09-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:05:32.834Z",
+    "accession": "B20020009705",
+    "document_id": "AH001136",
+    "unique_document_id": "7441",
+    "upstream_status": "Historic",
+    "start_date": "2002-03-04",
+    "end_date": "2022-04-09",
+    "historic_marked": "2012-09-18",
+    "seed_status": "repealed"
+  }
 }

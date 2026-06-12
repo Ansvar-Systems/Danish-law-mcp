@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2020-06-30",
+  "in_force_date": "2020-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1052/xml",
   "description": "Retsinformation source. DocumentId=CY000562; AccessionNumber=A20200105230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -239,5 +240,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:30:39.717Z",
+    "accession": "A20200105230",
+    "document_id": "CY000562",
+    "unique_document_id": "215601",
+    "upstream_status": "Valid",
+    "start_date": "2020-06-30",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2010-03-25",
+  "in_force_date": "2010-03-25",
   "url": "https://www.retsinformation.dk/eli/lta/2010/264/xml",
   "description": "Retsinformation source. DocumentId=AA005383; AccessionNumber=B20100026405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -47,5 +48,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:08:24.555Z",
+    "accession": "B20100026405",
+    "document_id": "AA005383",
+    "unique_document_id": "130740",
+    "upstream_status": "Valid",
+    "start_date": "2010-03-25",
+    "end_date": "2010-03-26",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Færdselsstyrelsens gebyrer og afgifter på vejtransportområdet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-07-30",
+  "in_force_date": "2020-08-04",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1182/xml",
-  "description": "Retsinformation source. DocumentId=CZ000288; AccessionNumber=B20200118205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000288; AccessionNumber=B20200118205; Ophævet 2020-12-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:35:52.155Z",
+    "accession": "B20200118205",
+    "document_id": "CZ000288",
+    "unique_document_id": "215906",
+    "upstream_status": "Historic",
+    "start_date": "2020-08-04",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-12-01",
+    "seed_status": "repealed"
+  }
 }

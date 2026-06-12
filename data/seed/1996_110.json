@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om social bistand",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-02-26",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/110/xml",
-  "description": "Retsinformation source. DocumentId=CM039896; AccessionNumber=A19960011029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM039896; AccessionNumber=A19960011029; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:05:01.967Z",
+    "accession": "A19960011029",
+    "document_id": "CM039896",
+    "unique_document_id": "80674",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2024-12-19",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

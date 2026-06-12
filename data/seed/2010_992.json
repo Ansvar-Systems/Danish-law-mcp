@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indfødsretsprøven",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-08-13",
+  "in_force_date": "2010-08-19",
   "url": "https://www.retsinformation.dk/eli/lta/2010/992/xml",
-  "description": "Retsinformation source. DocumentId=BC000634; AccessionNumber=B20100099205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000634; AccessionNumber=B20100099205; Ophævet 2010-09-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:37:48.926Z",
+    "accession": "B20100099205",
+    "document_id": "BC000634",
+    "unique_document_id": "133099",
+    "upstream_status": "Historic",
+    "start_date": "2010-08-19",
+    "end_date": "2017-12-12",
+    "historic_marked": "2010-09-13",
+    "seed_status": "repealed"
+  }
 }

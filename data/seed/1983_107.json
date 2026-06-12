@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om jordlovsudvalget",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1983-02-25",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1983/107/xml",
-  "description": "Retsinformation source. DocumentId=CM036224; AccessionNumber=B19830010705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM036224; AccessionNumber=B19830010705; Ophævet 2016-01-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:24:29.015Z",
+    "accession": "B19830010705",
+    "document_id": "CM036224",
+    "unique_document_id": "77015",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "2016-01-08",
+    "seed_status": "repealed"
+  }
 }

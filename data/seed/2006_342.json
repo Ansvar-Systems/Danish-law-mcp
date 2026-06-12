@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om sædekorn",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-04-20",
+  "in_force_date": "2006-04-27",
   "url": "https://www.retsinformation.dk/eli/lta/2006/342/xml",
-  "description": "Retsinformation source. DocumentId=AH002317; AccessionNumber=B20060034205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002317; AccessionNumber=B20060034205; Ophævet 2007-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:20:03.496Z",
+    "accession": "B20060034205",
+    "document_id": "AH002317",
+    "unique_document_id": "8451",
+    "upstream_status": "Historic",
+    "start_date": "2006-04-27",
+    "end_date": "2022-04-08",
+    "historic_marked": "2007-06-28",
+    "seed_status": "repealed"
+  }
 }

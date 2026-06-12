@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om akademiuddannelsen i informationsteknologi (VVU)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-18",
+  "in_force_date": "2004-07-01",
   "url": "https://www.retsinformation.dk/eli/lta/2004/625/xml",
-  "description": "Retsinformation source. DocumentId=AT001809; AccessionNumber=B20040062505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001809; AccessionNumber=B20040062505; Ophævet 2005-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:33:41.624Z",
+    "accession": "B20040062505",
+    "document_id": "AT001809",
+    "unique_document_id": "24510",
+    "upstream_status": "Historic",
+    "start_date": "2004-07-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "2005-12-22",
+    "seed_status": "repealed"
+  }
 }

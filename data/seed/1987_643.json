@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af militær retsplejelov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-09-30",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/643/xml",
-  "description": "Retsinformation source. DocumentId=CM000919; AccessionNumber=A19870064329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000919; AccessionNumber=A19870064329; Ophævet 2005-06-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:48:01.116Z",
+    "accession": "A19870064329",
+    "document_id": "CM000919",
+    "unique_document_id": "42419",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-01-02",
+    "historic_marked": "2005-06-24",
+    "seed_status": "repealed"
+  }
 }

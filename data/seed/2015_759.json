@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 030 for radioanlæg til Transport and Traffic Telematics (TTT)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-06-01",
+  "in_force_date": "2015-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2015/759/xml",
-  "description": "Retsinformation source. DocumentId=BP001272; AccessionNumber=B20150075905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001272; AccessionNumber=B20150075905; Ophævet 2016-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. For radioanlæg til Transport and Traffic Telematics (TTT) gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 030 for radioanlæg til Transport and Traffic Telematics (TTT).",
-      "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_from": "2015-06-04",
+      "valid_to": "2016-11-25"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juni 2015. Stk. 2. Bekendtgørelse nr. 500 af 20. maj 2014 om Dansk radiogrænseflade nr. 00 030 for radioanlæg til Road Transport and Traffic Telematics (RTTT) ophæves.",
-      "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_from": "2015-06-04",
+      "valid_to": "2016-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:22:09.432Z",
+    "accession": "B20150075905",
+    "document_id": "BP001272",
+    "unique_document_id": "169674",
+    "upstream_status": "Historic",
+    "start_date": "2015-06-04",
+    "end_date": "2026-06-04",
+    "historic_marked": "2016-11-25",
+    "seed_status": "repealed"
+  }
 }

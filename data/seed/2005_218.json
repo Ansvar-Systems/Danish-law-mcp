@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om afgitring ved dambrug i ferske vande",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-03-30",
+  "in_force_date": "2005-04-07",
   "url": "https://www.retsinformation.dk/eli/lta/2005/218/xml",
-  "description": "Retsinformation source. DocumentId=AH002099; AccessionNumber=B20050021805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002099; AccessionNumber=B20050021805; Ophævet 2017-02-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:11:20.396Z",
+    "accession": "B20050021805",
+    "document_id": "AH002099",
+    "unique_document_id": "8267",
+    "upstream_status": "Historic",
+    "start_date": "2005-04-07",
+    "end_date": "2022-04-08",
+    "historic_marked": "2017-02-01",
+    "seed_status": "repealed"
+  }
 }

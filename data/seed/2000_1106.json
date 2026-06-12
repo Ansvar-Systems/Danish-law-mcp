@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om landets inddeling i sogne",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-13",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1106/xml",
-  "description": "Retsinformation source. DocumentId=AJ000093; AccessionNumber=B20000110605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AJ000093; AccessionNumber=B20000110605; Ophævet 2007-01-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:54:47.289Z",
+    "accession": "B20000110605",
+    "document_id": "AJ000093",
+    "unique_document_id": "11517",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2014-07-02",
+    "historic_marked": "2007-01-18",
+    "seed_status": "repealed"
+  }
 }

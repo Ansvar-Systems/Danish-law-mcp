@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om aktieselskaber",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-01-09",
+  "in_force_date": "2002-01-17",
   "url": "https://www.retsinformation.dk/eli/lta/2002/9/xml",
-  "description": "Retsinformation source. DocumentId=AD001010; AccessionNumber=A20020000929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD001010; AccessionNumber=A20020000929; Ophævet 2004-10-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:02:46.140Z",
+    "accession": "A20020000929",
+    "document_id": "AD001010",
+    "unique_document_id": "4992",
+    "upstream_status": "Historic",
+    "start_date": "2002-01-17",
+    "end_date": "2017-12-08",
+    "historic_marked": "2004-10-21",
+    "seed_status": "repealed"
+  }
 }

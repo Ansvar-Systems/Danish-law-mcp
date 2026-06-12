@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-06-22",
+  "in_force_date": "2023-06-23",
   "url": "https://www.retsinformation.dk/eli/lta/2023/891/xml",
   "description": "Retsinformation source. DocumentId=AA013669; AccessionNumber=B20230089105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. En person, der er idømt fængselsstraf eller forvaring, har også før straffuldbyrdelsens iværksættelse ret til at få nærmere rådgivning hos kriminalforsorgen om sine arbejdsmæssige, uddannelsesmæssige, sociale og personlige forhold i forbindelse med fuldbyrdelsen, jf. straffuldbyrdelseslovens § 7, stk. 1. Stk. 2. Rådgivning af dømte, der har bopæl og opholder sig på Færøerne, ydes af kriminalforsorgsområdet.",
-      "valid_from": "2023-06-22",
+      "valid_from": "2023-06-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2023.",
-      "valid_from": "2023-06-22",
+      "valid_from": "2023-06-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:05:42.045Z",
+    "accession": "B20230089105",
+    "document_id": "AA013669",
+    "unique_document_id": "238205",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-23",
+    "end_date": "2023-06-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

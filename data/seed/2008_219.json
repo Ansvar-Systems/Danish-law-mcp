@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om almene boliger m.v., lov om friplejeboliger, lov om realkreditlån og realkreditobligationer m.v. og lov om finansiel virksomhed\\n(Finansiering af støttet boligbyggeri med særligt dækkede obligationer)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-04-05",
+  "in_force_date": "2008-04-05",
   "url": "https://www.retsinformation.dk/eli/lta/2008/219/xml",
-  "description": "Retsinformation source. DocumentId=BI000128; AccessionNumber=A20080021930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BI000128; AccessionNumber=A20080021930; Ophævet 2009-08-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "127",
@@ -30,22 +31,33 @@
       "section": "127",
       "content": "§ 127 a. Staten yder supplerende garanti for lån i boliger, som er omfattet af tilsagn om offentlig støtte efter denne lov, den tidligere byggestøtte-, kollegiestøtte- og boligbyggerilovgivning eller lov om boliger for ældre og personer med handicap, som er meddelt inden den 7. april 2008, hvortil der ydes eller er ydet offentlig garanti i henhold til bestemmelserne herom i den nævnte lovgivning og som overgår til eller optages som lån baseret på særligt dækkede obliga­tioner eller særligt dækkede realkreditobli­ga­tio­ner. Den supplerende garanti omfatter den del af restgælden, som har pantesikkerhed ud over 60 pct. af ejendommens værdi på tidspunktet for lånets overgang eller optagelse, og som ikke dækkes af anden offentlig garanti. Den del af restgælden, som ikke omfattes af en garanti, har panteret forud for den garanterede del af restgælden.",
       "valid_from": "2008-04-05",
-      "valid_to": null
+      "valid_to": "2009-08-20"
     },
     {
       "provision_ref": "24",
       "section": "24",
       "content": "§ 24 a. Har staten ydet supplerende garanti efter § 127 a i lov om almene boliger m.v., opretholdes garantien på uændrede vilkår ved omdannelse til friplejeboliger efter § 11, stk. 2, nr. 3-5. Stk. 2. Staten yder supplerende garanti for lån i friplejeboliger, som er omdannet efter § 11, stk. 2, nr. 3-5, hvortil der ydes garanti efter §§ 21-24, og som overgår til lån baseret på særligt dækkede obligationer eller særligt dækkede realkreditobligationer. Den supplerende garanti omfatter den del af restgælden, som har pantesikkerhed ud over 60 pct. af ejendommens værdi på tidspunktet for lånets overgang eller optagelse, og som ikke dækkes af anden offentlig garanti. Den del af restgælden, som ikke omfattes af en garanti, har panteret forud for den garanterede del af gælden.",
       "valid_from": "2008-04-05",
-      "valid_to": null
+      "valid_to": "2009-08-20"
     },
     {
       "provision_ref": "345",
       "section": "345",
       "content": "§ 345 a. Økonomi- og erhvervsministeren godkender satser for gebyrer, indskud og løbende bidrag til administration og reservefondsopbygning m.v. for lån, der finansieres med realkreditobligationer, særligt dækkede realkreditobligationer eller særligt dækkede obligationer, og hvortil der ydes statsstøtte, bortset fra lån inden for jordbrugsområdet.",
       "valid_from": "2008-04-05",
-      "valid_to": null
+      "valid_to": "2009-08-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:05:39.950Z",
+    "accession": "A20080021930",
+    "document_id": "BI000128",
+    "unique_document_id": "116233",
+    "upstream_status": "Historic",
+    "start_date": "2008-04-05",
+    "end_date": "2023-04-28",
+    "historic_marked": "2009-08-20",
+    "seed_status": "repealed"
+  }
 }

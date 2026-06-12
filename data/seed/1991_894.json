@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven (Fradrag for gaver)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-12-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/894/xml",
-  "description": "Retsinformation source. DocumentId=CM022732; AccessionNumber=A19910089430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022732; AccessionNumber=A19910089430; Ophævet 1993-01-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:05:45.783Z",
+    "accession": "A19910089430",
+    "document_id": "CM022732",
+    "unique_document_id": "63712",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-19",
+    "historic_marked": "1993-01-12",
+    "seed_status": "repealed"
+  }
 }

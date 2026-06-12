@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om produktionsafgift ved slagtning og eksport af svin",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-02",
+  "in_force_date": "2000-05-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/322/xml",
-  "description": "Retsinformation source. DocumentId=AH000600; AccessionNumber=B20000032205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000600; AccessionNumber=B20000032205; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:14:42.819Z",
+    "accession": "B20000032205",
+    "document_id": "AH000600",
+    "unique_document_id": "6974",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-20",
+    "end_date": "2022-04-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

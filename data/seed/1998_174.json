@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Skattestyrelsesloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-03-19",
+  "in_force_date": "1998-05-20",
   "url": "https://www.retsinformation.dk/eli/lta/1998/174/xml",
-  "description": "Retsinformation source. DocumentId=CM047073; AccessionNumber=A19980017429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047073; AccessionNumber=A19980017429; Ophævet 1998-07-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:34:36.435Z",
+    "accession": "A19980017429",
+    "document_id": "CM047073",
+    "unique_document_id": "87261",
+    "upstream_status": "Historic",
+    "start_date": "1998-05-20",
+    "end_date": "2005-08-03",
+    "historic_marked": "1998-07-15",
+    "seed_status": "repealed"
+  }
 }

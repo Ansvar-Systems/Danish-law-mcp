@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-02-03",
+  "in_force_date": "2010-02-05",
   "url": "https://www.retsinformation.dk/eli/lta/2010/128/xml",
   "description": "Retsinformation source. DocumentId=AU003880; AccessionNumber=B20100012805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 5, stk. 2, i lov om forbrugerklager skal forstås således, at også en pensioneret dommer kan varetage hvervet som formand eller næstformand for et godkendt, privat klage- eller ankenævn, såfremt de stiftende organisationer bag det respektive nævn måtte ønske dette.",
-      "valid_from": "2010-02-03",
+      "valid_from": "2010-02-05",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. februar 2010.",
-      "valid_from": "2010-02-03",
+      "valid_from": "2010-02-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:46:17.840Z",
+    "accession": "B20100012805",
+    "document_id": "AU003880",
+    "unique_document_id": "129852",
+    "upstream_status": "Valid",
+    "start_date": "2010-02-05",
+    "end_date": "2017-12-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

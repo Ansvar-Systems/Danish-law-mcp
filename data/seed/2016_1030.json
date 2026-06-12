@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om almen voksenuddannelse (avu-bekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-06-29",
+  "in_force_date": "2016-07-01",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1030/xml",
-  "description": "Retsinformation source. DocumentId=CP000224; AccessionNumber=B20160103005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CP000224; AccessionNumber=B20160103005; Ophævet 2017-05-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "23",
@@ -19,9 +20,20 @@
       "provision_ref": "23",
       "section": "23",
       "content": "§ 23. Institutionen udsteder efter anmodning et deltagerbevis til en kursist, der har fuldført undervisning på basisniveau, på niveau F eller niveau E, jf. § 21, når betingelserne i fagets læreplan er opfyldt, herunder, at den faglige dokumentation er egnet til vurdering. Det er en betingelse for udstedelse af deltagerbevis, at institutionen vurderer, at kursisten har opnået kompetencer svarende til bestået.",
-      "valid_from": "2016-06-29",
-      "valid_to": null
+      "valid_from": "2016-07-01",
+      "valid_to": "2017-05-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:14.081Z",
+    "accession": "B20160103005",
+    "document_id": "CP000224",
+    "unique_document_id": "183416",
+    "upstream_status": "Historic",
+    "start_date": "2016-07-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "2017-05-19",
+    "seed_status": "repealed"
+  }
 }

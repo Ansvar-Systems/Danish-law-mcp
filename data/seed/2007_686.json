@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om god skik for finansielle virksomheder",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-20",
+  "in_force_date": "2007-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2007/686/xml",
-  "description": "Retsinformation source. DocumentId=AU002912; AccessionNumber=B20070068605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002912; AccessionNumber=B20070068605; Ophævet 2007-10-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:32:12.198Z",
+    "accession": "B20070068605",
+    "document_id": "AU002912",
+    "unique_document_id": "27629",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-28",
+    "end_date": "2017-12-08",
+    "historic_marked": "2007-10-29",
+    "seed_status": "repealed"
+  }
 }

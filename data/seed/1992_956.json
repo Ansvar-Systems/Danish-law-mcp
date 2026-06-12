@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Kongeriget Danmarks Fiskeribank",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-12-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/956/xml",
-  "description": "Retsinformation source. DocumentId=CM038887; AccessionNumber=A19920095629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038887; AccessionNumber=A19920095629; Ophævet 1995-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:50:27.715Z",
+    "accession": "A19920095629",
+    "document_id": "CM038887",
+    "unique_document_id": "79674",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-12-29",
+    "historic_marked": "1995-12-18",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sejlads m.v. på Odense Fjord og Kanal",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-27",
+  "in_force_date": "2001-04-05",
   "url": "https://www.retsinformation.dk/eli/lta/2001/223/xml",
-  "description": "Retsinformation source. DocumentId=AD000887; AccessionNumber=B20010022305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000887; AccessionNumber=B20010022305; Ophævet 2002-09-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:51:22.425Z",
+    "accession": "B20010022305",
+    "document_id": "AD000887",
+    "unique_document_id": "4904",
+    "upstream_status": "Historic",
+    "start_date": "2001-04-05",
+    "end_date": "2026-02-20",
+    "historic_marked": "2002-09-02",
+    "seed_status": "repealed"
+  }
 }

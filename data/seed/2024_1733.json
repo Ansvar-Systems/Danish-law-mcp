@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1733/xml",
   "description": "Retsinformation source. DocumentId=DB001047; AccessionNumber=B20240173305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -255,5 +256,16 @@
       "definition": "også en omkostningsdeling efter de enkelte aktiviteters faktiske forholdsmæssige forbrug",
       "source_provision": "4:12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:12.977Z",
+    "accession": "B20240173305",
+    "document_id": "DB001047",
+    "unique_document_id": "246536",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-30",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

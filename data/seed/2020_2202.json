@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2020-12-29",
+  "in_force_date": "2020-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2202/xml",
   "description": "Retsinformation source. DocumentId=BE008730; AccessionNumber=A20200220230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -451,5 +452,16 @@
       "definition": "1) beskæftigelse som lønmodtager, 2) ansættelse i fleksjob, 3) perioder med sygedagpenge eller ressourceforløbsydelse i jobafklaringsforløb, 4) perioder, hvor en forælder modtager tabt arbejdsfortjeneste efter servicelovens §§ 42 og 43, 5) perioder med barselsdagspenge, 6) perioder med ledighedsydelse, 7) beskæftigelse med B-indkomst, hvoraf der skal betales arbejdsmarkedsbidrag, og som ikke indgår i opgørelsen af en selvstændig virksomheds overskud eller underskud, eller 8) beskæftigelse som selvstændigt erhvervsdrivende",
       "source_provision": "3b:26s"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:16:49.367Z",
+    "accession": "A20200220230",
+    "document_id": "BE008730",
+    "unique_document_id": "219092",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

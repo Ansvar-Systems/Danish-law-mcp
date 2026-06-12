@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om offentlige indsamlinger og pyramidespil",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-06",
+  "in_force_date": "2006-06-15",
   "url": "https://www.retsinformation.dk/eli/lta/2006/555/xml",
-  "description": "Retsinformation source. DocumentId=AA003173; AccessionNumber=A20060055529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003173; AccessionNumber=A20060055529; Ophævet 2014-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:28:36.207Z",
+    "accession": "A20060055529",
+    "document_id": "AA003173",
+    "unique_document_id": "2288",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-15",
+    "end_date": "2023-01-05",
+    "historic_marked": "2014-05-26",
+    "seed_status": "repealed"
+  }
 }

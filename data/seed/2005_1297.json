@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forretningsorden for Energiklagenævnet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-13",
+  "in_force_date": "2005-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1297/xml",
-  "description": "Retsinformation source. DocumentId=AR001133; AccessionNumber=B20050129705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001133; AccessionNumber=B20050129705; Ophævet 2006-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:00:49.497Z",
+    "accession": "B20050129705",
+    "document_id": "AR001133",
+    "unique_document_id": "22519",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-22",
+    "end_date": "2017-12-09",
+    "historic_marked": "2006-06-29",
+    "seed_status": "repealed"
+  }
 }

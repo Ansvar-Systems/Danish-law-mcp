@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Patentlov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-11-27",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/733/xml",
-  "description": "Retsinformation source. DocumentId=CM025338; AccessionNumber=A19890073329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025338; AccessionNumber=A19890073329; Ophævet 1993-07-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:54:09.050Z",
+    "accession": "A19890073329",
+    "document_id": "CM025338",
+    "unique_document_id": "66220",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1993-07-20",
+    "seed_status": "repealed"
+  }
 }

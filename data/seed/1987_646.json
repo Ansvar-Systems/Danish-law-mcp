@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om skattepligts ophør ved fraflytning til udlandet.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-09-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/646/xml",
-  "description": "Retsinformation source. DocumentId=CM020380; AccessionNumber=B19870064605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020380; AccessionNumber=B19870064605; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:48:07.773Z",
+    "accession": "B19870064605",
+    "document_id": "CM020380",
+    "unique_document_id": "61411",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2001-03-01",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

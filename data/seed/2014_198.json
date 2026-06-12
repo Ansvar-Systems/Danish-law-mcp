@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undervisningsplan for køreuddannelsen til almindelig bil (kategori B)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-02-26",
+  "in_force_date": "2014-03-04",
   "url": "https://www.retsinformation.dk/eli/lta/2014/198/xml",
-  "description": "Retsinformation source. DocumentId=AA007684; AccessionNumber=B20140019805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007684; AccessionNumber=B20140019805; Ophævet 2017-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Undervisning af elever med henblik på erhvervelse af kørekort til kategori B skal foregå i overensstemmelse med undervisningsplanen for køreuddannelsen til almindelig bil (kategori B), der er optaget som bilag til denne bekendtgørelse.",
-      "valid_from": "2014-02-26",
-      "valid_to": null
+      "valid_from": "2014-03-04",
+      "valid_to": "2017-11-30"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2014. Stk. 2. Samtidig ophæves bekendtgørelse nr. 164 af 13. februar 2009 om undervisningsplan for køreuddannelsen til kategori B (almindelig bil). Stk. 3. Elever, der har påbegyndt køreuddannelsen før den 1. april 2014, kan afslutte uddannelsen og aflægge køreprøve efter de hidtil gældende regler frem til udgangen af august 2014.",
-      "valid_from": "2014-02-26",
-      "valid_to": null
+      "valid_from": "2014-03-04",
+      "valid_to": "2017-11-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:52:58.093Z",
+    "accession": "B20140019805",
+    "document_id": "AA007684",
+    "unique_document_id": "161391",
+    "upstream_status": "Historic",
+    "start_date": "2014-03-04",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-11-30",
+    "seed_status": "repealed"
+  }
 }

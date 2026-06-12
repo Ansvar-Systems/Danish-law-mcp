@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om øremærkning af dyr.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1951-07-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1951/300/xml",
-  "description": "Retsinformation source. DocumentId=CM016474; AccessionNumber=B19510030005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016474; AccessionNumber=B19510030005; Ophævet 2015-11-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:56:59.835Z",
+    "accession": "B19510030005",
+    "document_id": "CM016474",
+    "unique_document_id": "57546",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-11-18",
+    "seed_status": "repealed"
+  }
 }

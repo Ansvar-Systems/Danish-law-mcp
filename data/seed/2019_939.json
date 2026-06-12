@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-09-04",
+  "in_force_date": "2019-09-13",
   "url": "https://www.retsinformation.dk/eli/lta/2019/939/xml",
   "description": "Retsinformation source. DocumentId=CK002140; AccessionNumber=B20190093905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 439 af 7. september 1978 om ydelse af produktionsrestitution for sukker, der anvendes i den kemiske industri. 2) Bekendtgørelse nr. 916 af 31. august 2006 om anvendelse af industrisukker. 3) Bekendtgørelse nr. 828 af 17. december 1987 om gratis udlevering af landbrugsprodukter fra EF's interventionslagre. 4) Bekendtgørelse nr. 374 af 11. juli 1974 om interventionskøb af svinekød. 5) Bekendtgørelse nr. 599 af 24. juni 2008 om støtte til sukkerroeavlere og maskinstationer i forbindelse med den midlertidige omstruktureringsordning for sukkerindustrien i EU. 6) Bekendtgørelse nr. 49 af 8. januar 2016 om dansk vinproduktion. 7) Bekendtgørelse nr. 362 af 15. juli 1978 om eksportrestitution til malt eksporteret i begyndelsen af et høstår.",
-      "valid_from": "2019-09-04",
+      "valid_from": "2019-09-13",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. september 2019.",
-      "valid_from": "2019-09-04",
+      "valid_from": "2019-09-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:26:02.536Z",
+    "accession": "B20190093905",
+    "document_id": "CK002140",
+    "unique_document_id": "210152",
+    "upstream_status": "Valid",
+    "start_date": "2019-09-13",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

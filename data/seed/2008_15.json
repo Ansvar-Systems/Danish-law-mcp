@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om beregning af forbrugerpriser m.v. på lægemidler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-01-15",
+  "in_force_date": "2008-01-19",
   "url": "https://www.retsinformation.dk/eli/lta/2008/15/xml",
-  "description": "Retsinformation source. DocumentId=BK000020; AccessionNumber=B20080001505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000020; AccessionNumber=B20080001505; Ophævet 2008-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:02:48.537Z",
+    "accession": "B20080001505",
+    "document_id": "BK000020",
+    "unique_document_id": "114399",
+    "upstream_status": "Historic",
+    "start_date": "2008-01-19",
+    "end_date": "2022-07-12",
+    "historic_marked": "2008-09-23",
+    "seed_status": "repealed"
+  }
 }

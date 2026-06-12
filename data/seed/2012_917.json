@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om udstedelse af dokumenter uden underskrift eller med maskinelt gengivet underskrift",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-09-14",
+  "in_force_date": "2012-09-15",
   "url": "https://www.retsinformation.dk/eli/lta/2012/917/xml",
-  "description": "Retsinformation source. DocumentId=BS000325; AccessionNumber=B20120091705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BS000325; AccessionNumber=B20120091705; Ophævet 2021-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Udbetaling Danmark kan ved behandling af sager på sagsområder efter § 1 i lov om Udbetaling Danmark udstede breve, udskrifter, afgørelser og andre dokumenter uden underskrift eller med maskinelt gengivet underskrift, digital signatur eller på tilsvarende måde. Disse dokumenter sidestilles i retlig henseende med dokumenter med personlig underskrift. Stk. 2. Hvis en afgørelse udstedes uden personlig underskrift, skal navnet på den sagsbehandler, der træffer afgørelsen, fremgå af afgørelsen, jf. dog stk. 3. Øvrige gældende forvaltningsretlige regler og sædvaner fraviges ikke hermed. Stk. 3. Afgørelser og andre dokumenter, der udelukkende er et resultat af elektronisk databehandling, kan udstedes alene med angivelse af Udbetaling Danmark som afsender.",
-      "valid_from": "2012-09-14",
-      "valid_to": null
+      "valid_from": "2012-09-15",
+      "valid_to": "2021-06-10"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. oktober 2012.",
-      "valid_from": "2012-09-14",
-      "valid_to": null
+      "valid_from": "2012-09-15",
+      "valid_to": "2021-06-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:19:53.382Z",
+    "accession": "B20120091705",
+    "document_id": "BS000325",
+    "unique_document_id": "143054",
+    "upstream_status": "Historic",
+    "start_date": "2012-09-15",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-06-10",
+    "seed_status": "repealed"
+  }
 }

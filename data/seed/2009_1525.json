@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om arbejdsmarkedsuddannelser (digital tilmelding til uddannelser og adgang for Færinger og Grønlændere til arbejdsmarkedsuddannelser m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-27",
+  "in_force_date": "2009-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1525/xml",
-  "description": "Retsinformation source. DocumentId=AT004012; AccessionNumber=A20090152530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004012; AccessionNumber=A20090152530; Ophævet 2014-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -29,23 +30,34 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 a. Personer med fast bopæl eller beskæftigelse i Danmark har adgang til arbejdsmarkedsuddannelser og enkeltfag, der er optaget i en fælles kompetencebeskrivelse, jf. dog stk. 2. Stk. 2. Undervisningsministeren fastsætter nærmere betingelser for adgang til arbejdsmarkedsuddannelser og enkeltfag, der er optaget i en fælles kompetencebeskrivelse. Stk. 3. Undervisningsministeren kan fastsætte nærmere regler om adgangen til arbejdsmarkedsuddannelser og enkeltfag, der er optaget i en fælles kompetencebeskrivelse, for personer med fast bopæl eller beskæftigelse på Færøerne eller i Grønland, som ikke er omfattet af stk. 1, herunder om, at der kan opkræves fuld deltagerbetaling og ydes kost og logi som indtægtsdækket virksomhed. Stk. 4. Undervisningsministeren kan i regler, der fastsættes i medfør af stk. 3, fravige §§ 20 og 21.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-28",
+      "valid_to": "2014-04-14"
     },
     {
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18 a. Undervisningsministeren kan fastsætte regler om digital tilmelding til og framelding fra arbejdsmarkedsuddannelser og enkeltfag, der er optaget i en fælles kompetencebeskrivelse, herunder om, 1) at uddannelsesinstitutionerne skal informere om digital tilmelding og framelding og yde vejledning og bistand i forbindelse hermed, 2) indhold og udformning af ansøgningsskemaer, 3) frister for ansøgning, 4) frister for framelding og 5) betaling ved udeblivelse eller framelding. Stk. 2. Undervisningsministeren fastsætter regler om, i hvilke tilfælde tilmelding til og framelding fra arbejdsmarkedsuddannelser og enkeltfag, der er optaget i en fælles kompetencebeskrivelse, kan ske på anden måde end i digital form. Stk. 3. Undervisningsministeren fastsætter nærmere regler om, hvilke oplysninger om deltageren, herunder dennes cpr-nummer, der skal oplyses ved digital tilmelding til og framelding fra arbejdsmarkedsuddannelse og enkeltfag, der er optaget i en fælles kompetencebeskrivelse.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-28",
+      "valid_to": "2014-04-14"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2 a. Undervisningsministeren kan fastsætte regler om digital tilmelding til og framelding fra erhvervsrettede uddannelser omfattet af § 2, stk. 1, herunder om, 1) at uddannelsesinstitutionerne skal informere om digital tilmelding og framelding og yde vejledning og bistand i forbindelse hermed, 2) indhold og udformning af ansøgningsskemaer, 3) frister for ansøgning, 4) frister for framelding og 5) betaling ved udeblivelse eller framelding. Stk. 2. Undervisningsministeren fastsætter regler om, i hvilke tilfælde tilmelding til og framelding fra erhvervsrettede uddannelser omfattet af § 2, stk. 1, kan ske på anden måde end i digital form. Stk. 3. Undervisningsministeren fastsætter nærmere regler om, hvilke oplysninger om deltageren, herunder dennes cpr-nummer, der skal oplyses ved digital tilmelding til og framelding fra erhvervsrettede uddannelser omfattet af § 2, stk. 1.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-28",
+      "valid_to": "2014-04-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:58:59.546Z",
+    "accession": "A20090152530",
+    "document_id": "AT004012",
+    "unique_document_id": "129645",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-28",
+    "end_date": "2021-01-08",
+    "historic_marked": "2014-04-14",
+    "seed_status": "repealed"
+  }
 }

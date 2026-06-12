@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om elektroniske cigaretter m.v. og lov om tobaksvarer m.v. (Tilpasning af gebyrmodellerne for produkter omfattet af lov om elektroniske cigaretter m.v. og lov om tobaksvarer m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-01-25",
+  "in_force_date": "2022-01-25",
   "url": "https://www.retsinformation.dk/eli/lta/2022/99/xml",
-  "description": "Retsinformation source. DocumentId=DI000544; AccessionNumber=A20220009930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000544; AccessionNumber=A20220009930; Ophævet 2024-11-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "32",
@@ -25,15 +26,26 @@
       "section": "32",
       "content": "§ 32. Sikkerhedsstyrelsen opkræver et gebyr for anmeldelse efter § 5, stk. 1, og § 5 b, stk. 1, og for årlig fornyelse af anmeldelsen. Stk. 2. Sikkerhedsstyrelsen opkræver et gebyr for registrering af markedsføring efter § 5 a, stk. 1, og for årlig fornyelse af registreringen. Stk. 3. Erhvervsministeren kan fastsætte regler om undtagelser fra opkrævningen af gebyrer efter stk. 1 og 2. Stk. 4. Erhvervsministeren kan fastsætte regler om størrelsen og opkrævningen af gebyrer efter stk. 1 og 2.",
       "valid_from": "2022-01-25",
-      "valid_to": null
+      "valid_to": "2024-11-14"
     },
     {
       "provision_ref": "44",
       "section": "44",
       "content": "§ 44. Sikkerhedsstyrelsen opkræver gebyr for anmeldelse efter § 26, stk. 1, og indberetning efter § 28, stk. 1. Endvidere opkræves gebyr for årlig fornyelse af anmeldelse eller indberetning. Stk. 2. Erhvervsministeren kan fastsætte regler om undtagelser fra opkrævningen af gebyrer efter stk. 1. Stk. 3. Erhvervsministeren kan fastsætte regler om størrelsen og opkrævningen af gebyrer efter stk. 1.",
       "valid_from": "2022-01-25",
-      "valid_to": null
+      "valid_to": "2024-11-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:01:12.168Z",
+    "accession": "A20220009930",
+    "document_id": "DI000544",
+    "unique_document_id": "228892",
+    "upstream_status": "Historic",
+    "start_date": "2022-01-25",
+    "end_date": "2025-01-30",
+    "historic_marked": "2024-11-14",
+    "seed_status": "repealed"
+  }
 }

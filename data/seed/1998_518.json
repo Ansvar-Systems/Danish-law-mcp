@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om styrthjelme",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-07-03",
+  "in_force_date": "1998-07-16",
   "url": "https://www.retsinformation.dk/eli/lta/1998/518/xml",
-  "description": "Retsinformation source. DocumentId=CM047508; AccessionNumber=B19980051805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047508; AccessionNumber=B19980051805; Ophævet 2024-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:48:22.033Z",
+    "accession": "B19980051805",
+    "document_id": "CM047508",
+    "unique_document_id": "87668",
+    "upstream_status": "Historic",
+    "start_date": "1998-07-16",
+    "end_date": "2024-11-22",
+    "historic_marked": "2024-11-21",
+    "seed_status": "repealed"
+  }
 }

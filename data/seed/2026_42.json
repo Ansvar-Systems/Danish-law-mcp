@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2026-01-14",
+  "in_force_date": "2026-01-15",
   "url": "https://www.retsinformation.dk/eli/lta/2026/42/xml",
   "description": "Retsinformation source. DocumentId=DC002112; AccessionNumber=B20260004205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1666 af 16. december 2025 om fund af højpatogen aviær influenza ved Mariager i Mariagerfjord Kommune ophæves.",
-      "valid_from": "2026-01-14",
+      "valid_from": "2026-01-15",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 18. januar 2026.",
-      "valid_from": "2026-01-14",
+      "valid_from": "2026-01-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:42:43.162Z",
+    "accession": "B20260004205",
+    "document_id": "DC002112",
+    "unique_document_id": "254933",
+    "upstream_status": "Valid",
+    "start_date": "2026-01-15",
+    "end_date": "2026-01-16",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

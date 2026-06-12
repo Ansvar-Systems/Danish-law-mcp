@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Forretningsorden for mønsterankenævnet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1970-09-24",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1970/415/xml",
-  "description": "Retsinformation source. DocumentId=CM024921; AccessionNumber=B19700041505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM024921; AccessionNumber=B19700041505; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:20:18.713Z",
+    "accession": "B19700041505",
+    "document_id": "CM024921",
+    "unique_document_id": "65809",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

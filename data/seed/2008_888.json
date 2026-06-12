@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til pleje af græs- og naturarealer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-09-05",
+  "in_force_date": "2008-09-09",
   "url": "https://www.retsinformation.dk/eli/lta/2008/888/xml",
-  "description": "Retsinformation source. DocumentId=AH003039; AccessionNumber=B20080088805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003039; AccessionNumber=B20080088805; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -24,16 +25,27 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Ved en ny ejers eller forpagters indtræden i en ansøgning om tilsagn om tilskud eller i et tilsagn om tilskud forstås i denne bekendtgørelse tillige en ejers indtræden ved forpagtningsophør.",
-      "valid_from": "2008-09-05",
-      "valid_to": null
+      "valid_from": "2008-09-09",
+      "valid_to": "2015-12-22"
     },
     {
       "provision_ref": "34",
       "section": "34",
       "content": "§ 34. Indtræder en ny ejer eller forpagter i et tilsagn om tilskud, jf. § 24, kan FødevareErhverv bestemme, at tilskud, der er udbetalt til en tidligere tilsagnshaver, skal tilbagebetales af den nye tilsagnshaver i tilfælde, hvor FødevareErhverv 1) træffer afgørelse om bortfald af tilsagn om tilskud som følge af den nye tilsagnshavers forhold, 2) træffer afgørelse om bortfald af tilsagn om tilskud som følge af, at de arealer, der er anmeldt i producentskifteerklæringen, er større end de arealer, der kan fastslås, og det af producentskifteerklæringen fremgår, at den nye tilsagnshaver ved indtræden i tilsagnet bliver ansvarlig for størrelsen af de i producentskifteerklæringen anførte arealer, eller 3) konstaterer, at der er udbetalt for meget tilskud til en tidligere tilsagnshaver som følge af den nye tilsagnshavers forhold.",
-      "valid_from": "2008-09-05",
-      "valid_to": null
+      "valid_from": "2008-09-09",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:32:56.568Z",
+    "accession": "B20080088805",
+    "document_id": "AH003039",
+    "unique_document_id": "121245",
+    "upstream_status": "Historic",
+    "start_date": "2008-09-09",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

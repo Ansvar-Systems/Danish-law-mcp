@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om taxikørsel",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-07-01",
+  "in_force_date": "2019-07-11",
   "url": "https://www.retsinformation.dk/eli/lta/2019/729/xml",
-  "description": "Retsinformation source. DocumentId=CZ000009; AccessionNumber=B20190072905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000009; AccessionNumber=B20190072905; Ophævet 2019-11-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:17:31.350Z",
+    "accession": "B20190072905",
+    "document_id": "CZ000009",
+    "unique_document_id": "209662",
+    "upstream_status": "Historic",
+    "start_date": "2019-07-11",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-11-29",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om beskatning af fortjeneste ved afståelse af aktier m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-11-05",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1987/698/xml",
-  "description": "Retsinformation source. DocumentId=CM022149; AccessionNumber=A19870069829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022149; AccessionNumber=A19870069829; Ophævet 1992-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:50:05.531Z",
+    "accession": "A19870069829",
+    "document_id": "CM022149",
+    "unique_document_id": "63129",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1992-01-31",
+    "seed_status": "repealed"
+  }
 }

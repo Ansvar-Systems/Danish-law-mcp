@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2008-07-10",
+  "in_force_date": "2008-07-22",
   "url": "https://www.retsinformation.dk/eli/lta/2008/775/xml",
   "description": "Retsinformation source. DocumentId=AU003355; AccessionNumber=B20080077505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Store aktieselskaber, hvori Grønlands Hjemmestyre har samme forbindelse til selskabet, som et moderselskab har til et datterselskab (hjemmestyreejede aktieselskaber), jf. § 2 i aktieselskabsloven, som sat i kraft for Grønland ved kongelig anordning, skal følge reglerne for statslige aktieselskaber i aktieselskabsloven og årsregnskabsloven, som sat i kraft for Grønland ved kongelige anordninger, og i forskrifter, der er udstedt i medfør heraf, jf. stk. 2. Stk. 2. Ved beregningen af, om et selskab er et stort selskab, finder § 7, stk. 2 og 3, i årsregnskabsloven, som sat i kraft for Grønland ved kongelig anordning, anvendelse.",
-      "valid_from": "2008-07-10",
+      "valid_from": "2008-07-22",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Små og mellemstore hjemmestyreejede aktieselskaber har ikke pligt til at følge reglerne for statslige aktieselskaber, jf. § 1, medmindre det i selskabets vedtægter er fastsat, at selskabet skal følge reglerne for statslige aktieselskaber.",
-      "valid_from": "2008-07-10",
+      "valid_from": "2008-07-22",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Der kan idømmes bøde for overtrædelse af denne bekendtgørelse.",
-      "valid_from": "2008-07-10",
+      "valid_from": "2008-07-22",
       "valid_to": null
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. august 2008.",
-      "valid_from": "2008-07-10",
+      "valid_from": "2008-07-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:28:21.502Z",
+    "accession": "B20080077505",
+    "document_id": "AU003355",
+    "unique_document_id": "120651",
+    "upstream_status": "Valid",
+    "start_date": "2008-07-22",
+    "end_date": "2018-06-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

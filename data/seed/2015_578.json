@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2015-05-04",
+  "in_force_date": "2015-05-04",
   "url": "https://www.retsinformation.dk/eli/lta/2015/578/xml",
   "description": "Retsinformation source. DocumentId=AN011925; AccessionNumber=A20150057830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -65,5 +66,16 @@
       "definition": "forhold, som er nævnt i § 2, stk",
       "source_provision": "9"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:14:50.191Z",
+    "accession": "A20150057830",
+    "document_id": "AN011925",
+    "unique_document_id": "169967",
+    "upstream_status": "Valid",
+    "start_date": "2015-05-04",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

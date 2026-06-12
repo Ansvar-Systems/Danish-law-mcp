@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om udbetaling af dagpenge",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-16",
+  "in_force_date": "2019-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1414/xml",
-  "description": "Retsinformation source. DocumentId=BE008228; AccessionNumber=B20190141405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008228; AccessionNumber=B20190141405; Ophævet 2021-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3a",
@@ -19,9 +20,20 @@
       "provision_ref": "3a",
       "section": "3a",
       "content": "§ 3 a. Medlemmet kan supplere oplysninger om arbejde, indtægter og andre forhold, der er afgivet efter § 2, stk. 3, for udbetalingsperioden. Det kan ske i perioden, fra medlemmet afleverer dagpengekortet til tidspunktet for samkøringen af oplysninger i den efterfølgende måneden, jf. § 7. Oplysninger, som a-kassen modtager fra DFDG om ferie, sygdom og afmelding fra jobcenteret sidestilles med oplysninger modtaget fra medlemmet. Stk. 2. A-kassen skal behandle medlemmets oplysninger jf. stk.1, i forbindelse med samkøringen med oplysningerne i indkomstregisteret, jf. § 7.",
-      "valid_from": "2019-12-16",
-      "valid_to": null
+      "valid_from": "2019-12-17",
+      "valid_to": "2021-08-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:45:07.738Z",
+    "accession": "B20190141405",
+    "document_id": "BE008228",
+    "unique_document_id": "211794",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-08-19",
+    "seed_status": "repealed"
+  }
 }

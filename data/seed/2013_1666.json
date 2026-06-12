@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om det Centrale TilskudsRegister (CTR)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-27",
+  "in_force_date": "2013-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1666/xml",
-  "description": "Retsinformation source. DocumentId=BK001498; AccessionNumber=B20130166605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001498; AccessionNumber=B20130166605; Ophævet 2015-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 a. Bestemmelserne i §§ 5, 6 og 7 gælder også for Sundhedsstyrelsen i forbindelse med styrelsens beregning af tilskud til lægemidler købt i et andet EU/EØS-land efter reglerne udstedt i medfør af sundhedslovens § 168, stk. 1.",
-      "valid_from": "2013-12-27",
-      "valid_to": null
+      "valid_from": "2013-12-28",
+      "valid_to": "2015-12-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:53:02.375Z",
+    "accession": "B20130166605",
+    "document_id": "BK001498",
+    "unique_document_id": "160722",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-28",
+    "end_date": "2022-07-12",
+    "historic_marked": "2015-12-08",
+    "seed_status": "repealed"
+  }
 }

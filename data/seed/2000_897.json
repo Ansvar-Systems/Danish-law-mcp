@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om byfornyelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-25",
+  "in_force_date": "2000-10-05",
   "url": "https://www.retsinformation.dk/eli/lta/2000/897/xml",
-  "description": "Retsinformation source. DocumentId=AC000288; AccessionNumber=A20000089729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000288; AccessionNumber=A20000089729; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:37:50.686Z",
+    "accession": "A20000089729",
+    "document_id": "AC000288",
+    "unique_document_id": "4106",
+    "upstream_status": "Historic",
+    "start_date": "2000-10-05",
+    "end_date": "2023-04-29",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

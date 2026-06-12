@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indførsel af fødevarer m.v. med særlige restriktioner",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-05-25",
+  "in_force_date": "2004-06-03",
   "url": "https://www.retsinformation.dk/eli/lta/2004/396/xml",
-  "description": "Retsinformation source. DocumentId=AH001797; AccessionNumber=B20040039605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001797; AccessionNumber=B20040039605; Ophævet 2004-10-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:24:26.504Z",
+    "accession": "B20040039605",
+    "document_id": "AH001797",
+    "unique_document_id": "8005",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-03",
+    "end_date": "2022-04-09",
+    "historic_marked": "2004-10-14",
+    "seed_status": "repealed"
+  }
 }

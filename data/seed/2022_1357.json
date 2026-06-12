@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2022-09-19",
+  "in_force_date": "2022-09-29",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1357/xml",
   "description": "Retsinformation source. DocumentId=AA013319; AccessionNumber=B20220135705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Konkurslovens § 13 g, stk. 3, 2. pkt., som affattet ved § 1, nr. 17, i lov nr. 530 af 27. marts 2021 om ændring af konkursloven, lov om Lønmodtagernes Garantifond og lov om lønmodtageres retsstilling ved virksomhedsoverdragelse (Værneting ved gældssanering og ændringer i rekonstruktionsreglerne som følge af covid-19) sættes i kraft.",
-      "valid_from": "2022-09-19",
+      "valid_from": "2022-09-29",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. oktober 2022.",
-      "valid_from": "2022-09-19",
+      "valid_from": "2022-09-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:15:53.704Z",
+    "accession": "B20220135705",
+    "document_id": "AA013319",
+    "unique_document_id": "232968",
+    "upstream_status": "Valid",
+    "start_date": "2022-09-29",
+    "end_date": "2024-11-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

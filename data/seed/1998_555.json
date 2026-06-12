@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om biavl på Læsø",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-07-28",
+  "in_force_date": "1998-08-04",
   "url": "https://www.retsinformation.dk/eli/lta/1998/555/xml",
-  "description": "Retsinformation source. DocumentId=CM047635; AccessionNumber=B19980055505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047635; AccessionNumber=B19980055505; Ophævet 2005-06-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:49:50.270Z",
+    "accession": "B19980055505",
+    "document_id": "CM047635",
+    "unique_document_id": "87795",
+    "upstream_status": "Historic",
+    "start_date": "1998-08-04",
+    "end_date": "2022-04-09",
+    "historic_marked": "2005-06-13",
+    "seed_status": "repealed"
+  }
 }

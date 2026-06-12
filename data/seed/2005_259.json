@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om hunde",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-04-12",
+  "in_force_date": "2005-04-20",
   "url": "https://www.retsinformation.dk/eli/lta/2005/259/xml",
-  "description": "Retsinformation source. DocumentId=AA002852; AccessionNumber=A20050025929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002852; AccessionNumber=A20050025929; Ophævet 2013-03-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:12:58.704Z",
+    "accession": "A20050025929",
+    "document_id": "AA002852",
+    "unique_document_id": "2050",
+    "upstream_status": "Historic",
+    "start_date": "2005-04-20",
+    "end_date": "2022-04-09",
+    "historic_marked": "2013-03-14",
+    "seed_status": "repealed"
+  }
 }

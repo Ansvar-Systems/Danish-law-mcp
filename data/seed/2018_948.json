@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om forsikring eller anden garanti til dækning af det privatretlige ansvar for olieskader fra skibe",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-06-18",
+  "in_force_date": "2018-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2018/948/xml",
-  "description": "Retsinformation source. DocumentId=CQ000534; AccessionNumber=B20180094805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000534; AccessionNumber=B20180094805; Ophævet 2025-11-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11a",
@@ -19,9 +20,20 @@
       "provision_ref": "11a",
       "section": "11a",
       "content": "§ 11 a. Er forholdet omfattet af anordning om ikrafttræden for Grønland af søloven, kan der i stedet for straf efter § 11 idømmes foranstaltninger efter kriminalloven for Grønland efter reglerne i § 514 a, som sat i kraft for Grønland ved anordning nr. 609 af 25. juni 2001.",
-      "valid_from": "2018-06-18",
-      "valid_to": null
+      "valid_from": "2018-06-29",
+      "valid_to": "2025-11-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:26:19.113Z",
+    "accession": "B20180094805",
+    "document_id": "CQ000534",
+    "unique_document_id": "201418",
+    "upstream_status": "Historic",
+    "start_date": "2018-06-29",
+    "end_date": "2025-11-29",
+    "historic_marked": "2025-11-28",
+    "seed_status": "repealed"
+  }
 }

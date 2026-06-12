@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om anlæg af mergelbaner m.v.(* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1918-03-20",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1918/183/xml",
-  "description": "Retsinformation source. DocumentId=CM010110; AccessionNumber=A19180018330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010110; AccessionNumber=A19180018330; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:39:14.641Z",
+    "accession": "A19180018330",
+    "document_id": "CM010110",
+    "unique_document_id": "51284",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

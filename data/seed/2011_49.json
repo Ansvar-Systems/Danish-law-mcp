@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2011-01-24",
+  "in_force_date": "2011-01-26",
   "url": "https://www.retsinformation.dk/eli/lta/2011/49/xml",
   "description": "Retsinformation source. DocumentId=AU004318; AccessionNumber=B20110004905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. I medfør af § 6, stk. 1, 2. pkt., i lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme, som sat i kraft for Færøerne ved kongelig anordning, skal virksomheder og personer omfattet af anordningen være opmærksomme på transaktioner, der har forbindelse til lande og territorier, hvor der i henhold til erklæringer fra Financial Action Task Force anses at være en særlig risiko for hvidvask eller finansiering af terrorisme. Det er følgende: 1) Iran. 2) Nordkorea.",
-      "valid_from": "2011-01-24",
+      "valid_from": "2011-01-26",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2011. Stk. 2. Samtidig ophæves bekendtgørelse nr. 1014 af 25. august 2010 for Færøerne om lande og territorier, hvor der anses at være en særlig risiko for hvidvask eller finansiering af terrorisme (FATF-listen).",
-      "valid_from": "2011-01-24",
+      "valid_from": "2011-01-26",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:09:19.514Z",
+    "accession": "B20110004905",
+    "document_id": "AU004318",
+    "unique_document_id": "135494",
+    "upstream_status": "Valid",
+    "start_date": "2011-01-26",
+    "end_date": "2023-05-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

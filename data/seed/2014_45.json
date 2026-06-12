@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-01-22",
+  "in_force_date": "2014-01-23",
   "url": "https://www.retsinformation.dk/eli/lta/2014/45/xml",
   "description": "Retsinformation source. DocumentId=BE005724; AccessionNumber=B20140004505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 979 af 5. august 2013 om flek‍sjobbonus ophæves.",
-      "valid_from": "2014-01-22",
+      "valid_from": "2014-01-23",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 24. januar 2014. Stk. 2. For ansøgninger om fleksjobbonus, som er modtaget inden bekendtgørelsens ikrafttræden, finder reglerne i bekendtgørelse nr. 979 af 5. august 2013 om fleksjobbonus fortsat anvendelse.",
-      "valid_from": "2014-01-22",
+      "valid_from": "2014-01-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:03:09.089Z",
+    "accession": "B20140004505",
+    "document_id": "BE005724",
+    "unique_document_id": "161487",
+    "upstream_status": "Valid",
+    "start_date": "2014-01-23",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

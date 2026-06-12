@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om delegation af ministeren for forskning, innovation og videregående uddannelsers beføjelser i lov om adgangsregulering ved videregående uddannelser",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-24",
+  "in_force_date": "2012-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2012/667/xml",
-  "description": "Retsinformation source. DocumentId=BR000096; AccessionNumber=B20120066705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BR000096; AccessionNumber=B20120066705; Ophævet 2015-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Følgende beføjelser i lov om adgangsregulering ved videregående uddannelser delegeres fra ministeren for forskning, innovation og videregående uddannelser til Styrelsen for Videregående Uddannelser og Uddannelsesstøtte, sådan at styrelsen: 1) Kan fastsætte regler om adgangsregulering ved institutioner med videregående uddannelser, jf. lovens § 1, stk. 1. 2) Kan fastsætte regler om, at ansøgning og øvrig kommunikation om optagelse på en videregående uddannelse skal ske helt eller delvist digitalt og kan herunder fastsætte regler om obligatorisk anvendelse af et bestemt digitalt system og sikker identifikation, jf. lovens § 1, stk. 2. 3) Kan fastsætte nærmere regler om, i hvilke tilfælde ansøgning uanset bestemmelsen i lovens § 1, stk. 2 kan indgives i papirform, og hvilke afgørelser og meddelelser der uanset bestemmelsen i lovens § 1, stk. 2, kan afgives i papirform, jf. lovens § 1, stk. 3. 4) Kan fastsætte regler om, at klager over afgørelser om adgang eller optagelse, som institutioner med videregående uddannelser har truffet i henhold til bemyndigelse, ikke kan indbringes for styrelsen, jf. lovens § 2, stk. 1.",
-      "valid_from": "2012-06-24",
-      "valid_to": null
+      "valid_from": "2012-06-28",
+      "valid_to": "2015-07-10"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Administrationen af bekendtgørelser udstedt af ministeren for forskning, innovation og videregående uddannelser i medfør af lov om adgangsregulering ved videregående uddannelser delegeres fra ministeren til Styrelsen for Videregående Uddannelser og Uddannelsesstøtte.",
-      "valid_from": "2012-06-24",
-      "valid_to": null
+      "valid_from": "2012-06-28",
+      "valid_to": "2015-07-10"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Ministeren for forskning, innovation og videregående uddannelser kan overtage en beføjelse, der efter bekendtgørelsen skal udøves af Styrelsen for Videregående Uddannelser og Uddannelsesstøtte.",
-      "valid_from": "2012-06-24",
-      "valid_to": null
+      "valid_from": "2012-06-28",
+      "valid_to": "2015-07-10"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Afgørelser truffet af Styrelsen for Videregående Uddannelser og Uddannelsesstøtte efter § 1 kan ikke påklages til ministeren for forskning, innovation og videregående uddannelser.",
-      "valid_from": "2012-06-24",
-      "valid_to": null
+      "valid_from": "2012-06-28",
+      "valid_to": "2015-07-10"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. august 2012.",
-      "valid_from": "2012-06-24",
-      "valid_to": null
+      "valid_from": "2012-06-28",
+      "valid_to": "2015-07-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:09:46.797Z",
+    "accession": "B20120066705",
+    "document_id": "BR000096",
+    "unique_document_id": "142589",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-07-10",
+    "seed_status": "repealed"
+  }
 }

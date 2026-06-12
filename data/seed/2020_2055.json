@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om visse midlertidige foranstaltninger for erhvervsuddannelserne og arbejdsmarkedsuddannelserne som led i forebyggelse og afhjælpning i forbindelse med covid-19 (Aflysning af prøver i perioden fra 21. december 2020 til 31. januar 2021)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-12-18",
+  "in_force_date": "2020-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2055/xml",
-  "description": "Retsinformation source. DocumentId=DA000420; AccessionNumber=B20200205505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000420; AccessionNumber=B20200205505; Ophævet 2021-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -19,9 +20,20 @@
       "provision_ref": "9a",
       "section": "9a",
       "content": "§ 9 a. Alle prøver i grundfag aflyses uanset bestemmelsen i § 10 fra den 21. december 2020 til og med 31. januar 2021. Prøveaflysningen efter 1. pkt. omfatter dog ikke prøver i sundhedsfaglige uddannelser og kurser, der kvalificerer til varetagelse af samfundskritiske funktioner, og som vurderes nødvendige for at opkvalificere medarbejdere til at indgå i det sundhedsfaglige beredskab til håndtering af covid-19. Stk. 2. Elevens afsluttende standpunktskarakter i fag, hvor prøven er aflyst, træder i stedet for karakterer, som skulle have været givet ved de aflyste prøver og er derved ophøjet til prøvekarakterer. Stk. 3. Beviser, der udfærdiges til elever efter reglen i stk. 2, har samme retsvirkning som beviser, der er udstedt efter de almindelige regler på børne- og undervisningsområdet, herunder i forhold til optagelse på videregående uddannelser.",
-      "valid_from": "2020-12-18",
-      "valid_to": null
+      "valid_from": "2020-12-20",
+      "valid_to": "2021-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:10:54.084Z",
+    "accession": "B20200205505",
+    "document_id": "DA000420",
+    "unique_document_id": "219042",
+    "upstream_status": "Historic",
+    "start_date": "2020-12-20",
+    "end_date": "2023-03-08",
+    "historic_marked": "2021-06-28",
+    "seed_status": "repealed"
+  }
 }

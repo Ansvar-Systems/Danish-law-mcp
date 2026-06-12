@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om overdragelse af kattekillinger",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-10-29",
+  "in_force_date": "2009-11-03",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1025/xml",
-  "description": "Retsinformation source. DocumentId=AA005117; AccessionNumber=B20090102505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005117; AccessionNumber=B20090102505; Ophævet 2023-06-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Med bøde straffes den, der sælger eller på anden måde overdrager eller køber eller på anden måde erhverver kattekillinger, hvis levering af kattekillingerne sker, inden de er 12 uger gamle. På samme måde straffes den, der fra udlandet indfører kattekillinger, der er under 12 uger gamle. Stk. 2. Reglen i stk. 1 finder ikke anvendelse, når der er tale om en samlet overdragelse, erhvervelse eller indførsel af moderdyr og killinger, eller når moderløse killinger indleveres til dyreinternater eller overdrages til en ammekat.",
-      "valid_from": "2009-10-29",
-      "valid_to": null
+      "valid_from": "2009-11-03",
+      "valid_to": "2023-06-01"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Justitsministeriet kan meddele dispensation fra denne bekendtgørelse, hvis hensynet til moderdyrets og killingernes velfærd taler for det. Dispensationen kan gøres betinget af nærmere angivne vilkår.",
-      "valid_from": "2009-10-29",
-      "valid_to": null
+      "valid_from": "2009-11-03",
+      "valid_to": "2023-06-01"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. november 2009.",
-      "valid_from": "2009-10-29",
-      "valid_to": null
+      "valid_from": "2009-11-03",
+      "valid_to": "2023-06-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:38:36.128Z",
+    "accession": "B20090102505",
+    "document_id": "AA005117",
+    "unique_document_id": "127877",
+    "upstream_status": "Historic",
+    "start_date": "2009-11-03",
+    "end_date": "2023-06-02",
+    "historic_marked": "2023-06-01",
+    "seed_status": "repealed"
+  }
 }

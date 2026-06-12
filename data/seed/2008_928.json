@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2008-09-19",
+  "in_force_date": "2008-09-23",
   "url": "https://www.retsinformation.dk/eli/lta/2008/928/xml",
   "description": "Retsinformation source. DocumentId=AU003414; AccessionNumber=B20080092805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Fra og med den 1. oktober 2008 ophører 25-øren med at være gyldig som betalingsmiddel, dog ikke i forhold til statens kasser og Danmarks Nationalbank, jf. stk. 2. Stk. 2. Fra og med 1. oktober 2011 ophører 25-øren med også i forhold til statens kasser og Danmarks Nationalbank at være gyldig som betalingsmiddel.",
-      "valid_from": "2008-09-19",
+      "valid_from": "2008-09-23",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Ved betaling i dansk mønt af et ørebeløb, som ikke er deleligt med 50, afrundes dette fra og med 1. oktober 2008 til det nærmeste beløb, der kan deles med 50, med mindre andet er aftalt.",
-      "valid_from": "2008-09-19",
+      "valid_from": "2008-09-23",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 29. september 2008.",
-      "valid_from": "2008-09-19",
+      "valid_from": "2008-09-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:34:35.180Z",
+    "accession": "B20080092805",
+    "document_id": "AU003414",
+    "unique_document_id": "121319",
+    "upstream_status": "Valid",
+    "start_date": "2008-09-23",
+    "end_date": "2019-01-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

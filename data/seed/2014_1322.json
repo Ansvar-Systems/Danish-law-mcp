@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2014-12-10",
+  "in_force_date": "2014-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1322/xml",
   "description": "Retsinformation source. DocumentId=BP001104; AccessionNumber=B20140132205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -44,44 +45,55 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Selskabslovens § 5, nr. 9, § 50, stk. 2, § 51, stk. 4 og 5, § 58, stk. 1 og 2, og § 367, stk. 1, sættes i kraft. Stk. 2. Selskabslovens § 58, stk. 3, sættes i kraft.",
-      "valid_from": "2014-12-10",
+      "valid_from": "2014-12-12",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Meddelelser om betydelige kapitalposter i et kapitalselskab jf. selskabslovens § 55, stk. 1, der er modtaget af kapitalselskabet før den 15. december 2014, skal være registreret i ejerregistret, jf. selskabslovens § 58, stk. 1, senest den 15. juni 2015.",
-      "valid_from": "2014-12-10",
+      "valid_from": "2014-12-12",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. § 1 i lov nr. 477 af 30. maj 2012 sættes i kraft.",
-      "valid_from": "2014-12-10",
+      "valid_from": "2014-12-12",
       "valid_to": null
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Registreringspligtige besiddelser af ihændehaveraktier, jf. selskabslovens § 57 a, stk. 1, der er erhvervet før den 15. december 2014, skal være registreret i Erhvervsstyrelsens it-system senest den 15. juni 2015.",
-      "valid_from": "2014-12-10",
+      "valid_from": "2014-12-12",
       "valid_to": null
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Skattekontrollovens § 3 A, stk. 8, som affattet ved § 8, nr. 1, i lov nr. 118 af 7. februar 2012, sættes i kraft.",
-      "valid_from": "2014-12-10",
+      "valid_from": "2014-12-12",
       "valid_to": null
     },
     {
       "provision_ref": "6",
       "section": "6",
       "content": "§ 6. Bekendtgørelsen træder i kraft den 15. december 2014, jf. dog stk. 2. Stk. 2. § 1, stk. 2, og § 5 træder i kraft den 15. juni 2015.",
-      "valid_from": "2014-12-10",
+      "valid_from": "2014-12-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:07.421Z",
+    "accession": "B20140132205",
+    "document_id": "BP001104",
+    "unique_document_id": "166592",
+    "upstream_status": "Valid",
+    "start_date": "2014-12-12",
+    "end_date": "2025-04-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om nummeroplysningsdatabaser",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-01-27",
+  "in_force_date": "2006-02-09",
   "url": "https://www.retsinformation.dk/eli/lta/2006/52/xml",
-  "description": "Retsinformation source. DocumentId=BD000255; AccessionNumber=B20060005205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000255; AccessionNumber=B20060005205; Ophævet 2008-07-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:27:11.830Z",
+    "accession": "B20060005205",
+    "document_id": "BD000255",
+    "unique_document_id": "29264",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-09",
+    "end_date": "2026-06-04",
+    "historic_marked": "2008-07-08",
+    "seed_status": "repealed"
+  }
 }

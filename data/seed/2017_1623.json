@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-12-18",
+  "in_force_date": "2017-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1623/xml",
   "description": "Retsinformation source. DocumentId=CI000400; AccessionNumber=B20170162305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1008 af 20. oktober 2009 om visse vindmøller, der nettilsluttes fra den 1. september 2010, ophæves.",
-      "valid_from": "2017-12-18",
+      "valid_from": "2017-12-22",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2018",
-      "valid_from": "2017-12-18",
+      "valid_from": "2017-12-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:01:51.079Z",
+    "accession": "B20170162305",
+    "document_id": "CI000400",
+    "unique_document_id": "196745",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-22",
+    "end_date": "2021-01-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

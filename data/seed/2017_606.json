@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om god skik for boligkredit",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-05-23",
+  "in_force_date": "2017-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/2017/606/xml",
-  "description": "Retsinformation source. DocumentId=CQ000160; AccessionNumber=B20170060605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000160; AccessionNumber=B20170060605; Ophævet 2018-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "6a:10a",
@@ -27,17 +28,28 @@
       "chapter": "6a",
       "section": "10a",
       "content": "§ 10 a. Lånetilbud for realkreditlån og realkreditlignende lån skal angive de kategorier af omkostninger, som boligkreditgiveren dækker ved opkrævning af bidrag, rentetillæg og øvrige gebyrer for boligkreditgiverens samlede portefølje af realkreditlån eller realkreditlignende lån. Lånetilbuddet skal også angive, hvor stor en andel hver kategori af omkostninger udgør af de samlede omkostninger for boligkreditgiverens samlede portefølje af realkreditlån eller realkreditlignende lån. Stk. 2. De i stk. 1 nævnte oplysninger skal gives på baggrund af forholdene på tidspunktet for afgivelse af lånetilbuddet.",
-      "valid_from": "2017-05-23",
-      "valid_to": null
+      "valid_from": "2017-06-02",
+      "valid_to": "2018-12-18"
     },
     {
       "provision_ref": "6a:10b",
       "chapter": "6a",
       "section": "10b",
       "content": "§ 10 b. En boligkreditgiver skal i hver terminsopkrævning for et realkreditlån med rentetilpasning/refinansiering og et realkreditlignende lån oplyse låntageren om, hvor meget kursskæringen udgør af den rentebetaling, som opkræves. Oplysningen skal angives i kroner.",
-      "valid_from": "2017-05-23",
-      "valid_to": null
+      "valid_from": "2017-06-02",
+      "valid_to": "2018-12-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:25:16.327Z",
+    "accession": "B20170060605",
+    "document_id": "CQ000160",
+    "unique_document_id": "191295",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-02",
+    "end_date": "2023-10-28",
+    "historic_marked": "2018-12-18",
+    "seed_status": "repealed"
+  }
 }

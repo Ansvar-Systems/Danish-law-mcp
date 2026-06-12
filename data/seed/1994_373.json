@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om miljøbeskyttelse (Sikkerhedsstillelse og tilsyn m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-05-18",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/373/xml",
-  "description": "Retsinformation source. DocumentId=CM008192; AccessionNumber=A19940037330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008192; AccessionNumber=A19940037330; Ophævet 1994-12-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:53:13.483Z",
+    "accession": "A19940037330",
+    "document_id": "CM008192",
+    "unique_document_id": "49382",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1994-12-05",
+    "seed_status": "repealed"
+  }
 }

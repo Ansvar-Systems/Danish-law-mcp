@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-01-23",
+  "in_force_date": "2015-01-27",
   "url": "https://www.retsinformation.dk/eli/lta/2015/57/xml",
-  "description": "Retsinformation source. DocumentId=AL003110; AccessionNumber=B20150005705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL003110; AccessionNumber=B20150005705; Ophævet 2016-08-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. §§ 1-6, § 7, nr. 2 og 3, §§ 8-14 og §§ 16-25, i lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) sættes i kraft.",
-      "valid_from": "2015-01-23",
-      "valid_to": null
+      "valid_from": "2015-01-27",
+      "valid_to": "2016-08-22"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 28. januar 2015.",
-      "valid_from": "2015-01-23",
-      "valid_to": null
+      "valid_from": "2015-01-27",
+      "valid_to": "2016-08-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:14:30.436Z",
+    "accession": "B20150005705",
+    "document_id": "AL003110",
+    "unique_document_id": "167593",
+    "upstream_status": "Historic",
+    "start_date": "2015-01-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2016-08-22",
+    "seed_status": "repealed"
+  }
 }

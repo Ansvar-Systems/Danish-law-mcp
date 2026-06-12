@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven (Motorcykel med tilkoblet påhængsvogn eller påhængsredskab)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-05-18",
+  "in_force_date": "1998-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/1998/292/xml",
-  "description": "Retsinformation source. DocumentId=CM047085; AccessionNumber=A19980029230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047085; AccessionNumber=A19980029230; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:39:20.139Z",
+    "accession": "A19980029230",
+    "document_id": "CM047085",
+    "unique_document_id": "87273",
+    "upstream_status": "Historic",
+    "start_date": "1998-05-26",
+    "end_date": "2022-07-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

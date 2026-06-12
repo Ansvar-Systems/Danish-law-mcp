@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om beregning af forbrugerpriser m.v. på lægemidler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-03-21",
+  "in_force_date": "2007-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2007/270/xml",
-  "description": "Retsinformation source. DocumentId=AI003371; AccessionNumber=B20070027005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI003371; AccessionNumber=B20070027005; Ophævet 2008-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:15:29.502Z",
+    "accession": "B20070027005",
+    "document_id": "AI003371",
+    "unique_document_id": "11359",
+    "upstream_status": "Historic",
+    "start_date": "2007-03-29",
+    "end_date": "2022-07-12",
+    "historic_marked": "2008-09-23",
+    "seed_status": "repealed"
+  }
 }

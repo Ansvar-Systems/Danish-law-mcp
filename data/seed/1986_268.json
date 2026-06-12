@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om folkekirkens kirkebygninger og kirkegårde",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-05-22",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/268/xml",
-  "description": "Retsinformation source. DocumentId=CM031874; AccessionNumber=A19860026830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031874; AccessionNumber=A19860026830; Ophævet 1992-07-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:05:29.104Z",
+    "accession": "A19860026830",
+    "document_id": "CM031874",
+    "unique_document_id": "72678",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-12-29",
+    "historic_marked": "1992-07-07",
+    "seed_status": "repealed"
+  }
 }

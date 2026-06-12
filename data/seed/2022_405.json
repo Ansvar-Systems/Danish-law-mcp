@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om en aktiv beskæftigelsesindsats",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-03-30",
+  "in_force_date": "2022-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2022/405/xml",
-  "description": "Retsinformation source. DocumentId=BE009286; AccessionNumber=B20220040505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE009286; AccessionNumber=B20220040505; Ophævet 2023-10-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "121a",
@@ -20,8 +21,19 @@
       "section": "121a",
       "content": "§ 121 a. Arbejdsgivere anmoder om udbetaling af tilskud til voksenelevløn via NemRefusion.",
       "valid_from": "2022-03-30",
-      "valid_to": null
+      "valid_to": "2023-10-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:37:42.071Z",
+    "accession": "B20220040505",
+    "document_id": "BE009286",
+    "unique_document_id": "230180",
+    "upstream_status": "Historic",
+    "start_date": "2022-03-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-10-03",
+    "seed_status": "repealed"
+  }
 }

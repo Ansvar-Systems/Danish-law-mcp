@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2014-06-25",
+  "in_force_date": "2014-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2014/714/xml",
   "description": "Retsinformation source. DocumentId=AA008006; AccessionNumber=A20140071430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -47,5 +48,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:13:49.903Z",
+    "accession": "A20140071430",
+    "document_id": "AA008006",
+    "unique_document_id": "163839",
+    "upstream_status": "Valid",
+    "start_date": "2014-06-25",
+    "end_date": "2017-12-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

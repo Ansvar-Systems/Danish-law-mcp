@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af produktansvarsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-11-28",
+  "in_force_date": "2000-11-28",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1041/xml",
-  "description": "Retsinformation source. DocumentId=AA001263; AccessionNumber=A20000104130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001263; AccessionNumber=A20000104130; Ophævet 2007-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:52:11.127Z",
+    "accession": "A20000104130",
+    "document_id": "AA001263",
+    "unique_document_id": "946",
+    "upstream_status": "Historic",
+    "start_date": "2000-11-28",
+    "end_date": "2008-03-25",
+    "historic_marked": "2007-03-29",
+    "seed_status": "repealed"
+  }
 }

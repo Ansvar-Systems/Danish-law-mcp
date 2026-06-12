@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-09-23",
+  "in_force_date": "2021-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1845/xml",
   "description": "Retsinformation source. DocumentId=AP000331; AccessionNumber=B20210184505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører Sundhedsministeriets departement, Sundhedsdatastyrelsen, Statens Serum Institut, Sundhedsstyrelsen, Styrelsen for Patientsikkerhed, Styrelsen for Patientklager, Fællessekretariatet for Det Etiske Råd og National Videnskabsetisk Komité samt Nationalt Genom Center, i henhold til nærmere aftale mellem sundhedsministeren og finansministeren overføres fra sundhedsministeren til finansministeren pr. 15. september 2021.",
-      "valid_from": "2021-09-23",
+      "valid_from": "2021-09-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:56:24.323Z",
+    "accession": "B20210184505",
+    "document_id": "AP000331",
+    "unique_document_id": "225118",
+    "upstream_status": "Valid",
+    "start_date": "2021-09-24",
+    "end_date": "2021-09-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

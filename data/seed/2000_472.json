@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om apoteksvirksomhed",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/472/xml",
-  "description": "Retsinformation source. DocumentId=AQ000477; AccessionNumber=A20000047230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000477; AccessionNumber=A20000047230; Ophævet 2008-08-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:43.780Z",
+    "accession": "A20000047230",
+    "document_id": "AQ000477",
+    "unique_document_id": "21424",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2022-07-12",
+    "historic_marked": "2008-08-28",
+    "seed_status": "repealed"
+  }
 }

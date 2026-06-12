@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-03-24",
+  "in_force_date": "2017-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2017/290/xml",
   "description": "Retsinformation source. DocumentId=AE002429; AccessionNumber=B20170029005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Tjenestemandspension reguleres svarende til den generelle regulering af tjenestemandslønnen. Stk. 2. Når der er indgået aftale om regulering af tjenestemandslønninger, indhentes udtalelse fra Lønningsrådet om procentregulering af tjenestemandspensioner og om de pensionsgivende lønninger, der lægges til grund for beregning af tjenestemandspension, på de tidspunkter, hvor der er aftalt stigning i tjenestemandslønningerne.",
-      "valid_from": "2017-03-24",
+      "valid_from": "2017-03-30",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Forud for de i § 1, stk. 2, nævnte reguleringstidspunkter meddeles reguleringsprocenten i tilknytning til offentliggørelsen af Finansministeriets pensionstabeller over tjenestemandspensioner (egenpensioner og ægtefællepensioner), der tillige indeholder en gennemgang af elementerne i beregning af tjenestemandspensioner.",
-      "valid_from": "2017-03-24",
+      "valid_from": "2017-03-30",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Rådighedsløn og efterindtægt af løn reguleres med lønreguleringsprocenten, der fremgår af Finansministeriets lønoversigter.",
-      "valid_from": "2017-03-24",
+      "valid_from": "2017-03-30",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. april 2017. Stk. 2. Cirkulære nr. 84 af 30. maj 1997 om beregning af tjenestemandspension, opsatte pensioner og regulering af tjenestemandspensioner pr. 1. april 1997, cirkulære nr. 12416 af 4. december 2001 om aftrapning af tillæg i henhold til tjenestemandspensionslovens § 6, stk. 2 og cirkulære nr. 9216 af 14. marts 2016 om regulering af tjenestemandspensioner mv. pr. 1. april 2016 og af pensionsgivende lønninger ophæves.",
-      "valid_from": "2017-03-24",
+      "valid_from": "2017-03-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:12:31.140Z",
+    "accession": "B20170029005",
+    "document_id": "AE002429",
+    "unique_document_id": "187090",
+    "upstream_status": "Valid",
+    "start_date": "2017-03-30",
+    "end_date": "2023-10-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

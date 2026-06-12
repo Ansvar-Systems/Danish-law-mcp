@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om kontantydelse",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-01-27",
+  "in_force_date": "2016-01-27",
   "url": "https://www.retsinformation.dk/eli/lta/2016/80/xml",
-  "description": "Retsinformation source. DocumentId=BE006690; AccessionNumber=B20160008005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006690; AccessionNumber=B20160008005; Ophævet 2025-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 10, stk. 2, nr. 8-10, § 13 og § 15, stk. 1, nr. 7, i lov nr. 174 af 24. februar 2015 om kontantydelse sættes i kraft.",
       "valid_from": "2016-01-27",
-      "valid_to": null
+      "valid_to": "2025-11-21"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2016.",
       "valid_from": "2016-01-27",
-      "valid_to": null
+      "valid_to": "2025-11-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:28:45.906Z",
+    "accession": "B20160008005",
+    "document_id": "BE006690",
+    "unique_document_id": "177253",
+    "upstream_status": "Historic",
+    "start_date": "2016-01-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-11-21",
+    "seed_status": "repealed"
+  }
 }

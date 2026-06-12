@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af_lov om luftfart",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-13",
+  "in_force_date": "2001-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2001/543/xml",
-  "description": "Retsinformation source. DocumentId=AR000442; AccessionNumber=A20010054329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000442; AccessionNumber=A20010054329; Ophævet 2006-01-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:04:14.711Z",
+    "accession": "A20010054329",
+    "document_id": "AR000442",
+    "unique_document_id": "22045",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-21",
+    "end_date": "2023-12-13",
+    "historic_marked": "2006-01-12",
+    "seed_status": "repealed"
+  }
 }

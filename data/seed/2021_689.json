@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om offentlige myndigheder, som Nationalt ID-center skal kunne betjene",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-04-19",
+  "in_force_date": "2021-04-20",
   "url": "https://www.retsinformation.dk/eli/lta/2021/689/xml",
-  "description": "Retsinformation source. DocumentId=CS001026; AccessionNumber=B20210068905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS001026; AccessionNumber=B20210068905; Ophævet 2022-01-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Nationalt ID-center afgiver udtalelser og yder rådgivning og bistand, jf. udlændingelovens § 40 i, stk. 1, 1. pkt., til følgende offentlige myndigheder: Ankestyrelsen, Familieretshuset, Flygtningenævnet, Hjemrejsestyrelsen, Justitsministeriet, politiet, Styrelsen for International Rekruttering og Integration, Udenrigsministeriet, Udlændinge- og Integrationsministeriet, Udlændingenævnet og Udlændingestyrelsen.",
-      "valid_from": "2021-04-19",
-      "valid_to": null
+      "valid_from": "2021-04-20",
+      "valid_to": "2022-01-10"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 22. april 2021. Stk. 2. Bekendtgørelse nr. 127 af 11. februar 2020 om offentlige myndigheder, som Nationalt ID-center skal kunne betjene, ophæves.",
-      "valid_from": "2021-04-19",
-      "valid_to": null
+      "valid_from": "2021-04-20",
+      "valid_to": "2022-01-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:48:53.249Z",
+    "accession": "B20210068905",
+    "document_id": "CS001026",
+    "unique_document_id": "222354",
+    "upstream_status": "Historic",
+    "start_date": "2021-04-20",
+    "end_date": "2022-01-11",
+    "historic_marked": "2022-01-10",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om beskæftigelseskrav og dagpengeperiode",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-03-03",
+  "in_force_date": "2006-03-13",
   "url": "https://www.retsinformation.dk/eli/lta/2006/145/xml",
-  "description": "Retsinformation source. DocumentId=BE001672; AccessionNumber=B20060014505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001672; AccessionNumber=B20060014505; Ophævet 2006-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:00:54.002Z",
+    "accession": "B20060014505",
+    "document_id": "BE001672",
+    "unique_document_id": "30578",
+    "upstream_status": "Historic",
+    "start_date": "2006-03-13",
+    "end_date": "2026-06-12",
+    "historic_marked": "2006-12-22",
+    "seed_status": "repealed"
+  }
 }

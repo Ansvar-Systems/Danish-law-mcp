@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om bachelor- og kandidatuddannelser ved universiteterne (uddannelsesbekendtgørelsen)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-06-27",
+  "in_force_date": "2017-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2017/902/xml",
-  "description": "Retsinformation source. DocumentId=CE000532; AccessionNumber=B20170090205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000532; AccessionNumber=B20170090205; Ophævet 2020-01-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "40a",
@@ -19,9 +20,20 @@
       "provision_ref": "40a",
       "section": "40a",
       "content": "§ 40 a. En studerende kan under et ulønnet projektorienteret forløb, jf. § 19 og § 25, ulønnet praktik og studieophold mv., jf. § 15 og punkt 5.5 i bilag 1, modtage en erkendtlig fra en virksomhed mv. Beløbet må højst svare til 3.000 kr. om måneden og må ikke ydes som en på forhånd fastsat indkomst i lighed med en lønindkomst.",
-      "valid_from": "2017-06-27",
-      "valid_to": null
+      "valid_from": "2017-06-30",
+      "valid_to": "2020-01-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:37:08.449Z",
+    "accession": "B20170090205",
+    "document_id": "CE000532",
+    "unique_document_id": "192196",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-01-13",
+    "seed_status": "repealed"
+  }
 }

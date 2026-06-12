@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2023-06-27",
+  "in_force_date": "2023-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1005/xml",
   "description": "Retsinformation source. DocumentId=DH001417; AccessionNumber=B20230100505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Ikke-anvendte tilsagnsrammer, jf. § 10, bortfalder efter 31. december 2025.",
-      "valid_from": "2023-06-27",
+      "valid_from": "2023-06-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:01:53.052Z",
+    "accession": "B20230100505",
+    "document_id": "DH001417",
+    "unique_document_id": "238425",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-29",
+    "end_date": "2023-06-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

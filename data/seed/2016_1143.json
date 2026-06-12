@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-08-30",
+  "in_force_date": "2016-09-03",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1143/xml",
   "description": "Retsinformation source. DocumentId=CN000230; AccessionNumber=B20160114305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. De personlige alarmsystemer, der er nævnt i § 27 d i sundhedsloven, omfatter udstyr, som er egnet til at opdage, at en patient forlader eller er ved at forlade sygehusafdelingen. Stk. 2. De systemer, der er nævnt i stk. 1, kan blandt andet bestå af elektroniske dør- og trædemåtter, sensorer, fotoceller og zonealarmer.",
-      "valid_from": "2016-08-30",
+      "valid_from": "2016-09-03",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. De personlige pejlesystemer, der er nævnt i § 27 d i sundhedsloven, omfatter udstyr, som er egnet til at lokalisere patienter, som har forladt sygehusafdelingen, f.eks. GPS-udstyr. Stk. 2. Der må alene anvendes udstyr, som kan fastgøres eller placeres på patienten selv eller i dennes jakke, sko, rollator, som armbåndsur eller lignende. Stk. 3. Udstyret må ikke påsættes gennem operative indgreb eller ved gennembrud af hud.",
-      "valid_from": "2016-08-30",
+      "valid_from": "2016-09-03",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Udstyr, som nævnt i §§ 2-3 omfatter ikke udstyr, der er egnet til kontinuerligt at overvåge flere patienter, f.eks. tv- og videoovervågning.",
-      "valid_from": "2016-08-30",
+      "valid_from": "2016-09-03",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 5. september 2016.",
-      "valid_from": "2016-08-30",
+      "valid_from": "2016-09-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:37:46.885Z",
+    "accession": "B20160114305",
+    "document_id": "CN000230",
+    "unique_document_id": "183798",
+    "upstream_status": "Valid",
+    "start_date": "2016-09-03",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ombygning m.v. af Fysiurgisk Hospital i Hornbæk",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-02-20",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1985/55/xml",
-  "description": "Retsinformation source. DocumentId=CM005632; AccessionNumber=A19850005530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005632; AccessionNumber=A19850005530; Ophævet 2005-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:58:07.413Z",
+    "accession": "A19850005530",
+    "document_id": "CM005632",
+    "unique_document_id": "46869",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "2005-12-21",
+    "seed_status": "repealed"
+  }
 }

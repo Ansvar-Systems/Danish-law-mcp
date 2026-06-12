@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-08-03",
+  "in_force_date": "2019-08-13",
   "url": "https://www.retsinformation.dk/eli/lta/2019/800/xml",
   "description": "Retsinformation source. DocumentId=AP000311; AccessionNumber=B20190080005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ansvaret for lov om andelsboligforeninger og andre boligfællesskaber, jf. lovbekendtgørelse nr. 1231 af 11. oktober 2018 med tilhørende bekendtgørelser m.v., samt ansvaret for lov om ejerlejligheder, jf. lovbekendtgørelse nr. 1713 af 16. december 2010 med senere ændringer og tilhørende bekendtgørelser m.v. overføres fra Erhvervsministeriet til Transport- og Boligministeriet.",
-      "valid_from": "2019-08-03",
+      "valid_from": "2019-08-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:20:27.191Z",
+    "accession": "B20190080005",
+    "document_id": "AP000311",
+    "unique_document_id": "209970",
+    "upstream_status": "Valid",
+    "start_date": "2019-08-13",
+    "end_date": "2019-08-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

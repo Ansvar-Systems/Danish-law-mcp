@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om medarbejderaktieordninger m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-07-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/449/xml",
-  "description": "Retsinformation source. DocumentId=CM020201; AccessionNumber=B19880044905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020201; AccessionNumber=B19880044905; Ophævet 1990-12-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:11:30.698Z",
+    "accession": "B19880044905",
+    "document_id": "CM020201",
+    "unique_document_id": "61233",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-04-23",
+    "historic_marked": "1990-12-13",
+    "seed_status": "repealed"
+  }
 }

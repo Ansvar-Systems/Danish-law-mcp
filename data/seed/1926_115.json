@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse angaaende Forenings-Registeret.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1926-04-14",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1926/115/xml",
-  "description": "Retsinformation source. DocumentId=CM023349; AccessionNumber=B19260011505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023349; AccessionNumber=B19260011505; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:42:44.653Z",
+    "accession": "B19260011505",
+    "document_id": "CM023349",
+    "unique_document_id": "64313",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

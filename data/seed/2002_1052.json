@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om radio- og fjernsynsvirksomhed",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-17",
+  "in_force_date": "2002-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1052/xml",
-  "description": "Retsinformation source. DocumentId=AK000236; AccessionNumber=A20020105230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000236; AccessionNumber=A20020105230; Ophævet 2004-06-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:24:31.997Z",
+    "accession": "A20020105230",
+    "document_id": "AK000236",
+    "unique_document_id": "11854",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-17",
+    "end_date": "2022-12-31",
+    "historic_marked": "2004-06-17",
+    "seed_status": "repealed"
+  }
 }

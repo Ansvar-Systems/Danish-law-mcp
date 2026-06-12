@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om svovlindholdet i faste og flydende brændstoffer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-04-15",
+  "in_force_date": "2011-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2011/372/xml",
-  "description": "Retsinformation source. DocumentId=AL002430; AccessionNumber=B20110037205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002430; AccessionNumber=B20110037205; Ophævet 2014-06-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "24",
@@ -19,9 +20,20 @@
       "provision_ref": "24",
       "section": "24",
       "content": "§ 24. Miljøstyrelsens afgørelser efter denne bekendtgørelse kan ikke påklages til anden administrativ myndighed, dog kan afgørelser efter § 22 påklages til Ankenævnet for Søfartsforhold efter reglerne i havmiljølovens § 51 a.",
-      "valid_from": "2011-04-15",
-      "valid_to": null
+      "valid_from": "2011-04-30",
+      "valid_to": "2014-06-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:04:38.360Z",
+    "accession": "B20110037205",
+    "document_id": "AL002430",
+    "unique_document_id": "136787",
+    "upstream_status": "Historic",
+    "start_date": "2011-04-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2014-06-16",
+    "seed_status": "repealed"
+  }
 }

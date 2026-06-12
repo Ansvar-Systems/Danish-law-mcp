@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2023-12-17",
+  "in_force_date": "2023-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1677/xml",
   "description": "Retsinformation source. DocumentId=AN016183; AccessionNumber=B20230167705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 1354 af 29. november 2023 om gennemførelse af dobbeltbeskatningsoverenskomst mellem Kongeriget Danmark og den Demokratiske Folkerepublik Algeriet sættes i kraft.",
-      "valid_from": "2023-12-17",
+      "valid_from": "2023-12-19",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024.",
-      "valid_from": "2023-12-17",
+      "valid_from": "2023-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:28:51.733Z",
+    "accession": "B20230167705",
+    "document_id": "AN016183",
+    "unique_document_id": "240348",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-19",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

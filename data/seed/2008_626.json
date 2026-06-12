@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2008-06-27",
+  "in_force_date": "2008-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2008/626/xml",
   "description": "Retsinformation source. DocumentId=AU003313; AccessionNumber=B20080062603; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -540,5 +541,16 @@
       "definition": "finansiering af terrorisme som defineret i § 7, stk",
       "source_provision": "2:5"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:22:17.334Z",
+    "accession": "B20080062603",
+    "document_id": "AU003313",
+    "unique_document_id": "120393",
+    "upstream_status": "Valid",
+    "start_date": "2008-06-27",
+    "end_date": "2017-12-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

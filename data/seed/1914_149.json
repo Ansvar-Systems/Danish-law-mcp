@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov, hvorved det forbydes fra dansk Territorium at understøtte krigsførende Magter. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1914-08-02",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1914/149/xml",
-  "description": "Retsinformation source. DocumentId=CM004515; AccessionNumber=A19140014930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM004515; AccessionNumber=A19140014930; Ophævet 2016-06-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:38:23.174Z",
+    "accession": "A19140014930",
+    "document_id": "CM004515",
+    "unique_document_id": "45899",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2016-06-09",
+    "historic_marked": "2016-06-08",
+    "seed_status": "repealed"
+  }
 }

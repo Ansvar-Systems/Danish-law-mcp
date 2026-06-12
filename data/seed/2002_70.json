@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om radio- og fjernsynslicens",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-02-08",
+  "in_force_date": "2002-02-18",
   "url": "https://www.retsinformation.dk/eli/lta/2002/70/xml",
-  "description": "Retsinformation source. DocumentId=AK000174; AccessionNumber=B20020007005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000174; AccessionNumber=B20020007005; Ophævet 2002-09-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:54:52.664Z",
+    "accession": "B20020007005",
+    "document_id": "AK000174",
+    "unique_document_id": "11817",
+    "upstream_status": "Historic",
+    "start_date": "2002-02-18",
+    "end_date": "2005-02-16",
+    "historic_marked": "2002-09-02",
+    "seed_status": "repealed"
+  }
 }

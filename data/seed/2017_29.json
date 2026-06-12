@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om gebyrer og morarenter vedrørende visse ydelser, der opkræves af regioner og kommuner og inddrives af restanceinddrivelsesmyndigheden",
   "short_name": "LBK H#LOKDOK03",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-01-05",
+  "in_force_date": "2017-01-06",
   "url": "https://www.retsinformation.dk/eli/lta/2017/29/xml",
-  "description": "Retsinformation source. DocumentId=CR000005; AccessionNumber=A20170002929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CR000005; AccessionNumber=A20170002929; Ophævet 2018-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -51,49 +52,60 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Loven finder anvendelse, hvis andet ikke er bestemt ved eller i henhold til lov.",
-      "valid_from": "2017-01-05",
-      "valid_to": null
+      "valid_from": "2017-01-06",
+      "valid_to": "2018-01-28"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Regionsrådet kan bestemme, at der skal betales gebyr til regionen for erindringsskrivelser vedrørende ikke rettidigt betalte ydelser, der opkræves af regionen, og som i lovgivningen er tillagt udpantningsret. Stk. 2. Kommunalbestyrelsen kan bestemme, at der skal betales gebyr til kommunen for erindringsskrivelser vedrørende ikke rettidigt betalte ydelser, der opkræves af kommunen, og som i lovgivningen er tillagt udpantningsret. Stk. 3. De i stk. 1 og 2 nævnte gebyrer kan højst udgøre 250 kr.",
-      "valid_from": "2017-01-05",
-      "valid_to": null
+      "valid_from": "2017-01-06",
+      "valid_to": "2018-01-28"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Kommunalbestyrelsen og regionsrådet kan bestemme, at der ved for sen betaling af ydelser, der opkræves af myndigheden, og som i lovgivningen er tillagt udpantningsret, skal betales en rente, der udgør 1 pct. pr. påbegyndt måned fra kravets forfaldsdato at regne. Renten tilfalder den myndighed, der opkræver ydelsen.",
-      "valid_from": "2017-01-05",
-      "valid_to": null
+      "valid_from": "2017-01-06",
+      "valid_to": "2018-01-28"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. (Ophævet)",
-      "valid_from": "2017-01-05",
-      "valid_to": null
+      "valid_from": "2017-01-06",
+      "valid_to": "2018-01-28"
     },
     {
       "provision_ref": "1:5",
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Loven træder i kraft den 1. januar 1992.",
-      "valid_from": "2017-01-05",
-      "valid_to": null
+      "valid_from": "2017-01-06",
+      "valid_to": "2018-01-28"
     },
     {
       "provision_ref": "1:6",
       "chapter": "1",
       "section": "6",
       "content": "§ 6. Loven gælder ikke for Færøerne og Grønland.",
-      "valid_from": "2017-01-05",
-      "valid_to": null
+      "valid_from": "2017-01-06",
+      "valid_to": "2018-01-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:12:29.003Z",
+    "accession": "A20170002929",
+    "document_id": "CR000005",
+    "unique_document_id": "185265",
+    "upstream_status": "Historic",
+    "start_date": "2017-01-06",
+    "end_date": "2023-04-29",
+    "historic_marked": "2018-01-28",
+    "seed_status": "repealed"
+  }
 }

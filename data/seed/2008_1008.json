@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til fremme af innovation vedrørende forarbejdning i fødevare- og skovbrugssektoren gennem udvikling, demonstration og investeringer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-10-15",
+  "in_force_date": "2008-10-16",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1008/xml",
-  "description": "Retsinformation source. DocumentId=AH003079; AccessionNumber=B20080100805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003079; AccessionNumber=B20080100805; Ophævet 2009-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1 b. Tilsagn om tilskud til projekter, der søges medfinansieret af midler fra både Fødevareministeriet og EU, kan kun ydes til 1) et udviklingsprojekt, jf. kapitel 5, 2) et udviklingsprojekt, jf. kapitel 5, sammen med et demonstrationsprojekt, jf. kapitel 6, eller 3) et udviklingsprojekt, jf. kapitel 5, sammen med et investeringsprojekt, jf. kapitel 7, og et demonstrationsprojekt, jf. kapitel 6. Stk. 2. De tilskudsberettigede udgifter vedrørende investeringsprojektet, jf. kapitel 7, begrænses til 2/3 af de samlede tilskudsberettigede udgifter i projekterne.",
-      "valid_from": "2008-10-15",
-      "valid_to": null
+      "valid_from": "2008-10-16",
+      "valid_to": "2009-04-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:45:11.131Z",
+    "accession": "B20080100805",
+    "document_id": "AH003079",
+    "unique_document_id": "121691",
+    "upstream_status": "Historic",
+    "start_date": "2008-10-16",
+    "end_date": "2022-04-08",
+    "historic_marked": "2009-04-01",
+    "seed_status": "repealed"
+  }
 }

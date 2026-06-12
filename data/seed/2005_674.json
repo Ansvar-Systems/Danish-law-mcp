@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udpegning af bemyndigede organer m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-30",
+  "in_force_date": "2005-07-07",
   "url": "https://www.retsinformation.dk/eli/lta/2005/674/xml",
-  "description": "Retsinformation source. DocumentId=BE001316; AccessionNumber=B20050067405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001316; AccessionNumber=B20050067405; Ophævet 2013-06-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:29:43.456Z",
+    "accession": "B20050067405",
+    "document_id": "BE001316",
+    "unique_document_id": "30277",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-07",
+    "end_date": "2019-06-19",
+    "historic_marked": "2013-06-12",
+    "seed_status": "repealed"
+  }
 }

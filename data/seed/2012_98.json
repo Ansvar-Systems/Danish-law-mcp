@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til fælles initiativer inden for fiskeri- og akvakultursektoren",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-01-30",
+  "in_force_date": "2012-01-31",
   "url": "https://www.retsinformation.dk/eli/lta/2012/98/xml",
-  "description": "Retsinformation source. DocumentId=AH004509; AccessionNumber=B20120009805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004509; AccessionNumber=B20120009805; Ophævet 2015-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4a",
@@ -19,9 +20,20 @@
       "provision_ref": "4a",
       "section": "4a",
       "content": "§ 4a. Uanset § 4 kan der efter den 31. januar 2012 ikke indgives ansøgning om tilsagn om tilskud.",
-      "valid_from": "2012-01-30",
-      "valid_to": null
+      "valid_from": "2012-01-31",
+      "valid_to": "2015-09-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:25:24.409Z",
+    "accession": "B20120009805",
+    "document_id": "AH004509",
+    "unique_document_id": "140314",
+    "upstream_status": "Historic",
+    "start_date": "2012-01-31",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-09-21",
+    "seed_status": "repealed"
+  }
 }

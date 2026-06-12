@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-12-29",
+  "in_force_date": "2017-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1764/xml",
   "description": "Retsinformation source. DocumentId=CS000264; AccessionNumber=B20170176405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Efter 11, stk. 7, 2. pkt., i anordning nr. 150 af 23. februar 2001 om ikrafttræden for Grønland af udlændingeloven reguleres det i § 11, stk. 5, nr. 3, nævnte beløb fra og med 1999 en gang årligt den 1. januar efter de danske regler for regulering af beløbet, jf. lov om en satsreguleringsprocent.",
-      "valid_from": "2017-12-29",
+      "valid_from": "2017-12-30",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Satsreguleringsprocenten for 2018 udgør 2,0, jf. § 1 i bekendtgørelse nr. 1015 af 25. august 2017 om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2018. Stk. 2. Med virkning for perioden fra den 1. januar 2018 til den 31. december 2018 udgør det i § 11, stk. 5, nr. 3, nævnte beløb 79.070,40 kr.",
-      "valid_from": "2017-12-29",
+      "valid_from": "2017-12-30",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2018.",
-      "valid_from": "2017-12-29",
+      "valid_from": "2017-12-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:07:31.701Z",
+    "accession": "B20170176405",
+    "document_id": "CS000264",
+    "unique_document_id": "196754",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-30",
+    "end_date": "2017-12-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

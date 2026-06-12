@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af udlændingeloven, integrationsloven og lov om Det Centrale Personregister\\n(Reform af international rekruttering m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-23",
+  "in_force_date": "2014-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1488/xml",
-  "description": "Retsinformation source. DocumentId=BE006104; AccessionNumber=A20140148830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006104; AccessionNumber=A20140148830; Ophævet 2017-10-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "48",
@@ -20,8 +21,19 @@
       "section": "48",
       "content": "§ 48 h. Vurderingen af en forretningsplan efter § 9 a, stk. 2, nr. 11, og stk. 16, kan påklages til Erhvervsstyrelsen.",
       "valid_from": "2014-12-23",
-      "valid_to": null
+      "valid_to": "2017-10-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:43.367Z",
+    "accession": "A20140148830",
+    "document_id": "BE006104",
+    "unique_document_id": "167205",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-10-13",
+    "seed_status": "repealed"
+  }
 }

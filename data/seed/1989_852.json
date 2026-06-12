@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om dagpenge ved sygdom eller fødsel",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-20",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/852/xml",
-  "description": "Retsinformation source. DocumentId=CM012733; AccessionNumber=A19890085230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012733; AccessionNumber=A19890085230; Ophævet 1994-06-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:58:49.615Z",
+    "accession": "A19890085230",
+    "document_id": "CM012733",
+    "unique_document_id": "53868",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2025-10-22",
+    "historic_marked": "1994-06-29",
+    "seed_status": "repealed"
+  }
 }

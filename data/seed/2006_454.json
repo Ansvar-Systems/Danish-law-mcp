@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om det europæiske andelsselskab",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-05-22",
+  "in_force_date": "2006-05-23",
   "url": "https://www.retsinformation.dk/eli/lta/2006/454/xml",
-  "description": "Retsinformation source. DocumentId=AU002520; AccessionNumber=A20060045430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002520; AccessionNumber=A20060045430; Ophævet 2019-07-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:24:33.314Z",
+    "accession": "A20060045430",
+    "document_id": "AU002520",
+    "unique_document_id": "27306",
+    "upstream_status": "Historic",
+    "start_date": "2006-05-23",
+    "end_date": "2019-10-19",
+    "historic_marked": "2019-07-02",
+    "seed_status": "repealed"
+  }
 }

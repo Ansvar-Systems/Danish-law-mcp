@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om boliger for ældre og personer med handicap",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-08-08",
+  "in_force_date": "2002-08-15",
   "url": "https://www.retsinformation.dk/eli/lta/2002/664/xml",
-  "description": "Retsinformation source. DocumentId=AU000672; AccessionNumber=A20020066429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000672; AccessionNumber=A20020066429; Ophævet 2005-10-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:53:26.977Z",
+    "accession": "A20020066429",
+    "document_id": "AU000672",
+    "unique_document_id": "25982",
+    "upstream_status": "Historic",
+    "start_date": "2002-08-15",
+    "end_date": "2023-04-28",
+    "historic_marked": "2005-10-06",
+    "seed_status": "repealed"
+  }
 }

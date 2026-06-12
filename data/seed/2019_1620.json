@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-12-27",
+  "in_force_date": "2019-12-31",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1620/xml",
   "description": "Retsinformation source. DocumentId=DA000089; AccessionNumber=B20190162005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Fordelingsudvalgets frist for at fastsætte lokale elevfordelingsregler efter lovens § 12 a, stk. 1, er den 13. januar 2020. Stk. 2. Fristen for, at institutionens bestyrelse kan anmode fordelingsudvalget om at fastsætte lokale elevfordelingsregler efter lovens § 12 a, stk. 2, er den 3. januar 2020. Fordelingsudvalgets frist for at træffe afgørelse om anmodningen efter 1. pkt. er den 13. januar 2020. Stk. 3. Bestyrelsens frist efter lovens § 12 a, stk. 3, for at klage over fordelingsudvalgets afgørelse eller manglende afgørelse, jf. lovens § 12 a, stk. 1-2, er den 15. januar 2020. Stk. 4. Regionsrådets frist for at afgøre en klage efter lovens § 12 a, stk. 3, og fastsætte eventuelle lokale elevfordelingsregler er den 29. januar 2020. Stk. 5. Fristen for at offentliggøre og informere om lokale elevfordelingsregler efter § 2 er den 31. januar 2020.",
-      "valid_from": "2019-12-27",
+      "valid_from": "2019-12-31",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Regionsrådet offentliggør lokale elevfordelingsregler på regionens hjemmeside. Institutionerne i fordelingsudvalgets område offentliggør lokale elevfordelingsregler på den enkelte institutions hjemmeside. Stk. 2. Fordelingsudvalget informerer de mulige ansøgere om lokale elevfordelingsregler gennem offentliggørelse i pressen, informationsmøder eller på anden målrettet måde.",
-      "valid_from": "2019-12-27",
+      "valid_from": "2019-12-31",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2020 og har virkning for optagelse på uddannelsen til almen studentereksamen og den toårige uddannelse til hf-eksamen til skoleåret 2020/21.",
-      "valid_from": "2019-12-27",
+      "valid_from": "2019-12-31",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:53:26.464Z",
+    "accession": "B20190162005",
+    "document_id": "DA000089",
+    "unique_document_id": "211954",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-31",
+    "end_date": "2026-03-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

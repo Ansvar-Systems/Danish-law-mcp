@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om adgang til og registrering m.v. af lægemiddel- og vaccinationsoplysninger",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-02",
+  "in_force_date": "2021-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2264/xml",
-  "description": "Retsinformation source. DocumentId=DI000423; AccessionNumber=B20210226405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000423; AccessionNumber=B20210226405; Ophævet 2024-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10a",
@@ -20,8 +21,19 @@
       "section": "10a",
       "content": "§ 10 a. Sygeplejersker og sundhedsplejersker ansat i kommunen skal indberette følgende som led i aktuel behandling af en borger: 1) Givne vacciner. 2) Rette egne fejlindberetninger om givne vacciner, herunder efter anmodning fra Statens Serum Institut og Sundhedsdatastyrelsen. Stk. 2. Forpligtigelsen i stk. 1 gælder, uanset om der fås adgang til vaccinationsoplysninger online eller via integration i lokale journalsystemer, jf. kapitel 7.",
       "valid_from": "2021-12-02",
-      "valid_to": null
+      "valid_to": "2024-02-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:13:18.485Z",
+    "accession": "B20210226405",
+    "document_id": "DI000423",
+    "unique_document_id": "227721",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-02",
+    "end_date": "2024-02-29",
+    "historic_marked": "2024-02-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om teknologisk service (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-03-27",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1996/221/xml",
-  "description": "Retsinformation source. DocumentId=CM040268; AccessionNumber=A19960022130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040268; AccessionNumber=A19960022130; Ophævet 2002-06-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:16:11.453Z",
+    "accession": "A19960022130",
+    "document_id": "CM040268",
+    "unique_document_id": "81025",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-25",
+    "historic_marked": "2002-06-11",
+    "seed_status": "repealed"
+  }
 }

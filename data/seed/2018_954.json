@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om teknisk certificeringsordning for vindmøller",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-06-27",
+  "in_force_date": "2018-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2018/954/xml",
-  "description": "Retsinformation source. DocumentId=CI000472; AccessionNumber=B20180095405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000472; AccessionNumber=B20180095405; Ophævet 2020-12-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "16",
@@ -19,9 +20,20 @@
       "provision_ref": "16",
       "section": "16",
       "content": "§ 16. Klage over afgørelser truffet af en certificerende virksomhed i henhold til bekendtgørelsens bestemmelser kan indbringes for Energistyrelsen. Stk. 2. Klage over afgørelser truffet af Energistyrelsens Godkendelsessekretariat for Vindmøller i henhold til bekendtgørelsens bestemmelser kan indbringes for Energiklagenævnet. Stk. 3. Energistyrelsens afgørelser efter stk. 1 kan ikke indbringes for Energiklagenævnet. Stk. 4. Klage skal være indgivet skriftligt inden 4 uger efter, at de i stk. 1 og 2 nævnte afgørelser er meddelt.",
-      "valid_from": "2018-06-27",
-      "valid_to": null
+      "valid_from": "2018-06-29",
+      "valid_to": "2020-12-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:26:34.367Z",
+    "accession": "B20180095405",
+    "document_id": "CI000472",
+    "unique_document_id": "202022",
+    "upstream_status": "Historic",
+    "start_date": "2018-06-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2020-12-02",
+    "seed_status": "repealed"
+  }
 }

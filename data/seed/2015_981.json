@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-08-27",
+  "in_force_date": "2015-08-28",
   "url": "https://www.retsinformation.dk/eli/lta/2015/981/xml",
   "description": "Retsinformation source. DocumentId=BP001368; AccessionNumber=B20150098105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 173 af 22. februar 2013 om Konkurrence- og Forbrugerstyrelsens virksomhed i henhold til konkurrenceloven ophæves.",
-      "valid_from": "2015-08-27",
+      "valid_from": "2015-08-28",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 29. august 2015.",
-      "valid_from": "2015-08-27",
+      "valid_from": "2015-08-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:31:11.993Z",
+    "accession": "B20150098105",
+    "document_id": "BP001368",
+    "unique_document_id": "173768",
+    "upstream_status": "Valid",
+    "start_date": "2015-08-28",
+    "end_date": "2024-11-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

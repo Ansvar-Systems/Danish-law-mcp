@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om informationssystemet for voksenuddannelser (VIDAR)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-10",
+  "in_force_date": "2003-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1020/xml",
-  "description": "Retsinformation source. DocumentId=AT001530; AccessionNumber=B20030102005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001530; AccessionNumber=B20030102005; Ophævet 2009-06-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:07:36.533Z",
+    "accession": "B20030102005",
+    "document_id": "AT001530",
+    "unique_document_id": "24278",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-18",
+    "end_date": "2021-01-08",
+    "historic_marked": "2009-06-19",
+    "seed_status": "repealed"
+  }
 }

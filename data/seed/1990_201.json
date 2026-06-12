@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af forretningsorden for Ligningsrådet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-03-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1990/201/xml",
-  "description": "Retsinformation source. DocumentId=CM020051; AccessionNumber=B19900020105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020051; AccessionNumber=B19900020105; Ophævet 2005-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:06:08.382Z",
+    "accession": "B19900020105",
+    "document_id": "CM020051",
+    "unique_document_id": "61083",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-01-10",
+    "historic_marked": "2005-06-06",
+    "seed_status": "repealed"
+  }
 }

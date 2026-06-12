@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om tjenestemandspension",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-05-16",
+  "in_force_date": "2001-05-16",
   "url": "https://www.retsinformation.dk/eli/lta/2001/333/xml",
-  "description": "Retsinformation source. DocumentId=AE000255; AccessionNumber=A20010033330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000255; AccessionNumber=A20010033330; Ophævet 2003-05-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:55:48.467Z",
+    "accession": "A20010033330",
+    "document_id": "AE000255",
+    "unique_document_id": "5198",
+    "upstream_status": "Historic",
+    "start_date": "2001-05-16",
+    "end_date": "2023-10-14",
+    "historic_marked": "2003-05-27",
+    "seed_status": "repealed"
+  }
 }

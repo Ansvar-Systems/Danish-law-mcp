@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2010-06-25",
+  "in_force_date": "2010-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2010/820/xml",
   "description": "Retsinformation source. DocumentId=AA005566; AccessionNumber=B20100082005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "6",
       "section": "6",
       "content": "§ 6 a. Frivillig rådgivning i advokatvagter og på retshjælpskontorer, som ydes af advokatfuldmægtige, uden disse modtager vederlag for rådgivningen, anses for efteruddannelse omfattet af § 2, såfremt: 1) advokatvagten eller retshjælpskontoret er tilskudsberettiget, jf. retsplejelovens § 323-324, 2) betingelsen i § 3, stk. 1, nr. 1, er opfyldt, og 3) der foreligger en skriftlig erklæring, udstedt af retshjælpskontorets eller advokatvagtens ledelse, der dokumenterer den pågældendes deltagelse og omfanget heraf. Stk. 2. Rådgivningsvirksomheden kan dog maksimalt godskrives med 18 lektioner for hver 3-års periode i henhold til § 4.",
-      "valid_from": "2010-06-25",
+      "valid_from": "2010-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:30:54.329Z",
+    "accession": "B20100082005",
+    "document_id": "AA005566",
+    "unique_document_id": "132730",
+    "upstream_status": "Valid",
+    "start_date": "2010-06-30",
+    "end_date": "2010-06-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

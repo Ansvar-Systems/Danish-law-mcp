@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om indsamling af passagerlisteoplysninger (PNR-oplysninger) i medfør af lov om foranstaltninger mod smitsomme og andre overførbare sygdomme",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-16",
+  "in_force_date": "2020-06-16",
   "url": "https://www.retsinformation.dk/eli/lta/2020/889/xml",
-  "description": "Retsinformation source. DocumentId=CN001300; AccessionNumber=B20200088905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN001300; AccessionNumber=B20200088905; Ophævet 2020-07-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -46,7 +47,7 @@
       "section": "1",
       "content": "§ 1. Rigspolitiets passagerlisteoplysningsenhed (PNR-enhed), som oprettet ved lov nr. 1706 af 27. december 2018, bemyndiges til at udøve de beføjelser, der er fastsat i § 13, stk. 1, i lov om foranstaltninger mod smitsomme og andre overførbare sygdomme, for så vidt angår indsamling af oplysninger fra den ansvarshavende for et luftfartøj eller dennes befuldmægtigede.",
       "valid_from": "2020-06-16",
-      "valid_to": null
+      "valid_to": "2020-07-06"
     },
     {
       "provision_ref": "2:2",
@@ -54,7 +55,7 @@
       "section": "2",
       "content": "§ 2. Efter anmodning fra Rigspolitiets PNR-enhed skal den ansvarshavende for et luftfartøj eller dennes befuldmægtigede udlevere følgende passagerlisteoplysninger, i det omfang sådanne foreligger, hvis en person om bord er smittet eller må formodes at kunne være smittet med smitsomme og andre overførbare sygdomme omfattet af § 2 i lov om foranstaltninger mod smitsomme og andre overførbare sygdomme: 1) Navn(e). 2) Fødselsdato. 3) Nationalitet. 4) Fuldstændig rejseplan. 5) Adresse og alle tilgængelige kontaktoplysninger, herunder telefonnummer og e-mailadresse. 6) Rejsestatus for passagerer, herunder bekræftelser, indtjekningsstatus og oplysninger om ”no-show” og ”go-show”. 7) Pladsnummer og andre pladsoplysninger. 8) Antal medrejsende og disses navne. 9) Eventuelt indsamlede oplysninger om typen og nummeret for ethvert identitetsdokument. Stk. 2. Oplysninger, som Rigspolitiets PNR-enhed modtager efter stk. 1, videregives til Styrelsen for Patientsikkerhed.",
       "valid_from": "2020-06-16",
-      "valid_to": null
+      "valid_to": "2020-07-06"
     },
     {
       "provision_ref": "2:3",
@@ -62,7 +63,7 @@
       "section": "3",
       "content": "§ 3. Den ansvarshavende for et luftfartøj eller dennes befuldmægtigede skal udlevere passagerlisteoplysningerne, jf. § 2, i et elektronisk læsbart format til Rigspolitiets PNR-enhed.",
       "valid_from": "2020-06-16",
-      "valid_to": null
+      "valid_to": "2020-07-06"
     },
     {
       "provision_ref": "3:4",
@@ -70,7 +71,7 @@
       "section": "4",
       "content": "§ 4. Ansvarshavende for luftfartøjer eller deres befuldmægtigede, der undlader at efterkomme en anmodning fremsat efter § 2, straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
       "valid_from": "2020-06-16",
-      "valid_to": null
+      "valid_to": "2020-07-06"
     },
     {
       "provision_ref": "3:5",
@@ -78,8 +79,19 @@
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft ved bekendtgørelse i Lovtidende.",
       "valid_from": "2020-06-16",
-      "valid_to": null
+      "valid_to": "2020-07-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:47:17.590Z",
+    "accession": "B20200088905",
+    "document_id": "CN001300",
+    "unique_document_id": "215218",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-16",
+    "end_date": "2022-07-12",
+    "historic_marked": "2020-07-06",
+    "seed_status": "repealed"
+  }
 }

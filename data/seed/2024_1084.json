@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-10-10",
+  "in_force_date": "2024-10-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1084/xml",
   "description": "Retsinformation source. DocumentId=DC001708; AccessionNumber=B20240108405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1024 af 10. september 2024 om fund af højpatogen aviær influenza ved Vester Ulslev i Guldborgsund Kommune ophæves.",
-      "valid_from": "2024-10-10",
+      "valid_from": "2024-10-11",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 14. oktober 2024.",
-      "valid_from": "2024-10-10",
+      "valid_from": "2024-10-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:25:54.561Z",
+    "accession": "B20240108405",
+    "document_id": "DC001708",
+    "unique_document_id": "245427",
+    "upstream_status": "Valid",
+    "start_date": "2024-10-11",
+    "end_date": "2024-10-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

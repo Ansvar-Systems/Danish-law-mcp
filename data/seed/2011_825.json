@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om det vejnet m.v., hvor kørsel med modulvogntog er tilladt",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-07-04",
+  "in_force_date": "2011-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2011/825/xml",
-  "description": "Retsinformation source. DocumentId=BL000537; AccessionNumber=B20110082505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000537; AccessionNumber=B20110082505; Ophævet 2011-07-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10 a. Overtrædelse af § 3 straffes med skærpet bøde.",
-      "valid_from": "2011-07-04",
-      "valid_to": null
+      "valid_from": "2011-07-05",
+      "valid_to": "2011-07-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:22:52.085Z",
+    "accession": "B20110082505",
+    "document_id": "BL000537",
+    "unique_document_id": "138056",
+    "upstream_status": "Historic",
+    "start_date": "2011-07-05",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-07-14",
+    "seed_status": "repealed"
+  }
 }

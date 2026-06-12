@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til kommunale projekter vedrørende fosforvådområder",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-08-28",
+  "in_force_date": "2014-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2014/951/xml",
-  "description": "Retsinformation source. DocumentId=AH005314; AccessionNumber=B20140095105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005314; AccessionNumber=B20140095105; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15",
@@ -19,9 +20,20 @@
       "provision_ref": "15",
       "section": "15",
       "content": "§ 15 a. NaturErhvervstyrelsen kan efter ansøgning tillade, at fristen for projektets afslutning forlænges. Stk. 2. Ansøgning efter stk. 1 skal indgives til NaturErhvervstyrelsen på et særligt skema, der fås via NaturErhvervstyrelsens hjemmeside. Stk. 3. Ansøgning om forlængelse af projekt skal være modtaget i NaturErhvervstyrelsen inden udløb af projektperioden.",
-      "valid_from": "2014-08-28",
-      "valid_to": null
+      "valid_from": "2014-08-29",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:23:21.356Z",
+    "accession": "B20140095105",
+    "document_id": "AH005314",
+    "unique_document_id": "164607",
+    "upstream_status": "Historic",
+    "start_date": "2014-08-29",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

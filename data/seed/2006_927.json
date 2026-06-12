@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om værgemål",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-09-05",
+  "in_force_date": "2006-09-14",
   "url": "https://www.retsinformation.dk/eli/lta/2006/927/xml",
-  "description": "Retsinformation source. DocumentId=AA003327; AccessionNumber=B20060092705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003327; AccessionNumber=B20060092705; Ophævet 2013-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:43:33.161Z",
+    "accession": "B20060092705",
+    "document_id": "AA003327",
+    "unique_document_id": "2417",
+    "upstream_status": "Historic",
+    "start_date": "2006-09-14",
+    "end_date": "2022-11-12",
+    "historic_marked": "2013-12-16",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om tjenestemandspension (* 1)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-06-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/311/xml",
-  "description": "Retsinformation source. DocumentId=CM015961; AccessionNumber=A19880031129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM015961; AccessionNumber=A19880031129; Ophævet 1998-05-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:06:11.282Z",
+    "accession": "A19880031129",
+    "document_id": "CM015961",
+    "unique_document_id": "57045",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-10-14",
+    "historic_marked": "1998-05-13",
+    "seed_status": "repealed"
+  }
 }

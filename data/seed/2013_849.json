@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2013-06-25",
+  "in_force_date": "2013-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2013/849/xml",
   "description": "Retsinformation source. DocumentId=BK001429; AccessionNumber=B20130084905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17 a. Mærkningen på afskærmningen af et lægemiddel, der indeholder radionuklider, skal opfylde kravene i § 17. Stk. 2. Hvis en opbevaringsbeholder til et lægemiddel, der indeholder radionuklider, er lægemidlets ydre emballage, skal opbevaringsbeholderen mærkes som en ydre emballage, jf. § 17. Stk. 3. Den ydre karton og opbevaringsbeholderen til et lægemiddel, der indeholder radionuklider, skal mærkes efter bestemmelserne om transportsikkerhed for radioaktive stoffer, som er fastsat af Den Internationale Atomenergiorganisation.",
-      "valid_from": "2013-06-25",
+      "valid_from": "2013-06-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:20:58.875Z",
+    "accession": "B20130084905",
+    "document_id": "BK001429",
+    "unique_document_id": "152688",
+    "upstream_status": "Valid",
+    "start_date": "2013-06-29",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

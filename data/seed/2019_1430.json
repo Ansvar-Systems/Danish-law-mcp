@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af økologiloven og lov om hold af dyr (Indførelse af mulighed for rekvireret vejledning)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-17",
+  "in_force_date": "2019-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1430/xml",
-  "description": "Retsinformation source. DocumentId=CK002246; AccessionNumber=A20190143030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002246; AccessionNumber=A20190143030; Ophævet 2020-01-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "20a",
@@ -25,15 +26,26 @@
       "section": "20a",
       "content": "§ 20 a. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om rekvireret vejledning vedrørende fødevarer på et område, der er omfattet af denne lov eller regler udstedt i medfør af loven. Stk. 2. Ministeren kan fastsætte regler om betaling til hel eller delvis dækning af de faktiske omkostninger forbundet med vejledning efter stk. 1.",
       "valid_from": "2019-12-17",
-      "valid_to": null
+      "valid_to": "2020-01-16"
     },
     {
       "provision_ref": "57a",
       "section": "57a",
       "content": "§ 57 a. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om rekvireret vejledning på et område, der er omfattet af denne lov eller regler udstedt i medfør af loven. Stk. 2. Ministeren kan fastsætte regler om betaling til hel eller delvis dækning af de faktiske omkostninger forbundet med vejledning efter stk. 1.",
       "valid_from": "2019-12-17",
-      "valid_to": null
+      "valid_to": "2020-01-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:45:46.360Z",
+    "accession": "A20190143030",
+    "document_id": "CK002246",
+    "unique_document_id": "211496",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-17",
+    "end_date": "2022-04-09",
+    "historic_marked": "2020-01-16",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-05-17",
+  "in_force_date": "2023-05-17",
   "url": "https://www.retsinformation.dk/eli/lta/2023/527/xml",
   "description": "Retsinformation source. DocumentId=DG000596; AccessionNumber=B20230052705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -518,5 +519,16 @@
       "definition": "i denne bekendtgørelse, at personer, der ikke er besætningsmedlemmer eller arbejdsgiver i virksomheden, herunder passagerer, udøver vold mod besætningsmedlemmerne eller arbejdsgiver",
       "source_provision": "3:24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:50:46.330Z",
+    "accession": "B20230052705",
+    "document_id": "DG000596",
+    "unique_document_id": "237038",
+    "upstream_status": "Valid",
+    "start_date": "2023-05-17",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

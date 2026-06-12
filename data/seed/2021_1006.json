@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om skatteindberetning m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-05-25",
+  "in_force_date": "2021-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1006/xml",
-  "description": "Retsinformation source. DocumentId=AN014947; AccessionNumber=B20210100605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN014947; AccessionNumber=B20210100605; Ophævet 2023-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "41a",
@@ -24,16 +25,27 @@
       "provision_ref": "41a",
       "section": "41a",
       "content": "§ 41 a. Indberetning efter skatteindberetningslovens § 19 a omfatter følgende oplysninger: 1) Identiteten af den indberetningspligtige, jf. bekendtgørelsens § 1. 2) Identiteten af kunden, jf. 3. 3) Kalenderårets samlede udbetaling af skattepligtige beløb til kunden.",
-      "valid_from": "2021-05-25",
-      "valid_to": null
+      "valid_from": "2021-05-26",
+      "valid_to": "2023-06-30"
     },
     {
       "provision_ref": "41b",
       "section": "41b",
       "content": "§ 41 b. Indberetning efter skatteindberetningslovens § 28 omfatter: 1) Identiteten af den indberetningspligtige. 2) Identiteten af den eller de, der har afstået aktien m.v., jf. § 3. 3) Identiteten af den erhvervede aktie m.v., herunder med angivelse af ISIN-fondskode, hvis en sådan er tildelt, og af identiteten af det udstedende selskab m.v. efter Skatteforvaltningens nærmere anvisning. 4) Oplysning om aktien m.v. er optaget til handel på et reguleret marked. 5) Antallet af erhvervede aktier m.v. 6) Anskaffelsestidspunktet. 7) Anskaffelsessummen, herunder de handelsomkostninger, som den indberetningspligtige har kendskab til.",
-      "valid_from": "2021-05-25",
-      "valid_to": null
+      "valid_from": "2021-05-26",
+      "valid_to": "2023-06-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:22:40.158Z",
+    "accession": "B20210100605",
+    "document_id": "AN014947",
+    "unique_document_id": "223175",
+    "upstream_status": "Historic",
+    "start_date": "2021-05-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-06-30",
+    "seed_status": "repealed"
+  }
 }

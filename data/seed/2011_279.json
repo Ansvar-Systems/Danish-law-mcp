@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om sygedagpenge\\n(Større fleksibilitet i opfølgning og indsats over for sygedagpengemodtagere)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-04-06",
+  "in_force_date": "2011-04-06",
   "url": "https://www.retsinformation.dk/eli/lta/2011/279/xml",
-  "description": "Retsinformation source. DocumentId=BE004576; AccessionNumber=A20110027930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE004576; AccessionNumber=A20110027930; Ophævet 2011-08-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15",
@@ -20,8 +21,19 @@
       "section": "15",
       "content": "§ 15 a. Kommunen kan kun iværksætte indsats efter lov om en aktiv beskæftigelsesindsats, hvis det kan fremme arbejdsfastholdelse og en hurtigere tilbagevenden til arbejdet. Stk. 2. Hvis den sygemeldte gradvis kan vende tilbage til arbejde, kan der ikke iværksættes tilbud efter kapitel 10-12 i lov om en aktiv beskæftigelsesindsats. Dog kan et tilbud iværksættes i kombination med gradvis tilbagevenden, hvis tilbuddet understøtter en hurtigere tilbagevenden. Stk. 3. Til sygemeldte i ansættelsesforhold, der har en klar diagnose og forventes fuldt ud raskmeldt inden for 8 uger regnet fra opfølgningstidspunktet, jf. § 13, stk. 2 og 3, kan der ikke iværksættes nye tilbud efter kapitel 10-12 i lov om en aktiv beskæftigelsesindsats.",
       "valid_from": "2011-04-06",
-      "valid_to": null
+      "valid_to": "2011-08-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:00:50.587Z",
+    "accession": "A20110027930",
+    "document_id": "BE004576",
+    "unique_document_id": "136504",
+    "upstream_status": "Historic",
+    "start_date": "2011-04-06",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-08-25",
+    "seed_status": "repealed"
+  }
 }

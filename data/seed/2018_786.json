@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-06-08",
+  "in_force_date": "2018-06-19",
   "url": "https://www.retsinformation.dk/eli/lta/2018/786/xml",
   "description": "Retsinformation source. DocumentId=AS001784; AccessionNumber=B20180078605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I området afgrænset af følgende koordinater er alle former for fiskeri forbudt, jf. bilag 1: 1) 56°54.138'N 9°3.155'Ø. 2) 56°54.212'N 9°3.336'Ø. 3) 56°54.248'N 9°3.581'Ø. 4) 56°54.132'N 9°3.831'Ø. 5) 56°53.847'N 9°3.359'Ø. 6) 56°53.922'N 9°3.192'Ø. 7) 56°54.138'N 9°3.155'Ø.",
-      "valid_from": "2018-06-08",
+      "valid_from": "2018-06-19",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Med bøde straffes den, der overtræder eller forsøger at overtræde § 1. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2018-06-08",
+      "valid_from": "2018-06-19",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2018.",
-      "valid_from": "2018-06-08",
+      "valid_from": "2018-06-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:19:46.691Z",
+    "accession": "B20180078605",
+    "document_id": "AS001784",
+    "unique_document_id": "201871",
+    "upstream_status": "Valid",
+    "start_date": "2018-06-19",
+    "end_date": "2023-03-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om finansiering af driften af Revisortilsynet, Revisornævnet og undersøgelsessystemet (Public Oversight)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-06-14",
+  "in_force_date": "2012-06-21",
   "url": "https://www.retsinformation.dk/eli/lta/2012/624/xml",
-  "description": "Retsinformation source. DocumentId=BP000198; AccessionNumber=B20120062405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000198; AccessionNumber=B20120062405; Ophævet 2013-09-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Til finansiering af driften af Revisortilsynet samt undersøgelses- og disciplinærsystemet opkræver Erhvervs- og Selskabsstyrelsen et gebyr fra alle revisorer, der pr. 1. januar 2012 var beskikket og tilknyttet en revisionsvirksomhed. Gebyret dækker finansiering for 2012. Stk. 2. For Revisortilsynet udgør gebyret for 2012 kr. 1.055 pr. revisor. For Revisornævnet udgør gebyret for 2012 kr. 355 pr. revisor. For undersøgelsessystemet udgør gebyret for 2012 kr. 1.000 pr. revisor.",
-      "valid_from": "2012-06-14",
-      "valid_to": null
+      "valid_from": "2012-06-21",
+      "valid_to": "2013-09-03"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 22. juni 2012. Stk. 2. Samtidig ophæves bekendtgørelse nr. 325 af 14. april 2011 om finansiering af driften af Revisortilsynet, Revisornævnet og undersøgelsessystemet (Public Oversight).",
-      "valid_from": "2012-06-14",
-      "valid_to": null
+      "valid_from": "2012-06-21",
+      "valid_to": "2013-09-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:08:03.804Z",
+    "accession": "B20120062405",
+    "document_id": "BP000198",
+    "unique_document_id": "142179",
+    "upstream_status": "Historic",
+    "start_date": "2012-06-21",
+    "end_date": "2017-12-08",
+    "historic_marked": "2013-09-03",
+    "seed_status": "repealed"
+  }
 }

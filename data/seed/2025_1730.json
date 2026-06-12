@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2025-12-19",
+  "in_force_date": "2025-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1730/xml",
   "description": "Retsinformation source. DocumentId=DD000647; AccessionNumber=A20250173029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -193,5 +194,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:57:38.793Z",
+    "accession": "A20250173029",
+    "document_id": "DD000647",
+    "unique_document_id": "254073",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-19",
+    "end_date": "2025-12-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

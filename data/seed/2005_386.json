@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om beskatning af søfolk",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-05-27",
+  "in_force_date": "2005-05-27",
   "url": "https://www.retsinformation.dk/eli/lta/2005/386/xml",
-  "description": "Retsinformation source. DocumentId=AN004635; AccessionNumber=A20050038630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004635; AccessionNumber=A20050038630; Ophævet 2019-08-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:18:07.432Z",
+    "accession": "A20050038630",
+    "document_id": "AN004635",
+    "unique_document_id": "16789",
+    "upstream_status": "Historic",
+    "start_date": "2005-05-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-08-21",
+    "seed_status": "repealed"
+  }
 }

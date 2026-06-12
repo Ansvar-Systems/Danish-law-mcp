@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bevaring af data fra primærkommunernes elektroniske arkivsystemer med personoplysninger",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-26",
+  "in_force_date": "2004-04-05",
   "url": "https://www.retsinformation.dk/eli/lta/2004/208/xml",
-  "description": "Retsinformation source. DocumentId=AK000336; AccessionNumber=B20040020805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000336; AccessionNumber=B20040020805; Ophævet 2004-10-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:16:54.172Z",
+    "accession": "B20040020805",
+    "document_id": "AK000336",
+    "unique_document_id": "11920",
+    "upstream_status": "Historic",
+    "start_date": "2004-04-05",
+    "end_date": "2018-03-06",
+    "historic_marked": "2004-10-21",
+    "seed_status": "repealed"
+  }
 }

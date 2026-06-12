@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om drift af almene boliger m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-13",
+  "in_force_date": "2000-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1103/xml",
-  "description": "Retsinformation source. DocumentId=AC000327; AccessionNumber=B20000110305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000327; AccessionNumber=B20000110305; Ophævet 2005-07-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:54:40.704Z",
+    "accession": "B20000110305",
+    "document_id": "AC000327",
+    "unique_document_id": "4131",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-21",
+    "end_date": "2023-04-28",
+    "historic_marked": "2005-07-04",
+    "seed_status": "repealed"
+  }
 }

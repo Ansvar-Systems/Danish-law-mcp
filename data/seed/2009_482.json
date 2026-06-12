@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2009-06-12",
+  "in_force_date": "2009-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/482/xml",
   "description": "Retsinformation source. DocumentId=BE003433; AccessionNumber=A20090048230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -59,5 +60,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:13:45.922Z",
+    "accession": "A20090048230",
+    "document_id": "BE003433",
+    "unique_document_id": "125440",
+    "upstream_status": "Valid",
+    "start_date": "2009-06-12",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

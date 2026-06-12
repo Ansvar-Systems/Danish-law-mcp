@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kontoruddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-04-15",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1994/271/xml",
-  "description": "Retsinformation source. DocumentId=CM032358; AccessionNumber=B19940027105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032358; AccessionNumber=B19940027105; Ophævet 1996-09-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:49:07.670Z",
+    "accession": "B19940027105",
+    "document_id": "CM032358",
+    "unique_document_id": "73161",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1996-09-24",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om affald",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-27",
+  "in_force_date": "2000-07-07",
   "url": "https://www.retsinformation.dk/eli/lta/2000/619/xml",
-  "description": "Retsinformation source. DocumentId=AL000474; AccessionNumber=B20000061905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000474; AccessionNumber=B20000061905; Ophævet 2006-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:26:39.112Z",
+    "accession": "B20000061905",
+    "document_id": "AL000474",
+    "unique_document_id": "12343",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-07",
+    "end_date": "2022-04-09",
+    "historic_marked": "2006-12-22",
+    "seed_status": "repealed"
+  }
 }

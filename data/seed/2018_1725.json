@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om spil og lov om afgifter af spil (Justering af spilaftale)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1725/xml",
-  "description": "Retsinformation source. DocumentId=AN013687; AccessionNumber=A20180172530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN013687; AccessionNumber=A20180172530; Ophævet 2020-09-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "42a",
@@ -20,8 +21,19 @@
       "section": "42a",
       "content": "§ 42 a. Ud over det tilsyn, som følger af bestemmelser i denne lov, dækker gebyrer opkrævet i henhold til § 42 tillige 1) spillemyndighedens tilsyn, som er pålagt spillemyndigheden i medfør af hvidvaskloven, og 2) spillemyndighedens omkostninger forbundet med beskyttelse af spillere mod at udvikle afhængighed af spil, herunder oplysning, forebyggelse, selvudelukkelse m.v.",
       "valid_from": "2018-12-27",
-      "valid_to": null
+      "valid_to": "2020-09-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:51:53.352Z",
+    "accession": "A20180172530",
+    "document_id": "AN013687",
+    "unique_document_id": "206197",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-09-07",
+    "seed_status": "repealed"
+  }
 }

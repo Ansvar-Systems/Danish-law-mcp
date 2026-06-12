@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om privat byfornyelse",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-06-24",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1992/475/xml",
-  "description": "Retsinformation source. DocumentId=CM014236; AccessionNumber=A19920047530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM014236; AccessionNumber=A19920047530; Ophævet 1993-11-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:31:34.328Z",
+    "accession": "A19920047530",
+    "document_id": "CM014236",
+    "unique_document_id": "55347",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "1993-11-11",
+    "seed_status": "repealed"
+  }
 }

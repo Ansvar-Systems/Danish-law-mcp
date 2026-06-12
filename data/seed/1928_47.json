@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Bygning af en Bro over Limfjorden imellem Aalborg og Nørresundby (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1928-03-07",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1928/47/xml",
-  "description": "Retsinformation source. DocumentId=CM010047; AccessionNumber=A19280004730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010047; AccessionNumber=A19280004730; Ophævet 2024-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:43:59.443Z",
+    "accession": "A19280004730",
+    "document_id": "CM010047",
+    "unique_document_id": "51221",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2024-12-11",
+    "historic_marked": "2024-12-10",
+    "seed_status": "repealed"
+  }
 }

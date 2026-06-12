@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for registrering i Affaldsregistret",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-08-26",
+  "in_force_date": "2025-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1067/xml",
-  "description": "Retsinformation source. DocumentId=DB001208; AccessionNumber=B20250106705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB001208; AccessionNumber=B20250106705; Ophævet 2025-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -33,25 +34,36 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen fastsætter gebyrsatser for registrering i Affaldsregistret, jf. bekendtgørelse om Affaldsregistret.",
-      "valid_from": "2025-08-26",
-      "valid_to": null
+      "valid_from": "2025-08-29",
+      "valid_to": "2025-12-29"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Til finansiering af omkostningerne ved etablering, drift, vedligeholdelse og administration af Affaldsregistret betales følgende: 1) 1.146 kr. årligt for virksomheder med VAT-nummer eller én registreret produktionsenhed i Affaldsregistret. 2) 2.292 kr. årligt for virksomheder med to registrerede produktionsenheder i Affaldsregistret. 3) 3.438 kr. årligt for virksomheder med tre registrerede produktionsenheder i Affaldsregistret. 4) 4.584 kr. årligt for virksomheder med fire eller flere registrerede produktionsenheder i Affaldsregistret.",
-      "valid_from": "2025-08-26",
-      "valid_to": null
+      "valid_from": "2025-08-29",
+      "valid_to": "2025-12-29"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. oktober 2025.",
-      "valid_from": "2025-08-26",
-      "valid_to": null
+      "valid_from": "2025-08-29",
+      "valid_to": "2025-12-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:30:01.313Z",
+    "accession": "B20250106705",
+    "document_id": "DB001208",
+    "unique_document_id": "251288",
+    "upstream_status": "Historic",
+    "start_date": "2025-08-29",
+    "end_date": "2025-12-30",
+    "historic_marked": "2025-12-29",
+    "seed_status": "repealed"
+  }
 }

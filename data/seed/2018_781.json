@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om eksplosivstoffer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-06-12",
+  "in_force_date": "2018-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2018/781/xml",
-  "description": "Retsinformation source. DocumentId=AA010712; AccessionNumber=B20180078105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA010712; AccessionNumber=B20180078105; Ophævet 2025-10-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:19:35.925Z",
+    "accession": "B20180078105",
+    "document_id": "AA010712",
+    "unique_document_id": "202030",
+    "upstream_status": "Historic",
+    "start_date": "2018-06-14",
+    "end_date": "2025-10-31",
+    "historic_marked": "2025-10-30",
+    "seed_status": "repealed"
+  }
 }

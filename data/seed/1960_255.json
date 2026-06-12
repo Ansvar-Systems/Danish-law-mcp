@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om indkomstbeskatning af aktieselskaber m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1960-06-11",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1960/255/xml",
-  "description": "Retsinformation source. DocumentId=CM022427; AccessionNumber=A19600025530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022427; AccessionNumber=A19600025530; Ophævet 1995-11-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:03:59.963Z",
+    "accession": "A19600025530",
+    "document_id": "CM022427",
+    "unique_document_id": "63407",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-07-27",
+    "historic_marked": "1995-11-13",
+    "seed_status": "repealed"
+  }
 }

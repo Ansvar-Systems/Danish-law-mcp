@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anlægslov for naturgasforsyning",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1979-06-08",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1979/232/xml",
-  "description": "Retsinformation source. DocumentId=CM008142; AccessionNumber=A19790023230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008142; AccessionNumber=A19790023230; Ophævet 2004-12-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:08:57.387Z",
+    "accession": "A19790023230",
+    "document_id": "CM008142",
+    "unique_document_id": "49333",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "2004-12-26",
+    "seed_status": "repealed"
+  }
 }

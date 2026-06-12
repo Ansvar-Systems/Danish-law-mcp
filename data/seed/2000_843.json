@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af dødsboer og gaver",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-04",
+  "in_force_date": "2000-09-14",
   "url": "https://www.retsinformation.dk/eli/lta/2000/843/xml",
-  "description": "Retsinformation source. DocumentId=AN001158; AccessionNumber=A20000084329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001158; AccessionNumber=A20000084329; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:35:41.735Z",
+    "accession": "A20000084329",
+    "document_id": "AN001158",
+    "unique_document_id": "13951",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-14",
+    "end_date": "2014-10-21",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

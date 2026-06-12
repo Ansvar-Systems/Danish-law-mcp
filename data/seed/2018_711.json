@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven (Selvstændig bestemmelse om hvidvask)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-06-08",
+  "in_force_date": "2018-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2018/711/xml",
-  "description": "Retsinformation source. DocumentId=AA010664; AccessionNumber=A20180071130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA010664; AccessionNumber=A20180071130; Ophævet 2018-09-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "290a",
@@ -20,8 +21,19 @@
       "section": "290a",
       "content": "§ 290 a. For hvidvask straffes med bøde eller fængsel indtil 1 år og 6 måneder den, der konverterer eller overfører penge, som direkte eller indirekte er udbytte af en strafbar lovovertrædelse, for at skjule eller tilsløre den ulovlige oprindelse. Stk. 2. Straffen kan stige til fængsel i 8 år, når hvidvasken er af særligt grov beskaffenhed navnlig på grund af forbrydelsens erhvervsmæssige eller professionelle karakter eller som følge af den opnåede eller tilsigtede vinding, eller når et større antal forbrydelser er begået.",
       "valid_from": "2018-06-08",
-      "valid_to": null
+      "valid_to": "2018-09-24"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:16:48.521Z",
+    "accession": "A20180071130",
+    "document_id": "AA010664",
+    "unique_document_id": "201316",
+    "upstream_status": "Historic",
+    "start_date": "2018-06-08",
+    "end_date": "2018-09-25",
+    "historic_marked": "2018-09-24",
+    "seed_status": "repealed"
+  }
 }

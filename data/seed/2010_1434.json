@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lovtidende A 2010 indeholder ingen forskrift med nr. 1434",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-14",
+  "in_force_date": "2010-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1434/xml",
-  "description": "Retsinformation source. DocumentId=AT004411; AccessionNumber=B20100143405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT004411; AccessionNumber=B20100143405; Ophævet 2016-02-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:52:36.164Z",
+    "accession": "B20100143405",
+    "document_id": "AT004411",
+    "unique_document_id": "134804",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-16",
+    "end_date": "2021-01-08",
+    "historic_marked": "2016-02-25",
+    "seed_status": "repealed"
+  }
 }

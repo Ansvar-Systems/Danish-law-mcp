@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-05-31",
+  "in_force_date": "2023-05-31",
   "url": "https://www.retsinformation.dk/eli/lta/2023/636/xml",
   "description": "Retsinformation source. DocumentId=DG000621; AccessionNumber=B20230063605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -302,5 +303,16 @@
       "definition": "det antal kilometer kørt på den danske jernbane inklusive tomkørsel i forbindelse med placering af materiel",
       "source_provision": "1:8"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:55:12.804Z",
+    "accession": "B20230063605",
+    "document_id": "DG000621",
+    "unique_document_id": "237924",
+    "upstream_status": "Valid",
+    "start_date": "2023-05-31",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

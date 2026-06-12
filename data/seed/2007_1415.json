@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2007-12-11",
+  "in_force_date": "2007-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1415/xml",
   "description": "Retsinformation source. DocumentId=BE002632; AccessionNumber=B20070141505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra de private arbejdsgivere for 2008 til finansiering af kommunernes indbetaling af ATP-bidrag ved udbetaling af sygedagpenge fastsættes til 150 kr. pr. fuldtidsansat lønmodtager. Stk. 2. Bidraget fra de private arbejdsgivere for 2008 til finansiering af kommunernes indbetaling af ATP-bidrag ved udbetaling af barseldagpenge fastsættes til 67 kr. pr. fuldtidsansat lønmodtager. Stk. 3. Bidragene efter stk. 1 og 2 opkræves og indbetales som et samlet beløb. Det samlede beløb udgør for 2008 på årsbasis 217 kr. pr. fuldtidsansat lønmodtager.",
-      "valid_from": "2007-12-11",
+      "valid_from": "2007-12-21",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2008. Stk. 2. Bidraget opkræves første gang på grundlag af ATP-bidrag modtaget i perioden 23. februar 2008 - 22. maj 2008.",
-      "valid_from": "2007-12-11",
+      "valid_from": "2007-12-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:03:25.078Z",
+    "accession": "B20070141505",
+    "document_id": "BE002632",
+    "unique_document_id": "113841",
+    "upstream_status": "Valid",
+    "start_date": "2007-12-21",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

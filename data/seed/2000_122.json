@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om gebyr for ansøgninger om godkendelse af kliniske afprøvninger",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-22",
+  "in_force_date": "2000-02-23",
   "url": "https://www.retsinformation.dk/eli/lta/2000/122/xml",
-  "description": "Retsinformation source. DocumentId=AQ000425; AccessionNumber=B20000012205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000425; AccessionNumber=B20000012205; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:59:19.674Z",
+    "accession": "B20000012205",
+    "document_id": "AQ000425",
+    "unique_document_id": "21396",
+    "upstream_status": "Historic",
+    "start_date": "2000-02-23",
+    "end_date": "2022-07-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

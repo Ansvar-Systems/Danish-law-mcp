@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-01-28",
+  "in_force_date": "2014-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2014/100/xml",
   "description": "Retsinformation source. DocumentId=AH005129; AccessionNumber=B20140010005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 199 af 27. marts 2008 om tilskud til yngre fiskeres førstegangsetablering ophæves.",
-      "valid_from": "2014-01-28",
+      "valid_from": "2014-01-30",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 31. januar 2014. Stk. 2. Den i § 1 anførte bekendtgørelse finder dog fortsat anvendelse for tilsagn, der er givet i medfør heraf, og ansøgninger, der er modtaget inden den 31. januar 2014.",
-      "valid_from": "2014-01-28",
+      "valid_from": "2014-01-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:27:05.938Z",
+    "accession": "B20140010005",
+    "document_id": "AH005129",
+    "unique_document_id": "161496",
+    "upstream_status": "Valid",
+    "start_date": "2014-01-30",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

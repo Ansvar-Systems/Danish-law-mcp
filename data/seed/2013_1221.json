@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kvalifikationskrav til visse førere af køretøjer i vejtransport",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-10-22",
+  "in_force_date": "2013-10-25",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1221/xml",
-  "description": "Retsinformation source. DocumentId=BL000843; AccessionNumber=B20130122105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000843; AccessionNumber=B20130122105; Ophævet 2015-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "39",
@@ -29,23 +30,34 @@
       "provision_ref": "39",
       "section": "39",
       "content": "§ 39. Er et chaufføruddannelsesbevis ødelagt eller bortkommet, eller ønskes chaufføruddannelsesbeviset udskiftet i tilfælde af navneændring eller lignende, indsendes ansøgning om nyt chaufføruddannelsesbevis til det uddannelsescenter, hvor uddannelsen er gennemført, eller til Trafikstyrelsen.",
-      "valid_from": "2013-10-22",
-      "valid_to": null
+      "valid_from": "2013-10-25",
+      "valid_to": "2015-07-10"
     },
     {
       "provision_ref": "42",
       "section": "42",
       "content": "§ 42. Uddannelsescentret træffer afgørelse om, hvorvidt kravet vedrørende gyldigt kørekort er opfyldt.",
-      "valid_from": "2013-10-22",
-      "valid_to": null
+      "valid_from": "2013-10-25",
+      "valid_to": "2015-07-10"
     },
     {
       "provision_ref": "65",
       "section": "65",
       "content": "§ 65. Afgørelser truffet af et uddannelsescenter kan indbringes for Trafikstyrelsen.",
-      "valid_from": "2013-10-22",
-      "valid_to": null
+      "valid_from": "2013-10-25",
+      "valid_to": "2015-07-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:35:13.509Z",
+    "accession": "B20130122105",
+    "document_id": "BL000843",
+    "unique_document_id": "158692",
+    "upstream_status": "Historic",
+    "start_date": "2013-10-25",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-07-10",
+    "seed_status": "repealed"
+  }
 }

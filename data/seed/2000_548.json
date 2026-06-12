@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fødevarer bestemt til særlig ernæring",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-19",
+  "in_force_date": "2000-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/548/xml",
-  "description": "Retsinformation source. DocumentId=AH000644; AccessionNumber=B20000054805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000644; AccessionNumber=B20000054805; Ophævet 2002-03-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:23:47.427Z",
+    "accession": "B20000054805",
+    "document_id": "AH000644",
+    "unique_document_id": "7014",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-29",
+    "end_date": "2022-04-09",
+    "historic_marked": "2002-03-18",
+    "seed_status": "repealed"
+  }
 }

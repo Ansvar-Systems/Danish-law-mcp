@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om nettilslutning af vindmøller og pristillæg for vindmølleproduceret elektricitet m.m.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-19",
+  "in_force_date": "2014-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1470/xml",
-  "description": "Retsinformation source. DocumentId=BU000386; AccessionNumber=B20140147005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BU000386; AccessionNumber=B20140147005; Ophævet 2015-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15",
@@ -19,9 +20,20 @@
       "provision_ref": "15",
       "section": "15",
       "content": "§ 15 a. Pristillægget til vindmøller omfattet af § 41 i lov om fremme af vedvarende energi, som fastsættes således, at pristillægget og den efter lovens § 51, stk. 2, nr. 1, fastsatte markedspris tilsammen udgør 60 øre pr. kWh, ydes i 12 år fra nettilslutningen. Hvis nettilslutningen er sket før den 1. januar 2003, regnes perioden for pristillæg dog fra den 1. januar 2003.",
-      "valid_from": "2014-12-19",
-      "valid_to": null
+      "valid_from": "2014-12-20",
+      "valid_to": "2015-09-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:02.228Z",
+    "accession": "B20140147005",
+    "document_id": "BU000386",
+    "unique_document_id": "166793",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-20",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-09-21",
+    "seed_status": "repealed"
+  }
 }

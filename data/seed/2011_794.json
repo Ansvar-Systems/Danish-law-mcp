@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om merværdiafgiftsloven (momsloven)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-06-29",
+  "in_force_date": "2011-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2011/794/xml",
-  "description": "Retsinformation source. DocumentId=AN010790; AccessionNumber=B20110079405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN010790; AccessionNumber=B20110079405; Ophævet 2013-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "49",
@@ -19,9 +20,20 @@
       "provision_ref": "49",
       "section": "49",
       "content": "§ 49 a. Virksomheder skal elektronisk afregne og angive afgift efter lovens kapitel 15 til told- og skatteforvaltningen på skat.dk/TastSelv Erhverv, jf. dog stk. 2. Stk. 2. Virksomheder, der ikke råder over eget teknisk udstyr til elektronisk afregning og angivelse af afgift efter stk. 1, afregner og angiver afgift ved at benytte en blanket, udarbejdet af told- og skatteforvaltningen.",
-      "valid_from": "2011-06-29",
-      "valid_to": null
+      "valid_from": "2011-06-30",
+      "valid_to": "2013-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:21:36.086Z",
+    "accession": "B20110079405",
+    "document_id": "AN010790",
+    "unique_document_id": "137967",
+    "upstream_status": "Historic",
+    "start_date": "2011-06-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-06-28",
+    "seed_status": "repealed"
+  }
 }

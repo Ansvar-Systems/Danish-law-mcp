@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af udlændingeloven med flere love",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/424/xml",
-  "description": "Retsinformation source. DocumentId=AI000347; AccessionNumber=A20000042430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000347; AccessionNumber=A20000042430; Ophævet 2002-09-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:18:48.577Z",
+    "accession": "A20000042430",
+    "document_id": "AI000347",
+    "unique_document_id": "8950",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2017-12-12",
+    "historic_marked": "2002-09-30",
+    "seed_status": "repealed"
+  }
 }

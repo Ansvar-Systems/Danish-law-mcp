@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ret til sygehusbehandling m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-04-29",
+  "in_force_date": "2015-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2015/570/xml",
-  "description": "Retsinformation source. DocumentId=BK001764; AccessionNumber=B20150057005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK001764; AccessionNumber=B20150057005; Ophævet 2016-05-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:14:32.570Z",
+    "accession": "B20150057005",
+    "document_id": "BK001764",
+    "unique_document_id": "169769",
+    "upstream_status": "Historic",
+    "start_date": "2015-04-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "2016-05-26",
+    "seed_status": "repealed"
+  }
 }

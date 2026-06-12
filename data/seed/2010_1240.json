@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-11-05",
+  "in_force_date": "2010-11-10",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1240/xml",
   "description": "Retsinformation source. DocumentId=AS001220; AccessionNumber=B20100124005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Følgende organisationer m.v. skal høres forud for udpegelse af medlemmer af bestyrelsen for Danmarks Eksportråds bestyrelse: 1) DI (Dansk Industri) 2) Dansk Erhverv 3) Landbrug og Fødevarer 4) Håndværksrådet 5) FRI 6) Danmarks Rederiforening 7) Dansk Byggeri 8) Danske ARK 9) AE-rådet (Arbejderbevægelsens Erhvervsråd)",
-      "valid_from": "2010-11-05",
+      "valid_from": "2010-11-10",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. december 2010.",
-      "valid_from": "2010-11-05",
+      "valid_from": "2010-11-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:44:43.256Z",
+    "accession": "B20100124005",
+    "document_id": "AS001220",
+    "unique_document_id": "133706",
+    "upstream_status": "Valid",
+    "start_date": "2010-11-10",
+    "end_date": "2010-11-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

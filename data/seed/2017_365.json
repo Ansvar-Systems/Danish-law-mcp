@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-04-10",
+  "in_force_date": "2017-04-11",
   "url": "https://www.retsinformation.dk/eli/lta/2017/365/xml",
   "description": "Retsinformation source. DocumentId=CK001261; AccessionNumber=B20170036505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 92 af 26. januar 2017 om indelukning af fjerkræ og andre fugle i fangenskab i forbindelse med forebyggende foranstaltninger mod aviær influenza. 2) Bekendtgørelse nr. 1310 af 11. november 2016 om forebyggende foranstaltninger mod aviær influenza.",
-      "valid_from": "2017-04-10",
+      "valid_from": "2017-04-11",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 12. april 2017.",
-      "valid_from": "2017-04-10",
+      "valid_from": "2017-04-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:15:32.924Z",
+    "accession": "B20170036505",
+    "document_id": "CK001261",
+    "unique_document_id": "188724",
+    "upstream_status": "Valid",
+    "start_date": "2017-04-11",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

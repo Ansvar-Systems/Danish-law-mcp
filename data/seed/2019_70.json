@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-01-21",
+  "in_force_date": "2019-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/2019/70/xml",
   "description": "Retsinformation source. DocumentId=CN000901; AccessionNumber=B20190007005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Kommunalbestyrelsen skal inden for det første år i den kommunale valgperiode vedtage en værdighedspolitik for den kommunale ældrepleje. Stk. 2. Værdighedspolitikken skal indeholde de overordnede pejlemærker og principper for en værdig ældrepleje i den enkelte kommune med udgangspunkt i den personlige hjælp, omsorg og pleje m.v., som ydes efter lov om social service til personer over folkepensionsalderen.",
-      "valid_from": "2019-01-21",
+      "valid_from": "2019-01-29",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. I værdighedspolitikken skal kommunalbestyrelsen som minimum beskrive, hvordan kommunens ældrepleje kan understøtte følgende områder i forhold til plejen og omsorgen af den enkelte ældre: 1) Livskvalitet. 2) Selvbestemmelse. 3) Kvalitet, tværfaglighed og sammenhæng i plejen. 4) Mad og ernæring. 5) En værdig død. 6) Pårørende. 7) Bekæmpelse af ensomhed.",
-      "valid_from": "2019-01-21",
+      "valid_from": "2019-01-29",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Kommunalbestyrelsen skal sørge for at inddrage ældrerådet, jf. § 30 i lov om retssikkerhed og administration på det sociale område, samt øvrige relevante parter i forbindelse med udarbejdelsen af værdighedspolitikken for ældreplejen. Stk. 2. Når værdighedspolitikken er vedtaget, skal den offentliggøres på kommunens hjemmeside.",
-      "valid_from": "2019-01-21",
+      "valid_from": "2019-01-29",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. februar 2019. Stk. 2. Forpligtelsen efter § 2, nr. 7, jf. § 3, skal første gang være opfyldt senest den 31. december 2019, og derefter inden for det første år i den kommunale valgperiode, jf. § 1, stk. 1. Stk. 3. Bekendtgørelse nr. 80 af 29. januar 2018 om værdighedspolitikker for ældreplejen ophæves.",
-      "valid_from": "2019-01-21",
+      "valid_from": "2019-01-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:16:21.415Z",
+    "accession": "B20190007005",
+    "document_id": "CN000901",
+    "unique_document_id": "206695",
+    "upstream_status": "Valid",
+    "start_date": "2019-01-29",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

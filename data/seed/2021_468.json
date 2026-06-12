@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om ligestilling af kvinder og mænd (Digital post til begge forældre om fælles barn)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-03-20",
+  "in_force_date": "2021-03-20",
   "url": "https://www.retsinformation.dk/eli/lta/2021/468/xml",
-  "description": "Retsinformation source. DocumentId=BE008843; AccessionNumber=A20210046830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008843; AccessionNumber=A20210046830; Ophævet 2021-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4a",
@@ -20,8 +21,19 @@
       "section": "4a",
       "content": "§ 4 a. Offentlige myndigheder m.v. skal, når de sender digital post, som indeholder meddelelse om et barns forhold, som efter sit indhold i henhold til den relevante sektorlovgivning er rettet mod begge indehavere af forældremyndigheden over barnet, sende den digitale post til dem begge, jf. dog stk. 2. Stk. 2. Stk. 1 finder ikke anvendelse, hvis særlige hensyn, herunder hensynet til barnets bedste, hensynet til den anden indehaver af forældremyndigheden eller hensyn i anden lovgivning, taler for alene at sende posten til den ene indehaver af forældremyndigheden. Stk. 3. Vedkommende minister kan efter forhandling med ministeren for ligestilling fastsætte regler om, at stk. 1 ikke skal finde anvendelse på nærmere angivne sagstyper og offentlige myndigheder m.v.",
       "valid_from": "2021-03-20",
-      "valid_to": null
+      "valid_to": "2021-04-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:01.482Z",
+    "accession": "A20210046830",
+    "document_id": "BE008843",
+    "unique_document_id": "221907",
+    "upstream_status": "Historic",
+    "start_date": "2021-03-20",
+    "end_date": "2025-01-30",
+    "historic_marked": "2021-04-29",
+    "seed_status": "repealed"
+  }
 }

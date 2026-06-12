@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kandidatuddannelsen i informationsteknologi",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-07-01",
+  "in_force_date": "1999-07-08",
   "url": "https://www.retsinformation.dk/eli/lta/1999/547/xml",
-  "description": "Retsinformation source. DocumentId=AT000165; AccessionNumber=B19990054705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000165; AccessionNumber=B19990054705; Ophævet 2003-05-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:32:25.638Z",
+    "accession": "B19990054705",
+    "document_id": "AT000165",
+    "unique_document_id": "23302",
+    "upstream_status": "Historic",
+    "start_date": "1999-07-08",
+    "end_date": "2014-07-02",
+    "historic_marked": "2003-05-29",
+    "seed_status": "repealed"
+  }
 }

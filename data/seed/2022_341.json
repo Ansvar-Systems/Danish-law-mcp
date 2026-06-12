@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2022-03-22",
+  "in_force_date": "2022-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2022/341/xml",
   "description": "Retsinformation source. DocumentId=DE000219; AccessionNumber=A20220034130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -3019,5 +3020,16 @@
       "definition": "foranstaltninger eller installationer, der forøger det lejedes værdi, eller foranstaltninger, som er påbudt ved lov eller offentlige forskrifter, når disse ikke er omfattet af udlejerens vedligeholdelsespligt",
       "source_provision": "14:127"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:35:07.652Z",
+    "accession": "A20220034130",
+    "document_id": "DE000219",
+    "unique_document_id": "229680",
+    "upstream_status": "Valid",
+    "start_date": "2022-03-22",
+    "end_date": "2026-02-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

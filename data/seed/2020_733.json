@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2020-05-20",
+  "in_force_date": "2020-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2020/733/xml",
   "description": "Retsinformation source. DocumentId=CZ000202; AccessionNumber=B20200073305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse fastsætter regler om ansvarsforsikring for jernbanevirksomheder, jernbaneinfrastrukturforvaltere og virksomheder, som er certificeret i henhold til jernbanelovens § 11.",
-      "valid_from": "2020-05-20",
+      "valid_from": "2020-05-30",
       "valid_to": null
     },
     {
       "provision_ref": "6",
       "section": "6",
       "content": "§ 6. Kapaciteten hos en jernbanevirksomhed, en jernbaneinfrastrukturforvalter eller en virksomhed, som er certificeret i henhold til jernbanelovens § 11, til at udrede en eventuel selvrisiko i forbindelse med en skade, må ikke berøre skadelidtes eller efterladtes ret til erstatning efter forsikringen.",
-      "valid_from": "2020-05-20",
+      "valid_from": "2020-05-30",
       "valid_to": null
     },
     {
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7. Jernbanevirksomheder, jernbaneinfrastrukturforvaltere og virksomheder, som er certificeret i henhold til jernbanelovens § 11, har pligt til over for Trafik-, Bygge- og Boligstyrelsen at dokumentere, at deres ansvarsforsikring opfylder kravene i denne bekendtgørelse. Stk. 2. Som dokumentation kan anvendes Trafik-, Bygge- og Boligstyrelsens forsikringsattest.",
-      "valid_from": "2020-05-20",
+      "valid_from": "2020-05-30",
       "valid_to": null
     },
     {
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8. Jernbanevirksomheden, jernbaneinfrastrukturforvalteren eller virksomheden, der er certificeret i henhold til jernbanelovens § 11, skal ved fornyelse af forsikringen dokumentere de nye forsikringsforhold over for Trafik-, Bygge- og Boligstyrelsen senest 4 uger før den gældende forsikring ophører.",
-      "valid_from": "2020-05-20",
+      "valid_from": "2020-05-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:41:04.066Z",
+    "accession": "B20200073305",
+    "document_id": "CZ000202",
+    "unique_document_id": "214671",
+    "upstream_status": "Valid",
+    "start_date": "2020-05-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2013-05-30",
+  "in_force_date": "2013-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2013/577/xml",
   "description": "Retsinformation source. DocumentId=AN011562; AccessionNumber=B20130057705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. I medfør af § 18 i lov nr. 513 af 7. juni 2006 om ændring af opkrævningsloven, selskabsskatteloven og forskellige andre love (Opkrævning via én skattekonto), som ændret ved lov nr. 1560 af 21. december 2010, lov 551 af 18. juni 2012 og lov nr. 1345 af 21. december 2012, fastsættes, at lovens § 1, nr. 9, for så vidt angår opkrævningslovens § 16, stk. 1, nr. 1-5, 8-10 og nr. 19-21, og §§ 16 a-16 d, og lovens §§ 2-10, § 15, for så vidt angår nr. 1 og 2, og § 16, for så vidt angår nr. 1, sættes i kraft.",
-      "valid_from": "2013-05-30",
+      "valid_from": "2013-06-04",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft 1. august 2013.",
-      "valid_from": "2013-05-30",
+      "valid_from": "2013-06-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:09:55.933Z",
+    "accession": "B20130057705",
+    "document_id": "AN011562",
+    "unique_document_id": "152293",
+    "upstream_status": "Valid",
+    "start_date": "2013-06-04",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

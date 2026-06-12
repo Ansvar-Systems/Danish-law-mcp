@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-12-08",
+  "in_force_date": "2023-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1643/xml",
   "description": "Retsinformation source. DocumentId=CQ002748; AccessionNumber=B20230164305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 346 af 15. marts 2019 om elektronisk fakturering i den fælleseuropæiske serviceorienterede infrastruktur ophæves.",
-      "valid_from": "2023-12-08",
+      "valid_from": "2023-12-15",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024.",
-      "valid_from": "2023-12-08",
+      "valid_from": "2023-12-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:27:32.072Z",
+    "accession": "B20230164305",
+    "document_id": "CQ002748",
+    "unique_document_id": "240773",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-15",
+    "end_date": "2023-12-16",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om skibes måling",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1954-12-22",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1954/375/xml",
-  "description": "Retsinformation source. DocumentId=CM023625; AccessionNumber=B19540037505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023625; AccessionNumber=B19540037505; Ophævet 2016-06-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:59:20.201Z",
+    "accession": "B19540037505",
+    "document_id": "CM023625",
+    "unique_document_id": "64585",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "2016-06-08",
+    "seed_status": "repealed"
+  }
 }

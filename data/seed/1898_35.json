@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Begunstigelser for en Kreditforening af Kommuner i Danmark",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1898-03-19",
+  "in_force_date": "2005-10-27",
   "url": "https://www.retsinformation.dk/eli/lta/1898/35/xml",
-  "description": "Retsinformation source. DocumentId=AI001992; AccessionNumber=A18980003530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001992; AccessionNumber=A18980003530; Ophævet 2006-05-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:35:55.455Z",
+    "accession": "A18980003530",
+    "document_id": "AI001992",
+    "unique_document_id": "10111",
+    "upstream_status": "Historic",
+    "start_date": "2005-10-27",
+    "end_date": "2020-11-28",
+    "historic_marked": "2006-05-04",
+    "seed_status": "repealed"
+  }
 }

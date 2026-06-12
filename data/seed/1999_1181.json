@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fersk fjerkrækød",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-22",
+  "in_force_date": "2000-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1181/xml",
-  "description": "Retsinformation source. DocumentId=AH000503; AccessionNumber=B19990118105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000503; AccessionNumber=B19990118105; Ophævet 2004-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:14:50.262Z",
+    "accession": "B19990118105",
+    "document_id": "AH000503",
+    "unique_document_id": "6897",
+    "upstream_status": "Historic",
+    "start_date": "2000-01-13",
+    "end_date": "2022-04-09",
+    "historic_marked": "2004-12-22",
+    "seed_status": "repealed"
+  }
 }

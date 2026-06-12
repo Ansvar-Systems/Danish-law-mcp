@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om fødevarer m.m. (fødevareloven)(* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-07-01",
+  "in_force_date": "1998-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/1998/471/xml",
-  "description": "Retsinformation source. DocumentId=CM047444; AccessionNumber=A19980047130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047444; AccessionNumber=A19980047130; Ophævet 2005-11-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:46:29.979Z",
+    "accession": "A19980047130",
+    "document_id": "CM047444",
+    "unique_document_id": "87610",
+    "upstream_status": "Historic",
+    "start_date": "1998-07-03",
+    "end_date": "2023-11-08",
+    "historic_marked": "2005-11-18",
+    "seed_status": "repealed"
+  }
 }

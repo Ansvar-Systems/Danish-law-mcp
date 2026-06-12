@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om uddannelses- og erhvervsvejledning",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1981-06-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1981/276/xml",
-  "description": "Retsinformation source. DocumentId=CM028482; AccessionNumber=A19810027630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM028482; AccessionNumber=A19810027630; Ophævet 1997-02-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:08:55.766Z",
+    "accession": "A19810027630",
+    "document_id": "CM028482",
+    "unique_document_id": "69298",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-24",
+    "historic_marked": "1997-02-12",
+    "seed_status": "repealed"
+  }
 }

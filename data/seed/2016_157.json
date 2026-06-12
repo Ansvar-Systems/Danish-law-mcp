@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-02-26",
+  "in_force_date": "2016-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2016/157/xml",
   "description": "Retsinformation source. DocumentId=CI000092; AccessionNumber=B20160015705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1048 af 29. oktober 2012 om driftsomkostninger til gennemførelse af miljømål og servicemål ophæves.",
-      "valid_from": "2016-02-26",
+      "valid_from": "2016-02-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. marts 2016. Stk. 2. Samtidig finder Naturstyrelsens vejledning om miljømål og servicemål fra 2012 ikke længere anvendelse.",
-      "valid_from": "2016-02-26",
+      "valid_from": "2016-02-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:55:06.375Z",
+    "accession": "B20160015705",
+    "document_id": "CI000092",
+    "unique_document_id": "177712",
+    "upstream_status": "Valid",
+    "start_date": "2016-02-27",
+    "end_date": "2025-03-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

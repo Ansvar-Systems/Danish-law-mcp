@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-07-05",
+  "in_force_date": "2017-07-06",
   "url": "https://www.retsinformation.dk/eli/lta/2017/944/xml",
   "description": "Retsinformation source. DocumentId=CK001380; AccessionNumber=B20170094405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 121 af 12. februar 2007 om om udstedelse af certifikater for dyr og animalske produkter ophæves.",
-      "valid_from": "2017-07-05",
+      "valid_from": "2017-07-06",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 7. juli 2017.",
-      "valid_from": "2017-07-05",
+      "valid_from": "2017-07-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:38:48.230Z",
+    "accession": "B20170094405",
+    "document_id": "CK001380",
+    "unique_document_id": "192282",
+    "upstream_status": "Valid",
+    "start_date": "2017-07-06",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om undersøgelse af sikkerhedsmæssige hændelser på jernbane",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-29",
+  "in_force_date": "1999-12-31",
   "url": "https://www.retsinformation.dk/eli/lta/1999/1169/xml",
-  "description": "Retsinformation source. DocumentId=AR000246; AccessionNumber=B19990116905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000246; AccessionNumber=B19990116905; Ophævet 2010-01-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:14:20.167Z",
+    "accession": "B19990116905",
+    "document_id": "AR000246",
+    "unique_document_id": "21914",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-31",
+    "end_date": "2022-07-07",
+    "historic_marked": "2010-01-05",
+    "seed_status": "repealed"
+  }
 }

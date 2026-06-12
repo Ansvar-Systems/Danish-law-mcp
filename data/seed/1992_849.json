@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om patientforsikring",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-10-14",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1992/849/xml",
-  "description": "Retsinformation source. DocumentId=CM005630; AccessionNumber=A19920084929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005630; AccessionNumber=A19920084929; Ophævet 1997-05-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:46:15.252Z",
+    "accession": "A19920084929",
+    "document_id": "CM005630",
+    "unique_document_id": "46868",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2023-01-07",
+    "historic_marked": "1997-05-05",
+    "seed_status": "repealed"
+  }
 }

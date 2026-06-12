@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven (Forhøjelse af bødeniveauet for ulovlig afholdelse af hvil i køretøjet m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-02-25",
+  "in_force_date": "2020-02-25",
   "url": "https://www.retsinformation.dk/eli/lta/2020/139/xml",
-  "description": "Retsinformation source. DocumentId=CZ000126; AccessionNumber=A20200013930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000126; AccessionNumber=A20200013930; Ophævet 2021-08-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:44:11.427Z",
+    "accession": "A20200013930",
+    "document_id": "CZ000126",
+    "unique_document_id": "212877",
+    "upstream_status": "Historic",
+    "start_date": "2020-02-25",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-08-23",
+    "seed_status": "repealed"
+  }
 }

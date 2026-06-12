@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2025-06-13",
+  "in_force_date": "2025-06-25",
   "url": "https://www.retsinformation.dk/eli/lta/2025/826/xml",
   "description": "Retsinformation source. DocumentId=DA001613; AccessionNumber=B20250082605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "3",
       "section": "7",
       "content": "§ 7. Skolen skal anmelde navneændringer til styrelsen.",
-      "valid_from": "2025-06-13",
+      "valid_from": "2025-06-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:27:49.611Z",
+    "accession": "B20250082605",
+    "document_id": "DA001613",
+    "unique_document_id": "250617",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-25",
+    "end_date": "2025-06-26",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

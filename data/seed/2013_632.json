@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om etablering af et udvalg om forsvarets og politiets efterretningstjenester\\n(Styrkelse af den parlamentariske kontrol og indsigt)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-12",
+  "in_force_date": "2013-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2013/632/xml",
-  "description": "Retsinformation source. DocumentId=AA007157; AccessionNumber=A20130063230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007157; AccessionNumber=A20130063230; Ophævet 2014-08-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -20,8 +21,19 @@
       "section": "2",
       "content": "§ 2. Regeringen giver årligt udvalget en orientering om efterretningstjenesternes virksomhed. Stk. 2. Regeringen holder udvalget orienteret om væsentlige omstændigheder af sikkerhedsmæssig karakter eller ved­rørende udenrigspolitiske spørgsmål, som er af betydning for efterretningstjenesternes virksomhed. Stk. 3. Regeringen giver på udvalgets anmodning oplysninger om efterretningstjenesternes virksomhed, herunder statistiske oplysninger. Stk. 4. Udvalget kan anmode justitsministeren og forsvarsministeren om at foranledige, at cheferne for henholdsvis politiets og forsvarets efterretningstjeneste er til stede i forbindelse med et udvalgsmøde med henblik på at besvare spørgsmål. Stk. 5. Forud for udstedelsen af retningslinjer for efterretningstjenesternes virksomhed underretter regeringen udvalget om indholdet af disse. Henlæggelse af væsentlige nye opgaver til Politiets Efterretningstjeneste skal ligeledes ske efter underretning af udvalget. Stk. 6. Forud for offentliggørelsen af den årlige redegørelse, som Politiets Efterretningstjeneste afgiver om sin virksomhed, jf. § 2 i lov om Politiets Efterretningstjeneste, forelægger regeringen udvalget denne. Stk. 7. Regeringens orientering af udvalget sker under hensyntagen til de særlige forhold, som gør sig gældende for efterretningsvirksomhed.",
       "valid_from": "2013-06-12",
-      "valid_to": null
+      "valid_to": "2014-08-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:12.105Z",
+    "accession": "A20130063230",
+    "document_id": "AA007157",
+    "unique_document_id": "152183",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-12",
+    "end_date": "2022-11-12",
+    "historic_marked": "2014-08-27",
+    "seed_status": "repealed"
+  }
 }

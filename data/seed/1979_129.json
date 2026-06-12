@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forlængelse af kollektive overenskomster og aftaler m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1979-03-29",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1979/129/xml",
-  "description": "Retsinformation source. DocumentId=CM040358; AccessionNumber=A19790012930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040358; AccessionNumber=A19790012930; Ophævet 1996-04-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:07:49.591Z",
+    "accession": "A19790012930",
+    "document_id": "CM040358",
+    "unique_document_id": "81112",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1996-04-15",
+    "seed_status": "repealed"
+  }
 }

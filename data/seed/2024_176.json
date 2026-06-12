@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om husdyrbrug og anvendelse af gødning m.v. (Bemyndigelse til at fastsætte regler om teknologier til husdyrproduktion og samlet godkendelse eller tilladelse af husdyrbrug)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-02-27",
+  "in_force_date": "2024-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2024/176/xml",
-  "description": "Retsinformation source. DocumentId=DD000371; AccessionNumber=A20240017630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DD000371; AccessionNumber=A20240017630; Ophævet 2025-08-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "16c",
@@ -25,15 +26,26 @@
       "section": "16c",
       "content": "§ 16 c. Er et husdyrbrug, der er omfattet af godkendelses- eller tilladelsespligten efter §§ 16 a eller 16 b, forureningsmæssigt og teknisk eller driftsmæssigt forbundet med et andet husdyrbrug, skal husdyrbrugene godkendes eller tillades samlet. Stk. 2. Miljøministeren kan fastsætte regler om, at kommunalbestyrelsen i særlige tilfælde kan undtage husdyrbrug fra samlet godkendelse eller tilladelse efter stk. 1.",
       "valid_from": "2024-02-27",
-      "valid_to": null
+      "valid_to": "2025-08-29"
     },
     {
       "provision_ref": "34b",
       "section": "34b",
       "content": "§ 34 b. Miljøministeren kan fastsætte regler om teknologier til husdyrproduktion, som har en dokumenteret miljøeffekt.",
       "valid_from": "2024-02-27",
-      "valid_to": null
+      "valid_to": "2025-08-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:53:16.283Z",
+    "accession": "A20240017630",
+    "document_id": "DD000371",
+    "unique_document_id": "241917",
+    "upstream_status": "Historic",
+    "start_date": "2024-02-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-08-29",
+    "seed_status": "repealed"
+  }
 }

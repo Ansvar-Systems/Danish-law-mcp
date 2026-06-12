@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fredningsbælter omkring Bornholm",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-05-29",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/440/xml",
-  "description": "Retsinformation source. DocumentId=CM036802; AccessionNumber=B19920044005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM036802; AccessionNumber=B19920044005; Ophævet 2011-03-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:30:13.061Z",
+    "accession": "B19920044005",
+    "document_id": "CM036802",
+    "unique_document_id": "77593",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "2011-03-14",
+    "seed_status": "repealed"
+  }
 }

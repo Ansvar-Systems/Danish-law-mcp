@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Akademiet for de skønne Kunster",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-07-05",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/393/xml",
-  "description": "Retsinformation source. DocumentId=CM006068; AccessionNumber=B19880039305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM006068; AccessionNumber=B19880039305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:09:17.975Z",
+    "accession": "B19880039305",
+    "document_id": "CM006068",
+    "unique_document_id": "47278",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2013-02-20",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

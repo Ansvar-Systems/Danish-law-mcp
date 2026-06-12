@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om behandling af personoplysninger i Det Centrale Kriminal-register (Kriminalregisteret)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-07-04",
+  "in_force_date": "2019-07-06",
   "url": "https://www.retsinformation.dk/eli/lta/2019/704/xml",
-  "description": "Retsinformation source. DocumentId=AA011497; AccessionNumber=B20190070405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA011497; AccessionNumber=B20190070405; Ophævet 2021-09-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "37",
@@ -19,9 +20,20 @@
       "provision_ref": "37",
       "section": "37",
       "content": "§ 37. For behandlingssikkerheden gælder de i lov om retshåndhævende myndigheders behandling af personoplysninger § 27 fastsatte regler.",
-      "valid_from": "2019-07-04",
-      "valid_to": null
+      "valid_from": "2019-07-06",
+      "valid_to": "2021-09-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:16:32.322Z",
+    "accession": "B20190070405",
+    "document_id": "AA011497",
+    "unique_document_id": "209624",
+    "upstream_status": "Historic",
+    "start_date": "2019-07-06",
+    "end_date": "2021-09-29",
+    "historic_marked": "2021-09-28",
+    "seed_status": "repealed"
+  }
 }

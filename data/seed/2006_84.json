@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om landinspektørvirksomhed",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-10",
+  "in_force_date": "2006-02-20",
   "url": "https://www.retsinformation.dk/eli/lta/2006/84/xml",
-  "description": "Retsinformation source. DocumentId=AL001349; AccessionNumber=A20060008429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001349; AccessionNumber=A20060008429; Ophævet 2011-05-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:40:02.044Z",
+    "accession": "A20060008429",
+    "document_id": "AL001349",
+    "unique_document_id": "12895",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-20",
+    "end_date": "2021-01-08",
+    "historic_marked": "2011-05-13",
+    "seed_status": "repealed"
+  }
 }

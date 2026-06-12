@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indtægtsrammer og åbningsbalancer for naturgasdistributionsselskaber",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-10-27",
+  "in_force_date": "2017-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1160/xml",
-  "description": "Retsinformation source. DocumentId=CI000341; AccessionNumber=B20170116005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000341; AccessionNumber=B20170116005; Ophævet 2022-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "32",
@@ -19,9 +20,20 @@
       "provision_ref": "32",
       "section": "32",
       "content": "§ 32. Selskabet skal holde aktiviteter vedrørende offentlige forpligtelser efter § 9, stk. 1, i lov om naturgasforsyning, herunder forhold vedrørende indtægter og omkostninger forbundet med realisering af energibesparelser omfattet af kapitel 3 i bekendtgørelse om energispareydelser i net- og distributionsvirksomheder, regnskabsmæssigt adskilte fra distributionsaktiviteter i øvrigt.",
-      "valid_from": "2017-10-27",
-      "valid_to": null
+      "valid_from": "2017-10-31",
+      "valid_to": "2022-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:43:15.474Z",
+    "accession": "B20170116005",
+    "document_id": "CI000341",
+    "unique_document_id": "194305",
+    "upstream_status": "Historic",
+    "start_date": "2017-10-31",
+    "end_date": "2022-06-01",
+    "historic_marked": "2022-05-31",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2014-12-15",
+  "in_force_date": "2014-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1408/xml",
   "description": "Retsinformation source. DocumentId=BP001097; AccessionNumber=B20140140805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 212 og § 223 i søloven, som affattet ved § 1, nr. 8, i lov nr. 618 af 12. juni 2013 om ændring af søloven og forskellige andre love (Skærpede sejladssikkerhedsmæssige krav i arktiske farvande, styrkelse af søfarendes retsstilling ved sørøveri, justering af skibsregistreringsreglerne, gennemførelse af konventionen om aftaler for international transport af gods helt eller delvis til søs, gennemførelse af ændringsprotokol til konventionen om ansvar for forureningsskade opstået i forbindelse med søtransport af farlige og forurenende stoffer og nedlæggelse af Dykkerrådet), sættes i kraft.",
-      "valid_from": "2014-12-15",
+      "valid_from": "2014-12-18",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. § 3, nr. 2, i lov nr. 724 af 25. juni 2014 om ændring af lov om sikkerhed til søs, lov om ændring af søloven og forskellige andre love og lov om søfarendes ansættelsesforhold (Skærpet strafniveau ved forvoldelse af søulykke eller ved sejlads i strid med godt sømandskab m.v. og undersøgelse af dykkerulykker), sættes i kraft.",
-      "valid_from": "2014-12-15",
+      "valid_from": "2014-12-18",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2015.",
-      "valid_from": "2014-12-15",
+      "valid_from": "2014-12-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:43:33.132Z",
+    "accession": "B20140140805",
+    "document_id": "BP001097",
+    "unique_document_id": "166486",
+    "upstream_status": "Valid",
+    "start_date": "2014-12-18",
+    "end_date": "2025-06-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

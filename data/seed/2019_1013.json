@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-10-02",
+  "in_force_date": "2019-10-08",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1013/xml",
   "description": "Retsinformation source. DocumentId=AP000316; AccessionNumber=B20190101305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for Den Sociale Investeringsfond, herunder tilsynet med fonden, jf. lov nr. 1462 af 11. december 2018 om Den Sociale Investeringsfond, overføres fra finansministeren til social- og indenrigsministeren.",
-      "valid_from": "2019-10-02",
+      "valid_from": "2019-10-08",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:29:00.241Z",
+    "accession": "B20190101305",
+    "document_id": "AP000316",
+    "unique_document_id": "210525",
+    "upstream_status": "Valid",
+    "start_date": "2019-10-08",
+    "end_date": "2019-10-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

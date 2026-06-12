@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om pristillæg til elektricitet produceret på Anholt Havvindmøllepark",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-23",
+  "in_force_date": "2010-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2010/737/xml",
-  "description": "Retsinformation source. DocumentId=BJ000300; AccessionNumber=B20100073705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BJ000300; AccessionNumber=B20100073705; Ophævet 2012-10-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Til elektricitet produceret på Anholt Havvindmøllepark udbudt den 30. april 2009 ydes et pristillæg, der fastsættes således, at dette og markedsprisen, som fastsættes efter § 51, stk. 2, nr. 1, i lov om fremme af vedvarende energi, tilsammen udgør 105,1 øre pr. kWh.",
-      "valid_from": "2010-06-23",
-      "valid_to": null
+      "valid_from": "2010-06-26",
+      "valid_to": "2012-10-02"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 30. juni 2010.",
-      "valid_from": "2010-06-23",
-      "valid_to": null
+      "valid_from": "2010-06-26",
+      "valid_to": "2012-10-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:27:31.499Z",
+    "accession": "B20100073705",
+    "document_id": "BJ000300",
+    "unique_document_id": "132707",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-26",
+    "end_date": "2025-11-12",
+    "historic_marked": "2012-10-02",
+    "seed_status": "repealed"
+  }
 }

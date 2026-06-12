@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om afskæring af klageadgang på Social- og Boligstyrelsens tilskudsområde",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-04-10",
+  "in_force_date": "2024-04-10",
   "url": "https://www.retsinformation.dk/eli/lta/2024/377/xml",
-  "description": "Retsinformation source. DocumentId=DH001806; AccessionNumber=B20240037705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DH001806; AccessionNumber=B20240037705; Ophævet 2025-01-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. Afgørelser, som Social- og Boligstyrelsen træffer efter bemyndigelse fra social- og boligministeren og ældreministeren vedrørende tilskud efter tekstanmærkning nr. 111 til finanslovens § 15 og tekstanmærkning nr. 131 til finanslovens § 7, kan ikke indbringes for social- og boligministeren og ældreministeren.",
       "valid_from": "2024-04-10",
-      "valid_to": null
+      "valid_to": "2025-01-08"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 12. april 2024. Stk. 2. Bekendtgørelse nr. 3 af 5. januar 2024 om afskæring af klageadgang på Social- og Boligstyrelsens tilskudsområde ophæves.",
       "valid_from": "2024-04-10",
-      "valid_to": null
+      "valid_to": "2025-01-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:02:04.110Z",
+    "accession": "B20240037705",
+    "document_id": "DH001806",
+    "unique_document_id": "242731",
+    "upstream_status": "Historic",
+    "start_date": "2024-04-10",
+    "end_date": "2025-01-30",
+    "historic_marked": "2025-01-08",
+    "seed_status": "repealed"
+  }
 }

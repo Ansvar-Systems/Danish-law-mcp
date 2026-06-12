@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-06-11",
+  "in_force_date": "2008-06-20",
   "url": "https://www.retsinformation.dk/eli/lta/2008/562/xml",
-  "description": "Retsinformation source. DocumentId=BD000425; AccessionNumber=B20080056205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000425; AccessionNumber=B20080056205; Ophævet 2008-12-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Den danske frekvensplan fremgår af bilag 1.",
-      "valid_from": "2008-06-11",
-      "valid_to": null
+      "valid_from": "2008-06-20",
+      "valid_to": "2008-12-09"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 23. juni 2008. Stk. 2. Bekendtgørelse nr. 10208 af 20. september 2007 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer ophæves.",
-      "valid_from": "2008-06-11",
-      "valid_to": null
+      "valid_from": "2008-06-20",
+      "valid_to": "2008-12-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:19:40.723Z",
+    "accession": "B20080056205",
+    "document_id": "BD000425",
+    "unique_document_id": "117648",
+    "upstream_status": "Historic",
+    "start_date": "2008-06-20",
+    "end_date": "2026-06-04",
+    "historic_marked": "2008-12-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om dansk indfødsret og lov om danskuddannelse til voksne udlændinge m.fl. (Henlæggelse til kommunalbestyrelserne af grundlovsceremonier, forhøjelse af gebyr for ansøgning om dansk indfødsret ved naturalisation og fastsættelse af nærmere regler om udlændinges fravær i undervisning i dansk m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1735/xml",
-  "description": "Retsinformation source. DocumentId=CS000528; AccessionNumber=A20180173530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS000528; AccessionNumber=A20180173530; Ophævet 2020-08-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -20,8 +21,19 @@
       "section": "10",
       "content": "§ 10. Kommunalbestyrelserne skal mindst to gange årligt ved offentligt opslag anvise muligheden for ansøgere om dansk indfødsret omfattet af en lov om indfødsrets meddelelse for at medvirke i en ceremoni, med henblik på at ansøgerne kan skrive under på at ville overholde grundloven m.v. Kommunalbestyrelsen kan fastsætte en tilmeldingsfrist for medvirken i ceremonien. Stk. 2. Den underskrevne erklæring om at ville overholde grundloven m.v. skal efter afholdelsen af ceremonien uden ophold sendes til Udlændinge- og Integrationsministeriet af den pågældende kommunalbestyrelse. Stk. 3. Kommunalbestyrelsen kan afholde en ceremoni i fællesskab med kommunalbestyrelser i nabokommuner eller efter aftale med en nabokommune henvise ansøgere til at deltage i en ceremoni i nabokommunen. Stk. 4. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om afholdelse af ceremonierne, herunder om afviklingen heraf.",
       "valid_from": "2018-12-27",
-      "valid_to": null
+      "valid_to": "2020-08-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:17.170Z",
+    "accession": "A20180173530",
+    "document_id": "CS000528",
+    "unique_document_id": "206283",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-27",
+    "end_date": "2022-11-11",
+    "historic_marked": "2020-08-06",
+    "seed_status": "repealed"
+  }
 }

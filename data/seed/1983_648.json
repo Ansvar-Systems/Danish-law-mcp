@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om rentesaneringsydelse til landbruget m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1983-12-21",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1983/648/xml",
-  "description": "Retsinformation source. DocumentId=CM037159; AccessionNumber=B19830064805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM037159; AccessionNumber=B19830064805; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:33:52.326Z",
+    "accession": "B19830064805",
+    "document_id": "CM037159",
+    "unique_document_id": "77950",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-17",
+  "in_force_date": "2020-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2012/xml",
   "description": "Retsinformation source. DocumentId=DC000078; AccessionNumber=B20200201205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1618 af 16. november 2020 om fund af højpatogen aviær influenza i Tustrup i Randers Kommune ophæves.",
-      "valid_from": "2020-12-17",
+      "valid_from": "2020-12-18",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 20. december 2020.",
-      "valid_from": "2020-12-17",
+      "valid_from": "2020-12-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:12.428Z",
+    "accession": "B20200201205",
+    "document_id": "DC000078",
+    "unique_document_id": "218748",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-18",
+    "end_date": "2020-12-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

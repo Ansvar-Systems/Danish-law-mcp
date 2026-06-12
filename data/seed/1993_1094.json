@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om aktieselskaber og lov om anpartsselskaber",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-12-22",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1993/1094/xml",
-  "description": "Retsinformation source. DocumentId=CM025609; AccessionNumber=A19930109430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025609; AccessionNumber=A19930109430; Ophævet 1994-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:55:52.856Z",
+    "accession": "A19930109430",
+    "document_id": "CM025609",
+    "unique_document_id": "66481",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1994-07-05",
+    "seed_status": "repealed"
+  }
 }

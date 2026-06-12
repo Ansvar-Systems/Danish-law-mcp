@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Vækstfondens virke",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-08-20",
+  "in_force_date": "2004-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2004/874/xml",
-  "description": "Retsinformation source. DocumentId=AU001691; AccessionNumber=B20040087405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001691; AccessionNumber=B20040087405; Ophævet 2004-11-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:43:46.312Z",
+    "accession": "B20040087405",
+    "document_id": "AU001691",
+    "unique_document_id": "26713",
+    "upstream_status": "Historic",
+    "start_date": "2004-08-30",
+    "end_date": "2017-12-09",
+    "historic_marked": "2004-11-11",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om udlejning af fast ejendom til ferie- og fritidsformål m.v. og campering m.v. (Forsøgsordning for udvidet vintercampering)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-04-25",
+  "in_force_date": "2023-04-25",
   "url": "https://www.retsinformation.dk/eli/lta/2023/416/xml",
-  "description": "Retsinformation source. DocumentId=CD000261; AccessionNumber=A20230041630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CD000261; AccessionNumber=A20230041630; Ophævet 2024-04-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3a",
@@ -20,8 +21,19 @@
       "section": "3a",
       "content": "§ 3 a. Ministeren for landdistrikter fastsætter regler om en forsøgsordning, hvorefter kommunalbestyrelsen kan tillade udvidet vintercampering indtil den 28. februar 2025 på en campingplads med tilladelse til vintercampering, jf. regler fastsat i medfør af § 3, der er meddelt senest den 30. juni 2023.",
       "valid_from": "2023-04-25",
-      "valid_to": null
+      "valid_to": "2024-04-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:46:19.139Z",
+    "accession": "A20230041630",
+    "document_id": "CD000261",
+    "unique_document_id": "235941",
+    "upstream_status": "Historic",
+    "start_date": "2023-04-25",
+    "end_date": "2024-04-18",
+    "historic_marked": "2024-04-17",
+    "seed_status": "repealed"
+  }
 }

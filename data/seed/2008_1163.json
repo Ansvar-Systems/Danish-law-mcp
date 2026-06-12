@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2008-12-03",
+  "in_force_date": "2008-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1163/xml",
   "description": "Retsinformation source. DocumentId=BE003100; AccessionNumber=B20080116305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra private arbejdsgivere fastsættes for 2009 til 100 kr. for hver gang arbejdsgiveren betaler et beløb, der svarer til et fuldt års ATP-bidrag, jf. § 15 i lov om Arbejdsmarkedets Tillægspension.",
-      "valid_from": "2008-12-03",
+      "valid_from": "2008-12-10",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2009. Stk. 2. Det for 2009 fastsatte bidrag opkræves første gang på grundlag af ATP-bidrag, der er modtaget i perioden 23. februar – 22. maj 2009.",
-      "valid_from": "2008-12-03",
+      "valid_from": "2008-12-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:51:30.507Z",
+    "accession": "B20080116305",
+    "document_id": "BE003100",
+    "unique_document_id": "122157",
+    "upstream_status": "Valid",
+    "start_date": "2008-12-10",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

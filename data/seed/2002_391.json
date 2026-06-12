@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af afskrivningsloven og ligningsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-06-06",
+  "in_force_date": "2002-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2002/391/xml",
-  "description": "Retsinformation source. DocumentId=AN003021; AccessionNumber=A20020039130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003021; AccessionNumber=A20020039130; Ophævet 2002-12-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:42:40.658Z",
+    "accession": "A20020039130",
+    "document_id": "AN003021",
+    "unique_document_id": "15487",
+    "upstream_status": "Historic",
+    "start_date": "2002-06-06",
+    "end_date": "2005-06-01",
+    "historic_marked": "2002-12-12",
+    "seed_status": "repealed"
+  }
 }

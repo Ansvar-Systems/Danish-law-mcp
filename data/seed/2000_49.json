@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anvendelse af affaldsprodukter til jordbrugsformål",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-01-20",
+  "in_force_date": "2000-01-31",
   "url": "https://www.retsinformation.dk/eli/lta/2000/49/xml",
-  "description": "Retsinformation source. DocumentId=AL000362; AccessionNumber=B20000004905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000362; AccessionNumber=B20000004905; Ophævet 2003-07-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:21:25.160Z",
+    "accession": "B20000004905",
+    "document_id": "AL000362",
+    "unique_document_id": "12278",
+    "upstream_status": "Historic",
+    "start_date": "2000-01-31",
+    "end_date": "2022-04-09",
+    "historic_marked": "2003-07-10",
+    "seed_status": "repealed"
+  }
 }

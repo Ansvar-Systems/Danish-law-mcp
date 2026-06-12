@@ -1,0 +1,50 @@
+{
+  "run_started_at": "2026-06-12T05:21:23.895Z",
+  "finished_at": "2026-06-12T08:51:42.891Z",
+  "mode": "refresh",
+  "options": {
+    "dryRun": false,
+    "refresh": true,
+    "delayMs": 2000,
+    "yearStart": 2018,
+    "skipStampedSince": "2026-06-10T20:22:27.000Z",
+    "yearEnd": 2020,
+    "reportPath": "reports/ingest-refresh-2026-06-12-w3.json"
+  },
+  "decisions": {
+    "refetch_unknown": 5770
+  },
+  "stats": {
+    "total": 5770,
+    "fetched": 5764,
+    "skipped": 0,
+    "failed": [
+      {
+        "id": "2018_1678",
+        "error": "Entity expansion limit exceeded: 1001 > 1000"
+      },
+      {
+        "id": "2019_1094",
+        "error": "Entity expansion limit exceeded: 1001 > 1000"
+      },
+      {
+        "id": "2019_534",
+        "error": "Entity expansion limit exceeded: 1001 > 1000"
+      },
+      {
+        "id": "2020_1005",
+        "error": "Entity expansion limit exceeded: 1001 > 1000"
+      },
+      {
+        "id": "2020_2090",
+        "error": "Entity expansion limit exceeded: 1001 > 1000"
+      },
+      {
+        "id": "2020_229",
+        "error": "Entity expansion limit exceeded: 1001 > 1000"
+      }
+    ],
+    "goneUpstream": []
+  },
+  "exit_code": 2
+}

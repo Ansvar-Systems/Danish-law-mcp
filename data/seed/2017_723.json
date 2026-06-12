@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om eksamenskørsel, optog mv.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-06-06",
+  "in_force_date": "2017-06-13",
   "url": "https://www.retsinformation.dk/eli/lta/2017/723/xml",
-  "description": "Retsinformation source. DocumentId=CX000148; AccessionNumber=B20170072305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000148; AccessionNumber=B20170072305; Ophævet 2023-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:29:56.326Z",
+    "accession": "B20170072305",
+    "document_id": "CX000148",
+    "unique_document_id": "191759",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-13",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-11-30",
+    "seed_status": "repealed"
+  }
 }

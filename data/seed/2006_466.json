@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af lønsum m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-05-22",
+  "in_force_date": "2006-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2006/466/xml",
-  "description": "Retsinformation source. DocumentId=AN005075; AccessionNumber=A20060046629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN005075; AccessionNumber=A20060046629; Ophævet 2013-09-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:25:01.799Z",
+    "accession": "A20060046629",
+    "document_id": "AN005075",
+    "unique_document_id": "17165",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-01",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-09-06",
+    "seed_status": "repealed"
+  }
 }

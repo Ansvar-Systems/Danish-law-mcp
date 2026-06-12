@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om dykkermateriel",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-11-05",
+  "in_force_date": "1999-11-15",
   "url": "https://www.retsinformation.dk/eli/lta/1999/823/xml",
-  "description": "Retsinformation source. DocumentId=AD000438; AccessionNumber=B19990082305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000438; AccessionNumber=B19990082305; Ophævet 2013-12-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:43:28.008Z",
+    "accession": "B19990082305",
+    "document_id": "AD000438",
+    "unique_document_id": "4603",
+    "upstream_status": "Historic",
+    "start_date": "1999-11-15",
+    "end_date": "2017-12-08",
+    "historic_marked": "2013-12-12",
+    "seed_status": "repealed"
+  }
 }

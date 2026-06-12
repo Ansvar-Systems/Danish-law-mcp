@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2017-12-26",
+  "in_force_date": "2017-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1673/xml",
   "description": "Retsinformation source. DocumentId=AN013248; AccessionNumber=A20170167330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne i overenskomst af 17. februar 2017 mellem Kongeriget Danmark og Republikken Aserbajdsjan til undgåelse af dobbeltbeskatning og forhindring af skatteun‌ddragelse, for så vidt angår indkomstskatter, jf. bilag 1, gælder her i landet.",
-      "valid_from": "2017-12-26",
+      "valid_from": "2017-12-27",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Loven træder i kraft den 31. december 2017.",
-      "valid_from": "2017-12-26",
+      "valid_from": "2017-12-27",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Loven gælder ikke for Færøerne og Grønland.",
-      "valid_from": "2017-12-26",
+      "valid_from": "2017-12-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:03:50.649Z",
+    "accession": "A20170167330",
+    "document_id": "AN013248",
+    "unique_document_id": "196905",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

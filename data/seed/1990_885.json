@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tinglysning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-12-19",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1990/885/xml",
-  "description": "Retsinformation source. DocumentId=CM016751; AccessionNumber=B19900088505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016751; AccessionNumber=B19900088505; Ophævet 1994-03-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:33:22.085Z",
+    "accession": "B19900088505",
+    "document_id": "CM016751",
+    "unique_document_id": "57823",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2007-03-16",
+    "historic_marked": "1994-03-18",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om forsøg med et socialt frikort",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-12-13",
+  "in_force_date": "2018-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1504/xml",
-  "description": "Retsinformation source. DocumentId=CT000491; AccessionNumber=B20180150405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CT000491; AccessionNumber=B20180150405; Ophævet 2019-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 689 af 8. juni 2018 om forsøg med et socialt frikort sættes i kraft.",
-      "valid_from": "2018-12-13",
-      "valid_to": null
+      "valid_from": "2018-12-17",
+      "valid_to": "2019-11-25"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 2. januar 2019.",
-      "valid_from": "2018-12-13",
-      "valid_to": null
+      "valid_from": "2018-12-17",
+      "valid_to": "2019-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:42:56.776Z",
+    "accession": "B20180150405",
+    "document_id": "CT000491",
+    "unique_document_id": "206048",
+    "upstream_status": "Historic",
+    "start_date": "2018-12-17",
+    "end_date": "2025-08-08",
+    "historic_marked": "2019-11-25",
+    "seed_status": "repealed"
+  }
 }

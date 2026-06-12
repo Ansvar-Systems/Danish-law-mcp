@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om registrering af aktiver i forsikringsselskaber m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-07-07",
+  "in_force_date": "2003-07-28",
   "url": "https://www.retsinformation.dk/eli/lta/2003/678/xml",
-  "description": "Retsinformation source. DocumentId=AU001123; AccessionNumber=B20030067805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001123; AccessionNumber=B20030067805; Ophævet 2003-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:39:54.878Z",
+    "accession": "B20030067805",
+    "document_id": "AU001123",
+    "unique_document_id": "26316",
+    "upstream_status": "Historic",
+    "start_date": "2003-07-28",
+    "end_date": "2017-12-08",
+    "historic_marked": "2003-12-22",
+    "seed_status": "repealed"
+  }
 }

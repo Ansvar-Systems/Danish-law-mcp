@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om vintervedligeholdelse og renholdelse af veje",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-09-11",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1997/714/xml",
-  "description": "Retsinformation source. DocumentId=CM045386; AccessionNumber=A19970071429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM045386; AccessionNumber=A19970071429; Ophævet 2008-05-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:16:58.069Z",
+    "accession": "A19970071429",
+    "document_id": "CM045386",
+    "unique_document_id": "85668",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2008-05-28",
+    "seed_status": "repealed"
+  }
 }

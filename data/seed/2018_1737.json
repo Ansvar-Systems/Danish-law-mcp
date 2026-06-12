@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1737/xml",
   "description": "Retsinformation source. DocumentId=CU000541; AccessionNumber=A20180173730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -107,5 +108,16 @@
       "definition": "en eller flere medarbejdere, som har en erhvervsuddannelse som den højest fuldførte uddannelse, jf",
       "source_provision": "21h"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:21.477Z",
+    "accession": "A20180173730",
+    "document_id": "CU000541",
+    "unique_document_id": "206294",
+    "upstream_status": "Valid",
+    "start_date": "2018-12-27",
+    "end_date": "2021-01-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

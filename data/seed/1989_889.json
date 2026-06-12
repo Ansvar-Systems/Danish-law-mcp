@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige skattelove m.v. (Omlægninger i selskabsbeskatningen m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-29",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/889/xml",
-  "description": "Retsinformation source. DocumentId=CM022726; AccessionNumber=A19890088930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022726; AccessionNumber=A19890088930; Ophævet 1992-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:00:17.165Z",
+    "accession": "A19890088930",
+    "document_id": "CM022726",
+    "unique_document_id": "63706",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-10-05",
+    "historic_marked": "1992-06-22",
+    "seed_status": "repealed"
+  }
 }

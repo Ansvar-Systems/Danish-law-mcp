@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om en særlig ansvarsgrænse for skibe under 300 tons for andre krav end krav, der følger af personskader eller dødsfald",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-11-07",
+  "in_force_date": "2013-11-09",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1267/xml",
-  "description": "Retsinformation source. DocumentId=BP000698; AccessionNumber=B20130126705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000698; AccessionNumber=B20130126705; Ophævet 2018-05-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Ansvarsgrænsen i § 175, stk. 3, fastsættes til 1) 775.000 SDR for skibe med en tonnage på 100 tons og derunder, og 2) 1 mio. SDR for skibe med en tonnage fra 101 til 299 tons.",
-      "valid_from": "2013-11-07",
-      "valid_to": null
+      "valid_from": "2013-11-09",
+      "valid_to": "2018-05-11"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2014. Stk. 2. Samtidig ophæves bekendtgørelse nr. 902 af 12. november 2003 om en særlig ansvarsgrænse for skibe under 300 tons for andre krav end krav, der følger af personskader eller dødsfald.",
-      "valid_from": "2013-11-07",
-      "valid_to": null
+      "valid_from": "2013-11-09",
+      "valid_to": "2018-05-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:37:02.570Z",
+    "accession": "B20130126705",
+    "document_id": "BP000698",
+    "unique_document_id": "158925",
+    "upstream_status": "Historic",
+    "start_date": "2013-11-09",
+    "end_date": "2018-05-12",
+    "historic_marked": "2018-05-11",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-07-02",
+  "in_force_date": "2022-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1124/xml",
   "description": "Retsinformation source. DocumentId=AA013249; AccessionNumber=B20220112405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Statsadvokaten i København varetager i Østre landsretskreds forretningerne vedrørende landfogeden (politidirektøren) på Færøerne, jf. dog § 2.",
-      "valid_from": "2022-07-02",
+      "valid_from": "2022-07-05",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Statsadvokaten for Særlig Kriminalitet varetager for landfogeden på Færøerne for så vidt angår ankesager forretningerne vedrørende sager, hvor overtrædelsen har et særlig betydeligt omfang, er et led i organiseret kriminalitet, indebærer komplekst samarbejde med udenlandske retshåndhævende myndigheder, er udført ved anvendelsen af særegne metoder eller på anden måde er af særlig kvalificeret karakter. Sager efter straffelovens § 110 c anses for omfattet af 1. pkt. Stk. 2. Opstår der tvivl om, hvorvidt en sag henhører under Statsadvokaten for Særlig Kriminalitet, afgøres spørgsmålet af Rigsadvokaten.",
-      "valid_from": "2022-07-02",
+      "valid_from": "2022-07-05",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. august 2022. Stk. 2. Bekendtgørelse for Færøerne nr. 2031 af 14. december 2020 om fordelingen af forretningerne mellem Statsadvokaten i København og Statsadvokaten for Særlig Økonomisk og International Kriminalitet ophæves.",
-      "valid_from": "2022-07-02",
+      "valid_from": "2022-07-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:06:29.770Z",
+    "accession": "B20220112405",
+    "document_id": "AA013249",
+    "unique_document_id": "232296",
+    "upstream_status": "Valid",
+    "start_date": "2022-07-05",
+    "end_date": "2022-07-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-05-11",
+  "in_force_date": "2020-05-14",
   "url": "https://www.retsinformation.dk/eli/lta/2020/606/xml",
   "description": "Retsinformation source. DocumentId=DA000257; AccessionNumber=B20200060605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 117 af 21. februar 2018 om pulje til løft af fagligt svage elever i folkeskolen ophæves.",
-      "valid_from": "2020-05-11",
+      "valid_from": "2020-05-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. maj 2020.",
-      "valid_from": "2020-05-11",
+      "valid_from": "2020-05-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:35:58.486Z",
+    "accession": "B20200060605",
+    "document_id": "DA000257",
+    "unique_document_id": "214457",
+    "upstream_status": "Valid",
+    "start_date": "2020-05-14",
+    "end_date": "2020-05-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

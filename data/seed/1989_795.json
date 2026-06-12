@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om åben uddannelse",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-13",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/795/xml",
-  "description": "Retsinformation source. DocumentId=CM032977; AccessionNumber=B19890079505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032977; AccessionNumber=B19890079505; Ophævet 1993-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:56:35.895Z",
+    "accession": "B19890079505",
+    "document_id": "CM032977",
+    "unique_document_id": "73779",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1993-12-22",
+    "seed_status": "repealed"
+  }
 }

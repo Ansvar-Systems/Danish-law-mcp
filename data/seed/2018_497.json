@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om jordbrugets anvendelse af gødning og om plantedække og lov om husdyrbrug og anvendelse af gødning m.v. (Målrettet kvælstofregulering m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-22",
+  "in_force_date": "2018-05-22",
   "url": "https://www.retsinformation.dk/eli/lta/2018/497/xml",
-  "description": "Retsinformation source. DocumentId=CK001685; AccessionNumber=A20180049730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK001685; AccessionNumber=A20180049730; Ophævet 2019-05-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "24c",
@@ -20,8 +21,19 @@
       "section": "24c",
       "content": "§ 24 c. Miljø- og fødevareministeren kan yde nationalt tilskud til kvælstofreducerende virkemidler i særlige områder.",
       "valid_from": "2018-05-22",
-      "valid_to": null
+      "valid_to": "2019-05-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:08:07.890Z",
+    "accession": "A20180049730",
+    "document_id": "CK001685",
+    "unique_document_id": "201246",
+    "upstream_status": "Historic",
+    "start_date": "2018-05-22",
+    "end_date": "2022-04-08",
+    "historic_marked": "2019-05-03",
+    "seed_status": "repealed"
+  }
 }

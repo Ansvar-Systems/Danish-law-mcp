@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af sundhedsloven og lov om social service (Bemyndigelse til at indføre lavere medicintilskudsgrænser i 2023 m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-04-02",
+  "in_force_date": "2023-04-02",
   "url": "https://www.retsinformation.dk/eli/lta/2023/368/xml",
-  "description": "Retsinformation source. DocumentId=DI000822; AccessionNumber=A20230036830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000822; AccessionNumber=A20230036830; Ophævet 2023-08-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "41a",
@@ -25,15 +26,26 @@
       "section": "41a",
       "content": "§ 41 a. Ved kommunalbestyrelsens afgørelser efter § 41 ses der bort fra mindreudgifter i egenbetalingen til medicin som følge af udgiftsgrænsen efter regler fastsat i medfør af § 146, stk. 5, i sundhedsloven.",
       "valid_from": "2023-04-02",
-      "valid_to": null
+      "valid_to": "2023-08-16"
     },
     {
       "provision_ref": "100a",
       "section": "100a",
       "content": "§ 100 a. Ved kommunalbestyrelsens afgørelser efter § 100 ses der bort fra mindreudgifter i egenbetalingen til medicin som følge af udgiftsgrænsen efter regler fastsat i medfør af § 146, stk. 5, i sundhedsloven.",
       "valid_from": "2023-04-02",
-      "valid_to": null
+      "valid_to": "2023-08-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:44:22.187Z",
+    "accession": "A20230036830",
+    "document_id": "DI000822",
+    "unique_document_id": "235659",
+    "upstream_status": "Historic",
+    "start_date": "2023-04-02",
+    "end_date": "2023-11-09",
+    "historic_marked": "2023-08-16",
+    "seed_status": "repealed"
+  }
 }

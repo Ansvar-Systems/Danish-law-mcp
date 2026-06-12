@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om befordringsgodtgørelse efter sygesikringsloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-14",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1006/xml",
-  "description": "Retsinformation source. DocumentId=CM005300; AccessionNumber=B19950100605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005300; AccessionNumber=B19950100605; Ophævet 1996-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:18:43.183Z",
+    "accession": "B19950100605",
+    "document_id": "CM005300",
+    "unique_document_id": "46566",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1996-05-31",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2021-02-01",
+  "in_force_date": "2021-02-03",
   "url": "https://www.retsinformation.dk/eli/lta/2021/156/xml",
   "description": "Retsinformation source. DocumentId=DH000010; AccessionNumber=B20210015605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1a",
       "section": "1a",
       "content": "§ 1 a. Social- og ældreministerens beføjelser efter akt nr. 138 af 12. januar 2021 og akt. 149 af 28. januar 2021 til at fastsætte nærmere regler og træffe afgørelse om kompensation for faste omkostninger relateret til COVID-19 til foreninger, selvejende institutioner og fonde m.v., hvor offentlig tilskud til drift udgør halvdelen eller mere af institutionens ordinære driftsudgifter, herunder at fastsætte bestemmelser om kriterierne for at opnå kompensation, ansøgningsform, tidsfrister, betingelser for kompensation, dokumentation, modtagerkreds, udbetaling af kompensation, efterregulering og tilbagebetaling af kompensation, rentebetaling, regnskab, revision, rapportering, fremlæggelse af revisorerklæring og efterfølgende kontrol m.v., delegeres fra social- og ældreministeren til Socialstyrelsen.",
-      "valid_from": "2021-02-01",
+      "valid_from": "2021-02-03",
       "valid_to": null
     },
     {
       "provision_ref": "1b",
       "section": "1b",
       "content": "§ 1 b. Social- og ældreministerens beføjelser efter akt nr. 145 af 21. januar 2021 til at fastsætte nærmere regler og træffe afgørelse om lønkompensation relateret til COVID-19 til foreninger, selvejende institutioner og fonde m.v., hvor offentlig tilskud til drift udgør halvdelen eller mere af institutionens ordinære driftsudgifter, herunder at fastsætte bestemmelser om kriterierne for at opnå kompensation, ansøgningsform, tidsfrister, betingelser for kompensation, dokumentation, modtagerkreds, udbetaling af kompensation, efterregulering og tilbagebetaling af kompensation, rentebetaling, regnskab, revision, rapportering, fremlæggelse af revisorerklæring og efterfølgende kontrol m.v., delegeres fra social- og ældreministeren til Socialstyrelsen.",
-      "valid_from": "2021-02-01",
+      "valid_from": "2021-02-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:56.876Z",
+    "accession": "B20210015605",
+    "document_id": "DH000010",
+    "unique_document_id": "219718",
+    "upstream_status": "Valid",
+    "start_date": "2021-02-03",
+    "end_date": "2021-02-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

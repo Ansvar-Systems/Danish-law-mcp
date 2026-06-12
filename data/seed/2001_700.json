@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om det europæiske og det nordiske miljømærke",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-26",
+  "in_force_date": "2001-07-30",
   "url": "https://www.retsinformation.dk/eli/lta/2001/700/xml",
-  "description": "Retsinformation source. DocumentId=AL000717; AccessionNumber=B20010070005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000717; AccessionNumber=B20010070005; Ophævet 2008-04-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:10:32.831Z",
+    "accession": "B20010070005",
+    "document_id": "AL000717",
+    "unique_document_id": "12498",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2008-04-25",
+    "seed_status": "repealed"
+  }
 }

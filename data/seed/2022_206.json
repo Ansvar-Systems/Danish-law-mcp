@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-02-08",
+  "in_force_date": "2022-02-09",
   "url": "https://www.retsinformation.dk/eli/lta/2022/206/xml",
   "description": "Retsinformation source. DocumentId=DC000511; AccessionNumber=B20220020605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 5 af 7. januar 2022 om fund af højpatogen aviær influenza ved Stoholm i Viborg Kommune ophæves.",
-      "valid_from": "2022-02-08",
+      "valid_from": "2022-02-09",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 11. februar 2022.",
-      "valid_from": "2022-02-08",
+      "valid_from": "2022-02-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:29:38.865Z",
+    "accession": "B20220020605",
+    "document_id": "DC000511",
+    "unique_document_id": "229181",
+    "upstream_status": "Valid",
+    "start_date": "2022-02-09",
+    "end_date": "2022-02-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-03-20",
+  "in_force_date": "2025-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2025/292/xml",
   "description": "Retsinformation source. DocumentId=DH002442; AccessionNumber=B20250029205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Der betales et gebyr på 2.000 kr. for behandling af ansøgning om autorisation som psykolog. Stk. 2. Gebyret indbetales til Psykolognævnets sekretariat ved indgivelse af ansøgning om autorisation som psykolog.",
-      "valid_from": "2025-03-20",
+      "valid_from": "2025-03-21",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2025. Stk. 2. Bekendtgørelsen har virkning for ansøgninger om autorisation som psykolog, der er indgivet efter den 1. april 2025. Stk. 3. For ansøgninger om autorisation som psykolog indgivet før den 1. april 2025 opkræver Psykolognævnets sekretariat i forbindelse med meddelelse om autorisation gebyr i overensstemmelse med de hidtil gældende regler. Stk. 4. Bekendtgørelse nr. 790 af 17. juni 2017 for Færøerne om betaling af gebyr for behandling af ansøgning om autorisation som psykolog ophæves.",
-      "valid_from": "2025-03-20",
+      "valid_from": "2025-03-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:06:07.303Z",
+    "accession": "B20250029205",
+    "document_id": "DH002442",
+    "unique_document_id": "248777",
+    "upstream_status": "Valid",
+    "start_date": "2025-03-21",
+    "end_date": "2025-03-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-12-20",
+  "in_force_date": "2017-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1656/xml",
   "description": "Retsinformation source. DocumentId=AP000284; AccessionNumber=B20170165605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører Danmarks Meteorologiske Instituts teknologier, som anvendes til drift af Danmarks Meteorologiske Instituts administrative systemer, overføres fra energi-, forsynings- og klimaministeren til ministeren for offentlig innovation pr. 1. januar 2018.",
-      "valid_from": "2017-12-20",
+      "valid_from": "2017-12-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:03:09.729Z",
+    "accession": "B20170165605",
+    "document_id": "AP000284",
+    "unique_document_id": "196993",
+    "upstream_status": "Valid",
+    "start_date": "2017-12-23",
+    "end_date": "2017-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

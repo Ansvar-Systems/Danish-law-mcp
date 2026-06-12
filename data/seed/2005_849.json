@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Lektoratsordningen",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-09-09",
+  "in_force_date": "2005-09-19",
   "url": "https://www.retsinformation.dk/eli/lta/2005/849/xml",
-  "description": "Retsinformation source. DocumentId=BD000229; AccessionNumber=B20050084905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000229; AccessionNumber=B20050084905; Ophævet 2007-03-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:36:46.373Z",
+    "accession": "B20050084905",
+    "document_id": "BD000229",
+    "unique_document_id": "29241",
+    "upstream_status": "Historic",
+    "start_date": "2005-09-19",
+    "end_date": "2026-06-12",
+    "historic_marked": "2007-03-29",
+    "seed_status": "repealed"
+  }
 }

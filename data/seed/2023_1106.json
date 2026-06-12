@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-08-23",
+  "in_force_date": "2023-08-24",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1106/xml",
   "description": "Retsinformation source. DocumentId=DC001232; AccessionNumber=B20230110605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "2",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1390 af 12. december 2019 om bekæmpelse af Newcastle disease ophæves.",
-      "valid_from": "2023-08-23",
+      "valid_from": "2023-08-24",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. august 2023.",
-      "valid_from": "2023-08-23",
+      "valid_from": "2023-08-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:05:56.070Z",
+    "accession": "B20230110605",
+    "document_id": "DC001232",
+    "unique_document_id": "238759",
+    "upstream_status": "Valid",
+    "start_date": "2023-08-24",
+    "end_date": "2023-08-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

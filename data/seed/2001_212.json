@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Handelsflådens Velfærdsråd",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-28",
+  "in_force_date": "2001-03-28",
   "url": "https://www.retsinformation.dk/eli/lta/2001/212/xml",
-  "description": "Retsinformation source. DocumentId=AD000889; AccessionNumber=A20010021230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000889; AccessionNumber=A20010021230; Ophævet 2014-01-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:50:56.004Z",
+    "accession": "A20010021230",
+    "document_id": "AD000889",
+    "unique_document_id": "4906",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-28",
+    "end_date": "2022-12-31",
+    "historic_marked": "2014-01-24",
+    "seed_status": "repealed"
+  }
 }

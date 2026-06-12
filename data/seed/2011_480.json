@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2011-05-23",
+  "in_force_date": "2011-05-23",
   "url": "https://www.retsinformation.dk/eli/lta/2011/480/xml",
   "description": "Retsinformation source. DocumentId=AA006054; AccessionNumber=B20110048003; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -107,5 +108,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:08:57.798Z",
+    "accession": "B20110048003",
+    "document_id": "AA006054",
+    "unique_document_id": "137061",
+    "upstream_status": "Valid",
+    "start_date": "2011-05-23",
+    "end_date": "2011-06-22",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

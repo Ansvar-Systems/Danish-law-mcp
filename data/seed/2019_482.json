@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2019-04-25",
+  "in_force_date": "2019-04-30",
   "url": "https://www.retsinformation.dk/eli/lta/2019/482/xml",
   "description": "Retsinformation source. DocumentId=CN000979; AccessionNumber=B20190048205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17. Sundhedsstyrelsen kan dispensere fra uddannelsesbestemmelserne i kapitel 1. Stk. 2. Ansøgning om dispensation skal som udgangspunkt sendes via de regionale råd for lægers videreuddannelse.",
-      "valid_from": "2019-04-25",
+      "valid_from": "2019-04-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:07:32.055Z",
+    "accession": "B20190048205",
+    "document_id": "CN000979",
+    "unique_document_id": "209026",
+    "upstream_status": "Valid",
+    "start_date": "2019-04-30",
+    "end_date": "2024-09-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om postlister i Ministeriet for Sundhed og Forebyggelse og Søfartsstyrelsen",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-22",
+  "in_force_date": "2014-12-23",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1478/xml",
-  "description": "Retsinformation source. DocumentId=AA008529; AccessionNumber=B20140147805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA008529; AccessionNumber=B20140147805; Ophævet 2018-03-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Ministeriet for Sundhed og Forebyggelses departement samt Søfartsstyrelsen skal udfærdige en fortegnelse over dokumenter, der den pågældende dag er modtaget hos eller afsendt af myndigheden (postliste). Stk. 2. Fortegnelsen skal offentliggøres på myndighedernes hjemmeside og skal indeholde følgende oplysninger om de dokumenter, der medtages: 1) Dato for dokumentets modtagelse eller afsendelse. 2) Navnet på eller karakteren af modtageren eller afsenderen af dokumentet. 3) Kort, tematisk angivelse af dokumentets indhold. 4) Journalnummer eller anden identifikationsbetegnelse.",
-      "valid_from": "2014-12-22",
-      "valid_to": null
+      "valid_from": "2014-12-23",
+      "valid_to": "2018-03-23"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2015. Stk. 2. Bekendtgørelsen gælder for dokumenter, der er modtaget eller afsendt af myndighederne efter bekendtgørelsens ikrafttræden.",
-      "valid_from": "2014-12-22",
-      "valid_to": null
+      "valid_from": "2014-12-23",
+      "valid_to": "2018-03-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:19.412Z",
+    "accession": "B20140147805",
+    "document_id": "AA008529",
+    "unique_document_id": "167028",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-23",
+    "end_date": "2018-03-24",
+    "historic_marked": "2018-03-23",
+    "seed_status": "repealed"
+  }
 }

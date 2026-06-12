@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2022-09-26",
+  "in_force_date": "2022-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1364/xml",
   "description": "Retsinformation source. DocumentId=AA013322; AccessionNumber=B20220136405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 3 i lov nr. 697 af 24. maj 2022 om ændring af retsplejeloven, lov om Domstolsstyrelsen og lov om skifte af dødsboer (Antallet af højesteretsdommere, sammensætningen af Domstolsstyrelsens bestyrelse og digital anmeldelse til skifteretten af krav og tilgodehavender m.v. i sager om skifte af dødsbo) sættes i kraft.",
-      "valid_from": "2022-09-26",
+      "valid_from": "2022-09-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 4. oktober 2022.",
-      "valid_from": "2022-09-26",
+      "valid_from": "2022-09-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:16:11.106Z",
+    "accession": "B20220136405",
+    "document_id": "AA013322",
+    "unique_document_id": "233040",
+    "upstream_status": "Valid",
+    "start_date": "2022-09-30",
+    "end_date": "2022-10-01",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

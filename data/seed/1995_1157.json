@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om støtte til voksenuddannelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-12-20",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/1157/xml",
-  "description": "Retsinformation source. DocumentId=CM034038; AccessionNumber=A19950115729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034038; AccessionNumber=A19950115729; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:24:40.512Z",
+    "accession": "A19950115729",
+    "document_id": "CM034038",
+    "unique_document_id": "74833",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-01-14",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

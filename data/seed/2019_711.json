@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2019-07-02",
+  "in_force_date": "2019-07-09",
   "url": "https://www.retsinformation.dk/eli/lta/2019/711/xml",
   "description": "Retsinformation source. DocumentId=AN013891; AccessionNumber=B20190071105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 13, nr. 2-5, i lov nr. 1130 af 11. september 2018 om ændring af selskabsskatteloven og forskellige andre love (Beskatning af beløb vedrørende tilbagebetalte provisioner, EU-retlig tilpasning af reglerne vedrørende udenlandske pensionsinstitutters investeringer i fast ejendom og bestemmelser i momsloven om momsfritagelse for selvstændige grupper og justering af værnsregler, der sikrer beskatning af udbytter m.v.) sættes i kraft.",
-      "valid_from": "2019-07-02",
+      "valid_from": "2019-07-09",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2020.",
-      "valid_from": "2019-07-02",
+      "valid_from": "2019-07-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:16:49.658Z",
+    "accession": "B20190071105",
+    "document_id": "AN013891",
+    "unique_document_id": "209438",
+    "upstream_status": "Valid",
+    "start_date": "2019-07-09",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om taxikørsel m.v.\\n(Obligatorisk tv-overvågning i taxier)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-11",
+  "in_force_date": "2010-05-11",
   "url": "https://www.retsinformation.dk/eli/lta/2010/485/xml",
-  "description": "Retsinformation source. DocumentId=BL000333; AccessionNumber=A20100048530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000333; AccessionNumber=A20100048530; Ophævet 2013-02-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15",
@@ -20,8 +21,19 @@
       "section": "15",
       "content": "§ 15. Køretøjer, der anvendes til taxikørsel, skal være forsynet med indvendig tv-overvågning. Stk. 2. Kommunalbestyrelsen kan fritage indehavere af tilladelser til taxikørsel for pligten til at forsyne et køretøj med tv-overvågning, hvis køretøjet hovedsagelig anvendes til forudbestilt kørsel ifølge kontrakt.",
       "valid_from": "2010-05-11",
-      "valid_to": null
+      "valid_to": "2013-02-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:17:18.867Z",
+    "accession": "A20100048530",
+    "document_id": "BL000333",
+    "unique_document_id": "131627",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-11",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-02-05",
+    "seed_status": "repealed"
+  }
 }

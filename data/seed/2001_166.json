@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om elevers og studerendes undervisningsmiljø",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-14",
+  "in_force_date": "2001-03-14",
   "url": "https://www.retsinformation.dk/eli/lta/2001/166/xml",
-  "description": "Retsinformation source. DocumentId=AT000735; AccessionNumber=A20010016630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000735; AccessionNumber=A20010016630; Ophævet 2017-04-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:49:03.053Z",
+    "accession": "A20010016630",
+    "document_id": "AT000735",
+    "unique_document_id": "23705",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-14",
+    "end_date": "2021-01-08",
+    "historic_marked": "2017-04-05",
+    "seed_status": "repealed"
+  }
 }

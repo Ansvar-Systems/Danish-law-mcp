@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om almene boliger samt støttede private andelsboliger m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-02-21",
+  "in_force_date": "2005-03-03",
   "url": "https://www.retsinformation.dk/eli/lta/2005/106/xml",
-  "description": "Retsinformation source. DocumentId=AO002445; AccessionNumber=A20050010629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO002445; AccessionNumber=A20050010629; Ophævet 2005-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:51:18.419Z",
+    "accession": "A20050010629",
+    "document_id": "AO002445",
+    "unique_document_id": "20213",
+    "upstream_status": "Historic",
+    "start_date": "2005-03-03",
+    "end_date": "2023-04-28",
+    "historic_marked": "2005-06-30",
+    "seed_status": "repealed"
+  }
 }

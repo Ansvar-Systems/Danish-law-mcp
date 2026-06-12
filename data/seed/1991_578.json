@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om vægtafgift af motorkøretøjer m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-08-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/578/xml",
-  "description": "Retsinformation source. DocumentId=CM022043; AccessionNumber=A19910057829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022043; AccessionNumber=A19910057829; Ophævet 1992-11-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:53:15.774Z",
+    "accession": "A19910057829",
+    "document_id": "CM022043",
+    "unique_document_id": "63023",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-20",
+    "historic_marked": "1992-11-10",
+    "seed_status": "repealed"
+  }
 }

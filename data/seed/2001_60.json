@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om beskatning af visse pensionskapitaler m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-01-30",
+  "in_force_date": "2001-02-08",
   "url": "https://www.retsinformation.dk/eli/lta/2001/60/xml",
-  "description": "Retsinformation source. DocumentId=AN002144; AccessionNumber=A20010006029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002144; AccessionNumber=A20010006029; Ophævet 2002-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:06:29.617Z",
+    "accession": "A20010006029",
+    "document_id": "AN002144",
+    "unique_document_id": "14820",
+    "upstream_status": "Historic",
+    "start_date": "2001-02-08",
+    "end_date": "2005-12-06",
+    "historic_marked": "2002-08-19",
+    "seed_status": "repealed"
+  }
 }

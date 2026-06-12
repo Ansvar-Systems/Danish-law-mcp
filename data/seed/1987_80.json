@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om journalistuddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-02-18",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1987/80/xml",
-  "description": "Retsinformation source. DocumentId=CM032160; AccessionNumber=B19870008005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032160; AccessionNumber=B19870008005; Ophævet 1992-08-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:53:28.180Z",
+    "accession": "B19870008005",
+    "document_id": "CM032160",
+    "unique_document_id": "72963",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "1992-08-31",
+    "seed_status": "repealed"
+  }
 }

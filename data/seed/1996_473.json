@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Folketingets Ombudsmand",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-06-12",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/473/xml",
-  "description": "Retsinformation source. DocumentId=CM040900; AccessionNumber=A19960047330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040900; AccessionNumber=A19960047330; Ophævet 2013-04-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:26:12.944Z",
+    "accession": "A19960047330",
+    "document_id": "CM040900",
+    "unique_document_id": "81597",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2018-08-10",
+    "historic_marked": "2013-04-04",
+    "seed_status": "repealed"
+  }
 }

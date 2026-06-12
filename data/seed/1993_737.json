@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om chaufføruddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-09-10",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1993/737/xml",
-  "description": "Retsinformation source. DocumentId=CM032936; AccessionNumber=B19930073705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032936; AccessionNumber=B19930073705; Ophævet 1997-04-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:25:03.626Z",
+    "accession": "B19930073705",
+    "document_id": "CM032936",
+    "unique_document_id": "73738",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1997-04-01",
+    "seed_status": "repealed"
+  }
 }

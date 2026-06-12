@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sessionsmødealderen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1981-01-02",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1981/1/xml",
-  "description": "Retsinformation source. DocumentId=CM010740; AccessionNumber=B19810000105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010740; AccessionNumber=B19810000105; Ophævet 2003-09-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:06:31.060Z",
+    "accession": "B19810000105",
+    "document_id": "CM010740",
+    "unique_document_id": "51910",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2009-06-10",
+    "historic_marked": "2003-09-04",
+    "seed_status": "repealed"
+  }
 }

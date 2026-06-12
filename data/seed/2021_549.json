@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om opgørelse af beskæftigelseskrav og beregning af sygedagpenge m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-03-29",
+  "in_force_date": "2021-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2021/549/xml",
-  "description": "Retsinformation source. DocumentId=BE008850; AccessionNumber=B20210054905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008850; AccessionNumber=B20210054905; Ophævet 2021-06-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:43:16.647Z",
+    "accession": "B20210054905",
+    "document_id": "BE008850",
+    "unique_document_id": "221945",
+    "upstream_status": "Historic",
+    "start_date": "2021-03-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-06-02",
+    "seed_status": "repealed"
+  }
 }

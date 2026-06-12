@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om inkassovirksomhed",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/467/xml",
-  "description": "Retsinformation source. DocumentId=AA001497; AccessionNumber=A20010046730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001497; AccessionNumber=A20010046730; Ophævet 2014-09-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:01:10.304Z",
+    "accession": "A20010046730",
+    "document_id": "AA001497",
+    "unique_document_id": "1115",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2014-09-25",
+    "historic_marked": "2014-09-24",
+    "seed_status": "repealed"
+  }
 }

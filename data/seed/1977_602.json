@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om beskatning af dødsboer m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1977-12-09",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1977/602/xml",
-  "description": "Retsinformation source. DocumentId=CM020346; AccessionNumber=B19770060205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020346; AccessionNumber=B19770060205; Ophævet 1991-02-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:58:40.087Z",
+    "accession": "B19770060205",
+    "document_id": "CM020346",
+    "unique_document_id": "61377",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2005-12-01",
+    "historic_marked": "1991-02-25",
+    "seed_status": "repealed"
+  }
 }

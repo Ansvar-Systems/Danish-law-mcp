@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-12-18",
+  "in_force_date": "2025-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1715/xml",
   "description": "Retsinformation source. DocumentId=DC002062; AccessionNumber=B20250171505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -59,5 +60,16 @@
       "definition": "slagterier, der får udført kontrol omfattet af bekendtgørelse om betaling for kontrol af fødevarer, foder og levende dyr m",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:57:01.716Z",
+    "accession": "B20250171505",
+    "document_id": "DC002062",
+    "unique_document_id": "253881",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-18",
+    "end_date": "2025-12-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

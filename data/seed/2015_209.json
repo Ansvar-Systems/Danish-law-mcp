@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om pas m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-02-24",
+  "in_force_date": "2015-02-28",
   "url": "https://www.retsinformation.dk/eli/lta/2015/209/xml",
-  "description": "Retsinformation source. DocumentId=AA008743; AccessionNumber=B20150020905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA008743; AccessionNumber=B20150020905; Ophævet 2021-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "28",
@@ -19,9 +20,20 @@
       "provision_ref": "28",
       "section": "28",
       "content": "§ 28. Rigspolitiets afgørelser efter §§ 17 og 26 kan påklages til justitsministeren.",
-      "valid_from": "2015-02-24",
-      "valid_to": null
+      "valid_from": "2015-02-28",
+      "valid_to": "2021-12-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:01.395Z",
+    "accession": "B20150020905",
+    "document_id": "AA008743",
+    "unique_document_id": "168614",
+    "upstream_status": "Historic",
+    "start_date": "2015-02-28",
+    "end_date": "2021-12-31",
+    "historic_marked": "2021-12-30",
+    "seed_status": "repealed"
+  }
 }

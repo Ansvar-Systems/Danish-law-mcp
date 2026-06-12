@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2018-12-17",
+  "in_force_date": "2018-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1592/xml",
   "description": "Retsinformation source. DocumentId=CQ000707; AccessionNumber=B20180159205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "16a",
       "section": "16a",
       "content": "§ 16 a. Et penge- eller realkreditinstitut må ikke stille krav om erhvervelse af ejerandele i instituttet selv eller i et selskab, der er koncernforbundet med det pågældende institut som betingelse for at indgå en låneaftale.",
-      "valid_from": "2018-12-17",
+      "valid_from": "2018-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:46:26.946Z",
+    "accession": "B20180159205",
+    "document_id": "CQ000707",
+    "unique_document_id": "205003",
+    "upstream_status": "Valid",
+    "start_date": "2018-12-19",
+    "end_date": "2018-12-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

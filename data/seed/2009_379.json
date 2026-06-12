@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2009-05-18",
+  "in_force_date": "2009-05-21",
   "url": "https://www.retsinformation.dk/eli/lta/2009/379/xml",
   "description": "Retsinformation source. DocumentId=AP000224; AccessionNumber=B20090037905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver vedrørende lønadministration, herunder alle lønudbetalinger og korrektioner, opgaver forbundet med ferie og fravær, administrationen af løn- og uddannelsesrelaterede refusioner samt lønsupport, overføres pr. 1. juni 2009 fra skatteministeren til finansministeren.",
-      "valid_from": "2009-05-18",
+      "valid_from": "2009-05-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:09:32.399Z",
+    "accession": "B20090037905",
+    "document_id": "AP000224",
+    "unique_document_id": "124793",
+    "upstream_status": "Valid",
+    "start_date": "2009-05-21",
+    "end_date": "2009-05-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

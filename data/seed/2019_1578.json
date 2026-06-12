@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2019-12-27",
+  "in_force_date": "2019-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1578/xml",
   "description": "Retsinformation source. DocumentId=AN014214; AccessionNumber=A20190157830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,5 +30,16 @@
       "definition": "ejerskab eller rådighed over stemmerettigheder, således at der direkte eller indirekte ejes mere end 50 pct",
       "source_provision": "6D"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:51:42.787Z",
+    "accession": "A20190157830",
+    "document_id": "AN014214",
+    "unique_document_id": "212395",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

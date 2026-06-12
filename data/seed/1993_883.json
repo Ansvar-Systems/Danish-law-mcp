@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om visse miljøafgifter (* 3)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-11-17",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/883/xml",
-  "description": "Retsinformation source. DocumentId=CM022240; AccessionNumber=A19930088329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022240; AccessionNumber=A19930088329; Ophævet 1996-10-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:30:52.245Z",
+    "accession": "A19930088329",
+    "document_id": "CM022240",
+    "unique_document_id": "63220",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2016-01-22",
+    "historic_marked": "1996-10-11",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om landets inddeling i told- og skatteregioner og toldcentre",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-21",
+  "in_force_date": "2000-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2000/196/xml",
-  "description": "Retsinformation source. DocumentId=AN000867; AccessionNumber=B20000019605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000867; AccessionNumber=B20000019605; Ophævet 2001-11-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:09:36.013Z",
+    "accession": "B20000019605",
+    "document_id": "AN000867",
+    "unique_document_id": "13710",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-30",
+    "end_date": "2005-06-01",
+    "historic_marked": "2001-11-08",
+    "seed_status": "repealed"
+  }
 }

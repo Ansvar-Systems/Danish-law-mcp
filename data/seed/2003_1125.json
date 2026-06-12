@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Tjenestemandsrettens kompetence",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-15",
+  "in_force_date": "2003-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1125/xml",
-  "description": "Retsinformation source. DocumentId=AE000612; AccessionNumber=B20030112505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000612; AccessionNumber=B20030112505; Ophævet 2017-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:11:46.254Z",
+    "accession": "B20030112505",
+    "document_id": "AE000612",
+    "unique_document_id": "5495",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-22",
+    "end_date": "2023-10-14",
+    "historic_marked": "2017-07-05",
+    "seed_status": "repealed"
+  }
 }

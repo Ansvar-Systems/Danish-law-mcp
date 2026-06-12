@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om innovationsforeninger",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-05",
+  "in_force_date": "2003-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2003/981/xml",
-  "description": "Retsinformation source. DocumentId=AU001207; AccessionNumber=A20030098129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001207; AccessionNumber=A20030098129; Ophævet 2005-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:52:09.546Z",
+    "accession": "A20030098129",
+    "document_id": "AU001207",
+    "unique_document_id": "26370",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-15",
+    "end_date": "2017-12-08",
+    "historic_marked": "2005-12-21",
+    "seed_status": "repealed"
+  }
 }

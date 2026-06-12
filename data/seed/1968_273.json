@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om lastelinier for skibe",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1968-07-05",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1968/273/xml",
-  "description": "Retsinformation source. DocumentId=CM023529; AccessionNumber=B19680027305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023529; AccessionNumber=B19680027305; Ophævet 2002-05-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:15:34.898Z",
+    "accession": "B19680027305",
+    "document_id": "CM023529",
+    "unique_document_id": "64490",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-05-22",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-06-01",
+  "in_force_date": "2015-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2015/763/xml",
-  "description": "Retsinformation source. DocumentId=BP001308; AccessionNumber=B20150076305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001308; AccessionNumber=B20150076305; Ophævet 2016-11-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den danske frekvensplan fremgår af bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_from": "2015-06-04",
+      "valid_to": "2016-11-28"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juni 2015. Stk. 2. Bekendtgørelse nr. 497 af 20. maj 2014 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan) ophæves.",
-      "valid_from": "2015-06-01",
-      "valid_to": null
+      "valid_from": "2015-06-04",
+      "valid_to": "2016-11-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:22:20.256Z",
+    "accession": "B20150076305",
+    "document_id": "BP001308",
+    "unique_document_id": "170528",
+    "upstream_status": "Historic",
+    "start_date": "2015-06-04",
+    "end_date": "2026-06-04",
+    "historic_marked": "2016-11-28",
+    "seed_status": "repealed"
+  }
 }

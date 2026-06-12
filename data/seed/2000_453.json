@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven og fusionsskatteloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/453/xml",
-  "description": "Retsinformation source. DocumentId=AN001026; AccessionNumber=A20000045330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001026; AccessionNumber=A20000045330; Ophævet 2001-10-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:19:58.109Z",
+    "accession": "A20000045330",
+    "document_id": "AN001026",
+    "unique_document_id": "13820",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2002-12-05",
+    "historic_marked": "2001-10-15",
+    "seed_status": "repealed"
+  }
 }

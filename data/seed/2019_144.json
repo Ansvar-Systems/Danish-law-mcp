@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af lov om udstykning og anden registrering i matriklen, lov om Geodatastyrelsen, lov om tinglysning og forskellige andre love (Effektivisering af ejendomsregistrering og -forvaltning m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-02-17",
+  "in_force_date": "2019-02-18",
   "url": "https://www.retsinformation.dk/eli/lta/2019/144/xml",
-  "description": "Retsinformation source. DocumentId=CI000572; AccessionNumber=B20190014405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000572; AccessionNumber=B20190014405; Ophævet 2026-02-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 7, 11 og 14, og § 6 i lov nr. 80 af 24. januar 2017 om ændring af lov om udstykning og anden registrering i matriklen, lov om Geodatastyrelsen, lov om tinglysning og forskellige andre love (Effektivisering af ejendomsregistrering og -forvaltning m.v.) sættes i kraft.",
-      "valid_from": "2019-02-17",
-      "valid_to": null
+      "valid_from": "2019-02-18",
+      "valid_to": "2026-02-18"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 25. februar 2019.",
-      "valid_from": "2019-02-17",
-      "valid_to": null
+      "valid_from": "2019-02-18",
+      "valid_to": "2026-02-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:08.116Z",
+    "accession": "B20190014405",
+    "document_id": "CI000572",
+    "unique_document_id": "206651",
+    "upstream_status": "Historic",
+    "start_date": "2019-02-18",
+    "end_date": "2026-02-19",
+    "historic_marked": "2026-02-18",
+    "seed_status": "repealed"
+  }
 }

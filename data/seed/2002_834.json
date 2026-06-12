@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om IT- og Telestyrelsens gebyrer og afgifter i 2002",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-03",
+  "in_force_date": "2002-10-17",
   "url": "https://www.retsinformation.dk/eli/lta/2002/834/xml",
-  "description": "Retsinformation source. DocumentId=BD000049; AccessionNumber=B20020083405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000049; AccessionNumber=B20020083405; Ophævet 2003-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:00:12.231Z",
+    "accession": "B20020083405",
+    "document_id": "BD000049",
+    "unique_document_id": "29113",
+    "upstream_status": "Historic",
+    "start_date": "2002-10-17",
+    "end_date": "2026-06-04",
+    "historic_marked": "2003-12-22",
+    "seed_status": "repealed"
+  }
 }

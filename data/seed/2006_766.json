@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Nemkontoordningen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-07-05",
+  "in_force_date": "2006-07-13",
   "url": "https://www.retsinformation.dk/eli/lta/2006/766/xml",
-  "description": "Retsinformation source. DocumentId=AE001078; AccessionNumber=B20060076605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001078; AccessionNumber=B20060076605; Ophævet 2021-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:37:03.812Z",
+    "accession": "B20060076605",
+    "document_id": "AE001078",
+    "unique_document_id": "5913",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-13",
+    "end_date": "2026-06-04",
+    "historic_marked": "2021-04-14",
+    "seed_status": "repealed"
+  }
 }

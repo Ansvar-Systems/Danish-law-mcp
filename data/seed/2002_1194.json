@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om rådighed",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-18",
+  "in_force_date": "2002-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1194/xml",
-  "description": "Retsinformation source. DocumentId=BE000389; AccessionNumber=B20020119405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000389; AccessionNumber=B20020119405; Ophævet 2003-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:30:09.142Z",
+    "accession": "B20020119405",
+    "document_id": "BE000389",
+    "unique_document_id": "29606",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-18",
+    "end_date": "2007-02-27",
+    "historic_marked": "2003-06-26",
+    "seed_status": "repealed"
+  }
 }

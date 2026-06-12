@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Søloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-10-13",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/653/xml",
-  "description": "Retsinformation source. DocumentId=CM025327; AccessionNumber=A19890065329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025327; AccessionNumber=A19890065329; Ophævet 1994-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:50:55.202Z",
+    "accession": "A19890065329",
+    "document_id": "CM025327",
+    "unique_document_id": "66210",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-28",
+    "historic_marked": "1994-08-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om en aktiv beskæftigelsesindsats",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-28",
+  "in_force_date": "2013-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2013/857/xml",
-  "description": "Retsinformation source. DocumentId=BE005535; AccessionNumber=B20130085705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005535; AccessionNumber=B20130085705; Ophævet 2013-12-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9:81",
@@ -21,9 +22,20 @@
       "chapter": "9",
       "section": "81",
       "content": "§ 81 b. Personer, som er omfattet af lov om uddannelsesordning for ledige, som har opbrugt deres dagpengeret, er omfattet af bestemmelserne om ansættelse med løntilskud i kapitel 9 i bekendtgørelse om en aktiv beskæftigelsesindsats efter de regler, der gælder for personer, der er omfattet af bekendtgørelsens § 1, nr. 2. Stk. 2. Personer, som er omfattet af lov om uddannelsesordning for ledige, som har opbrugt deres dagpengeret, kan uanset bestemmelsen i bekendtgørelsens § 56, stk. 2, få tilbud om ansættelse med løntilskud i den virksomhed, hvor personen umiddelbart før dagpengeperiodens udløb har været ansat med løntilskud efter lov om en aktiv beskæftigelsesindsats. Ansættelse med løntilskud hos samme arbejdsgiver kan højst vare i sammenlagt 1 år. Stk. 3. Til brug for den offentlige arbejdsgivers fastsættelse af arbejdstiden underretter jobcenteret arbejdsgiveren om personens ydelse efter § 9 i lov om uddannelsesordning for ledige, som har opbrugt deres dagpengeret.",
-      "valid_from": "2013-06-28",
-      "valid_to": null
+      "valid_from": "2013-06-29",
+      "valid_to": "2013-12-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:21:18.326Z",
+    "accession": "B20130085705",
+    "document_id": "BE005535",
+    "unique_document_id": "152560",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-12-27",
+    "seed_status": "repealed"
+  }
 }

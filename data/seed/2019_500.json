@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om anvendelse af Danmarks undergrund (Stop for tilladelse til efterforskning og indvinding af kulbrinter på land og i de indre danske farvande, subsidiært økonomisk ansvar, rettighedshaveres indsendelse af oplysninger, præcisering af dækningsområde m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-05-01",
+  "in_force_date": "2019-05-01",
   "url": "https://www.retsinformation.dk/eli/lta/2019/500/xml",
-  "description": "Retsinformation source. DocumentId=CI000602; AccessionNumber=A20190050030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000602; AccessionNumber=A20190050030; Ophævet 2019-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:08:17.872Z",
+    "accession": "A20190050030",
+    "document_id": "CI000602",
+    "unique_document_id": "208589",
+    "upstream_status": "Historic",
+    "start_date": "2019-05-01",
+    "end_date": "2022-11-12",
+    "historic_marked": "2019-12-20",
+    "seed_status": "repealed"
+  }
 }

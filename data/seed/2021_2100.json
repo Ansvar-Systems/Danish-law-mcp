@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-11-22",
+  "in_force_date": "2021-11-25",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2100/xml",
   "description": "Retsinformation source. DocumentId=AP000333; AccessionNumber=B20210210005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver under den fælles statslige facility managementløsning, herunder opgaver vedrørende kantine og mødeforplejning, renhold, intern service, indvendigt vedligehold, vagt, sikkerhed, udendørsarealer og affaldshåndtering samt facility managementledelse i form af indkøb, udbud, leverandør- og kontraktstyring, der vedrører Styrelsen for Forsyningssikkerhed, overføres fra justitsministeren til transportministeren pr. 18. november 2021.",
-      "valid_from": "2021-11-22",
+      "valid_from": "2021-11-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:06:43.905Z",
+    "accession": "B20210210005",
+    "document_id": "AP000333",
+    "unique_document_id": "226293",
+    "upstream_status": "Valid",
+    "start_date": "2021-11-25",
+    "end_date": "2021-11-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

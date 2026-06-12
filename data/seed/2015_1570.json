@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Ligebehandlingsnævnet (Indførelse af krav om retlig interesse, formandsafgørelser samt mulighed for, at Institut for Menneskerettigheder – Danmarks Nationale Menneskerettighedsinstitution kan indbringe visse sager for Ligebehandlingsnævnet m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-15",
+  "in_force_date": "2015-12-15",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1570/xml",
-  "description": "Retsinformation source. DocumentId=BE006614; AccessionNumber=A20150157030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006614; AccessionNumber=A20150157030; Ophævet 2016-10-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "12",
@@ -20,8 +21,19 @@
       "section": "12",
       "content": "§ 12. Når nævnet har truffet afgørelse i en sag, orienterer sekretariatet parterne om afgørelsen og om muligheden for at indbringe sagen for domstolene.",
       "valid_from": "2015-12-15",
-      "valid_to": null
+      "valid_to": "2016-10-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:45:26.897Z",
+    "accession": "A20150157030",
+    "document_id": "BE006614",
+    "unique_document_id": "176316",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-15",
+    "end_date": "2026-06-12",
+    "historic_marked": "2016-10-05",
+    "seed_status": "repealed"
+  }
 }

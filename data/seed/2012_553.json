@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK01",
   "status": "in_force",
   "issued_date": "2012-06-18",
+  "in_force_date": "2012-06-18",
   "url": "https://www.retsinformation.dk/eli/lta/2012/553/xml",
   "description": "Retsinformation source. DocumentId=AS001343; AccessionNumber=A20120055330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -221,5 +222,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:05:11.487Z",
+    "accession": "A20120055330",
+    "document_id": "AS001343",
+    "unique_document_id": "142116",
+    "upstream_status": "Valid",
+    "start_date": "2012-06-18",
+    "end_date": "2024-12-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

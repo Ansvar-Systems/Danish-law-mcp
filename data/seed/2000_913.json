@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ungdomsskolens virksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-10-03",
+  "in_force_date": "2000-10-12",
   "url": "https://www.retsinformation.dk/eli/lta/2000/913/xml",
-  "description": "Retsinformation source. DocumentId=AT000437; AccessionNumber=B20000091305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000437; AccessionNumber=B20000091305; Ophævet 2015-11-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:38:32.035Z",
+    "accession": "B20000091305",
+    "document_id": "AT000437",
+    "unique_document_id": "23472",
+    "upstream_status": "Historic",
+    "start_date": "2000-10-12",
+    "end_date": "2021-01-08",
+    "historic_marked": "2015-11-23",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om danskuddannelse til voksne udlændinge m.fl.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-05-28",
+  "in_force_date": "2003-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2003/375/xml",
-  "description": "Retsinformation source. DocumentId=BC000141; AccessionNumber=A20030037530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000141; AccessionNumber=A20030037530; Ophævet 2006-04-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:27:41.957Z",
+    "accession": "A20030037530",
+    "document_id": "BC000141",
+    "unique_document_id": "28939",
+    "upstream_status": "Historic",
+    "start_date": "2003-05-29",
+    "end_date": "2017-12-12",
+    "historic_marked": "2006-04-06",
+    "seed_status": "repealed"
+  }
 }

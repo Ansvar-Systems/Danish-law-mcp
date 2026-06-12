@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2023-03-28",
+  "in_force_date": "2023-03-30",
   "url": "https://www.retsinformation.dk/eli/lta/2023/358/xml",
   "description": "Retsinformation source. DocumentId=BE009511; AccessionNumber=B20230035805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "16",
       "section": "16",
       "content": "§ 16. Personer, der udfører arbejde med epoxy, skal have gennemgået en uddannelse og være i besiddelse af et uddannelsesbevis. Det fremgår af bilag 10, hvilke kvalifikationer man skal være i besiddelse af, før der kan udstedes et uddannelsesbevis. Stk. 2. Personer, der udfører eller overvåger arbejde med isocyanater, skal have gennemgået en uddannelse og være i besiddelse af et uddannelsesbevis. Det fremgår af bilag 10, hvilke kvalifikationer man skal være i besiddelse af, før der kan udstedes et uddannelsesbevis. Stk. 3. Uddannelse efter stk. 2 skal fornyes mindst hvert femte år. Stk. 4. Stk. 1 og 2 gælder ikke ved fremstilling af epoxy og isocyanater.",
-      "valid_from": "2023-03-28",
+      "valid_from": "2023-03-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:43:58.399Z",
+    "accession": "B20230035805",
+    "document_id": "BE009511",
+    "unique_document_id": "235618",
+    "upstream_status": "Valid",
+    "start_date": "2023-03-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-05-02",
+  "in_force_date": "2014-05-06",
   "url": "https://www.retsinformation.dk/eli/lta/2014/438/xml",
   "description": "Retsinformation source. DocumentId=AH005218; AccessionNumber=B20140043805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1211 af 11. december 2009 om betaling for kontrol med autoriserede laboratorier ophæves.",
-      "valid_from": "2014-05-02",
+      "valid_from": "2014-05-06",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2015.",
-      "valid_from": "2014-05-02",
+      "valid_from": "2014-05-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:02:40.767Z",
+    "accession": "B20140043805",
+    "document_id": "AH005218",
+    "unique_document_id": "162986",
+    "upstream_status": "Valid",
+    "start_date": "2014-05-06",
+    "end_date": "2024-01-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

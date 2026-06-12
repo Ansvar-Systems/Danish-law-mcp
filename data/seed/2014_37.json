@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af den fortegnelse over valgdistrikterne, der indeholdes i lov om folketingsvalg på Færøerne",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-01-09",
+  "in_force_date": "2014-01-18",
   "url": "https://www.retsinformation.dk/eli/lta/2014/37/xml",
-  "description": "Retsinformation source. DocumentId=BX000255; AccessionNumber=B20140003705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BX000255; AccessionNumber=B20140003705; Ophævet 2019-01-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. I Vågø Syssel nedlægges valgstederne Bø og Gåsedal, således at bygderne Bøur (Bø) og Gásadalur (Gåsedal) henføres til valgstedet Sørvåg. Fortegnelsen over valgdistrikterne i Vågø Syssel er herefter som vist i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2014-01-09",
-      "valid_to": null
+      "valid_from": "2014-01-18",
+      "valid_to": "2019-01-10"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2014.",
-      "valid_from": "2014-01-09",
-      "valid_to": null
+      "valid_from": "2014-01-18",
+      "valid_to": "2019-01-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:59:55.700Z",
+    "accession": "B20140003705",
+    "document_id": "BX000255",
+    "unique_document_id": "161372",
+    "upstream_status": "Historic",
+    "start_date": "2014-01-18",
+    "end_date": "2023-04-29",
+    "historic_marked": "2019-01-10",
+    "seed_status": "repealed"
+  }
 }

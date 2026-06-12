@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2010-12-03",
+  "in_force_date": "2010-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1455/xml",
   "description": "Retsinformation source. DocumentId=BC000660; AccessionNumber=B20100145505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For udlændinge, som modtager støtte efter repatrieringsloven, gælder følgende med virkning for beløb, der udbetales i perioden fra den 1. januar 2011 til den 31. december 2011: 1) Det i § 7, stk. 2, nr. 3, nævnte beløb udgør 13.872 kr. 2) De i § 7, stk. 2, nr. 4, nævnte beløb udgør henholdsvis 119.815 kr. og 36.541 kr. 3) De i § 7, stk. 2, nr. 5, nævnte beløb udgør henholdsvis 13.872 kr. og 17.915 kr. 4) Det i § 7, stk. 2, nr. 8, nævnte beløb udgør 5.854 kr. 5) De i § 7, stk. 3, nævnte beløb udgør henholdsvis 17.915 kr. og 5.971 kr. 6) Det i § 7, stk. 4, nævnte beløb udgør 5.971 kr.",
-      "valid_from": "2010-12-03",
+      "valid_from": "2010-12-18",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. For udlændinge, som modtager støtte efter Kosovonødloven, gælder følgende med virkning for beløb, der udbetales i perioden 1. januar 2011 til 31. december 2011: 1) Det i § 15, stk. 2, nr. 3, nævnte beløb udgør 13.872 kr. 2) De i § 15, stk. 2, nr. 4, nævnte beløb udgør henholdsvis 24.971 kr. og 8.322 kr. 3) Det i § 15, stk. 2, nr. 5, nævnte beløb udgør 13.872 kr. 4) Det i § 17, stk. 2, nr. 3, nævnte beløb udgør 6.934 kr.",
-      "valid_from": "2010-12-03",
+      "valid_from": "2010-12-18",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2011.",
-      "valid_from": "2010-12-03",
+      "valid_from": "2010-12-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:53:26.799Z",
+    "accession": "B20100145505",
+    "document_id": "BC000660",
+    "unique_document_id": "134666",
+    "upstream_status": "Valid",
+    "start_date": "2010-12-18",
+    "end_date": "2024-09-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

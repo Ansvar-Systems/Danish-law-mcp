@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om miljøvenligt design af energirelaterede produkter, lov om energimærkning af energirelaterede produkter, lov om fremme af energibesparelser i bygninger, lov om fjernkøling og lov om fremme af besparelser i energiforbruget (Skærpet håndhævelse af dokumentationskrav til ecodesign og energimærkning af energirelaterede produkter, justering af forpligtelsen til at lade udarbejde energimærkning for bygninger med ejerlejligheder, lettelse af vilkårene for godkendelse som bedre bolig-rådgiver og faktureringsoplysninger til fjernkølingskunder m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-12-29",
+  "in_force_date": "2015-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1876/xml",
-  "description": "Retsinformation source. DocumentId=CI000085; AccessionNumber=A20150187630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000085; AccessionNumber=A20150187630; Ophævet 2019-11-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "6a",
@@ -20,8 +21,19 @@
       "section": "6a",
       "content": "§ 6 a. Energi-, forsynings- og klimaministeren kan fastsætte regler om fakturering og faktureringsoplysninger til fjernkølingskunder og om disse kunders adgang til forbrugsoplysninger.",
       "valid_from": "2015-12-29",
-      "valid_to": null
+      "valid_to": "2019-11-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:57:44.736Z",
+    "accession": "A20150187630",
+    "document_id": "CI000085",
+    "unique_document_id": "176803",
+    "upstream_status": "Historic",
+    "start_date": "2015-12-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2019-11-04",
+    "seed_status": "repealed"
+  }
 }

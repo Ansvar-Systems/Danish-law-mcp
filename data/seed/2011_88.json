@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om mælkeprodukter m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-02-07",
+  "in_force_date": "2011-02-09",
   "url": "https://www.retsinformation.dk/eli/lta/2011/88/xml",
-  "description": "Retsinformation source. DocumentId=AH004139; AccessionNumber=B20110008805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004139; AccessionNumber=B20110008805; Ophævet 2013-01-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:25:04.415Z",
+    "accession": "B20110008805",
+    "document_id": "AH004139",
+    "unique_document_id": "135677",
+    "upstream_status": "Historic",
+    "start_date": "2011-02-09",
+    "end_date": "2022-04-09",
+    "historic_marked": "2013-01-08",
+    "seed_status": "repealed"
+  }
 }

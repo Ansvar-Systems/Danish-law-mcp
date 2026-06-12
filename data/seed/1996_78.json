@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af lov om Post Danmark",
   "short_name": "Ikrafttræd. bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-02-16",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/78/xml",
-  "description": "Retsinformation source. DocumentId=CM008590; AccessionNumber=B19960007805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008590; AccessionNumber=B19960007805; Ophævet 2002-06-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:38:40.656Z",
+    "accession": "B19960007805",
+    "document_id": "CM008590",
+    "unique_document_id": "49777",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2002-06-06",
+    "seed_status": "repealed"
+  }
 }

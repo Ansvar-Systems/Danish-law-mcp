@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om erhvervsuddannelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-06-30",
+  "in_force_date": "2021-07-02",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1537/xml",
-  "description": "Retsinformation source. DocumentId=DA000595; AccessionNumber=B20210153705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000595; AccessionNumber=B20210153705; Ophævet 2021-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "53",
@@ -19,9 +20,20 @@
       "provision_ref": "53",
       "section": "53",
       "content": "§ 53. Den lokale undervisningsplan udgør skolens lokale dokumentation for undervisningen og skal som minimum indeholde en overordnet beskrivelse af følgende: 1) Læringsmål for undervisningen. Beskrivelsen kan består i henvisning til fagmål eller kompetencemål, som kan være uddybet ved lokal fastlagte mål. 2) Indholdet i undervisningen, herunder det planlagte faglige indhold, og hvordan undervisningen planlægges helhedsorienteret, differentieret, tværfagligt og praksisrelateret. 3) Evaluering og bedømmelse, herunder rammer for den løbende evaluering samt bedømmelsesgrundlag og bedømmelseskriterier for den afsluttende bedømmelse af fagene. Stk. 2. Den lokale undervisningsplan skal ved ændringer indeholde en overgangsordning.",
-      "valid_from": "2021-06-30",
-      "valid_to": null
+      "valid_from": "2021-07-02",
+      "valid_to": "2021-12-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:44:02.496Z",
+    "accession": "B20210153705",
+    "document_id": "DA000595",
+    "unique_document_id": "224295",
+    "upstream_status": "Historic",
+    "start_date": "2021-07-02",
+    "end_date": "2021-12-21",
+    "historic_marked": "2021-12-20",
+    "seed_status": "repealed"
+  }
 }

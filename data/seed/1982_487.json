@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om skattemæssige afskrivninger m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1982-09-01",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1982/487/xml",
-  "description": "Retsinformation source. DocumentId=CM021983; AccessionNumber=A19820048729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM021983; AccessionNumber=A19820048729; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:20:05.193Z",
+    "accession": "A19820048729",
+    "document_id": "CM021983",
+    "unique_document_id": "62963",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-18",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til demonstrationsprojekter om bevaring og bæredygtig udnyttelse af plantegenetiske ressourcer for jordbrug og fødevarer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-08-03",
+  "in_force_date": "2011-08-05",
   "url": "https://www.retsinformation.dk/eli/lta/2011/876/xml",
-  "description": "Retsinformation source. DocumentId=AH004326; AccessionNumber=B20110087605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004326; AccessionNumber=B20110087605; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Uanset § 4 kan der fra den 15. august 2011 ikke indgives ansøgning om tilskud.",
-      "valid_from": "2011-08-03",
-      "valid_to": null
+      "valid_from": "2011-08-05",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:24:55.657Z",
+    "accession": "B20110087605",
+    "document_id": "AH004326",
+    "unique_document_id": "138238",
+    "upstream_status": "Historic",
+    "start_date": "2011-08-05",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

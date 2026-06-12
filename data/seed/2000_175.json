@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fortegnelse over erhvervssygdomme",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-14",
+  "in_force_date": "2000-03-23",
   "url": "https://www.retsinformation.dk/eli/lta/2000/175/xml",
-  "description": "Retsinformation source. DocumentId=AO000675; AccessionNumber=B20000017505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000675; AccessionNumber=B20000017505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:08:46.053Z",
+    "accession": "B20000017505",
+    "document_id": "AO000675",
+    "unique_document_id": "18855",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-23",
+    "end_date": "2010-07-01",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

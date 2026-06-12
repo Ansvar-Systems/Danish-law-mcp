@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse af listen over farlige stoffer",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-01-09",
+  "in_force_date": "1999-01-21",
   "url": "https://www.retsinformation.dk/eli/lta/1999/11/xml",
-  "description": "Retsinformation source. DocumentId=AL000037; AccessionNumber=B19990001105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000037; AccessionNumber=B19990001105; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:11:35.102Z",
+    "accession": "B19990001105",
+    "document_id": "AL000037",
+    "unique_document_id": "12096",
+    "upstream_status": "Historic",
+    "start_date": "1999-01-21",
+    "end_date": "2022-04-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

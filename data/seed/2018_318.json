@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af udlændingeloven (Indkvartering og forsørgelse af flygtninge og asylansøgere, advisering af kommunerne om visse afgørelser i klagesager og ændring af beregningen af varigheden af et indrejseforbud m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-04-25",
+  "in_force_date": "2018-04-25",
   "url": "https://www.retsinformation.dk/eli/lta/2018/318/xml",
-  "description": "Retsinformation source. DocumentId=CS000403; AccessionNumber=A20180031830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CS000403; AccessionNumber=A20180031830; Ophævet 2019-03-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:56.739Z",
+    "accession": "A20180031830",
+    "document_id": "CS000403",
+    "unique_document_id": "200755",
+    "upstream_status": "Historic",
+    "start_date": "2018-04-25",
+    "end_date": "2020-07-15",
+    "historic_marked": "2019-03-15",
+    "seed_status": "repealed"
+  }
 }

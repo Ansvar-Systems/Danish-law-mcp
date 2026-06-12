@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om videregivelse af oplysninger fra Psykolognævnet og dets sekretariat til Styrelsen for Patientsikkerhed",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-12-08",
+  "in_force_date": "2025-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1661/xml",
-  "description": "Retsinformation source. DocumentId=DI001712; AccessionNumber=B20250166105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI001712; AccessionNumber=B20250166105; Ophævet 2026-01-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Psykolognævnet og dets sekretariat, Ankestyrelsen, videregiver oplysninger til Styrelsen for Patientsikkerhed i henhold til § 18, stk. 1, i lov om psykologer m.v., i det omfang, der er anført i bekendtgørelsens bilag 1.",
-      "valid_from": "2025-12-08",
-      "valid_to": null
+      "valid_from": "2025-12-16",
+      "valid_to": "2026-01-20"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 18. december 2025.",
-      "valid_from": "2025-12-08",
-      "valid_to": null
+      "valid_from": "2025-12-16",
+      "valid_to": "2026-01-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:54:05.627Z",
+    "accession": "B20250166105",
+    "document_id": "DI001712",
+    "unique_document_id": "254252",
+    "upstream_status": "Historic",
+    "start_date": "2025-12-16",
+    "end_date": "2026-01-21",
+    "historic_marked": "2026-01-20",
+    "seed_status": "repealed"
+  }
 }

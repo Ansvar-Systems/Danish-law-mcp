@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Konkurrenceankenævnet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-06-15",
+  "in_force_date": "2005-06-23",
   "url": "https://www.retsinformation.dk/eli/lta/2005/481/xml",
-  "description": "Retsinformation source. DocumentId=AU002137; AccessionNumber=B20050048105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002137; AccessionNumber=B20050048105; Ophævet 2013-02-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:21:58.018Z",
+    "accession": "B20050048105",
+    "document_id": "AU002137",
+    "unique_document_id": "27013",
+    "upstream_status": "Historic",
+    "start_date": "2005-06-23",
+    "end_date": "2017-12-08",
+    "historic_marked": "2013-02-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilsætninger mv. til fødevarer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-05-25",
+  "in_force_date": "2010-05-27",
   "url": "https://www.retsinformation.dk/eli/lta/2010/556/xml",
-  "description": "Retsinformation source. DocumentId=AH003875; AccessionNumber=B20100055605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003875; AccessionNumber=B20100055605; Ophævet 2010-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "21a",
@@ -19,9 +20,20 @@
       "provision_ref": "21a",
       "section": "21a",
       "content": "§ 21a. Med bøde kan straffes den, der overtræder de i Europa-Parlamentets og Rådets forordning (EF) nr. 1333/2008 af 16. december 2008 om fødevaretilsætningsstoffer fastsatte bestemmelser. Stk. 2. Straffen kan stige til fængsel i indtil 2 år, hvis overtrædelsen er begået med forsæt eller ved grov uagtsomhed, og hvis der ved overtrædelsen er 1) forvoldt skade på sundheden eller fremkaldt fare derfor eller 2) opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre, herunder ved besparelser. Stk. 3. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2010-05-25",
-      "valid_to": null
+      "valid_from": "2010-05-27",
+      "valid_to": "2010-12-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:20:12.442Z",
+    "accession": "B20100055605",
+    "document_id": "AH003875",
+    "unique_document_id": "132021",
+    "upstream_status": "Historic",
+    "start_date": "2010-05-27",
+    "end_date": "2023-11-08",
+    "historic_marked": "2010-12-20",
+    "seed_status": "repealed"
+  }
 }

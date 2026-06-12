@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om jernbanevirksomhed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-16",
+  "in_force_date": "1998-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/1998/920/xml",
-  "description": "Retsinformation source. DocumentId=AR000072; AccessionNumber=B19980092005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000072; AccessionNumber=B19980092005; Ophævet 2006-10-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:04:24.172Z",
+    "accession": "B19980092005",
+    "document_id": "AR000072",
+    "unique_document_id": "21784",
+    "upstream_status": "Historic",
+    "start_date": "1998-12-17",
+    "end_date": "2022-07-07",
+    "historic_marked": "2006-10-02",
+    "seed_status": "repealed"
+  }
 }

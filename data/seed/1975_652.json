@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om visse tjenestemandsretlige og pensionsmæssige forhold mv. i forbindelse med gennemførelsen af lov nr. 333 af 19. juni 1974 om social bistand",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1975-12-19",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1975/652/xml",
-  "description": "Retsinformation source. DocumentId=CM016063; AccessionNumber=A19750065230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016063; AccessionNumber=A19750065230; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:46:53.792Z",
+    "accession": "A19750065230",
+    "document_id": "CM016063",
+    "unique_document_id": "57139",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2024-09-13",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

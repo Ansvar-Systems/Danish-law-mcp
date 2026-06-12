@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kommunalt takstbeløb i 1996",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-08-11",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/681/xml",
-  "description": "Retsinformation source. DocumentId=CM032872; AccessionNumber=B19950068105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032872; AccessionNumber=B19950068105; Ophævet 1996-08-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:48:23.755Z",
+    "accession": "B19950068105",
+    "document_id": "CM032872",
+    "unique_document_id": "73674",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1996-08-28",
+    "seed_status": "repealed"
+  }
 }

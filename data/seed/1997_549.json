@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om registrering, garantistillelse m.v. i Rejsegarantifonden",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-06-23",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1997/549/xml",
-  "description": "Retsinformation source. DocumentId=CM044882; AccessionNumber=B19970054905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044882; AccessionNumber=B19970054905; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:10:21.779Z",
+    "accession": "B19970054905",
+    "document_id": "CM044882",
+    "unique_document_id": "85241",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af strandingsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-09-15",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/619/xml",
-  "description": "Retsinformation source. DocumentId=CM018192; AccessionNumber=A19860061929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018192; AccessionNumber=A19860061929; Ophævet 2021-08-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:15:28.495Z",
+    "accession": "A19860061929",
+    "document_id": "CM018192",
+    "unique_document_id": "59240",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-02-20",
+    "historic_marked": "2021-08-23",
+    "seed_status": "repealed"
+  }
 }

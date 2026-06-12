@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af fortegnelse over lægemidler, der er tilskudsberettigede efter sygesikringsloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-12-10",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1990/823/xml",
-  "description": "Retsinformation source. DocumentId=CM005224; AccessionNumber=B19900082305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005224; AccessionNumber=B19900082305; Ophævet 1992-01-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:30:59.442Z",
+    "accession": "B19900082305",
+    "document_id": "CM005224",
+    "unique_document_id": "46501",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1992-01-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-12-01",
+  "in_force_date": "2021-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2235/xml",
-  "description": "Retsinformation source. DocumentId=DB000410; AccessionNumber=B20210223505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000410; AccessionNumber=B20210223505; Ophævet 2022-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. Den danske frekvensplan fremgår af bilag 1 til denne bekendtgørelse.",
       "valid_from": "2021-12-01",
-      "valid_to": null
+      "valid_to": "2022-05-31"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2022. Stk. 2. Bekendtgørelse nr. 1019 af 26. maj 2021 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan) ophæves.",
       "valid_from": "2021-12-01",
-      "valid_to": null
+      "valid_to": "2022-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:07.795Z",
+    "accession": "B20210223505",
+    "document_id": "DB000410",
+    "unique_document_id": "226149",
+    "upstream_status": "Historic",
+    "start_date": "2021-12-01",
+    "end_date": "2026-06-04",
+    "historic_marked": "2022-05-31",
+    "seed_status": "repealed"
+  }
 }

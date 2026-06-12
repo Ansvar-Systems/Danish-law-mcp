@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anvendelse af lods",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-11-18",
+  "in_force_date": "2006-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1141/xml",
-  "description": "Retsinformation source. DocumentId=AG000309; AccessionNumber=B20060114105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000309; AccessionNumber=B20060114105; Ophævet 2007-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:48:32.842Z",
+    "accession": "B20060114105",
+    "document_id": "AG000309",
+    "unique_document_id": "6477",
+    "upstream_status": "Historic",
+    "start_date": "2006-11-30",
+    "end_date": "2026-02-20",
+    "historic_marked": "2007-05-31",
+    "seed_status": "repealed"
+  }
 }

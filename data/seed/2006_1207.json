@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om beregning og udbetaling af begravelseshjælp efter sundhedsloven",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-11-28",
+  "in_force_date": "2006-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1207/xml",
-  "description": "Retsinformation source. DocumentId=AI002801; AccessionNumber=B20060120705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI002801; AccessionNumber=B20060120705; Ophævet 2015-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:51:10.843Z",
+    "accession": "B20060120705",
+    "document_id": "AI002801",
+    "unique_document_id": "10817",
+    "upstream_status": "Historic",
+    "start_date": "2006-12-11",
+    "end_date": "2022-07-12",
+    "historic_marked": "2015-04-29",
+    "seed_status": "repealed"
+  }
 }

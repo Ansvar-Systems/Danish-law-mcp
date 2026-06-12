@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om sikkerhed til søs",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-07-12",
+  "in_force_date": "2007-07-19",
   "url": "https://www.retsinformation.dk/eli/lta/2007/903/xml",
-  "description": "Retsinformation source. DocumentId=AU002623; AccessionNumber=A20070090329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002623; AccessionNumber=A20070090329; Ophævet 2010-06-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:40:56.061Z",
+    "accession": "A20070090329",
+    "document_id": "AU002623",
+    "unique_document_id": "27389",
+    "upstream_status": "Historic",
+    "start_date": "2007-07-19",
+    "end_date": "2023-11-08",
+    "historic_marked": "2010-06-15",
+    "seed_status": "repealed"
+  }
 }

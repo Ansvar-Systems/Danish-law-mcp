@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om midlertidig ophævelse af sagsbehandlingsfrister på arkivlovens område",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-05-25",
+  "in_force_date": "2020-05-27",
   "url": "https://www.retsinformation.dk/eli/lta/2020/683/xml",
-  "description": "Retsinformation source. DocumentId=AK001541; AccessionNumber=B20200068305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK001541; AccessionNumber=B20200068305; Ophævet 2020-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:39:02.441Z",
+    "accession": "B20200068305",
+    "document_id": "AK001541",
+    "unique_document_id": "214684",
+    "upstream_status": "Historic",
+    "start_date": "2020-05-27",
+    "end_date": "2020-09-24",
+    "historic_marked": "2020-09-23",
+    "seed_status": "repealed"
+  }
 }

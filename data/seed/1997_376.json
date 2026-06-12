@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om seniorydelse",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-06-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1997/376/xml",
-  "description": "Retsinformation source. DocumentId=CM044409; AccessionNumber=A19970037630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044409; AccessionNumber=A19970037630; Ophævet 1998-06-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:03:30.223Z",
+    "accession": "A19970037630",
+    "document_id": "CM044409",
+    "unique_document_id": "84955",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-24",
+    "historic_marked": "1998-06-08",
+    "seed_status": "repealed"
+  }
 }

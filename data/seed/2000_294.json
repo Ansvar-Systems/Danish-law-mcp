@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af pensionsbeskatningsloven",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-04-29",
+  "in_force_date": "2000-05-02",
   "url": "https://www.retsinformation.dk/eli/lta/2000/294/xml",
-  "description": "Retsinformation source. DocumentId=AN000952; AccessionNumber=A20000029430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000952; AccessionNumber=A20000029430; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:13:32.980Z",
+    "accession": "A20000029430",
+    "document_id": "AN000952",
+    "unique_document_id": "13749",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-02",
+    "end_date": "2001-10-11",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

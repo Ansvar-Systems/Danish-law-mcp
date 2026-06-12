@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om lister over smitsomme sygdomme til lov om hold af dyr",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-01-09",
+  "in_force_date": "2009-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/2009/7/xml",
-  "description": "Retsinformation source. DocumentId=AH003188; AccessionNumber=B20090000705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003188; AccessionNumber=B20090000705; Ophævet 2010-08-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. De lister 1-4 over smitsomme sygdomme, der er nævnt i § 25 i lov om hold af dyr, fastsættes som angivet i bilag 1-4 til denne bekendtgørelse.",
-      "valid_from": "2009-01-09",
-      "valid_to": null
+      "valid_from": "2009-01-13",
+      "valid_to": "2010-08-16"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. januar 2009. Stk. 2. Samtidig ophæves bekendtgørelse nr. 954 af 13. oktober 2005 om lister over smitsomme sygdomme til lov om hold af dyr.",
-      "valid_from": "2009-01-09",
-      "valid_to": null
+      "valid_from": "2009-01-13",
+      "valid_to": "2010-08-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:22:33.703Z",
+    "accession": "B20090000705",
+    "document_id": "AH003188",
+    "unique_document_id": "122977",
+    "upstream_status": "Historic",
+    "start_date": "2009-01-13",
+    "end_date": "2022-04-09",
+    "historic_marked": "2010-08-16",
+    "seed_status": "repealed"
+  }
 }

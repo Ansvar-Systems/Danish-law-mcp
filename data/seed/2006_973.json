@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om farligt gods, kontrolafgifter og tilladelse til jernbanevirksomhed m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-09-22",
+  "in_force_date": "2006-10-02",
   "url": "https://www.retsinformation.dk/eli/lta/2006/973/xml",
-  "description": "Retsinformation source. DocumentId=AR001241; AccessionNumber=B20060097305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001241; AccessionNumber=B20060097305; Ophævet 2010-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:45:24.101Z",
+    "accession": "B20060097305",
+    "document_id": "AR001241",
+    "unique_document_id": "22602",
+    "upstream_status": "Historic",
+    "start_date": "2006-10-02",
+    "end_date": "2026-06-12",
+    "historic_marked": "2010-09-29",
+    "seed_status": "repealed"
+  }
 }

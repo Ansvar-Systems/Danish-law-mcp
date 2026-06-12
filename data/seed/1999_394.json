@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om retssikkerhed og administration på det sociale område, lov om børnetilskud og forskudsvis udbetaling af børnebidrag, lov om individuel boligstøtte og lov om integration af udlændinge i Danmark (integrationslov)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/394/xml",
-  "description": "Retsinformation source. DocumentId=AO000359; AccessionNumber=A19990039430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000359; AccessionNumber=A19990039430; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:26:19.079Z",
+    "accession": "A19990039430",
+    "document_id": "AO000359",
+    "unique_document_id": "18597",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-02",
+    "end_date": "2023-07-13",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

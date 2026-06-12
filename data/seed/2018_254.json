@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af sundhedsloven og lov om anvendelse af tvang ved somatisk behandling af varigt inhabile (Øget selvbestemmelse for patienter i forhold til fravalg af behandling, herunder oprettelse af en behandlingstestamenteordning)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-04-06",
+  "in_force_date": "2018-04-06",
   "url": "https://www.retsinformation.dk/eli/lta/2018/254/xml",
-  "description": "Retsinformation source. DocumentId=CN000613; AccessionNumber=A20180025430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000613; AccessionNumber=A20180025430; Ophævet 2019-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "24a",
@@ -20,8 +21,19 @@
       "section": "24a",
       "content": "§ 24 a. Tilbagekalder en patient, som ikke er uafvendeligt døende, et informeret samtykke om fortsat livsforlængende behandling, er en sundhedsperson ikke forpligtet til at afbryde behandlingen, hvis sundhedspersonen vurderer, at afbrydelsen vil medføre, at patienten umiddelbart derefter afgår ved døden, og dette vil stride imod sundhedspersonens etiske opfattelse. Det påhviler i et sådant tilfælde sundhedspersonen at henvise patienten til en sundhedsperson, som kan efterkomme patientens selvbestemmelse.",
       "valid_from": "2018-04-06",
-      "valid_to": null
+      "valid_to": "2019-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:58:22.748Z",
+    "accession": "A20180025430",
+    "document_id": "CN000613",
+    "unique_document_id": "200171",
+    "upstream_status": "Historic",
+    "start_date": "2018-04-06",
+    "end_date": "2022-07-12",
+    "historic_marked": "2019-08-30",
+    "seed_status": "repealed"
+  }
 }

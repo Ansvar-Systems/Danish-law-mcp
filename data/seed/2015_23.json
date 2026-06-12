@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anvendelse og opstilling af elevatorer mv.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-01-16",
+  "in_force_date": "2015-01-21",
   "url": "https://www.retsinformation.dk/eli/lta/2015/23/xml",
-  "description": "Retsinformation source. DocumentId=BE006139; AccessionNumber=B20150002305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006139; AccessionNumber=B20150002305; Ophævet 2022-04-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -19,9 +20,20 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen omfatter opstilling og anvendelse af personførende byggepladselevatorer. Stk. 2. Ved \"elevatorer mv.\" i bekendtgørelsen forstås personførende byggepladselevatorer.",
-      "valid_from": "2015-01-16",
-      "valid_to": null
+      "valid_from": "2015-01-21",
+      "valid_to": "2022-04-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:51.213Z",
+    "accession": "B20150002305",
+    "document_id": "BE006139",
+    "unique_document_id": "167538",
+    "upstream_status": "Historic",
+    "start_date": "2015-01-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2022-04-07",
+    "seed_status": "repealed"
+  }
 }

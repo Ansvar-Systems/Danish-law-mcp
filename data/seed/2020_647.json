@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-05-07",
+  "in_force_date": "2020-05-20",
   "url": "https://www.retsinformation.dk/eli/lta/2020/647/xml",
   "description": "Retsinformation source. DocumentId=DA000261; AccessionNumber=B20200064705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1177 af 24. november 2006 om kommunens tilskud til brug for klubtilbud og andre socialpædagogiske fritidstilbud til større børn og unge ophæves.",
-      "valid_from": "2020-05-07",
+      "valid_from": "2020-05-20",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 21. maj 2020.",
-      "valid_from": "2020-05-07",
+      "valid_from": "2020-05-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:37:35.407Z",
+    "accession": "B20200064705",
+    "document_id": "DA000261",
+    "unique_document_id": "214578",
+    "upstream_status": "Valid",
+    "start_date": "2020-05-20",
+    "end_date": "2020-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

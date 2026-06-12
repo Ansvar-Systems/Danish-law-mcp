@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-04-27",
+  "in_force_date": "2023-04-27",
   "url": "https://www.retsinformation.dk/eli/lta/2023/438/xml",
   "description": "Retsinformation source. DocumentId=DB000679; AccessionNumber=B20230043805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -129,5 +130,16 @@
       "definition": "muligheden for fælles afregning af bygningens elforbrugere på baggrund af et fælles målepunkt",
       "source_provision": "2:5"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:47:11.394Z",
+    "accession": "B20230043805",
+    "document_id": "DB000679",
+    "unique_document_id": "237014",
+    "upstream_status": "Valid",
+    "start_date": "2023-04-27",
+    "end_date": "2024-05-30",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

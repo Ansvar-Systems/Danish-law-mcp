@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-05-02",
+  "in_force_date": "2019-05-09",
   "url": "https://www.retsinformation.dk/eli/lta/2019/576/xml",
   "description": "Retsinformation source. DocumentId=CN000982; AccessionNumber=B20190057605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Dødsattester udfærdiges og indsendes i papirform til Landslægen. Stk. 2. Landlægen indberetter modtagne dødsattester elektronisk til Sundhedsdatastyrelsen i overensstemmelse med Sundhedsdatastyrelsens vejledning om udfyldelse og indberetning af dødsattester.",
-      "valid_from": "2019-05-02",
+      "valid_from": "2019-05-09",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. maj 2019. Stk. 2. Samtidig ophæves bekendtgørelse nr. 269 af 20. april 2001 for Færøerne om dødsattester.",
-      "valid_from": "2019-05-02",
+      "valid_from": "2019-05-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:11:20.920Z",
+    "accession": "B20190057605",
+    "document_id": "CN000982",
+    "unique_document_id": "209168",
+    "upstream_status": "Valid",
+    "start_date": "2019-05-09",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

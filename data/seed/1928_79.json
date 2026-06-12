@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Tillæg til Lov af 23. Januar 1903 om en Statstidende, jfr. Lov nr. 106 af 10. Maj 1912 (* 1)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1928-03-31",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1928/79/xml",
-  "description": "Retsinformation source. DocumentId=CM040977; AccessionNumber=A19280007930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040977; AccessionNumber=A19280007930; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:44:03.843Z",
+    "accession": "A19280007930",
+    "document_id": "CM040977",
+    "unique_document_id": "81671",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2019-04-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

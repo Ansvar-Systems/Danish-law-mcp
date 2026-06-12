@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indløsning af rabatmærker",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-20",
+  "in_force_date": "2003-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2003/197/xml",
-  "description": "Retsinformation source. DocumentId=AU000968; AccessionNumber=B20030019705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000968; AccessionNumber=B20030019705; Ophævet 2011-06-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:20:29.015Z",
+    "accession": "B20030019705",
+    "document_id": "AU000968",
+    "unique_document_id": "26194",
+    "upstream_status": "Historic",
+    "start_date": "2003-03-27",
+    "end_date": "2017-12-09",
+    "historic_marked": "2011-06-27",
+    "seed_status": "repealed"
+  }
 }

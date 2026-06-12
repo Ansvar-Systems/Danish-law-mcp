@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om mærkning af levnedsmidler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-08-14",
+  "in_force_date": "1998-08-20",
   "url": "https://www.retsinformation.dk/eli/lta/1998/598/xml",
-  "description": "Retsinformation source. DocumentId=AH000011; AccessionNumber=B19980059805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000011; AccessionNumber=B19980059805; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:51:31.351Z",
+    "accession": "B19980059805",
+    "document_id": "AH000011",
+    "unique_document_id": "6508",
+    "upstream_status": "Historic",
+    "start_date": "1998-08-20",
+    "end_date": "2022-04-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

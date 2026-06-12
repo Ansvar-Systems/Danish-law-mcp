@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om dronning Margrethe den Andens civilliste",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1972-04-26",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1972/136/xml",
-  "description": "Retsinformation source. DocumentId=CM004512; AccessionNumber=A19720013630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM004512; AccessionNumber=A19720013630; Ophævet 2024-06-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:24:03.789Z",
+    "accession": "A19720013630",
+    "document_id": "CM004512",
+    "unique_document_id": "45896",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2024-06-12",
+    "historic_marked": "2024-06-11",
+    "seed_status": "repealed"
+  }
 }

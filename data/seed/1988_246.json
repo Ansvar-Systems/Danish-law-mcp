@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om landets inddeling i sogne",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1988-04-19",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1988/246/xml",
-  "description": "Retsinformation source. DocumentId=CM031441; AccessionNumber=B19880024605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031441; AccessionNumber=B19880024605; Ophævet 2007-01-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:03:42.882Z",
+    "accession": "B19880024605",
+    "document_id": "CM031441",
+    "unique_document_id": "72248",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-07-02",
+    "historic_marked": "2007-01-18",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ændring af SU-bekendtgørelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-09-29",
+  "in_force_date": "2015-10-03",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1157/xml",
-  "description": "Retsinformation source. DocumentId=CE000324; AccessionNumber=B20150115705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000324; AccessionNumber=B20150115705; Ophævet 2015-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:28:43.465Z",
+    "accession": "B20150115705",
+    "document_id": "CE000324",
+    "unique_document_id": "174596",
+    "upstream_status": "Historic",
+    "start_date": "2015-10-03",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-12-17",
+    "seed_status": "repealed"
+  }
 }

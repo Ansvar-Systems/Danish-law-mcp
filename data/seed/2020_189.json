@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-03-10",
+  "in_force_date": "2020-03-11",
   "url": "https://www.retsinformation.dk/eli/lta/2020/189/xml",
   "description": "Retsinformation source. DocumentId=CN001161; AccessionNumber=B20200018905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. En læge, der får en patient til behandling med COVID-19, hvor diagnosen er bekræftet ved undersøgelse af prøvemateriale for SARS-CoV-2, skal straks anmelde tilfældet både telefonisk og skriftligt. Stk. 2. Visitationsreglerne for COVID-19 er, at en person mistænkt for COVID-19 skal henvises til vurdering hos en nærmere bestemt afdeling i Heilsuverk Føroya. Som følge heraf påhviler anmeldepligten den behandlende læge på Heilsuverk Føroya.",
-      "valid_from": "2020-03-10",
+      "valid_from": "2020-03-11",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Den telefoniske anmeldelse foretages til Landslægen på Færøerne. Stk. 2. Til den efterfølgende skriftlige anmeldelse anvendes Sundhedsstyrelsens formular 1515, som sendes til Landslægen på Færøerne med kopi til Statens Serum Institut, Epidemiologisk afdeling. Stk. 3. Der må kun anmeldes ét sygdomstilfælde på hver formular.",
-      "valid_from": "2020-03-10",
+      "valid_from": "2020-03-11",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Anmeldelse skal foretages selvom tilfældet har en mild form eller ikke er fuldt udviklet (abortivt).",
-      "valid_from": "2020-03-10",
+      "valid_from": "2020-03-11",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Sundhedsstyrelsen opdaterer løbende vejledning om håndtering af COVID-19 med angivelse af kriterier for bekræftelse af diagnose. Gældende vejledning kan tilgås på sst.dk/corona",
-      "valid_from": "2020-03-10",
+      "valid_from": "2020-03-11",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft ved kundgørelse i Kunngerðablaðið B.",
-      "valid_from": "2020-03-10",
+      "valid_from": "2020-03-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:04:14.644Z",
+    "accession": "B20200018905",
+    "document_id": "CN001161",
+    "unique_document_id": "213350",
+    "upstream_status": "Valid",
+    "start_date": "2020-03-11",
+    "end_date": "2022-07-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

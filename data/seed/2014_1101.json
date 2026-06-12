@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om udbyttedeling ved anvendelse af genetiske ressourcer",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-10-06",
+  "in_force_date": "2014-10-10",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1101/xml",
-  "description": "Retsinformation source. DocumentId=AL003033; AccessionNumber=B20140110105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL003033; AccessionNumber=B20140110105; Ophævet 2025-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 1375 af 23. december 2012 om udbyttedeling ved anvendelse af genetiske ressourcer sættes i kraft.",
-      "valid_from": "2014-10-06",
-      "valid_to": null
+      "valid_from": "2014-10-10",
+      "valid_to": "2025-12-19"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Naturstyrelsen er ansvarlig myndighed for administrationen af loven. Naturstyrelsen fører tilsyn med, at reg­lerne i Europa Parlamentets og Rådets forordning (EU) nr. 511/2014 af 16. april 2014 overholdes.",
-      "valid_from": "2014-10-06",
-      "valid_to": null
+      "valid_from": "2014-10-10",
+      "valid_to": "2025-12-19"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 12. oktober 2014.",
-      "valid_from": "2014-10-06",
-      "valid_to": null
+      "valid_from": "2014-10-10",
+      "valid_to": "2025-12-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:31:13.188Z",
+    "accession": "B20140110105",
+    "document_id": "AL003033",
+    "unique_document_id": "164936",
+    "upstream_status": "Historic",
+    "start_date": "2014-10-10",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-12-19",
+    "seed_status": "repealed"
+  }
 }

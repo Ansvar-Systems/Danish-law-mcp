@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 7 i lov om ændring af forskellige lovbestemmelser om sammenlægning og spaltning af uddannelsesinstitutioner m.v. og om ophævelse af lov om Det Informationsvidenskabelige Akademi (Mulighed for sammenlægning og spaltning af universiteter, uddannelses- og forskningsinstitutioner m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-03-20",
+  "in_force_date": "2013-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2013/296/xml",
-  "description": "Retsinformation source. DocumentId=BR000224; AccessionNumber=B20130029605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BR000224; AccessionNumber=B20130029605; Ophævet 2013-05-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 7 i lov nr. 1236 af 18. december 2012 om ændring af forskellige lovbestemmelser om sammenlægning og spaltning af uddannelsesinstitutioner m.v. og om ophævelse af lov om Det Informationsvidenskabelige Akademi (Mulighed for sammenlægning og spaltning af universiteter, uddannelses- og forskningsinstitutioner m.v.) sættes i kraft.",
-      "valid_from": "2013-03-20",
-      "valid_to": null
+      "valid_from": "2013-03-21",
+      "valid_to": "2013-05-10"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2013.",
-      "valid_from": "2013-03-20",
-      "valid_to": null
+      "valid_from": "2013-03-21",
+      "valid_to": "2013-05-10"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:58:40.430Z",
+    "accession": "B20130029605",
+    "document_id": "BR000224",
+    "unique_document_id": "145883",
+    "upstream_status": "Historic",
+    "start_date": "2013-03-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-05-10",
+    "seed_status": "repealed"
+  }
 }

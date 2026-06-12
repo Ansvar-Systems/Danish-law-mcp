@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 10, i lov om ændring af lov om tv-overvågning (Styrkelse af trygheden og sikkerheden, herunder udvidelse af adgangen til tv-overvågning for private og offentlige myndigheder samt obligatorisk registrering af tv-overvågning)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-05-28",
+  "in_force_date": "2021-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1060/xml",
-  "description": "Retsinformation source. DocumentId=AA012480; AccessionNumber=B20210106005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA012480; AccessionNumber=B20210106005; Ophævet 2023-02-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 10, i lov nr. 802 af 9. juni 2020 om ændring af lov om tv-overvågning (Styrkelse af trygheden og sikkerheden, herunder udvidelse af adgangen til tv-overvågning for private og offentlige myndigheder samt obligatorisk registrering af tv-overvågning) for så vidt angår § 2 e i lov om tv-overvågning sættes i kraft.",
-      "valid_from": "2021-05-28",
-      "valid_to": null
+      "valid_from": "2021-06-01",
+      "valid_to": "2023-02-27"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2021.",
-      "valid_from": "2021-05-28",
-      "valid_to": null
+      "valid_from": "2021-06-01",
+      "valid_to": "2023-02-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:24:51.223Z",
+    "accession": "B20210106005",
+    "document_id": "AA012480",
+    "unique_document_id": "223190",
+    "upstream_status": "Historic",
+    "start_date": "2021-06-01",
+    "end_date": "2023-02-28",
+    "historic_marked": "2023-02-27",
+    "seed_status": "repealed"
+  }
 }

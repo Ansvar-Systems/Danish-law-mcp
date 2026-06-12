@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-11-25",
+  "in_force_date": "2020-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1946/xml",
   "description": "Retsinformation source. DocumentId=AP000327; AccessionNumber=B20200194605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Der oprettes et Ministerium for Fødevarer, Landbrug og Fiskeri, således at der til dette ministerium overføres følgende sagsområder: sager vedrørende landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner m.v., samt sager vedrørende fiskeri.",
-      "valid_from": "2020-11-25",
+      "valid_from": "2020-12-16",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Betegnelsen for Miljø- og Fødevareministeriet ændres til Miljøministeriet.",
-      "valid_from": "2020-11-25",
+      "valid_from": "2020-12-16",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Ressortansvaret for Ligestillingsafdelingen med tilhørende sagsområder overføres fra det hidtidige Miljø- og Fødevareministerium til Beskæftigelsesministeriet.",
-      "valid_from": "2020-11-25",
+      "valid_from": "2020-12-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:06:30.231Z",
+    "accession": "B20200194605",
+    "document_id": "AP000327",
+    "unique_document_id": "218686",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-16",
+    "end_date": "2020-12-16",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om vandforsyning m.v., lov om miljøbeskyttelse, lov om naturbeskyttelse og lov om vandløb\\n(Hjemmel til at fastsætte regler om drift af vandforsyningsanlæg og om sagsbehandling af bestemte typer af sager samt forlængelse af visse vandindvindingstilladelser og -rettigheder)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-27",
+  "in_force_date": "2009-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1519/xml",
-  "description": "Retsinformation source. DocumentId=AL002121; AccessionNumber=A20090151930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL002121; AccessionNumber=A20090151930; Ophævet 2013-10-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "56",
@@ -29,23 +30,34 @@
       "provision_ref": "56",
       "section": "56",
       "content": "§ 56 a. Miljøministeren kan fastsætte regler om driften af vandforsyningsanlæg.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-28",
+      "valid_to": "2013-10-18"
     },
     {
       "provision_ref": "74",
       "section": "74",
       "content": "§ 74 c. Miljøministeren kan fastsætte regler om, at bestemte typer af sager skal behandles og afgøres samtidig med afgørelser efter anden relevant lovgivning. Miljøministeren kan herunder fastsætte regler om genoptagelse af sager, hvor tilladelse er meddelt.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-28",
+      "valid_to": "2013-10-18"
     },
     {
       "provision_ref": "70",
       "section": "70",
       "content": "§ 70 b. Miljøministeren kan fastsætte regler om, at bestemte typer af sager efter loven skal behandles og afgøres samtidig med afgørelser efter anden relevant lovgivning.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-28",
+      "valid_to": "2013-10-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:58:44.087Z",
+    "accession": "A20090151930",
+    "document_id": "AL002121",
+    "unique_document_id": "129378",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-10-18",
+    "seed_status": "repealed"
+  }
 }

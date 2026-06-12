@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Håndbog om opfyldelse af bæredygtighedskrav og krav til besparelse af drivhusgasemissioner for biomassebrændsler til energiformål (HB 2021)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-05-31",
+  "in_force_date": "2023-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2023/649/xml",
-  "description": "Retsinformation source. DocumentId=DB000725; AccessionNumber=B20230064905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000725; AccessionNumber=B20230064905; Ophævet 2025-05-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Hermed offentliggøres Håndbog om opfyldelse af bæredygtighedskrav og krav til besparelse af drivhusgasemissioner for biomassebrændsler til energiformål, som angivet i bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2023-05-31",
-      "valid_to": null
+      "valid_from": "2023-06-01",
+      "valid_to": "2025-05-19"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2023. Stk. 2. Bekendtgørelse nr. 1419 af 27. oktober 2022 om Håndbog om opfyldelse af bæredygtighedskrav og krav til besparelse af drivhusgasemissioner for biomassebrændsler til energiformål (HB 2021) ophæves.",
-      "valid_from": "2023-05-31",
-      "valid_to": null
+      "valid_from": "2023-06-01",
+      "valid_to": "2025-05-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:55:42.991Z",
+    "accession": "B20230064905",
+    "document_id": "DB000725",
+    "unique_document_id": "237884",
+    "upstream_status": "Historic",
+    "start_date": "2023-06-01",
+    "end_date": "2025-05-20",
+    "historic_marked": "2025-05-19",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-03-17",
+  "in_force_date": "2023-03-20",
   "url": "https://www.retsinformation.dk/eli/lta/2023/297/xml",
   "description": "Retsinformation source. DocumentId=BE009486; AccessionNumber=B20230029705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -45,7 +46,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den korrigerede præmiesats udgør for 2021 0,70 pct. og for 2022 0,72 pct.",
-      "valid_from": "2023-03-17",
+      "valid_from": "2023-03-20",
       "valid_to": null
     },
     {
@@ -53,7 +54,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. For personer med indtægt ved selvstændig erhvervsvirksomhed, der har tegnet sygedagpengeforsikring med ret til sygedagpenge fra tredje fraværsdag, udgør den korrigerede årlige præmie: 1) 1/1 sats (sygedagpengenes højeste beløb) for perioden 1. april 2021 – 31. marts 2022 3.057 kr. og for perioden 1. april 2022 – 31. marts 2023 3.219 kr. 2) 2/3 sats (2/3 af sygedagpengenes højeste beløb) for perioden 1. april 2021 – 31. marts 2022 2.038 kr. og for perioden 1. april 2022 – 31. marts 2023 2.146 kr.",
-      "valid_from": "2023-03-17",
+      "valid_from": "2023-03-20",
       "valid_to": null
     },
     {
@@ -61,7 +62,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. For personer med indtægt ved selvstændig erhvervsvirksomhed, der har tegnet sygedagpengeforsikring med ret til sygedagpenge fra første fraværsdag, udgør den korrigerede årlige præmie: 1) 1/1 sats (sygedagpengenes højeste beløb) for perioden 1. april 2021 – 31. marts 2022 4.722 kr. og for perioden 1. april 2022 – 31. marts 2023 4.980 kr. 2) 2/3 sats (2/3 af sygedagpengenes højeste beløb) for perioden 1. april 2021 – 31. marts 2022 3.148 kr. og for perioden 1. april 2022 – 31. marts 2023 3.320 kr.",
-      "valid_from": "2023-03-17",
+      "valid_from": "2023-03-20",
       "valid_to": null
     },
     {
@@ -69,7 +70,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Udbetaling Danmark opgør for meget indbetalt præmie og foretager tilbagebetaling heraf til personer, herunder juridiske selskaber, der som følge af tidligere udmeldte præmier i henholdsvis bekendtgørelse nr. 2073 af 19. november 2021 om regulering af grænser og præmier i forsikringsordningerne for private arbejdsgivere og selvstændige erhvervsdrivende og bekendtgørelse nr. 1776 af 2. december 2020 om regulering af grænser og præmier i forsikringsordningerne for private arbejdsgivere og selvstændige erhvervsdrivende har indbetalt for meget. Stk. 2. Tilbagebetaling af for meget indbetalt præmie sker ved modregning i aconto opkrævningen for 2. halvår 2023 for sygedagpengeforsikringen for private arbejdsgivere og ved modregning i opkrævning af præmierne for forsikringsåret 1. april 2023 – 31. marts 2024 for sygedagpengeforsikringen for selvstændige erhvervsdrivende. Stk. 3. Hvor tilbagebetaling ikke kan foretages gennem modregning i præmieindbetalinger for forsikringsåret 2023, udbetaler Udbetaling Danmark det overskydende beløb snarest muligt og inden udgangen af 2023. Stk. 4. Ved tilbagebetalingen af for meget indbetalt præmie modregner Udbetaling Danmark skyldige beløb til forsikringsordningerne, herunder eventuelle skyldige renter og gebyrer.",
-      "valid_from": "2023-03-17",
+      "valid_from": "2023-03-20",
       "valid_to": null
     },
     {
@@ -77,9 +78,20 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. april 2023.",
-      "valid_from": "2023-03-17",
+      "valid_from": "2023-03-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:41:30.516Z",
+    "accession": "B20230029705",
+    "document_id": "BE009486",
+    "unique_document_id": "235143",
+    "upstream_status": "Valid",
+    "start_date": "2023-03-20",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

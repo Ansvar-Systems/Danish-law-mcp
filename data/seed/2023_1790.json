@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2023-12-28",
+  "in_force_date": "2023-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1790/xml",
   "description": "Retsinformation source. DocumentId=CD000295; AccessionNumber=A20230179030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -209,5 +210,16 @@
       "definition": "boliger, der skal udlejes til studerende, som ikke er omfattet af lov nr",
       "source_provision": "12a"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:33:23.376Z",
+    "accession": "A20230179030",
+    "document_id": "CD000295",
+    "unique_document_id": "241271",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-28",
+    "end_date": "2024-07-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om forenklet model for fuldstændig erstatning og kompensation til minkvirksomheder med egenproduktion af mink i 2020 ved permanent nedlukning af minkvirksomhedens drift",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2024-02-21",
+  "in_force_date": "2024-02-22",
   "url": "https://www.retsinformation.dk/eli/lta/2024/164/xml",
-  "description": "Retsinformation source. DocumentId=DC001517; AccessionNumber=B20240016405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DC001517; AccessionNumber=B20240016405; Ophævet 2025-10-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "27a",
@@ -19,9 +20,20 @@
       "provision_ref": "27a",
       "section": "27a",
       "content": "§ 27 a. Minkvirksomheden kan ved anmodning til Fødevarestyrelsen få genoptaget behandlingen af sin sag om erstatning og kompensation, hvis Fødevarestyrelsen har truffet afgørelse i sagen inden den 24. februar 2024.",
-      "valid_from": "2024-02-21",
-      "valid_to": null
+      "valid_from": "2024-02-22",
+      "valid_to": "2025-10-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:48:27.453Z",
+    "accession": "B20240016405",
+    "document_id": "DC001517",
+    "unique_document_id": "241887",
+    "upstream_status": "Historic",
+    "start_date": "2024-02-22",
+    "end_date": "2025-10-15",
+    "historic_marked": "2025-10-14",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2026-01-19",
+  "in_force_date": "2026-01-19",
   "url": "https://www.retsinformation.dk/eli/lta/2026/57/xml",
   "description": "Retsinformation source. DocumentId=CQ003436; AccessionNumber=A20260005729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -601,5 +602,16 @@
       "definition": "i denne lov alle anlæg til produktion, transmission, distribution og lagring af elektrisk energi samt baneanlæg",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:43:17.600Z",
+    "accession": "A20260005729",
+    "document_id": "CQ003436",
+    "unique_document_id": "253989",
+    "upstream_status": "Valid",
+    "start_date": "2026-01-19",
+    "end_date": "2026-01-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

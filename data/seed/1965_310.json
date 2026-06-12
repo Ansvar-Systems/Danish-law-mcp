@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om særlig indkomstskat m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1965-08-03",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1965/310/xml",
-  "description": "Retsinformation source. DocumentId=CM020101; AccessionNumber=B19650031005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020101; AccessionNumber=B19650031005; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:10:22.944Z",
+    "accession": "B19650031005",
+    "document_id": "CM020101",
+    "unique_document_id": "61133",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1997-09-25",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

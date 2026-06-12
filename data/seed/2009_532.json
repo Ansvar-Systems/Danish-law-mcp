@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om jernbane\\n(Supplerende regler som følge af passagerrettighedsforordningen m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-06-12",
+  "in_force_date": "2009-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2009/532/xml",
-  "description": "Retsinformation source. DocumentId=BL000184; AccessionNumber=A20090053230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000184; AccessionNumber=A20090053230; Ophævet 2009-10-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -20,8 +21,19 @@
       "section": "8",
       "content": "§ 8 b. Infrastrukturforvalteren har ansvaret for en sikker trafikstyring for den del af jernbanenettet, som den pågældende forvalter. Stk. 2. Hvis en infrastrukturforvalter ønsker, at ansvaret for trafikstyringen skal varetages af en anden virksomhed, skal Trafikstyrelsen godkende dette. Trafikstyrelsen kan fastsætte vilkår herfor.",
       "valid_from": "2009-06-12",
-      "valid_to": null
+      "valid_to": "2009-10-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:15:48.828Z",
+    "accession": "A20090053230",
+    "document_id": "BL000184",
+    "unique_document_id": "125054",
+    "upstream_status": "Historic",
+    "start_date": "2009-06-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2009-10-15",
+    "seed_status": "repealed"
+  }
 }

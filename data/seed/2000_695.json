@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om godkendelse af private leverandører af høreapparater",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-13",
+  "in_force_date": "2000-07-24",
   "url": "https://www.retsinformation.dk/eli/lta/2000/695/xml",
-  "description": "Retsinformation source. DocumentId=AQ000486; AccessionNumber=B20000069505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000486; AccessionNumber=B20000069505; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:29:41.785Z",
+    "accession": "B20000069505",
+    "document_id": "AQ000486",
+    "unique_document_id": "21432",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-24",
+    "end_date": "2022-07-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

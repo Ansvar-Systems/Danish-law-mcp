@@ -5,9 +5,21 @@
   "short_name": "Bekendtgørelse",
   "status": "in_force",
   "issued_date": "2000-06-06",
+  "in_force_date": "2000-06-15",
   "url": "https://www.retsinformation.dk/eli/lta/2000/500/xml",
   "description": "Retsinformation source. DocumentId=AL000471; AccessionNumber=B20000050005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:21:53.516Z",
+    "accession": "B20000050005",
+    "document_id": "AL000471",
+    "unique_document_id": "12340",
+    "upstream_status": "Valid",
+    "start_date": "2000-06-15",
+    "end_date": "2023-10-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

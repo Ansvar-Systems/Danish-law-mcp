@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om orlov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-01-04",
+  "in_force_date": "1999-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/1999/4/xml",
-  "description": "Retsinformation source. DocumentId=AB000136; AccessionNumber=A19990000429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000136; AccessionNumber=A19990000429; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:26:32.032Z",
+    "accession": "A19990000429",
+    "document_id": "AB000136",
+    "unique_document_id": "2961",
+    "upstream_status": "Historic",
+    "start_date": "1999-01-14",
+    "end_date": "2002-03-25",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

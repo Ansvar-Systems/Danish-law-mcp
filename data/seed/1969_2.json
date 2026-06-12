@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kunstig sædoverføring på svin.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1969-01-03",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1969/2/xml",
-  "description": "Retsinformation source. DocumentId=CM035987; AccessionNumber=B19690000205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM035987; AccessionNumber=B19690000205; Ophævet 2007-01-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:16:22.893Z",
+    "accession": "B19690000205",
+    "document_id": "CM035987",
+    "unique_document_id": "76778",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "2007-01-02",
+    "seed_status": "repealed"
+  }
 }

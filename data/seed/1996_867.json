@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om støttet byggeri",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-09-30",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1996/867/xml",
-  "description": "Retsinformation source. DocumentId=CM041932; AccessionNumber=B19960086705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM041932; AccessionNumber=B19960086705; Ophævet 1997-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:42:08.234Z",
+    "accession": "B19960086705",
+    "document_id": "CM041932",
+    "unique_document_id": "82578",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-04-28",
+    "historic_marked": "1997-12-30",
+    "seed_status": "repealed"
+  }
 }

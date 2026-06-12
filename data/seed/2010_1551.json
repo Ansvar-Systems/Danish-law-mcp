@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven\\n(Implementering af dele af tredje kørekortdirektiv, ændring af gyldighedstiden for kørekort)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1551/xml",
-  "description": "Retsinformation source. DocumentId=AA005846; AccessionNumber=A20100155130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005846; AccessionNumber=A20100155130; Ophævet 2012-11-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "124",
@@ -20,8 +21,19 @@
       "section": "124",
       "content": "§ 124 g. Det i § 124 c, stk. 1, nr. 3, nævnte beløb reguleres en gang årligt den 1. januar med 2 pct. tillagt tilpasningsprocenten for det pågældende finansår, jf. lov om en satsreguleringsprocent. Det herefter fremkomne beløb afrundes til nærmeste med 10 delelige kronebeløb. Justitsministeriet bekendtgør hvert år, hvilken regulering der skal finde sted. 1 -3. pkt. finder tilsvarende anvendelse for det i § 124 c, stk. 1, nr. 4, nævnte beløb med fradrag af 10 kr.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2012-11-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:57:22.927Z",
+    "accession": "A20100155130",
+    "document_id": "AA005846",
+    "unique_document_id": "134900",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-11-14",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undtagelse af PSO-udgifter fra delloftet for driftsudgifter",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-12-08",
+  "in_force_date": "2016-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1525/xml",
-  "description": "Retsinformation source. DocumentId=AE002393; AccessionNumber=B20160152505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE002393; AccessionNumber=B20160152505; Ophævet 2021-12-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Uanset § 9, stk. 2, i budgetloven omfatter det statslige delloft for driftsudgifter ikke udgifter, der er fastsat i medfør af enten lov om fremme af vedvarende energi eller lov om elforsyning og opført på finanslovens § 29.25.10. Udgifter til el-PSO eller § 29.25.12. Tilskud til vedvarende energi.",
-      "valid_from": "2016-12-08",
-      "valid_to": null
+      "valid_from": "2016-12-13",
+      "valid_to": "2021-12-28"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2017.",
-      "valid_from": "2016-12-08",
-      "valid_to": null
+      "valid_from": "2016-12-13",
+      "valid_to": "2021-12-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:53:18.269Z",
+    "accession": "B20160152505",
+    "document_id": "AE002393",
+    "unique_document_id": "185139",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-13",
+    "end_date": "2021-12-29",
+    "historic_marked": "2021-12-28",
+    "seed_status": "repealed"
+  }
 }

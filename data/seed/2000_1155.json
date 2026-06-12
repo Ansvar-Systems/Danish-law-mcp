@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udsættelse af virkningstidspunktet for lov nr. 986 af 3. november 2000 om ændring af lov om afgift af vejbenyttelse og lov om vægtafgift af motorkøretøjer m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-14",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1155/xml",
-  "description": "Retsinformation source. DocumentId=AN002135; AccessionNumber=B20000115505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002135; AccessionNumber=B20000115505; Ophævet 2005-12-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:56:43.170Z",
+    "accession": "B20000115505",
+    "document_id": "AN002135",
+    "unique_document_id": "14812",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2006-02-20",
+    "historic_marked": "2005-12-01",
+    "seed_status": "repealed"
+  }
 }

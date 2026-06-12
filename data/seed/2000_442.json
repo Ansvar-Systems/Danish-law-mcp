@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om visse forbrugeraftaler, markedsføringsloven og visse andre love",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/442/xml",
-  "description": "Retsinformation source. DocumentId=AA001108; AccessionNumber=A20000044230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001108; AccessionNumber=A20000044230; Ophævet 2014-02-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:19:31.800Z",
+    "accession": "A20000044230",
+    "document_id": "AA001108",
+    "unique_document_id": "834",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2014-02-19",
+    "historic_marked": "2014-02-18",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Translatørkommissionen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-01-12",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/51/xml",
-  "description": "Retsinformation source. DocumentId=CM023250; AccessionNumber=B19890005105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023250; AccessionNumber=B19890005105; Ophævet 2015-06-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:45:17.069Z",
+    "accession": "B19890005105",
+    "document_id": "CM023250",
+    "unique_document_id": "64218",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "2015-06-01",
+    "seed_status": "repealed"
+  }
 }

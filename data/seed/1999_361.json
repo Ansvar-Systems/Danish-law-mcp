@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om personnavne",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-06-02",
+  "in_force_date": "1999-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/1999/361/xml",
-  "description": "Retsinformation source. DocumentId=AA000426; AccessionNumber=A19990036130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA000426; AccessionNumber=A19990036130; Ophævet 2005-06-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:25:01.329Z",
+    "accession": "A19990036130",
+    "document_id": "AA000426",
+    "unique_document_id": "301",
+    "upstream_status": "Historic",
+    "start_date": "1999-06-02",
+    "end_date": "2023-04-29",
+    "historic_marked": "2005-06-24",
+    "seed_status": "repealed"
+  }
 }

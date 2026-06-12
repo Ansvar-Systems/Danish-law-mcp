@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om hjemmeservice",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-03-12",
+  "in_force_date": "2002-03-18",
   "url": "https://www.retsinformation.dk/eli/lta/2002/121/xml",
-  "description": "Retsinformation source. DocumentId=AU000491; AccessionNumber=B20020012105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000491; AccessionNumber=B20020012105; Ophævet 2003-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:30:47.760Z",
+    "accession": "B20020012105",
+    "document_id": "AU000491",
+    "unique_document_id": "25836",
+    "upstream_status": "Historic",
+    "start_date": "2002-03-18",
+    "end_date": "2017-12-09",
+    "historic_marked": "2003-12-22",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Afløsning af Grundbyrder",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1918-09-28",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1918/505/xml",
-  "description": "Retsinformation source. DocumentId=CM039031; AccessionNumber=A19180050530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM039031; AccessionNumber=A19180050530; Ophævet 2018-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:39:27.745Z",
+    "accession": "A19180050530",
+    "document_id": "CM039031",
+    "unique_document_id": "79818",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-08",
+    "historic_marked": "2018-12-18",
+    "seed_status": "repealed"
+  }
 }

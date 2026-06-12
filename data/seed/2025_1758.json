@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2025-12-29",
+  "in_force_date": "2025-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1758/xml",
   "description": "Retsinformation source. DocumentId=DI001721; AccessionNumber=A20250175830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -529,5 +530,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:58:43.933Z",
+    "accession": "A20250175830",
+    "document_id": "DI001721",
+    "unique_document_id": "254544",
+    "upstream_status": "Valid",
+    "start_date": "2025-12-29",
+    "end_date": "2025-12-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ret til barselsdagpenge for forældre til et barn, der er født eller modtaget fra den 2. august 2022",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-02-24",
+  "in_force_date": "2023-02-24",
   "url": "https://www.retsinformation.dk/eli/lta/2023/181/xml",
-  "description": "Retsinformation source. DocumentId=BE009475; AccessionNumber=B20230018105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE009475; AccessionNumber=B20230018105; Ophævet 2024-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5a:15a",
@@ -22,8 +23,19 @@
       "section": "15a",
       "content": "§ 15 a. Forældre, der er omfattet af barselslovens § 14 a, kan i den digitale selvbetjeningsløsning søge Udbetaling Danmark om ekstra 26 ugers barselsdagpenge. Barselsdagpenge ydes til den forælder, der søger om udbetaling. Stk. 2. Hvis Udbetaling Danmark ikke kan indhente oplysninger i CPR-registeret om, at der er født tre eller flere børn ved samme fødsel, kan Udbetaling Danmark anmode forældrene om at indsende dokumentation for børnenes fødsel.",
       "valid_from": "2023-02-24",
-      "valid_to": null
+      "valid_to": "2024-12-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:34:10.861Z",
+    "accession": "B20230018105",
+    "document_id": "BE009475",
+    "unique_document_id": "234979",
+    "upstream_status": "Historic",
+    "start_date": "2023-02-24",
+    "end_date": "2026-06-12",
+    "historic_marked": "2024-12-30",
+    "seed_status": "repealed"
+  }
 }

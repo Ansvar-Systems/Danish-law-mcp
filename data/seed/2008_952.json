@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om helbredskrav på jernbaneområdet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-09-23",
+  "in_force_date": "2008-09-26",
   "url": "https://www.retsinformation.dk/eli/lta/2008/952/xml",
-  "description": "Retsinformation source. DocumentId=BL000103; AccessionNumber=B20080095205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000103; AccessionNumber=B20080095205; Ophævet 2009-02-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -24,16 +25,27 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17 a. Såfremt der er indgået en aftale om gensidig anerkendelse af helbredsgodkendelser for personer, der udfører sikkerhedsklassificerede funktioner, med et EU-land eller lande, som fuldt ud har tilsluttet sig EU-lovgivningen på området, kan Trafikstyrelsen anerkende disse helbredsgodkendelser. De pågældendes helbredsgodkendelser træder i sådanne tilfælde i stedet for en helbredsgodkendelse efter denne bekendtgørelses §§ 1-17.",
-      "valid_from": "2008-09-23",
-      "valid_to": null
+      "valid_from": "2008-09-26",
+      "valid_to": "2009-02-03"
     },
     {
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18. Den der ikke har en helbredsgodkendelse efter § 2 eller § 17 a, og som udfører sikkerhedsklassificerede funktioner, jf. § 1, straffes med bøde. Overtrædelse af § 14 straffes med bøde.",
-      "valid_from": "2008-09-23",
-      "valid_to": null
+      "valid_from": "2008-09-26",
+      "valid_to": "2009-02-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:35:35.592Z",
+    "accession": "B20080095205",
+    "document_id": "BL000103",
+    "unique_document_id": "121341",
+    "upstream_status": "Historic",
+    "start_date": "2008-09-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2009-02-03",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om buskørsel (Busloven)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-06-06",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/364/xml",
-  "description": "Retsinformation source. DocumentId=CM010189; AccessionNumber=A19900036430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010189; AccessionNumber=A19900036430; Ophævet 1998-03-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:12:37.610Z",
+    "accession": "A19900036430",
+    "document_id": "CM010189",
+    "unique_document_id": "51363",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1998-03-31",
+    "seed_status": "repealed"
+  }
 }

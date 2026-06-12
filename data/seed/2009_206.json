@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ydelse af fremstillingspræmie til kartoffelstivelse og støtte til stivelseskartofler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-03-17",
+  "in_force_date": "2009-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2009/206/xml",
-  "description": "Retsinformation source. DocumentId=AH003300; AccessionNumber=B20090020605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003300; AccessionNumber=B20090020605; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11a",
@@ -19,9 +20,20 @@
       "provision_ref": "11a",
       "section": "11a",
       "content": "§ 11a. Marker med stivelseskartofler skal udgøre et sammenhængende areal på mindst 0,30 ha.",
-      "valid_from": "2009-03-17",
-      "valid_to": null
+      "valid_from": "2009-03-19",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:02:29.050Z",
+    "accession": "B20090020605",
+    "document_id": "AH003300",
+    "unique_document_id": "123984",
+    "upstream_status": "Historic",
+    "start_date": "2009-03-19",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

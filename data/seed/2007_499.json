@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Forældreansvarslov",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-06",
+  "in_force_date": "2007-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/499/xml",
-  "description": "Retsinformation source. DocumentId=BG000813; AccessionNumber=A20070049930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000813; AccessionNumber=A20070049930; Ophævet 2012-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:24:40.393Z",
+    "accession": "A20070049930",
+    "document_id": "BG000813",
+    "unique_document_id": "32014",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-06",
+    "end_date": "2022-07-08",
+    "historic_marked": "2012-11-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indbetaling af ATP-bidrag for modtagere af førtidspension",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-10-23",
+  "in_force_date": "2002-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2002/867/xml",
-  "description": "Retsinformation source. DocumentId=AO001728; AccessionNumber=B20020086705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO001728; AccessionNumber=B20020086705; Ophævet 2006-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:01:29.223Z",
+    "accession": "B20020086705",
+    "document_id": "AO001728",
+    "unique_document_id": "19701",
+    "upstream_status": "Historic",
+    "start_date": "2002-10-31",
+    "end_date": "2016-12-20",
+    "historic_marked": "2006-12-21",
+    "seed_status": "repealed"
+  }
 }

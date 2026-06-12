@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse af visse af Trafikstyrelsens forskrifter",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-04-29",
+  "in_force_date": "2022-05-04",
   "url": "https://www.retsinformation.dk/eli/lta/2022/554/xml",
-  "description": "Retsinformation source. DocumentId=DG000398; AccessionNumber=B20220055405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000398; AccessionNumber=B20220055405; Ophævet 2023-06-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15",
@@ -19,9 +20,20 @@
       "provision_ref": "15",
       "section": "15",
       "content": "§ 15. Trafikstyrelsen udøver de beføjelser, der er tillagt transportministeren i tekstanmærkning nr. 121 ad 28.53.02., 28.53.05. og 28.56.04. til § 28 til finansloven vedrørende pulje til forbedringer af kollektiv trafik i yderområder, grøn buspulje til regionale busser og øer, pulje til grønne busser og grøn flextrafik, pulje til busfremkommelighed, pulje til fremme af cykelparkering i kombination med kollektiv trafik, havnepulje og investeringspulje til mindre, regionale flyvepladser.",
-      "valid_from": "2022-04-29",
-      "valid_to": null
+      "valid_from": "2022-05-04",
+      "valid_to": "2023-06-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:43:39.866Z",
+    "accession": "B20220055405",
+    "document_id": "DG000398",
+    "unique_document_id": "230807",
+    "upstream_status": "Historic",
+    "start_date": "2022-05-04",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-06-02",
+    "seed_status": "repealed"
+  }
 }

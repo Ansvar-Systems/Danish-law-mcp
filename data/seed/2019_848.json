@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-08-19",
+  "in_force_date": "2019-08-23",
   "url": "https://www.retsinformation.dk/eli/lta/2019/848/xml",
   "description": "Retsinformation source. DocumentId=CN001022; AccessionNumber=B20190084805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Øre-, næse- og halslægen skal i forbindelse med henvisningen til høreapparatbehandling udlevere den nationale informationspjece om høreapparatbehandling til alle patienter med ukompliceret eller ikke svært høretab. Stk. 2. Pjecen skal udleveres i forbindelse med, at patienten får resultatet af høreprøven og vejledes om eventuelle behandlingsmuligheder. Stk. 3. Øre-, næse- og halslægen skal sikre, at det er den seneste version af den nationale informationspjece, der udleveres til patienten.",
-      "valid_from": "2019-08-19",
+      "valid_from": "2019-08-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 24. august 2019.",
-      "valid_from": "2019-08-19",
+      "valid_from": "2019-08-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:21.227Z",
+    "accession": "B20190084805",
+    "document_id": "CN001022",
+    "unique_document_id": "210028",
+    "upstream_status": "Valid",
+    "start_date": "2019-08-23",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

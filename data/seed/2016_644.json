@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af arkivloven (Kroers, foreningers og virksomheders anvendelse af kongekronen)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-06-08",
+  "in_force_date": "2016-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2016/644/xml",
-  "description": "Retsinformation source. DocumentId=AK001175; AccessionNumber=A20160064430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK001175; AccessionNumber=A20160064430; Ophævet 2016-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5a",
@@ -25,15 +26,26 @@
       "section": "5a",
       "content": "§ 5 a. Kulturministeren kan fastsætte nærmere regler om, at kroer kan anvende kongekronen.",
       "valid_from": "2016-06-08",
-      "valid_to": null
+      "valid_to": "2016-09-29"
     },
     {
       "provision_ref": "5b",
       "section": "5b",
       "content": "§ 5 b. Kulturministeren kan fastsætte nærmere regler om, at kongekronen må anvendes som en del af foreningers og virksomheders logo, når historiske grunde taler for det.",
       "valid_from": "2016-06-08",
-      "valid_to": null
+      "valid_to": "2016-09-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:28.499Z",
+    "accession": "A20160064430",
+    "document_id": "AK001175",
+    "unique_document_id": "181808",
+    "upstream_status": "Historic",
+    "start_date": "2016-06-08",
+    "end_date": "2022-11-10",
+    "historic_marked": "2016-09-29",
+    "seed_status": "repealed"
+  }
 }

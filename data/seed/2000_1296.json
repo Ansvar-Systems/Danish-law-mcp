@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af visse afgiftslove",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1296/xml",
-  "description": "Retsinformation source. DocumentId=AN002160; AccessionNumber=A20000129630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN002160; AccessionNumber=A20000129630; Ophævet 2014-04-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:02:22.442Z",
+    "accession": "A20000129630",
+    "document_id": "AN002160",
+    "unique_document_id": "14836",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-20",
+    "end_date": "2014-07-22",
+    "historic_marked": "2014-04-15",
+    "seed_status": "repealed"
+  }
 }

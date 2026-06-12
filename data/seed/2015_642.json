@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-05-13",
+  "in_force_date": "2015-05-14",
   "url": "https://www.retsinformation.dk/eli/lta/2015/642/xml",
   "description": "Retsinformation source. DocumentId=AH005597; AccessionNumber=B20150064205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 817 af 20. juli 2012 om straffebestemmelser for overtrædelse af forordning om fødevareinformation til forbrugerne ophæves.",
-      "valid_from": "2015-05-13",
+      "valid_from": "2015-05-14",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 18. maj 2015.",
-      "valid_from": "2015-05-13",
+      "valid_from": "2015-05-14",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:17:26.760Z",
+    "accession": "B20150064205",
+    "document_id": "AH005597",
+    "unique_document_id": "170469",
+    "upstream_status": "Valid",
+    "start_date": "2015-05-14",
+    "end_date": "2025-01-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

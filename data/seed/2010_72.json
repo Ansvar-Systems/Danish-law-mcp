@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Fiskeridirektoratets opgaver og beføjelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-22",
+  "in_force_date": "2010-01-26",
   "url": "https://www.retsinformation.dk/eli/lta/2010/72/xml",
-  "description": "Retsinformation source. DocumentId=AH003703; AccessionNumber=B20100007205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003703; AccessionNumber=B20100007205; Ophævet 2011-05-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8 a. Uanset den i § 8, stk. 3, fastsatte klagefrist behandles klager over afgørelser om tildeling af kW-andele, som er truffet af Fiskeridirektoratet i henhold til reguleringsbekendtgørelsen for 2009, såfremt klagen er modtaget i Fiskeridirektoratet senest den 15. marts 2010. Stk. 2. Den i stk. 1 fastsatte frist for modtagelse af klager over afgørelser om tildeling af kW-dage omfatter ikke afgørelser, der er truffet som følge af genoptagelse (remonstration) eller hjemvisning af en afgørelse i forbindelse med klagesagsbehandling.",
-      "valid_from": "2010-01-22",
-      "valid_to": null
+      "valid_from": "2010-01-26",
+      "valid_to": "2011-05-04"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:26:50.329Z",
+    "accession": "B20100007205",
+    "document_id": "AH003703",
+    "unique_document_id": "129975",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-26",
+    "end_date": "2022-04-08",
+    "historic_marked": "2011-05-04",
+    "seed_status": "repealed"
+  }
 }

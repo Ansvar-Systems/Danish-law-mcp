@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2024-04-09",
+  "in_force_date": "2024-04-09",
   "url": "https://www.retsinformation.dk/eli/lta/2024/332/xml",
   "description": "Retsinformation source. DocumentId=AN016294; AccessionNumber=A20240033230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -193,5 +194,16 @@
       "definition": "ved: 1) Årlig omsætning her i landet: Den samlede årlige værdi uden moms af leveringer af varer og ydelser foretaget af en afgiftspligtig person her i landet i løbet af 1 kalenderår",
       "source_provision": "17a:71b"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:00:17.872Z",
+    "accession": "A20240033230",
+    "document_id": "AN016294",
+    "unique_document_id": "242687",
+    "upstream_status": "Valid",
+    "start_date": "2024-04-09",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

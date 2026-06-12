@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om inddrivelse af gæld til det offentlige, lov om en børne- og ungeydelse og opkrævningsloven (Restanceinddrivelsesmyndighedens inddrivelse i perioden til og med 2019, gennemførelse af modregning og indkomstaftrapning af børne- og ungeydelsen uden partshøring m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-03-22",
+  "in_force_date": "2016-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2016/298/xml",
-  "description": "Retsinformation source. DocumentId=AN012483; AccessionNumber=A20160029830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN012483; AccessionNumber=A20160029830; Ophævet 2021-06-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9a",
@@ -30,22 +31,33 @@
       "section": "9a",
       "content": "§ 9 a. Modregning, der gennemføres af restanceinddrivelsesmyndigheden eller af told- og skatteforvaltningen som fordringshaver, kan ske uden partshøring af skyldneren og uden forudgående vurdering af dennes økonomiske forhold.",
       "valid_from": "2016-03-22",
-      "valid_to": null
+      "valid_to": "2021-06-22"
     },
     {
       "provision_ref": "18b",
       "section": "18b",
       "content": "§ 18 b. Skatteministeren kan fastsætte regler om fravigelse af dækningsrækkefølgen for krav under inddrivelse, jf. § 4, og om inddrivelse af udvalgte fordringer for perioden fra og med den 1. april 2016 til og med den 31. december 2019.",
       "valid_from": "2016-03-22",
-      "valid_to": null
+      "valid_to": "2021-06-22"
     },
     {
       "provision_ref": "11a",
       "section": "11a",
       "content": "§ 11 a. Told- og skatteforvaltningen kan nægte at registrere og kan inddrage registreringen efter skatte- og afgiftslove, hvor opkrævningen reguleres efter denne lov, for en person, der er pålagt en konkurskarantæne efter konkurslovens § 159, 2. pkt., medmindre personen over for told- og skatteforvaltningen godtgør, at vedkommende ikke deltager i og ikke forventes at skulle deltage i ledelsen af den omhandlede erhvervsvirksomhed.",
       "valid_from": "2016-03-22",
-      "valid_to": null
+      "valid_to": "2021-06-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:08:31.164Z",
+    "accession": "A20160029830",
+    "document_id": "AN012483",
+    "unique_document_id": "179282",
+    "upstream_status": "Historic",
+    "start_date": "2016-03-22",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-06-22",
+    "seed_status": "repealed"
+  }
 }

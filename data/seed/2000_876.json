@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om beskatning til kommunerne af faste ejendomme",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-20",
+  "in_force_date": "2000-09-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/876/xml",
-  "description": "Retsinformation source. DocumentId=AI000367; AccessionNumber=A20000087629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000367; AccessionNumber=A20000087629; Ophævet 2003-09-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:37:00.396Z",
+    "accession": "A20000087629",
+    "document_id": "AI000367",
+    "unique_document_id": "8969",
+    "upstream_status": "Historic",
+    "start_date": "2000-09-29",
+    "end_date": "2016-12-16",
+    "historic_marked": "2003-09-15",
+    "seed_status": "repealed"
+  }
 }

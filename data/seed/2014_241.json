@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om folkeregistrering m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-03-02",
+  "in_force_date": "2014-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2014/241/xml",
-  "description": "Retsinformation source. DocumentId=BX000271; AccessionNumber=B20140024105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BX000271; AccessionNumber=B20140024105; Ophævet 2017-09-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:54:47.926Z",
+    "accession": "B20140024105",
+    "document_id": "BX000271",
+    "unique_document_id": "162091",
+    "upstream_status": "Historic",
+    "start_date": "2014-03-19",
+    "end_date": "2023-04-28",
+    "historic_marked": "2017-09-05",
+    "seed_status": "repealed"
+  }
 }

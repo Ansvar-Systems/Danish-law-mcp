@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om det fælles datagrundlag og statistiske datavarehus for beskæftigelsesindsatsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-06",
+  "in_force_date": "2013-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2013/589/xml",
-  "description": "Retsinformation source. DocumentId=BE005500; AccessionNumber=B20130058905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005500; AccessionNumber=B20130058905; Ophævet 2013-09-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "38",
@@ -19,9 +20,20 @@
       "provision_ref": "38",
       "section": "38",
       "content": "§ 38. Kommunen har pligt til at indberette, at den arbejdssøgende har indlagt fyldestgørende oplysninger vedrørende den pågældendes arbejds- og uddannelsesmæssige baggrund m.v. (cv) i henhold til kapitel 6 og § 73 d i lov om en aktiv beskæftigelsesindsats. Indberetningen omfatter konklusionen på den samtale, som kommunen i henhold til §§ 14 og 73 e i lov om en aktiv beskæftigelsesindsats.",
-      "valid_from": "2013-06-06",
-      "valid_to": null
+      "valid_from": "2013-06-07",
+      "valid_to": "2013-09-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:10:24.148Z",
+    "accession": "B20130058905",
+    "document_id": "BE005500",
+    "unique_document_id": "152265",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-07",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-09-30",
+    "seed_status": "repealed"
+  }
 }

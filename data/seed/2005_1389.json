@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om markedsføring",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-21",
+  "in_force_date": "2005-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1389/xml",
-  "description": "Retsinformation source. DocumentId=BG000336; AccessionNumber=A20050138930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000336; AccessionNumber=A20050138930; Ophævet 2009-09-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:04:32.320Z",
+    "accession": "A20050138930",
+    "document_id": "BG000336",
+    "unique_document_id": "31600",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-21",
+    "end_date": "2017-12-09",
+    "historic_marked": "2009-09-07",
+    "seed_status": "repealed"
+  }
 }

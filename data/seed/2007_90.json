@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om friplejeboliger",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-01-31",
+  "in_force_date": "2007-01-31",
   "url": "https://www.retsinformation.dk/eli/lta/2007/90/xml",
-  "description": "Retsinformation source. DocumentId=AO003220; AccessionNumber=A20070009030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO003220; AccessionNumber=A20070009030; Ophævet 2011-02-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:40:47.358Z",
+    "accession": "A20070009030",
+    "document_id": "AO003220",
+    "unique_document_id": "20809",
+    "upstream_status": "Historic",
+    "start_date": "2007-01-31",
+    "end_date": "2023-04-28",
+    "historic_marked": "2011-02-25",
+    "seed_status": "repealed"
+  }
 }

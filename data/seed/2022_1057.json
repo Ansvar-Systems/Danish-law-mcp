@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om elevtallet i kommunale særlige grundskoler for børn og unge, der er fordrevet fra Ukraine",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-06-28",
+  "in_force_date": "2022-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1057/xml",
-  "description": "Retsinformation source. DocumentId=DA000947; AccessionNumber=B20220105705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000947; AccessionNumber=B20220105705; Ophævet 2024-08-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Elevtallet i klasserne kan højst være 18 elever ved skoleårets begyndelse. Det skal tilstræbes, at elevtallet ikke bliver højere i løbet af skoleåret.",
-      "valid_from": "2022-06-28",
-      "valid_to": null
+      "valid_from": "2022-06-29",
+      "valid_to": "2024-08-23"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. juli 2022.",
-      "valid_from": "2022-06-28",
-      "valid_to": null
+      "valid_from": "2022-06-29",
+      "valid_to": "2024-08-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:03:46.865Z",
+    "accession": "B20220105705",
+    "document_id": "DA000947",
+    "unique_document_id": "231956",
+    "upstream_status": "Historic",
+    "start_date": "2022-06-29",
+    "end_date": "2024-08-24",
+    "historic_marked": "2024-08-23",
+    "seed_status": "repealed"
+  }
 }

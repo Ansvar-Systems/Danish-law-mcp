@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forsikring mod følger af arbejdsskade og lov om erstatningsansvar (Ændring af reguleringsbestemmelser m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-02-01",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1995/73/xml",
-  "description": "Retsinformation source. DocumentId=CM012640; AccessionNumber=A19950007330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012640; AccessionNumber=A19950007330; Ophævet 2002-09-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:50:20.533Z",
+    "accession": "A19950007330",
+    "document_id": "CM012640",
+    "unique_document_id": "53775",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-07-07",
+    "historic_marked": "2002-09-16",
+    "seed_status": "repealed"
+  }
 }

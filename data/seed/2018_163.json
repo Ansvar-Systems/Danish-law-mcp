@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af adoptionsloven (Bemyndigelse til at indgå aftale med Færøerne om danske og færøske regler om adoption)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-03-05",
+  "in_force_date": "2018-03-05",
   "url": "https://www.retsinformation.dk/eli/lta/2018/163/xml",
-  "description": "Retsinformation source. DocumentId=CT000345; AccessionNumber=A20180016330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CT000345; AccessionNumber=A20180016330; Ophævet 2018-08-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "25e",
@@ -20,8 +21,19 @@
       "section": "25e",
       "content": "§ 25 e. Børne- og socialministeren kan indgå aftale med myndighederne på Færøerne om forholdet mellem reglerne for Danmark og Færøerne om adoption. Aftalen finder anvendelse her i landet efter bekendtgørelse i Lovtidende.",
       "valid_from": "2018-03-05",
-      "valid_to": null
+      "valid_to": "2018-08-07"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:48:03.222Z",
+    "accession": "A20180016330",
+    "document_id": "CT000345",
+    "unique_document_id": "199767",
+    "upstream_status": "Historic",
+    "start_date": "2018-03-05",
+    "end_date": "2022-07-08",
+    "historic_marked": "2018-08-07",
+    "seed_status": "repealed"
+  }
 }

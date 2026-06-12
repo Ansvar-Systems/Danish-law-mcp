@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2010-06-01",
+  "in_force_date": "2010-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2010/579/xml",
   "description": "Retsinformation source. DocumentId=AU004061; AccessionNumber=A20100057930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -377,5 +378,16 @@
       "definition": "hvidvask som defineret i § 4 i lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme",
       "source_provision": "6"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:21:06.517Z",
+    "accession": "A20100057930",
+    "document_id": "AU004061",
+    "unique_document_id": "132204",
+    "upstream_status": "Valid",
+    "start_date": "2010-06-01",
+    "end_date": "2023-01-06",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

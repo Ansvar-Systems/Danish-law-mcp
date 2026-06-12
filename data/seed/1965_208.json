@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om udstedelse af statspræmieobligationer",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1965-06-04",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1965/208/xml",
-  "description": "Retsinformation source. DocumentId=CM016050; AccessionNumber=A19650020830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016050; AccessionNumber=A19650020830; Ophævet 2025-12-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:09:56.626Z",
+    "accession": "A19650020830",
+    "document_id": "CM016050",
+    "unique_document_id": "57127",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2025-12-03",
+    "historic_marked": "2025-12-02",
+    "seed_status": "repealed"
+  }
 }

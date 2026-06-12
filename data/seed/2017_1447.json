@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af lov om ændring af færdselsloven (Ændring af sanktionerne for kørsel i THC-påvirket tilstand og af regler om alkolåse)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-11",
+  "in_force_date": "2017-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1447/xml",
-  "description": "Retsinformation source. DocumentId=CX000291; AccessionNumber=B20170144705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000291; AccessionNumber=B20170144705; Ophævet 2018-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 695 af 8. juni 2017 om ændring af færdselsloven (Ændring af sanktionerne for kørsel i THC-påvirket tilstand og af regler om alkolåse) sættes i kraft.",
-      "valid_from": "2017-12-11",
-      "valid_to": null
+      "valid_from": "2017-12-12",
+      "valid_to": "2018-11-27"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. december 2017.",
-      "valid_from": "2017-12-11",
-      "valid_to": null
+      "valid_from": "2017-12-12",
+      "valid_to": "2018-11-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:54:45.055Z",
+    "accession": "B20170144705",
+    "document_id": "CX000291",
+    "unique_document_id": "196316",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-12",
+    "end_date": "2026-06-12",
+    "historic_marked": "2018-11-27",
+    "seed_status": "repealed"
+  }
 }

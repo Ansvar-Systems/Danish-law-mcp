@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om service 900-tjenester",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-10-18",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1996/917/xml",
-  "description": "Retsinformation source. DocumentId=CM042134; AccessionNumber=B19960091705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM042134; AccessionNumber=B19960091705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:44:09.057Z",
+    "accession": "B19960091705",
+    "document_id": "CM042134",
+    "unique_document_id": "82775",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-06-04",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til økologisk jordbrugsproduktion m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-04-17",
+  "in_force_date": "2009-04-21",
   "url": "https://www.retsinformation.dk/eli/lta/2009/298/xml",
-  "description": "Retsinformation source. DocumentId=AH003335; AccessionNumber=B20090029805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003335; AccessionNumber=B20090029805; Ophævet 2015-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "22",
@@ -19,9 +20,20 @@
       "provision_ref": "22",
       "section": "22",
       "content": "§ 22. Afgørelser, truffet af FødevareErhverv i medfør af denne bekendtgørelse, kan påklages til ministeren for fødevarer, landbrug og fiskeri. Stk. 2. Klagen skal indgives gennem FødevareErhverv. Klagen skal være FødevareErhverv i hænde senest 4 uger efter modtagelsen af den afgørelse, klagen vedrører. Stk. 3. FødevareErhverv kan genoptage en sag, efter at der er indgivet klage.",
-      "valid_from": "2009-04-17",
-      "valid_to": null
+      "valid_from": "2009-04-21",
+      "valid_to": "2015-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:06:13.001Z",
+    "accession": "B20090029805",
+    "document_id": "AH003335",
+    "unique_document_id": "124505",
+    "upstream_status": "Historic",
+    "start_date": "2009-04-21",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-22",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om et teknologinævn (* 1)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-30",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/925/xml",
-  "description": "Retsinformation source. DocumentId=CM003957; AccessionNumber=A19890092529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM003957; AccessionNumber=A19890092529; Ophævet 1995-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:01:46.149Z",
+    "accession": "A19890092529",
+    "document_id": "CM003957",
+    "unique_document_id": "45375",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-07-02",
+    "historic_marked": "1995-06-26",
+    "seed_status": "repealed"
+  }
 }

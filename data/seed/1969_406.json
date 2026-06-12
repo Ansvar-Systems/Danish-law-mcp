@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om salg, køb og forsendelse af vildt",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1969-08-18",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1969/406/xml",
-  "description": "Retsinformation source. DocumentId=CM036741; AccessionNumber=B19690040605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM036741; AccessionNumber=B19690040605; Ophævet 2015-09-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:17:28.318Z",
+    "accession": "B19690040605",
+    "document_id": "CM036741",
+    "unique_document_id": "77532",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-02-27",
+    "historic_marked": "2015-09-02",
+    "seed_status": "repealed"
+  }
 }

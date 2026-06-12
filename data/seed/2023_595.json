@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om håndbog om dokumentation for opfyldelse af CO2e-fortrængningskrav m.v. (HB 2023)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-05-26",
+  "in_force_date": "2023-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2023/595/xml",
-  "description": "Retsinformation source. DocumentId=DB000698; AccessionNumber=B20230059505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000698; AccessionNumber=B20230059505; Ophævet 2024-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Hermed offentliggøres håndbog om dokumentation for opfyldelse af CO 2 e-fortrængningskrav m.v. (HB 2023), som angivet i bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2023-05-26",
-      "valid_to": null
+      "valid_from": "2023-05-30",
+      "valid_to": "2024-12-30"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2023. Stk. 2. Bekendtgørelse nr. 2536 af 14. december 2021 om håndbog om dokumentation for opfyldelse af CO 2 e-fortrængningskrav m.v. (HB 2022) ophæves.",
-      "valid_from": "2023-05-26",
-      "valid_to": null
+      "valid_from": "2023-05-30",
+      "valid_to": "2024-12-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:53:30.358Z",
+    "accession": "B20230059505",
+    "document_id": "DB000698",
+    "unique_document_id": "237347",
+    "upstream_status": "Historic",
+    "start_date": "2023-05-30",
+    "end_date": "2024-12-31",
+    "historic_marked": "2024-12-30",
+    "seed_status": "repealed"
+  }
 }

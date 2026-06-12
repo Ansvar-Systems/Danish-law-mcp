@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anmeldelse, registrering, gebyr samt offentliggørelse m.v. i Erhvervsstyrelsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-11-09",
+  "in_force_date": "2023-11-10",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1286/xml",
-  "description": "Retsinformation source. DocumentId=CQ002678; AccessionNumber=B20230128605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ002678; AccessionNumber=B20230128605; Ophævet 2024-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "20a",
@@ -19,9 +20,20 @@
       "provision_ref": "20a",
       "section": "20a",
       "content": "§ 20 a. Anmeldelse af ændring af et registreret forhold i en filial af et udenlandsk selskab skal vedlægges dokumentation for ændringens lovlige vedtagelse, jf. dog stk. 3. Stk. 2. § 20, stk. 7 og 8, finder tilsvarende anvendelse for filialer. Stk. 3. Ændringer i registrerede oplysninger om en filials hovedselskab kan foretages administrativt af Erhvervsstyrelsen på baggrund af en underretning fra den kompetente myndighed i det EU-land, hvor hovedselskabet er registreret. Modtages indberetningspligtige dokumenter, kan de administrativt vedlægges registreringen.",
-      "valid_from": "2023-11-09",
-      "valid_to": null
+      "valid_from": "2023-11-10",
+      "valid_to": "2024-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:13:09.168Z",
+    "accession": "B20230128605",
+    "document_id": "CQ002678",
+    "unique_document_id": "239802",
+    "upstream_status": "Historic",
+    "start_date": "2023-11-10",
+    "end_date": "2024-06-29",
+    "historic_marked": "2024-06-28",
+    "seed_status": "repealed"
+  }
 }

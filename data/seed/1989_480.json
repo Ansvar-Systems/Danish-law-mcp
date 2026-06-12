@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af sønæringsloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-06-28",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/480/xml",
-  "description": "Retsinformation source. DocumentId=CM025286; AccessionNumber=A19890048029; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025286; AccessionNumber=A19890048029; Ophævet 1990-06-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:44:05.387Z",
+    "accession": "A19890048029",
+    "document_id": "CM025286",
+    "unique_document_id": "66172",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1990-06-19",
+    "seed_status": "repealed"
+  }
 }

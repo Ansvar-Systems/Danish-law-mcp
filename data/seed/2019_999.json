@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til friskoler og private grundskoler m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-09-27",
+  "in_force_date": "2019-09-28",
   "url": "https://www.retsinformation.dk/eli/lta/2019/999/xml",
-  "description": "Retsinformation source. DocumentId=DA000030; AccessionNumber=B20190099905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000030; AccessionNumber=B20190099905; Ophævet 2023-05-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "29a",
@@ -19,9 +20,20 @@
       "provision_ref": "29a",
       "section": "29a",
       "content": "§ 29 a. Varetagelse af administrative opgaver efter lovens § 5 c, stk. 1, må ikke indeholde myndighedsudøvelse eller indebære risiko for skolens uafhængighed, og må ikke have sådan et omfang, at det ændrer på skolens formål, jf. lovens § 1.",
-      "valid_from": "2019-09-27",
-      "valid_to": null
+      "valid_from": "2019-09-28",
+      "valid_to": "2023-05-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:28:27.005Z",
+    "accession": "B20190099905",
+    "document_id": "DA000030",
+    "unique_document_id": "210388",
+    "upstream_status": "Historic",
+    "start_date": "2019-09-28",
+    "end_date": "2025-08-27",
+    "historic_marked": "2023-05-22",
+    "seed_status": "repealed"
+  }
 }

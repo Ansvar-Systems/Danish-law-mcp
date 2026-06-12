@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til fremme af veterantogskørsel",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-05-23",
+  "in_force_date": "2017-05-25",
   "url": "https://www.retsinformation.dk/eli/lta/2017/529/xml",
-  "description": "Retsinformation source. DocumentId=CX000131; AccessionNumber=B20170052905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000131; AccessionNumber=B20170052905; Ophævet 2020-07-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4a",
@@ -19,9 +20,20 @@
       "provision_ref": "4a",
       "section": "4a",
       "content": "§ 4 a. Veteranbaneorganisationer, der har modtaget tilsagn om tilskud, kan kun få udbetalt tilskuddet, hvis de har en driftstilladelse på tidspunktet for udbetaling.",
-      "valid_from": "2017-05-23",
-      "valid_to": null
+      "valid_from": "2017-05-25",
+      "valid_to": "2020-07-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:22:09.224Z",
+    "accession": "B20170052905",
+    "document_id": "CX000131",
+    "unique_document_id": "191194",
+    "upstream_status": "Historic",
+    "start_date": "2017-05-25",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-07-08",
+    "seed_status": "repealed"
+  }
 }

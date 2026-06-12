@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2020-12-18",
+  "in_force_date": "2020-12-24",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2176/xml",
   "description": "Retsinformation source. DocumentId=CQ001529; AccessionNumber=B20200217605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "1a",
       "section": "1a",
       "content": "§ 1 a. Storbritannien er omfattet af § 20, stk. 1, nr. 2, i lov om kapitalmarkeder.",
-      "valid_from": "2020-12-18",
+      "valid_from": "2020-12-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:15:43.525Z",
+    "accession": "B20200217605",
+    "document_id": "CQ001529",
+    "unique_document_id": "218667",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-24",
+    "end_date": "2020-12-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

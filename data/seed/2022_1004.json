@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-06-22",
+  "in_force_date": "2022-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1004/xml",
   "description": "Retsinformation source. DocumentId=AN015522; AccessionNumber=B20220100405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Stempelmærker skal påføres detailsalgspakninger med røgfri tobak, nikotinprodukter og nikotinholdige væsker på en sådan måde, at 1) de på ingen måde er skjult eller brydes, heller ikke af prismærker eller andre elementer der er påkrævet i henhold til lovgivningen, i al den tid en detailsalgspakning med røgfri tobak, nikotinprodukter og nikotinholdig væske markedsføres, og 2) de er beskyttet mod at blive udskiftet, genanvendt eller ændret på nogen måde.",
-      "valid_from": "2022-06-22",
+      "valid_from": "2022-06-28",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ved påsætning af stempelmærker på detailsalgspakninger med røgfri tobak, nikotinprodukter og nikotinholdige væsker, der skal leveres i et andet EU-land, kan registrerede oplagshavere her i landet ud over kredittiden, der er fastsat efter § 13 g, stk. 1, i lov om forskellige forbrugsafgifter, få en yderligere kredit på 8 arbejdsdage.",
-      "valid_from": "2022-06-22",
+      "valid_from": "2022-06-28",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. oktober 2022.",
-      "valid_from": "2022-06-22",
+      "valid_from": "2022-06-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:01:40.269Z",
+    "accession": "B20220100405",
+    "document_id": "AN015522",
+    "unique_document_id": "230649",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-28",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

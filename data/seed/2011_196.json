@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 068 for tjeneste- og teknologineutral frekvensanvendelse i frekvensbåndet 24,5-26,5 GHz",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-03-02",
+  "in_force_date": "2011-03-12",
   "url": "https://www.retsinformation.dk/eli/lta/2011/196/xml",
-  "description": "Retsinformation source. DocumentId=BD000638; AccessionNumber=B20110019605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000638; AccessionNumber=B20110019605; Ophævet 2018-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For tjeneste- og teknologineutral frekvensanvendelse i frekvensbåndet 24,5-26,5 GHz gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 068 for tjeneste- og teknologineutral frekvensanvendelse i frekvensbåndet 24,5-26,5 GHz.",
-      "valid_from": "2011-03-02",
-      "valid_to": null
+      "valid_from": "2011-03-12",
+      "valid_to": "2018-05-31"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 21. marts 2011.",
-      "valid_from": "2011-03-02",
-      "valid_to": null
+      "valid_from": "2011-03-12",
+      "valid_to": "2018-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:57:30.144Z",
+    "accession": "B20110019605",
+    "document_id": "BD000638",
+    "unique_document_id": "135896",
+    "upstream_status": "Historic",
+    "start_date": "2011-03-12",
+    "end_date": "2026-06-04",
+    "historic_marked": "2018-05-31",
+    "seed_status": "repealed"
+  }
 }

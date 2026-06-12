@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om uddannelsesydelse",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-25",
+  "in_force_date": "2010-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2010/818/xml",
-  "description": "Retsinformation source. DocumentId=BE004247; AccessionNumber=B20100081805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE004247; AccessionNumber=B20100081805; Ophævet 2012-03-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:30:47.821Z",
+    "accession": "B20100081805",
+    "document_id": "BE004247",
+    "unique_document_id": "132675",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-03-01",
+    "seed_status": "repealed"
+  }
 }

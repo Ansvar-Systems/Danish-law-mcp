@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2013-12-10",
+  "in_force_date": "2013-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1380/xml",
   "description": "Retsinformation source. DocumentId=BP000755; AccessionNumber=B20130138005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse på forvaltere af alternative investeringsfonde, der er meddelt tilladelse af Finanstilsynet til at forvalte alternative investeringsfonde i medfør af § 11, stk. 1, i lov om forvaltere af alternative investeringsfonde m.v.",
-      "valid_from": "2013-12-10",
+      "valid_from": "2013-12-12",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Som væsentlige opgaver i relation til delegation efter kapitel 7 i lov om forvaltere af alternative investeringsfonde m.v. anses funktioner omfattet af bilag 1, nr. 1 og 2, i lov om forvaltere af alternative investeringsfonde m.v.",
-      "valid_from": "2013-12-10",
+      "valid_from": "2013-12-12",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. januar 2014.",
-      "valid_from": "2013-12-10",
+      "valid_from": "2013-12-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:41:36.715Z",
+    "accession": "B20130138005",
+    "document_id": "BP000755",
+    "unique_document_id": "160641",
+    "upstream_status": "Valid",
+    "start_date": "2013-12-12",
+    "end_date": "2026-05-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

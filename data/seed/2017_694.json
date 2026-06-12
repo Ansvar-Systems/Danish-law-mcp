@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven (Oprettelse af klagenævn)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-06-08",
+  "in_force_date": "2017-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2017/694/xml",
-  "description": "Retsinformation source. DocumentId=CX000126; AccessionNumber=A20170069430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000126; AccessionNumber=A20170069430; Ophævet 2018-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "122d",
@@ -20,8 +21,19 @@
       "section": "122d",
       "content": "§ 122 d. Til behandling af klager over kontrolafgifter pålagt af private for overtrædelse af vilkårene for brug af offentligt tilgængelige private parkeringsområder opretter branchen på området et klagenævn. Stk. 2. Transport-, bygnings- og boligministeren kan fastsætte regler om klagenævnets virke, herunder regler om tilsyn.",
       "valid_from": "2017-06-08",
-      "valid_to": null
+      "valid_to": "2018-11-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:28:45.260Z",
+    "accession": "A20170069430",
+    "document_id": "CX000126",
+    "unique_document_id": "190138",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-08",
+    "end_date": "2026-06-12",
+    "historic_marked": "2018-11-27",
+    "seed_status": "repealed"
+  }
 }

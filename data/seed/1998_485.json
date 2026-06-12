@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om den selvstændige offentlige virksomhed DSB og om DSB S-tog A/S",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-07-01",
+  "in_force_date": "1998-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/1998/485/xml",
-  "description": "Retsinformation source. DocumentId=CM047452; AccessionNumber=A19980048530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM047452; AccessionNumber=A19980048530; Ophævet 2014-03-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:47:02.359Z",
+    "accession": "A19980048530",
+    "document_id": "CM047452",
+    "unique_document_id": "87618",
+    "upstream_status": "Historic",
+    "start_date": "1998-07-03",
+    "end_date": "2024-11-06",
+    "historic_marked": "2014-03-19",
+    "seed_status": "repealed"
+  }
 }

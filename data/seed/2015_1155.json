@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anvendelse af administrativt bødeforelæg ved overtrædelse af arbejdsmiljølovgivningen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-09-25",
+  "in_force_date": "2015-10-02",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1155/xml",
-  "description": "Retsinformation source. DocumentId=BE006481; AccessionNumber=B20150115505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006481; AccessionNumber=B20150115505; Ophævet 2020-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "8",
@@ -19,9 +20,20 @@
       "provision_ref": "8",
       "section": "8",
       "content": "§ 8. Anvendelse af administrativt bødeforelæg skal ske i overensstemmelse med principperne i retsplejelovens regler om politiets bødeforelæg.",
-      "valid_from": "2015-09-25",
-      "valid_to": null
+      "valid_from": "2015-10-02",
+      "valid_to": "2020-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:28:39.114Z",
+    "accession": "B20150115505",
+    "document_id": "BE006481",
+    "unique_document_id": "174516",
+    "upstream_status": "Historic",
+    "start_date": "2015-10-02",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-12-17",
+    "seed_status": "repealed"
+  }
 }

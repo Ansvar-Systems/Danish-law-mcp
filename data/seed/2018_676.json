@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af selskabsloven, lov om visse erhvervsdrivende virksomheder og lov om erhvervsdrivende fonde (Ændrede krav til ejerregistrering m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-29",
+  "in_force_date": "2018-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2018/676/xml",
-  "description": "Retsinformation source. DocumentId=CQ000518; AccessionNumber=A20180067630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000518; AccessionNumber=A20180067630; Ophævet 2019-09-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "58b",
@@ -29,23 +30,34 @@
       "provision_ref": "58b",
       "section": "58b",
       "content": "§ 58 b. Ved etablering af et kapitalselskab skal der senest samtidig med registreringen af selskabet, jf. § 9, stk. 1, indhentes og registreres oplysninger om selskabets reelle ejere, herunder oplysninger om de reelle ejeres rettigheder.",
-      "valid_from": "2018-05-29",
-      "valid_to": null
+      "valid_from": "2018-06-06",
+      "valid_to": "2019-09-26"
     },
     {
       "provision_ref": "15i",
       "section": "15i",
       "content": "§ 15 i. Ved etablering af en virksomhed med begrænset ansvar, et interessentskab eller et kommanditselskab skal der senest samtidig med registreringen af virksomheden, jf. § 10, indhentes og registreres oplysninger om virksomhedens reelle ejere, herunder oplysninger om de reelle ejeres rettigheder.",
-      "valid_from": "2018-05-29",
-      "valid_to": null
+      "valid_from": "2018-06-06",
+      "valid_to": "2019-09-26"
     },
     {
       "provision_ref": "21c",
       "section": "21c",
       "content": "§ 21 c. Ved etablering af en erhvervsdrivende fond skal der senest samtidig med registreringen af fonden, jf. § 12, indhentes og registreres oplysninger om fondens reelle ejere, herunder oplysninger om de reelle ejeres rettigheder, jf. § 21 a, stk. 1.",
-      "valid_from": "2018-05-29",
-      "valid_to": null
+      "valid_from": "2018-06-06",
+      "valid_to": "2019-09-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:15:21.710Z",
+    "accession": "A20180067630",
+    "document_id": "CQ000518",
+    "unique_document_id": "201307",
+    "upstream_status": "Historic",
+    "start_date": "2018-06-06",
+    "end_date": "2023-10-28",
+    "historic_marked": "2019-09-26",
+    "seed_status": "repealed"
+  }
 }

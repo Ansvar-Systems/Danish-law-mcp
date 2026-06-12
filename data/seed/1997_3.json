@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om revisionen af statens regnskaber m.m.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-01-07",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1997/3/xml",
-  "description": "Retsinformation source. DocumentId=CM044377; AccessionNumber=A19970000329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044377; AccessionNumber=A19970000329; Ophævet 2012-01-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:00:27.808Z",
+    "accession": "A19970000329",
+    "document_id": "CM044377",
+    "unique_document_id": "84924",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-07-12",
+    "historic_marked": "2012-01-31",
+    "seed_status": "repealed"
+  }
 }

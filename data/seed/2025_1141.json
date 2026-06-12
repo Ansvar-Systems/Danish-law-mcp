@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod civile droneflyvninger (flyvninger med ubemandede luftfartøjer)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2025-09-27",
+  "in_force_date": "2025-09-28",
   "url": "https://www.retsinformation.dk/eli/lta/2025/1141/xml",
-  "description": "Retsinformation source. DocumentId=DG001180; AccessionNumber=B20250114105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG001180; AccessionNumber=B20250114105; Ophævet 2025-10-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -51,49 +52,60 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse finder anvendelse på civile droneflyvninger inden for dansk territorium, hvorved forstås landterritoriet og det ydre territorialfarvand, samt luftrummet herover.",
-      "valid_from": "2025-09-27",
-      "valid_to": null
+      "valid_from": "2025-09-28",
+      "valid_to": "2025-10-03"
     },
     {
       "provision_ref": "2:2",
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Det er forbudt at gennemføre flyvning med droner, jf. § 126 a i luftfartsloven, jf. dog stk. 2. Stk. 2. Statsluftfart med droner, herunder politimæssige og beredskabsmæssige droneoperationer og kommunale samt regionale beredskabs- og sundhedsrelaterede droneoperationer er ikke omfattet af forbuddet i stk. 1.",
-      "valid_from": "2025-09-27",
-      "valid_to": null
+      "valid_from": "2025-09-28",
+      "valid_to": "2025-10-03"
     },
     {
       "provision_ref": "3:3",
       "chapter": "3",
       "section": "3",
       "content": "§ 3. Transportministeren kan i særlige tilfælde dispensere fra § 2, stk. 1.",
-      "valid_from": "2025-09-27",
-      "valid_to": null
+      "valid_from": "2025-09-28",
+      "valid_to": "2025-10-03"
     },
     {
       "provision_ref": "4:4",
       "chapter": "4",
       "section": "4",
       "content": "§ 4. Overtrædelse af bestemmelsen i § 2, stk. 1, straffes med bøde eller fængsel indtil to år. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2025-09-27",
-      "valid_to": null
+      "valid_from": "2025-09-28",
+      "valid_to": "2025-10-03"
     },
     {
       "provision_ref": "5:5",
       "chapter": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 29. september 2025. Stk. 2. Bekendtgørelsen ophæves den 4. oktober 2025.",
-      "valid_from": "2025-09-27",
-      "valid_to": null
+      "valid_from": "2025-09-28",
+      "valid_to": "2025-10-03"
     },
     {
       "provision_ref": "6:6",
       "chapter": "6",
       "section": "6",
       "content": "§ 6. Bekendtgørelsen gælder ikke for Færøerne og Grønland.",
-      "valid_from": "2025-09-27",
-      "valid_to": null
+      "valid_from": "2025-09-28",
+      "valid_to": "2025-10-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:33:02.965Z",
+    "accession": "B20250114105",
+    "document_id": "DG001180",
+    "unique_document_id": "251611",
+    "upstream_status": "Historic",
+    "start_date": "2025-09-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-10-03",
+    "seed_status": "repealed"
+  }
 }

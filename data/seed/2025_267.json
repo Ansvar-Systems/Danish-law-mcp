@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2025-03-11",
+  "in_force_date": "2025-03-11",
   "url": "https://www.retsinformation.dk/eli/lta/2025/267/xml",
   "description": "Retsinformation source. DocumentId=DD000539; AccessionNumber=A20250026730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -67,5 +68,16 @@
       "definition": "i denne lov ethvert bevidst indgreb i havmiljøet med henblik på at manipulere naturlige processer, herunder for at modvirke menneskeskabte klimaforandringer eller deres virkninger, og som har potentiale til at resultere i skadelige påvirkninger, særlig hvor disse påvirkninger kan være udbredte, langvarige eller alvorlige",
       "source_provision": "4a"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:05:06.200Z",
+    "accession": "A20250026730",
+    "document_id": "DD000539",
+    "unique_document_id": "248229",
+    "upstream_status": "Valid",
+    "start_date": "2025-03-11",
+    "end_date": "2025-05-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

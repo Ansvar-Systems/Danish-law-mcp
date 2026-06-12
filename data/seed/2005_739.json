@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for syn af skibe m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-07-14",
+  "in_force_date": "2005-07-25",
   "url": "https://www.retsinformation.dk/eli/lta/2005/739/xml",
-  "description": "Retsinformation source. DocumentId=AU002200; AccessionNumber=B20050073905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002200; AccessionNumber=B20050073905; Ophævet 2007-08-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:32:20.511Z",
+    "accession": "B20050073905",
+    "document_id": "AU002200",
+    "unique_document_id": "27072",
+    "upstream_status": "Historic",
+    "start_date": "2005-07-25",
+    "end_date": "2017-12-08",
+    "historic_marked": "2007-08-23",
+    "seed_status": "repealed"
+  }
 }

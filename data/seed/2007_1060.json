@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sporbarheds- og oprindelsesmærkning m.v. af oksekød",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-09-03",
+  "in_force_date": "2007-09-10",
   "url": "https://www.retsinformation.dk/eli/lta/2007/1060/xml",
-  "description": "Retsinformation source. DocumentId=BG000850; AccessionNumber=B20070106005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000850; AccessionNumber=B20070106005; Ophævet 2008-06-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:48:58.243Z",
+    "accession": "B20070106005",
+    "document_id": "BG000850",
+    "unique_document_id": "32051",
+    "upstream_status": "Historic",
+    "start_date": "2007-09-10",
+    "end_date": "2022-04-09",
+    "historic_marked": "2008-06-27",
+    "seed_status": "repealed"
+  }
 }

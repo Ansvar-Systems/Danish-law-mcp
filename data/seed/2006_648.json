@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af bogføringslov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-15",
+  "in_force_date": "2006-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2006/648/xml",
-  "description": "Retsinformation source. DocumentId=AU002512; AccessionNumber=A20060064829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002512; AccessionNumber=A20060064829; Ophævet 2022-08-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:32:19.663Z",
+    "accession": "A20060064829",
+    "document_id": "AU002512",
+    "unique_document_id": "27298",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-26",
+    "end_date": "2022-08-30",
+    "historic_marked": "2022-08-29",
+    "seed_status": "repealed"
+  }
 }

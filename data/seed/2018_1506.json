@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-12-05",
+  "in_force_date": "2018-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1506/xml",
   "description": "Retsinformation source. DocumentId=AK001402; AccessionNumber=B20180150605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne gælder for statslige arkivalier, som er skabt eller tilvejebragt og som fremtidig skabes eller tilvejebringes af de kongelige bygningsinspektører. Stk. 2. Bestemmelsen gælder ikke for arkivalier der er lagret digitalt.",
-      "valid_from": "2018-12-05",
+      "valid_from": "2018-12-18",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Alle arkivalier kasseres.",
-      "valid_from": "2018-12-05",
+      "valid_from": "2018-12-18",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Arkivalier, som ikke skal bevares i henhold til § 2 kasseres, når opbevaringspligt efter andre bestemmelser er opfyldt, og arkivalierne ikke længere har retlig eller administrativ betydning.",
-      "valid_from": "2018-12-05",
+      "valid_from": "2018-12-18",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 20. december 2018. Stk. 2. Bekendtgørelse nr. 999 af 18. november 2003 om bevaring og kassation af de kongelige bygningsinspektørers arkivalier ophæves.",
-      "valid_from": "2018-12-05",
+      "valid_from": "2018-12-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:43:01.259Z",
+    "accession": "B20180150605",
+    "document_id": "AK001402",
+    "unique_document_id": "205680",
+    "upstream_status": "Valid",
+    "start_date": "2018-12-18",
+    "end_date": "2018-12-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

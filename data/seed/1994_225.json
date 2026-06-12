@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om erstatning for miljøskader",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-04-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/225/xml",
-  "description": "Retsinformation source. DocumentId=CM018299; AccessionNumber=A19940022530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018299; AccessionNumber=A19940022530; Ophævet 2014-09-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:47:18.287Z",
+    "accession": "A19940022530",
+    "document_id": "CM018299",
+    "unique_document_id": "59346",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-09-24",
+    "historic_marked": "2014-09-17",
+    "seed_status": "repealed"
+  }
 }

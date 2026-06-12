@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2013-07-04",
+  "in_force_date": "2013-07-04",
   "url": "https://www.retsinformation.dk/eli/lta/2013/905/xml",
   "description": "Retsinformation source. DocumentId=BL000811; AccessionNumber=B20130090503; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1160,5 +1161,16 @@
       "definition": "den i § 111, stk",
       "source_provision": "125"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:23:15.996Z",
+    "accession": "B20130090503",
+    "document_id": "BL000811",
+    "unique_document_id": "152315",
+    "upstream_status": "Valid",
+    "start_date": "2013-07-04",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

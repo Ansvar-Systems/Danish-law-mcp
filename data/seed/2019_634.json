@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-06-25",
+  "in_force_date": "2019-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2019/634/xml",
   "description": "Retsinformation source. DocumentId=AA011488; AccessionNumber=B20190063405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Rigspolitiet er den myndighed, der har tilladelse til at anmode om sammenligning med Eurodac-oplysninger i retshåndhævende øjemed. Stk. 2. Politikredsenes efterforskningssektioner og vagtcentraler er de operative myndigheder, der kan anmode Rigspolitiet om at anmode om sammenligning med Eurodac-oplysninger i retshåndhævende øjemed. Stk. 3. Der skal til enhver tid være udpeget et juridisk sekretariat i Rigspolitiet, der fungerer som kontrolmyndighed, og som skal kontrollere, at betingelserne for at anmode om sammenligning med Eurodac-oplysninger i retshåndhævende øjemed er opfyldt.",
-      "valid_from": "2019-06-25",
+      "valid_from": "2019-06-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2019.",
-      "valid_from": "2019-06-25",
+      "valid_from": "2019-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:13:42.235Z",
+    "accession": "B20190063405",
+    "document_id": "AA011488",
+    "unique_document_id": "209538",
+    "upstream_status": "Valid",
+    "start_date": "2019-06-27",
+    "end_date": "2025-10-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

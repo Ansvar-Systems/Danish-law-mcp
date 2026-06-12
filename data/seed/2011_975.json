@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om behandling af værgemåls- og værgesager samt om faste værger og værgens vederlag m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-09-29",
+  "in_force_date": "2011-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/2011/975/xml",
-  "description": "Retsinformation source. DocumentId=AA006161; AccessionNumber=B20110097505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA006161; AccessionNumber=B20110097505; Ophævet 2025-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7 a. Tilsynet med værger i de tilfælde, der er nævnt i artikel 5, 6, 7, 11 eller 12 i Haagerkonventionen af 19. oktober 1996 om kompetence, lovvalg, anerkendelse, fuldbyrdelse og samarbejde vedrørende forældreansvar og foranstaltninger til beskyttelse af børn (Haagerbørnebeskyttelseskonventionen), føres af statsforvaltningen på det sted, hvor den mindreårige har bopæl. Har den mindreårige ingen bopæl her i landet, føres tilsynet der, hvor vedkommende har ophold. Er ingen statsforvaltning kompetent, føres tilsynet af Statsforvaltningen Hovedstaden.",
-      "valid_from": "2011-09-29",
-      "valid_to": null
+      "valid_from": "2011-09-30",
+      "valid_to": "2025-06-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:28:57.671Z",
+    "accession": "B20110097505",
+    "document_id": "AA006161",
+    "unique_document_id": "138298",
+    "upstream_status": "Historic",
+    "start_date": "2011-09-30",
+    "end_date": "2025-07-01",
+    "historic_marked": "2025-06-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om udvidelse af §§ 5-7, §§ 12 a-12 f og § 16 a i lov om foranstaltninger mod smitsomme og andre overførbare sygdomme til at omfatte Coronavirussygdom 2019 (covid-19)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-02-04",
+  "in_force_date": "2021-02-04",
   "url": "https://www.retsinformation.dk/eli/lta/2021/175/xml",
-  "description": "Retsinformation source. DocumentId=DI000024; AccessionNumber=B20210017505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DI000024; AccessionNumber=B20210017505; Ophævet 2021-05-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. §§ 5-7, 12 a-12 f og § 16 a i lov om foranstaltninger mod smitsomme og andre overførbare sygdomme og regler fastsat i medfør heraf omfatter Coronavirussygdom 2019 (covid-19).",
       "valid_from": "2021-02-04",
-      "valid_to": null
+      "valid_to": "2021-05-05"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 5. februar 2021. Stk. 2. Bekendtgørelse nr. 213 af 17. marts 2020 om udvidelse af §§ 5-7 og §§ 12 a-12 f i lov om foranstaltninger mod smitsomme og andre overførbare sygdomme til at omfatte Coronavirussygdom 2019 (COVID-19) ophæves.",
       "valid_from": "2021-02-04",
-      "valid_to": null
+      "valid_to": "2021-05-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:34.287Z",
+    "accession": "B20210017505",
+    "document_id": "DI000024",
+    "unique_document_id": "219796",
+    "upstream_status": "Historic",
+    "start_date": "2021-02-04",
+    "end_date": "2021-05-06",
+    "historic_marked": "2021-05-05",
+    "seed_status": "repealed"
+  }
 }

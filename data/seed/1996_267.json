@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod sejlads m.v. i Århus Bugt mellem Skæring Strand og Skødshoved",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-04-17",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1996/267/xml",
-  "description": "Retsinformation source. DocumentId=CM040456; AccessionNumber=B19960026705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM040456; AccessionNumber=B19960026705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:17:57.310Z",
+    "accession": "B19960026705",
+    "document_id": "CM040456",
+    "unique_document_id": "81189",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2026-02-20",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LBK H#LOKDOK03",
   "status": "in_force",
   "issued_date": "2026-02-09",
+  "in_force_date": "2026-02-09",
   "url": "https://www.retsinformation.dk/eli/lta/2026/257/xml",
   "description": "Retsinformation source. DocumentId=CQ003473; AccessionNumber=A20260025729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -593,5 +594,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:41:06.301Z",
+    "accession": "A20260025729",
+    "document_id": "CQ003473",
+    "unique_document_id": "255338",
+    "upstream_status": "Valid",
+    "start_date": "2026-02-09",
+    "end_date": "2026-02-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

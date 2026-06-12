@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om tandpleje m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-12-15",
+  "in_force_date": "2004-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1261/xml",
-  "description": "Retsinformation source. DocumentId=AI001491; AccessionNumber=A20030126129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001491; AccessionNumber=A20030126129; Ophævet 2005-07-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:17:17.953Z",
+    "accession": "A20030126129",
+    "document_id": "AI001491",
+    "unique_document_id": "9807",
+    "upstream_status": "Historic",
+    "start_date": "2004-01-14",
+    "end_date": "2022-07-12",
+    "historic_marked": "2005-07-14",
+    "seed_status": "repealed"
+  }
 }

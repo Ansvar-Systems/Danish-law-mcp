@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ansvar og kompetencefordeling m.v. i forbindelse med administration af tilskud fra Den Europæiske Regionalfond og Den Europæiske Socialfond\\n(Ændring af procedure for behandling af ansøgninger vedrørende anvendelse af midler under målet om regional konkurrenceevne og beskæftigelse, der ikke er fordelt til de regionale vækstfora)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-21",
+  "in_force_date": "2010-01-26",
   "url": "https://www.retsinformation.dk/eli/lta/2010/71/xml",
-  "description": "Retsinformation source. DocumentId=AU003893; AccessionNumber=B20100007105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003893; AccessionNumber=B20100007105; Ophævet 2014-05-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -29,23 +30,34 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17. Danmarks Vækstråd fastsætter temaer for anvendelsen af de regionalfonds- og socialfondsmidler, der ikke er fordelt til de regionale vækstfora . Erhvervs- og Byggestyrelsen udbyder de fastsatte temaer. 1) Jf. § 11 i lov nr. 1599 af 20. december 2006 om administration af tilskud fra Den Europæiske Regionalfond og Den Europæiske Socialfond. Stk. 2. Ansøgninger om tilskud til projekter under de udmeldte temaer indsendes til Erhvervs- og Byggestyrelsen.",
-      "valid_from": "2010-01-21",
-      "valid_to": null
+      "valid_from": "2010-01-26",
+      "valid_to": "2014-05-28"
     },
     {
       "provision_ref": "18",
       "section": "18",
       "content": "§ 18. De projekter, hvortil der ansøges om tilskud, skal være omfattet af målene for de operationelle strukturfondsprogrammer samt understøtte den samlede regionale vækst, erhvervsudvikling og beskæftigelse.",
-      "valid_from": "2010-01-21",
-      "valid_to": null
+      "valid_from": "2010-01-26",
+      "valid_to": "2014-05-28"
     },
     {
       "provision_ref": "19",
       "section": "19",
       "content": "§ 19. Erhvervs- og Byggestyrelsen vurderer og legalitetskontrollerer de indkomne ansøgninger og udarbejder på denne baggrund indstilling om tilsagn og afslag, som sendes i høring hos Danmarks Vækstråd. Stk. 2. Efter høringen af Danmarks Vækstråd træffer Erhvervs- og Byggestyrelsen endelig afgørelse om tilsagn og afslag samt udarbejder tilsagns- og afslagsskrivelser til de konkrete projekter.",
-      "valid_from": "2010-01-21",
-      "valid_to": null
+      "valid_from": "2010-01-26",
+      "valid_to": "2014-05-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:26:26.246Z",
+    "accession": "B20100007105",
+    "document_id": "AU003893",
+    "unique_document_id": "129962",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-26",
+    "end_date": "2017-12-08",
+    "historic_marked": "2014-05-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om aftalt boligforbedring",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-11-15",
+  "in_force_date": "2001-11-22",
   "url": "https://www.retsinformation.dk/eli/lta/2001/976/xml",
-  "description": "Retsinformation source. DocumentId=AC000503; AccessionNumber=B20010097605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000503; AccessionNumber=B20010097605; Ophævet 2003-01-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:21:27.309Z",
+    "accession": "B20010097605",
+    "document_id": "AC000503",
+    "unique_document_id": "4246",
+    "upstream_status": "Historic",
+    "start_date": "2001-11-22",
+    "end_date": "2023-04-29",
+    "historic_marked": "2003-01-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ret til sygehusbehandling og fødselshjælp m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-07",
+  "in_force_date": "2004-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1193/xml",
-  "description": "Retsinformation source. DocumentId=AI001725; AccessionNumber=B20040119305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001725; AccessionNumber=B20040119305; Ophævet 2006-03-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:00:44.188Z",
+    "accession": "B20040119305",
+    "document_id": "AI001725",
+    "unique_document_id": "9950",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-16",
+    "end_date": "2022-07-12",
+    "historic_marked": "2006-03-02",
+    "seed_status": "repealed"
+  }
 }

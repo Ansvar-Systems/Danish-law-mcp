@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indførsel af fødevarer m.v. fra visse lande med særlige restriktioner",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-11-01",
+  "in_force_date": "2002-11-11",
   "url": "https://www.retsinformation.dk/eli/lta/2002/892/xml",
-  "description": "Retsinformation source. DocumentId=AH001307; AccessionNumber=B20020089205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001307; AccessionNumber=B20020089205; Ophævet 2003-03-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:02:28.957Z",
+    "accession": "B20020089205",
+    "document_id": "AH001307",
+    "unique_document_id": "7594",
+    "upstream_status": "Historic",
+    "start_date": "2002-11-11",
+    "end_date": "2022-04-09",
+    "historic_marked": "2003-03-03",
+    "seed_status": "repealed"
+  }
 }

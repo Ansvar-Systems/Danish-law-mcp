@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-09-26",
+  "in_force_date": "2023-09-26",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1184/xml",
   "description": "Retsinformation source. DocumentId=BE009594; AccessionNumber=B20230118405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -447,5 +448,16 @@
       "definition": "den person eller de personer, som fremgår af ansøgningen som projektejer, projektleder eller den regnskabsansvarlige for projektet, eller den person eller de personer som styrelsen i øvrigt har godkendt som projektejer, projektleder eller som den regnskabsansvarlige for projektet",
       "source_provision": "7:27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:03.790Z",
+    "accession": "B20230118405",
+    "document_id": "BE009594",
+    "unique_document_id": "238466",
+    "upstream_status": "Valid",
+    "start_date": "2023-09-26",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

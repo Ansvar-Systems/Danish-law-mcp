@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om lægemidlers fritagelse fra apoteksforbehold",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-09-20",
+  "in_force_date": "2001-09-27",
   "url": "https://www.retsinformation.dk/eli/lta/2001/835/xml",
-  "description": "Retsinformation source. DocumentId=AQ000846; AccessionNumber=B20010083505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AQ000846; AccessionNumber=B20010083505; Ophævet 2003-07-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:15:52.734Z",
+    "accession": "B20010083505",
+    "document_id": "AQ000846",
+    "unique_document_id": "21727",
+    "upstream_status": "Historic",
+    "start_date": "2001-09-27",
+    "end_date": "2022-07-12",
+    "historic_marked": "2003-07-07",
+    "seed_status": "repealed"
+  }
 }

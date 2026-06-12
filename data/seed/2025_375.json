@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-04-08",
+  "in_force_date": "2025-04-09",
   "url": "https://www.retsinformation.dk/eli/lta/2025/375/xml",
   "description": "Retsinformation source. DocumentId=CE001533; AccessionNumber=B20250037505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Reglerne om stillingsstrukturen og indholdet i de stillingskategorier, der kan benyttes for det videnskabelige personale ved universiteter under Uddannelses- og Forskningsministeriet, er gengivet som bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2025-04-08",
+      "valid_from": "2025-04-09",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 11. april 2025. Stk. 2. Bekendtgørelse nr. 1443 af 11. december 2019 om stillingsstruktur for videnskabeligt personale ved universiteter ophæves.",
-      "valid_from": "2025-04-08",
+      "valid_from": "2025-04-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:09:28.945Z",
+    "accession": "B20250037505",
+    "document_id": "CE001533",
+    "unique_document_id": "249075",
+    "upstream_status": "Valid",
+    "start_date": "2025-04-09",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

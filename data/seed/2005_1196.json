@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om disciplinarmyndighed i forsvaret",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-12-08",
+  "in_force_date": "2005-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1196/xml",
-  "description": "Retsinformation source. DocumentId=AG000274; AccessionNumber=B20050119605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000274; AccessionNumber=B20050119605; Ophævet 2023-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:56:46.093Z",
+    "accession": "B20050119605",
+    "document_id": "AG000274",
+    "unique_document_id": "6457",
+    "upstream_status": "Historic",
+    "start_date": "2005-12-19",
+    "end_date": "2023-06-10",
+    "historic_marked": "2023-06-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af vedtægter for Center for IT-forskning (CIT)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-04",
+  "in_force_date": "2000-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2000/309/xml",
-  "description": "Retsinformation source. DocumentId=AF000154; AccessionNumber=B20000030905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000154; AccessionNumber=B20000030905; Ophævet 2003-11-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:14:09.934Z",
+    "accession": "B20000030905",
+    "document_id": "AF000154",
+    "unique_document_id": "6185",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-12",
+    "end_date": "2014-07-02",
+    "historic_marked": "2003-11-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om skatteindberetning m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-11-29",
+  "in_force_date": "2021-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2217/xml",
-  "description": "Retsinformation source. DocumentId=AN015269; AccessionNumber=B20210221705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN015269; AccessionNumber=B20210221705; Ophævet 2023-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:11:24.040Z",
+    "accession": "B20210221705",
+    "document_id": "AN015269",
+    "unique_document_id": "226340",
+    "upstream_status": "Historic",
+    "start_date": "2021-11-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-06-30",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2015-04-29",
+  "in_force_date": "2015-04-29",
   "url": "https://www.retsinformation.dk/eli/lta/2015/532/xml",
   "description": "Retsinformation source. DocumentId=BP001286; AccessionNumber=A20150053230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -241,5 +242,16 @@
       "definition": "selskaber, som udøver mindst en af følgende aktiviteter: 1) Erhvervsmæssigt køb eller salg af pantebreve i fast ejendom, herunder erhvervsmæssigt salg af pantebreve i egen fast ejendom",
       "source_provision": "3:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:13:01.861Z",
+    "accession": "A20150053230",
+    "document_id": "BP001286",
+    "unique_document_id": "169822",
+    "upstream_status": "Valid",
+    "start_date": "2015-04-29",
+    "end_date": "2025-01-11",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-25",
+  "in_force_date": "2001-07-02",
   "url": "https://www.retsinformation.dk/eli/lta/2001/603/xml",
-  "description": "Retsinformation source. DocumentId=AB001154; AccessionNumber=A20010060329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001154; AccessionNumber=A20010060329; Ophævet 2002-10-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:06:38.120Z",
+    "accession": "A20010060329",
+    "document_id": "AB001154",
+    "unique_document_id": "3761",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-02",
+    "end_date": "2024-03-27",
+    "historic_marked": "2002-10-03",
+    "seed_status": "repealed"
+  }
 }

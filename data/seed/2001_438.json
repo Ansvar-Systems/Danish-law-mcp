@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bedømmelse af stemmesedler afgivet til folketingsvalg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-05-31",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/438/xml",
-  "description": "Retsinformation source. DocumentId=AI000514; AccessionNumber=B20010043805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000514; AccessionNumber=B20010043805; Ophævet 2007-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:00:01.393Z",
+    "accession": "B20010043805",
+    "document_id": "AI000514",
+    "unique_document_id": "9053",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2023-04-29",
+    "historic_marked": "2007-06-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om fremgangsmåden ved anmeldelse m.v. af visse oplysninger hos Erhvervs- og Selskabsstyrelsen",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-06-06",
+  "in_force_date": "2007-06-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/571/xml",
-  "description": "Retsinformation source. DocumentId=AU002885; AccessionNumber=A20070057130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002885; AccessionNumber=A20070057130; Ophævet 2013-10-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:27:36.625Z",
+    "accession": "A20070057130",
+    "document_id": "AU002885",
+    "unique_document_id": "27604",
+    "upstream_status": "Historic",
+    "start_date": "2007-06-06",
+    "end_date": "2017-12-09",
+    "historic_marked": "2013-10-15",
+    "seed_status": "repealed"
+  }
 }

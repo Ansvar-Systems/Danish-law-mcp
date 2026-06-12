@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2008-12-16",
+  "in_force_date": "2008-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2008/1311/xml",
   "description": "Retsinformation source. DocumentId=AN009475; AccessionNumber=B20080131105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Normalhandelsværdier pr. 31. december 2008 i efterstående tabel.",
-      "valid_from": "2008-12-16",
+      "valid_from": "2008-12-19",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Landbrugere med kalenderårsregnskab skal benytte de værdier, der er fastsat ved kalenderårets udgang. Anvendes et andet indkomstår end kalenderåret (forskudt indkomstår), skal de værdier, der sidst er offentliggjort forud for regnskabsafslutningen benyttes.",
-      "valid_from": "2008-12-16",
+      "valid_from": "2008-12-19",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 31. december 2008 og har virkning for indkomståret 2008.",
-      "valid_from": "2008-12-16",
+      "valid_from": "2008-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:57:34.940Z",
+    "accession": "B20080131105",
+    "document_id": "AN009475",
+    "unique_document_id": "122547",
+    "upstream_status": "Valid",
+    "start_date": "2008-12-19",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

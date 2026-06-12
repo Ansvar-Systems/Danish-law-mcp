@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Borgerlig Straffelov (Straffeloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-09-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1986/607/xml",
-  "description": "Retsinformation source. DocumentId=CM018188; AccessionNumber=A19860060729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM018188; AccessionNumber=A19860060729; Ophævet 1993-02-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:15:06.864Z",
+    "accession": "A19860060729",
+    "document_id": "CM018188",
+    "unique_document_id": "59236",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2026-01-08",
+    "historic_marked": "1993-02-24",
+    "seed_status": "repealed"
+  }
 }

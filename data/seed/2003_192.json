@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om lån til betaling af ejendomsskatter",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-03-20",
+  "in_force_date": "2003-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2003/192/xml",
-  "description": "Retsinformation source. DocumentId=AI001010; AccessionNumber=A20030019229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001010; AccessionNumber=A20030019229; Ophævet 2009-10-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:20:18.342Z",
+    "accession": "A20030019229",
+    "document_id": "AI001010",
+    "unique_document_id": "9429",
+    "upstream_status": "Historic",
+    "start_date": "2003-03-27",
+    "end_date": "2016-12-16",
+    "historic_marked": "2009-10-29",
+    "seed_status": "repealed"
+  }
 }

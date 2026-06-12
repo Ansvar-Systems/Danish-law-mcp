@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om forsvarets formål, opgaver og organisation m.v.\\n(Ændringer af organiseringen af ledelsen af forsvaret)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-12",
+  "in_force_date": "2013-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2013/625/xml",
-  "description": "Retsinformation source. DocumentId=AG000541; AccessionNumber=A20130062530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AG000541; AccessionNumber=A20130062530; Ophævet 2017-06-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -20,8 +21,19 @@
       "section": "11",
       "content": "§ 11. Forsvarschefen har efter forsvarsministerens nærmere bestemmelse kommandoen over hæren, søværnet og flyvevåbnet.",
       "valid_from": "2013-06-12",
-      "valid_to": null
+      "valid_to": "2017-06-01"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:11:54.817Z",
+    "accession": "A20130062530",
+    "document_id": "AG000541",
+    "unique_document_id": "152284",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-12",
+    "end_date": "2017-06-02",
+    "historic_marked": "2017-06-01",
+    "seed_status": "repealed"
+  }
 }

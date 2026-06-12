@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om anbringelse af levende dyr i forretningslokaler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-12",
+  "in_force_date": "2002-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1024/xml",
-  "description": "Retsinformation source. DocumentId=AA002011; AccessionNumber=B20020102405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002011; AccessionNumber=B20020102405; Ophævet 2014-03-07. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:23:24.894Z",
+    "accession": "B20020102405",
+    "document_id": "AA002011",
+    "unique_document_id": "1492",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-20",
+    "end_date": "2022-04-08",
+    "historic_marked": "2014-03-07",
+    "seed_status": "repealed"
+  }
 }

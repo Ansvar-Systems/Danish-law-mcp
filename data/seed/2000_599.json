@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Danmarks Statistik",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-22",
+  "in_force_date": "2000-07-03",
   "url": "https://www.retsinformation.dk/eli/lta/2000/599/xml",
-  "description": "Retsinformation source. DocumentId=AU000192; AccessionNumber=A20000059929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000192; AccessionNumber=A20000059929; Ophævet 2018-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:25:49.241Z",
+    "accession": "A20000059929",
+    "document_id": "AU000192",
+    "unique_document_id": "25643",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-03",
+    "end_date": "2026-06-04",
+    "historic_marked": "2018-05-31",
+    "seed_status": "repealed"
+  }
 }

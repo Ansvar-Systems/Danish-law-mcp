@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om biavl",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-29",
+  "in_force_date": "2006-07-13",
   "url": "https://www.retsinformation.dk/eli/lta/2006/759/xml",
-  "description": "Retsinformation source. DocumentId=AH002348; AccessionNumber=A20060075929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002348; AccessionNumber=A20060075929; Ophævet 2009-03-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:36:46.209Z",
+    "accession": "A20060075929",
+    "document_id": "AH002348",
+    "unique_document_id": "8480",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-13",
+    "end_date": "2022-04-09",
+    "historic_marked": "2009-03-18",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-12-15",
+  "in_force_date": "2022-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1519/xml",
   "description": "Retsinformation source. DocumentId=DC000804; AccessionNumber=B20220151905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1193 af 8. december 2005 om embedsdyrlægers og tilsynsteknikeres faglige kvalifikationer ophæves.",
-      "valid_from": "2022-12-15",
+      "valid_from": "2022-12-16",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2023.",
-      "valid_from": "2022-12-15",
+      "valid_from": "2022-12-16",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:26.688Z",
+    "accession": "B20220151905",
+    "document_id": "DC000804",
+    "unique_document_id": "233965",
+    "upstream_status": "Valid",
+    "start_date": "2022-12-16",
+    "end_date": "2022-12-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

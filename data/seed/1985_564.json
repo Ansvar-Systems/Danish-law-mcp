@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om skattefri virksomhedsomdannelse",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-12-19",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1985/564/xml",
-  "description": "Retsinformation source. DocumentId=CM022658; AccessionNumber=A19850056430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022658; AccessionNumber=A19850056430; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:58:27.095Z",
+    "accession": "A19850056430",
+    "document_id": "CM022658",
+    "unique_document_id": "63638",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-10-20",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

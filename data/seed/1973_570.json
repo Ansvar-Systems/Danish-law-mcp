@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om nedlæggelse af Københavns havnebane mellem Langebro og Slotsholmsgade",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1973-11-07",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1973/570/xml",
-  "description": "Retsinformation source. DocumentId=CM010213; AccessionNumber=A19730057030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM010213; AccessionNumber=A19730057030; Ophævet 2024-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:48:59.629Z",
+    "accession": "A19730057030",
+    "document_id": "CM010213",
+    "unique_document_id": "51387",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2024-12-11",
+    "historic_marked": "2024-12-10",
+    "seed_status": "repealed"
+  }
 }

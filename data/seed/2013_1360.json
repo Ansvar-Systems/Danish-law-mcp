@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om det fælles datagrundlag og statistiske datavarehus for beskæftigelsesindsatsen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-05",
+  "in_force_date": "2013-12-07",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1360/xml",
-  "description": "Retsinformation source. DocumentId=BE005648; AccessionNumber=B20130136005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005648; AccessionNumber=B20130136005; Ophævet 2013-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17:94",
@@ -21,9 +22,20 @@
       "chapter": "17",
       "section": "94",
       "content": "§ 94 d. De indberettede data anvendes af Arbejdsmarkedsstyrelsens statistiske datavarehus og af det fælles datagrundlag i Arbejdsmarkedsstyrelsen, jf. §§ 58 og 59 i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats. Stk. 2. Data på individniveau om særlig uddannelsesydelse, jf. § 94 c, videregives for så vidt angår arbejdsløshedskassens egne medlemmer til arbejdsløshedskassen til brug for administrationen af midlertidig arbejdsmarkedsydelse, jf. kapitel 9 b i lov om arbejdsløshedsforsikring m.v.",
-      "valid_from": "2013-12-05",
-      "valid_to": null
+      "valid_from": "2013-12-07",
+      "valid_to": "2013-12-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:49.015Z",
+    "accession": "B20130136005",
+    "document_id": "BE005648",
+    "unique_document_id": "159033",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-07",
+    "end_date": "2026-06-12",
+    "historic_marked": "2013-12-20",
+    "seed_status": "repealed"
+  }
 }

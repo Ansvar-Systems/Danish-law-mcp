@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-09",
+  "in_force_date": "2020-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1996/xml",
   "description": "Retsinformation source. DocumentId=BE008649; AccessionNumber=B20200199605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1194 af 9. oktober 2013 om anerkendt arbejdsmiljøcertifikat opnået gennem inspektion samt krav til inspektionsorganernes kontrol af virksomhederne ophæves.",
-      "valid_from": "2020-12-09",
+      "valid_from": "2020-12-18",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2021.",
-      "valid_from": "2020-12-09",
+      "valid_from": "2020-12-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:08:28.767Z",
+    "accession": "B20200199605",
+    "document_id": "BE008649",
+    "unique_document_id": "217986",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-18",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse for Færøerne om kriminalforsorgens organisation",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-06-22",
+  "in_force_date": "2023-06-23",
   "url": "https://www.retsinformation.dk/eli/lta/2023/888/xml",
-  "description": "Retsinformation source. DocumentId=AA013659; AccessionNumber=B20230088805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA013659; AccessionNumber=B20230088805; Ophævet 2023-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -33,25 +34,36 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Kriminalforsorgen Hovedstaden hører under Direktoratet for Kriminalforsorgen.",
-      "valid_from": "2023-06-22",
-      "valid_to": null
+      "valid_from": "2023-06-23",
+      "valid_to": "2023-12-08"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Følgende tjenestesteder hører under Kriminalforsorgen Hovedstaden: KiF Færøerne, Færøerne Arrest og Områdekontoret i København. Stk. 2. Kriminalforsorgen Hovedstaden omfatter følgende kommuner: Eiðis, Eystur, Fámjins, Fuglafjarðar, Fugloyar, Hovs, Húsavíkar, Hvalbiar, Hvannasunds, Klaksvíkar, Kunoyar, Kvívíkar, Nes, Porkeris, Runavíkar, Sands, Sjóvar, Skálavíkar, Skopunar, Skúvoyar, Sumbiar, Sunda, Sørvágs, Tórshavnar, Tvøroyrar, Vága, Vágs, Vestmanna og Viðareiðis.",
-      "valid_from": "2023-06-22",
-      "valid_to": null
+      "valid_from": "2023-06-23",
+      "valid_to": "2023-12-08"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2023.",
-      "valid_from": "2023-06-22",
-      "valid_to": null
+      "valid_from": "2023-06-23",
+      "valid_to": "2023-12-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:05:33.369Z",
+    "accession": "B20230088805",
+    "document_id": "AA013659",
+    "unique_document_id": "238194",
+    "upstream_status": "Historic",
+    "start_date": "2023-06-23",
+    "end_date": "2023-12-09",
+    "historic_marked": "2023-12-08",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-10-19",
+  "in_force_date": "2023-10-19",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1242/xml",
   "description": "Retsinformation source. DocumentId=DH001514; AccessionNumber=B20230124205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -535,5 +536,16 @@
       "definition": "udgifter, der er nødvendige for at gennemføre projektet",
       "source_provision": "6:11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:11:25.188Z",
+    "accession": "B20230124205",
+    "document_id": "DH001514",
+    "unique_document_id": "239438",
+    "upstream_status": "Valid",
+    "start_date": "2023-10-19",
+    "end_date": "2025-08-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

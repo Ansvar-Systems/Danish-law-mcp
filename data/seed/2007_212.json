@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om investorbeskyttelse ved værdipapirhandel",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-03-05",
+  "in_force_date": "2007-03-22",
   "url": "https://www.retsinformation.dk/eli/lta/2007/212/xml",
-  "description": "Retsinformation source. DocumentId=AU002715; AccessionNumber=B20070021205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002715; AccessionNumber=B20070021205; Ophævet 2007-07-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:13:10.709Z",
+    "accession": "B20070021205",
+    "document_id": "AU002715",
+    "unique_document_id": "27466",
+    "upstream_status": "Historic",
+    "start_date": "2007-03-22",
+    "end_date": "2017-12-08",
+    "historic_marked": "2007-07-05",
+    "seed_status": "repealed"
+  }
 }

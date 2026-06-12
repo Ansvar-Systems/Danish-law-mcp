@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om medicinsk udstyr",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-02-27",
+  "in_force_date": "2020-02-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/163/xml",
-  "description": "Retsinformation source. DocumentId=CN001140; AccessionNumber=B20200016305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN001140; AccessionNumber=B20200016305; Ophævet 2021-05-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13a",
@@ -19,9 +20,20 @@
       "provision_ref": "13a",
       "section": "13a",
       "content": "§ 13 a. Lægemiddelstyrelsen offentliggør på styrelsens hjemmeside en ajourført fortegnelse over medicinsk udstyr, hvor driftsansvarlige for offentlige og private sygehuse, autoriserede sundhedspersoner, der udøver selvstændig virksomhed uden for sygehusvæsenet, samt andre, der som led i udøvelsen af deres erhverv anvender medicinsk udstyr, har pligt til at indberette enhver hændelse med udstyret , der kan medføre eller kan have medført enhver form for skade på en patient, en bruger eller en tredjemand, til Lægemiddelstyrelsen.",
-      "valid_from": "2020-02-27",
-      "valid_to": null
+      "valid_from": "2020-02-29",
+      "valid_to": "2021-05-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:53:50.495Z",
+    "accession": "B20200016305",
+    "document_id": "CN001140",
+    "unique_document_id": "212959",
+    "upstream_status": "Historic",
+    "start_date": "2020-02-29",
+    "end_date": "2022-07-12",
+    "historic_marked": "2021-05-21",
+    "seed_status": "repealed"
+  }
 }

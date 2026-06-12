@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om dispachøreksamen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-01-12",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1989/44/xml",
-  "description": "Retsinformation source. DocumentId=CM023230; AccessionNumber=B19890004405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023230; AccessionNumber=B19890004405; Ophævet 2015-06-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:42:29.336Z",
+    "accession": "B19890004405",
+    "document_id": "CM023230",
+    "unique_document_id": "64198",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "2015-06-01",
+    "seed_status": "repealed"
+  }
 }

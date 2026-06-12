@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kemiske stoffer og produkter",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-02-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1980/68/xml",
-  "description": "Retsinformation source. DocumentId=CM008105; AccessionNumber=A19800006830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008105; AccessionNumber=A19800006830; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:06:11.722Z",
+    "accession": "A19800006830",
+    "document_id": "CM008105",
+    "unique_document_id": "49296",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om projektopgaven i folkeskolens 9. klasse",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-09-03",
+  "in_force_date": "2019-09-05",
   "url": "https://www.retsinformation.dk/eli/lta/2019/918/xml",
-  "description": "Retsinformation source. DocumentId=DA000012; AccessionNumber=B20190091805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000012; AccessionNumber=B20190091805; Ophævet 2025-05-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -51,49 +52,60 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den obligatoriske projektopgave på 9. klassetrin er en tværfaglig opgave, der tager afsæt i fagenes mål. Stk. 2. Formålet med opgaven er at udvikle og vurdere elevens projektfaglige kompetencer, herunder elevens evner til at arbejde med: 1) Indkredsning og formulering af problemstilling. 2) Afgrænsning af projektopgavens indhold i forhold til den formulerede problemstilling. 3) Valg og brug af arbejds- og undersøgelsesformer. 4) Valg og brug af indhold og metoder. 5) Valg og brug af kilder og materialer. 6) Valg og brug af udtryks- og formidlingsform. 7) Fremstilling af produkt. 8) Tilrettelæggelse og gennemførelse af fremlæggelsen. Stk. 3. Projektopgaven skal indeholde et eller flere af de praksisfaglige elementer, der er nævnt som kriterier i vurderingen af elevens praksisfaglige forudsætninger i bekendtgørelse om uddannelsesparathedsvurdering, uddannelsesplaner og procedurer ved valg af ungdomsuddannelse.",
-      "valid_from": "2019-09-03",
-      "valid_to": null
+      "valid_from": "2019-09-05",
+      "valid_to": "2025-05-20"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Arbejdet med projektopgaven afsluttes inden udgangen af april. Stk. 2. Eleverne får fem sammenhængende skoledage til det afsluttende arbejde med indsamling af informationer, bearbejdning af emnet, færdiggørelse af deres produkt og forberedelse af fremlæggelsen af det samlede arbejde. Stk. 3. Ved en elevs sygdom eller andet fravær beslutter skolens leder, om og i givet fald hvornår eleven skal gives mulighed for at gennemføre projektopgaven.",
-      "valid_from": "2019-09-03",
-      "valid_to": null
+      "valid_from": "2019-09-05",
+      "valid_to": "2025-05-20"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Klassens eller klassetrinnets lærere udvælger i samråd med eleverne et eller flere overordnede emner, inden for hvilket eleverne vælger et delemne, der giver mulighed for at inddrage viden, metoder og arbejdsformer fra flere fag. Delemnet skal indeholde en problemstilling, som godkendes af den af klassens eller klassetrinnets lærere, der konkret vejleder eleverne under projektarbejdet. Stk. 2. I særlige tilfælde kan læreren godkende, at en elev kan udelade praksisfaglige elementer, hvis læreren vurderer, at eleven bør fokusere på andre faglige elementer. Stk. 3. Eleverne kan udarbejde projektopgaven enkeltvis eller gruppevis.",
-      "valid_from": "2019-09-03",
-      "valid_to": null
+      "valid_from": "2019-09-05",
+      "valid_to": "2025-05-20"
     },
     {
       "provision_ref": "1:4",
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Projektopgaven skal resultere i et produkt og en fremlæggelse, som vælges af eleverne inden for de rammer, som er til rådighed på skolen. Stk. 2. Fremlæggelsen sker enkeltvis eller gruppevis og skal finde sted i forlængelse af de fem sammenhængende skoledage, som eleverne får til at afslutte deres arbejde, jf. § 2, stk. 2.",
-      "valid_from": "2019-09-03",
-      "valid_to": null
+      "valid_from": "2019-09-05",
+      "valid_to": "2025-05-20"
     },
     {
       "provision_ref": "1:5",
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Projektopgaven bedømmes individuelt med en skriftlig udtalelse og en karakter til hver enkelt elev, uanset om opgaven er udarbejdet og fremlæggelsen er sket enkeltvis eller gruppevis. Stk. 2. Den skriftlige udtalelse og karakteren gives ud fra en samlet vurdering af elevens projektfaglige arbejde med opgavens faglighed, arbejdsprocessens forskellige faser, produktet samt fremlæggelsen og formidlingen. Stk. 3. Projektopgaven skal være bedømt senest 1 uge, før de skriftlige prøver finder sted. Stk. 4. Eleverne skal forud for arbejdet med projektopgaven orienteres om, hvad der vil blive lagt vægt på ved bedømmelsen af projektopgaven.",
-      "valid_from": "2019-09-03",
-      "valid_to": null
+      "valid_from": "2019-09-05",
+      "valid_to": "2025-05-20"
     },
     {
       "provision_ref": "1:6",
       "chapter": "1",
       "section": "6",
       "content": "§ 6. Bekendtgørelsen træder i kraft den 9. september 2019. Stk. 2. Bekendtgørelse nr. 692 af 20. juni 2014 om projektopgaven i folkeskolens 9. klasse ophæves.",
-      "valid_from": "2019-09-03",
-      "valid_to": null
+      "valid_from": "2019-09-05",
+      "valid_to": "2025-05-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:11.373Z",
+    "accession": "B20190091805",
+    "document_id": "DA000012",
+    "unique_document_id": "209813",
+    "upstream_status": "Historic",
+    "start_date": "2019-09-05",
+    "end_date": "2025-05-21",
+    "historic_marked": "2025-05-20",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2021-12-28",
+  "in_force_date": "2022-01-03",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2697/xml",
   "description": "Retsinformation source. DocumentId=CQ002010; AccessionNumber=B20210269705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Anordning nr. 2626 af 28. december 2021 om ikrafttræden for Grønland af visse bestemmelser i forskellige ændringslove om erhvervsdrivende fonde sættes i kraft.",
-      "valid_from": "2021-12-28",
+      "valid_from": "2022-01-03",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 5. januar 2022.",
-      "valid_from": "2021-12-28",
+      "valid_from": "2022-01-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:30:49.552Z",
+    "accession": "B20210269705",
+    "document_id": "CQ002010",
+    "unique_document_id": "227996",
+    "upstream_status": "Valid",
+    "start_date": "2022-01-03",
+    "end_date": "2022-01-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-10-09",
+  "in_force_date": "2019-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1344/xml",
   "description": "Retsinformation source. DocumentId=AG000905; AccessionNumber=B20190134405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Isafgiften for perioden 1. januar 2020 til 31. december 2020 udgør 0,05 kr. pr. tons fragtskibsgods.",
-      "valid_from": "2019-10-09",
+      "valid_from": "2019-12-12",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2020.",
-      "valid_from": "2019-10-09",
+      "valid_from": "2019-12-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:17.133Z",
+    "accession": "B20190134405",
+    "document_id": "AG000905",
+    "unique_document_id": "210808",
+    "upstream_status": "Valid",
+    "start_date": "2019-12-12",
+    "end_date": "2019-12-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

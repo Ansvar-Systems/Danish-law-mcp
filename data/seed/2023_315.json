@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fremme af integritet i idrætten",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-03-22",
+  "in_force_date": "2023-03-24",
   "url": "https://www.retsinformation.dk/eli/lta/2023/315/xml",
-  "description": "Retsinformation source. DocumentId=AK002088; AccessionNumber=B20230031505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK002088; AccessionNumber=B20230031505; Ophævet 2023-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7. Sekretariatet for den nationale platform for koordinering af bekæmpelse af manipulation af idrætskonkurrencer er placeret hos Spillemyndigheden.",
-      "valid_from": "2023-03-22",
-      "valid_to": null
+      "valid_from": "2023-03-24",
+      "valid_to": "2023-12-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:42:15.911Z",
+    "accession": "B20230031505",
+    "document_id": "AK002088",
+    "unique_document_id": "235590",
+    "upstream_status": "Historic",
+    "start_date": "2023-03-24",
+    "end_date": "2023-12-20",
+    "historic_marked": "2023-12-19",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om investeringsforeninger og specialforeninger",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-03-07",
+  "in_force_date": "2001-03-19",
   "url": "https://www.retsinformation.dk/eli/lta/2001/158/xml",
-  "description": "Retsinformation source. DocumentId=AU000284; AccessionNumber=A20010015829; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000284; AccessionNumber=A20010015829; Ophævet 2002-08-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:48:43.521Z",
+    "accession": "A20010015829",
+    "document_id": "AU000284",
+    "unique_document_id": "25706",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-19",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-08-15",
+    "seed_status": "repealed"
+  }
 }

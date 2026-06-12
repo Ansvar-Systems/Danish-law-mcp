@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om supplerende dagpenge",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-11-09",
+  "in_force_date": "2016-11-11",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1307/xml",
-  "description": "Retsinformation source. DocumentId=BE007027; AccessionNumber=B20160130705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007027; AccessionNumber=B20160130705; Ophævet 2017-04-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13a",
@@ -19,9 +20,20 @@
       "provision_ref": "13a",
       "section": "13a",
       "content": "§ 13 a. Et medlem anses ikke for at være selvforskyldt ledigt efter bekendtgørelse om selvforskyldt ledighed, hvis medlemmet indgår aftale med en arbejdsgiver om nedsat arbejdstid, hvis det sker i forbindelse med, at medlemmet bliver omfattet af en arbejdsfordeling, jf. § 11.",
-      "valid_from": "2016-11-09",
-      "valid_to": null
+      "valid_from": "2016-11-11",
+      "valid_to": "2017-04-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:44:23.564Z",
+    "accession": "B20160130705",
+    "document_id": "BE007027",
+    "unique_document_id": "184664",
+    "upstream_status": "Historic",
+    "start_date": "2016-11-11",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-04-27",
+    "seed_status": "repealed"
+  }
 }

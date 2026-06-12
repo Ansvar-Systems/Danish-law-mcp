@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om information om livsforsikringsaftaler",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-11-27",
+  "in_force_date": "2017-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1284/xml",
-  "description": "Retsinformation source. DocumentId=CQ000317; AccessionNumber=B20170128405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ000317; AccessionNumber=B20170128405; Ophævet 2024-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3a",
@@ -19,9 +20,20 @@
       "provision_ref": "3a",
       "section": "3a",
       "content": "§ 3 a. Hvis forsikringsselskabet i forbindelse med et tilbud om eller indgåelse af en kontrakt om livsforsikring forelægger forsikringstageren tal vedrørende beløbet på potentielle betalinger, der overstiger og går ud over de kontraktmæssigt fastlagte betalinger, skal selskabet forsyne forsikringstageren med en standardberegning med angivelse af den potentielle betaling på udløbsdatoen ved anvendelse af præmieberegningsgrundlaget ved tre forskellige rentesatser. Stk. 2. Forsikringsselskabet skal klart og forståeligt informere forsikringstageren om, at standardberegningen kun er en beregningsmodel, der er baseret på teoretiske antagelser, og at forsikringstageren ikke kan gøre kontraktmæssige krav gældende på grundlag af standardberegningen. Stk. 3. Stk. 1 finder ikke anvendelse på ophørende forsikringer og kontrakter.",
-      "valid_from": "2017-11-27",
-      "valid_to": null
+      "valid_from": "2017-11-30",
+      "valid_to": "2024-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:48:10.706Z",
+    "accession": "B20170128405",
+    "document_id": "CQ000317",
+    "unique_document_id": "194532",
+    "upstream_status": "Historic",
+    "start_date": "2017-11-30",
+    "end_date": "2024-12-18",
+    "historic_marked": "2024-12-17",
+    "seed_status": "repealed"
+  }
 }

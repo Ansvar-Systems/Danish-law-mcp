@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod omsætning af fødevarer forurenet med dioxin",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-07-22",
+  "in_force_date": "1999-07-29",
   "url": "https://www.retsinformation.dk/eli/lta/1999/613/xml",
-  "description": "Retsinformation source. DocumentId=AH000343; AccessionNumber=B19990061305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000343; AccessionNumber=B19990061305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:35:05.572Z",
+    "accession": "B19990061305",
+    "document_id": "AH000343",
+    "unique_document_id": "6765",
+    "upstream_status": "Historic",
+    "start_date": "1999-07-29",
+    "end_date": "2023-07-11",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

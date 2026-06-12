@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om omkostninger ved godkendte private klage- eller ankenævn",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-02-04",
+  "in_force_date": "2015-02-11",
   "url": "https://www.retsinformation.dk/eli/lta/2015/132/xml",
-  "description": "Retsinformation source. DocumentId=BP001186; AccessionNumber=B20150013205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001186; AccessionNumber=B20150013205; Ophævet 2015-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2:13",
@@ -27,17 +28,28 @@
       "chapter": "2",
       "section": "13",
       "content": "§ 13. Konkurrence- og Forbrugerstyrelsen kan kræve betaling fra et godkendt privat klage- eller ankenævn for dokumenterede udgifter, som Konkurrence- og Forbrugerstyrelsen har haft i forbindelse med udpantning for et nævn, såfremt udgifterne ikke kan dækkes af den erhvervsdrivende hos hvem, der er sket udpantning.",
-      "valid_from": "2015-02-04",
-      "valid_to": null
+      "valid_from": "2015-02-11",
+      "valid_to": "2015-04-29"
     },
     {
       "provision_ref": "3:14",
       "chapter": "3",
       "section": "14",
       "content": "§ 14. Bekendtgørelsen træder i kraft den 1. januar 2015. Stk. 2. Bekendtgørelse nr. 1040 af 8. november 2012 om omkostninger ved godkendte, private klage- eller ankenævn ophæves samtidig.",
-      "valid_from": "2015-02-04",
-      "valid_to": null
+      "valid_from": "2015-02-11",
+      "valid_to": "2015-04-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:35:21.574Z",
+    "accession": "B20150013205",
+    "document_id": "BP001186",
+    "unique_document_id": "167887",
+    "upstream_status": "Historic",
+    "start_date": "2015-02-11",
+    "end_date": "2017-12-09",
+    "historic_marked": "2015-04-29",
+    "seed_status": "repealed"
+  }
 }

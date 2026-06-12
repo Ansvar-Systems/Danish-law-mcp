@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af revisorloven og lov om formidling af fast ejendom m.v. (Gebyrfinansiering af hvidvasktilsyn)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-05-19",
+  "in_force_date": "2020-05-19",
   "url": "https://www.retsinformation.dk/eli/lta/2020/643/xml",
-  "description": "Retsinformation source. DocumentId=CQ001256; AccessionNumber=A20200064330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ001256; AccessionNumber=A20200064330; Ophævet 2021-03-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "49a",
@@ -26,7 +27,7 @@
       "section": "49a",
       "content": "§ 49 a. Erhvervsstyrelsen opkræver et gebyr til finansiering af tilsyn med revisorer og revisionsvirksomheder i henhold til hvidvaskloven hos alle godkendte revisorer, der er tilknyttet en revisionsvirksomhed. Der opkræves dog ikke gebyr hos revisorer, der er tilknyttet en revisionsvirksomhed, der alene har til formål at eje ejerandele i andre revisi‌onsvirksomheder. Stk. 2. Erhvervsstyrelsen kan fastsætte nærmere regler om størrelsen af gebyret.",
       "valid_from": "2020-05-19",
-      "valid_to": null
+      "valid_to": "2021-03-25"
     },
     {
       "provision_ref": "9a:62a",
@@ -34,8 +35,19 @@
       "section": "62a",
       "content": "§ 62 a. Erhvervsstyrelsen opkræver et gebyr til finansiering af tilsyn med ejendomsmæglere og ejendomsmæglervirksomheder i henhold til hvidvaskloven hos alle godkendte ejendomsmæglere, jf. § 6. Stk. 2. Erhvervsstyrelsen kan fastsætte nærmere regler om størrelsen af gebyret.",
       "valid_from": "2020-05-19",
-      "valid_to": null
+      "valid_to": "2021-03-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:37:26.768Z",
+    "accession": "A20200064330",
+    "document_id": "CQ001256",
+    "unique_document_id": "214450",
+    "upstream_status": "Historic",
+    "start_date": "2020-05-19",
+    "end_date": "2022-12-13",
+    "historic_marked": "2021-03-25",
+    "seed_status": "repealed"
+  }
 }

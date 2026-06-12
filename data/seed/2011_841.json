@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2011-07-06",
+  "in_force_date": "2011-07-09",
   "url": "https://www.retsinformation.dk/eli/lta/2011/841/xml",
   "description": "Retsinformation source. DocumentId=AA006107; AccessionNumber=B20110084105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Politiet og anklagemyndigheden kan undlade at give klagevejledning efter forvaltningslovens § 25, stk. 1, i forbindelse med vedtagelse af bødeforelæg.",
-      "valid_from": "2011-07-06",
+      "valid_from": "2011-07-09",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2011.",
-      "valid_from": "2011-07-06",
+      "valid_from": "2011-07-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:23:30.893Z",
+    "accession": "B20110084105",
+    "document_id": "AA006107",
+    "unique_document_id": "137744",
+    "upstream_status": "Valid",
+    "start_date": "2011-07-09",
+    "end_date": "2014-05-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

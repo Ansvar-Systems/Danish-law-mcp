@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om litteratur",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-11-29",
+  "in_force_date": "2003-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1005/xml",
-  "description": "Retsinformation source. DocumentId=AK000301; AccessionNumber=A20030100529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000301; AccessionNumber=A20030100529; Ophævet 2014-01-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:07:00.261Z",
+    "accession": "A20030100529",
+    "document_id": "AK000301",
+    "unique_document_id": "11897",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-18",
+    "end_date": "2020-07-30",
+    "historic_marked": "2014-01-16",
+    "seed_status": "repealed"
+  }
 }

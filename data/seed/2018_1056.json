@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om anvendelse af vejafmærkning",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-08-17",
+  "in_force_date": "2018-08-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1056/xml",
-  "description": "Retsinformation source. DocumentId=CX000444; AccessionNumber=B20180105605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000444; AccessionNumber=B20180105605; Ophævet 2021-12-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "193",
@@ -19,9 +20,20 @@
       "provision_ref": "193",
       "section": "193",
       "content": "§ 193. Parkeringsbås og parkeringsbane skal have dimensioner, så relevante køretøjer kan holde inden for eller på afmærkningen, jf. bekendtgørelse om vejafmærkning. Stk. 2. Bredden af parkeringsbås og parkeringsbane for handicappede skal være mindst 3,5 m. Bredden kan dog reduceres med op til 1 m, såfremt der findes tilstødende område af samme størrelse, der er anvendeligt for udstigning. Parkeringsbåsen skal være så lang, at relevante køretøjer kan holde inden for båsen, jf. bekendtgørelse om vejafmærkning.",
-      "valid_from": "2018-08-17",
-      "valid_to": null
+      "valid_from": "2018-08-18",
+      "valid_to": "2021-12-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:24:45.971Z",
+    "accession": "B20180105605",
+    "document_id": "CX000444",
+    "unique_document_id": "202792",
+    "upstream_status": "Historic",
+    "start_date": "2018-08-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-12-21",
+    "seed_status": "repealed"
+  }
 }

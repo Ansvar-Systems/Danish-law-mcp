@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om Københavns kommunes styrelse",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1984-06-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1984/314/xml",
-  "description": "Retsinformation source. DocumentId=CM011507; AccessionNumber=A19840031429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM011507; AccessionNumber=A19840031429; Ophævet 1991-07-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:38:56.246Z",
+    "accession": "A19840031429",
+    "document_id": "CM011507",
+    "unique_document_id": "52671",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-04-29",
+    "historic_marked": "1991-07-03",
+    "seed_status": "repealed"
+  }
 }

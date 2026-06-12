@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 6, i lov om ændring af lov om afgift af kvælstofoxider, lov om energiafgift af mineralolieprodukter m.v. og lov om afgift af naturgas og bygas (Højere afgift på luftforurening fra NOx m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-01-15",
+  "in_force_date": "2014-01-23",
   "url": "https://www.retsinformation.dk/eli/lta/2014/64/xml",
-  "description": "Retsinformation source. DocumentId=AN011680; AccessionNumber=B20140006405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN011680; AccessionNumber=B20140006405; Ophævet 2020-08-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 6, i lov nr. 1385 af 28. december 2011 om ændring af lov om afgift af kvælstofoxider, lov om energiafgift af mineralolieprodukter m.v. og lov om afgift af naturgas og bygas (Højere afgift på luftforurening fra NOx m.v.) sættes i kraft.",
-      "valid_from": "2014-01-15",
-      "valid_to": null
+      "valid_from": "2014-01-23",
+      "valid_to": "2020-08-19"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2014.",
-      "valid_from": "2014-01-15",
-      "valid_to": null
+      "valid_from": "2014-01-23",
+      "valid_to": "2020-08-19"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:10:49.234Z",
+    "accession": "B20140006405",
+    "document_id": "AN011680",
+    "unique_document_id": "161405",
+    "upstream_status": "Historic",
+    "start_date": "2014-01-23",
+    "end_date": "2026-06-12",
+    "historic_marked": "2020-08-19",
+    "seed_status": "repealed"
+  }
 }

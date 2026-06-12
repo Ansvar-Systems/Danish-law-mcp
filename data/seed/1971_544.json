@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om A-skat efter kildeskatteloven.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1971-12-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1971/544/xml",
-  "description": "Retsinformation source. DocumentId=CM020301; AccessionNumber=B19710054405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020301; AccessionNumber=B19710054405; Ophævet 1989-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T21:23:13.741Z",
+    "accession": "B19710054405",
+    "document_id": "CM020301",
+    "unique_document_id": "61333",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "1999-08-13",
+    "historic_marked": "1989-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-02-08",
+  "in_force_date": "2022-02-09",
   "url": "https://www.retsinformation.dk/eli/lta/2022/208/xml",
   "description": "Retsinformation source. DocumentId=AP000336; AccessionNumber=B20220020805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for ligestillingsafdelingen med tilhørende sagsområder overføres fra Beskæftigelsesministeriet til Transportministeriet.",
-      "valid_from": "2022-02-08",
+      "valid_from": "2022-02-09",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:29:43.161Z",
+    "accession": "B20220020805",
+    "document_id": "AP000336",
+    "unique_document_id": "229204",
+    "upstream_status": "Valid",
+    "start_date": "2022-02-09",
+    "end_date": "2022-02-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

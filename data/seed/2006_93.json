@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om recepter",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-16",
+  "in_force_date": "2006-02-23",
   "url": "https://www.retsinformation.dk/eli/lta/2006/93/xml",
-  "description": "Retsinformation source. DocumentId=AI002149; AccessionNumber=B20060009305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI002149; AccessionNumber=B20060009305; Ophævet 2007-03-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:43:39.703Z",
+    "accession": "B20060009305",
+    "document_id": "AI002149",
+    "unique_document_id": "10230",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-23",
+    "end_date": "2022-07-12",
+    "historic_marked": "2007-03-01",
+    "seed_status": "repealed"
+  }
 }

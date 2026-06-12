@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 14, 15, 18 og 19, § 2, nr. 3, § 3, nr. 10, og § 6, nr. 2 og 3, i lov om ændring af lov om finansiel virksomhed, lov om forvaltere af alternative investeringsfonde m.v., lov om investeringsforeninger m.v. og forskellige andre love",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-02-24",
+  "in_force_date": "2022-03-02",
   "url": "https://www.retsinformation.dk/eli/lta/2022/279/xml",
-  "description": "Retsinformation source. DocumentId=CQ002080; AccessionNumber=B20220027905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ002080; AccessionNumber=B20220027905; Ophævet 2025-01-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 14, 15, 18 og 19, § 2, nr. 3, § 3, nr. 10, og § 6, nr. 2 og 3, i lov nr. 641 af 19. maj 2020 om ændring af lov om finansiel virksomhed, lov om forvaltere af alternative investeringsfonde m.v., lov om investeringsforeninger m.v. og forskellige andre love (Ændringer som følge af PEPP-forordningen, ændring af reglerne for outsourcing og præcisering af reglerne om forsikringsmægleres uafhængighed) sættes i kraft.",
-      "valid_from": "2022-02-24",
-      "valid_to": null
+      "valid_from": "2022-03-02",
+      "valid_to": "2025-01-14"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 22. marts 2022.",
-      "valid_from": "2022-02-24",
-      "valid_to": null
+      "valid_from": "2022-03-02",
+      "valid_to": "2025-01-14"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:32:33.449Z",
+    "accession": "B20220027905",
+    "document_id": "CQ002080",
+    "unique_document_id": "229114",
+    "upstream_status": "Historic",
+    "start_date": "2022-03-02",
+    "end_date": "2025-01-15",
+    "historic_marked": "2025-01-14",
+    "seed_status": "repealed"
+  }
 }

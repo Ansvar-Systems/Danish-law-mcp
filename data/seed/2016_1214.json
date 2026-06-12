@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om betaling for kontrol af fødevarer, foder og levende dyr m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-09-28",
+  "in_force_date": "2016-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1214/xml",
-  "description": "Retsinformation source. DocumentId=CK000953; AccessionNumber=B20160121405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK000953; AccessionNumber=B20160121405; Ophævet 2016-12-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10. Når en rekvireret kontrol omfattet af § 8, stk. 1, eller § 9, stk. 1, aflyses eller omlægges efter ønske fra rekvirenten, betales til dækning af Fødevarestyrelsens ekstraomkostninger ved dette et gebyr på 873 kr. Ved en omlægning forstås, at kontrollen flyttes til en anden dato. Stk. 2. Når en rekvireret kontrol omfattet af § 8, stk. 3, eller § 9, stk. 2, aflyses efter rekvirentens ønske mindre end 72 timer før det planlagte kontroltidspunkt, betales til dækning af Fødevarestyrelsens ekstraomkostninger ved dette et gebyr på 3.481 kr.",
-      "valid_from": "2016-09-28",
-      "valid_to": null
+      "valid_from": "2016-09-30",
+      "valid_to": "2016-12-23"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:39.140Z",
+    "accession": "B20160121405",
+    "document_id": "CK000953",
+    "unique_document_id": "184102",
+    "upstream_status": "Historic",
+    "start_date": "2016-09-30",
+    "end_date": "2022-04-08",
+    "historic_marked": "2016-12-23",
+    "seed_status": "repealed"
+  }
 }

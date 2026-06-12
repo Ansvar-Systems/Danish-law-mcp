@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud under programmet SMV:Digital",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-06-22",
+  "in_force_date": "2022-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2022/980/xml",
-  "description": "Retsinformation source. DocumentId=CQ002269; AccessionNumber=B20220098005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CQ002269; AccessionNumber=B20220098005; Ophævet 2023-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:00:50.593Z",
+    "accession": "B20220098005",
+    "document_id": "CQ002269",
+    "unique_document_id": "232004",
+    "upstream_status": "Historic",
+    "start_date": "2022-06-24",
+    "end_date": "2026-06-04",
+    "historic_marked": "2023-11-30",
+    "seed_status": "repealed"
+  }
 }

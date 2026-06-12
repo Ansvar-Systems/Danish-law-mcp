@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2020-05-28",
+  "in_force_date": "2020-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/703/xml",
   "description": "Retsinformation source. DocumentId=AA011822; AccessionNumber=B20200070305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 11, i lov nr. 710 af 8. juni 2018 om ændring af retsplejeloven (Vidneudelukkelse for patentrådgivere, obligatorisk digital selvbetjening ved ansøgning om fri proces m.v.) sættes i kraft.",
-      "valid_from": "2020-05-28",
+      "valid_from": "2020-05-29",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juni 2020.",
-      "valid_from": "2020-05-28",
+      "valid_from": "2020-05-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:39:52.382Z",
+    "accession": "B20200070305",
+    "document_id": "AA011822",
+    "unique_document_id": "213353",
+    "upstream_status": "Valid",
+    "start_date": "2020-05-29",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

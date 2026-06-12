@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om jordbrugsanalyser og landbrugsplanlægning m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-02-22",
+  "in_force_date": "2000-03-02",
   "url": "https://www.retsinformation.dk/eli/lta/2000/129/xml",
-  "description": "Retsinformation source. DocumentId=AH000545; AccessionNumber=B20000012905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000545; AccessionNumber=B20000012905; Ophævet 2002-10-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:02:07.202Z",
+    "accession": "B20000012905",
+    "document_id": "AH000545",
+    "unique_document_id": "6936",
+    "upstream_status": "Historic",
+    "start_date": "2000-03-02",
+    "end_date": "2022-04-08",
+    "historic_marked": "2002-10-10",
+    "seed_status": "repealed"
+  }
 }

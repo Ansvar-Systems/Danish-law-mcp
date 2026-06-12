@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om helt eller delvis opbevaring her i landet af personoplysninger, der behandles i nærmere bestemte it-systemer, og som føres for den offentlige forvaltning",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-30",
+  "in_force_date": "2020-07-02",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1104/xml",
-  "description": "Retsinformation source. DocumentId=AA011931; AccessionNumber=B20200110405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA011931; AccessionNumber=B20200110405; Ophævet 2022-02-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. It-systemer, der er nævnt i bilag 1, skal føres her i landet.",
-      "valid_from": "2020-06-30",
-      "valid_to": null
+      "valid_from": "2020-07-02",
+      "valid_to": "2022-02-11"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 3. juli 2020.",
-      "valid_from": "2020-06-30",
-      "valid_to": null
+      "valid_from": "2020-07-02",
+      "valid_to": "2022-02-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:32:45.344Z",
+    "accession": "B20200110405",
+    "document_id": "AA011931",
+    "unique_document_id": "215210",
+    "upstream_status": "Historic",
+    "start_date": "2020-07-02",
+    "end_date": "2022-02-12",
+    "historic_marked": "2022-02-11",
+    "seed_status": "repealed"
+  }
 }

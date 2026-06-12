@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om arbejdsskadesikring af uddannelsessøgende m.fl.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-11-26",
+  "in_force_date": "2003-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2003/937/xml",
-  "description": "Retsinformation source. DocumentId=BE000800; AccessionNumber=B20030093705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000800; AccessionNumber=B20030093705; Ophævet 2016-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:50:21.708Z",
+    "accession": "B20030093705",
+    "document_id": "BE000800",
+    "unique_document_id": "29931",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-04",
+    "end_date": "2019-02-07",
+    "historic_marked": "2016-11-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om offentlig sygesikring",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-05-02",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1990/279/xml",
-  "description": "Retsinformation source. DocumentId=CM005678; AccessionNumber=A19900027930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005678; AccessionNumber=A19900027930; Ophævet 1994-02-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:09:12.493Z",
+    "accession": "A19900027930",
+    "document_id": "CM005678",
+    "unique_document_id": "46913",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1994-02-28",
+    "seed_status": "repealed"
+  }
 }

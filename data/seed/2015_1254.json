@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2015-11-17",
+  "in_force_date": "2015-11-17",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1254/xml",
   "description": "Retsinformation source. DocumentId=AA009017; AccessionNumber=B20150125403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -613,5 +614,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:32:41.399Z",
+    "accession": "B20150125403",
+    "document_id": "AA009017",
+    "unique_document_id": "172799",
+    "upstream_status": "Valid",
+    "start_date": "2015-11-17",
+    "end_date": "2015-11-18",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

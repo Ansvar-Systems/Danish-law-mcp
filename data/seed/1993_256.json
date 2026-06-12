@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om restaurations- og hotelvirksomhed m.v. (Restaurationsloven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-05-06",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1993/256/xml",
-  "description": "Retsinformation source. DocumentId=CM025442; AccessionNumber=A19930025630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025442; AccessionNumber=A19930025630; Ophævet 1998-04-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:05:59.478Z",
+    "accession": "A19930025630",
+    "document_id": "CM025442",
+    "unique_document_id": "66319",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2018-12-13",
+    "historic_marked": "1998-04-20",
+    "seed_status": "repealed"
+  }
 }

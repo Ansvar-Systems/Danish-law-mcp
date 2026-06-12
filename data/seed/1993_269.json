@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om jagt og vildtforvaltning(* 1) (* 2)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-05-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/269/xml",
-  "description": "Retsinformation source. DocumentId=CM008156; AccessionNumber=A19930026930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008156; AccessionNumber=A19930026930; Ophævet 1997-08-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:06:29.392Z",
+    "accession": "A19930026930",
+    "document_id": "CM008156",
+    "unique_document_id": "49346",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-01-11",
+    "historic_marked": "1997-08-06",
+    "seed_status": "repealed"
+  }
 }

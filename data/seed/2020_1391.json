@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-09-25",
+  "in_force_date": "2020-09-26",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1391/xml",
   "description": "Retsinformation source. DocumentId=CY000696; AccessionNumber=B20200139105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Social- og indenrigsministerens beføjelser efter akt nr. 318 af 24. september 2020 til at fastsætte nærmere regler om anvendelse af kompensationspulje til socialøkonomiske virksomheder og frivillige sociale organisationer, der driver genbrugsbutikker, herunder at fastsætte bestemmelser om ansøgningsform, tidsfrister, vilkår for tilskud, udbetaling af tilskud, tilbagebetaling af tilskud og renter, regnskab, revision og rapportering om tilskud samt tilsyn og kontrol, og til at træffe beslutning om ydelse af tilskud, meddelelse om tilskud, afslag på ansøgning om tilskud og genanvendelse af tilbagebetalte tilskud delegeres fra social- og indenrigsministeren til Socialstyrelsen.",
-      "valid_from": "2020-09-25",
+      "valid_from": "2020-09-26",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 28. september 2020.",
-      "valid_from": "2020-09-25",
+      "valid_from": "2020-09-26",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:44:15.718Z",
+    "accession": "B20200139105",
+    "document_id": "CY000696",
+    "unique_document_id": "216435",
+    "upstream_status": "Valid",
+    "start_date": "2020-09-26",
+    "end_date": "2025-08-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

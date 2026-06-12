@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om tjenestemandspension",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-01-16",
+  "in_force_date": "2003-02-20",
   "url": "https://www.retsinformation.dk/eli/lta/2003/95/xml",
-  "description": "Retsinformation source. DocumentId=AE000350; AccessionNumber=A20030009529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000350; AccessionNumber=A20030009529; Ophævet 2004-04-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:50:52.233Z",
+    "accession": "A20030009529",
+    "document_id": "AE000350",
+    "unique_document_id": "5260",
+    "upstream_status": "Historic",
+    "start_date": "2003-02-20",
+    "end_date": "2023-10-14",
+    "historic_marked": "2004-04-09",
+    "seed_status": "repealed"
+  }
 }

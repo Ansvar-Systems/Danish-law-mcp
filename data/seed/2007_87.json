@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Forebyggelsesfonden",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-01-30",
+  "in_force_date": "2007-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2007/87/xml",
-  "description": "Retsinformation source. DocumentId=BE002284; AccessionNumber=A20070008730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE002284; AccessionNumber=A20070008730; Ophævet 2014-09-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:39:33.234Z",
+    "accession": "A20070008730",
+    "document_id": "BE002284",
+    "unique_document_id": "31112",
+    "upstream_status": "Historic",
+    "start_date": "2007-01-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2014-09-25",
+    "seed_status": "repealed"
+  }
 }

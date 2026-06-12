@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om Nemkontoordningen",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-02-24",
+  "in_force_date": "2012-03-02",
   "url": "https://www.retsinformation.dk/eli/lta/2012/195/xml",
-  "description": "Retsinformation source. DocumentId=AE001819; AccessionNumber=B20120019505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE001819; AccessionNumber=B20120019505; Ophævet 2021-04-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:50:42.371Z",
+    "accession": "B20120019505",
+    "document_id": "AE001819",
+    "unique_document_id": "140263",
+    "upstream_status": "Historic",
+    "start_date": "2012-03-02",
+    "end_date": "2026-06-04",
+    "historic_marked": "2021-04-14",
+    "seed_status": "repealed"
+  }
 }

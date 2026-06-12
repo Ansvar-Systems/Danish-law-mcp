@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ydelse af præmier for husdyr",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-02-21",
+  "in_force_date": "2002-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2002/99/xml",
-  "description": "Retsinformation source. DocumentId=AH001113; AccessionNumber=B20020009905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001113; AccessionNumber=B20020009905; Ophævet 2002-04-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:06:19.671Z",
+    "accession": "B20020009905",
+    "document_id": "AH001113",
+    "unique_document_id": "7422",
+    "upstream_status": "Historic",
+    "start_date": "2002-02-27",
+    "end_date": "2022-04-08",
+    "historic_marked": "2002-04-11",
+    "seed_status": "repealed"
+  }
 }

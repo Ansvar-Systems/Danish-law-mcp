@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om kapitalpensioner m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-05-20",
+  "in_force_date": "2009-05-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/402/xml",
-  "description": "Retsinformation source. DocumentId=BE003357; AccessionNumber=B20090040205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE003357; AccessionNumber=B20090040205; Ophævet 2012-03-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "2",
@@ -19,9 +20,20 @@
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2 a. For personer, der modtager kontanthjælp eller starthjælp i perioden fra den 1. juni til den 31. december 2009 og i denne periode benytter den særlige mulighed for at anmode om at få udbetalt det samlede indestående på deres SP-konto efter § 17 j, stk. 7-9 i lov om Arbejdsmarkedets Tillægspension, mens de samtidig modtager kontanthjælp eller starthjælp, skal kommunen se bort fra personens og en ægtefælles formue i form af det udbetalte samlede indestående på den særskilte SP-konto. Stk. 2. Når en person omfattet af stk. 1 og dennes ægtefælle ikke har modtaget hjælp efter § 25 i 6 sammenhængende måneder efter udbetalingen af indeståendet på deres SP-konto, skal kommunen ikke længere se bort fra formue omfattet af stk. 1.",
-      "valid_from": "2009-05-20",
-      "valid_to": null
+      "valid_from": "2009-05-28",
+      "valid_to": "2012-03-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:10:31.875Z",
+    "accession": "B20090040205",
+    "document_id": "BE003357",
+    "unique_document_id": "124756",
+    "upstream_status": "Historic",
+    "start_date": "2009-05-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2012-03-08",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af den sociale styrelseslov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-03-14",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/174/xml",
-  "description": "Retsinformation source. DocumentId=CM012608; AccessionNumber=A19900017429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012608; AccessionNumber=A19900017429; Ophævet 1991-07-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:05:01.112Z",
+    "accession": "A19900017429",
+    "document_id": "CM012608",
+    "unique_document_id": "53743",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-08",
+    "historic_marked": "1991-07-26",
+    "seed_status": "repealed"
+  }
 }

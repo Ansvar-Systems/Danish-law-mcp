@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om plantenyheder og lov om planter og plantesundhed m.v. (Opgaver i forbindelse med sortslistegodkendelse og certificering, herunder delegation til private aktører, og gebyrfinansiering af visse af opgaverne)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-09",
+  "in_force_date": "2020-06-09",
   "url": "https://www.retsinformation.dk/eli/lta/2020/809/xml",
-  "description": "Retsinformation source. DocumentId=CK002516; AccessionNumber=A20200080930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002516; AccessionNumber=A20200080930; Ophævet 2020-07-06. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5a",
@@ -20,8 +21,19 @@
       "section": "5a",
       "content": "§ 5 a. Ministeren for fødevarer, fiskeri og ligestilling kan udpege private juridiske personer, der skal foretage afprøvning af sorter til brug for sortslistegodkendelse, plantenyhedsbeskyttelse og certificering af planteformeringsmateriale i medfør af regler fastsat efter § 5. Stk. 2. Ministeren kan fastsætte nærmere regler om udpegning efter stk. 1, herunder om kriterier og vilkår for udpegning, om ansøgningsprocedure og om tilbagekaldelse og ophør af en udpegning. Stk. 3. Ministeren kan fastsætte regler om udpegning af private juridiske personer til at udføre officiel avlskontrol og prøvetagning i medfør af regler fastsat efter § 5.",
       "valid_from": "2020-06-09",
-      "valid_to": null
+      "valid_to": "2020-07-06"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:44:06.210Z",
+    "accession": "A20200080930",
+    "document_id": "CK002516",
+    "unique_document_id": "215011",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-09",
+    "end_date": "2022-04-08",
+    "historic_marked": "2020-07-06",
+    "seed_status": "repealed"
+  }
 }

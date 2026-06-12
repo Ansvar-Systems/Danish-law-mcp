@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-06-10",
+  "in_force_date": "2022-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1036/xml",
   "description": "Retsinformation source. DocumentId=AP000342; AccessionNumber=B20220103605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Kompetencen til i medfør af § 38 e i lov om kemikalier, jf. lovbekendtgørelse nr. 244 af 17. februar 2022, at fastsætte regler for så vidt angår jordbrug om, at den ansvarlige for en ejendom, hvorpå der erhvervsmæssigt anvendes bekæmpelsesmidler, skal føre journal over brugen af disse midler, overføres fra ministeren for fødevarer, landbrug og fiskeri til miljøministeren.",
-      "valid_from": "2022-06-10",
+      "valid_from": "2022-06-29",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Kompetencen til i medfør af § 41 a i lov om kemikalier, jf. lovbekendtgørelse nr. 244 af 17. februar 2022, at fastsætte regler for så vidt angår jordbrug om, at erhvervsmæssige brugere af plantebeskyttelsesmidler skal indberette oplysninger om brugen af plantebeskyttelsesmidlerne, overføres fra ministeren for fødevarer, landbrug og fiskeri til miljøministeren.",
-      "valid_from": "2022-06-10",
+      "valid_from": "2022-06-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:02:56.567Z",
+    "accession": "B20220103605",
+    "document_id": "AP000342",
+    "unique_document_id": "231865",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-29",
+    "end_date": "2022-06-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

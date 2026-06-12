@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om radiogrænseflade nr. 00 070 for LPR (Level Probing Radar) udstyr i frekvensbåndene 4,5-7,0 GHz, 6,0-8,5 GHz, 8,5-10,6 GHz, 24,05-26,5 GHz, 24,05-27,0 GHz, 57-64 GHz og 75-85 GHz",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-11-29",
+  "in_force_date": "2017-12-01",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1316/xml",
-  "description": "Retsinformation source. DocumentId=CI000363; AccessionNumber=B20170131605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000363; AccessionNumber=B20170131605; Ophævet 2018-05-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. For LPR (Level Probing Radar) udstyr i frekvensbåndene 4,5-7,0 GHz, 6,0-8,5 GHz, 8,5-10,6 GHz, 24,05-26,5 GHz, 57-64 GHz og 75-85 GHz, gælder følgende danske radiogrænseflade, jf. bilag 1: Radiogrænseflade nr. 00 070 for LPR (Level Probing Radar) udstyr i frekvensbåndene 4,5-7,0 GHz, 6,0-8,5 GHz, 8,5-10,6 GHz, 24,05-26,5 GHz, 24,05-27,0 GHz, 57-64 GHz og 75-85 GHz.",
-      "valid_from": "2017-11-29",
-      "valid_to": null
+      "valid_from": "2017-12-01",
+      "valid_to": "2018-05-31"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2018. Stk. 2. Bekendtgørelse nr. 498 af 20. maj 2014 om Dansk radiogrænseflade nr. 00 070 for LPR (Level Probing Radar) udstyr i frekvensbåndene 6,0-8,5 GHz, 24,05-26,5 GHz, 57-64 GHz og 75-85 GHz ophæves.",
-      "valid_from": "2017-11-29",
-      "valid_to": null
+      "valid_from": "2017-12-01",
+      "valid_to": "2018-05-31"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:49:29.036Z",
+    "accession": "B20170131605",
+    "document_id": "CI000363",
+    "unique_document_id": "194956",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-01",
+    "end_date": "2026-06-04",
+    "historic_marked": "2018-05-31",
+    "seed_status": "repealed"
+  }
 }

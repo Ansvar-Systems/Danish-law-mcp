@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om afgift af affald og råstoffer",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-22",
+  "in_force_date": "2000-05-23",
   "url": "https://www.retsinformation.dk/eli/lta/2000/359/xml",
-  "description": "Retsinformation source. DocumentId=AN000989; AccessionNumber=A20000035930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000989; AccessionNumber=A20000035930; Ophævet 2006-12-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:16:09.551Z",
+    "accession": "A20000035930",
+    "document_id": "AN000989",
+    "unique_document_id": "13783",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-23",
+    "end_date": "2006-12-04",
+    "historic_marked": "2006-12-04",
+    "seed_status": "repealed"
+  }
 }

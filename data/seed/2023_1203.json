@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-09-27",
+  "in_force_date": "2023-09-28",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1203/xml",
   "description": "Retsinformation source. DocumentId=AP000367; AccessionNumber=B20230120305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "2",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver vedrørende bogholderi og regnskab, herunder kreditor- og debitoradministration, udarbejdelse af dokumentation til brug for perioderegnskab, afstemning af likviditetskonti, anlægsadministration, regnskabsmæssig registrering af tilskud i Navision Stat, vedligeholdelse af registreringsramme i regnskabssystemet, bogføring af rejseafregning, udarbejdelse af standard ledelsesinformation til understøttelse af institutionernes styringsbehov samt ressortansvaret for alle opgaver vedrørende support på standard Navision Stat, der vedrører Syd- og Sønderjyllands Politi, Fyns Politi, Midt- og Vestsjællands Politi, Nordsjællands Politi, Københavns Vestegns Politi, Bornholms Politi, Færøernes Politi, Grønlands Politi, National enhed for Særlig Kriminalitet samt bogføringskreds 12815 (Den Centrale Anklagemyndighed (Rigsadvokaten)) og 12820 (bogføringskreds uden selvstændig likviditet), overføres i henhold til nærmere aftale mellem justitsministeren og finansministeren fra justitsministeren til finansministeren pr. 1. oktober 2023.",
-      "valid_from": "2023-09-27",
+      "valid_from": "2023-09-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:09:51.989Z",
+    "accession": "B20230120305",
+    "document_id": "AP000367",
+    "unique_document_id": "239093",
+    "upstream_status": "Valid",
+    "start_date": "2023-09-28",
+    "end_date": "2023-09-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

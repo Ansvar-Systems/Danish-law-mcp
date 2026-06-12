@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-02-07",
+  "in_force_date": "2023-02-07",
   "url": "https://www.retsinformation.dk/eli/lta/2023/141/xml",
   "description": "Retsinformation source. DocumentId=DC000902; AccessionNumber=B20230014105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -185,5 +186,16 @@
       "definition": "i denne bekendtgørelse fødevarer, der 1) har til formål at supplere den normale kost, 2) er koncentrerede kilder til næringsstoffer eller andre stoffer med en ernæringsmæssig eller fysiologisk virkning, alene eller kombinerede, og 3) markedsføres i dosisform, fx kapsler, pastiller, tabletter, piller og andre lignende former, pulverbreve, væskeampuller, dråbedispenseringsflasker og andre lignende former for væsker og pulvere beregnet til at blive indtaget i mindre afmålte mængder",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:18:10.031Z",
+    "accession": "B20230014105",
+    "document_id": "DC000902",
+    "unique_document_id": "234708",
+    "upstream_status": "Valid",
+    "start_date": "2023-02-07",
+    "end_date": "2025-01-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2021-12-03",
+  "in_force_date": "2021-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2021/2375/xml",
   "description": "Retsinformation source. DocumentId=AK001929; AccessionNumber=B20210237505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Institutioner som modtager kompensation i henhold til § 1, stk. 2, 1. pkt., skal senest 6 måneder efter ophøret af kompensationsperioden, jf. dog stk. 5, 6 og 8, indsende følgende supplerende dokumentation:",
-      "valid_from": "2021-12-03",
+      "valid_from": "2021-12-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:17:47.761Z",
+    "accession": "B20210237505",
+    "document_id": "AK001929",
+    "unique_document_id": "228113",
+    "upstream_status": "Valid",
+    "start_date": "2021-12-13",
+    "end_date": "2021-12-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

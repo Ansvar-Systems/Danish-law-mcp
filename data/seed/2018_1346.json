@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-11-22",
+  "in_force_date": "2018-11-30",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1346/xml",
   "description": "Retsinformation source. DocumentId=AA011067; AccessionNumber=B20180134605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Direktøren for kriminalforsorgen bemyndiges til at ansætte og afskedige tjenestemænd i lønramme 1-35. Stk. 2. Uansøgt afskedigelse kan kun foretages af justitsministeren, jf. dog § 3, stk. 2.",
-      "valid_from": "2018-11-22",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Områdedirektørerne for de fire kriminalforsorgsområder bemyndiges til inden for deres eget område at ansætte tjenestemænd i lønramme 1-34. Stk. 2. Direktøren for kriminalforsorgen i Grønland bemyndiges til at ansætte tjenestemænd i lønramme 1-34 ved kriminalforsorgen i Grønland.",
-      "valid_from": "2018-11-22",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Tjenestemænd, der er ansat af henholdsvis områdedirektørerne og direktøren for kriminalforsorgen i Grønland, afskediges efter ansøgning af disse. Stk. 2. Områdedirektørerne kan træffe bestemmelse om uansøgt afskedigelse på grund af manglende egnethed af prøveansatte tjenestemænd i de første 6 måneder af prøveansættelsen i henhold til tjenestemandslovens § 33. Tilsvarende gælder for direktøren for kriminalforsorgen i Grønland, jf. den grønlandske tjenestemandslovs § 33. Direktøren for kriminalforsorgen træffer bestemmelse om uansøgt afskedigelse af øvrige prøveansatte i henhold til tjenestemandslovens § 33.",
-      "valid_from": "2018-11-22",
+      "valid_from": "2018-11-30",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. december 2018. Stk. 2. Bekendtgørelse nr. 1404 af 16. december 2014 om delegation af ansættelses- og afskedigelseskompetence i kriminalforsorgen ophæves.",
-      "valid_from": "2018-11-22",
+      "valid_from": "2018-11-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:36:33.283Z",
+    "accession": "B20180134605",
+    "document_id": "AA011067",
+    "unique_document_id": "203471",
+    "upstream_status": "Valid",
+    "start_date": "2018-11-30",
+    "end_date": "2026-02-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

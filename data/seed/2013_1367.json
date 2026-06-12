@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af årsregnskabsloven, selskabsloven og forskellige andre love\\n(Årsrapporter på engelsk og redegørelse for samfundsansvar)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-12-10",
+  "in_force_date": "2013-12-10",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1367/xml",
-  "description": "Retsinformation source. DocumentId=BP000746; AccessionNumber=A20130136730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000746; AccessionNumber=A20130136730; Ophævet 2015-12-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "100",
@@ -20,8 +21,19 @@
       "section": "100",
       "content": "§ 100 a. Generalforsamlingen kan med simpelt flertal beslutte, at årsrapporten udarbejdes og aflægges på engelsk. Generalforsamlingens beslutning herom skal optages i vedtægterne. Optagelsen af generalforsamlingens beslutning i vedtægterne kræver ikke særskilt vedtagelse.",
       "valid_from": "2013-12-10",
-      "valid_to": null
+      "valid_to": "2015-12-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:41:04.209Z",
+    "accession": "A20130136730",
+    "document_id": "BP000746",
+    "unique_document_id": "160439",
+    "upstream_status": "Historic",
+    "start_date": "2013-12-10",
+    "end_date": "2023-10-28",
+    "historic_marked": "2015-12-15",
+    "seed_status": "repealed"
+  }
 }

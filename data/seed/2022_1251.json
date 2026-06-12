@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af dele af lov om ændring af lov om fremme af vedvarende energi",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2022-09-06",
+  "in_force_date": "2022-09-07",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1251/xml",
-  "description": "Retsinformation source. DocumentId=DB000550; AccessionNumber=B20220125105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000550; AccessionNumber=B20220125105; Ophævet 2024-02-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -33,25 +34,36 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 35 e i lov om fremme af vedvarende energi, som affattet ved § 1, nr. 3, i lov nr. 499 af 1. maj 2019 om ændring af lov om fremme af vedvarende energi (Støtteordninger til forsøgsvindmøller, ophør af støtteordning for husstandsvindmøller i 2020 og udvidelse af den kommunale indsigelsesret m.v.) sættes i kraft.",
-      "valid_from": "2022-09-06",
-      "valid_to": null
+      "valid_from": "2022-09-07",
+      "valid_to": "2024-02-09"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. § 1, nr. 6, 8, 11 og 12 samt § 2 i lov nr. 499 af 1. maj 2019 om ændring af lov om fremme af vedvarende energi (Støtteordninger til forsøgsvindmøller, ophør af støtteordning for husstandsvindmøller i 2020 og udvidelse af den kommunale indsigelsesret m.v.) sættes i kraft.",
-      "valid_from": "2022-09-06",
-      "valid_to": null
+      "valid_from": "2022-09-07",
+      "valid_to": "2024-02-09"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 9. september 2022.",
-      "valid_from": "2022-09-06",
-      "valid_to": null
+      "valid_from": "2022-09-07",
+      "valid_to": "2024-02-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:11:38.751Z",
+    "accession": "B20220125105",
+    "document_id": "DB000550",
+    "unique_document_id": "232660",
+    "upstream_status": "Historic",
+    "start_date": "2022-09-07",
+    "end_date": "2024-02-10",
+    "historic_marked": "2024-02-09",
+    "seed_status": "repealed"
+  }
 }

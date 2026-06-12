@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2021-02-12",
+  "in_force_date": "2021-02-23",
   "url": "https://www.retsinformation.dk/eli/lta/2021/239/xml",
   "description": "Retsinformation source. DocumentId=CQ001599; AccessionNumber=B20210023905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 2 i lov nr. 2199 af 29. december 2020 om ændring af selskabsloven og lov om bemyndigelse til midlertidig fravigelse af virksomheders pligter på selskabs- og regnskabsområdet i forbindelse med covid-19 (Lempeligere krav til omregistrering af iværksætterselskaber til anpartsselskaber og bemyndigelse til midlertidig fravigelse af bestemmelser om fysisk fremmøde ved generalforsamling i virksomheders vedtægter eller tilsvarende aftaler i forbindelse med covid-19 m.v.) sættes i kraft.",
-      "valid_from": "2021-02-12",
+      "valid_from": "2021-02-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 26. februar 2021.",
-      "valid_from": "2021-02-12",
+      "valid_from": "2021-02-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:18:22.672Z",
+    "accession": "B20210023905",
+    "document_id": "CQ001599",
+    "unique_document_id": "220882",
+    "upstream_status": "Valid",
+    "start_date": "2021-02-23",
+    "end_date": "2021-02-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om indfødsretsprøve",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-07",
+  "in_force_date": "2006-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2006/487/xml",
-  "description": "Retsinformation source. DocumentId=BC000358; AccessionNumber=A20060048730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000358; AccessionNumber=A20060048730; Ophævet 2013-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:25:51.752Z",
+    "accession": "A20060048730",
+    "document_id": "BC000358",
+    "unique_document_id": "29038",
+    "upstream_status": "Historic",
+    "start_date": "2006-06-07",
+    "end_date": "2017-12-12",
+    "historic_marked": "2013-12-17",
+    "seed_status": "repealed"
+  }
 }

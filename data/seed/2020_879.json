@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om godkendelse af køretøjer på jernbaneområdet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-06-11",
+  "in_force_date": "2020-06-16",
   "url": "https://www.retsinformation.dk/eli/lta/2020/879/xml",
-  "description": "Retsinformation source. DocumentId=CZ000252; AccessionNumber=B20200087905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000252; AccessionNumber=B20200087905; Ophævet 2023-12-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:46:53.948Z",
+    "accession": "B20200087905",
+    "document_id": "CZ000252",
+    "unique_document_id": "215065",
+    "upstream_status": "Historic",
+    "start_date": "2020-06-16",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-12-12",
+    "seed_status": "repealed"
+  }
 }

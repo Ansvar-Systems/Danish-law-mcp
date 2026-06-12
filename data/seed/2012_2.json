@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2012-01-04",
+  "in_force_date": "2012-01-06",
   "url": "https://www.retsinformation.dk/eli/lta/2012/2/xml",
   "description": "Retsinformation source. DocumentId=AA006350; AccessionNumber=B20120000205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bestemmelserne i Kommissionens gennemførelsesforordning (EU) nr. 1142/2011 om fastsættelse af bilag X og XI til Rådets forordning (EF) nr. 4/2009 om kompetence, lovvalg, anerkendelse og fuldbyrdelse af retsafgørelser og samarbejde vedrørende underholdspligt gælder her i landet.",
-      "valid_from": "2012-01-04",
+      "valid_from": "2012-01-06",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 8. januar 2012.",
-      "valid_from": "2012-01-04",
+      "valid_from": "2012-01-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:50:53.277Z",
+    "accession": "B20120000205",
+    "document_id": "AA006350",
+    "unique_document_id": "139988",
+    "upstream_status": "Valid",
+    "start_date": "2012-01-06",
+    "end_date": "2018-11-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

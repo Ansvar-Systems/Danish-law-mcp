@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2017-08-23",
+  "in_force_date": "2017-08-31",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1021/xml",
   "description": "Retsinformation source. DocumentId=AA010266; AccessionNumber=B20170102105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "20a",
       "section": "20a",
       "content": "§ 20 a. Fremtidsfuldmagtsregisteret føres digitalt ved Tin‌glysningsretten.",
-      "valid_from": "2017-08-23",
+      "valid_from": "2017-08-31",
       "valid_to": null
     },
     {
       "provision_ref": "20b",
       "section": "20b",
       "content": "§ 20 b. En fremtidsfuldmagt, som er oprettet i Fremtidsfuldmagtsregisteret, notarpåtegnes digitalt i Fremtidsfuldmagtsregisteret.",
-      "valid_from": "2017-08-23",
+      "valid_from": "2017-08-31",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:37:40.937Z",
+    "accession": "B20170102105",
+    "document_id": "AA010266",
+    "unique_document_id": "192451",
+    "upstream_status": "Valid",
+    "start_date": "2017-08-31",
+    "end_date": "2017-08-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

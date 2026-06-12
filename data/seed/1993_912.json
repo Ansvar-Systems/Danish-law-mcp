@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om skibes besætning (* 1)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-12-08",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1993/912/xml",
-  "description": "Retsinformation source. DocumentId=CM025581; AccessionNumber=A19930091230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025581; AccessionNumber=A19930091230; Ophævet 1994-02-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:32:03.094Z",
+    "accession": "A19930091230",
+    "document_id": "CM025581",
+    "unique_document_id": "66455",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-09",
+    "historic_marked": "1994-02-18",
+    "seed_status": "repealed"
+  }
 }

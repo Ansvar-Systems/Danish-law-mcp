@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2019-09-26",
+  "in_force_date": "2019-09-28",
   "url": "https://www.retsinformation.dk/eli/lta/2019/994/xml",
   "description": "Retsinformation source. DocumentId=CZ000026; AccessionNumber=B20190099405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "2a",
       "section": "2a",
       "content": "§ 2 a. Har en lejer over for den selvejende institution dokumenteret fritagelse for Digital Post, jf. § 5 i lov om Digital Post fra offentlige afsendere, kan meddelelser efter denne bekendtgørelse ikke sendes som digitale dokumenter. Stk. 2. Den selvejende institution oplyser ved et fysisk brev lejerne om den fremtidige anvendelse af digital kommunikation og om muligheden for at blive fritaget for digital kommunikation med den selvejende institution.",
-      "valid_from": "2019-09-26",
+      "valid_from": "2019-09-28",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:28:16.180Z",
+    "accession": "B20190099405",
+    "document_id": "CZ000026",
+    "unique_document_id": "210320",
+    "upstream_status": "Valid",
+    "start_date": "2019-09-28",
+    "end_date": "2023-04-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

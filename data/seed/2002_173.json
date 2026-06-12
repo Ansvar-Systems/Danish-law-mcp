@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Nævnet vedrørende EU-oplysning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-03-21",
+  "in_force_date": "2002-03-26",
   "url": "https://www.retsinformation.dk/eli/lta/2002/173/xml",
-  "description": "Retsinformation source. DocumentId=AT000942; AccessionNumber=B20020017305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000942; AccessionNumber=B20020017305; Ophævet 2005-04-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:34:01.230Z",
+    "accession": "B20020017305",
+    "document_id": "AT000942",
+    "unique_document_id": "23861",
+    "upstream_status": "Historic",
+    "start_date": "2002-03-26",
+    "end_date": "2013-11-16",
+    "historic_marked": "2005-04-11",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-06-26",
+  "in_force_date": "2020-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2020/987/xml",
   "description": "Retsinformation source. DocumentId=BE008470; AccessionNumber=B20200098705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 716 af 26. maj 2020 om forvaltning og administration af tilgodehavende feriemidler ophæves.",
-      "valid_from": "2020-06-26",
+      "valid_from": "2020-06-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 30. juni 2020.",
-      "valid_from": "2020-06-26",
+      "valid_from": "2020-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:51:14.667Z",
+    "accession": "B20200098705",
+    "document_id": "BE008470",
+    "unique_document_id": "215611",
+    "upstream_status": "Valid",
+    "start_date": "2020-06-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

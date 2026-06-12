@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om gennemførelse af Kommissionens beslutning af 20. december 2007 vedrørende den tekniske specifikation for interoperabilitet for »sikkerhed i jernbanetunneler« i det transeuropæiske jernbanesystem for konventionelle tog og højhastighedstog",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-06-26",
+  "in_force_date": "2008-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2008/676/xml",
-  "description": "Retsinformation source. DocumentId=BL000078; AccessionNumber=B20080067605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000078; AccessionNumber=B20080067605; Ophævet 2015-07-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -34,30 +35,41 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen gennemfører kommissionens beslutning af 20. december 2007 vedrørende den tekniske specifikation for interoperabilitet for »sikkerhed i jernbanetunneler« i det transeuropæiske jernbanesystem for konventionelle tog og højhastighedstog Stk. 2. Kommissionens beslutning med tilhørende bilag, Teknisk Specifikation for Interoperabilitet for sikkerhed i jernbanetunneler i det transeuropæiske jernbanesystem for konventionelle tog og højhastighedstog er vedlagt som bilag til bekendtgørelsen.",
-      "valid_from": "2008-06-26",
-      "valid_to": null
+      "valid_from": "2008-06-28",
+      "valid_to": "2015-07-13"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Medlemsstaternes kompetencer efter kommissionsbeslutningen med tilhørende bilag udøves af Trafikstyrelsen for Jernbane og Færger.",
-      "valid_from": "2008-06-26",
-      "valid_to": null
+      "valid_from": "2008-06-28",
+      "valid_to": "2015-07-13"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen gælder for: a) nye delsystemer inden for områderne jernbaneinfrastruktur, energi, togkontrol og signaler, drift og rullende materiel, og b) eksisterende delsystemer inden for områderne jernbaneinfrastruktur, energi, togkontrol og signaler, drift og rullende materiel, der opgraderes eller fornyes efter bekendtgørelsens ikrafttræden.",
-      "valid_from": "2008-06-26",
-      "valid_to": null
+      "valid_from": "2008-06-28",
+      "valid_to": "2015-07-13"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. juli 2008.",
-      "valid_from": "2008-06-26",
-      "valid_to": null
+      "valid_from": "2008-06-28",
+      "valid_to": "2015-07-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:24:19.271Z",
+    "accession": "B20080067605",
+    "document_id": "BL000078",
+    "unique_document_id": "120476",
+    "upstream_status": "Historic",
+    "start_date": "2008-06-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-07-13",
+    "seed_status": "repealed"
+  }
 }

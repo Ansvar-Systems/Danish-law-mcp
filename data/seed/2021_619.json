@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af § 1, nr. 1, i lov om ændring af lov om erhvervsuddannelser og lov om Arbejdsgivernes Uddannelsesbidrag (Øget søgning til erhvervsuddannelse for voksne m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-04-12",
+  "in_force_date": "2021-04-13",
   "url": "https://www.retsinformation.dk/eli/lta/2021/619/xml",
-  "description": "Retsinformation source. DocumentId=DA000484; AccessionNumber=B20210061905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DA000484; AccessionNumber=B20210061905; Ophævet 2021-09-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 1, i lov nr. 1692 af 27. december 2017 om ændring af lov om erhvervsuddannelser og lov om Arbejdsgivernes Uddannelsesbidrag (Øget søgning til erhvervsuddannelse for voksne m.v.) sættes i kraft.",
-      "valid_from": "2021-04-12",
-      "valid_to": null
+      "valid_from": "2021-04-13",
+      "valid_to": "2021-09-29"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2021.",
-      "valid_from": "2021-04-12",
-      "valid_to": null
+      "valid_from": "2021-04-13",
+      "valid_to": "2021-09-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:05.126Z",
+    "accession": "B20210061905",
+    "document_id": "DA000484",
+    "unique_document_id": "221714",
+    "upstream_status": "Historic",
+    "start_date": "2021-04-13",
+    "end_date": "2021-09-30",
+    "historic_marked": "2021-09-29",
+    "seed_status": "repealed"
+  }
 }

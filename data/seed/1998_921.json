@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om Telestyrelsens administration af nummerressourcer m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-09",
+  "in_force_date": "1998-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/1998/921/xml",
-  "description": "Retsinformation source. DocumentId=AF000019; AccessionNumber=B19980092105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000019; AccessionNumber=B19980092105; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:04:26.310Z",
+    "accession": "B19980092105",
+    "document_id": "AF000019",
+    "unique_document_id": "6078",
+    "upstream_status": "Historic",
+    "start_date": "1998-12-27",
+    "end_date": "2026-06-04",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

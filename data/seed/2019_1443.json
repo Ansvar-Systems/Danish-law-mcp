@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om stillingsstruktur for videnskabeligt personale ved universiteter",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-11",
+  "in_force_date": "2019-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1443/xml",
-  "description": "Retsinformation source. DocumentId=CE000892; AccessionNumber=B20190144305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CE000892; AccessionNumber=B20190144305; Ophævet 2025-04-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Reglerne om stillingsstrukturen og indholdet i de stillingskategorier, der kan benyttes for det videnskabelige personale ved universiteter under Uddannelses- og Forskningsministeriet, er gengivet som bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2019-12-11",
-      "valid_to": null
+      "valid_from": "2019-12-18",
+      "valid_to": "2025-04-09"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2020. Stk. 2. Bekendtgørelse nr. 899 af 1. juli 2015 om stillingsstruktur for videnskabeligt personale ved universiteter ophæves.",
-      "valid_from": "2019-12-11",
-      "valid_to": null
+      "valid_from": "2019-12-18",
+      "valid_to": "2025-04-09"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:16.696Z",
+    "accession": "B20190144305",
+    "document_id": "CE000892",
+    "unique_document_id": "212083",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-18",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-04-09",
+    "seed_status": "repealed"
+  }
 }

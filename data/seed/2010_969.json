@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fødevarehygiejne\\n(Ophævelse af visse temperatur- og holdbarhedsbestemmelser)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-08-12",
+  "in_force_date": "2010-08-14",
   "url": "https://www.retsinformation.dk/eli/lta/2010/969/xml",
-  "description": "Retsinformation source. DocumentId=AH003956; AccessionNumber=B20100096905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003956; AccessionNumber=B20100096905; Ophævet 2016-01-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "23",
@@ -19,9 +20,20 @@
       "provision_ref": "23",
       "section": "23",
       "content": "§ 23. Opbevaring og transport af de i bilag 3 nævnte fødevarer må maksimalt ske ved de temperaturer, der er angivet i bilaget ud for de enkelte fødevarer, jf. dog stk. 2-4. De i bilaget angivne temperaturer skal overholdes, uanset der i forbindelse med fødevarens mærkning er angivet en højere opbevaringstemperatur. Stk. 2. Virksomheder kan transportere fødevarer direkte til den endelige forbruger uden at overholde de i bilag 3 angivne temperaturer, når virksomheden sikrer, at transporten ikke giver anledning til fødevaresikkerhedsmæssige problemer. Stk. 3. Engrosvirksomheder kan opbevare og transportere mejeriprodukter, som ikke kan oplagres ved omgivelsestemperatur, ved temperaturer, der fastlægges af virksomheden for at sikre produkternes holdbarhed. Pasteuriseret mælk, som er beregnet til konsummælk, skal dog opbevares og transporteres ved højst 6 °C. Produkterne skal senest ved udlæsning fra engrosvirksomhed til udbringning til detailvirksomhed være nedkølet til den temperatur, der er angivet på pakningen. Stk. 4. Engrosvirksomheder kan opbevare syrnede konsummælksprodukter, der modner i pakningen, ved en højere temperatur end angivet i bilag 3. Produkterne skal dog senest ved udlæsning fra engrosvirksomhed til udbringning til detailvirksomhed være nedkølet til den temperatur, der er angivet på pakningen.",
-      "valid_from": "2010-08-12",
-      "valid_to": null
+      "valid_from": "2010-08-14",
+      "valid_to": "2016-01-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:36:52.359Z",
+    "accession": "B20100096905",
+    "document_id": "AH003956",
+    "unique_document_id": "132991",
+    "upstream_status": "Historic",
+    "start_date": "2010-08-14",
+    "end_date": "2022-04-09",
+    "historic_marked": "2016-01-08",
+    "seed_status": "repealed"
+  }
 }

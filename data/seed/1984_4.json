@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om tilsyn med pensionskasser",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1984-01-12",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1984/4/xml",
-  "description": "Retsinformation source. DocumentId=CM025185; AccessionNumber=A19840000429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025185; AccessionNumber=A19840000429; Ophævet 1990-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:40:38.529Z",
+    "accession": "A19840000429",
+    "document_id": "CM025185",
+    "unique_document_id": "66072",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1990-08-30",
+    "seed_status": "repealed"
+  }
 }

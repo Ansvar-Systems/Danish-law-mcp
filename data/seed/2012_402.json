@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om det frekvenspolitiske rammemandat",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-05-03",
+  "in_force_date": "2012-05-10",
   "url": "https://www.retsinformation.dk/eli/lta/2012/402/xml",
-  "description": "Retsinformation source. DocumentId=BP000133; AccessionNumber=B20120040205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000133; AccessionNumber=B20120040205; Ophævet 2019-11-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Erhvervsstyrelsen prioriterer og administrerer den danske frekvensanvendelse inden for rammerne af det frekvenspolitiske rammemandat, jf. bilag 1.",
-      "valid_from": "2012-05-03",
-      "valid_to": null
+      "valid_from": "2012-05-10",
+      "valid_to": "2019-11-13"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Erhvervs- og vækstministeren træffer i tilfælde af frekvensknaphed, jf. § 7, stk. 6, i lov om radiofrekvenser, beslutning om tildelingsmetode, jf. lovens § 9, stk. 1, hvor de væsentlige samfundsmæssige hensyn, som er anført i bilag 2, skal varetages.",
-      "valid_from": "2012-05-03",
-      "valid_to": null
+      "valid_from": "2012-05-10",
+      "valid_to": "2019-11-13"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 11. maj 2012. Stk. 2. Bekendtgørelse nr. 1197 af 15. oktober 2010 om det frekvenspolitiske rammemandat ophæves.",
-      "valid_from": "2012-05-03",
-      "valid_to": null
+      "valid_from": "2012-05-10",
+      "valid_to": "2019-11-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:59:07.590Z",
+    "accession": "B20120040205",
+    "document_id": "BP000133",
+    "unique_document_id": "141162",
+    "upstream_status": "Historic",
+    "start_date": "2012-05-10",
+    "end_date": "2026-06-04",
+    "historic_marked": "2019-11-13",
+    "seed_status": "repealed"
+  }
 }

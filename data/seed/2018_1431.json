@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2018-12-05",
+  "in_force_date": "2018-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1431/xml",
   "description": "Retsinformation source. DocumentId=AN013654; AccessionNumber=A20180143130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,5 +30,16 @@
       "definition": "transport af varer mellem medlemsstater i EU, når transporten af varerne sker ad vej på den indledende eller afsluttende strækning og der på den resterende strækning anvendes jernbane, indre vandveje eller søveje, når denne strækning er over 100 km i lige linje og transporten ad vej 1) på den indledende strækning tilbagelægges mellem det sted, hvor godset læsses, og den indladningsbanegård, der ligger nærmest, 2) på den afsluttende strækning tilbagelægges mellem den udladningsbanegård, der ligger nærmest, og det sted, hvor godset losses, eller 3) på den indledende eller afsluttende strækning tilbagelægges inden for en radius på 150 km i lige linje fra laste- eller lossehavnen",
       "source_provision": "17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:40:00.949Z",
+    "accession": "A20180143130",
+    "document_id": "AN013654",
+    "unique_document_id": "205413",
+    "upstream_status": "Valid",
+    "start_date": "2018-12-05",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

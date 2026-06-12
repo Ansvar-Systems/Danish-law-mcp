@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om erstatning til besættelsestidens ofre",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-12-27",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1991/945/xml",
-  "description": "Retsinformation source. DocumentId=CM012746; AccessionNumber=A19910094530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012746; AccessionNumber=A19910094530; Ophævet 1992-04-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:07:47.728Z",
+    "accession": "A19910094530",
+    "document_id": "CM012746",
+    "unique_document_id": "53881",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2013-03-16",
+    "historic_marked": "1992-04-13",
+    "seed_status": "repealed"
+  }
 }

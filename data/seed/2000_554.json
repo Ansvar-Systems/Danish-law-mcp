@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om sikkerhed til søs",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-21",
+  "in_force_date": "2000-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/554/xml",
-  "description": "Retsinformation source. DocumentId=AD000661; AccessionNumber=A20000055429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000661; AccessionNumber=A20000055429; Ophævet 2002-08-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:24:02.847Z",
+    "accession": "A20000055429",
+    "document_id": "AD000661",
+    "unique_document_id": "4735",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-29",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-08-05",
+    "seed_status": "repealed"
+  }
 }

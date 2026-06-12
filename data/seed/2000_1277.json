@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om elforsyning og lov om ændring af lov om tilskud til elproduktion",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1277/xml",
-  "description": "Retsinformation source. DocumentId=AL000589; AccessionNumber=A20000127730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000589; AccessionNumber=A20000127730; Ophævet 2003-06-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:01:36.782Z",
+    "accession": "A20000127730",
+    "document_id": "AL000589",
+    "unique_document_id": "12427",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-20",
+    "end_date": "2021-01-08",
+    "historic_marked": "2003-06-19",
+    "seed_status": "repealed"
+  }
 }

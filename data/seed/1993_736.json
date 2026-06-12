@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opdræt af ræve",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-09-10",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1993/736/xml",
-  "description": "Retsinformation source. DocumentId=CM037278; AccessionNumber=B19930073605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM037278; AccessionNumber=B19930073605; Ophævet 2006-05-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:25:01.499Z",
+    "accession": "B19930073605",
+    "document_id": "CM037278",
+    "unique_document_id": "78069",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2025-10-07",
+    "historic_marked": "2006-05-09",
+    "seed_status": "repealed"
+  }
 }

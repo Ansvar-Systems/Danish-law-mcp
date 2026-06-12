@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om sikkerhedsbestemmelser for naturgasanlæg og bionaturgasanlæg efter lov om arbejdsmiljø",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-03-24",
+  "in_force_date": "2020-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2020/287/xml",
-  "description": "Retsinformation source. DocumentId=BE008353; AccessionNumber=B20200028705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008353; AccessionNumber=B20200028705; Ophævet 2020-12-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4:20",
@@ -33,25 +34,36 @@
       "chapter": "4",
       "section": "20",
       "content": "§ 20 For undersøgelser m.v., som Arbejdstilsynet foretager i forbindelse med ansøgning om godkendelse efter § 15, stk. 1, betaler ansøgeren et gebyr pr. påbegyndt time. Stk. 2. Gebyr for godkendelse omfattet af § 15, stk. 1, nr. 1 og 2 forfalder til betaling, uanset om godkendelse gives eller ej. Stk. 3. For undersøgelser m.v., som Arbejdstilsynet foretager i forbindelse med ansøgning om tilladelse til egenkontrol efter § 15, stk. 4, betaler ansøgeren et gebyr pr. påbegyndt time. Stk. 4. For undersøgelser m.v., som Arbejdstilsynet foretager i forbindelse med ansøgning om revideret ibrugtagningstilladelse efter § 16, stk. 2, betaler ansøgeren et gebyr pr. påbegyndt time. Stk. 5. For undersøgelser m.v., som Arbejdstilsynet foretager i forbindelse med, at Arbejdstilsynet påser overholdelsen af denne bekendtgørelse efter § 17, stk. 1, betaler den, som indehaver godkendelsen, et gebyr pr. påbegyndt time.",
-      "valid_from": "2020-03-24",
-      "valid_to": null
+      "valid_from": "2020-03-27",
+      "valid_to": "2020-12-17"
     },
     {
       "provision_ref": "4:20a",
       "chapter": "4",
       "section": "20a",
       "content": "§ 20 a. Gebyrsatsen fastsættes med henblik på dækning af Arbejdstilsynets gennemsnitlige omkostninger til undersøgelser m.v. efter § 15, stk. 1, § 16, stk. 2, og § 17, stk. 1, og reguleres årligt på finansloven. Stk. 2. Gebyrsatsen vil fremgå af Arbejdstilsynets hjemmeside.",
-      "valid_from": "2020-03-24",
-      "valid_to": null
+      "valid_from": "2020-03-27",
+      "valid_to": "2020-12-17"
     },
     {
       "provision_ref": "4:21",
       "chapter": "4",
       "section": "21",
       "content": "§ 21. Hvis gennemførelsen af undersøgelser m.v. i henhold til §§ 15-17 medfører, at Arbejdstilsynets personale må foretage rejser eller ophold uden for tjenestestedet, betaler ansøgeren de udgifter, der er forbundet hermed. Afregning sker efter Finansministeriets regler for tjenesterejser i ind- og udland. Stk. 2. Betaling opkræves ved Arbejdstilsynets foranstaltning.",
-      "valid_from": "2020-03-24",
-      "valid_to": null
+      "valid_from": "2020-03-27",
+      "valid_to": "2020-12-17"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:23:12.708Z",
+    "accession": "B20200028705",
+    "document_id": "BE008353",
+    "unique_document_id": "213621",
+    "upstream_status": "Historic",
+    "start_date": "2020-03-27",
+    "end_date": "2024-07-09",
+    "historic_marked": "2020-12-17",
+    "seed_status": "repealed"
+  }
 }

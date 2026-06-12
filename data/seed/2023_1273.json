@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-10-30",
+  "in_force_date": "2023-11-03",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1273/xml",
   "description": "Retsinformation source. DocumentId=DK000035; AccessionNumber=B20230127305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov nr. 439 af 8. maj 2018 om udstedelse af NemID med offentlig digital signatur til fysiske personer og til medarbejdere i juridiske enheder, som sat i kraft for Grønland ved kongelig anordning nr. 1484 af 11. december 2018, ophæves.",
-      "valid_from": "2023-10-30",
+      "valid_from": "2023-11-03",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. november 2023.",
-      "valid_from": "2023-10-30",
+      "valid_from": "2023-11-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:12:38.929Z",
+    "accession": "B20230127305",
+    "document_id": "DK000035",
+    "unique_document_id": "239639",
+    "upstream_status": "Valid",
+    "start_date": "2023-11-03",
+    "end_date": "2026-06-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

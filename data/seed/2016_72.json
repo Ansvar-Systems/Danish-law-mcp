@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-01-25",
+  "in_force_date": "2016-01-27",
   "url": "https://www.retsinformation.dk/eli/lta/2016/72/xml",
   "description": "Retsinformation source. DocumentId=BP001560; AccessionNumber=B20160007205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1644 af 15. december 2015 om brug af det fælles europæiske udbudsdokument ophæves.",
-      "valid_from": "2016-01-25",
+      "valid_from": "2016-01-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 28. januar 2016.",
-      "valid_from": "2016-01-25",
+      "valid_from": "2016-01-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:25:30.122Z",
+    "accession": "B20160007205",
+    "document_id": "BP001560",
+    "unique_document_id": "177003",
+    "upstream_status": "Valid",
+    "start_date": "2016-01-27",
+    "end_date": "2025-02-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om visse spare- og udlånsvirksomheder m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1985-08-15",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1985/376/xml",
-  "description": "Retsinformation source. DocumentId=CM025272; AccessionNumber=A19850037629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025272; AccessionNumber=A19850037629; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:53:42.876Z",
+    "accession": "A19850037629",
+    "document_id": "CM025272",
+    "unique_document_id": "66158",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-27",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om behandling af værgemåls- og værgesager samt om faste værger og værgens vederlag m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-24",
+  "in_force_date": "2013-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2013/766/xml",
-  "description": "Retsinformation source. DocumentId=AA007110; AccessionNumber=B20130076605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA007110; AccessionNumber=B20130076605; Ophævet 2025-06-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "7",
@@ -19,9 +20,20 @@
       "provision_ref": "7",
       "section": "7",
       "content": "§ 7 a. Tilsynet med værger i de tilfælde, der er nævnt i artikel 5, 6, 7, 11 eller 12 i Haagerkonventionen af 19. oktober 1996 om kompetence, lovvalg, anerkendelse, fuldbyrdelse og samarbejde vedrørende forældreansvar og foranstaltninger til beskyttelse af børn (Haagerbørnebeskyttelseskonventionen), føres af statsforvaltningen.",
-      "valid_from": "2013-06-24",
-      "valid_to": null
+      "valid_from": "2013-06-27",
+      "valid_to": "2025-06-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:17:32.540Z",
+    "accession": "B20130076605",
+    "document_id": "AA007110",
+    "unique_document_id": "146675",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-27",
+    "end_date": "2025-07-01",
+    "historic_marked": "2025-06-30",
+    "seed_status": "repealed"
+  }
 }

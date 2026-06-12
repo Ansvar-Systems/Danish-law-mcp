@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om skattemæssig behandling af gevinst og tab på fordringer, gæld og finansielle kontrakter (kursgevinstloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-08-05",
+  "in_force_date": "1999-08-17",
   "url": "https://www.retsinformation.dk/eli/lta/1999/644/xml",
-  "description": "Retsinformation source. DocumentId=AN000507; AccessionNumber=A19990064429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000507; AccessionNumber=A19990064429; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:36:19.174Z",
+    "accession": "A19990064429",
+    "document_id": "AN000507",
+    "unique_document_id": "13488",
+    "upstream_status": "Historic",
+    "start_date": "1999-08-17",
+    "end_date": "2003-08-07",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

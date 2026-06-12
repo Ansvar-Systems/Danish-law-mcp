@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af forskellige bekendtgørelser udstedt i medfør af lov om konkurrence- og forbrugerforhold på telemarkedet",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-15",
+  "in_force_date": "2009-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1316/xml",
-  "description": "Retsinformation source. DocumentId=BD000516; AccessionNumber=B20090131605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000516; AccessionNumber=B20090131605; Ophævet 2011-03-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:50:27.148Z",
+    "accession": "B20090131605",
+    "document_id": "BD000516",
+    "unique_document_id": "127745",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-18",
+    "end_date": "2026-06-04",
+    "historic_marked": "2011-03-04",
+    "seed_status": "repealed"
+  }
 }

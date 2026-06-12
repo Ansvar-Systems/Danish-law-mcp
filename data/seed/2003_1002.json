@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Statens Kunstfond",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-11-29",
+  "in_force_date": "2003-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2003/1002/xml",
-  "description": "Retsinformation source. DocumentId=AK000298; AccessionNumber=A20030100229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000298; AccessionNumber=A20030100229; Ophævet 2011-02-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:06:53.859Z",
+    "accession": "A20030100229",
+    "document_id": "AK000298",
+    "unique_document_id": "11894",
+    "upstream_status": "Historic",
+    "start_date": "2003-12-18",
+    "end_date": "2018-08-06",
+    "historic_marked": "2011-02-04",
+    "seed_status": "repealed"
+  }
 }

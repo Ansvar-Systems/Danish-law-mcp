@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-03-20",
+  "in_force_date": "2021-03-23",
   "url": "https://www.retsinformation.dk/eli/lta/2021/485/xml",
   "description": "Retsinformation source. DocumentId=BE008847; AccessionNumber=B20210048505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Tilgodehavende feriemidler, som arbejdsgiveren efter § 6, stk. 1, i lov om forvaltning og administration af tilgodehavende feriemidler, beholder i virksomheden, indekseres i perioden 1. september 2020 til 31. maj 2021 med en indekseringsfaktor på 1,5 pct. årligt, således at indekseringsfaktoren er 1/12-del af indekseringsfaktoren pr. påbegyndt kalendermåned.",
-      "valid_from": "2021-03-20",
+      "valid_from": "2021-03-23",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 24. marts 2021.",
-      "valid_from": "2021-03-20",
+      "valid_from": "2021-03-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:40:42.775Z",
+    "accession": "B20210048505",
+    "document_id": "BE008847",
+    "unique_document_id": "221919",
+    "upstream_status": "Valid",
+    "start_date": "2021-03-23",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

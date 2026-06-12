@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om speciallæger",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-24",
+  "in_force_date": "2003-07-07",
   "url": "https://www.retsinformation.dk/eli/lta/2003/608/xml",
-  "description": "Retsinformation source. DocumentId=AI001389; AccessionNumber=B20030060805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI001389; AccessionNumber=B20030060805; Ophævet 2005-04-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:37:06.373Z",
+    "accession": "B20030060805",
+    "document_id": "AI001389",
+    "unique_document_id": "9745",
+    "upstream_status": "Historic",
+    "start_date": "2003-07-07",
+    "end_date": "2022-07-12",
+    "historic_marked": "2005-04-25",
+    "seed_status": "repealed"
+  }
 }

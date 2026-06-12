@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige skattelove (Anparter)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-06-07",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1989/388/xml",
-  "description": "Retsinformation source. DocumentId=CM022543; AccessionNumber=A19890038830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022543; AccessionNumber=A19890038830; Ophævet 1992-01-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:39:46.781Z",
+    "accession": "A19890038830",
+    "document_id": "CM022543",
+    "unique_document_id": "63523",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2002-08-15",
+    "historic_marked": "1992-01-03",
+    "seed_status": "repealed"
+  }
 }

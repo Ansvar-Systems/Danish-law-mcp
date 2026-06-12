@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2023-06-14",
+  "in_force_date": "2023-06-16",
   "url": "https://www.retsinformation.dk/eli/lta/2023/804/xml",
-  "description": "Retsinformation source. DocumentId=DB000729; AccessionNumber=B20230080405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000729; AccessionNumber=B20230080405; Ophævet 2023-11-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Den danske frekvensplan fremgår af bilag 1 til denne bekendtgørelse.",
-      "valid_from": "2023-06-14",
-      "valid_to": null
+      "valid_from": "2023-06-16",
+      "valid_to": "2023-11-27"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2023. Stk. 2. Bekendtgørelse nr. 741 af 25. maj 2022 om fastlæggelse af rammerne for anvendelse og indbyrdes prioritering af de samlede radiofrekvensressourcer (frekvensplan) ophæves.",
-      "valid_from": "2023-06-14",
-      "valid_to": null
+      "valid_from": "2023-06-16",
+      "valid_to": "2023-11-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:02:11.864Z",
+    "accession": "B20230080405",
+    "document_id": "DB000729",
+    "unique_document_id": "237996",
+    "upstream_status": "Historic",
+    "start_date": "2023-06-16",
+    "end_date": "2026-06-04",
+    "historic_marked": "2023-11-27",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om pristillæg til opgraderet biogas leveret til det sammenkoblede system og renset biogas leveret til et bygasnet",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-26",
+  "in_force_date": "2017-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1746/xml",
-  "description": "Retsinformation source. DocumentId=CI000396; AccessionNumber=B20170174605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000396; AccessionNumber=B20170174605; Ophævet 2019-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "10",
@@ -19,9 +20,20 @@
       "provision_ref": "10",
       "section": "10",
       "content": "§ 10. Energistyrelsens afgørelser efter denne bekendtgørelse kan ikke påklages til energi-, forsynings- og klimaministeren, jf. bekendtgørelse om Energistyrelsens opgaver og beføjelser. Afgørelser nævnt i denne bekendtgørelse kan påklages til Energiklagenævnet, jf. § 51 i lov om naturgasforsyning.",
-      "valid_from": "2017-12-26",
-      "valid_to": null
+      "valid_from": "2017-12-29",
+      "valid_to": "2019-12-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:06:48.061Z",
+    "accession": "B20170174605",
+    "document_id": "CI000396",
+    "unique_document_id": "196741",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2019-12-30",
+    "seed_status": "repealed"
+  }
 }

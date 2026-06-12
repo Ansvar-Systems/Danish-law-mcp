@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om et forebyggelsesråd og et tobaksskaderåd",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1987-06-10",
+  "in_force_date": "1997-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/1987/398/xml",
-  "description": "Retsinformation source. DocumentId=CM005706; AccessionNumber=A19870039830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM005706; AccessionNumber=A19870039830; Ophævet 1997-04-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:39:12.842Z",
+    "accession": "A19870039830",
+    "document_id": "CM005706",
+    "unique_document_id": "46938",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-30",
+    "end_date": "2022-07-12",
+    "historic_marked": "1997-04-28",
+    "seed_status": "repealed"
+  }
 }

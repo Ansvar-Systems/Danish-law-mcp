@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2026-01-29",
+  "in_force_date": "2026-01-30",
   "url": "https://www.retsinformation.dk/eli/lta/2026/226/xml",
   "description": "Retsinformation source. DocumentId=AA015119; AccessionNumber=B20260022605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 2061 af 5. november 2021 om overførsel af kompetence fra Justitsministeriets departement til Direktoratet for Kriminalforsorgen i sager om overførsel af domfældte fra Danmark til forsat afsoning i udlandet ophæves.",
-      "valid_from": "2026-01-29",
+      "valid_from": "2026-01-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2026.",
-      "valid_from": "2026-01-29",
+      "valid_from": "2026-01-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:39:52.846Z",
+    "accession": "B20260022605",
+    "document_id": "AA015119",
+    "unique_document_id": "255190",
+    "upstream_status": "Valid",
+    "start_date": "2026-01-30",
+    "end_date": "2026-01-31",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

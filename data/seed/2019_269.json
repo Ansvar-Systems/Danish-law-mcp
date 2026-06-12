@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af straffeloven (Ulovlig påvirkningsvirksomhed)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-03-26",
+  "in_force_date": "2019-03-26",
   "url": "https://www.retsinformation.dk/eli/lta/2019/269/xml",
-  "description": "Retsinformation source. DocumentId=AA011344; AccessionNumber=A20190026930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA011344; AccessionNumber=A20190026930; Ophævet 2019-09-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:58:52.613Z",
+    "accession": "A20190026930",
+    "document_id": "AA011344",
+    "unique_document_id": "208218",
+    "upstream_status": "Historic",
+    "start_date": "2019-03-26",
+    "end_date": "2019-09-25",
+    "historic_marked": "2019-09-23",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om Arbejdsgivernes Elevrefusion (AER-loven)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1990-11-30",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1990/796/xml",
-  "description": "Retsinformation source. DocumentId=CM034155; AccessionNumber=A19900079630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM034155; AccessionNumber=A19900079630; Ophævet 1997-08-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:29:54.008Z",
+    "accession": "A19900079630",
+    "document_id": "CM034155",
+    "unique_document_id": "74950",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2023-01-11",
+    "historic_marked": "1997-08-22",
+    "seed_status": "repealed"
+  }
 }

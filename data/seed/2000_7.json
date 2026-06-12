@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ferie for søfarende",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-01-05",
+  "in_force_date": "2000-01-13",
   "url": "https://www.retsinformation.dk/eli/lta/2000/7/xml",
-  "description": "Retsinformation source. DocumentId=AD000571; AccessionNumber=B20000000705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000571; AccessionNumber=B20000000705; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:29:52.550Z",
+    "accession": "B20000000705",
+    "document_id": "AD000571",
+    "unique_document_id": "4675",
+    "upstream_status": "Historic",
+    "start_date": "2000-01-13",
+    "end_date": "2017-12-09",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

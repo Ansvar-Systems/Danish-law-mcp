@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bispevalg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-03-26",
+  "in_force_date": "2007-04-06",
   "url": "https://www.retsinformation.dk/eli/lta/2007/303/xml",
-  "description": "Retsinformation source. DocumentId=AJ000311; AccessionNumber=B20070030305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AJ000311; AccessionNumber=B20070030305; Ophævet 2017-01-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:16:49.974Z",
+    "accession": "B20070030305",
+    "document_id": "AJ000311",
+    "unique_document_id": "11695",
+    "upstream_status": "Historic",
+    "start_date": "2007-04-06",
+    "end_date": "2017-01-27",
+    "historic_marked": "2017-01-26",
+    "seed_status": "repealed"
+  }
 }

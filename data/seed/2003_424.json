@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om tilskud til Grønlands hjemmestyre for 2004",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-10",
+  "in_force_date": "2003-06-10",
   "url": "https://www.retsinformation.dk/eli/lta/2003/424/xml",
-  "description": "Retsinformation source. DocumentId=AE000545; AccessionNumber=A20030042430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000545; AccessionNumber=A20030042430; Ophævet 2004-06-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:29:42.087Z",
+    "accession": "A20030042430",
+    "document_id": "AE000545",
+    "unique_document_id": "5445",
+    "upstream_status": "Historic",
+    "start_date": "2003-06-10",
+    "end_date": "2010-07-02",
+    "historic_marked": "2004-06-09",
+    "seed_status": "repealed"
+  }
 }

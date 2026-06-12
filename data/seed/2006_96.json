@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om priser m.v. på Lovtidende og Ministerialtidende",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-02-14",
+  "in_force_date": "2006-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2006/96/xml",
-  "description": "Retsinformation source. DocumentId=AA003160; AccessionNumber=B20060009605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA003160; AccessionNumber=B20060009605; Ophævet 2007-12-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:44:51.579Z",
+    "accession": "B20060009605",
+    "document_id": "AA003160",
+    "unique_document_id": "2275",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-27",
+    "end_date": "2012-12-15",
+    "historic_marked": "2007-12-16",
+    "seed_status": "repealed"
+  }
 }

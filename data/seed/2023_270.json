@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-03-07",
+  "in_force_date": "2023-03-10",
   "url": "https://www.retsinformation.dk/eli/lta/2023/270/xml",
   "description": "Retsinformation source. DocumentId=CD000248; AccessionNumber=B20230027005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bededag, som blev indført som helligdag i Danmark ved kgl. forordning i 1686, afskaffes som helligdag med virkning fra den 1. januar 2024.",
-      "valid_from": "2023-03-07",
+      "valid_from": "2023-03-10",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:40:27.191Z",
+    "accession": "B20230027005",
+    "document_id": "CD000248",
+    "unique_document_id": "235154",
+    "upstream_status": "Valid",
+    "start_date": "2023-03-10",
+    "end_date": "2023-03-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

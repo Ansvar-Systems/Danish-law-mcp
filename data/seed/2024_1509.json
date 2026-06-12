@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2024-12-10",
+  "in_force_date": "2024-12-11",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1509/xml",
   "description": "Retsinformation source. DocumentId=AN016634; AccessionNumber=B20240150905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -19,9 +20,20 @@
       "provision_ref": "6a",
       "section": "6a",
       "content": "§ 6 a. Skatteforvaltningen kan meddele en virksomhed bevilling til afgiftsgodtgørelse for andre varer end benzin til brug ombord i fiskerifartøjer med en bruttotonnage på 5 t og derover eller en bruttoregistertonnage på 5 t og derover, dog bortset fra lystfartøjer, når varerne ikke er leveret uden afgift efter § 9, stk. 1, nr. 3, i lov om energiafgift af mineralolieprodukter.",
-      "valid_from": "2024-12-10",
+      "valid_from": "2024-12-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:43:13.875Z",
+    "accession": "B20240150905",
+    "document_id": "AN016634",
+    "unique_document_id": "246623",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-11",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

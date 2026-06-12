@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-12-12",
+  "in_force_date": "2023-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1666/xml",
   "description": "Retsinformation source. DocumentId=BE009713; AccessionNumber=B20230166605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra de private arbejdsgivere for 2024 fastsættes til 27 kr. pr. fuldtidsansat lønmodtager.",
-      "valid_from": "2023-12-12",
+      "valid_from": "2023-12-18",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024. Stk. 2. Det for 2024 fastsatte bidrag opkræves første gang på grundlag af ATP-bidrag, der er indberettet vedrørende 1. kvartal 2024 med forfald til betaling den 1. juli 2024.",
-      "valid_from": "2023-12-12",
+      "valid_from": "2023-12-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:28:25.845Z",
+    "accession": "B20230166605",
+    "document_id": "BE009713",
+    "unique_document_id": "240159",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-18",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

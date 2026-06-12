@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om revisorkandidatuddannelsen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-08-18",
+  "in_force_date": "1998-08-28",
   "url": "https://www.retsinformation.dk/eli/lta/1998/610/xml",
-  "description": "Retsinformation source. DocumentId=AT000013; AccessionNumber=B19980061005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000013; AccessionNumber=B19980061005; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:52:03.630Z",
+    "accession": "B19980061005",
+    "document_id": "AT000013",
+    "unique_document_id": "23209",
+    "upstream_status": "Historic",
+    "start_date": "1998-08-28",
+    "end_date": "2014-07-02",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

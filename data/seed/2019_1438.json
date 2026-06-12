@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om almene boliger m.v. (Tilsagn til nybyggeri opført i samarbejde med privat part)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-17",
+  "in_force_date": "2019-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1438/xml",
-  "description": "Retsinformation source. DocumentId=CZ000084; AccessionNumber=A20190143830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CZ000084; AccessionNumber=A20190143830; Ophævet 2020-08-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "116",
@@ -20,8 +21,19 @@
       "section": "116",
       "content": "§ 116. Tilsagn efter § 115, stk. 1, nr. 1, stk. 2, nr. 1, stk. 4, nr. 1, stk. 5, nr. 1, og stk. 6, nr. 1, kan tillige gives til etablering af almene boliger i et samarbejde mellem tilsagnsmodtageren og en privat part, der opfører de pågældende boliger, såfremt 1) samarbejdet er nødvendigt for at etablere boligerne og 2) tilsagnsmodtageren ikke løber unødige risici. Stk. 2. Kommunalbestyrelsen kan i særlige tilfælde give tilsagn efter § 115, stk. 1, nr. 1, stk. 2, nr. 1, stk. 4, nr. 1, stk. 5, nr. 1, og stk. 6, nr. 1, selv om tilsagnsmodtageren ikke har skøde på ejendommen under boligernes opførelse. Betingelserne, der er nævnt i stk. 1, nr. 1 og 2, skal tillige være opfyldt. Stk. 3. Kommunalbestyrelsen skal betinge tilsagn efter stk. 1 og 2 af, at den private part udfører de aftalte arbejder i henhold til de udbudsretlige forpligtelser, som påhviler tilsagnsmodtageren.",
       "valid_from": "2019-12-17",
-      "valid_to": null
+      "valid_to": "2020-08-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:46:03.833Z",
+    "accession": "A20190143830",
+    "document_id": "CZ000084",
+    "unique_document_id": "211578",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-17",
+    "end_date": "2023-04-28",
+    "historic_marked": "2020-08-12",
+    "seed_status": "repealed"
+  }
 }

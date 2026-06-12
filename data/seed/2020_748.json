@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-05-28",
+  "in_force_date": "2020-06-03",
   "url": "https://www.retsinformation.dk/eli/lta/2020/748/xml",
   "description": "Retsinformation source. DocumentId=AP000322; AccessionNumber=B20200074805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk og brugeradministration, informationssikkerhedsopgaver vedrørende foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører Familieretshuset og Børnerådet, overføres i henhold til nærmere aftale mellem social- og indenrigsministeren og finansministeren fra social- og indenrigsministeren til finansministeren pr. 1. juni 2020.",
-      "valid_from": "2020-05-28",
+      "valid_from": "2020-06-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:41:38.615Z",
+    "accession": "B20200074805",
+    "document_id": "AP000322",
+    "unique_document_id": "214847",
+    "upstream_status": "Valid",
+    "start_date": "2020-06-03",
+    "end_date": "2020-06-03",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

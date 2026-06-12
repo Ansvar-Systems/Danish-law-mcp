@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-12-16",
+  "in_force_date": "2020-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2020/2042/xml",
   "description": "Retsinformation source. DocumentId=AA012219; AccessionNumber=B20200204205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Politiet underretter børneværnstjenesten om sagen, når en sigtet under 18 år skal afhøres, og sigtelsen angår 1) overtrædelse af straffeloven, eller 2) forhold, der efter loven kan medføre fængselsstraf. Stk. 2. Underretning kan dog undlades om afhøringer, der foretages i direkte forbindelse med, at sigtede af politiet træffes under eller i umiddelbar tilknytning til udøvelsen af et strafbart forhold, for hvilket der ikke bliver spørgsmål om højere straf end bøde.",
-      "valid_from": "2020-12-16",
+      "valid_from": "2020-12-19",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Underretningen sker til børneværnstjenesten i den kommune, hvor sigtede bor. Er bopælskommunen ikke oplyst, eller kan der på grund af afstanden ikke gives møde fra børneværnstjenesten i bopælskommunen, underrettes den stedlige kommune. Stk. 2 Hvis den i § 1 nævnte underretning ikke er sket skriftligt, skal der efterfølgende tillige ske skriftlig underretning af børneværnstjenesten.",
-      "valid_from": "2020-12-16",
+      "valid_from": "2020-12-19",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. En repræsentant fra børneværnstjenesten skal så vidt muligt have adgang til at overvære afhøringer som nævnt i § 1, der foretages af politiet eller i retten.",
-      "valid_from": "2020-12-16",
+      "valid_from": "2020-12-19",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. januar 2021.",
-      "valid_from": "2020-12-16",
+      "valid_from": "2020-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:10:23.982Z",
+    "accession": "B20200204205",
+    "document_id": "AA012219",
+    "unique_document_id": "218859",
+    "upstream_status": "Valid",
+    "start_date": "2020-12-19",
+    "end_date": "2020-12-19",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

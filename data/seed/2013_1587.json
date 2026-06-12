@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2013-12-19",
+  "in_force_date": "2013-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1587/xml",
   "description": "Retsinformation source. DocumentId=AA007512; AccessionNumber=B20130158705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Politiet kan undlade at foretage journalisering i sager om videregivelse af oplysninger og udstedelse af straffeattester, børneattester samt fuldstændige udskrifter efter §§ 11, 21-29 a, 33, 34 og 36 i bekendtgørelse nr. 218 af 27. marts 2001 om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret) som senest ændret ved bekendtgørelse nr. 1326 af 27. november 2013.",
-      "valid_from": "2013-12-19",
+      "valid_from": "2013-12-21",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2014.",
-      "valid_from": "2013-12-19",
+      "valid_from": "2013-12-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:49:52.025Z",
+    "accession": "B20130158705",
+    "document_id": "AA007512",
+    "unique_document_id": "160806",
+    "upstream_status": "Valid",
+    "start_date": "2013-12-21",
+    "end_date": "2020-02-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

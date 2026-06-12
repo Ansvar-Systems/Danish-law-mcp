@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod at bringe skæreudstyr af slagletypen til bærbare håndholdte buskryddere i omsætning",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-04-23",
+  "in_force_date": "2012-04-27",
   "url": "https://www.retsinformation.dk/eli/lta/2012/360/xml",
-  "description": "Retsinformation source. DocumentId=BE005045; AccessionNumber=B20120036005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005045; AccessionNumber=B20120036005; Ophævet 2013-06-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsens formål er at gennemføre Europa-Kommissionens afgørelse af 19. januar 2012 om et krav til medlemsstaterne om at forbyde, at skæreudstyr af slagletypen til bærbare håndholdte buskryddere bringes i omsætning. Europa-Kommissionens afgørelse fremgår af bilaget til bekendtgørelsen.",
-      "valid_from": "2012-04-23",
-      "valid_to": null
+      "valid_from": "2012-04-27",
+      "valid_to": "2013-06-18"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen omfatter skæreudstyr af slagletypen som angivet i bilaget til bekendtgørelsen.",
-      "valid_from": "2012-04-23",
-      "valid_to": null
+      "valid_from": "2012-04-27",
+      "valid_to": "2013-06-18"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Det er forbudt at bringe skæreudstyr af slagletypen bestående af flere forbundne metaldele beregnet til bærbare håndholdte buskryddere i omsætning.",
-      "valid_from": "2012-04-23",
-      "valid_to": null
+      "valid_from": "2012-04-27",
+      "valid_to": "2013-06-18"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde eller fængsel i indtil 2 år den, der 1) overtræder § 3, eller 2) ikke efterkommer påbud eller forbud, der er meddelt i henhold til bekendtgørelsen.",
-      "valid_from": "2012-04-23",
-      "valid_to": null
+      "valid_from": "2012-04-27",
+      "valid_to": "2013-06-18"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 30. april 2012.",
-      "valid_from": "2012-04-23",
-      "valid_to": null
+      "valid_from": "2012-04-27",
+      "valid_to": "2013-06-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:57:23.624Z",
+    "accession": "B20120036005",
+    "document_id": "BE005045",
+    "unique_document_id": "141477",
+    "upstream_status": "Historic",
+    "start_date": "2012-04-27",
+    "end_date": "2019-06-19",
+    "historic_marked": "2013-06-18",
+    "seed_status": "repealed"
+  }
 }

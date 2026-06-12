@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-06-20",
+  "in_force_date": "2017-06-23",
   "url": "https://www.retsinformation.dk/eli/lta/2017/794/xml",
   "description": "Retsinformation source. DocumentId=CK001289; AccessionNumber=B20170079405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 513 af 23. april 2015 om Fødevareministeriets Klagecenters opgaver og beføjelser ophæves.",
-      "valid_from": "2017-06-20",
+      "valid_from": "2017-06-23",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelse nr. 38 af 15. januar 2014 om afgørelse i sager om aktindsigt efter forvaltningsloven og lov om offentlighed i forvaltningen og klage over sagsbehandlingstiden i sådanne aktindsigtssager på Fødevareministeriets område ophæves.",
-      "valid_from": "2017-06-20",
+      "valid_from": "2017-06-23",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft 1. juli 2017.",
-      "valid_from": "2017-06-20",
+      "valid_from": "2017-06-23",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:32:45.024Z",
+    "accession": "B20170079405",
+    "document_id": "CK001289",
+    "unique_document_id": "191248",
+    "upstream_status": "Valid",
+    "start_date": "2017-06-23",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

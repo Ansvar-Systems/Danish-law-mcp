@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om landbrugsejendomme\\n(Udvidet adgang for selskaber m.v. til at erhverve landbrugsejendomme, ophævelse af reglerne om fortrinsstilling til suppleringsjord m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-16",
+  "in_force_date": "2014-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1372/xml",
-  "description": "Retsinformation source. DocumentId=AH005424; AccessionNumber=A20140137230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH005424; AccessionNumber=A20140137230; Ophævet 2015-01-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "20",
@@ -25,15 +26,26 @@
       "section": "20",
       "content": "§ 20. Et aktieselskab, et anpartsselskab, et partnerselskab, et iværksætterselskab, et europæisk selskab (SE), en erhvervsdrivende fond, en alternativ investeringsfond eller et forsikringsselskab kan erhverve adkomst på en eller flere landbrugsejendomme i landzone, hvis en person inden 6 måneder efter erhvervelsen tager fast bopæl på en landbrugsejendom, der ejes af selskabet, fonden eller forsikringsselskabet. Kravet om fast bopæl skal opfyldes i 10 år. Stk. 2. Ministeren for fødevarer, landbrug og fiskeri kan dispensere fra bestemmelsen om fast bopæl i stk. 1, når særlige forhold taler for det. Stk. 3. Ministeren kan fastsætte regler om, at andre juridiske personer også kan erhverve landbrugsejendomme uden tilladelse, nærmere regler om kravet om fast bopæl og regler om oplysnings- og indberetningspligt med henblik på kontrol og registrering m.v. i forbindelse med selskabers, fondes og forsikringsselskabers erhvervelse og besiddelse af landbrugsejendomme.",
       "valid_from": "2014-12-16",
-      "valid_to": null
+      "valid_to": "2015-01-21"
     },
     {
       "provision_ref": "37",
       "section": "37",
       "content": "§ 37 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at skriftlig kommunikation til og fra Ministeriet for Fødevarer, Landbrug og Fiskeri om forhold, som er omfattet af denne lov eller af regler udstedt i medfør heraf, skal foregå digitalt. Stk. 2. Ministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el. lign. Stk. 3. En digital meddelelse anses efter denne lov for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.",
       "valid_from": "2014-12-16",
-      "valid_to": null
+      "valid_to": "2015-01-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:06.293Z",
+    "accession": "A20140137230",
+    "document_id": "AH005424",
+    "unique_document_id": "166780",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-16",
+    "end_date": "2022-04-08",
+    "historic_marked": "2015-01-21",
+    "seed_status": "repealed"
+  }
 }

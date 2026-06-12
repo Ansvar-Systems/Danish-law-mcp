@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-10-19",
+  "in_force_date": "2020-10-24",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1503/xml",
   "description": "Retsinformation source. DocumentId=DA000353; AccessionNumber=B20200150305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Institutionen gennemfører den årlige måling af elevernes trivsel i medfør af § 40 a i lov om forberedende grunduddannelse i undervisningstiden fra den 1. november til den 31. december og første gang i skoleåret 2020-2021. Stk. 2. Institutionen fastsætter, hvornår den enkelte elev skal gennemføre målingen inden for den periode, som er nævnt i stk. 1. Senest to uger forud for det tidspunkt, som institutionen fastsætter efter 1. pkt., orienterer institutionen eleven om, hvornår eleven skal gennemføre målingen. Inden samme frist, giver institutionen skriftligt samme orientering til indehaveren eller indehaverne af forældremyndighed over eleven, hvis eleven ikke er myndig. Stk. 3. Senest samtidig med orienteringen efter stk. 2 videregiver institutionen det informationsmateriale, som den har modtaget fra Styrelsen for It og Læring, til elever, så de kan blive oplyste om styrelsens behandling af de perso‌no‌plysninger, som eleverne giver ved deres deltagelse i målingen. Videregivelsen af informationsmaterialet sker via en kommunikationskanal, fx institutionens interne kommunikationssystem eller e-boks, som giver sikkerhed og dokumentation for, at materialet når frem til den enkelte adressat. Stk. 4. Institutionen giver elever, der har været forhindret i at gennemføre målingen, mulighed for at gennemføre målingen, hvis det kan ske på et andet tidspunkt inden for den i stk. 1 nævnte periode. Stk. 5. Elevens brug af Børne- og Undervisningsministeriets Trivselsværktøj sker via elevens UNI-login med brug af elevens personnummer som identifikation.",
-      "valid_from": "2020-10-19",
+      "valid_from": "2020-10-24",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. De spørgsmål med tilhørende svarmuligheder om elevernes trivsel, som er rammen for målingen af elevernes trivsel, fremgår af bilag 1.",
-      "valid_from": "2020-10-19",
+      "valid_from": "2020-10-24",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 26. oktober 2020. Stk. 2. Bekendtgørelse nr. 1112 af 1. juli 2020 om måling af elevers trivsel i forberedende grunduddannelse ophæves.",
-      "valid_from": "2020-10-19",
+      "valid_from": "2020-10-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:48:47.025Z",
+    "accession": "B20200150305",
+    "document_id": "DA000353",
+    "unique_document_id": "216864",
+    "upstream_status": "Valid",
+    "start_date": "2020-10-24",
+    "end_date": "2026-04-11",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

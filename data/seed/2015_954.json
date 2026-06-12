@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-08-20",
+  "in_force_date": "2015-08-22",
   "url": "https://www.retsinformation.dk/eli/lta/2015/954/xml",
   "description": "Retsinformation source. DocumentId=BP001359; AccessionNumber=B20150095405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1405 af 14. december 2004 om udjævningsreserver inden for kredit- og kautionsforsikring ophæves.",
-      "valid_from": "2015-08-20",
+      "valid_from": "2015-08-22",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2016. Stk. 2. Bekendtgørelse nr. 1405 af 14. december 2004 finder fortsat anvendelse for regnskabsperioder, der begynder inden den 1. januar 2016.",
-      "valid_from": "2015-08-20",
+      "valid_from": "2015-08-22",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:30:06.692Z",
+    "accession": "B20150095405",
+    "document_id": "BP001359",
+    "unique_document_id": "173338",
+    "upstream_status": "Valid",
+    "start_date": "2015-08-22",
+    "end_date": "2026-04-21",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

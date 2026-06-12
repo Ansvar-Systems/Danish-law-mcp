@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fødevarehygiejne",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-01-23",
+  "in_force_date": "2008-01-26",
   "url": "https://www.retsinformation.dk/eli/lta/2008/28/xml",
-  "description": "Retsinformation source. DocumentId=AH002749; AccessionNumber=B20080002805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002749; AccessionNumber=B20080002805; Ophævet 2008-07-24. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:08:08.836Z",
+    "accession": "B20080002805",
+    "document_id": "AH002749",
+    "unique_document_id": "114601",
+    "upstream_status": "Historic",
+    "start_date": "2008-01-26",
+    "end_date": "2022-04-09",
+    "historic_marked": "2008-07-24",
+    "seed_status": "repealed"
+  }
 }

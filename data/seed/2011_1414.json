@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om delpension",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-12-28",
+  "in_force_date": "2011-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2011/1414/xml",
-  "description": "Retsinformation source. DocumentId=BE004856; AccessionNumber=B20110141405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE004856; AccessionNumber=B20110141405; Ophævet 2015-04-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "17",
@@ -19,9 +20,20 @@
       "provision_ref": "17",
       "section": "17",
       "content": "§ 17 a. Pengeinstitutter, livsforsikringsselskaber og pensionskasser m.v., samt offentlige myndigheder, der forvalter pensionsordninger, jf. lovens § 4 a, stk. 1, indberetter ½ år før delpensionsalderen eventuelle udbetalinger fra pensionsordninger i overensstemmelse med aldersvilkårene i pensionsordningen i perioden fra personens 60-års-dag til personen når delpensionsalderen. Stk. 2. Pensionsudbetalinger, jf. lovens § 4 d indgår i beregningen af nedsættelsen af delpensionen. Udbetalinger omfattet af lovens § 4 a, stk. 4, 1. og 2. pkt. og stk. 7, divideres med det maksimale antal år i delpensionsperioden. Udbetalinger omfattet af lovens § 4 a, stk. 4, 3. pkt. indgår i beregningen med det udbetalte beløb før skat og afgifter.",
-      "valid_from": "2011-12-28",
-      "valid_to": null
+      "valid_from": "2011-12-30",
+      "valid_to": "2015-04-29"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:54:56.618Z",
+    "accession": "B20110141405",
+    "document_id": "BE004856",
+    "unique_document_id": "139764",
+    "upstream_status": "Historic",
+    "start_date": "2011-12-30",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-04-29",
+    "seed_status": "repealed"
+  }
 }

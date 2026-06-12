@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ophævelse af bekendtgørelse om koncession for Det Danske Luftfartselskab A/S til regelmæssig luftfart m.fl.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-07-06",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1994/656/xml",
-  "description": "Retsinformation source. DocumentId=CM008898; AccessionNumber=B19940065605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM008898; AccessionNumber=B19940065605; Ophævet 2022-02-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:04:45.200Z",
+    "accession": "B19940065605",
+    "document_id": "CM008898",
+    "unique_document_id": "50083",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "2022-02-09",
+    "seed_status": "repealed"
+  }
 }

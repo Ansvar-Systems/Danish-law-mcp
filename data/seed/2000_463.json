@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om registreringsafgift af motorkøretøjer m.v., lov om vægtafgift af motorkøretøjer m.v., lov om afgift efter brændstofforbrug for visse personbiler og lov om afgift af vejbenyttelse",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/463/xml",
-  "description": "Retsinformation source. DocumentId=AN001020; AccessionNumber=A20000046330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001020; AccessionNumber=A20000046330; Ophævet 2004-02-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:20:21.883Z",
+    "accession": "A20000046330",
+    "document_id": "AN001020",
+    "unique_document_id": "13814",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2007-03-22",
+    "historic_marked": "2004-02-02",
+    "seed_status": "repealed"
+  }
 }

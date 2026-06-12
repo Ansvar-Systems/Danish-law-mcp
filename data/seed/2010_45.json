@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om fælles kompetencebeskrivelser for erhvervsrettet voksen- og efteruddannelse og om arbejdsmarkedsuddannelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-01-15",
+  "in_force_date": "2010-01-16",
   "url": "https://www.retsinformation.dk/eli/lta/2010/45/xml",
-  "description": "Retsinformation source. DocumentId=AT003989; AccessionNumber=B20100004505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT003989; AccessionNumber=B20100004505; Ophævet 2013-06-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -19,9 +20,20 @@
       "provision_ref": "13",
       "section": "13",
       "content": "§ 13. Den godkendte udbyder af arbejdsmarkedsuddannelse har ansvaret for lærernes kvalifikationer og har ansvaret for, at lærerne gennemfører den nødvendige kvalificering, herunder tilrettelæggelse af pædagogisk praktisk vejledning for lærere, der følger pædagogisk uddannelse jf. stk. 3. Stk. 2. Lærere, der underviser på arbejdsmarkedsuddannelse, skal som minimum have kvalifikationer, som normalt inden for deres faglige område svarer til erhvervsuddannelsesniveau, samt herudover mindst 3 års relevant og tidssvarende erhvervserfaring. Stk. 3. Læreren skal have eller senest 6 år efter ansættelse have opnået pædagogiske kvalifikationer målrettet undervisning af voksne mindst svarende til niveauet i en pædagogisk diplomuddannelse. I almindelighed påbegynder læreren relevant uddannelse senest et år efter ansættelsen. Den godkendte udbyder af arbejdsmarkedsuddannelse kan fravige diplomuddannelsesniveauet i særlige tilfælde, hvor niveauet i en videregående voksenuddannelse i pædagogik er hensigtsmæssig for kompetenceprofilen for skolens samlede lærergruppe. Stk. 4. Lærere, der underviser i dansk som andetsprog, skal have uddannelsen til underviser i dansk som andetsprog for voksne eller tilsvarende kvalifikationer.",
-      "valid_from": "2010-01-15",
-      "valid_to": null
+      "valid_from": "2010-01-16",
+      "valid_to": "2013-06-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:15:53.713Z",
+    "accession": "B20100004505",
+    "document_id": "AT003989",
+    "unique_document_id": "128967",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-16",
+    "end_date": "2021-01-08",
+    "historic_marked": "2013-06-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod at bringe skæreudstyr af slagletypen til bærbare håndholdte buskryddere i omsætning",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-10",
+  "in_force_date": "2013-06-19",
   "url": "https://www.retsinformation.dk/eli/lta/2013/681/xml",
-  "description": "Retsinformation source. DocumentId=BE005418; AccessionNumber=B20130068105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005418; AccessionNumber=B20130068105; Ophævet 2021-06-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsens formål er at gennemføre Europa-Kommissionens afgørelse af 19. januar 2012 om et krav til medlemsstaterne om at forbyde, at skæreudstyr af slagletypen til bærbare håndholdte buskryddere bringes i omsætning. Europa-Kommissionens afgørelse fremgår af bilag 1 til bekendtgørelsen.",
-      "valid_from": "2013-06-10",
-      "valid_to": null
+      "valid_from": "2013-06-19",
+      "valid_to": "2021-06-02"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen omfatter skæreudstyr af slagletypen som angivet i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2013-06-10",
-      "valid_to": null
+      "valid_from": "2013-06-19",
+      "valid_to": "2021-06-02"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Det er forbudt at bringe skæreudstyr af slagletypen bestående af flere forbundne metaldele beregnet til bærbare håndholdte buskryddere i omsætning.",
-      "valid_from": "2013-06-10",
-      "valid_to": null
+      "valid_from": "2013-06-19",
+      "valid_to": "2021-06-02"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der 1) overtræder § 3, eller 2) ikke efterkommer påbud eller forbud, der er meddelt i henhold til bekendtgørelsen.",
-      "valid_from": "2013-06-10",
-      "valid_to": null
+      "valid_from": "2013-06-19",
+      "valid_to": "2021-06-02"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 1. juli 2013. Stk. 2. Samtidig ophæves bekendtgørelse nr. 360 af 23. april 2012 om forbud mod at bringe skæreudstyr af slagletypen til bærbare håndholdte buskryddere i omsætning.",
-      "valid_from": "2013-06-10",
-      "valid_to": null
+      "valid_from": "2013-06-19",
+      "valid_to": "2021-06-02"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:14:08.657Z",
+    "accession": "B20130068105",
+    "document_id": "BE005418",
+    "unique_document_id": "145775",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-19",
+    "end_date": "2021-06-03",
+    "historic_marked": "2021-06-02",
+    "seed_status": "repealed"
+  }
 }

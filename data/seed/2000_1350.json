@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om registrering og syn af køretøjer mv.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-18",
+  "in_force_date": "2000-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1350/xml",
-  "description": "Retsinformation source. DocumentId=AR000380; AccessionNumber=B20000135005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000380; AccessionNumber=B20000135005; Ophævet 2005-11-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:04:38.360Z",
+    "accession": "B20000135005",
+    "document_id": "AR000380",
+    "unique_document_id": "22005",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-22",
+    "end_date": "2007-01-04",
+    "historic_marked": "2005-11-17",
+    "seed_status": "repealed"
+  }
 }

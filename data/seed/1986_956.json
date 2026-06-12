@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forlængelse af dagpengeperioden",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-12-30",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/956/xml",
-  "description": "Retsinformation source. DocumentId=CM012263; AccessionNumber=B19860095605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012263; AccessionNumber=B19860095605; Ophævet 1990-04-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:26:55.988Z",
+    "accession": "B19860095605",
+    "document_id": "CM012263",
+    "unique_document_id": "53414",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2010-07-01",
+    "historic_marked": "1990-04-10",
+    "seed_status": "repealed"
+  }
 }

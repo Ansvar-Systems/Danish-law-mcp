@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om energimærkning m.v. af nye personbiler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-03-28",
+  "in_force_date": "2000-04-06",
   "url": "https://www.retsinformation.dk/eli/lta/2000/216/xml",
-  "description": "Retsinformation source. DocumentId=AR000283; AccessionNumber=B20000021605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000283; AccessionNumber=B20000021605; Ophævet 2009-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:10:25.801Z",
+    "accession": "B20000021605",
+    "document_id": "AR000283",
+    "unique_document_id": "21936",
+    "upstream_status": "Historic",
+    "start_date": "2000-04-06",
+    "end_date": "2023-04-28",
+    "historic_marked": "2009-12-22",
+    "seed_status": "repealed"
+  }
 }

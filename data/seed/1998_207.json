@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om vægtafgift af motorkøretøjer m.v.",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-04-03",
+  "in_force_date": "1998-04-23",
   "url": "https://www.retsinformation.dk/eli/lta/1998/207/xml",
-  "description": "Retsinformation source. DocumentId=CM046911; AccessionNumber=A19980020729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046911; AccessionNumber=A19980020729; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:35:56.200Z",
+    "accession": "A19980020729",
+    "document_id": "CM046911",
+    "unique_document_id": "87106",
+    "upstream_status": "Historic",
+    "start_date": "1998-04-23",
+    "end_date": "2009-05-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

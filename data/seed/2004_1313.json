@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om postvirksomhed og postbefordring",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-12-14",
+  "in_force_date": "2004-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2004/1313/xml",
-  "description": "Retsinformation source. DocumentId=AR000909; AccessionNumber=B20040131305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000909; AccessionNumber=B20040131305; Ophævet 2011-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:05:35.945Z",
+    "accession": "B20040131305",
+    "document_id": "AR000909",
+    "unique_document_id": "22362",
+    "upstream_status": "Historic",
+    "start_date": "2004-12-22",
+    "end_date": "2022-07-07",
+    "historic_marked": "2011-06-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om måling af skibe",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1954-12-22",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1954/364/xml",
-  "description": "Retsinformation source. DocumentId=CM025490; AccessionNumber=A19540036430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025490; AccessionNumber=A19540036430; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:59:17.961Z",
+    "accession": "A19540036430",
+    "document_id": "CM025490",
+    "unique_document_id": "66366",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

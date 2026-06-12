@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af sundhedsloven (Betaling for akut og fortsat sygehusbehandling af visse personer uden bopæl i Danmark)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-03-26",
+  "in_force_date": "2019-03-26",
   "url": "https://www.retsinformation.dk/eli/lta/2019/272/xml",
-  "description": "Retsinformation source. DocumentId=CN000936; AccessionNumber=A20190027230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CN000936; AccessionNumber=A20190027230; Ophævet 2019-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:59:01.290Z",
+    "accession": "A20190027230",
+    "document_id": "CN000936",
+    "unique_document_id": "208118",
+    "upstream_status": "Historic",
+    "start_date": "2019-03-26",
+    "end_date": "2022-07-12",
+    "historic_marked": "2019-08-30",
+    "seed_status": "repealed"
+  }
 }

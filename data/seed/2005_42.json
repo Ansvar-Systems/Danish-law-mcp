@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Åbent brev angående udskrivning af nyvalg til Folketinget",
   "short_name": "Åbent brev",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-01-18",
+  "in_force_date": "2005-01-19",
   "url": "https://www.retsinformation.dk/eli/lta/2005/42/xml",
-  "description": "Retsinformation source. DocumentId=AP000090; AccessionNumber=B20050004261; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AP000090; AccessionNumber=B20050004261; Ophævet 2005-02-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:19:30.171Z",
+    "accession": "B20050004261",
+    "document_id": "AP000090",
+    "unique_document_id": "20987",
+    "upstream_status": "Historic",
+    "start_date": "2005-01-19",
+    "end_date": "2005-02-09",
+    "historic_marked": "2005-02-09",
+    "seed_status": "repealed"
+  }
 }

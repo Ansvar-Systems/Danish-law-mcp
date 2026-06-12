@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om kapitaldækning for realkreditinstitutter",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-21",
+  "in_force_date": "2000-10-02",
   "url": "https://www.retsinformation.dk/eli/lta/2000/890/xml",
-  "description": "Retsinformation source. DocumentId=AU000227; AccessionNumber=B20000089005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000227; AccessionNumber=B20000089005; Ophævet 2002-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:37:35.509Z",
+    "accession": "B20000089005",
+    "document_id": "AU000227",
+    "unique_document_id": "25675",
+    "upstream_status": "Historic",
+    "start_date": "2000-10-02",
+    "end_date": "2017-12-08",
+    "historic_marked": "2002-11-21",
+    "seed_status": "repealed"
+  }
 }

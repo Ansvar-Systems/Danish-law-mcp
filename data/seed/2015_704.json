@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilfælde, hvor udbetalte erstatninger for tab af erhvervsevne ikke har indflydelse på retten til kontantydelse",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-05-27",
+  "in_force_date": "2015-05-28",
   "url": "https://www.retsinformation.dk/eli/lta/2015/704/xml",
-  "description": "Retsinformation source. DocumentId=BE006311; AccessionNumber=B20150070405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE006311; AccessionNumber=B20150070405; Ophævet 2025-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -33,25 +34,36 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Ved udbetaling af kontantydelse efter §§ 3-6 i lov om kontantydelse, ser kommunen bort fra indtægter, som skyldes tab af erhvervsevne, der er udbetalt som følge af personskade efter: 1) lov om klage- og erstatningsadgang inden for sundhedsvæsnet, 2) bekendtgørelse om statens erstatningsordning for deltagere i praktisk erhvervsorientering m.v., 3) lov om erstatning til tilskadekomne værnepligtige m.fl., eller 4) bestemmelser for ansættelse og aflønning af personel ansat på kontrakt i Beredskabsstyrelsen i forbindelse med humanitært hjælpearbejde.",
-      "valid_from": "2015-05-27",
-      "valid_to": null
+      "valid_from": "2015-05-28",
+      "valid_to": "2025-11-21"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Kommunen træffer ikke afgørelse om tilbagebetaling af kontantydelse, når den, der har modtaget kontantydelsen, senere får udbetalt en erstatning for tab af erhvervsevne som følge af personskade efter: 1) lov om klage- og erstatningsadgang inden for sundhedsvæsnet, 2) bekendtgørelse om statens erstatningsordning for deltagere i praktisk erhvervsorientering m.v., 3) lov om erstatning til tilskadekomne værnepligtige m.fl., eller 4) bestemmelser for ansættelse og aflønning af personel ansat på kontrakt i Beredskabsstyrelsen i forbindelse med humanitært arbejde.",
-      "valid_from": "2015-05-27",
-      "valid_to": null
+      "valid_from": "2015-05-28",
+      "valid_to": "2025-11-21"
     },
     {
       "provision_ref": "1:3",
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. juli 2015.",
-      "valid_from": "2015-05-27",
-      "valid_to": null
+      "valid_from": "2015-05-28",
+      "valid_to": "2025-11-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:19:57.588Z",
+    "accession": "B20150070405",
+    "document_id": "BE006311",
+    "unique_document_id": "172707",
+    "upstream_status": "Historic",
+    "start_date": "2015-05-28",
+    "end_date": "2026-06-12",
+    "historic_marked": "2025-11-21",
+    "seed_status": "repealed"
+  }
 }

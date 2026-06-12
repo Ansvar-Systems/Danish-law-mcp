@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om økonomiske rammer for vandselskaber",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-03-20",
+  "in_force_date": "2020-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2020/250/xml",
-  "description": "Retsinformation source. DocumentId=DB000128; AccessionNumber=B20200025005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DB000128; AccessionNumber=B20200025005; Ophævet 2020-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:21:46.699Z",
+    "accession": "B20200025005",
+    "document_id": "DB000128",
+    "unique_document_id": "213518",
+    "upstream_status": "Historic",
+    "start_date": "2020-03-21",
+    "end_date": "2020-12-31",
+    "historic_marked": "2020-12-30",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om fremme af dopingfri idræt\\n(Informationsordning for motions- og fitnesscentre)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-05-29",
+  "in_force_date": "2008-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/2008/430/xml",
-  "description": "Retsinformation source. DocumentId=AK000616; AccessionNumber=A20080043030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000616; AccessionNumber=A20080043030; Ophævet 2013-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "9",
@@ -19,9 +20,20 @@
       "provision_ref": "9",
       "section": "9",
       "content": "§ 9 a . Motions- og fitnesscentre skal informere om, hvorvidt de har indgået samarbejdsaftale med Anti Doping Danmark, jf. § 9. Informationen skal ske ved skiltning, der opsættes ved det enkelte centers indgangsparti på en sådan måde, at den er synlig for kunderne. Hvis centeret har en hjemmeside, skal samarbejdsaftalen med Anti Doping Danmark ligeledes angives her. Stk. 2. Anti Doping Danmark fastsætter efter kulturministerens godkendelse de nærmere krav til udformning af informationen. Stk. 3. Med bøde straffes den, der undlader at informere efter stk. 1. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2008-05-29",
-      "valid_to": null
+      "valid_from": "2008-06-02",
+      "valid_to": "2013-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:14:19.406Z",
+    "accession": "A20080043030",
+    "document_id": "AK000616",
+    "unique_document_id": "117209",
+    "upstream_status": "Historic",
+    "start_date": "2008-06-02",
+    "end_date": "2013-11-26",
+    "historic_marked": "2013-11-25",
+    "seed_status": "repealed"
+  }
 }

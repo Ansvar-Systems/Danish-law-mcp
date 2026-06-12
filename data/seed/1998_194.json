@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om skibsregistrering",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-03-26",
+  "in_force_date": "1998-04-25",
   "url": "https://www.retsinformation.dk/eli/lta/1998/194/xml",
-  "description": "Retsinformation source. DocumentId=CM046896; AccessionNumber=B19980019405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046896; AccessionNumber=B19980019405; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:35:23.722Z",
+    "accession": "B19980019405",
+    "document_id": "CM046896",
+    "unique_document_id": "87093",
+    "upstream_status": "Historic",
+    "start_date": "1998-04-25",
+    "end_date": "2023-03-23",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

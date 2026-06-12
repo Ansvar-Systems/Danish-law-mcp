@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om opgørelse af den kommunale budgetgaranti",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-06",
+  "in_force_date": "2000-06-22",
   "url": "https://www.retsinformation.dk/eli/lta/2000/509/xml",
-  "description": "Retsinformation source. DocumentId=AI000344; AccessionNumber=B20000050905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000344; AccessionNumber=B20000050905; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:22:13.176Z",
+    "accession": "B20000050905",
+    "document_id": "AI000344",
+    "unique_document_id": "8947",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-22",
+    "end_date": "2023-04-29",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

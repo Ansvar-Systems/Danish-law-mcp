@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om årsregnskab for Arbejdsmarkedets Erhvervssygdomssikring",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-02-26",
+  "in_force_date": "2001-03-05",
   "url": "https://www.retsinformation.dk/eli/lta/2001/121/xml",
-  "description": "Retsinformation source. DocumentId=AU000286; AccessionNumber=B20010012105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU000286; AccessionNumber=B20010012105; Ophævet 2008-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:47:16.349Z",
+    "accession": "B20010012105",
+    "document_id": "AU000286",
+    "unique_document_id": "25708",
+    "upstream_status": "Historic",
+    "start_date": "2001-03-05",
+    "end_date": "2017-12-09",
+    "historic_marked": "2008-12-18",
+    "seed_status": "repealed"
+  }
 }

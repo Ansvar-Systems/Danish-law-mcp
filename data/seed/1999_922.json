@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse angående justerreglementet",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-12-13",
+  "in_force_date": "1999-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/1999/922/xml",
-  "description": "Retsinformation source. DocumentId=AD000567; AccessionNumber=B19990092205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000567; AccessionNumber=B19990092205; Ophævet 2003-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:47:24.239Z",
+    "accession": "B19990092205",
+    "document_id": "AD000567",
+    "unique_document_id": "4672",
+    "upstream_status": "Historic",
+    "start_date": "1999-12-20",
+    "end_date": "2017-12-08",
+    "historic_marked": "2003-12-22",
+    "seed_status": "repealed"
+  }
 }

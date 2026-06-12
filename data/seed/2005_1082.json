@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om afgift af lystfartøjsforsikringer",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-11-10",
+  "in_force_date": "2005-11-24",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1082/xml",
-  "description": "Retsinformation source. DocumentId=AN004941; AccessionNumber=A20050108229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN004941; AccessionNumber=A20050108229; Ophævet 2017-02-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:52:12.477Z",
+    "accession": "A20050108229",
+    "document_id": "AN004941",
+    "unique_document_id": "17076",
+    "upstream_status": "Historic",
+    "start_date": "2005-11-24",
+    "end_date": "2017-06-14",
+    "historic_marked": "2017-02-15",
+    "seed_status": "repealed"
+  }
 }

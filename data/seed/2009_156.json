@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om ferie",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-02-25",
+  "in_force_date": "2009-02-27",
   "url": "https://www.retsinformation.dk/eli/lta/2009/156/xml",
-  "description": "Retsinformation source. DocumentId=BE003243; AccessionNumber=B20090015605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE003243; AccessionNumber=B20090015605; Ophævet 2011-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "20",
@@ -19,9 +20,20 @@
       "provision_ref": "20",
       "section": "20",
       "content": "§ 20. En lønmodtager, en selvstændig erhvervsdrivende eller en værnepligtig skal attestere sit feriekontobevis for antallet af feriedage og datoen for feriens begyndelse, jf. dog stk. 2-4. Stk. 2. Hvis den pågældende modtager en ydelse fra en a-kasse, skal a-kassen også attestere feriekontobeviset. Stk. 3. I andre tilfælde skal den kommunale forvaltning attestere feriekontobeviset. Stk. 4. A-kassen eller den kommunale forvaltning skal attestere på feriekontobeviset for antallet af feriedage og datoen for feriens begyndelse. A-kassens eller den kommunale forvaltnings identitet skal fremgå af det attesterede feriekontobevis.",
-      "valid_from": "2009-02-25",
-      "valid_to": null
+      "valid_from": "2009-02-27",
+      "valid_to": "2011-12-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:00:23.299Z",
+    "accession": "B20090015605",
+    "document_id": "BE003243",
+    "unique_document_id": "123545",
+    "upstream_status": "Historic",
+    "start_date": "2009-02-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-12-22",
+    "seed_status": "repealed"
+  }
 }

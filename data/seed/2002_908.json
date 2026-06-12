@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om restriktioner i forbindelse med udførsel af fjerkræ og rugeæg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-11-11",
+  "in_force_date": "2002-11-19",
   "url": "https://www.retsinformation.dk/eli/lta/2002/908/xml",
-  "description": "Retsinformation source. DocumentId=AH001332; AccessionNumber=B20020090805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH001332; AccessionNumber=B20020090805; Ophævet 2002-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:03:07.533Z",
+    "accession": "B20020090805",
+    "document_id": "AH001332",
+    "unique_document_id": "7616",
+    "upstream_status": "Historic",
+    "start_date": "2002-11-19",
+    "end_date": "2022-04-09",
+    "historic_marked": "2002-12-22",
+    "seed_status": "repealed"
+  }
 }

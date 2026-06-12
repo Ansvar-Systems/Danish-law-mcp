@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af færdselslov",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-02",
+  "in_force_date": "2001-08-09",
   "url": "https://www.retsinformation.dk/eli/lta/2001/712/xml",
-  "description": "Retsinformation source. DocumentId=AR000452; AccessionNumber=A20010071229; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR000452; AccessionNumber=A20010071229; Ophævet 2005-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:11:00.861Z",
+    "accession": "A20010071229",
+    "document_id": "AR000452",
+    "unique_document_id": "22053",
+    "upstream_status": "Historic",
+    "start_date": "2001-08-09",
+    "end_date": "2025-02-13",
+    "historic_marked": "2005-11-21",
+    "seed_status": "repealed"
+  }
 }

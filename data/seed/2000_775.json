@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om påligningen af indkomstskat til staten",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-08-16",
+  "in_force_date": "2000-08-28",
   "url": "https://www.retsinformation.dk/eli/lta/2000/775/xml",
-  "description": "Retsinformation source. DocumentId=AN001127; AccessionNumber=A20000077529; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001127; AccessionNumber=A20000077529; Ophævet 2001-10-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:32:55.520Z",
+    "accession": "A20000077529",
+    "document_id": "AN001127",
+    "unique_document_id": "13921",
+    "upstream_status": "Historic",
+    "start_date": "2000-08-28",
+    "end_date": "2005-12-08",
+    "historic_marked": "2001-10-18",
+    "seed_status": "repealed"
+  }
 }

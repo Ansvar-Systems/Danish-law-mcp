@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2022-10-31",
+  "in_force_date": "2022-11-03",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1431/xml",
   "description": "Retsinformation source. DocumentId=CQ002402; AccessionNumber=B20220143105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, stk. 2, og §§ 5-6 i lov nr. 1400 af 10. oktober 2022 om likviditetslån m.v. i forbindelse med indefrysningsordning for høje energiregninger og til energiintensive virksomheder m.v., sættes i kraft.",
-      "valid_from": "2022-10-31",
+      "valid_from": "2022-11-03",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft 4. november 2022.",
-      "valid_from": "2022-10-31",
+      "valid_from": "2022-11-03",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:18:54.488Z",
+    "accession": "B20220143105",
+    "document_id": "CQ002402",
+    "unique_document_id": "233528",
+    "upstream_status": "Valid",
+    "start_date": "2022-11-03",
+    "end_date": "2022-11-04",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

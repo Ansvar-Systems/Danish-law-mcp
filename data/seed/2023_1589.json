@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-12-11",
+  "in_force_date": "2023-12-12",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1589/xml",
   "description": "Retsinformation source. DocumentId=DB000812; AccessionNumber=B20230158905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Områder som afgrænset på bilag 1 og 2 er åbne for ansøgninger om tilladelse til efterforskning og anvendelse af undergrunden til geologisk lagring af kuldioxid fra den 13. december 2023 til den 24. januar 2024.",
-      "valid_from": "2023-12-11",
+      "valid_from": "2023-12-12",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Tilladelser meddeles efter forelæggelse for et af Folketinget nedsat udvalg i overensstemmelse med undergrundslovens § 23, stk. 8.",
-      "valid_from": "2023-12-11",
+      "valid_from": "2023-12-12",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 13. december 2023.",
-      "valid_from": "2023-12-11",
+      "valid_from": "2023-12-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:25:20.493Z",
+    "accession": "B20230158905",
+    "document_id": "DB000812",
+    "unique_document_id": "240432",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-12",
+    "end_date": "2023-12-13",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

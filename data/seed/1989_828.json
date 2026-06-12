@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om støtte til danske investeringer i Østlandene",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-12-19",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/828/xml",
-  "description": "Retsinformation source. DocumentId=CM031256; AccessionNumber=A19890082830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031256; AccessionNumber=A19890082830; Ophævet 2010-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:57:51.536Z",
+    "accession": "A19890082830",
+    "document_id": "CM031256",
+    "unique_document_id": "72065",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2011-01-11",
+    "historic_marked": "2010-09-21",
+    "seed_status": "repealed"
+  }
 }

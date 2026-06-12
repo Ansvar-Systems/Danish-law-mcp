@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om frekvensanvendelse m.v. uden individuel tilladelse",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-05-07",
+  "in_force_date": "2002-05-15",
   "url": "https://www.retsinformation.dk/eli/lta/2002/295/xml",
-  "description": "Retsinformation source. DocumentId=BD000030; AccessionNumber=B20020029505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000030; AccessionNumber=B20020029505; Ophævet 2002-12-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:38:51.656Z",
+    "accession": "B20020029505",
+    "document_id": "BD000030",
+    "unique_document_id": "29096",
+    "upstream_status": "Historic",
+    "start_date": "2002-05-15",
+    "end_date": "2026-06-04",
+    "historic_marked": "2002-12-19",
+    "seed_status": "repealed"
+  }
 }

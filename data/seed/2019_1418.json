@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om overgang til efterløn samt beregning og udbetaling af efterløn",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-12-16",
+  "in_force_date": "2019-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1418/xml",
-  "description": "Retsinformation source. DocumentId=BE008233; AccessionNumber=B20190141805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE008233; AccessionNumber=B20190141805; Ophævet 2023-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "15a",
@@ -19,9 +20,20 @@
       "provision_ref": "15a",
       "section": "15a",
       "content": "§ 15 a. Medlemmet kan supplere oplysninger om arbejde, indtægter og andre forhold, der er afgivet efter § 14, stk. 3, for udbetalingsperioden. Det kan ske i perioden, fra medlemmet afleverer månedsoplysningerne til tidspunktet for samkøringen af oplysninger, jf. § 16. Stk. 2. A-kassen skal behandle medlemmets oplysninger jf. stk.1, i forbindelse med samkøringen med oplysningerne i indkomstregisteret, jf. § 16.",
-      "valid_from": "2019-12-16",
-      "valid_to": null
+      "valid_from": "2019-12-17",
+      "valid_to": "2023-09-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:45:16.312Z",
+    "accession": "B20190141805",
+    "document_id": "BE008233",
+    "unique_document_id": "211805",
+    "upstream_status": "Historic",
+    "start_date": "2019-12-17",
+    "end_date": "2026-06-12",
+    "historic_marked": "2023-09-21",
+    "seed_status": "repealed"
+  }
 }

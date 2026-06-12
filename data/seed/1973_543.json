@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om regulering af kreditformidling",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1973-10-17",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1973/543/xml",
-  "description": "Retsinformation source. DocumentId=CM000162; AccessionNumber=A19730054330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM000162; AccessionNumber=A19730054330; Ophævet 1996-11-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:48:42.426Z",
+    "accession": "A19730054330",
+    "document_id": "CM000162",
+    "unique_document_id": "41670",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2017-12-09",
+    "historic_marked": "1996-11-15",
+    "seed_status": "repealed"
+  }
 }

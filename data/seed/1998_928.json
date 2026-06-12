@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om aftalt boligforbedring",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-15",
+  "in_force_date": "1998-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/1998/928/xml",
-  "description": "Retsinformation source. DocumentId=AC000045; AccessionNumber=B19980092805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000045; AccessionNumber=B19980092805; Ophævet 2003-01-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:04:41.500Z",
+    "accession": "B19980092805",
+    "document_id": "AC000045",
+    "unique_document_id": "3945",
+    "upstream_status": "Historic",
+    "start_date": "1998-12-27",
+    "end_date": "2023-04-29",
+    "historic_marked": "2003-01-30",
+    "seed_status": "repealed"
+  }
 }

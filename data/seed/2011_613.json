@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om pas til danske statsborgere m.v. og udlændingeloven\\n(Fingeraftryk i pas m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-06-14",
+  "in_force_date": "2011-06-14",
   "url": "https://www.retsinformation.dk/eli/lta/2011/613/xml",
-  "description": "Retsinformation source. DocumentId=AA006100; AccessionNumber=A20110061330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA006100; AccessionNumber=A20110061330; Ophævet 2017-01-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -20,8 +21,19 @@
       "section": "4",
       "content": "§ 4 b. For optagelse af digitalt fingeraftryk i forbindelse med udstedelse af pas betales 25 kr.",
       "valid_from": "2011-06-14",
-      "valid_to": null
+      "valid_to": "2017-01-20"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:14:20.578Z",
+    "accession": "A20110061330",
+    "document_id": "AA006100",
+    "unique_document_id": "137683",
+    "upstream_status": "Historic",
+    "start_date": "2011-06-14",
+    "end_date": "2020-07-17",
+    "historic_marked": "2017-01-20",
+    "seed_status": "repealed"
+  }
 }

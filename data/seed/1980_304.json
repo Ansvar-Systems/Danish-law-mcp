@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om bispevalg",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-06-23",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1980/304/xml",
-  "description": "Retsinformation source. DocumentId=CM031444; AccessionNumber=B19800030405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031444; AccessionNumber=B19800030405; Ophævet 1994-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:01:23.744Z",
+    "accession": "B19800030405",
+    "document_id": "CM031444",
+    "unique_document_id": "72251",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2014-07-02",
+    "historic_marked": "1994-12-29",
+    "seed_status": "repealed"
+  }
 }

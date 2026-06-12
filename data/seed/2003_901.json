@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Lov om Det Danske Klasselotteri A/S",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-11-12",
+  "in_force_date": "2003-11-21",
   "url": "https://www.retsinformation.dk/eli/lta/2003/901/xml",
-  "description": "Retsinformation source. DocumentId=AN003480; AccessionNumber=A20030090129; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003480; AccessionNumber=A20030090129; Ophævet 2013-02-19. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:48:56.627Z",
+    "accession": "A20030090129",
+    "document_id": "AN003480",
+    "unique_document_id": "15854",
+    "upstream_status": "Historic",
+    "start_date": "2003-11-21",
+    "end_date": "2016-04-05",
+    "historic_marked": "2013-02-19",
+    "seed_status": "repealed"
+  }
 }

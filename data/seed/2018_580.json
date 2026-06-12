@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af lov om udstykning og anden registrering i matriklen, lov om Geodatastyrelsen, lov om tinglysning og forskellige andre love (Effektivisering af ejendomsregistrering og -forvaltning m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-30",
+  "in_force_date": "2018-05-30",
   "url": "https://www.retsinformation.dk/eli/lta/2018/580/xml",
-  "description": "Retsinformation source. DocumentId=CI000447; AccessionNumber=B20180058005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000447; AccessionNumber=B20180058005; Ophævet 2026-02-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -28,7 +29,7 @@
       "section": "1",
       "content": "§ 1. § 1, nr. 2-6, 8-10, 12 og 15, § 3, nr. 1 og 3-5, og §§ 4 og 5 i lov nr. 80 af 24. januar 2017 om ændring af lov om udstykning og anden registrering i matriklen, lov om Geodatastyrelsen, lov om tinglysning og forskellige andre love (Effektivisering af ejendomsregistrering og -forvaltning m.v.) sættes i kraft.",
       "valid_from": "2018-05-30",
-      "valid_to": null
+      "valid_to": "2026-02-18"
     },
     {
       "provision_ref": "1:2",
@@ -36,8 +37,19 @@
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juni 2018.",
       "valid_from": "2018-05-30",
-      "valid_to": null
+      "valid_to": "2026-02-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:11:29.461Z",
+    "accession": "B20180058005",
+    "document_id": "CI000447",
+    "unique_document_id": "200741",
+    "upstream_status": "Historic",
+    "start_date": "2018-05-30",
+    "end_date": "2026-02-19",
+    "historic_marked": "2026-02-18",
+    "seed_status": "repealed"
+  }
 }

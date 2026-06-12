@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilvirkning af vin",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-21",
+  "in_force_date": "2000-07-31",
   "url": "https://www.retsinformation.dk/eli/lta/2000/721/xml",
-  "description": "Retsinformation source. DocumentId=AH000669; AccessionNumber=B20000072105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000669; AccessionNumber=B20000072105; Ophævet 2007-06-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:30:47.231Z",
+    "accession": "B20000072105",
+    "document_id": "AH000669",
+    "unique_document_id": "7036",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-31",
+    "end_date": "2022-04-09",
+    "historic_marked": "2007-06-14",
+    "seed_status": "repealed"
+  }
 }

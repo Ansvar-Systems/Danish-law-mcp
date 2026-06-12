@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om radio- og fjernsynsvirksomhed\\n(Forbud mod fremme af terrorisme i programvirksomhed m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-06-12",
+  "in_force_date": "2013-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2013/644/xml",
-  "description": "Retsinformation source. DocumentId=AK000941; AccessionNumber=A20130064430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK000941; AccessionNumber=A20130064430; Ophævet 2013-10-11. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "50",
@@ -20,8 +21,19 @@
       "section": "50",
       "content": "§ 50 a. En afgørelse truffet efter § 50, stk. 1, nr. 1, stk. 2, nr. 1, eller stk. 3, kan af den, afgørelsen vedrører, forlanges indbragt for domstolene, hvis afgørelsen vedrører regler som fastsat i medfør af § 48, 2. eller 3. pkt. Stk. 2. Begæring herom skal fremsættes til Radio- og tv-nævnet, inden 4 uger efter at afgørelsen er meddelt den pågældende. Afgørelsen skal indeholde oplysninger om adgangen til at kræve domstolsprøvelse og om fristen herfor. Radio- og tv-nævnet anlægger sag mod den pågældende i den borgerlige retsplejes former. Stk. 3. Retten kan ved kendelse bestemme, at sagsanlæg har opsættende virkning. Såfremt Radio- og tv-nævnets afgørelse opretholdes ved dom, kan der heri bestemmes, at anke ikke har opsættende virkning.",
       "valid_from": "2013-06-12",
-      "valid_to": null
+      "valid_to": "2013-10-11"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:12:40.052Z",
+    "accession": "A20130064430",
+    "document_id": "AK000941",
+    "unique_document_id": "152308",
+    "upstream_status": "Historic",
+    "start_date": "2013-06-12",
+    "end_date": "2013-10-12",
+    "historic_marked": "2013-10-11",
+    "seed_status": "repealed"
+  }
 }

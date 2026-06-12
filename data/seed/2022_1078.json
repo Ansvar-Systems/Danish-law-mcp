@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-06-29",
+  "in_force_date": "2022-06-29",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1078/xml",
   "description": "Retsinformation source. DocumentId=CQ002279; AccessionNumber=B20220107805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -283,5 +284,16 @@
       "definition": "Europa-Parlamentets og Rådets direktiv 2014/25/EU af 26",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:04:36.816Z",
+    "accession": "B20220107805",
+    "document_id": "CQ002279",
+    "unique_document_id": "232123",
+    "upstream_status": "Valid",
+    "start_date": "2022-06-29",
+    "end_date": "2025-02-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

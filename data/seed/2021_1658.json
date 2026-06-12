@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2021-08-01",
+  "in_force_date": "2021-08-12",
   "url": "https://www.retsinformation.dk/eli/lta/2021/1658/xml",
   "description": "Retsinformation source. DocumentId=BE009010; AccessionNumber=B20210165805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. §§ 2 og 3 i lov nr. 530 af 27. marts 2021 om ændring af konkursloven, lov om Lønmodtagernes Garantifond og lov om lønmodtageres retsstilling ved virksomhedsoverdragelse sættes i kraft.",
-      "valid_from": "2021-08-01",
+      "valid_from": "2021-08-12",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. august 2021.",
-      "valid_from": "2021-08-01",
+      "valid_from": "2021-08-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:48:53.599Z",
+    "accession": "B20210165805",
+    "document_id": "BE009010",
+    "unique_document_id": "224678",
+    "upstream_status": "Valid",
+    "start_date": "2021-08-12",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

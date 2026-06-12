@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om erhvervsuddannelser",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-03-22",
+  "in_force_date": "2004-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2004/184/xml",
-  "description": "Retsinformation source. DocumentId=AT001719; AccessionNumber=B20040018405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001719; AccessionNumber=B20040018405; Ophævet 2004-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:15:55.273Z",
+    "accession": "B20040018405",
+    "document_id": "AT001719",
+    "unique_document_id": "24449",
+    "upstream_status": "Historic",
+    "start_date": "2004-03-29",
+    "end_date": "2021-01-08",
+    "historic_marked": "2004-12-20",
+    "seed_status": "repealed"
+  }
 }

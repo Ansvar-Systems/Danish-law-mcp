@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2021-05-12",
+  "in_force_date": "2021-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2021/883/xml",
   "description": "Retsinformation source. DocumentId=DB000321; AccessionNumber=A20210088330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -255,5 +256,16 @@
       "definition": "et elektronisk dokument, hvis eneste funktion er over for en slutkunde at dokumentere, at en given andel eller mængde af energi er produceret fra vedvarende energikilder",
       "source_provision": "6b"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:56:44.510Z",
+    "accession": "A20210088330",
+    "document_id": "DB000321",
+    "unique_document_id": "222895",
+    "upstream_status": "Valid",
+    "start_date": "2021-05-12",
+    "end_date": "2023-12-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

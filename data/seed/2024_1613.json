@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-13",
+  "in_force_date": "2024-12-19",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1613/xml",
   "description": "Retsinformation source. DocumentId=CQ003105; AccessionNumber=B20240161305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 1760 af 11. december 2023 om Dansk Vækstkapital. 2) Bekendtgørelse nr. 1741 af 11. december 2023 om Dansk Vækstkapital II 3) Bekendtgørelse nr. 1761 af 11. december 2023 om Dansk Vækstkapital III",
-      "valid_from": "2024-12-13",
+      "valid_from": "2024-12-19",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. januar 2025.",
-      "valid_from": "2024-12-13",
+      "valid_from": "2024-12-19",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:47:24.913Z",
+    "accession": "B20240161305",
+    "document_id": "CQ003105",
+    "unique_document_id": "247185",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-19",
+    "end_date": "2024-12-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

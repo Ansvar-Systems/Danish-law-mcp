@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om betaling for foderstofkontrol i 2006",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-07-14",
+  "in_force_date": "2006-07-24",
   "url": "https://www.retsinformation.dk/eli/lta/2006/816/xml",
-  "description": "Retsinformation source. DocumentId=AH002350; AccessionNumber=B20060081605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH002350; AccessionNumber=B20060081605; Ophævet 2006-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:39:05.667Z",
+    "accession": "B20060081605",
+    "document_id": "AH002350",
+    "unique_document_id": "8482",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-24",
+    "end_date": "2022-04-08",
+    "historic_marked": "2006-12-29",
+    "seed_status": "repealed"
+  }
 }

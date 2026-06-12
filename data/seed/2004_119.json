@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om registrering af ledningsejere",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-02-24",
+  "in_force_date": "2004-02-25",
   "url": "https://www.retsinformation.dk/eli/lta/2004/119/xml",
-  "description": "Retsinformation source. DocumentId=AU001526; AccessionNumber=A20040011930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001526; AccessionNumber=A20040011930; Ophævet 2010-09-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:00:35.544Z",
+    "accession": "A20040011930",
+    "document_id": "AU001526",
+    "unique_document_id": "26597",
+    "upstream_status": "Historic",
+    "start_date": "2004-02-25",
+    "end_date": "2021-01-08",
+    "historic_marked": "2010-09-27",
+    "seed_status": "repealed"
+  }
 }

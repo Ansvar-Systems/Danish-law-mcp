@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om ændring af anordning om konfirmation.",
   "short_name": "Ændringsanordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1975-02-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1975/39/xml",
-  "description": "Retsinformation source. DocumentId=CM031383; AccessionNumber=B19750003903; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031383; AccessionNumber=B19750003903; Ophævet 2017-04-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T01:44:51.972Z",
+    "accession": "B19750003903",
+    "document_id": "CM031383",
+    "unique_document_id": "72191",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2025-10-21",
+    "historic_marked": "2017-04-28",
+    "seed_status": "repealed"
+  }
 }

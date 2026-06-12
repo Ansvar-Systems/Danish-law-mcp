@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2024-03-20",
+  "in_force_date": "2024-03-21",
   "url": "https://www.retsinformation.dk/eli/lta/2024/288/xml",
   "description": "Retsinformation source. DocumentId=CQ002810; AccessionNumber=B20240028805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 4, nr. 3, i lov nr. 251 af 30. marts 2011 om ændring af søloven, lov om sikkerhed til søs og sømandsloven (Pligt til forsikring for søretlige krav, gennemførelse af konventionen om arbejdsforhold i fiskerisektoren m.v.) sættes i kraft.",
-      "valid_from": "2024-03-20",
+      "valid_from": "2024-03-21",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. april 2024.",
-      "valid_from": "2024-03-20",
+      "valid_from": "2024-03-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:58:29.120Z",
+    "accession": "B20240028805",
+    "document_id": "CQ002810",
+    "unique_document_id": "242211",
+    "upstream_status": "Valid",
+    "start_date": "2024-03-21",
+    "end_date": "2024-04-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

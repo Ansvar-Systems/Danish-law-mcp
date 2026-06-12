@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om batterier og akkumulatorer og udtjente batterier og akkumulatorer (Uafhængige fagfolks fjernelse af udtjente batterier og akkumulatorer m.v.)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-07-08",
+  "in_force_date": "2015-07-10",
   "url": "https://www.retsinformation.dk/eli/lta/2015/871/xml",
-  "description": "Retsinformation source. DocumentId=CK000030; AccessionNumber=B20150087105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK000030; AccessionNumber=B20150087105; Ophævet 2015-12-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "39",
@@ -19,9 +20,20 @@
       "provision_ref": "39",
       "section": "39",
       "content": "§ 39. Udstyr, hvori batterier og akkumulatorer er indbyggede, skal udformes på en sådan måde, at udtjente batterier og akkumulatorer uden videre kan fjernes. Hvis de ikke let kan fjernes af slutbrugeren, skal udstyret udformes på en sådan måde, at udtjente batterier og akkumulatorer let kan fjernes af kvalificerede fagfolk, som er uafhængige af fabrikanten. Stk. 2. Udstyr, hvori batterier og akkumulatorer er indbyggede, skal ledsages af en vejledning, der beskriver, hvordan batteriet eller akkumulatoren kan fjernes på en sikker måde, enten af slutbrugeren eller af kvalificerede fagfolk, som er uafhængige af fabrikanten. Vejledningen skal også oplyse slutbrugeren om arterne af de batterier eller akkumulatorer, der er indbygget i apparatet, hvis det er nødvendigt. Stk. 3. Reglerne i stk. 1 og 2 finder ikke anvendelse, når vedvarende elektricitetsforsyning er nødvendig af hensyn til sikkerheden eller ydeevnen eller af medicinske grunde eller for at bevare dataintegriteten, og en vedvarende forbindelse mellem udstyret og batteriet eller akkumulatoren derfor er nødvendig. Stk. 4. Reglerne i stk. 1 og 2 finder ikke anvendelse, hvis der for særlige typer af udstyr eller produkter er fastsat regler om, hvordan batterier og akkumulatorer skal kunne fjernes, eller at batteriet eller akkumulatoren ikke skal kunne fjernes.",
-      "valid_from": "2015-07-08",
-      "valid_to": null
+      "valid_from": "2015-07-10",
+      "valid_to": "2015-12-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:26:42.010Z",
+    "accession": "B20150087105",
+    "document_id": "CK000030",
+    "unique_document_id": "173314",
+    "upstream_status": "Historic",
+    "start_date": "2015-07-10",
+    "end_date": "2022-12-21",
+    "historic_marked": "2015-12-08",
+    "seed_status": "repealed"
+  }
 }

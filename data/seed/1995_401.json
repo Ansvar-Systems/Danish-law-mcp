@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om Kongeriget Danmarks Fiskeribank (Fiskeribankloven)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-06-14",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1995/401/xml",
-  "description": "Retsinformation source. DocumentId=CM039016; AccessionNumber=A19950040130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM039016; AccessionNumber=A19950040130; Ophævet 1995-12-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:37:21.600Z",
+    "accession": "A19950040130",
+    "document_id": "CM039016",
+    "unique_document_id": "79803",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2022-04-09",
+    "historic_marked": "1995-12-22",
+    "seed_status": "repealed"
+  }
 }

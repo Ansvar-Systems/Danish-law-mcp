@@ -5,6 +5,7 @@
   "short_name": "BEK Æ#LOKDOK05",
   "status": "in_force",
   "issued_date": "2017-05-09",
+  "in_force_date": "2017-05-12",
   "url": "https://www.retsinformation.dk/eli/lta/2017/455/xml",
   "description": "Retsinformation source. DocumentId=CX000118; AccessionNumber=B20170045505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -25,7 +26,7 @@
       "provision_ref": "36",
       "section": "36",
       "content": "§ 36. Der må ikke transporteres andre personer på et elektrisk drevet en-akslet køretøj end føreren.",
-      "valid_from": "2017-05-09",
+      "valid_from": "2017-05-12",
       "valid_to": null
     },
     {
@@ -33,9 +34,20 @@
       "chapter": "12a",
       "section": "37a",
       "content": "§ 37 a. Som led i produkttilsyn efter færdselslovens § 68 a kan Færdselsstyrelsen udtage cykler og cyklers udstyr hos den erhvervsdrivende. Stk. 2. Færdselsstyrelsen kan foretage undersøgelser af cykler og cyklers udstyr udtaget i medfør af stk. 1. Er det nødvendigt for undersøgelsen, kan Færdselsstyrelsen indhente sagkyndige erklæringer. Stk. 3. I de tilfælde, hvor undersøgelsen viser, at cykler og cyklers udstyr ikke er i overensstemmelse med produktkravene, herunder mærkningskravene, refunderer den erhvervsdrivende Færdselsstyrelsens nødvendige udgifter ved prøveudtagning efter stk. 1 og nødvendige udgifter til undersøgelser efter stk. 2.",
-      "valid_from": "2017-05-09",
+      "valid_from": "2017-05-12",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:19:11.419Z",
+    "accession": "B20170045505",
+    "document_id": "CX000118",
+    "unique_document_id": "190060",
+    "upstream_status": "Valid",
+    "start_date": "2017-05-12",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

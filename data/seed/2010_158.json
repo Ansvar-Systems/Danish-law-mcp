@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af byggeloven\\n(Energikrav til bygningsdele, bygherreansvar m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-02-16",
+  "in_force_date": "2010-02-16",
   "url": "https://www.retsinformation.dk/eli/lta/2010/158/xml",
-  "description": "Retsinformation source. DocumentId=AU003913; AccessionNumber=A20100015830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU003913; AccessionNumber=A20100015830; Ophævet 2010-10-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -30,22 +31,33 @@
       "section": "4",
       "content": "§ 4 C. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om, at bygningsreglementets tekniske bestemmelser finder anvendelse ved ombygninger og andre forandringer i bestående bebyggelse omfattet af § 2, stk. 1, litra e.",
       "valid_from": "2010-02-16",
-      "valid_to": null
+      "valid_to": "2010-10-18"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5 A. En bygherre, der som led i sit erhverv udfører byggeri, er erstatningsansvarlig efter dansk rets almindelige regler for tab som følge af, at byggeriet ikke udføres i overensstemmelse med bygningsreglementet.",
       "valid_from": "2010-02-16",
-      "valid_to": null
+      "valid_to": "2010-10-18"
     },
     {
       "provision_ref": "30",
       "section": "30",
       "content": "§ 30 B. Økonomi- og erhvervsministeren fastsætter nærmere regler om gennemførelse af Rådets direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter.",
       "valid_from": "2010-02-16",
-      "valid_to": null
+      "valid_to": "2010-10-18"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:58:32.803Z",
+    "accession": "A20100015830",
+    "document_id": "AU003913",
+    "unique_document_id": "130340",
+    "upstream_status": "Historic",
+    "start_date": "2010-02-16",
+    "end_date": "2023-04-29",
+    "historic_marked": "2010-10-18",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om ejerlejligheder",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-01-30",
+  "in_force_date": "2006-02-09",
   "url": "https://www.retsinformation.dk/eli/lta/2006/53/xml",
-  "description": "Retsinformation source. DocumentId=AU002216; AccessionNumber=A20060005329; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002216; AccessionNumber=A20060005329; Ophævet 2011-01-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:27:35.587Z",
+    "accession": "A20060005329",
+    "document_id": "AU002216",
+    "unique_document_id": "27088",
+    "upstream_status": "Historic",
+    "start_date": "2006-02-09",
+    "end_date": "2017-12-09",
+    "historic_marked": "2011-01-03",
+    "seed_status": "repealed"
+  }
 }

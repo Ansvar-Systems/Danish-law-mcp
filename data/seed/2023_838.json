@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-06-20",
+  "in_force_date": "2023-06-20",
   "url": "https://www.retsinformation.dk/eli/lta/2023/838/xml",
   "description": "Retsinformation source. DocumentId=DI000879; AccessionNumber=B20230083805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -255,5 +256,16 @@
       "definition": "enhver form for opsøgende informationsvirksomhed, kundesøgning eller holdningspåvirkning, der tager sigte på at fremme ordinering, udlevering, salg eller forbrug af produkter uden et medicinsk formål",
       "source_provision": "1:2"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T09:03:34.535Z",
+    "accession": "B20230083805",
+    "document_id": "DI000879",
+    "unique_document_id": "238292",
+    "upstream_status": "Valid",
+    "start_date": "2023-06-20",
+    "end_date": "2025-03-14",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om radioprøver og certifikater i GMDSS",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-08-12",
+  "in_force_date": "2004-08-26",
   "url": "https://www.retsinformation.dk/eli/lta/2004/861/xml",
-  "description": "Retsinformation source. DocumentId=AU001686; AccessionNumber=B20040086105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU001686; AccessionNumber=B20040086105; Ophævet 2011-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:43:15.386Z",
+    "accession": "B20040086105",
+    "document_id": "AU001686",
+    "unique_document_id": "26708",
+    "upstream_status": "Historic",
+    "start_date": "2004-08-26",
+    "end_date": "2026-06-04",
+    "historic_marked": "2011-08-30",
+    "seed_status": "repealed"
+  }
 }

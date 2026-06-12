@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-10-04",
+  "in_force_date": "2000-10-12",
   "url": "https://www.retsinformation.dk/eli/lta/2000/914/xml",
-  "description": "Retsinformation source. DocumentId=AB000667; AccessionNumber=A20000091429; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000667; AccessionNumber=A20000091429; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:38:34.288Z",
+    "accession": "A20000091429",
+    "document_id": "AB000667",
+    "unique_document_id": "3368",
+    "upstream_status": "Historic",
+    "start_date": "2000-10-12",
+    "end_date": "2023-01-06",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

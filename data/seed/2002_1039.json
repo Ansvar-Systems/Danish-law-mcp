@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af ferieloven\\n(Renteafkast af FerieKonto)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-17",
+  "in_force_date": "2002-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1039/xml",
-  "description": "Retsinformation source. DocumentId=BE000467; AccessionNumber=A20020103930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE000467; AccessionNumber=A20020103930; Ophævet 2004-06-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:23:59.283Z",
+    "accession": "A20020103930",
+    "document_id": "BE000467",
+    "unique_document_id": "29671",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-17",
+    "end_date": "2004-08-03",
+    "historic_marked": "2004-06-10",
+    "seed_status": "repealed"
+  }
 }

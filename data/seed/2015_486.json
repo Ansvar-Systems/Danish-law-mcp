@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2015-04-21",
+  "in_force_date": "2015-04-21",
   "url": "https://www.retsinformation.dk/eli/lta/2015/486/xml",
   "description": "Retsinformation source. DocumentId=BP001235; AccessionNumber=B20150048603; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1170,5 +1171,16 @@
       "definition": "en ansøgning i henhold til den i Washington den 19",
       "source_provision": "3:26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:11:08.660Z",
+    "accession": "B20150048603",
+    "document_id": "BP001235",
+    "unique_document_id": "168949",
+    "upstream_status": "Valid",
+    "start_date": "2015-04-21",
+    "end_date": "2017-12-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

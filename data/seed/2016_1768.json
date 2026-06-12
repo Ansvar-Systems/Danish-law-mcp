@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om afgift af tinglysning og registrering af ejer- og panterettigheder m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2016-12-27",
+  "in_force_date": "2016-12-29",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1768/xml",
-  "description": "Retsinformation source. DocumentId=AN012814; AccessionNumber=B20160176805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN012814; AccessionNumber=B20160176805; Ophævet 2019-05-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "35a",
@@ -19,9 +20,20 @@
       "provision_ref": "35a",
       "section": "35a",
       "content": "§ 35 a. Ved tinglysning omfattet af tinglysningsafgiftslovens § 10, stk. 1, nr. 4, erklæres følgende: »Tinglysningen er omfattet af tinglysningslovens § 37 a.«",
-      "valid_from": "2016-12-27",
-      "valid_to": null
+      "valid_from": "2016-12-29",
+      "valid_to": "2019-05-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:03:06.532Z",
+    "accession": "B20160176805",
+    "document_id": "AN012814",
+    "unique_document_id": "185574",
+    "upstream_status": "Historic",
+    "start_date": "2016-12-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-05-03",
+    "seed_status": "repealed"
+  }
 }

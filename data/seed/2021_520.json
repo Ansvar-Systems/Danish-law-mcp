@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om bemyndigelse af justitsministeren til at fastsætte regler om drive in-arrangementer på Kulturministeriets område i forbindelse med håndtering af covid-19",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-03-25",
+  "in_force_date": "2021-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2021/520/xml",
-  "description": "Retsinformation source. DocumentId=AK001720; AccessionNumber=B20210052005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AK001720; AccessionNumber=B20210052005; Ophævet 2021-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Justitsministeren bemyndiges til i medfør af §§ 32 og 36 i epidemiloven efter forhandling med kulturministeren og sundhedsministeren at fastsætte regler om forbud mod adgang til eller restriktioner for adgangen til eller brugen af indendørs eller udendørs offentlige institutioner og faciliteter samt lokaler og andre lokaliteter, som fysiske eller juridiske personer råder over, og hvortil offentligheden har adgang, herunder forenings- og klublokaliteter samt selvejende museer, teatre, spillesteder, idrætsfaciliteter, m.v., for så vidt angår arrangementer, hvor flere personer samles i motorkøretøjer med et fælles formål (drive in-arrangementer). Stk. 2. Justitsministeren bemyndiges endvidere til i medfør af § 64 og § 66, stk. 3, i epidemiloven at fastsætte regler om adgangen til at klage over afgørelser truffet efter og straf for overtrædelse af regler udstedt efter bemyndigelsen i stk. 1.",
-      "valid_from": "2021-03-25",
-      "valid_to": null
+      "valid_from": "2021-03-27",
+      "valid_to": "2021-08-30"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 28. marts 2021. Stk. 2. Bekendtgørelsen ophæves den 15. september 2021.",
-      "valid_from": "2021-03-25",
-      "valid_to": null
+      "valid_from": "2021-03-27",
+      "valid_to": "2021-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:09.515Z",
+    "accession": "B20210052005",
+    "document_id": "AK001720",
+    "unique_document_id": "222065",
+    "upstream_status": "Historic",
+    "start_date": "2021-03-27",
+    "end_date": "2021-08-31",
+    "historic_marked": "2021-08-30",
+    "seed_status": "repealed"
+  }
 }

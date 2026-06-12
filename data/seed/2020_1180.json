@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om markblok, elektronisk fællesskema og elektroniske tilsagnsskemaer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-07-27",
+  "in_force_date": "2020-07-29",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1180/xml",
-  "description": "Retsinformation source. DocumentId=CK002581; AccessionNumber=B20200118005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK002581; AccessionNumber=B20200118005; Ophævet 2020-12-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:35:47.810Z",
+    "accession": "B20200118005",
+    "document_id": "CK002581",
+    "unique_document_id": "215887",
+    "upstream_status": "Historic",
+    "start_date": "2020-07-29",
+    "end_date": "2022-04-08",
+    "historic_marked": "2020-12-01",
+    "seed_status": "repealed"
+  }
 }

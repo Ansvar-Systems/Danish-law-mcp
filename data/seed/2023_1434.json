@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-11-28",
+  "in_force_date": "2023-12-04",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1434/xml",
   "description": "Retsinformation source. DocumentId=DI001010; AccessionNumber=B20230143405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Landets inddeling i kommuner og regioner er ændret som angivet i bilag 1 til bekendtgørelsen.",
-      "valid_from": "2023-11-28",
+      "valid_from": "2023-12-04",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024.",
-      "valid_from": "2023-11-28",
+      "valid_from": "2023-12-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:19:09.152Z",
+    "accession": "B20230143405",
+    "document_id": "DI001010",
+    "unique_document_id": "240434",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-04",
+    "end_date": "2023-12-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

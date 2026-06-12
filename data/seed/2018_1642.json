@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-12-16",
+  "in_force_date": "2018-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1642/xml",
   "description": "Retsinformation source. DocumentId=CR001061; AccessionNumber=B20180164205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Lov om offentlighed i forvaltningen finder ikke anvendelse på KommuneKredit.",
-      "valid_from": "2018-12-16",
+      "valid_from": "2018-12-21",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2019. Stk. 2. Bekendtgørelse nr. 1579 af 17. december 2013 ophæves. Stk. 3. Kombit A/S, der var omfattet af bekendtgørelse nr. 1579 af 17. december 2013, men som ikke er omfattet af denne bekendtgørelse, vil være omfattet af lov om offentlighed i forvaltningen fra den 1. februar 2019. Stk. 4. Adgangen til aktindsigt efter stk. 3 gælder ikke for dokumenter, der før den 1. februar 2019 er indgået til eller oprettet af Kombit A/S.",
-      "valid_from": "2018-12-16",
+      "valid_from": "2018-12-21",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:48:33.330Z",
+    "accession": "B20180164205",
+    "document_id": "CR001061",
+    "unique_document_id": "205521",
+    "upstream_status": "Valid",
+    "start_date": "2018-12-21",
+    "end_date": "2023-04-29",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

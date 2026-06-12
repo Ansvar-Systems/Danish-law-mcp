@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om tilladelsesordninger efter dyreforsøgsloven",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-17",
+  "in_force_date": "2009-12-18",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1320/xml",
-  "description": "Retsinformation source. DocumentId=AA005248; AccessionNumber=B20090132005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA005248; AccessionNumber=B20090132005; Ophævet 2013-01-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -39,37 +40,48 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse finder anvendelse på Dyreforsøgstilsynets afgørelser af ansøgninger om tilladelser i henhold til dyreforsøgsloven og regler udstedt i medfør heraf, når tilladelsen vedrører virksomhed, der udføres som led i en tjenesteydelse.",
-      "valid_from": "2009-12-17",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2013-01-30"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Dyreforsøgstilsynet skal træffe afgørelse senest tre måneder efter, at ansøgningen og alle nødvendige oplysninger er modtaget. Stk. 2. Fristen efter stk. 1 kan forlænges én gang, hvis det på grund af sagens karakter ikke er muligt at træffe afgørelse inden fristens udløb. Hvis fristen forlænges, gives ansøgeren inden udløbet af fristen meddelelse herom og om, hvornår der herefter senest træffes afgørelse. Det skal fremgå af meddelelsen, hvad begrundelsen er for forlængelsen og for den herved fastsatte frist. Stk. 3. En overskridelse af fristen efter stk. 1 eller den forlængede frist efter stk. 2 indebærer ikke, at ansøgeren kan anse tilladelsen for meddelt. Stk. 4. Dyreforsøgstilsynet skal hurtigst muligt efter modtagelsen af en ansøgning sende en bekræftelse til ansøgeren på modtagelsen af ansøgningen. Bekræftelsen skal indeholde oplysninger om fristen efter stk. 1 og om adgangen til at forlænge fristen efter stk. 2.",
-      "valid_from": "2009-12-17",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2013-01-30"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Den person, der har modtaget en tilladelse som omhandlet i § 1, skal give den eller de personer, for hvilke virksomheden udføres som led i en tjenesteydelse, kontaktoplysninger vedrørende Dyreforsøgstilsynet. Oplysningerne skal gives til eller gøres tilgængelige for modtageren af tjenesteydelsen, inden der indgås aftale om udførelsen af tjenesteydelsen. Stk. 2. Oplysningerne efter stk. 1 gives eller gøres tilgængelige på den måde, som den, der driver virksomheden, finder mest egnet. Oplysningerne kan herunder gøres tilgængelige ad elektronisk vej via en adresse oplyst af den pågældende eller ved, at oplysningerne er tilgængelige der, hvor virksomheden er beliggende.",
-      "valid_from": "2009-12-17",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2013-01-30"
     },
     {
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Overtrædelse af § 3 straffes med bøde. Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2009-12-17",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2013-01-30"
     },
     {
       "provision_ref": "5",
       "section": "5",
       "content": "§ 5. Bekendtgørelsen træder i kraft den 28. december 2009.",
-      "valid_from": "2009-12-17",
-      "valid_to": null
+      "valid_from": "2009-12-18",
+      "valid_to": "2013-01-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:50:38.175Z",
+    "accession": "B20090132005",
+    "document_id": "AA005248",
+    "unique_document_id": "129077",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-18",
+    "end_date": "2022-04-09",
+    "historic_marked": "2013-01-30",
+    "seed_status": "repealed"
+  }
 }

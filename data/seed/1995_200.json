@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udbetaling af supplerende dagpenge",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-03-27",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/200/xml",
-  "description": "Retsinformation source. DocumentId=CM026362; AccessionNumber=B19950020005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM026362; AccessionNumber=B19950020005; Ophævet 1995-12-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:29:26.937Z",
+    "accession": "B19950020005",
+    "document_id": "CM026362",
+    "unique_document_id": "67183",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2001-11-30",
+    "historic_marked": "1995-12-28",
+    "seed_status": "repealed"
+  }
 }

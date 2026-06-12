@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om taxikørsel m.v.\\n(Indsættelse af bestemmelser om oplysningspligt, sagsbehandlingstider og kvittering med henblik på gennemførelse af servicedirektivet)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-18",
+  "in_force_date": "2010-01-05",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1551/xml",
-  "description": "Retsinformation source. DocumentId=BL000253; AccessionNumber=B20090155105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BL000253; AccessionNumber=B20090155105; Ophævet 2011-08-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "35",
@@ -19,9 +20,20 @@
       "provision_ref": "35",
       "section": "35",
       "content": "§ 35 c. Færdselsstyrelsen skal hurtigst muligt kvittere for modtagelsen af en ansøgning om godkendelse af en kursusudbyder og kursus. Kvitteringen skal indeholde følgende oplysninger: 1) Den offentliggjorte frist for behandlingen af den pågældende ansøgning og muligheden for, at fristen kan blive forlænget én gang, jf. § 35 b, stk. 1 og stk. 2, 2) oplysning om de administrative klagemuligheder for den pågældende afgørelse.",
-      "valid_from": "2009-12-18",
-      "valid_to": null
+      "valid_from": "2010-01-05",
+      "valid_to": "2011-08-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:00:05.585Z",
+    "accession": "B20090155105",
+    "document_id": "BL000253",
+    "unique_document_id": "129553",
+    "upstream_status": "Historic",
+    "start_date": "2010-01-05",
+    "end_date": "2026-06-12",
+    "historic_marked": "2011-08-30",
+    "seed_status": "repealed"
+  }
 }

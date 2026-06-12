@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om sektorforskningsinstitutioner",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-01-03",
+  "in_force_date": "2005-01-10",
   "url": "https://www.retsinformation.dk/eli/lta/2005/2/xml",
-  "description": "Retsinformation source. DocumentId=BD000199; AccessionNumber=B20050000205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000199; AccessionNumber=B20050000205; Ophævet 2011-01-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:10:34.424Z",
+    "accession": "B20050000205",
+    "document_id": "BD000199",
+    "unique_document_id": "29225",
+    "upstream_status": "Historic",
+    "start_date": "2005-01-10",
+    "end_date": "2014-07-02",
+    "historic_marked": "2011-01-20",
+    "seed_status": "repealed"
+  }
 }

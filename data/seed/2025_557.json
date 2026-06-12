@@ -5,6 +5,7 @@
   "short_name": "LOV H#LOKDOK 01",
   "status": "in_force",
   "issued_date": "2025-05-27",
+  "in_force_date": "2025-05-27",
   "url": "https://www.retsinformation.dk/eli/lta/2025/557/xml",
   "description": "Retsinformation source. DocumentId=AA014758; AccessionNumber=A20250055730; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -73,5 +74,16 @@
       "definition": "i denne lov personer, der er ansat ved de myndigheder og institutioner m",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:16:48.948Z",
+    "accession": "A20250055730",
+    "document_id": "AA014758",
+    "unique_document_id": "249878",
+    "upstream_status": "Valid",
+    "start_date": "2025-05-27",
+    "end_date": "2025-05-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

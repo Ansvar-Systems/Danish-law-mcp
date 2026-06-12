@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om sygeplejerskeuddannelsen (* 1)",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1979-01-29",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1979/31/xml",
-  "description": "Retsinformation source. DocumentId=CM032047; AccessionNumber=B19790003103; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032047; AccessionNumber=B19790003103; Ophævet 2008-01-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T02:09:37.936Z",
+    "accession": "B19790003103",
+    "document_id": "CM032047",
+    "unique_document_id": "72850",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2014-07-02",
+    "historic_marked": "2008-01-28",
+    "seed_status": "repealed"
+  }
 }

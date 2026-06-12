@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om krav til tekniske specifikationer m.v. for offentligt tilgængelig infrastruktur for alternative drivmidler og motorkøretøjsmanualer",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-08",
+  "in_force_date": "2018-05-15",
   "url": "https://www.retsinformation.dk/eli/lta/2018/473/xml",
-  "description": "Retsinformation source. DocumentId=CX000391; AccessionNumber=B20180047305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CX000391; AccessionNumber=B20180047305; Ophævet 2022-06-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "5a",
@@ -24,16 +25,27 @@
       "provision_ref": "5a",
       "section": "5a",
       "content": "§ 5 a. Alle offentligt tilgængelige ladestandere skal også give brugere af elektriske køretøjer mulighed for opladning på ad hoc-basis, uden at de skal indgå en kontrakt med den pågældende elektricitetsleverandør eller operatør.",
-      "valid_from": "2018-05-08",
-      "valid_to": null
+      "valid_from": "2018-05-15",
+      "valid_to": "2022-06-28"
     },
     {
       "provision_ref": "9a",
       "section": "9a",
       "content": "§ 9 a. På alle offentligt tilgængelige ladestandere skal der på klar og synlig måde oplyses om prisen for opladning.",
-      "valid_from": "2018-05-08",
-      "valid_to": null
+      "valid_from": "2018-05-15",
+      "valid_to": "2022-06-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:07:10.998Z",
+    "accession": "B20180047305",
+    "document_id": "CX000391",
+    "unique_document_id": "201189",
+    "upstream_status": "Historic",
+    "start_date": "2018-05-15",
+    "end_date": "2026-06-12",
+    "historic_marked": "2022-06-28",
+    "seed_status": "repealed"
+  }
 }

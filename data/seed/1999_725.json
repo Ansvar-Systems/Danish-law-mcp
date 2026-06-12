@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om afgift af tinglysning og registrering af ejer- og panterettigheder mv.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1999-09-15",
+  "in_force_date": "1999-09-23",
   "url": "https://www.retsinformation.dk/eli/lta/1999/725/xml",
-  "description": "Retsinformation source. DocumentId=AN000560; AccessionNumber=B19990072505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000560; AccessionNumber=B19990072505; Ophævet 2009-08-31. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:39:33.425Z",
+    "accession": "B19990072505",
+    "document_id": "AN000560",
+    "unique_document_id": "13538",
+    "upstream_status": "Historic",
+    "start_date": "1999-09-23",
+    "end_date": "2009-09-01",
+    "historic_marked": "2009-08-31",
+    "seed_status": "repealed"
+  }
 }

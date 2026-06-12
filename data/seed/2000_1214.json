@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om informations- og indholdstjenester med integreret taksering (tidligere service 900-tjenester)",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-18",
+  "in_force_date": "2000-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1214/xml",
-  "description": "Retsinformation source. DocumentId=AF000199; AccessionNumber=B20000121405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000199; AccessionNumber=B20000121405; Ophævet 2013-02-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:59:06.672Z",
+    "accession": "B20000121405",
+    "document_id": "AF000199",
+    "unique_document_id": "6221",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-27",
+    "end_date": "2026-06-04",
+    "historic_marked": "2013-02-27",
+    "seed_status": "repealed"
+  }
 }

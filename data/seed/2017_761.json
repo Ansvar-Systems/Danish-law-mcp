@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2017-06-19",
+  "in_force_date": "2017-06-20",
   "url": "https://www.retsinformation.dk/eli/lta/2017/761/xml",
   "description": "Retsinformation source. DocumentId=CQ000211; AccessionNumber=B20170076105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. I sager om overtrædelse af markedsføringslovens 10, stk. 1, der ikke skønnes at medføre højere straf end bøde, kan Forbrugerombudsmanden i et bødeforelæg tilkendegive, at sagen kan afgøres uden retssag, hvis den, der har begået overtrædelsen, erklærer sig skyldig i overtrædelsen og erklærer sig rede til inden en nærmere angiven frist at betale den bøde, der er angivet i bødeforelægget. Stk. 2. Retsplejelovens regler om krav til indholdet af et anklageskrift og om, at en sigtet ikke er forpligtet til at udtale sig, finder tilsvarende anvendelse på bødeforelæg efter denne bekendtgørelse.",
-      "valid_from": "2017-06-19",
+      "valid_from": "2017-06-20",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. En erhvervsdrivendes overtrædelse af markedsføringslovens § 10, stk. 1, om uanmodet henvendelse til bestemte aftagere, kan søges afgjort ved bødeforlæg i sager, der vedrører til og med 500 uanmodede henvendelser.",
-      "valid_from": "2017-06-19",
+      "valid_from": "2017-06-20",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Vedtages bøden inden den frist, der er angivet i bødeforelægget, bortfalder videre strafforfølgning. Vedtagelsen af et bødeforelæg har samme virkning som en dom. Fristen kan efter anmodning forlænges af Forbrugerombudsmanden. Stk. 2. Vedtagelse sker enten ved returnering af bødeforelægget i underskreven stand til Forbrugerombudsmanden eller ved betaling af bøden. Stk. 3. Betaling af bøden kan ske ved elektronisk betaling eller ved benyttelsen af det giroindbetalingskort, der er vedlagt bødeforelægget.",
-      "valid_from": "2017-06-19",
+      "valid_from": "2017-06-20",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. juli 2017.",
-      "valid_from": "2017-06-19",
+      "valid_from": "2017-06-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:31:27.269Z",
+    "accession": "B20170076105",
+    "document_id": "CQ000211",
+    "unique_document_id": "192026",
+    "upstream_status": "Valid",
+    "start_date": "2017-06-20",
+    "end_date": "2024-12-10",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

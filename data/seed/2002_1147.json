@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om værgemål",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-13",
+  "in_force_date": "2002-12-22",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1147/xml",
-  "description": "Retsinformation source. DocumentId=AA002025; AccessionNumber=B20020114705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA002025; AccessionNumber=B20020114705; Ophævet 2006-09-14. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:28:17.670Z",
+    "accession": "B20020114705",
+    "document_id": "AA002025",
+    "unique_document_id": "1499",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-22",
+    "end_date": "2006-09-14",
+    "historic_marked": "2006-09-14",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Fiskeristyrelsens varetagelse af visse opgaver i henhold til fødevareloven",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-12-04",
+  "in_force_date": "2017-12-05",
   "url": "https://www.retsinformation.dk/eli/lta/2017/1393/xml",
-  "description": "Retsinformation source. DocumentId=CK001547; AccessionNumber=B20170139305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CK001547; AccessionNumber=B20170139305; Ophævet 2020-05-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende beføjelser, der er tillagt miljø- og fødevareministeren efter fødevareloven, udøves af Fiskeristyrelsen for så vidt angår hygiejnemæssig kontrol med fiskefartøjer og fartøjer, der høster levende toskallede bløddyr m.m., hygiejnemæssig kontrol med fysiske landingsforhold, kontrol med høst og landing af levende toskallede bløddyr m.m. samt hygiejnemæssig kontrol med direkte landing og kontrol til og med første omsætningsled af ferske fiskevarer og frem til første omsætningsled af levende toskallede bløddyr m.m., jf. Europa-Parlamentets og Rådets forordning (EF) nr. 852/2004 af 29. april 2004 om fødevarehygiejne samt Europa-Parlamentets og Rådets forordning (EF) nr. 853/2004 af 29. april 2004 om særlige hygiejnebestemmelser for animalske fødevarer, samt kontrol med fiskeri og fiskevarer til og med første omsætningsled i områder omfattet af fiskerirestriktioner: 1) Beføjelsen efter lovens § 52 til at træffe afgørelser, der er nødvendige for varetagelsen af kontrollen, herunder meddele påbud og forbud. 2) Beføjelsen efter lovens § 52 a til at meddele påbud om indhentelse af bistand fra en rådgiver og om deltagelse i uddannelse. 3) Beføjelsen efter lovens § 61 til at tilkendegive, at en sag kan afgøres uden retslig forfølgning ved vedtagelse af bødeforelæg. Stk. 2. Fiskeristyrelsen kan træffe bestemmelse efter regler fastsat i medfør af lovens § 54, stk. 5, om bistand ved forsendelse af prøver. Stk. 3. Fiskeristyrelsen kan opkræve betaling for den i stk. 1 nævnte kontrol i henhold til bekendtgørelse om betaling for kontrol af fødevarer, foder og levende dyr m.v.",
-      "valid_from": "2017-12-04",
-      "valid_to": null
+      "valid_from": "2017-12-05",
+      "valid_to": "2020-05-12"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 6. december 2017.",
-      "valid_from": "2017-12-04",
-      "valid_to": null
+      "valid_from": "2017-12-05",
+      "valid_to": "2020-05-12"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:52:34.001Z",
+    "accession": "B20170139305",
+    "document_id": "CK001547",
+    "unique_document_id": "195153",
+    "upstream_status": "Historic",
+    "start_date": "2017-12-05",
+    "end_date": "2022-04-08",
+    "historic_marked": "2020-05-12",
+    "seed_status": "repealed"
+  }
 }

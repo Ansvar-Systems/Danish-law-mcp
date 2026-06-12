@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om visse ligningslovsregler m.v.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1994-10-17",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1994/873/xml",
-  "description": "Retsinformation source. DocumentId=CM020492; AccessionNumber=B19940087305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020492; AccessionNumber=B19940087305; Ophævet 2004-06-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:13:26.267Z",
+    "accession": "B19940087305",
+    "document_id": "CM020492",
+    "unique_document_id": "61522",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2005-10-24",
+    "historic_marked": "2004-06-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven, kildeskatteloven, selskabsskatteloven, skattekontrolloven og lov om en arbejdsmarkedsfond",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1998-12-02",
+  "in_force_date": "1998-12-02",
   "url": "https://www.retsinformation.dk/eli/lta/1998/838/xml",
-  "description": "Retsinformation source. DocumentId=AN000241; AccessionNumber=A19980083830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN000241; AccessionNumber=A19980083830; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:01:05.634Z",
+    "accession": "A19980083830",
+    "document_id": "AN000241",
+    "unique_document_id": "13306",
+    "upstream_status": "Historic",
+    "start_date": "1998-12-02",
+    "end_date": "2003-04-23",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om formidling, udbud og rådgivning ved omsætning af private andelsboliger m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-06-24",
+  "in_force_date": "2010-06-26",
   "url": "https://www.retsinformation.dk/eli/lta/2010/752/xml",
-  "description": "Retsinformation source. DocumentId=AU004096; AccessionNumber=B20100075205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU004096; AccessionNumber=B20100075205; Ophævet 2014-11-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "13",
@@ -19,9 +20,20 @@
       "provision_ref": "13",
       "section": "13",
       "content": "§ 13 a. Såfremt der påhviler overdrageren af en andel, anpart eller aktie i et boligfællesskab pligt til at udlevere energimærkning til ejendomsformidleren, skal energimærket synliggøres i annoncer.",
-      "valid_from": "2010-06-24",
-      "valid_to": null
+      "valid_from": "2010-06-26",
+      "valid_to": "2014-11-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T03:28:08.641Z",
+    "accession": "B20100075205",
+    "document_id": "AU004096",
+    "unique_document_id": "132691",
+    "upstream_status": "Historic",
+    "start_date": "2010-06-26",
+    "end_date": "2023-04-29",
+    "historic_marked": "2014-11-25",
+    "seed_status": "repealed"
+  }
 }

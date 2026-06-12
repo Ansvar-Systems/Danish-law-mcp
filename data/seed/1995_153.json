@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om det internationale enhedssystem (SI)1)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1995-03-10",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1995/153/xml",
-  "description": "Retsinformation source. DocumentId=CM023385; AccessionNumber=B19950015305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM023385; AccessionNumber=B19950015305; Ophævet 1995-04-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T14:27:35.632Z",
+    "accession": "B19950015305",
+    "document_id": "CM023385",
+    "unique_document_id": "64348",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2017-12-08",
+    "historic_marked": "1995-04-28",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2018-07-16",
+  "in_force_date": "2018-07-18",
   "url": "https://www.retsinformation.dk/eli/lta/2018/1033/xml",
   "description": "Retsinformation source. DocumentId=CK001767; AccessionNumber=B20180103305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 897 af 27. juni 2018 om fund af lavpatogen aviær influenza ved Faksinge i Vordingborg Kommune ophæves.",
-      "valid_from": "2018-07-16",
+      "valid_from": "2018-07-18",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 19. juli 2018.",
-      "valid_from": "2018-07-16",
+      "valid_from": "2018-07-18",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:23:46.906Z",
+    "accession": "B20180103305",
+    "document_id": "CK001767",
+    "unique_document_id": "202643",
+    "upstream_status": "Valid",
+    "start_date": "2018-07-18",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

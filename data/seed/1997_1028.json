@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om skadedækning fra Byggeskadefonden",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1997-12-17",
+  "in_force_date": "1998-03-15",
   "url": "https://www.retsinformation.dk/eli/lta/1997/1028/xml",
-  "description": "Retsinformation source. DocumentId=CM046076; AccessionNumber=B19970102805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM046076; AccessionNumber=B19970102805; Ophævet 2005-07-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:48:30.709Z",
+    "accession": "B19970102805",
+    "document_id": "CM046076",
+    "unique_document_id": "86343",
+    "upstream_status": "Historic",
+    "start_date": "1998-03-15",
+    "end_date": "2023-04-28",
+    "historic_marked": "2005-07-04",
+    "seed_status": "repealed"
+  }
 }

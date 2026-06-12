@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om arbejdsmarkedsuddannelser m.v.",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-06-10",
+  "in_force_date": "2003-06-10",
   "url": "https://www.retsinformation.dk/eli/lta/2003/446/xml",
-  "description": "Retsinformation source. DocumentId=AT001356; AccessionNumber=A20030044630; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT001356; AccessionNumber=A20030044630; Ophævet 2008-03-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:30:33.920Z",
+    "accession": "A20030044630",
+    "document_id": "AT001356",
+    "unique_document_id": "24149",
+    "upstream_status": "Historic",
+    "start_date": "2003-06-10",
+    "end_date": "2021-01-08",
+    "historic_marked": "2008-03-26",
+    "seed_status": "repealed"
+  }
 }

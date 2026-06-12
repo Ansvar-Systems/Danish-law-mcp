@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-01-28",
+  "in_force_date": "2016-01-29",
   "url": "https://www.retsinformation.dk/eli/lta/2016/86/xml",
   "description": "Retsinformation source. DocumentId=CK000528; AccessionNumber=B20160008605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 181 af 25. marts 1986 om grænseværdier for udledning af cadmium med processpildevand fra visse industrianlæg. 2) Bekendtgørelse nr. 520 af 8. august 1986 om grænseværdier for udledning af hexachlorcyklohexan til vandmiljøet. 3) Bekendtgørelse nr. 736 af 27. oktober 1986 om grænseværdier for kviksølv ved udledning af spildevand fra visse industrianlæg. 4) Bekendtgørelse nr. 75 af 30. januar 1992 om grænseværdier for udledning af visse farlige stoffer til vandløb, søer og havet (Liste 1 - stoffer).",
-      "valid_from": "2016-01-28",
+      "valid_from": "2016-01-29",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. februar 2016.",
-      "valid_from": "2016-01-28",
+      "valid_from": "2016-01-29",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:31:08.584Z",
+    "accession": "B20160008605",
+    "document_id": "CK000528",
+    "unique_document_id": "177191",
+    "upstream_status": "Valid",
+    "start_date": "2016-01-29",
+    "end_date": "2025-12-23",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

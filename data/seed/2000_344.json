@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om social service",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-17",
+  "in_force_date": "2000-05-17",
   "url": "https://www.retsinformation.dk/eli/lta/2000/344/xml",
-  "description": "Retsinformation source. DocumentId=AO000756; AccessionNumber=A20000034430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AO000756; AccessionNumber=A20000034430; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:15:34.836Z",
+    "accession": "A20000034430",
+    "document_id": "AO000756",
+    "unique_document_id": "18923",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-17",
+    "end_date": "2022-07-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

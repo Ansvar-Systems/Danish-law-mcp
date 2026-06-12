@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om vedtægter m.v. for daghøjskoler",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-09-18",
+  "in_force_date": "2001-09-27",
   "url": "https://www.retsinformation.dk/eli/lta/2001/825/xml",
-  "description": "Retsinformation source. DocumentId=AT000827; AccessionNumber=B20010082505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AT000827; AccessionNumber=B20010082505; Ophævet 2002-03-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:15:29.174Z",
+    "accession": "B20010082505",
+    "document_id": "AT000827",
+    "unique_document_id": "23783",
+    "upstream_status": "Historic",
+    "start_date": "2001-09-27",
+    "end_date": "2021-01-08",
+    "historic_marked": "2002-03-25",
+    "seed_status": "repealed"
+  }
 }

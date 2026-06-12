@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-12-30",
+  "in_force_date": "2024-12-30",
   "url": "https://www.retsinformation.dk/eli/lta/2024/1738/xml",
   "description": "Retsinformation source. DocumentId=DB001072; AccessionNumber=B20240173805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -171,5 +172,16 @@
       "definition": "anskaffelsesprisen med tillæg af de omkostninger, der er foranlediget af anskaffelsen",
       "source_provision": "1:1"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:52:23.931Z",
+    "accession": "B20240173805",
+    "document_id": "DB001072",
+    "unique_document_id": "246816",
+    "upstream_status": "Valid",
+    "start_date": "2024-12-30",
+    "end_date": "2026-05-20",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

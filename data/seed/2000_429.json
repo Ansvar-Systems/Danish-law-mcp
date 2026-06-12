@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om behandling af personoplysninger",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-02",
   "url": "https://www.retsinformation.dk/eli/lta/2000/429/xml",
-  "description": "Retsinformation source. DocumentId=AA001102; AccessionNumber=A20000042930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA001102; AccessionNumber=A20000042930; Ophævet 2018-05-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:18:59.411Z",
+    "accession": "A20000042930",
+    "document_id": "AA001102",
+    "unique_document_id": "828",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-02",
+    "end_date": "2026-01-08",
+    "historic_marked": "2018-05-23",
+    "seed_status": "repealed"
+  }
 }

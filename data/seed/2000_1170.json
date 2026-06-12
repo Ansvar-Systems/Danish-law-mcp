@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om fastsættelse af den øvre grænse for det samlede udtagne areal inden for de særligt følsomme landbrugsområder (SFL-områder)",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-15",
+  "in_force_date": "2000-12-26",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1170/xml",
-  "description": "Retsinformation source. DocumentId=AH000750; AccessionNumber=B20000117005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000750; AccessionNumber=B20000117005; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T17:57:19.651Z",
+    "accession": "B20000117005",
+    "document_id": "AH000750",
+    "unique_document_id": "7109",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-26",
+    "end_date": "2022-04-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

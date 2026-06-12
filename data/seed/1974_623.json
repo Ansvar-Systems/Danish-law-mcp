@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring i landets inddeling i skyldkredse og vurderingskredse.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1974-12-20",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1974/623/xml",
-  "description": "Retsinformation source. DocumentId=CM020361; AccessionNumber=B19740062305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM020361; AccessionNumber=B19740062305; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T07:54:14.543Z",
+    "accession": "B19740062305",
+    "document_id": "CM020361",
+    "unique_document_id": "61392",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-04-23",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om optagelse på de gymnasiale uddannelser og om kapacitetsfastsættelse på institutioner for almengymnasiale uddannelser",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2019-04-30",
+  "in_force_date": "2019-05-01",
   "url": "https://www.retsinformation.dk/eli/lta/2019/492/xml",
-  "description": "Retsinformation source. DocumentId=CU000659; AccessionNumber=B20190049205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CU000659; AccessionNumber=B20190049205; Ophævet 2020-03-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "3a",
@@ -19,9 +20,20 @@
       "provision_ref": "3a",
       "section": "3a",
       "content": "§ 3 a. Institutionen kan tillade, at en ansøger, der i skoleåret 2018/19 har været et år i udlandet på en udenlandsk uddannelsesinstitution, starter på uddannelsen ved starten af skoleåret 2019/20, som om ansøgeren havde fået tilladelse til at udskyde uddannelsesstarten, jf. § 2, stk. 2, i bekendtgørelse nr. 108 af 4. februar 2016 om optagelse på de gymnasiale uddannelser. Stk. 2. Der er følgende forudsætninger for en tilladelse efter stk. 1:",
-      "valid_from": "2019-04-30",
-      "valid_to": null
+      "valid_from": "2019-05-01",
+      "valid_to": "2020-03-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:07:56.000Z",
+    "accession": "B20190049205",
+    "document_id": "CU000659",
+    "unique_document_id": "209030",
+    "upstream_status": "Historic",
+    "start_date": "2019-05-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "2020-03-30",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-09-05",
+  "in_force_date": "2014-09-11",
   "url": "https://www.retsinformation.dk/eli/lta/2014/979/xml",
   "description": "Retsinformation source. DocumentId=AL003019; AccessionNumber=B20140097905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1113 af 26. november 2012 om forbud mod import og salg af varer til indendørs brug, som indeholder ftalaterne DEHP, DBP, BBP og DIBP, og varer hvor dele med disse stoffer kan komme i kontakt med hud eller slimhinder ophæves.",
-      "valid_from": "2014-09-05",
+      "valid_from": "2014-09-11",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. september 2014.",
-      "valid_from": "2014-09-05",
+      "valid_from": "2014-09-11",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:24:26.705Z",
+    "accession": "B20140097905",
+    "document_id": "AL003019",
+    "unique_document_id": "164418",
+    "upstream_status": "Valid",
+    "start_date": "2014-09-11",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

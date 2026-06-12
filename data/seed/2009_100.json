@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af apotekerloven, sundhedsloven og lov for Grønland om forsyning, trafik, postbesørgelse m.v.\\n(Ophævelse af aldersgrænse på 70 år for bortfald af apotekerbevilling, honorering af apoteksindretning, styrkelse af ordinationstilsyn m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-02-10",
+  "in_force_date": "2009-02-10",
   "url": "https://www.retsinformation.dk/eli/lta/2009/100/xml",
-  "description": "Retsinformation source. DocumentId=BK000432; AccessionNumber=A20090010030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BK000432; AccessionNumber=A20090010030; Ophævet 2014-09-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "29",
@@ -20,8 +21,19 @@
       "section": "29",
       "content": "§ 29. Ved apoteksovertagelse er den tiltrædende apoteker berettiget og forpligtet til at overtage indretningen, inventaret og varebeholdningen, i det omfang indretningen, inventaret og varebeholdningen er i brugbar og tidssvarende stand og er passende i forhold til den eller de pågældende apoteksenheders behov. Stk. 2. Hvis den afgående apoteker har givet meddelelse efter § 12 a, stk. 1, omfatter pligten i stk. 1 ikke indretning, inventar og varebeholdning, der kan henføres til dennes forhandling af lægemidler til produktionsdyr.",
       "valid_from": "2009-02-10",
-      "valid_to": null
+      "valid_to": "2014-09-30"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:37:34.604Z",
+    "accession": "A20090010030",
+    "document_id": "BK000432",
+    "unique_document_id": "123411",
+    "upstream_status": "Historic",
+    "start_date": "2009-02-10",
+    "end_date": "2022-07-12",
+    "historic_marked": "2014-09-30",
+    "seed_status": "repealed"
+  }
 }

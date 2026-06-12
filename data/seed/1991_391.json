@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af forskellige skatte- og afgiftslove (Restanceinddrivelse m.v.)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1991-06-06",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1991/391/xml",
-  "description": "Retsinformation source. DocumentId=CM022547; AccessionNumber=A19910039130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM022547; AccessionNumber=A19910039130; Ophævet 1992-10-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T11:45:53.087Z",
+    "accession": "A19910039130",
+    "document_id": "CM022547",
+    "unique_document_id": "63527",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2003-04-23",
+    "historic_marked": "1992-10-30",
+    "seed_status": "repealed"
+  }
 }

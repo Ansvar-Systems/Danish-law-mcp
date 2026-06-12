@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af lov om finansiel virksomhed, lov om værdipapirhandel m.v., lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme og forskellige andre love samt ophævelse af lov om pengesedler i Grønland (Bevilling af engagementer, obligatorisk anvendelse af danske regnskabsregler, tilladelse til og tilsyn med auktionsplatform for handel med CO2-kvoter og fælles datacentraler m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-03-12",
+  "in_force_date": "2013-03-18",
   "url": "https://www.retsinformation.dk/eli/lta/2013/263/xml",
-  "description": "Retsinformation source. DocumentId=BP000422; AccessionNumber=B20130026305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP000422; AccessionNumber=B20130026305; Ophævet 2015-08-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 2, nr. 14-19, 31, 38 og 48, i lov nr. 155 af 28. februar 2012 om ændring af lov om finansiel virksomhed, lov om værdipapirhandel m.v., lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme og forskellige andre love samt ophævelse af lov om pengesedler i Grønland (Bevilling af engagementer, obligatorisk anvendelse af danske regnskabsregler, tilladelse til og tilsyn med auktionsplatform for handel med CO 2 -kvoter og fælles datacentraler m.v.) sættes i kraft.",
-      "valid_from": "2013-03-12",
-      "valid_to": null
+      "valid_from": "2013-03-18",
+      "valid_to": "2015-08-21"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. maj 2013.",
-      "valid_from": "2013-03-12",
-      "valid_to": null
+      "valid_from": "2013-03-18",
+      "valid_to": "2015-08-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:57:22.376Z",
+    "accession": "B20130026305",
+    "document_id": "BP000422",
+    "unique_document_id": "145419",
+    "upstream_status": "Historic",
+    "start_date": "2013-03-18",
+    "end_date": "2017-12-08",
+    "historic_marked": "2015-08-21",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om aktiv socialpolitik",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2005-10-24",
+  "in_force_date": "2005-10-31",
   "url": "https://www.retsinformation.dk/eli/lta/2005/1009/xml",
-  "description": "Retsinformation source. DocumentId=BE001349; AccessionNumber=A20050100929; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE001349; AccessionNumber=A20050100929; Ophævet 2007-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:49:16.144Z",
+    "accession": "A20050100929",
+    "document_id": "BE001349",
+    "unique_document_id": "30304",
+    "upstream_status": "Historic",
+    "start_date": "2005-10-31",
+    "end_date": "2026-05-09",
+    "historic_marked": "2007-12-20",
+    "seed_status": "repealed"
+  }
 }

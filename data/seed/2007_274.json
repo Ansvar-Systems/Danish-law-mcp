@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om storaktionærer",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-03-21",
+  "in_force_date": "2007-03-29",
   "url": "https://www.retsinformation.dk/eli/lta/2007/274/xml",
-  "description": "Retsinformation source. DocumentId=AU002775; AccessionNumber=B20070027405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002775; AccessionNumber=B20070027405; Ophævet 2007-10-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:15:38.284Z",
+    "accession": "B20070027405",
+    "document_id": "AU002775",
+    "unique_document_id": "27505",
+    "upstream_status": "Historic",
+    "start_date": "2007-03-29",
+    "end_date": "2017-12-08",
+    "historic_marked": "2007-10-29",
+    "seed_status": "repealed"
+  }
 }

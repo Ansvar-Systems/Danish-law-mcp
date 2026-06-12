@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af Patentloven",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-09-22",
+  "in_force_date": "2000-10-16",
   "url": "https://www.retsinformation.dk/eli/lta/2000/926/xml",
-  "description": "Retsinformation source. DocumentId=AD000694; AccessionNumber=A20000092629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AD000694; AccessionNumber=A20000092629; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:39:02.654Z",
+    "accession": "A20000092629",
+    "document_id": "AD000694",
+    "unique_document_id": "4765",
+    "upstream_status": "Historic",
+    "start_date": "2000-10-16",
+    "end_date": "2017-12-08",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

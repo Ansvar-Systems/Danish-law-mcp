@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2016-06-23",
+  "in_force_date": "2016-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2016/800/xml",
   "description": "Retsinformation source. DocumentId=AA009715; AccessionNumber=B20160080005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 2 i lov nr. 479 af 17. juni 2008 om ændring af lov om Det Centrale Dna-profil-register, retsplejeloven, lov om registrering af køretøjer og lov om konkurrence- og forbrugerforhold på telemarkedet (Gennemførelse af Prümafgørelsen om udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer m.v.) sættes i kraft.",
-      "valid_from": "2016-06-23",
+      "valid_from": "2016-06-27",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2016.",
-      "valid_from": "2016-06-23",
+      "valid_from": "2016-06-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:28:48.032Z",
+    "accession": "B20160080005",
+    "document_id": "AA009715",
+    "unique_document_id": "179891",
+    "upstream_status": "Valid",
+    "start_date": "2016-06-27",
+    "end_date": "2025-11-15",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

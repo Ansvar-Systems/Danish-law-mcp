@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om integration af udlændinge i Danmark (integrationsloven)",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-12-20",
+  "in_force_date": "2000-12-20",
   "url": "https://www.retsinformation.dk/eli/lta/2000/1269/xml",
-  "description": "Retsinformation source. DocumentId=AI000426; AccessionNumber=A20000126930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000426; AccessionNumber=A20000126930; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:01:17.247Z",
+    "accession": "A20000126930",
+    "document_id": "AI000426",
+    "unique_document_id": "9003",
+    "upstream_status": "Historic",
+    "start_date": "2000-12-20",
+    "end_date": "2017-12-12",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

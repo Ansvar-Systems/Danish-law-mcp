@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om råstoffer",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-12-17",
+  "in_force_date": "2002-12-17",
   "url": "https://www.retsinformation.dk/eli/lta/2002/1055/xml",
-  "description": "Retsinformation source. DocumentId=AL000914; AccessionNumber=A20020105530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000914; AccessionNumber=A20020105530; Ophævet 2004-09-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:24:38.415Z",
+    "accession": "A20020105530",
+    "document_id": "AL000914",
+    "unique_document_id": "12624",
+    "upstream_status": "Historic",
+    "start_date": "2002-12-17",
+    "end_date": "2022-04-08",
+    "historic_marked": "2004-09-02",
+    "seed_status": "repealed"
+  }
 }

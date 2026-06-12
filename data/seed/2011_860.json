@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2011-06-17",
+  "in_force_date": "2011-07-20",
   "url": "https://www.retsinformation.dk/eli/lta/2011/860/xml",
   "description": "Retsinformation source. DocumentId=AA006106; AccessionNumber=B20110086005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Følgende hunde kan uanset kommunalbestyrelsens bestemmelser om båndpligt føres uden bånd i byer og områder med bymæssig bebyggelse, hvis de er i følge med en person, der har fuldt herredømme over dem: 1) Fører- og servicehunde, der er specielt trænet til at udføre nytteopgaver for blinde eller stærkt svagsynede personer eller personer med fysisk funktionsnedsættelse. 2) Hunde, der benyttes af politiet eller militæret. 3) Hunde, der benyttes af vildtkonsulenter, skovfogeder, skovriddere, skovløbere og andre ansatte på Naturstyrelsens arealer som led i tjenesten. 4) Jagthunde, der deltager i jagt eller regulering i henhold til lov om jagt og vildtforvaltning eller regler fastsat i medfør heraf. 5) Hunde, der deltager i organiseret hundetræning på sportspladser eller lignende.",
-      "valid_from": "2011-06-17",
+      "valid_from": "2011-07-20",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. august 2011. Stk. 2. Bekendtgørelse nr. 794 af 25. juni 2010 om undtagelse af visse hunde fra båndpligt ophæves.",
-      "valid_from": "2011-06-17",
+      "valid_from": "2011-07-20",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:24:17.615Z",
+    "accession": "B20110086005",
+    "document_id": "AA006106",
+    "unique_document_id": "137718",
+    "upstream_status": "Valid",
+    "start_date": "2011-07-20",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

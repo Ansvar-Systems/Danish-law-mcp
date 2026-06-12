@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-04-06",
+  "in_force_date": "2022-04-07",
   "url": "https://www.retsinformation.dk/eli/lta/2022/430/xml",
   "description": "Retsinformation source. DocumentId=AP000338; AccessionNumber=B20220043005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -21,9 +22,20 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Indenrigs- og boligministerens beføjelse efter § 67, stk. 2, i lov om kommunernes styrelse til at beskikke det medlem af Kommunernes Lønningsnævn, der udpeges af indenrigs- og boligministeren, overføres fra indenrigs- og boligministeren til finansministeren pr. 1. juni 2022.",
-      "valid_from": "2022-04-06",
+      "valid_from": "2022-04-07",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:38:43.298Z",
+    "accession": "B20220043005",
+    "document_id": "AP000338",
+    "unique_document_id": "230323",
+    "upstream_status": "Valid",
+    "start_date": "2022-04-07",
+    "end_date": "2022-04-07",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

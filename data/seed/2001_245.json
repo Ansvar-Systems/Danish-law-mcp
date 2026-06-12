@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forbud mod fiskeri m.v. ved Harboøre Tange",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-04-06",
+  "in_force_date": "2001-04-06",
   "url": "https://www.retsinformation.dk/eli/lta/2001/245/xml",
-  "description": "Retsinformation source. DocumentId=AH000882; AccessionNumber=B20010024505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000882; AccessionNumber=B20010024505; Ophævet 2025-06-17. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:52:14.752Z",
+    "accession": "B20010024505",
+    "document_id": "AH000882",
+    "unique_document_id": "7226",
+    "upstream_status": "Historic",
+    "start_date": "2001-04-06",
+    "end_date": "2025-06-18",
+    "historic_marked": "2025-06-17",
+    "seed_status": "repealed"
+  }
 }

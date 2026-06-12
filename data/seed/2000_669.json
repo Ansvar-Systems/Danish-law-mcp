@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om dagpengegodtgørelse for 1. og 2. ledighedsdag",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-07-11",
+  "in_force_date": "2000-07-17",
   "url": "https://www.retsinformation.dk/eli/lta/2000/669/xml",
-  "description": "Retsinformation source. DocumentId=AB000653; AccessionNumber=B20000066905; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB000653; AccessionNumber=B20000066905; Ophævet 2008-06-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:28:38.819Z",
+    "accession": "B20000066905",
+    "document_id": "AB000653",
+    "unique_document_id": "3355",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-17",
+    "end_date": "2008-06-28",
+    "historic_marked": "2008-06-27",
+    "seed_status": "repealed"
+  }
 }

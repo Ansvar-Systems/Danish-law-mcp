@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om offentliggørelse af virksomhedernes arbejdsmiljø m.v. (Ændring af lysningstiden for grøn smiley m.v.)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2018-05-22",
+  "in_force_date": "2018-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2018/535/xml",
-  "description": "Retsinformation source. DocumentId=BE007608; AccessionNumber=B20180053505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE007608; AccessionNumber=B20180053505; Ophævet 2021-04-13. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Grøn smiley tildeles, når Arbejdstilsynet efter et risikobaseret tilsyn på produktionsenheden, 1) ikke har fundet anledning til at træffe afgørelser om overtrædelse af arbejdsmiljølovgivningen, eller 2) alene har truffet afgørelse om formelle overtrædelser af arbejdsmiljøloven og har konstateret, at disse afgørelser om overtrædelse af arbejdsmiljølovgivningen er efterkommet, jf. dog § 5, stk. 1 og 2, og § 6, stk. 1.",
-      "valid_from": "2018-05-22",
-      "valid_to": null
+      "valid_from": "2018-05-26",
+      "valid_to": "2021-04-13"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:09:40.992Z",
+    "accession": "B20180053505",
+    "document_id": "BE007608",
+    "unique_document_id": "201383",
+    "upstream_status": "Historic",
+    "start_date": "2018-05-26",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-04-13",
+    "seed_status": "repealed"
+  }
 }

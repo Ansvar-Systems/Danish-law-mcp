@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om selvforskyldt ledighed",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-09-19",
+  "in_force_date": "2001-09-27",
   "url": "https://www.retsinformation.dk/eli/lta/2001/826/xml",
-  "description": "Retsinformation source. DocumentId=AB001198; AccessionNumber=B20010082605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001198; AccessionNumber=B20010082605; Ophævet 2003-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:15:31.296Z",
+    "accession": "B20010082605",
+    "document_id": "AB001198",
+    "unique_document_id": "3803",
+    "upstream_status": "Historic",
+    "start_date": "2001-09-27",
+    "end_date": "2008-03-27",
+    "historic_marked": "2003-06-26",
+    "seed_status": "repealed"
+  }
 }

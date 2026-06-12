@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om statstilskud til elintensive virksomheder",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2015-09-07",
+  "in_force_date": "2015-09-08",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1046/xml",
-  "description": "Retsinformation source. DocumentId=CI000010; AccessionNumber=B20150104605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CI000010; AccessionNumber=B20150104605; Ophævet 2017-01-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. §§ 1-16, § 17, nr. 1-4, og §§ 18 og 19 i lov nr. 574 af 4. maj 2015 om statstilskud til elintensive virksomheder sættes i kraft.",
-      "valid_from": "2015-09-07",
-      "valid_to": null
+      "valid_from": "2015-09-08",
+      "valid_to": "2017-01-27"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 10. september 2015.",
-      "valid_from": "2015-09-07",
-      "valid_to": null
+      "valid_from": "2015-09-08",
+      "valid_to": "2017-01-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:24:16.377Z",
+    "accession": "B20150104605",
+    "document_id": "CI000010",
+    "unique_document_id": "174173",
+    "upstream_status": "Historic",
+    "start_date": "2015-09-08",
+    "end_date": "2021-01-08",
+    "historic_marked": "2017-01-27",
+    "seed_status": "repealed"
+  }
 }

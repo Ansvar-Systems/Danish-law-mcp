@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om udstedelse af midlertidige tilladelser i frekvensbåndene 3,410-4,200 GHz",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2003-08-11",
+  "in_force_date": "2003-08-19",
   "url": "https://www.retsinformation.dk/eli/lta/2003/704/xml",
-  "description": "Retsinformation source. DocumentId=BD000125; AccessionNumber=B20030070405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BD000125; AccessionNumber=B20030070405; Ophævet 2004-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T20:41:00.127Z",
+    "accession": "B20030070405",
+    "document_id": "BD000125",
+    "unique_document_id": "29169",
+    "upstream_status": "Historic",
+    "start_date": "2003-08-19",
+    "end_date": "2026-06-04",
+    "historic_marked": "2004-01-01",
+    "seed_status": "repealed"
+  }
 }

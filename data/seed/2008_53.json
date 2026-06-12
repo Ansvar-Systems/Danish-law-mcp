@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2008-01-16",
+  "in_force_date": "2008-02-06",
   "url": "https://www.retsinformation.dk/eli/lta/2008/53/xml",
   "description": "Retsinformation source. DocumentId=AJ000359; AccessionNumber=B20080005305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Biskopperne bemyndiges til at foretage afsked efter ansøgning af sognepræster og overenskomstansatte sognepræster. Stk. 2. Bemyndigelsen omfatter ikke kgl. udnævnte præster.",
-      "valid_from": "2008-01-16",
+      "valid_from": "2008-02-06",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 7. februar 2008. Stk. 2. Bekendtgørelsen har virkning for afskedsanmodninger, der er dateret den 1. februar 2008 eller senere.",
-      "valid_from": "2008-01-16",
+      "valid_from": "2008-02-06",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:18:20.856Z",
+    "accession": "B20080005305",
+    "document_id": "AJ000359",
+    "unique_document_id": "114632",
+    "upstream_status": "Valid",
+    "start_date": "2008-02-06",
+    "end_date": "2017-05-24",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

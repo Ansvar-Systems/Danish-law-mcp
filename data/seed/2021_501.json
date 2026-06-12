@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2021-03-24",
+  "in_force_date": "2021-03-25",
   "url": "https://www.retsinformation.dk/eli/lta/2021/501/xml",
   "description": "Retsinformation source. DocumentId=DC000152; AccessionNumber=B20210050105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -39,7 +40,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse vedrører Europa-Parlamentets og Rådets forordning (EF) nr. 1925/2006 af 20. december 2006 om tilsætning af vitaminer og mineraler samt visse andre stoffer til fødevarer, som senest ændret ved Kommissionens forordning (EU) nr. 2019/649 af 24. april 2019 om ændring af bilag III til forordning (EF) nr. 1925/2006 for så vidt angår andre transfedtsyrer end transfedtsyrer, der forekommer naturligt i animalsk fedt. Stk. 2. Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der: 1) overtræder artikel 3, stk. 1, 2) overtræder artikel 4, 1. afsnit, litra a) eller b), 3) overtræder artikel 5, stk. 2-3, 4) overtræder artikel 6, stk. 6, 1. pkt., 5) overtræder artikel 7, stk. 1, 1. pkt., eller stk. 2-3, eller 6) anvender stoffer i strid med bilag III.",
-      "valid_from": "2021-03-24",
+      "valid_from": "2021-03-25",
       "valid_to": null
     },
     {
@@ -47,7 +48,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Straffen kan stige til fængsel i 2 år, hvis den ved handlingen eller undladelsen skete overtrædelse er begået med forsæt eller grov uagtsomhed, og der ved overtrædelsen er: 1) forvoldt skade på sundheden eller fremkaldt fare herfor, eller 2) opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre.",
-      "valid_from": "2021-03-24",
+      "valid_from": "2021-03-25",
       "valid_to": null
     },
     {
@@ -55,7 +56,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.",
-      "valid_from": "2021-03-24",
+      "valid_from": "2021-03-25",
       "valid_to": null
     },
     {
@@ -63,9 +64,20 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Bekendtgørelsen træder i kraft den 1. april 2021. Stk. 2. Bekendtgørelse nr. 1427 af 3. december 2015 om indhold af transfedtsyrer i olier og fedtstoffer m.v. og bekendtgørelse nr. 1435 af 5. december 2018 om straffebestemmelser for overtrædelse af forordning om tilsætning af vitaminer og mineraler samt visse andre stoffer til fødevarer ophæves.",
-      "valid_from": "2021-03-24",
+      "valid_from": "2021-03-25",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:23.864Z",
+    "accession": "B20210050105",
+    "document_id": "DC000152",
+    "unique_document_id": "222015",
+    "upstream_status": "Valid",
+    "start_date": "2021-03-25",
+    "end_date": "2025-01-17",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

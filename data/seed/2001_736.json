@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om forskningscentret ved Hørsholm",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-08-07",
+  "in_force_date": "2001-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2001/736/xml",
-  "description": "Retsinformation source. DocumentId=AF000217; AccessionNumber=A20010073629; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AF000217; AccessionNumber=A20010073629; Ophævet 2003-12-18. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:11:56.592Z",
+    "accession": "A20010073629",
+    "document_id": "AF000217",
+    "unique_document_id": "6236",
+    "upstream_status": "Historic",
+    "start_date": "2001-08-30",
+    "end_date": "2014-07-02",
+    "historic_marked": "2003-12-18",
+    "seed_status": "repealed"
+  }
 }

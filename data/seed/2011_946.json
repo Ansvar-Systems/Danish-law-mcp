@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af den fortegnelse over valgdistrikterne, der indeholdes i lov om folketingsvalg på Færøerne",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-09-02",
+  "in_force_date": "2011-09-08",
   "url": "https://www.retsinformation.dk/eli/lta/2011/946/xml",
-  "description": "Retsinformation source. DocumentId=AI003889; AccessionNumber=B20110094605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI003889; AccessionNumber=B20110094605; Ophævet 2018-01-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. I Vågø Syssel lægges valgstederne Midvåg og Sandevåg sammen til valgstedet Giljanes, således at bygderne Miðvágur (Midvåg), Vatnsoyrar (Vatnsøre) og Sandavágur (Sandevåg) henføres til valgstedet Giljanes. Fortegnelsen over valgdistrikterne i Vagø Syssel er herefter som vist i bilaget til bekendtgørelsen.",
-      "valid_from": "2011-09-02",
-      "valid_to": null
+      "valid_from": "2011-09-08",
+      "valid_to": "2018-01-05"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 9. september 2011.",
-      "valid_from": "2011-09-02",
-      "valid_to": null
+      "valid_from": "2011-09-08",
+      "valid_to": "2018-01-05"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:27:47.808Z",
+    "accession": "B20110094605",
+    "document_id": "AI003889",
+    "unique_document_id": "138618",
+    "upstream_status": "Historic",
+    "start_date": "2011-09-08",
+    "end_date": "2023-04-29",
+    "historic_marked": "2018-01-05",
+    "seed_status": "repealed"
+  }
 }

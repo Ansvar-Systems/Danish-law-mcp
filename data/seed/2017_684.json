@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af ligningsloven (Kvalifikation af selvstændig erhvervsvirksomhed ved deltagelse i et skattemæssigt transparent selskab)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2017-06-08",
+  "in_force_date": "2017-06-08",
   "url": "https://www.retsinformation.dk/eli/lta/2017/684/xml",
-  "description": "Retsinformation source. DocumentId=AN013007; AccessionNumber=A20170068430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN013007; AccessionNumber=A20170068430; Ophævet 2019-01-25. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -20,8 +21,19 @@
       "section": "4",
       "content": "§ 4. Deltagelse i et skattemæssigt transparent selskab er ikke i sig selv tilstrækkeligt til, at deltagerens indkomst fra det skattemæssigt transparente selskab kan anses for indkomst ved selvstændig erhvervsvirksomhed.",
       "valid_from": "2017-06-08",
-      "valid_to": null
+      "valid_to": "2019-01-25"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:28:21.720Z",
+    "accession": "A20170068430",
+    "document_id": "AN013007",
+    "unique_document_id": "191812",
+    "upstream_status": "Historic",
+    "start_date": "2017-06-08",
+    "end_date": "2026-06-12",
+    "historic_marked": "2019-01-25",
+    "seed_status": "repealed"
+  }
 }

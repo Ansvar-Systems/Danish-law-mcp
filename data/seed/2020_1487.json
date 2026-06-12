@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om undtagelse af udgifter til håndtering af COVID-19 fra udgiftslofterne",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2020-10-09",
+  "in_force_date": "2020-10-16",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1487/xml",
-  "description": "Retsinformation source. DocumentId=AE002818; AccessionNumber=B20200148705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE002818; AccessionNumber=B20200148705; Ophævet 2024-03-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1:1",
@@ -27,17 +28,28 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Uanset §§ 9-11 i budgetloven omfatter udgiftslofterne ikke udgifter til håndtering af COVID-19 og tiltag målrettet konsekvenserne heraf, herunder udgifter til økonomiske kompensationsordninger, som optages på forslag til lov om tillægsbevilling for 2020 uden modgående finansiering. Disse udgifter vil blive optaget på forslag til lov om tillægsbevilling for 2020 under en særskilt kategori 3. Ekstraordinære udgifter som følge af COVID-19 . Stk. 2. Udgiftslofterne omfatter endvidere ikke udgifter i kommuner og regioner, der afholdes på baggrund af statslige tilskud, som er omfattet stk. 1, 1. pkt.",
-      "valid_from": "2020-10-09",
-      "valid_to": null
+      "valid_from": "2020-10-16",
+      "valid_to": "2024-03-22"
     },
     {
       "provision_ref": "1:2",
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 19. oktober 2020.",
-      "valid_from": "2020-10-09",
-      "valid_to": null
+      "valid_from": "2020-10-16",
+      "valid_to": "2024-03-22"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:48:06.139Z",
+    "accession": "B20200148705",
+    "document_id": "AE002818",
+    "unique_document_id": "216838",
+    "upstream_status": "Historic",
+    "start_date": "2020-10-16",
+    "end_date": "2024-03-23",
+    "historic_marked": "2024-03-22",
+    "seed_status": "repealed"
+  }
 }

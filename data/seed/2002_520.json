@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om myndighedsinddeling og sagsudlægning",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2002-06-25",
+  "in_force_date": "2002-06-27",
   "url": "https://www.retsinformation.dk/eli/lta/2002/520/xml",
-  "description": "Retsinformation source. DocumentId=AN003039; AccessionNumber=B20020052005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN003039; AccessionNumber=B20020052005; Ophævet 2005-12-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:47:46.943Z",
+    "accession": "B20020052005",
+    "document_id": "AN003039",
+    "unique_document_id": "15505",
+    "upstream_status": "Historic",
+    "start_date": "2002-06-27",
+    "end_date": "2008-02-08",
+    "historic_marked": "2005-12-09",
+    "seed_status": "repealed"
+  }
 }

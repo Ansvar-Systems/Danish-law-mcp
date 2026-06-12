@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af færdselsloven (Skærpet indsats mod vanvidskørsel)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2021-03-27",
+  "in_force_date": "2021-03-27",
   "url": "https://www.retsinformation.dk/eli/lta/2021/534/xml",
-  "description": "Retsinformation source. DocumentId=DG000029; AccessionNumber=A20210053430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=DG000029; AccessionNumber=A20210053430; Ophævet 2021-08-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:42:42.050Z",
+    "accession": "A20210053430",
+    "document_id": "DG000029",
+    "unique_document_id": "222029",
+    "upstream_status": "Historic",
+    "start_date": "2021-03-27",
+    "end_date": "2026-06-12",
+    "historic_marked": "2021-08-23",
+    "seed_status": "repealed"
+  }
 }

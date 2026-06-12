@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2016-08-29",
+  "in_force_date": "2016-08-30",
   "url": "https://www.retsinformation.dk/eli/lta/2016/1127/xml",
   "description": "Retsinformation source. DocumentId=CK000915; AccessionNumber=B20160112705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelse nr. 1093 af 8. august 2016 om fund af lavpatogen aviær influenza i Skørbæk ved Nibe ophæves.",
-      "valid_from": "2016-08-29",
+      "valid_from": "2016-08-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 31. august 2016.",
-      "valid_from": "2016-08-29",
+      "valid_from": "2016-08-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:37:07.422Z",
+    "accession": "B20160112705",
+    "document_id": "CK000915",
+    "unique_document_id": "183802",
+    "upstream_status": "Valid",
+    "start_date": "2016-08-30",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om gennemførelse af deltidsdirektivet",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-07",
+  "in_force_date": "2001-06-07",
   "url": "https://www.retsinformation.dk/eli/lta/2001/443/xml",
-  "description": "Retsinformation source. DocumentId=AB001122; AccessionNumber=A20010044330; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AB001122; AccessionNumber=A20010044330; Ophævet 2002-10-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:00:14.216Z",
+    "accession": "A20010044330",
+    "document_id": "AB001122",
+    "unique_document_id": "3730",
+    "upstream_status": "Historic",
+    "start_date": "2001-06-07",
+    "end_date": "2002-10-11",
+    "historic_marked": "2002-10-10",
+    "seed_status": "repealed"
+  }
 }

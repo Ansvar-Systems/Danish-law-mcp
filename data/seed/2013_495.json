@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2013-05-21",
+  "in_force_date": "2013-05-21",
   "url": "https://www.retsinformation.dk/eli/lta/2013/495/xml",
   "description": "Retsinformation source. DocumentId=BS005553; AccessionNumber=A20130049530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -37,5 +38,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:06:38.613Z",
+    "accession": "A20130049530",
+    "document_id": "BS005553",
+    "unique_document_id": "151817",
+    "upstream_status": "Valid",
+    "start_date": "2013-05-21",
+    "end_date": "2022-07-08",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

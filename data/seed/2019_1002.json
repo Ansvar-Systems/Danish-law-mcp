@@ -5,6 +5,7 @@
   "short_name": "BEK I#LOKDOK06",
   "status": "in_force",
   "issued_date": "2019-09-30",
+  "in_force_date": "2019-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/2019/1002/xml",
   "description": "Retsinformation source. DocumentId=CK002142; AccessionNumber=B20190100205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 7, i lov nr. 177 af 24. februar 2015 om ændring af lov om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler og lov om miljøbeskyttelse (Obligatorisk digital kommunikation, ændringer i administrationsordningen for udbetaling af skrotningsgodtgørelse og nedsættelse af betalingssats for indsamling af bærbare batterier m.v.) sættes i kraft.",
-      "valid_from": "2019-09-30",
+      "valid_from": "2019-10-01",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. oktober 2019.",
-      "valid_from": "2019-09-30",
+      "valid_from": "2019-10-01",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:28:34.291Z",
+    "accession": "B20190100205",
+    "document_id": "CK002142",
+    "unique_document_id": "210184",
+    "upstream_status": "Valid",
+    "start_date": "2019-10-01",
+    "end_date": "2022-04-09",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

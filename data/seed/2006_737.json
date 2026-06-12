@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om danskuddannelse til voksne udlændinge m.fl.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-06-28",
+  "in_force_date": "2006-07-06",
   "url": "https://www.retsinformation.dk/eli/lta/2006/737/xml",
-  "description": "Retsinformation source. DocumentId=BC000362; AccessionNumber=B20060073705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BC000362; AccessionNumber=B20060073705; Ophævet 2008-02-12. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:35:54.149Z",
+    "accession": "B20060073705",
+    "document_id": "BC000362",
+    "unique_document_id": "29042",
+    "upstream_status": "Historic",
+    "start_date": "2006-07-06",
+    "end_date": "2017-12-12",
+    "historic_marked": "2008-02-12",
+    "seed_status": "repealed"
+  }
 }

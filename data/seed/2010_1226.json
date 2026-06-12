@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om opdræt af fjervildt",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-10-28",
+  "in_force_date": "2010-10-30",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1226/xml",
-  "description": "Retsinformation source. DocumentId=AH004041; AccessionNumber=B20100122605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004041; AccessionNumber=B20100122605; Ophævet 2015-12-10. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:44:07.457Z",
+    "accession": "B20100122605",
+    "document_id": "AH004041",
+    "unique_document_id": "133973",
+    "upstream_status": "Historic",
+    "start_date": "2010-10-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2015-12-10",
+    "seed_status": "repealed"
+  }
 }

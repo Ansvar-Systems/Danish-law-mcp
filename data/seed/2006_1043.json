@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om indførsel af fødevarer m.v. med særlige restriktioner",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-10-19",
+  "in_force_date": "2006-10-26",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1043/xml",
-  "description": "Retsinformation source. DocumentId=BG000637; AccessionNumber=B20060104305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BG000637; AccessionNumber=B20060104305; Ophævet 2008-06-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:44:36.393Z",
+    "accession": "B20060104305",
+    "document_id": "BG000637",
+    "unique_document_id": "31862",
+    "upstream_status": "Historic",
+    "start_date": "2006-10-26",
+    "end_date": "2022-04-09",
+    "historic_marked": "2008-06-23",
+    "seed_status": "repealed"
+  }
 }

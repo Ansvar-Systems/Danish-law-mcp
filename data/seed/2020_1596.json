@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2020-11-05",
+  "in_force_date": "2020-11-13",
   "url": "https://www.retsinformation.dk/eli/lta/2020/1596/xml",
   "description": "Retsinformation source. DocumentId=BE008584; AccessionNumber=B20200159605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra private arbejdsgivere fastsættes for 2021 til 520 kr. for hver gang arbejdsgiveren betaler et beløb, der svarer til et fuldt års ATP-bidrag, jf. § 15 i lov om Arbejdsmarkedets Tillægspension.",
-      "valid_from": "2020-11-05",
+      "valid_from": "2020-11-13",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2021. Stk. 2. Det for 2021 fastsatte bidrag opkræves første gang på grundlag af ATP-bidrag, der er modtaget i perioden 2. marts - 1. juni 2021.",
-      "valid_from": "2020-11-05",
+      "valid_from": "2020-11-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:52:27.010Z",
+    "accession": "B20200159605",
+    "document_id": "BE008584",
+    "unique_document_id": "216880",
+    "upstream_status": "Valid",
+    "start_date": "2020-11-13",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om bekæmpelsesmidler",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2001-06-23",
+  "in_force_date": "2001-07-26",
   "url": "https://www.retsinformation.dk/eli/lta/2001/692/xml",
-  "description": "Retsinformation source. DocumentId=AL000701; AccessionNumber=B20010069205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL000701; AccessionNumber=B20010069205; Ophævet 2003-06-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T19:10:11.419Z",
+    "accession": "B20010069205",
+    "document_id": "AL000701",
+    "unique_document_id": "12482",
+    "upstream_status": "Historic",
+    "start_date": "2001-07-26",
+    "end_date": "2022-04-09",
+    "historic_marked": "2003-06-26",
+    "seed_status": "repealed"
+  }
 }

@@ -5,6 +5,7 @@
   "short_name": "ANG I#LOKDOK17",
   "status": "in_force",
   "issued_date": "2022-06-29",
+  "in_force_date": "2022-07-05",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1121/xml",
   "description": "Retsinformation source. DocumentId=CQ002291; AccessionNumber=B20220112103; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. §§ 91-96 og §§ 472-485 i anordning nr. 187 af 8. februar 2017 om ikrafttræden for Færøerne af søloven sættes i kraft.",
-      "valid_from": "2022-06-29",
+      "valid_from": "2022-07-05",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Anordningen træder i kraft den 10. juli 2022.",
-      "valid_from": "2022-06-29",
+      "valid_from": "2022-07-05",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:06:23.322Z",
+    "accession": "B20220112103",
+    "document_id": "CQ002291",
+    "unique_document_id": "232303",
+    "upstream_status": "Valid",
+    "start_date": "2022-07-05",
+    "end_date": "2022-07-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

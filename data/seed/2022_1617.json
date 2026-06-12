@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2022-12-28",
+  "in_force_date": "2022-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2022/1617/xml",
   "description": "Retsinformation source. DocumentId=CE001283; AccessionNumber=B20220161705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -95,5 +96,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:26:23.817Z",
+    "accession": "B20220161705",
+    "document_id": "CE001283",
+    "unique_document_id": "233848",
+    "upstream_status": "Valid",
+    "start_date": "2022-12-28",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

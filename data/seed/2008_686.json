@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om etablering og drift af renserier\\n(Ophævelse af sunset-klausul og ændring af regel om kontaktvand)",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-06-19",
+  "in_force_date": "2008-06-28",
   "url": "https://www.retsinformation.dk/eli/lta/2008/686/xml",
-  "description": "Retsinformation source. DocumentId=AL001843; AccessionNumber=B20080068605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AL001843; AccessionNumber=B20080068605; Ophævet 2010-01-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "11",
@@ -19,9 +20,20 @@
       "provision_ref": "11",
       "section": "11",
       "content": "§ 11. Kontaktvand må ikke afledes til kloak, men skal opsamles og bortskaffes som affald, jf. dog stk. 2. Stk. 2. Renserier, der anvender kulbrinter, og som ikke anvender andre renseforstærkere, der indeholder chlorerede hydrocarboner, kan dog søge kommunalbestyrelsen om tilladelse til afledning af kontaktvandet til kloak.",
-      "valid_from": "2008-06-19",
-      "valid_to": null
+      "valid_from": "2008-06-28",
+      "valid_to": "2010-01-27"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:24:43.510Z",
+    "accession": "B20080068605",
+    "document_id": "AL001843",
+    "unique_document_id": "120234",
+    "upstream_status": "Historic",
+    "start_date": "2008-06-28",
+    "end_date": "2022-04-09",
+    "historic_marked": "2010-01-27",
+    "seed_status": "repealed"
+  }
 }

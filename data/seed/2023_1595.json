@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2023-12-12",
+  "in_force_date": "2023-12-13",
   "url": "https://www.retsinformation.dk/eli/lta/2023/1595/xml",
   "description": "Retsinformation source. DocumentId=BE009687; AccessionNumber=B20230159505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bidraget fra private arbejdsgivere fastsættes for 2024 til 300 kr. for hver gang arbejdsgiveren indberetter et beløb, der svarer til et fuldt års ATP-bidrag, jf. § 15 i lov om Arbejdsmarkedets Tillægspension.",
-      "valid_from": "2023-12-12",
+      "valid_from": "2023-12-13",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2024. Stk. 2. Det for 2024 fastsatte bidrag opkræves første gang på grundlag af ATP-bidrag, der er indberettet vedrørende 1. kvartal 2024 med forfald til betaling den 1. juli 2024.",
-      "valid_from": "2023-12-12",
+      "valid_from": "2023-12-13",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T08:25:35.573Z",
+    "accession": "B20230159505",
+    "document_id": "BE009687",
+    "unique_document_id": "239848",
+    "upstream_status": "Valid",
+    "start_date": "2023-12-13",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

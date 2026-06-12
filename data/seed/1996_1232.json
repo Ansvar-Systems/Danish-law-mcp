@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om DSB Busser A/S",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1996-12-27",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1996/1232/xml",
-  "description": "Retsinformation source. DocumentId=CM042817; AccessionNumber=A19960123230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM042817; AccessionNumber=A19960123230; Ophævet 2024-11-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T15:10:19.357Z",
+    "accession": "A19960123230",
+    "document_id": "CM042817",
+    "unique_document_id": "83427",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2024-11-06",
+    "historic_marked": "2024-11-05",
+    "seed_status": "repealed"
+  }
 }

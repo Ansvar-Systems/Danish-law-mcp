@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2019-08-22",
+  "in_force_date": "2019-08-24",
   "url": "https://www.retsinformation.dk/eli/lta/2019/852/xml",
   "description": "Retsinformation source. DocumentId=BE008037; AccessionNumber=B20190085205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -51,7 +52,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen finder anvendelse på ferieydelse optjent efter barselslovens §§ 25 a og c under fravær efter § 7, stk. 1 eller 2, eller § 8, stk. 6, 1. pkt. i barselsloven i perioden fra den 1. september 2019 til den 31. august 2020.",
-      "valid_from": "2019-08-22",
+      "valid_from": "2019-08-24",
       "valid_to": null
     },
     {
@@ -59,7 +60,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Ferieydelse optjenes med 0,07 feriedag pr. kalenderdag svarende til 0,49 feriedag pr. uge og beregnes efter barselslovens § 33, stk. 1, og § 35. Stk. 2 Hvis lønmodtageren genoptager arbejdet helt eller delvist i fraværsperioden, jf. § 1, optjenes der ikke ferieydelse for den tid, arbejdet er genoptaget.",
-      "valid_from": "2019-08-22",
+      "valid_from": "2019-08-24",
       "valid_to": null
     },
     {
@@ -67,7 +68,7 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. For lønmodtagere, der i fraværsperioden efter § 1 har en lavere indtægt end før orloven, og som optjener feriegodtgørelse, som er lavere end den fulde ferieydelse ville have været, jf. § 2, stk. 1, udgør ferieydelsen pr. dag differencen mellem den optjente feriegodtgørelse og den fulde ferieydelse.",
-      "valid_from": "2019-08-22",
+      "valid_from": "2019-08-24",
       "valid_to": null
     },
     {
@@ -75,7 +76,7 @@
       "chapter": "1",
       "section": "4",
       "content": "§ 4. Anmodning om udbetaling af ferieydelse indgives til Udbetaling Danmark via den digitale løsning, som Udbetaling Danmark stiller til rådighed (digital selvbetjening). En borger, som er undtaget fra digital selvbetjening efter § 2 i bekendtgørelse om obligatorisk digital selvbetjening vedrørende ansøgninger og meddelelser m.v. om sociale ydelser m.v., skal anmode Udbetaling Danmark om ferieydelse på en blanket, der anvises af Udbetaling Danmark. Stk. 2. Modtageren af ferieydelse skal ved anmodning om udbetaling af ferieydelse erklære, at der ikke er ret til anden økonomisk ydelse under ferien, jf. dog § 2, stk. 2, og § 3.",
-      "valid_from": "2019-08-22",
+      "valid_from": "2019-08-24",
       "valid_to": null
     },
     {
@@ -83,7 +84,7 @@
       "chapter": "1",
       "section": "5",
       "content": "§ 5. Anmodning om udbetaling af ferieydelse optjent efter barselslovens §§ 25 a eller c, for ferie, som holdes, skal indgives senest den 1. maj 2021. Stk. 2. Anmodning om udbetaling af ferieydelse optjent efter barselslovens § 25 a for ferie, som holdes i den efterfølgende ferieafholdelsesperiode, jf. barselslovens § 25 a, stk. 4 og 5, skal indgives senest den 1. maj efter udløbet af den ferieafholdelsesperiode, hvor ferien kan holdes. Stk. 3. Anmodning om udbetaling af ferieydelse optjent efter barselslovens § 25 a, og som udbetales, uden at ferien holdes, jf. barselslovens § 25 a, stk. 3, 2. pkt., skal indgives senest den 1. maj 2021. Stk. 4. Indgives anmodningen efter fristerne efter stk. 1-3, bortfalder retten til ferieydelsen.",
-      "valid_from": "2019-08-22",
+      "valid_from": "2019-08-24",
       "valid_to": null
     },
     {
@@ -91,9 +92,20 @@
       "chapter": "1",
       "section": "6",
       "content": "§ 6. Bekendtgørelsen træder i kraft den 1. september 2019.",
-      "valid_from": "2019-08-22",
+      "valid_from": "2019-08-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:22:32.136Z",
+    "accession": "B20190085205",
+    "document_id": "BE008037",
+    "unique_document_id": "210039",
+    "upstream_status": "Valid",
+    "start_date": "2019-08-24",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

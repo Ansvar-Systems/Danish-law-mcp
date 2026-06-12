@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om leje, lov om midlertidig regulering af boligforholdene og lov om leje af almene boliger",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-31",
+  "in_force_date": "2000-06-01",
   "url": "https://www.retsinformation.dk/eli/lta/2000/405/xml",
-  "description": "Retsinformation source. DocumentId=AC000262; AccessionNumber=A20000040530; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AC000262; AccessionNumber=A20000040530; Ophævet 2019-11-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:18:03.216Z",
+    "accession": "A20000040530",
+    "document_id": "AC000262",
+    "unique_document_id": "4081",
+    "upstream_status": "Historic",
+    "start_date": "2000-06-01",
+    "end_date": "2023-04-28",
+    "historic_marked": "2019-11-05",
+    "seed_status": "repealed"
+  }
 }

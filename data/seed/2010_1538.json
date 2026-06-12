@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om arbejdsmiljø\\n(Omprioritering af partsindsatsen m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2010/1538/xml",
-  "description": "Retsinformation source. DocumentId=BE004473; AccessionNumber=A20100153830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE004473; AccessionNumber=A20100153830; Ophævet 2017-09-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "68",
@@ -20,8 +21,19 @@
       "section": "68",
       "content": "§ 68 a. Beskæftigelsesministeren fordeler efter indstilling fra Arbejdsmiljørådet de tilvejebragte midler efter § 68 til gennemførelse af arbejdsmiljøindsatsen og melder til­skuds­rammer ud til Arbejdsmiljørådets aktiviteter, de enkelte branchearbejdsmiljøråd og Videncenter for Arbejdsmiljø. Stk. 2. Beskæftigelsesministeren fastlægger nærmere vilkår for midlernes anvendelse. Stk. 3. Arbejdsmiljørådet og de enkelte branchearbejdsmiljøråd træffer inden for den udmeldte tilskudsramme og de fastlagte vilkår bestemmelse om, hvilke aktiviteter der skal gennemføres. Stk. 4. Beskæftigelsesministeren kan bestemme, at tilskud tilbageholdes, bortfalder eller kræves tilbagebetalt, såfremt vilkår for midlernes anvendelse ikke overholdes. Stk. 5. Uforbrugte midler, herunder bortfaldne eller tilbagebetalte tilskud efter stk. 4, indgår i en fornyet fordeling efter reglerne i stk. 1. Stk. 6. Beskæftigelsesministeren fastsætter nærmere regler om udbetaling af tilskud, udarbejdelse af planer for branchearbejdsmiljørådenes virksomhed, regnskabsaflæggelse og efterregulering m.v. Beskæftigelsesministeren kan bestemme, at tilskud kan udbetales a conto. Revisionen af regnskaberne varetages af rigsrevisor efter reglerne i lov om revisionen af statens regnskaber m.m.",
       "valid_from": "2010-12-21",
-      "valid_to": null
+      "valid_to": "2017-09-21"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T02:56:50.237Z",
+    "accession": "A20100153830",
+    "document_id": "BE004473",
+    "unique_document_id": "135215",
+    "upstream_status": "Historic",
+    "start_date": "2010-12-21",
+    "end_date": "2026-06-12",
+    "historic_marked": "2017-09-21",
+    "seed_status": "repealed"
+  }
 }

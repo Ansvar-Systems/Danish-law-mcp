@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2024-02-27",
+  "in_force_date": "2024-03-04",
   "url": "https://www.retsinformation.dk/eli/lta/2024/210/xml",
   "description": "Retsinformation source. DocumentId=CQ002804; AccessionNumber=B20240021005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -33,7 +34,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende pengesedler indkaldes: 1) Danske pengesedler udstedt fra den 23. juli 1945 til og med den 23. maj 2011 hidrørende fra 1944-serien, 1952-serien, 1972-serien og 1997-serien, såfremt de ikke allerede er indkaldt. 2) Danske pengesedler med en pålydende værdi af 1.000 kr. udstedt fra den 24. maj 2011 og frem hidrørende fra 2009-serien. Stk. 2. De indkaldte sedler fortsætter med at være lovligt betalingsmiddel til og med den 31. maj 2025.",
-      "valid_from": "2024-02-27",
+      "valid_from": "2024-03-04",
       "valid_to": null
     },
     {
@@ -41,7 +42,7 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. De indkaldte sedler, jf. § 1, stk. 1, kan indløses i Danmarks Nationalbank til og med den 31. maj 2026, jf. dog stk. 2. Stk. 2. Danmarks Nationalbank kan indløse sedlerne på et senere tidspunkt, såfremt omstændighederne taler herfor.",
-      "valid_from": "2024-02-27",
+      "valid_from": "2024-03-04",
       "valid_to": null
     },
     {
@@ -49,9 +50,20 @@
       "chapter": "1",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 15. marts 2024.",
-      "valid_from": "2024-02-27",
+      "valid_from": "2024-03-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:55:24.509Z",
+    "accession": "B20240021005",
+    "document_id": "CQ002804",
+    "unique_document_id": "242100",
+    "upstream_status": "Valid",
+    "start_date": "2024-03-04",
+    "end_date": "2024-03-05",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

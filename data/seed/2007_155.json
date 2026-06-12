@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om recepter",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-02-20",
+  "in_force_date": "2007-03-01",
   "url": "https://www.retsinformation.dk/eli/lta/2007/155/xml",
-  "description": "Retsinformation source. DocumentId=AI003348; AccessionNumber=B20070015505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI003348; AccessionNumber=B20070015505; Ophævet 2011-12-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:08:52.777Z",
+    "accession": "B20070015505",
+    "document_id": "AI003348",
+    "unique_document_id": "11345",
+    "upstream_status": "Historic",
+    "start_date": "2007-03-01",
+    "end_date": "2022-07-12",
+    "historic_marked": "2011-12-28",
+    "seed_status": "repealed"
+  }
 }

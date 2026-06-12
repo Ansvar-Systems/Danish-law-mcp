@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til investeringer i anlæg til fremstilling af biogas",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2011-01-14",
+  "in_force_date": "2011-01-18",
   "url": "https://www.retsinformation.dk/eli/lta/2011/26/xml",
-  "description": "Retsinformation source. DocumentId=AH004123; AccessionNumber=B20110002605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004123; AccessionNumber=B20110002605; Ophævet 2012-03-28. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4 a. Uanset § 4, stk. 2, kan der ikke indsendes ansøgning om tilskud til biogas fællesanlæg fra den 1. februar 2011.",
-      "valid_from": "2011-01-14",
-      "valid_to": null
+      "valid_from": "2011-01-18",
+      "valid_to": "2012-03-28"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:00:05.301Z",
+    "accession": "B20110002605",
+    "document_id": "AH004123",
+    "unique_document_id": "135449",
+    "upstream_status": "Historic",
+    "start_date": "2011-01-18",
+    "end_date": "2022-04-08",
+    "historic_marked": "2012-03-28",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om tilskud til modernisering af fiskerfartøjer og til selektive fiskeredskaber",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2012-01-13",
+  "in_force_date": "2012-01-14",
   "url": "https://www.retsinformation.dk/eli/lta/2012/16/xml",
-  "description": "Retsinformation source. DocumentId=AH004474; AccessionNumber=B20120001605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH004474; AccessionNumber=B20120001605; Ophævet 2012-10-15. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "6a",
@@ -19,9 +20,20 @@
       "provision_ref": "6a",
       "section": "6a",
       "content": "§ 6a. Uanset § 6 kan der efter den 14. januar 2012 ikke indgives ansøgning om tilsagn om tilskud.",
-      "valid_from": "2012-01-13",
-      "valid_to": null
+      "valid_from": "2012-01-14",
+      "valid_to": "2012-10-15"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:49:17.748Z",
+    "accession": "B20120001605",
+    "document_id": "AH004474",
+    "unique_document_id": "140111",
+    "upstream_status": "Historic",
+    "start_date": "2012-01-14",
+    "end_date": "2022-04-09",
+    "historic_marked": "2012-10-15",
+    "seed_status": "repealed"
+  }
 }

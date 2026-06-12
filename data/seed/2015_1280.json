@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2015-11-19",
+  "in_force_date": "2015-11-24",
   "url": "https://www.retsinformation.dk/eli/lta/2015/1280/xml",
   "description": "Retsinformation source. DocumentId=CH000082; AccessionNumber=B20150128005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Bekendtgørelsen gennemfører Kommissionens beslutning nr. 2009/965/EF af 30. november 2009 om det referencedokument, der er omhandlet i artikel 27, stk. 4, i Europa-Parlamentets og Rådets direktiv 2008/57/EF om interoperabilitet i jernbanesystemet i Fællesskabet. Stk. 2. Beslutning 2009/965/EF samt berigtigelse er optaget som bilag til denne bekendtgørelse.",
-      "valid_from": "2015-11-19",
+      "valid_from": "2015-11-24",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2016.",
-      "valid_from": "2015-11-19",
+      "valid_from": "2015-11-24",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:33:44.581Z",
+    "accession": "B20150128005",
+    "document_id": "CH000082",
+    "unique_document_id": "175193",
+    "upstream_status": "Valid",
+    "start_date": "2015-11-24",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

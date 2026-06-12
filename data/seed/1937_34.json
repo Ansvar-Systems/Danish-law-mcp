@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om Nævningernes Adgang til at indstille til Benaadning.",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1937-02-26",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1937/34/xml",
-  "description": "Retsinformation source. DocumentId=CM016205; AccessionNumber=B19370003403; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM016205; AccessionNumber=B19370003403; Ophævet 2001-07-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-10T20:49:48.848Z",
+    "accession": "B19370003403",
+    "document_id": "CM016205",
+    "unique_document_id": "57278",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2001-11-24",
+    "historic_marked": "2001-07-01",
+    "seed_status": "repealed"
+  }
 }

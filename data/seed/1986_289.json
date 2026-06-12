@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om forbud mod handel med Den Sydafrikanske Republik og Namibia",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-06-04",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/289/xml",
-  "description": "Retsinformation source. DocumentId=CM031242; AccessionNumber=A19860028930; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM031242; AccessionNumber=A19860028930; Ophævet 1996-02-22. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:06:03.977Z",
+    "accession": "A19860028930",
+    "document_id": "CM031242",
+    "unique_document_id": "72051",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "1998-10-11",
+    "historic_marked": "1996-02-22",
+    "seed_status": "repealed"
+  }
 }

@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om forskellige rentesatser på studiegældsområdet",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2004-06-15",
+  "in_force_date": "2004-06-24",
   "url": "https://www.retsinformation.dk/eli/lta/2004/537/xml",
-  "description": "Retsinformation source. DocumentId=AE000781; AccessionNumber=B20040053705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AE000781; AccessionNumber=B20040053705; Ophævet 2004-12-29. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T21:30:07.508Z",
+    "accession": "B20040053705",
+    "document_id": "AE000781",
+    "unique_document_id": "5656",
+    "upstream_status": "Historic",
+    "start_date": "2004-06-24",
+    "end_date": "2013-08-01",
+    "historic_marked": "2004-12-29",
+    "seed_status": "repealed"
+  }
 }

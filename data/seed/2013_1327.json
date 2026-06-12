@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om ikrafttræden af visse bestemmelser i lov om ændring af lov om ferie og lov om et indkomstregister (Erstatningsferie for sygdom under ferien, samtidighedsferie for medhjælp i en privat husstand og personer, som er omfattet af forskerskatteordningen, og indberetning til indkomstregisteret m.v.)",
   "short_name": "BEK I#LOKDOK06",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2013-11-28",
+  "in_force_date": "2013-11-29",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1327/xml",
-  "description": "Retsinformation source. DocumentId=BE005615; AccessionNumber=B20130132705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BE005615; AccessionNumber=B20130132705; Ophævet 2015-01-26. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. § 1, nr. 7 og 8, i lov nr. 377 af 28. april 2012 om ændring af lov om ferie og lov om et indkomstregister (Erstatningsferie for sygdom under ferien, samtidighedsferie for medhjælp i en privat husstand og personer, som er omfattet af forskerskatteordningen, og indberetning til indkomstregisteret m.v.) sættes i kraft.",
-      "valid_from": "2013-11-28",
-      "valid_to": null
+      "valid_from": "2013-11-29",
+      "valid_to": "2015-01-26"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. § 2 i lov nr. 377 af 28. april 2012 om ændring af lov om ferie og lov om et indkomstregister (Erstatningsferie for sygdom under ferien, samtidighedsferie for medhjælp i en privat husstand og personer, som er omfattet af forskerskatteordningen, og indberetning til indkomstregisteret m.v.) sættes i kraft.",
-      "valid_from": "2013-11-28",
-      "valid_to": null
+      "valid_from": "2013-11-29",
+      "valid_to": "2015-01-26"
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 1. december 2013.",
-      "valid_from": "2013-11-28",
-      "valid_to": null
+      "valid_from": "2013-11-29",
+      "valid_to": "2015-01-26"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:39:28.542Z",
+    "accession": "B20130132705",
+    "document_id": "BE005615",
+    "unique_document_id": "158657",
+    "upstream_status": "Historic",
+    "start_date": "2013-11-29",
+    "end_date": "2026-06-12",
+    "historic_marked": "2015-01-26",
+    "seed_status": "repealed"
+  }
 }

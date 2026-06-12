@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2013-06-12",
+  "in_force_date": "2013-06-12",
   "url": "https://www.retsinformation.dk/eli/lta/2013/618/xml",
   "description": "Retsinformation source. DocumentId=BP000527; AccessionNumber=A20130061830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -1210,5 +1211,16 @@
       "definition": "i dette kapitel 1) olie, der transporteres i bulk, som beskrevet i regel I i bilag I til den internationale konvention om forebyggelse af forurening fra skibe, 1973, som ændret ved protokollen hertil af 1978 (MARPOL 73/78), 2) skadelige flydende stoffer, der transporteres i bulk, som beskrevet i regel 1",
       "source_provision": "212"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:11:37.282Z",
+    "accession": "A20130061830",
+    "document_id": "BP000527",
+    "unique_document_id": "152132",
+    "upstream_status": "Valid",
+    "start_date": "2013-06-12",
+    "end_date": "2025-06-25",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

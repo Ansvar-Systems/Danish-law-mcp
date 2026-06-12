@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om vejnavne og adresser",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-12-12",
+  "in_force_date": "2006-12-21",
   "url": "https://www.retsinformation.dk/eli/lta/2006/1398/xml",
-  "description": "Retsinformation source. DocumentId=AU002665; AccessionNumber=B20060139805; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AU002665; AccessionNumber=B20060139805; Ophævet 2014-05-05. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T22:58:48.174Z",
+    "accession": "B20060139805",
+    "document_id": "AU002665",
+    "unique_document_id": "27425",
+    "upstream_status": "Historic",
+    "start_date": "2006-12-21",
+    "end_date": "2021-01-08",
+    "historic_marked": "2014-05-05",
+    "seed_status": "repealed"
+  }
 }

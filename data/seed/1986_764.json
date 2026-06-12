@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om højere handelseksamen",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1986-11-05",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1986/764/xml",
-  "description": "Retsinformation source. DocumentId=CM032957; AccessionNumber=B19860076405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM032957; AccessionNumber=B19860076405; Ophævet 1991-11-21. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T09:20:19.909Z",
+    "accession": "B19860076405",
+    "document_id": "CM032957",
+    "unique_document_id": "73759",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2021-01-08",
+    "historic_marked": "1991-11-21",
+    "seed_status": "repealed"
+  }
 }

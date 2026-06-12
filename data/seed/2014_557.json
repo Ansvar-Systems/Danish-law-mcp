@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2014-05-26",
+  "in_force_date": "2014-06-04",
   "url": "https://www.retsinformation.dk/eli/lta/2014/557/xml",
   "description": "Retsinformation source. DocumentId=BL000932; AccessionNumber=B20140055705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Lov om offentlighed i forvaltningen finder ikke anvendelse på følgende selskaber: 1) Grenaa Havn A/S. 2) ADP A/S og datterselskaberne Fredericia Havn A/S, Fredericia Havn Ejendomme I A/S, Nyborg Havn A/S og Nyborg Havn Ejendomme I A/S. 3) Billund Lufthavn A/S. 4) Aarhus Lufthavn A/S.",
-      "valid_from": "2014-05-26",
+      "valid_from": "2014-06-04",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 15. juni 2014.",
-      "valid_from": "2014-05-26",
+      "valid_from": "2014-06-04",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:07:28.533Z",
+    "accession": "B20140055705",
+    "document_id": "BL000932",
+    "unique_document_id": "163392",
+    "upstream_status": "Valid",
+    "start_date": "2014-06-04",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

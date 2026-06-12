@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om ændring af lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner",
   "short_name": "Ændringslov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-25",
+  "in_force_date": "2000-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/381/xml",
-  "description": "Retsinformation source. DocumentId=AI000345; AccessionNumber=A20000038130; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AI000345; AccessionNumber=A20000038130; Ophævet 1900-01-01. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:17:03.951Z",
+    "accession": "A20000038130",
+    "document_id": "AI000345",
+    "unique_document_id": "8948",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-29",
+    "end_date": "2023-04-29",
+    "historic_marked": "1900-01-01",
+    "seed_status": "repealed"
+  }
 }

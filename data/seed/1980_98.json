@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om skibes sikkerhed m.v. (* 1)",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1980-03-12",
+  "in_force_date": "1997-09-24",
   "url": "https://www.retsinformation.dk/eli/lta/1980/98/xml",
-  "description": "Retsinformation source. DocumentId=CM025364; AccessionNumber=A19800009830; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM025364; AccessionNumber=A19800009830; Ophævet 1989-03-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T08:06:28.916Z",
+    "accession": "A19800009830",
+    "document_id": "CM025364",
+    "unique_document_id": "66245",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-24",
+    "end_date": "2023-01-13",
+    "historic_marked": "1989-03-09",
+    "seed_status": "repealed"
+  }
 }

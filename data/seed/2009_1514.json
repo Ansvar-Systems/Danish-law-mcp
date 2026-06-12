@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Lov om ændring af lov om byfornyelse og udvikling af byer\\n(Energiforbedrende foranstaltninger m.v.)",
   "short_name": "LOV Æ#LOKDOK02",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2009-12-27",
+  "in_force_date": "2009-12-28",
   "url": "https://www.retsinformation.dk/eli/lta/2009/1514/xml",
-  "description": "Retsinformation source. DocumentId=BM000301; AccessionNumber=A20090151430; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BM000301; AccessionNumber=A20090151430; Ophævet 2010-02-08. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "38",
@@ -19,9 +20,20 @@
       "provision_ref": "38",
       "section": "38",
       "content": "§ 38 b. Støtte kan ydes til istandsættelse af bygningens klimaskærm, etablering af tilgængelighedsforanstaltninger og afhjælpning af kondemnable forhold. Stk. 2. I sager efter § 38 a finder bestemmelserne i §§ 23-25 om ansøgnings- og beslutningsprocedure anvendelse, og fastsættelse af støtte samt finansiering og refusion ydes efter §§ 26-29 og 34.",
-      "valid_from": "2009-12-27",
-      "valid_to": null
+      "valid_from": "2009-12-28",
+      "valid_to": "2010-02-08"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:58:33.116Z",
+    "accession": "A20090151430",
+    "document_id": "BM000301",
+    "unique_document_id": "129535",
+    "upstream_status": "Historic",
+    "start_date": "2009-12-28",
+    "end_date": "2023-04-29",
+    "historic_marked": "2010-02-08",
+    "seed_status": "repealed"
+  }
 }

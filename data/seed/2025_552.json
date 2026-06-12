@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-05-26",
+  "in_force_date": "2025-05-26",
   "url": "https://www.retsinformation.dk/eli/lta/2025/552/xml",
   "description": "Retsinformation source. DocumentId=DI001457; AccessionNumber=B20250055205; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -333,5 +334,16 @@
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:16:38.171Z",
+    "accession": "B20250055205",
+    "document_id": "DI001457",
+    "unique_document_id": "249901",
+    "upstream_status": "Valid",
+    "start_date": "2025-05-26",
+    "end_date": "2025-05-27",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

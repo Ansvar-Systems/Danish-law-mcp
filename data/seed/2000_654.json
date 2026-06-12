@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om indkomstgrundlaget i en række love.",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-06-26",
+  "in_force_date": "2000-07-13",
   "url": "https://www.retsinformation.dk/eli/lta/2000/654/xml",
-  "description": "Retsinformation source. DocumentId=AN001124; AccessionNumber=B20000065405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AN001124; AccessionNumber=B20000065405; Ophævet 2005-12-09. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:28:03.809Z",
+    "accession": "B20000065405",
+    "document_id": "AN001124",
+    "unique_document_id": "13918",
+    "upstream_status": "Historic",
+    "start_date": "2000-07-13",
+    "end_date": "2007-08-09",
+    "historic_marked": "2005-12-09",
+    "seed_status": "repealed"
+  }
 }

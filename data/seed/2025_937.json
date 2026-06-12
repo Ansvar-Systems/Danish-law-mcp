@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2025-06-18",
+  "in_force_date": "2025-06-30",
   "url": "https://www.retsinformation.dk/eli/lta/2025/937/xml",
   "description": "Retsinformation source. DocumentId=BE010242; AccessionNumber=B20250093705; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -27,7 +28,7 @@
       "chapter": "1",
       "section": "1",
       "content": "§ 1. Følgende bekendtgørelser ophæves: 1) Bekendtgørelse nr. 1601 af 27. december 2019 om fastsættelse og regulering af omregningssats for personer, der ikke har fast arbejdstid. 2) Bekendtgørelse nr. 1044 af 24. juni 2022 om danskbonus efter lov om aktiv socialpolitik. 3) Bekendtgørelse nr. 1625 af 5. december 2024 om kommunernes pligt til varsling, vejledning m.v. af modtagere af selvforsørgelses- og hjemrejseydelse, overgangsydelse, uddannelseshjælp eller kontanthjælp, hvis hjælp kan bortfalde eller blive nedsat som følge af 225-timersreglen.",
-      "valid_from": "2025-06-18",
+      "valid_from": "2025-06-30",
       "valid_to": null
     },
     {
@@ -35,9 +36,20 @@
       "chapter": "1",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. juli 2025.",
-      "valid_from": "2025-06-18",
+      "valid_from": "2025-06-30",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:32:16.552Z",
+    "accession": "B20250093705",
+    "document_id": "BE010242",
+    "unique_document_id": "250497",
+    "upstream_status": "Valid",
+    "start_date": "2025-06-30",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

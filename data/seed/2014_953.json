@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om pas m.v.",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-08-28",
+  "in_force_date": "2014-08-29",
   "url": "https://www.retsinformation.dk/eli/lta/2014/953/xml",
-  "description": "Retsinformation source. DocumentId=AA008148; AccessionNumber=B20140095305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AA008148; AccessionNumber=B20140095305; Ophævet 2021-12-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T07:23:25.654Z",
+    "accession": "B20140095305",
+    "document_id": "AA008148",
+    "unique_document_id": "164576",
+    "upstream_status": "Historic",
+    "start_date": "2014-08-29",
+    "end_date": "2021-12-31",
+    "historic_marked": "2021-12-30",
+    "seed_status": "repealed"
+  }
 }

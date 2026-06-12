@@ -5,6 +5,7 @@
   "short_name": "BEK H#LOKDOK04",
   "status": "in_force",
   "issued_date": "2012-02-01",
+  "in_force_date": "2012-02-15",
   "url": "https://www.retsinformation.dk/eli/lta/2012/133/xml",
   "description": "Retsinformation source. DocumentId=AL002567; AccessionNumber=B20120013305; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -29,23 +30,34 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. Denne bekendtgørelse gælder for områder ved den jyske vestkyst, der er afgrænset som angivet i bilag 1.",
-      "valid_from": "2012-02-01",
+      "valid_from": "2012-02-15",
       "valid_to": null
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Områderne forbeholdes råstofforsyning. Med henblik på bevarelse af ressourcen til råstofforsyning til fremtidig kystbeskyttelse må der ikke ske råstofindvinding eller anden arealanvendelse, der er til gene for udnyttelse af råstofressourcen.",
-      "valid_from": "2012-02-01",
+      "valid_from": "2012-02-15",
       "valid_to": null
     },
     {
       "provision_ref": "3",
       "section": "3",
       "content": "§ 3. Bekendtgørelsen træder i kraft den 16. februar 2012.",
-      "valid_from": "2012-02-01",
+      "valid_from": "2012-02-15",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T04:43:18.978Z",
+    "accession": "B20120013305",
+    "document_id": "AL002567",
+    "unique_document_id": "140046",
+    "upstream_status": "Valid",
+    "start_date": "2012-02-15",
+    "end_date": "2024-11-28",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

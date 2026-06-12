@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Lov om æg og ægprodukter",
   "short_name": "Lov",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1992-04-29",
+  "in_force_date": "1997-09-25",
   "url": "https://www.retsinformation.dk/eli/lta/1992/290/xml",
-  "description": "Retsinformation source. DocumentId=CM038978; AccessionNumber=A19920029030; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM038978; AccessionNumber=A19920029030; Ophævet 2005-11-30. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:24:27.988Z",
+    "accession": "A19920029030",
+    "document_id": "CM038978",
+    "unique_document_id": "79765",
+    "upstream_status": "Historic",
+    "start_date": "1997-09-25",
+    "end_date": "2023-07-11",
+    "historic_marked": "2005-11-30",
+    "seed_status": "repealed"
+  }
 }

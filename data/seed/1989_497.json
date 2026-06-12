@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse af lov om social pension (Pensionsloven)",
   "short_name": "Lovbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1989-07-04",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1989/497/xml",
-  "description": "Retsinformation source. DocumentId=CM012617; AccessionNumber=A19890049729; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM012617; AccessionNumber=A19890049729; Ophævet 1992-06-04. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T10:44:44.504Z",
+    "accession": "A19890049729",
+    "document_id": "CM012617",
+    "unique_document_id": "53752",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-12-28",
+    "historic_marked": "1992-06-04",
+    "seed_status": "repealed"
+  }
 }

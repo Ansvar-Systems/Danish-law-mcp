@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om økonomisk regulering af Energinet.dk",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2006-09-21",
+  "in_force_date": "2006-09-28",
   "url": "https://www.retsinformation.dk/eli/lta/2006/965/xml",
-  "description": "Retsinformation source. DocumentId=AR001243; AccessionNumber=B20060096505; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AR001243; AccessionNumber=B20060096505; Ophævet 2016-06-27. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T23:45:04.605Z",
+    "accession": "B20060096505",
+    "document_id": "AR001243",
+    "unique_document_id": "22603",
+    "upstream_status": "Historic",
+    "start_date": "2006-09-28",
+    "end_date": "2021-01-08",
+    "historic_marked": "2016-06-27",
+    "seed_status": "repealed"
+  }
 }

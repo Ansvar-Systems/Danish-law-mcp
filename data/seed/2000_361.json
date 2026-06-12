@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om ændring af bekendtgørelse om plantesortsnavne",
   "short_name": "Ændringsbekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2000-05-18",
+  "in_force_date": "2000-05-29",
   "url": "https://www.retsinformation.dk/eli/lta/2000/361/xml",
-  "description": "Retsinformation source. DocumentId=AH000628; AccessionNumber=B20000036105; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH000628; AccessionNumber=B20000036105; Ophævet 2010-12-20. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T18:16:16.104Z",
+    "accession": "B20000036105",
+    "document_id": "AH000628",
+    "unique_document_id": "7000",
+    "upstream_status": "Historic",
+    "start_date": "2000-05-29",
+    "end_date": "2022-04-08",
+    "historic_marked": "2010-12-20",
+    "seed_status": "repealed"
+  }
 }

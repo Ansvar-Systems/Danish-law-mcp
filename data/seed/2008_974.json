@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelsen og ændring af bekendtgørelse mod indførsel af visse fødevarer fra Kina",
   "short_name": "BEK Æ#LOKDOK05",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2008-09-29",
+  "in_force_date": "2008-09-30",
   "url": "https://www.retsinformation.dk/eli/lta/2008/974/xml",
-  "description": "Retsinformation source. DocumentId=AH003063; AccessionNumber=B20080097405; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AH003063; AccessionNumber=B20080097405; Ophævet 2008-10-16. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "4",
@@ -19,9 +20,20 @@
       "provision_ref": "4",
       "section": "4",
       "content": "§ 4. Med bøde straffes den, der overtræder §§ 1 eller 3. Stk. 2. Straffen kan stige til fængsel i indtil 2 år, hvis den ved handlingen eller undladelsen skete overtrædelse er begået med forsæt eller grov uagtsomhed og der ved overtrædelsen er 1) forvoldt skade på sundheden eller fremkaldt fare herfor, eller 2) opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre.",
-      "valid_from": "2008-09-29",
-      "valid_to": null
+      "valid_from": "2008-09-30",
+      "valid_to": "2008-10-16"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T01:36:28.374Z",
+    "accession": "B20080097405",
+    "document_id": "AH003063",
+    "unique_document_id": "121458",
+    "upstream_status": "Historic",
+    "start_date": "2008-09-30",
+    "end_date": "2022-04-09",
+    "historic_marked": "2008-10-16",
+    "seed_status": "repealed"
+  }
 }

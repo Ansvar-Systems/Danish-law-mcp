@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Bekendtgørelse om godtgørelse for boligudgifter m.v. for medlemmer af Folketinget",
   "short_name": "Bekendtgørelse",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2007-02-07",
+  "in_force_date": "2007-03-05",
   "url": "https://www.retsinformation.dk/eli/lta/2007/170/xml",
-  "description": "Retsinformation source. DocumentId=AX009142; AccessionNumber=B20070017005; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=AX009142; AccessionNumber=B20070017005; Ophævet 2007-10-02. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T00:11:28.524Z",
+    "accession": "B20070017005",
+    "document_id": "AX009142",
+    "unique_document_id": "28874",
+    "upstream_status": "Historic",
+    "start_date": "2007-03-05",
+    "end_date": "2007-10-03",
+    "historic_marked": "2007-10-02",
+    "seed_status": "repealed"
+  }
 }

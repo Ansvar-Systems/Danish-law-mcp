@@ -5,6 +5,7 @@
   "short_name": "LOV Æ#LOKDOK02",
   "status": "in_force",
   "issued_date": "2013-12-26",
+  "in_force_date": "2013-12-27",
   "url": "https://www.retsinformation.dk/eli/lta/2013/1612/xml",
   "description": "Retsinformation source. DocumentId=BE005712; AccessionNumber=A20130161230; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
@@ -25,7 +26,7 @@
       "provision_ref": "42",
       "section": "42",
       "content": "§ 42 b. Personer, der er omfattet af § 2, nr. 2 og 3, har ret til tilbud om virksomhedspraktik, som de selv har fundet, bortset fra nytteindsats efter § 42 a, såfremt betingelserne i dette kapitel i øvrigt er opfyldt. Stk. 2. Arbejdsgiveren og den ledige aftaler varigheden af perioden med virksomhedspraktik.",
-      "valid_from": "2013-12-26",
+      "valid_from": "2013-12-27",
       "valid_to": null
     },
     {
@@ -33,9 +34,20 @@
       "chapter": "4",
       "section": "10",
       "content": "§ 10 a. Lov om offentlighed i forvaltningen finder ikke anvendelse på dokumenter i sager om varsling i forbindelse med afskedigelser af større omfang efter denne lov.",
-      "valid_from": "2013-12-26",
+      "valid_from": "2013-12-27",
       "valid_to": null
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T05:50:54.674Z",
+    "accession": "A20130161230",
+    "document_id": "BE005712",
+    "unique_document_id": "161114",
+    "upstream_status": "Valid",
+    "start_date": "2013-12-27",
+    "end_date": "2026-06-12",
+    "historic_marked": null,
+    "seed_status": "in_force"
+  }
 }

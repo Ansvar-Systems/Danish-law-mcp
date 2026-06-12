@@ -3,11 +3,23 @@
   "type": "statute",
   "title": "Anordning om fastsættelse af sommertid for årene 1993 og 1994",
   "short_name": "Anordning",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "1993-03-12",
+  "in_force_date": "1997-10-01",
   "url": "https://www.retsinformation.dk/eli/lta/1993/117/xml",
-  "description": "Retsinformation source. DocumentId=CM044624; AccessionNumber=B19930011703; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=CM044624; AccessionNumber=B19930011703; Ophævet 1997-06-23. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [],
   "provision_versions": [],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T12:58:48.789Z",
+    "accession": "B19930011703",
+    "document_id": "CM044624",
+    "unique_document_id": "85166",
+    "upstream_status": "Historic",
+    "start_date": "1997-10-01",
+    "end_date": "2022-07-07",
+    "historic_marked": "1997-06-23",
+    "seed_status": "repealed"
+  }
 }

@@ -3,10 +3,11 @@
   "type": "statute",
   "title": "Bekendtgørelse om Dansk radiogrænseflade nr. 00 025 for trådløst PMSE-lydudstyr (Programme Making and Special Events)",
   "short_name": "BEK H#LOKDOK04",
-  "status": "in_force",
+  "status": "repealed",
   "issued_date": "2014-12-12",
+  "in_force_date": "2014-12-16",
   "url": "https://www.retsinformation.dk/eli/lta/2014/1346/xml",
-  "description": "Retsinformation source. DocumentId=BP001040; AccessionNumber=B20140134605; Characters preserved in NFC; ASCII fallback used only for key/file generation.",
+  "description": "Retsinformation source. DocumentId=BP001040; AccessionNumber=B20140134605; Ophævet 2015-06-03. Characters preserved in NFC; ASCII fallback used only for key/file generation.",
   "provisions": [
     {
       "provision_ref": "1",
@@ -24,16 +25,27 @@
       "provision_ref": "1",
       "section": "1",
       "content": "§ 1. For trådløst PMSE-lydudstyr gælder følgende danske radiogrænseflade, jf. bilag 1: Dansk radiogrænseflade nr. 00 025 for trådløst PMSE-lydudstyr (Programme Making and Special Events).",
-      "valid_from": "2014-12-12",
-      "valid_to": null
+      "valid_from": "2014-12-16",
+      "valid_to": "2015-06-03"
     },
     {
       "provision_ref": "2",
       "section": "2",
       "content": "§ 2. Bekendtgørelsen træder i kraft den 1. januar 2015. Stk. 2. Bekendtgørelse nr. 509 af 20. maj 2014 om Dansk radiogrænseflade nr. 00 025 for radiobaserede trådløse mikrofonanlæg, inkl. in-ear monitoring systemer, ophæves.",
-      "valid_from": "2014-12-12",
-      "valid_to": null
+      "valid_from": "2014-12-16",
+      "valid_to": "2015-06-03"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "retrieved_at": "2026-06-12T06:41:03.448Z",
+    "accession": "B20140134605",
+    "document_id": "BP001040",
+    "unique_document_id": "165201",
+    "upstream_status": "Historic",
+    "start_date": "2014-12-16",
+    "end_date": "2026-06-04",
+    "historic_marked": "2015-06-03",
+    "seed_status": "repealed"
+  }
 }
