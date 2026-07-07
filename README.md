@@ -1,10 +1,7 @@
 # Danish Law MCP Server
 
 <!-- ANSVAR-CTA-BEGIN -->
-> ### ▶ Try this MCP instantly via Ansvar Gateway
-> **50 free queries/day · no card required · OAuth signup at [ansvar.eu/gateway](https://ansvar.eu/gateway)**
->
-> One endpoint, one OAuth signup, access from any MCP-compatible client.
+> **The Danish law corpus is now served through the Ansvar Gateway.** Connect your AI assistant (Claude, Copilot, Cursor, or any MCP client) to `https://gateway.ansvar.eu/mcp` — one OAuth connection, free tier available, covering this corpus plus EU regulations, national law across 28 audited jurisdictions (Europe + the US), and CVE/security intelligence, every result with a verbatim source citation. Start at https://ansvar.eu/docs/quickstart
 
 ### Connect
 
