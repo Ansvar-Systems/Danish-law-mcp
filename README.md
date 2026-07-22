@@ -26,7 +26,7 @@ claude mcp add ansvar --transport http https://gateway.ansvar.eu/mcp
 
 **Claude.ai** — Settings → Connectors → Add custom connector → paste `https://gateway.ansvar.eu/mcp`
 
-First request opens an OAuth flow at [ansvar.eu/gateway](https://ansvar.eu/gateway). After signup, your client is bound to your account; tier (free / premium / team / company) determines fan-out, quota, and which downstream MCPs are reachable.
+First request opens an OAuth signup flow (setup details: [ansvar.eu/docs/quickstart](https://ansvar.eu/docs/quickstart)). After signup, your client is bound to your account; tier (free / premium / team / company) determines fan-out, quota, and which downstream MCPs are reachable.
 
 ---
 
@@ -339,7 +339,7 @@ npm run drift:detect                       # Run drift detection
 
 ## More Ansvar MCPs
 
-Full fleet at [ansvar.eu/gateway](https://ansvar.eu/gateway).
+Full fleet coverage at [ansvar.eu/coverage](https://ansvar.eu/coverage).
 ## Contributing
 
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
